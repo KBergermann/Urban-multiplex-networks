@@ -1,0 +1,154 @@
+Parameters:
+alpha_const=0.500000, beta_const=0.500000, maxit_quadrature=5, maxit_fAb=10, top_k_centralities=10
+
+-----Subgraph centrality-----
+Joint centralities:
+ SC_JC_ranking  node_id                  stop_name  layer_id layer_name    value
+             1      389               Köln Dom/Hbf        17        134 1.073897
+             2     1579 Köln Riehl Boltensternstr.        17        134 1.072882
+             3     1717       Köln Sülz Arnulfstr.        17        134 1.068899
+             4     1718       Köln Sülz Arnulfstr.        17        134 1.067962
+             5      189   Köln Breslauer Platz/Hbf        17        134 1.067922
+             6     1750     Köln Sülz Weißhausstr.        17        134 1.067913
+             7     1271              Köln Neumarkt        17        134 1.066267
+             8     1504              Köln Poststr.        17        134 1.066177
+             9       21        Köln Appellhofplatz        17        134 1.066146
+            10      199   Köln Breslauer Platz/Hbf        17        134 1.066012
+Marginal node centralities:
+ SC_MNC_ranking  node_id                stop_name      value
+              1     1271            Köln Neumarkt 105.112208
+              2     1504            Köln Poststr. 105.112107
+              3      389             Köln Dom/Hbf 105.111952
+              4       21      Köln Appellhofplatz 105.109397
+              5     1269            Köln Neumarkt 105.108781
+              6     1505            Köln Poststr. 105.108743
+              7      391             Köln Dom/Hbf 105.097871
+              8      189 Köln Breslauer Platz/Hbf 105.096727
+              9       22      Köln Appellhofplatz 105.095790
+             10      199 Köln Breslauer Platz/Hbf 105.089380
+Marginal layer centralities:
+ SC_MLC_ranking  layer_id layer_name       value
+              1        17        134 2086.584749
+              2        37        155 2085.049494
+              3        24        142 2085.015155
+              4        57        180 2084.692709
+              5        19        136 2084.640451
+              6        50    167/501 2084.619927
+              7        10        126 2084.582781
+              8        16        133 2084.569282
+              9        26        144 2084.568176
+             10        61        184 2084.538079
+
+-----Resolvent-based subgraph centrality-----
+Joint centralities:
+ SCres_JC_ranking  node_id                  stop_name  layer_id layer_name    value
+                1      389               Köln Dom/Hbf        17        134 1.183355
+                2     1579 Köln Riehl Boltensternstr.        17        134 1.179934
+                3     1717       Köln Sülz Arnulfstr.        17        134 1.167879
+                4     1718       Köln Sülz Arnulfstr.        17        134 1.166421
+                5      189   Köln Breslauer Platz/Hbf        17        134 1.165054
+                6     1750     Köln Sülz Weißhausstr.        17        134 1.164748
+                7       21        Köln Appellhofplatz        17        134 1.164156
+                8      199   Köln Breslauer Platz/Hbf        17        134 1.163759
+                9     1271              Köln Neumarkt        17        134 1.162717
+               10      436            Köln Ebertplatz        17        134 1.162006
+Marginal node centralities:
+ SCres_MNC_ranking  node_id                stop_name      value
+                 1      389             Köln Dom/Hbf 105.264023
+                 2     1271            Köln Neumarkt 105.259212
+                 3     1504            Köln Poststr. 105.255623
+                 4       21      Köln Appellhofplatz 105.255264
+                 5     1269            Köln Neumarkt 105.246354
+                 6     1505            Köln Poststr. 105.245038
+                 7      189 Köln Breslauer Platz/Hbf 105.227275
+                 8      391             Köln Dom/Hbf 105.225603
+                 9       22      Köln Appellhofplatz 105.217178
+                10      199 Köln Breslauer Platz/Hbf 105.213867
+Marginal layer centralities:
+ SCres_MLC_ranking  layer_id layer_name       value
+                 1        17        134 2090.165538
+                 2        37        155 2086.217419
+                 3        24        142 2086.163402
+                 4        57        180 2085.449403
+                 5        19        136 2085.327750
+                 6        50    167/501 2085.277567
+                 7        10        126 2085.197881
+                 8        16        133 2085.177852
+                 9        26        144 2085.169456
+                10        61        184 2085.111141
+
+-----Total communicability-----
+Joint communicabilities:
+ TC_JC_ranking  node_id                  stop_name  layer_id layer_name    value
+             1      389               Köln Dom/Hbf        17        134 1.709945
+             2     1579 Köln Riehl Boltensternstr.        17        134 1.702065
+             3     1717       Köln Sülz Arnulfstr.        17        134 1.677562
+             4     1718       Köln Sülz Arnulfstr.        17        134 1.676097
+             5       21        Köln Appellhofplatz        17        134 1.675592
+             6      199   Köln Breslauer Platz/Hbf        17        134 1.673593
+             7      189   Köln Breslauer Platz/Hbf        17        134 1.672404
+             8     1271              Köln Neumarkt        17        134 1.670376
+             9     1750     Köln Sülz Weißhausstr.        17        134 1.669950
+            10      436            Köln Ebertplatz        17        134 1.668512
+Marginal node communicabilities:
+ TC_MNC_ranking  node_id                stop_name      value
+              1     1271            Köln Neumarkt 106.504809
+              2     1504            Köln Poststr. 106.487761
+              3       21      Köln Appellhofplatz 106.484720
+              4     1269            Köln Neumarkt 106.481936
+              5     1505            Köln Poststr. 106.476024
+              6       22      Köln Appellhofplatz 106.400317
+              7      389             Köln Dom/Hbf 106.335002
+              8      391             Köln Dom/Hbf 106.254655
+              9      189 Köln Breslauer Platz/Hbf 106.074131
+             10      199 Köln Breslauer Platz/Hbf 106.033645
+Marginal layer communicabilities:
+ TC_MLC_ranking  layer_id layer_name       value
+              1        17        134 2112.397530
+              2        37        155 2101.603441
+              3        24        142 2099.876591
+              4        50    167/501 2097.613279
+              5        19        136 2096.930563
+              6        10        126 2096.866427
+              7        26        144 2096.503412
+              8        57        180 2096.472979
+              9         5        121 2096.265837
+             10        16        133 2096.148027
+
+-----Katz centrality-----
+Joint centralities:
+ KC_JC_ranking  node_id                  stop_name  layer_id layer_name    value
+             1      389               Köln Dom/Hbf        17        134 2.122947
+             2     1579 Köln Riehl Boltensternstr.        17        134 2.092315
+             3       21        Köln Appellhofplatz        17        134 2.069536
+             4      199   Köln Breslauer Platz/Hbf        17        134 2.068862
+             5      436            Köln Ebertplatz        17        134 2.048821
+             6     1271              Köln Neumarkt        17        134 2.042293
+             7     1589       Köln Riehl Slabystr.        17        134 2.034933
+             8     1546   Köln Reichenspergerplatz        17        134 2.031272
+             9     1587       Köln Riehl Slabystr.        17        134 2.028131
+            10     1718       Köln Sülz Arnulfstr.        17        134 2.027263
+Marginal node centralities:
+ KC_MNC_ranking  node_id                stop_name      value
+              1       21      Köln Appellhofplatz 107.028165
+              2     1271            Köln Neumarkt 107.024301
+              3     1504            Köln Poststr. 106.964485
+              4     1269            Köln Neumarkt 106.947255
+              5     1505            Köln Poststr. 106.926279
+              6      389             Köln Dom/Hbf 106.870726
+              7       22      Köln Appellhofplatz 106.856975
+              8      391             Köln Dom/Hbf 106.713133
+              9      189 Köln Breslauer Platz/Hbf 106.527604
+             10      199 Köln Breslauer Platz/Hbf 106.514245
+Marginal layer centralities:
+ KC_MLC_ranking  layer_id layer_name       value
+              1        17        134 2125.670356
+              2        37        155 2105.072445
+              3        24        142 2103.368360
+              4        50    167/501 2099.406415
+              5        19        136 2098.843551
+              6        57        180 2098.629486
+              7        10        126 2098.480675
+              8        26        144 2098.129540
+              9        16        133 2097.829824
+             10         5        121 2097.316414

@@ -1,0 +1,1169 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,451221,"Altchemnitz, Chemnitz",50.79093,12.925876
+1,346203,Altenhain,50.78935,13.011953
+2,356038,Altenhain,50.789417,13.012232
+3,252130,"Altenhain, Am Erlenwald",50.78721,12.992397
+4,328911,"Altenhain, Am Erlenwald",50.787083,12.993349
+5,151211,"Altenhain, Am Winkel",50.784725,13.000446
+6,263592,"Altenhain, Am Winkel",50.784775,13.000158
+7,308661,"Altenhain, Gh Goldener Hahn",50.78244,12.99343
+8,338598,"Altenhain, Gh Goldener Hahn",50.781464,12.993762
+9,155534,"Altenhain, Rathaus Altenhain",50.786285,13.007426
+10,212858,"Altenhain, Rathaus Altenhain",50.786297,13.007237
+11,176520,"Am Steinberg, Chemnitz",50.78692,12.951676
+12,14053,"Berbisdorf, Abzw Eibenberg",50.763054,12.942082
+13,300267,"Berbisdorf, Abzw Eibenberg",50.762966,12.941965
+14,178839,"Berbisdorf, Am Lehngericht",50.763115,12.937959
+15,217226,"Berbisdorf, Am Lehngericht",50.762722,12.938516
+16,185477,"Berbisdorf, Keglerheim",50.76437,12.94493
+17,393051,"Berbisdorf, Keglerheim",50.764347,12.944696
+18,135678,"Chemn.,Augustusburger/Walter-Klippel-Str",50.82482,12.983512
+19,318532,"Chemn.,Augustusburger/Walter-Klippel-Str",50.82473,12.983638
+20,304648,Chemnitz central bus station,50.84052,12.9264
+21,281824,"Chemnitz, Abzw Kleinolbersdorf",50.793232,12.985588
+22,80753,"Chemnitz, Abzw Kleinolbersdorf",50.793182,12.985543
+23,314856,"Chemnitz, Adelsberg",50.812263,12.988633
+24,317110,"Chemnitz, Adelsbergstr",50.822132,12.975374
+25,377876,"Chemnitz, Adelsbergstr",50.822178,12.975239
+26,278949,"Chemnitz, Albert-Jentzsch-Str",50.81768,12.958791
+27,255309,"Chemnitz, Albert-Köhler-Str",50.792835,12.891875
+28,257811,"Chemnitz, Albert-Köhler-Str",50.792908,12.891777
+29,165625,"Chemnitz, Albert-Schweitzer-Str",50.8363,12.87682
+30,434506,"Chemnitz, Albert-Schweitzer-Str",50.83637,12.877017
+31,23710,"Chemnitz, Alfred-Neubert-Str",50.786087,12.895109
+32,93603,"Chemnitz, Alfred-Neubert-Str",50.78553,12.895127
+33,118711,"Chemnitz, Alt Chemnitz Center",50.796116,12.918358
+34,198179,"Chemnitz, Alt Chemnitz Center",50.79606,12.918124
+35,307391,"Chemnitz, Alt Chemnitz Center",50.7965,12.917756
+36,48411,"Chemnitz, Alt Chemnitz Center",50.79606,12.918744
+37,330527,"Chemnitz, Altchemnitz",50.79072,12.925742
+38,370335,"Chemnitz, Altchemnitz",50.790813,12.925616
+39,388475,"Chemnitz, Altchemnitz",50.790806,12.926371
+40,8212,"Chemnitz, Altchemnitz",50.790573,12.926182
+41,88374,"Chemnitz, Altchemnitz",50.790974,12.926074
+42,15461,"Chemnitz, Altchemnitzer Str",50.81745,12.918483
+43,90831,"Chemnitz, Altchemnitzer Str",50.81704,12.917477
+44,33802,"Chemnitz, Alte Harth",50.778408,12.926011
+45,427030,"Chemnitz, Alte Harth",50.776722,12.925877
+46,29611,"Chemnitz, Altendorfer Str",50.842236,12.897463
+47,78543,"Chemnitz, Altendorfer Str",50.842182,12.897364
+48,374634,"Chemnitz, Am Bahrebach",50.868088,12.878751
+49,378593,"Chemnitz, Am Bahrebach",50.86811,12.878949
+50,102239,"Chemnitz, Am Berg",50.872494,12.915205
+51,419413,"Chemnitz, Am Berg",50.872005,12.914342
+52,70410,"Chemnitz, Am Dorfbach",50.88473,12.982102
+53,228134,"Chemnitz, Am Feldschlößchen",50.821842,12.888794
+54,321358,"Chemnitz, Am Feldschlößchen",50.8226,12.886989
+55,364694,"Chemnitz, Am Feldschlößchen",50.82249,12.886378
+56,43984,"Chemnitz, Am Feldschlößchen",50.82167,12.888552
+57,118466,"Chemnitz, Am Flughafen",50.810978,12.895388
+58,226883,"Chemnitz, Am Flughafen",50.81103,12.895226
+59,346383,"Chemnitz, Am Flughafen",50.810978,12.895091
+60,386644,"Chemnitz, Am Flughafen",50.810722,12.894696
+61,63061,"Chemnitz, Am Flughafen (Wendeschleife)",50.81082,12.89457
+62,251362,"Chemnitz, Am Glücksberg",50.85458,12.919202
+63,360885,"Chemnitz, Am Glücksberg",50.85478,12.918951
+64,18033,"Chemnitz, Am Gutsberg",50.785286,12.954874
+65,232601,"Chemnitz, Am Gutsberg",50.78553,12.955225
+66,181208,"Chemnitz, Am Harthwald",50.78958,12.905215
+67,24359,"Chemnitz, Am Harthwald",50.78911,12.905224
+68,125014,"Chemnitz, Am Heim",50.832443,12.876406
+69,163804,"Chemnitz, Am Heim",50.831947,12.876613
+70,309989,"Chemnitz, Am Knie",50.88104,12.954506
+71,98182,"Chemnitz, Am Knie",50.88079,12.955278
+72,172213,"Chemnitz, Am Küchwald",50.852726,12.899888
+73,236305,"Chemnitz, Am Küchwald",50.854183,12.902889
+74,288214,"Chemnitz, Am Ried",50.827217,12.826415
+75,321109,"Chemnitz, Am Ried",50.82754,12.82664
+76,1853,"Chemnitz, Am Schnellen Markt",50.86565,12.958818
+77,208104,"Chemnitz, Am Schnellen Markt",50.86502,12.957812
+78,317945,"Chemnitz, Am Stadtbad",50.83803,12.921484
+79,45378,"Chemnitz, Am Stadtbad",50.83786,12.921169
+80,11490,"Chemnitz, Am Stadtpark",50.80202,12.904137
+81,126045,"Chemnitz, Am Stadtpark",50.802017,12.903509
+82,368055,"Chemnitz, Am Steinberg",50.78712,12.951479
+83,88807,"Chemnitz, Am Steinberg",50.78668,12.951802
+84,113227,"Chemnitz, Am Stollen",50.798916,12.945056
+85,71920,"Chemnitz, Am Stollen",50.79902,12.944957
+86,36250,"Chemnitz, Am Technologie-Campus",50.811886,12.926901
+87,383915,"Chemnitz, Am Technologie-Campus",50.81165,12.926694
+88,407477,"Chemnitz, Am Unritzbach",50.81827,12.826289
+89,446571,"Chemnitz, Am Unritzbach",50.818443,12.826191
+90,213944,"Chemnitz, Am Wartburghof",50.814686,12.934878
+91,58072,"Chemnitz, Am Wartburghof",50.81484,12.934994
+92,45024,"Chemnitz, An der Bahnbrücke",50.860676,12.892046
+93,63587,"Chemnitz, An der Bahnbrücke",50.860615,12.89183
+94,217185,"Chemnitz, An der Luthereiche",50.793278,12.868169
+95,418014,"Chemnitz, An der Luthereiche",50.793232,12.868097
+96,124782,"Chemnitz, An der Schmiede",50.859505,12.890178
+97,314803,"Chemnitz, An der Walzenmühle",50.790974,12.947813
+98,58065,"Chemnitz, An der Walzenmühle",50.79104,12.947804
+99,40705,"Chemnitz, Andreasstr",50.822723,12.938471
+100,88692,"Chemnitz, Andreasstr",50.822178,12.940106
+101,40945,"Chemnitz, Annenplatz",50.82863,12.922634
+102,457050,"Chemnitz, Annenplatz",50.82866,12.923002
+103,155227,"Chemnitz, Annenstr",50.82822,12.924206
+104,20763,"Chemnitz, Annenstr",50.82866,12.924044
+105,22062,"Chemnitz, Annenstr",50.828407,12.924152
+106,268595,"Chemnitz, Annenstr",50.82915,12.924448
+107,312464,"Chemnitz, Annenstr",50.82807,12.924367
+108,332404,"Chemnitz, Annenstr",50.827904,12.924412
+109,354316,"Chemnitz, Annenstr",50.828274,12.924017
+110,195022,"Chemnitz, Arno-Schreiter-Str",50.78812,12.901865
+111,407439,"Chemnitz, Arno-Schreiter-Str",50.788013,12.90208
+112,253310,"Chemnitz, Arthur-Strobel-Str",50.82793,12.96074
+113,348023,"Chemnitz, Arthur-Strobel-Str",50.827663,12.957973
+114,81203,"Chemnitz, Arthur-Strobel-Str",50.828136,12.960309
+115,147837,"Chemnitz, Auerswalder Str",50.86265,12.896035
+116,82372,"Chemnitz, Auerswalder Str",50.86275,12.896133
+117,330965,"Chemnitz, Augsburger Str",50.81485,12.944624
+118,419321,"Chemnitz, Augsburger Str",50.814823,12.944642
+119,78696,"Chemnitz, Augsburger Str",50.81478,12.945083
+120,92428,"Chemnitz, Augsburger Str",50.815395,12.943924
+121,306066,"Chemnitz, Augustusburger Str",50.82466,12.982282
+122,440328,"Chemnitz, Augustusburger Str",50.824615,12.982291
+123,143696,"Chemnitz, Bahnhof Hilbersdorf",50.862473,12.9527
+124,370678,"Chemnitz, Bahnhof Hilbersdorf",50.86192,12.953518
+125,419698,"Chemnitz, Bahnhof Hilbersdorf",50.862663,12.953599
+126,452921,"Chemnitz, Bahnhof Hilbersdorf",50.863495,12.954129
+127,455556,"Chemnitz, Bahnhof Hilbersdorf",50.86178,12.952916
+128,105646,"Chemnitz, Bahnhof Mitte/Niklasberg",50.827324,12.914657
+129,198714,"Chemnitz, Bahnhof Mitte/Niklasberg",50.82679,12.913785
+130,386917,"Chemnitz, Bahnhof Mitte/Niklasberg",50.826954,12.914342
+131,411095,"Chemnitz, Bahnhof Mitte/Niklasberg",50.82679,12.914648
+132,384824,"Chemnitz, Bahnhof Reichenhain",50.79459,12.935794
+133,56317,"Chemnitz, Bahnhof Reichenhain",50.794453,12.935489
+134,26344,"Chemnitz, Bahnhof Siegmar",50.816597,12.84095
+135,373528,"Chemnitz, Bahnhof Siegmar",50.817104,12.840555
+136,444412,"Chemnitz, Bahnhof Siegmar",50.81641,12.84263
+137,76689,"Chemnitz, Bahnhof Siegmar",50.816196,12.842046
+138,105463,"Chemnitz, Bahnstr",50.81052,12.871537
+139,167301,"Chemnitz, Bahnstr",50.810223,12.871493
+140,128126,"Chemnitz, Barbarossastr",50.83239,12.903095
+141,171777,"Chemnitz, Barbarossastr",50.831547,12.90208
+142,32619,"Chemnitz, Barbarossastr",50.8322,12.902763
+143,149205,"Chemnitz, Berganger",50.83915,12.875849
+144,157308,"Chemnitz, Berganger",50.83948,12.875544
+145,291664,"Chemnitz, Bergstr",50.844254,12.906482
+146,153368,"Chemnitz, Bernhardstr",50.82965,12.955126
+147,406581,"Chemnitz, Bernhardstr",50.829514,12.955117
+148,126179,"Chemnitz, Bernsbachplatz",50.825253,12.926559
+149,15630,"Chemnitz, Bernsbachplatz",50.824707,12.927116
+150,190579,"Chemnitz, Bernsbachplatz",50.82485,12.927341
+151,198011,"Chemnitz, Bernsbachplatz",50.824726,12.927287
+152,425675,"Chemnitz, Bernsbachplatz",50.824986,12.926874
+153,72134,"Chemnitz, Bernsbachplatz",50.82498,12.927008
+154,168818,"Chemnitz, Bernsdorf",50.810368,12.950733
+155,28755,"Chemnitz, Bernsdorf",50.810406,12.951488
+156,387440,"Chemnitz, Bernsdorf",50.81045,12.951245
+157,449208,"Chemnitz, Bernsdorf",50.810455,12.950769
+158,135149,"Chemnitz, Bernsdorfer Str",50.80022,12.947382
+159,428519,"Chemnitz, Bernsdorfer Str",50.800415,12.946646
+160,20150,"Chemnitz, Betriebshof Adelsberg",50.819233,12.968924
+161,234802,"Chemnitz, Betriebshof Adelsberg",50.819283,12.969391
+162,404921,"Chemnitz, Betriebshof Adelsberg",50.819324,12.96993
+163,197465,"Chemnitz, Betriebshof W-Seelenbinder-Str",50.80672,12.927988
+164,270695,"Chemnitz, Betriebshof W-Seelenbinder-Str",50.8066,12.92797
+165,312197,"Chemnitz, Beyerstr",50.83843,12.898981
+166,74471,"Chemnitz, Beyerstr",50.83864,12.901308
+167,189622,"Chemnitz, Borna",50.852646,12.884365
+168,199312,"Chemnitz, Borna",50.852573,12.884267
+169,54166,"Chemnitz, Borna",50.852856,12.884788
+170,235558,"Chemnitz, Bornaer Str",50.865875,12.904847
+171,329166,"Chemnitz, Bornaer Str",50.86591,12.905036
+172,382304,"Chemnitz, Bornaer Str",50.86688,12.904739
+173,414573,"Chemnitz, Bornaer Str",50.86701,12.90464
+174,217008,"Chemnitz, Botanischer Garten",50.850636,12.891561
+175,86059,"Chemnitz, Botanischer Garten",50.850185,12.893465
+176,26644,"Chemnitz, Brauerei Reichenbrand",50.814323,12.835937
+177,363114,"Chemnitz, Brauerei Reichenbrand",50.8142,12.835838
+178,103892,"Chemnitz, Braunsdorfer Str",50.87758,12.975005
+179,83897,"Chemnitz, Braunsdorfer Str",50.879208,12.97558
+180,166139,"Chemnitz, Braunsdorfer/Frankenberger Str",50.87618,12.979057
+181,81028,"Chemnitz, Braunsdorfer/Frankenberger Str",50.87567,12.978293
+182,195708,"Chemnitz, Breitenlehn",50.821384,13.011333
+183,358765,"Chemnitz, Breitenlehn",50.821262,13.012375
+184,159654,"Chemnitz, Bruno-Granz-Str",50.79592,12.88406
+185,142970,"Chemnitz, Bruno-Salzer-Str",50.819817,12.92364
+186,248566,"Chemnitz, Bruno-Salzer-Str",50.81964,12.92346
+187,27472,"Chemnitz, Brückenstr/Freie Presse",50.834602,12.924942
+188,91407,"Chemnitz, Brückenstr/Freie Presse",50.834995,12.924296
+189,56986,"Chemnitz, Burg Rabenstein",50.83272,12.818726
+190,6065,"Chemnitz, Burg Rabenstein",50.83269,12.818824
+191,213778,"Chemnitz, Bürgelstr",50.822136,12.846735
+192,448465,"Chemnitz, Bürgelstr",50.821995,12.846636
+193,232238,"Chemnitz, CFC-Stadion",50.84162,12.941947
+194,195615,"Chemnitz, Carl-Bobach-Str",50.805668,12.894274
+195,339638,"Chemnitz, Carl-Bobach-Str",50.806324,12.893708
+196,158033,"Chemnitz, Carl-Hamel-Str",50.814743,12.884913
+197,245179,"Chemnitz, Carl-Hamel-Str",50.814896,12.885129
+198,318179,"Chemnitz, Carl-von-Bach-Str",50.803566,12.851846
+199,92256,"Chemnitz, Carl-von-Bach-Str",50.80429,12.85146
+200,215127,"Chemnitz, Carl-von-Ossietzky-Str",50.822437,12.967244
+201,407077,"Chemnitz, Carl-von-Ossietzky-Str",50.82327,12.968097
+202,261674,"Chemnitz, Casparistr",50.823544,12.94237
+203,414432,"Chemnitz, Casparistr",50.82359,12.942208
+204,199808,"Chemnitz, Cervantesstr",50.818104,12.9777
+205,380962,"Chemnitz, Cervantesstr",50.81778,12.978248
+206,242523,"Chemnitz, Chemnitzer Str",50.781994,12.897912
+207,34799,"Chemnitz, Chemnitzer Str",50.78189,12.898092
+208,203140,"Chemnitz, Chemnitztal",50.861282,12.921448
+209,261175,"Chemnitz, Chemnitztal",50.86163,12.92134
+210,140558,"Chemnitz, Christian-Wehner-Str",50.851097,12.934411
+211,47257,"Chemnitz, Christian-Wehner-Str",50.851177,12.934177
+212,235250,"Chemnitz, Clausstr",50.818268,12.945343
+213,419023,"Chemnitz, Clausstr",50.81827,12.945613
+214,122159,"Chemnitz, Clemens-Winkler-Str",50.813404,12.863408
+215,331527,"Chemnitz, Corinthstr",50.88541,12.933961
+216,58861,"Chemnitz, Corinthstr",50.885445,12.934473
+217,270282,"Chemnitz, DRK-Krankenhaus",50.822006,12.825687
+218,369330,"Chemnitz, DRK-Krankenhaus",50.822117,12.825616
+219,392308,"Chemnitz, Damaschkestr",50.869358,12.899457
+220,75530,"Chemnitz, Damaschkestr",50.86937,12.899403
+221,235691,"Chemnitz, Dammweg",50.859272,12.924727
+222,6466,"Chemnitz, Dammweg",50.859203,12.924673
+223,27542,"Chemnitz, Dickensstr",50.798233,12.977664
+224,301384,"Chemnitz, Dickensstr",50.798576,12.977431
+225,129938,"Chemnitz, Diesterwegschule",50.819374,12.95553
+226,72410,"Chemnitz, Diesterwegschule",50.819225,12.954991
+227,332133,"Chemnitz, Dietrich-Bonhoeffer-Kirche",50.791985,12.898837
+228,454821,"Chemnitz, Dietrich-Bonhoeffer-Kirche",50.792027,12.898891
+229,103964,"Chemnitz, Dittersdorfer Str",50.797264,12.903041
+230,396128,"Chemnitz, Dittersdorfer Str",50.797485,12.902601
+231,124578,"Chemnitz, Dorfstr",50.871387,12.910533
+232,182346,"Chemnitz, Dorfstr",50.871975,12.908961
+233,346971,"Chemnitz, Dorfstr",50.87201,12.909024
+234,367562,"Chemnitz, Dorfstr",50.871647,12.911126
+235,138170,"Chemnitz, Dr.-Salvador-Allende-Str",50.805275,12.888579
+236,213349,"Chemnitz, Dr.-Salvador-Allende-Str",50.80571,12.889279
+237,33911,"Chemnitz, Dr.-Salvador-Allende-Str",50.80557,12.889028
+238,393001,"Chemnitz, Dr.-Salvador-Allende-Str",50.80553,12.889252
+239,664,"Chemnitz, Dr.-Salvador-Allende-Str",50.805763,12.889513
+240,111209,"Chemnitz, Dreiserstr",50.81145,12.973335
+241,46869,"Chemnitz, Dreiserstr",50.811417,12.973002
+242,14872,"Chemnitz, Dresdner Platz",50.835495,12.930323
+243,65106,"Chemnitz, Dresdner Platz",50.836113,12.930701
+244,386362,"Chemnitz, Dresdner Str",50.855022,12.964495
+245,398662,"Chemnitz, Dresdner Str",50.855087,12.964756
+246,329563,"Chemnitz, Dürerstr",50.826046,12.941346
+247,456959,"Chemnitz, Dürerstr",50.82559,12.941579
+248,126265,"Chemnitz, Ebersdorf",50.87088,12.956608
+249,274360,"Chemnitz, Ebersdorf",50.870525,12.956976
+250,441904,"Chemnitz, Ebersdorf",50.870888,12.956725
+251,102703,"Chemnitz, Ebersdorf, Brettmühle",50.88693,12.986612
+252,144039,"Chemnitz, Ebersdorf, Brettmühle",50.88763,12.987627
+253,308127,"Chemnitz, Ebersdorf, Brettmühle",50.887695,12.987465
+254,404960,"Chemnitz, Ebersdorfer Höhe",50.86944,12.964917
+255,438143,"Chemnitz, Ebersdorfer Höhe",50.87015,12.965376
+256,295029,"Chemnitz, Eckstr",50.8452,12.922822
+257,449628,"Chemnitz, Eckstr",50.845375,12.923146
+258,261357,"Chemnitz, Ehrlichstr",50.806664,12.867836
+259,94367,"Chemnitz, Ehrlichstr",50.806664,12.867836
+260,313381,"Chemnitz, Eisstadion",50.85114,12.893672
+261,414503,"Chemnitz, Eisstadion",50.851208,12.894193
+262,346306,"Chemnitz, Emilienstr",50.851723,12.929164
+263,8704,"Chemnitz, Emilienstr",50.850407,12.928949
+264,252557,"Chemnitz, Erdmannsdorfer Str",50.811543,12.912168
+265,43353,"Chemnitz, Erdmannsdorfer Str",50.811066,12.911818
+266,115929,"Chemnitz, Ernst-Enge-Str",50.824284,12.958494
+267,346927,"Chemnitz, Ernst-Heilmann-Str",50.83149,12.881841
+268,71306,"Chemnitz, Ernst-Heilmann-Str",50.831768,12.885021
+269,420059,"Chemnitz, Ernst-Wabra-Str",50.78568,12.879092
+270,436610,"Chemnitz, Ernst-Wabra-Str",50.7861,12.87938
+271,226800,"Chemnitz, Erzbergerstr",50.835728,12.890375
+272,80435,"Chemnitz, Erzbergerstr",50.83604,12.891857
+273,249930,"Chemnitz, Eubaer Str",50.82837,12.963624
+274,270903,"Chemnitz, Eubaer Str",50.828873,12.962213
+275,35910,"Chemnitz, Eubaer Str",50.828976,12.962061
+276,99222,"Chemnitz, Eubaer Str",50.828312,12.963552
+277,106623,"Chemnitz, Falkeplatz/Museum Gunzenhauser",50.82972,12.916606
+278,166663,"Chemnitz, Falkeplatz/Museum Gunzenhauser",50.829605,12.916292
+279,299862,"Chemnitz, Felsendome",50.834415,12.843214
+280,362836,"Chemnitz, Felsendome",50.834538,12.84378
+281,116475,"Chemnitz, Felsenkeller",50.810425,12.988292
+282,346213,"Chemnitz, Felsenkeller",50.810337,12.988148
+283,262034,"Chemnitz, Fleischergasse",50.79159,12.895693
+284,32027,"Chemnitz, Fleischergasse",50.791035,12.893447
+285,123918,"Chemnitz, Flemmingstr",50.84149,12.87452
+286,408195,"Chemnitz, Flemmingstr",50.841717,12.874736
+287,446408,"Chemnitz, Forststr",50.845768,12.942127
+288,64533,"Chemnitz, Forststr",50.845734,12.94184
+289,149280,"Chemnitz, Franz-Mehring-Str",50.83681,12.895298
+290,291482,"Chemnitz, Franz-Mehring-Str",50.83686,12.894948
+291,376762,"Chemnitz, Frauen- und Kinderklinik",50.843113,12.884617
+292,390544,"Chemnitz, Frauen- und Kinderklinik",50.842976,12.883889
+293,192305,"Chemnitz, Fraunhoferstr Nord",50.820686,12.925544
+294,95197,"Chemnitz, Fraunhoferstr Nord",50.82084,12.9254
+295,207369,"Chemnitz, Fraunhoferstr Süd",50.816666,12.923478
+296,406383,"Chemnitz, Fraunhoferstr Süd",50.81572,12.923667
+297,143353,"Chemnitz, Friedhof Reichenbrand",50.813396,12.832146
+298,323324,"Chemnitz, Friedhof Reichenbrand",50.81342,12.832829
+299,161330,"Chemnitz, Friedhofstr",50.81939,12.863605
+300,328734,"Chemnitz, Friedhofstr",50.81949,12.863345
+301,222855,"Chemnitz, Friedrich-Hähnel-Str",50.804855,12.897831
+302,398191,"Chemnitz, Friedrich-Hähnel-Str",50.804512,12.898002
+303,420479,"Chemnitz, Friedrich-Naumann-Str",50.851326,12.944741
+304,86730,"Chemnitz, Friedrich-Naumann-Str",50.851585,12.943879
+305,171163,"Chemnitz, Friedrich-Oskar-Schimmel-Str",50.805042,12.924188
+306,192554,"Chemnitz, Friedrich-Oskar-Schimmel-Str",50.806614,12.923757
+307,331797,"Chemnitz, Friedrich-Oskar-Schimmel-Str",50.804996,12.924349
+308,422853,"Chemnitz, Friedrich-Oskar-Schimmel-Str",50.806553,12.923613
+309,183748,"Chemnitz, Friedrich-Viertel-Str",50.78835,12.875867
+310,228193,"Chemnitz, Friedrich-Viertel-Str",50.78912,12.876191
+311,56789,"Chemnitz, Friedrich-Viertel-Str",50.788795,12.875472
+312,59562,"Chemnitz, Fritz-Fritzsche-Str",50.78589,12.890465
+313,90556,"Chemnitz, Fritz-Fritzsche-Str",50.78593,12.890905
+314,355610,"Chemnitz, Further Str",50.84727,12.924915
+315,172751,"Chemnitz, Fürstenstr",50.837276,12.934015
+316,37357,"Chemnitz, Fürstenstr",50.837185,12.934105
+317,305521,"Chemnitz, Gablenz",50.820286,12.964621
+318,3274,"Chemnitz, Gablenz",50.820133,12.964235
+319,364637,"Chemnitz, Gablenz",50.820225,12.964513
+320,371541,"Chemnitz, Gablenz",50.819794,12.964127
+321,427421,"Chemnitz, Gablenz",50.820267,12.964109
+322,217362,"Chemnitz, Gablenzplatz",50.831093,12.953922
+323,234048,"Chemnitz, Gablenzplatz",50.83121,12.953661
+324,35769,"Chemnitz, Gablenzplatz",50.831085,12.954093
+325,280523,"Chemnitz, Genossenschaftsplatz",50.87878,12.926227
+326,52056,"Chemnitz, Genossenschaftsplatz",50.87875,12.926353
+327,174391,"Chemnitz, Georgbrücke",50.840992,12.923137
+328,269150,"Chemnitz, Georgbrücke",50.841976,12.922598
+329,75861,"Chemnitz, Georgbrücke",50.84077,12.921726
+330,16299,"Chemnitz, Georgenkirchweg",50.82921,12.834527
+331,278405,"Chemnitz, Georgenkirchweg",50.829666,12.834482
+332,120779,"Chemnitz, Georgistr",50.809254,12.966813
+333,245489,"Chemnitz, Georgistr",50.808693,12.966678
+334,389233,"Chemnitz, Georgistr",50.80939,12.966085
+335,67317,"Chemnitz, Gerhart-Hauptmann-Platz",50.83044,12.902583
+336,365567,"Chemnitz, Gerstenbergerstr",50.8356,12.852799
+337,371557,"Chemnitz, Gerstenbergerstr",50.835594,12.852278
+338,438031,"Chemnitz, Getreidemarkt",50.83254,12.915456
+339,344661,"Chemnitz, Gewerbegebiet Blankenburgstr",50.86134,12.909743
+340,45505,"Chemnitz, Gewerbegebiet Blankenburgstr",50.861897,12.909186
+341,174981,"Chemnitz, Gewerbepark am Südring",50.80145,12.946682
+342,300065,"Chemnitz, Gewerbepark am Südring",50.801395,12.946583
+343,211405,"Chemnitz, Gh Draisdorf",50.881912,12.8997
+344,57041,"Chemnitz, Gh Draisdorf",50.8818,12.8997
+345,334412,"Chemnitz, Gh Zur Post",50.87463,12.969804
+346,71592,"Chemnitz, Gh Zur Post",50.8732,12.967415
+347,187687,"Chemnitz, Glauchauer Str",50.84584,12.903077
+348,333130,"Chemnitz, Glauchauer Str",50.846355,12.902413
+349,259651,"Chemnitz, Glösa",50.867287,12.912492
+350,280412,"Chemnitz, Glösa",50.867355,12.913031
+351,161935,"Chemnitz, Goetheplatz",50.82113,12.906257
+352,393191,"Chemnitz, Goetheplatz",50.821404,12.906608
+353,305583,"Chemnitz, Gornauer Str",50.793938,12.942972
+354,356254,"Chemnitz, Gornauer Str",50.793743,12.943367
+355,209560,"Chemnitz, Graefestr",50.814777,12.8709
+356,206319,"Chemnitz, Grenzgraben",50.81087,12.939863
+357,254628,"Chemnitz, Grenzgraben",50.811092,12.940196
+358,26067,"Chemnitz, Grundschule Adelsberg",50.81286,12.988354
+359,12427,"Chemnitz, Grüner Winkel",50.821514,12.94405
+360,433910,"Chemnitz, Grüner Winkel",50.82196,12.946412
+361,124693,"Chemnitz, Guerickestr/Messe Chemnitz",50.82168,12.880934
+362,163898,"Chemnitz, Guerickestr/Messe Chemnitz",50.821728,12.881509
+363,411333,"Chemnitz, Guerickestr/Messe Chemnitz",50.821026,12.883683
+364,67637,"Chemnitz, Guerickestr/Messe Chemnitz",50.820866,12.883287
+365,131484,"Chemnitz, Gustav-Freytag-Str",50.826126,12.920154
+366,139362,"Chemnitz, Gustav-Freytag-Str",50.82481,12.920675
+367,161407,"Chemnitz, Gustav-Freytag-Str",50.82536,12.922077
+368,173148,"Chemnitz, Gustav-Freytag-Str",50.82516,12.921142
+369,21538,"Chemnitz, Gustav-Freytag-Str",50.82557,12.920244
+370,263669,"Chemnitz, Gustav-Freytag-Str",50.82568,12.920047
+371,218562,"Chemnitz, Gutenbergstr",50.82,12.93512
+372,275298,"Chemnitz, Gutenbergstr",50.820274,12.934716
+373,308118,"Chemnitz, Gürtelstr",50.87521,12.920388
+374,388289,"Chemnitz, Gürtelstr",50.875263,12.920514
+375,229715,"Chemnitz, Haltepunkt Borna",50.85916,12.892702
+376,268499,"Chemnitz, Haltepunkt Borna",50.85986,12.894543
+377,351393,"Chemnitz, Haltepunkt Borna",50.859802,12.894489
+378,432871,"Chemnitz, Haltepunkt Borna",50.858936,12.892657
+379,277369,"Chemnitz, Hamstersteig",50.79008,12.90208
+380,332965,"Chemnitz, Hamstersteig",50.790035,12.902008
+381,403747,"Chemnitz, Hans-Benz-Str",50.833447,12.838156
+382,419959,"Chemnitz, Hans-Benz-Str",50.833492,12.839081
+383,374449,"Chemnitz, Hans-Ziegler-Str",50.82196,12.959869
+384,444179,"Chemnitz, Hans-Ziegler-Str",50.822006,12.959752
+385,5566,"Chemnitz, Hauboldstr",50.847584,12.92328
+386,244757,"Chemnitz, Hauptbahnhof",50.84007,12.929919
+387,28610,"Chemnitz, Hauptbahnhof",50.840084,12.929775
+388,307969,"Chemnitz, Hauptbahnhof",50.840096,12.929685
+389,427517,"Chemnitz, Hauptbahnhof",50.840076,12.92982
+390,188391,"Chemnitz, Haydnstr",50.81641,12.900526
+391,247037,"Chemnitz, Haydnstr",50.81707,12.901856
+392,346877,"Chemnitz, Haydnstr",50.816097,12.900562
+393,394037,"Chemnitz, Haydnstr",50.816853,12.901469
+394,206826,"Chemnitz, Hbf Bahnhofstr",50.8378,12.929218
+395,230918,"Chemnitz, Hbf Bahnhofstr",50.83772,12.928976
+396,274289,"Chemnitz, Hbf Bahnhofstr",50.83815,12.92903
+397,346354,"Chemnitz, Hbf Bahnhofstr",50.83806,12.929353
+398,385933,"Chemnitz, Hbf Bahnhofstr",50.83824,12.929227
+399,456367,"Chemnitz, Hbf Bahnhofstr",50.837852,12.92885
+400,154456,"Chemnitz, Hbf Dresdner Str",50.83893,12.931841
+401,337970,"Chemnitz, Hbf Dresdner Str",50.838444,12.931572
+402,208964,"Chemnitz, Hechlerstr",50.844044,12.911378
+403,300622,"Chemnitz, Hechlerstr",50.844326,12.911881
+404,345663,"Chemnitz, Heidelberger Str",50.856422,12.875517
+405,353887,"Chemnitz, Heidelberger Str",50.85564,12.876658
+406,24220,"Chemnitz, Heideschänke",50.832527,12.984034
+407,352622,"Chemnitz, Heideschänke",50.83248,12.984114
+408,271188,"Chemnitz, Heimgarten",50.817417,12.951811
+409,61060,"Chemnitz, Heinersdorf",50.87295,12.895226
+410,291478,"Chemnitz, Heinrich-Lorenz-Str",50.814713,12.912213
+411,311464,"Chemnitz, Heinrich-Lorenz-Str",50.814857,12.913498
+412,19676,"Chemnitz, Heiterer Blick",50.800743,12.884338
+413,254227,"Chemnitz, Heiterer Blick",50.800972,12.884698
+414,412100,"Chemnitz, Heiterer Blick",50.800743,12.883943
+415,74737,"Chemnitz, Heiterer Blick",50.800594,12.884321
+416,212522,"Chemnitz, Helbersdorf",50.801624,12.898568
+417,385888,"Chemnitz, Helbersdorf",50.800964,12.898783
+418,269865,"Chemnitz, Helbersdorfer Str",50.80279,12.896969
+419,49607,"Chemnitz, Helbersdorfer Str",50.802837,12.897274
+420,409535,"Chemnitz, Helmholtzstr",50.854267,12.948038
+421,89610,"Chemnitz, Helmholtzstr",50.85382,12.947274
+422,101530,"Chemnitz, Henriettenstr",50.83482,12.901047
+423,412511,"Chemnitz, Henriettenstr",50.834835,12.901011
+424,263606,"Chemnitz, Hermersdorfer Str",50.802006,12.984599
+425,352475,"Chemnitz, Hermersdorfer Str",50.801727,12.985444
+426,112426,"Chemnitz, Hilbersdorfer Str",50.8517,12.939576
+427,437909,"Chemnitz, Hilbersdorfer Str",50.85162,12.939288
+428,223419,"Chemnitz, Hochhaus Furth",50.855965,12.92938
+429,400498,"Chemnitz, Hochhaus Furth",50.85681,12.929182
+430,341654,"Chemnitz, Hofer Str",50.840424,12.947813
+431,441308,"Chemnitz, Hofer Str",50.840233,12.948245
+432,334157,"Chemnitz, Hohe Brücke",50.837337,12.916004
+433,381484,"Chemnitz, Hohe Brücke",50.83723,12.916858
+434,146047,"Chemnitz, Hohensteiner Str",50.812836,12.822445
+435,378367,"Chemnitz, Hohensteiner Str",50.812775,12.822319
+436,112632,"Chemnitz, Horststr",50.81715,12.896026
+437,186063,"Chemnitz, Horststr",50.817875,12.895972
+438,187782,"Chemnitz, Hp Kinderwaldstätte",50.884396,12.953778
+439,206938,"Chemnitz, Hp Kinderwaldstätte",50.883987,12.953401
+440,305345,"Chemnitz, Hp Kinderwaldstätte",50.88189,12.952134
+441,424130,"Chemnitz, Hp Kinderwaldstätte",50.881866,12.952287
+442,431108,"Chemnitz, Humboldtplatz",50.83482,12.948721
+443,101657,"Chemnitz, Humboldtstr",50.83801,12.94086
+444,273411,"Chemnitz, Humboldtstr",50.838055,12.941004
+445,150057,"Chemnitz, Hutholz",50.782696,12.876281
+446,15306,"Chemnitz, Hutholz",50.782856,12.876496
+447,185378,"Chemnitz, Hutholz",50.78335,12.876703
+448,250780,"Chemnitz, Hutholz",50.782867,12.876487
+449,28656,"Chemnitz, Hutholz",50.783287,12.876721
+450,436264,"Chemnitz, Hutholz",50.783195,12.8769
+451,80979,"Chemnitz, Hutholz",50.78318,12.876308
+452,89434,"Chemnitz, Hutholz",50.78302,12.876685
+453,348074,"Chemnitz, Händelstr",50.81283,12.903239
+454,71575,"Chemnitz, Händelstr",50.81266,12.902197
+455,122597,"Chemnitz, Höckericht",50.818886,12.855179
+456,78814,"Chemnitz, Höckericht",50.818733,12.855116
+457,282624,"Chemnitz, Höppnerweg",50.816544,12.949924
+458,396850,"Chemnitz, Höppnerweg",50.816586,12.949601
+459,352637,"Chemnitz, IKEA",50.802315,12.860919
+460,169007,"Chemnitz, Ikarus",50.808727,12.892576
+461,238836,"Chemnitz, Ikarus",50.809,12.893034
+462,27062,"Chemnitz, Ikarus",50.808777,12.892846
+463,417127,"Chemnitz, In der Delle",50.859097,12.912941
+464,58738,"Chemnitz, In der Delle",50.859215,12.912923
+465,299198,"Chemnitz, Industriemuseum",50.825054,12.901415
+466,306953,"Chemnitz, Industriemuseum",50.82461,12.90023
+467,408022,"Chemnitz, Industriemuseum",50.825424,12.90226
+468,80008,"Chemnitz, Industriemuseum",50.825157,12.902116
+469,179557,"Chemnitz, Innere Klosterstr",50.83462,12.917423
+470,428536,"Chemnitz, Innere Klosterstr",50.834972,12.917567
+471,152499,"Chemnitz, Irkutsker Str",50.813873,12.897696
+472,364986,"Chemnitz, Irkutsker Str",50.81359,12.897777
+473,418457,"Chemnitz, Irkutsker Str",50.813583,12.897418
+474,452475,"Chemnitz, Irkutsker Str",50.813488,12.897508
+475,150725,"Chemnitz, Jagdschänkenstr",50.801067,12.851209
+476,277817,"Chemnitz, Jagdschänkenstr",50.80105,12.851334
+477,233383,"Chemnitz, Johann-Richter-Str",50.792526,12.879362
+478,375642,"Chemnitz, Johann-Richter-Str",50.792004,12.879497
+479,441731,"Chemnitz, Johann-Richter-Str",50.791676,12.879092
+480,149934,"Chemnitz, Johannes-Dick-Str",50.78376,12.884752
+481,377247,"Chemnitz, Johannes-Dick-Str",50.78389,12.88503
+482,187480,"Chemnitz, Johannes-Reitz-Str",50.810696,12.900086
+483,74329,"Chemnitz, Johannes-Reitz-Str",50.810707,12.900005
+484,138794,"Chemnitz, Jungborn",50.832146,12.975895
+485,246523,"Chemnitz, Jungborn",50.832123,12.975787
+486,431476,"Chemnitz, Jägerschlößchenstr",50.80145,12.94104
+487,8046,"Chemnitz, Jägerschlößchenstr",50.80117,12.94131
+488,426752,"Chemnitz, Kalkstr",50.83326,12.870873
+489,453463,"Chemnitz, Kalkstr",50.83334,12.870945
+490,208995,"Chemnitz, Kanalstr",50.84119,12.900364
+491,237322,"Chemnitz, Kanalstr",50.841087,12.900535
+492,117498,"Chemnitz, Kanzlerstr",50.83285,12.906635
+493,145548,"Chemnitz, Kanzlerstr",50.832764,12.906446
+494,172771,"Chemnitz, Kappler Drehe",50.823254,12.896609
+495,188553,"Chemnitz, Kappler Drehe",50.82389,12.897068
+496,279304,"Chemnitz, Kappler Drehe",50.823112,12.896493
+497,34918,"Chemnitz, Kappler Drehe",50.823772,12.896358
+498,234648,"Chemnitz, Karl-Seibt-Str",50.8088,12.82222
+499,251583,"Chemnitz, Karl-Seibt-Str",50.80899,12.820944
+500,135431,"Chemnitz, Katharina-von-Bora-Str",50.806488,12.94935
+501,80112,"Chemnitz, Katharina-von-Bora-Str",50.806553,12.949152
+502,180417,"Chemnitz, Kauffahrtei",50.814957,12.906886
+503,43441,"Chemnitz, Kauffahrtei",50.814865,12.906356
+504,275598,"Chemnitz, Kaufmannstr",50.8204,12.847768
+505,434925,"Chemnitz, Kaufmannstr",50.820023,12.848172
+506,104484,"Chemnitz, Kaßbergauffahrt",50.83396,12.915034
+507,38970,"Chemnitz, Kaßbergauffahrt",50.83394,12.914935
+508,321657,"Chemnitz, Kaßbergstr",50.833508,12.911144
+509,48501,"Chemnitz, Kaßbergstr",50.8334,12.910165
+510,24357,"Chemnitz, Keplerstr Nord",50.82299,12.849816
+511,401711,"Chemnitz, Keplerstr Süd",50.822433,12.851918
+512,126002,"Chemnitz, Kiefernweg",50.883892,12.932991
+513,408725,"Chemnitz, Kiefernweg",50.883766,12.932856
+514,202601,"Chemnitz, Kirche Adelsberg",50.814194,12.987375
+515,347398,"Chemnitz, Kirche Adelsberg",50.81468,12.985659
+516,375870,"Chemnitz, Kirche Adelsberg",50.814404,12.986378
+517,432360,"Chemnitz, Kirche Adelsberg",50.81463,12.985516
+518,129200,"Chemnitz, Kirche Reichenbrand",50.812397,12.829595
+519,306862,"Chemnitz, Kirche Reichenbrand",50.812183,12.829505
+520,409975,"Chemnitz, Kleiner Weg",50.81327,12.980818
+521,46539,"Chemnitz, Kleiner Weg",50.81393,12.98265
+522,216060,"Chemnitz, Kleinolbersdorfer Str",50.805485,12.985902
+523,272666,"Chemnitz, Kleinolbersdorfer Str",50.80558,12.986037
+524,173867,"Chemnitz, Klingerstr",50.820972,12.842414
+525,409678,"Chemnitz, Klingerstr",50.821026,12.842441
+526,240645,"Chemnitz, Klinikum Dresdner Str",50.85192,12.955251
+527,275651,"Chemnitz, Klinikum Dresdner Str",50.852,12.954704
+528,288954,"Chemnitz, Klinikum Flemmingstr",50.844208,12.886027
+529,402793,"Chemnitz, Klinikum Küchwald",50.84691,12.894301
+530,78891,"Chemnitz, Klinikum Küchwald",50.846363,12.893861
+531,219373,"Chemnitz, Knappschaft/Wismut GmbH",50.808228,12.842495
+532,299021,"Chemnitz, Knappschaft/Wismut GmbH",50.808216,12.842738
+533,27978,"Chemnitz, Knieweg",50.79343,12.904542
+534,120812,"Chemnitz, Kochstr",50.835148,12.887348
+535,399200,"Chemnitz, Kochstr",50.835007,12.887069
+536,124174,"Chemnitz, Konradstr",50.841846,12.9057
+537,173391,"Chemnitz, Konradstr",50.841843,12.905332
+538,220383,"Chemnitz, Kopernikusstr",50.817596,12.849223
+539,53546,"Chemnitz, Kopernikusstr",50.817604,12.849277
+540,134869,"Chemnitz, Kreherstr",50.822006,12.952422
+541,300882,"Chemnitz, Kreherstr",50.821815,12.954515
+542,71869,"Chemnitz, Krenkelstr",50.80373,12.909833
+543,313676,"Chemnitz, Kurt-Franke-Str",50.78503,12.962088
+544,454135,"Chemnitz, Kurt-Franke-Str",50.78456,12.962905
+545,417339,"Chemnitz, Köthensdorfer Str",50.857063,12.885174
+546,208420,"Chemnitz, Küchwald",50.856094,12.906904
+547,369116,"Chemnitz, Küchwald",50.855053,12.91233
+548,121356,"Chemnitz, Küchwaldring",50.847515,12.899268
+549,126174,"Chemnitz, Küchwaldring",50.847576,12.89961
+550,256998,"Chemnitz, Leipziger Str",50.838837,12.905718
+551,264260,"Chemnitz, Leipziger Str",50.83855,12.907479
+552,29522,"Chemnitz, Leipziger Str",50.839184,12.906374
+553,180229,"Chemnitz, Leonhardtstr",50.83803,12.900463
+554,257559,"Chemnitz, Leonhardtstr",50.83729,12.900571
+555,217695,"Chemnitz, Lessingstr",50.840717,12.935866
+556,277577,"Chemnitz, Lessingstr",50.84026,12.93574
+557,150391,"Chemnitz, Lichtenauer Str",50.86777,12.961935
+558,330249,"Chemnitz, Lichtenauer Weg",50.883255,12.945711
+559,96570,"Chemnitz, Lichtenauer Weg",50.88312,12.947176
+560,414968,"Chemnitz, Liebermannstr",50.8852,12.939396
+561,434973,"Chemnitz, Liebermannstr",50.885166,12.939693
+562,71845,"Chemnitz, Lindenhof",50.820187,12.941938
+563,96762,"Chemnitz, Lindenhof",50.820484,12.94228
+564,148152,"Chemnitz, Liselotte-Herrmann-Str",50.815723,12.952916
+565,164716,"Chemnitz, Lohrstr",50.847794,12.925598
+566,153738,"Chemnitz, Lothringer Str",50.82231,12.925032
+567,380631,"Chemnitz, Lothringer Str",50.822247,12.924879
+568,307976,"Chemnitz, Louis-Otto-Str",50.852165,12.886432
+569,399010,"Chemnitz, Louis-Otto-Str",50.85195,12.887608
+570,306192,"Chemnitz, Ludwig-Kühn-Str",50.782368,12.897463
+571,324480,"Chemnitz, Ludwig-Kühn-Str",50.782787,12.897104
+572,33191,"Chemnitz, Ludwigstr",50.843494,12.905943
+573,73188,"Chemnitz, Ludwigstr",50.843307,12.905691
+574,104393,"Chemnitz, Luisenplatz",50.84283,12.901757
+575,156433,"Chemnitz, Luisenplatz",50.842846,12.901847
+576,122140,"Chemnitz, Lutherstr",50.822968,12.930242
+577,137602,"Chemnitz, Lutherstr",50.822994,12.930269
+578,180909,"Chemnitz, Lutherstr",50.822857,12.930197
+579,97848,"Chemnitz, Lutherstr",50.822903,12.930269
+580,115222,"Chemnitz, Lützowstr",50.82225,12.891956
+581,213461,"Chemnitz, Lützowstr",50.822136,12.892118
+582,230852,"Chemnitz, Margaretenstr",50.85144,12.94555
+583,458797,"Chemnitz, Margaretenstr",50.85123,12.945783
+584,116813,"Chemnitz, Marianne-Brandt-Str",50.82622,12.90615
+585,429732,"Chemnitz, Marianne-Brandt-Str",50.82611,12.905314
+586,211367,"Chemnitz, Marie-Tilch-Str",50.783356,12.878625
+587,96941,"Chemnitz, Marie-Tilch-Str",50.78355,12.878607
+588,142144,"Chemnitz, Markersdorfer Str",50.796303,12.908297
+589,23105,"Chemnitz, Markersdorfer Str",50.79637,12.907614
+590,255661,"Chemnitz, Markersdorfer Str",50.79656,12.907012
+591,360037,"Chemnitz, Markersdorfer Str",50.79587,12.90853
+592,384798,"Chemnitz, Markersdorfer Str",50.79669,12.90765
+593,345269,"Chemnitz, Marktsteig",50.81443,12.943385
+594,347255,"Chemnitz, Marktsteig",50.814407,12.943421
+595,242202,"Chemnitz, Mauersbergerstr",50.805824,12.849619
+596,408635,"Chemnitz, Mauersbergerstr",50.805325,12.848145
+597,223569,"Chemnitz, Mauersbergerstr Ost",50.810394,12.855395
+598,411146,"Chemnitz, Mauersbergerstr Ost",50.81044,12.855449
+599,235158,"Chemnitz, Mauersbergerstr West",50.80724,12.851927
+600,276295,"Chemnitz, Mauersbergerstr West",50.807358,12.852044
+601,303403,"Chemnitz, Max-Brand-Str",50.79548,12.981554
+602,33121,"Chemnitz, Max-Brand-Str",50.794987,12.982318
+603,273131,"Chemnitz, Max-Müller-Str",50.78757,12.898415
+604,52114,"Chemnitz, Max-Müller-Str",50.787388,12.896735
+605,175165,"Chemnitz, Max-Saupe-Str",50.867912,12.960632
+606,178089,"Chemnitz, Max-Saupe-Str",50.868134,12.960632
+607,387537,"Chemnitz, Max-Türpe-Str",50.79246,12.884581
+608,120589,"Chemnitz, Messe",50.816677,12.882326
+609,409017,"Chemnitz, Messe",50.816326,12.882218
+610,306410,"Chemnitz, Mitschurinstr",50.80901,12.824124
+611,312433,"Chemnitz, Mitschurinstr",50.809162,12.824259
+612,134839,"Chemnitz, Mittagleite",50.811535,12.961827
+613,142313,"Chemnitz, Mittagleite",50.811543,12.961288
+614,109507,"Chemnitz, Mittweidaer Str",50.88576,12.983207
+615,160363,"Chemnitz, Mittweidaer Str",50.885998,12.983665
+616,112151,"Chemnitz, Morgenleite",50.794952,12.882048
+617,165189,"Chemnitz, Morgenleite",50.794666,12.881572
+618,215714,"Chemnitz, Morgenleite",50.79558,12.881715
+619,280072,"Chemnitz, Morgenleite",50.795338,12.882245
+620,20615,"Chemnitz, Moritzhof",50.829857,12.919858
+621,450948,"Chemnitz, Moritzhof",50.82944,12.920056
+622,317760,"Chemnitz, Moritzstr",50.83162,12.925077
+623,341725,"Chemnitz, Moritzstr",50.830536,12.923352
+624,364250,"Chemnitz, Moritzstr",50.831802,12.92487
+625,104602,"Chemnitz, Müllerstr",50.84464,12.924224
+626,208931,"Chemnitz, Müllerstr",50.844975,12.924349
+627,263596,"Chemnitz, Münchner Str",50.83449,12.953311
+628,351671,"Chemnitz, Münchner Str",50.834507,12.952691
+629,180755,"Chemnitz, Neefepark Nord",50.806694,12.861342
+630,372814,"Chemnitz, Neefepark Nord",50.80662,12.861351
+631,348986,"Chemnitz, Neefepark Süd",50.804256,12.862312
+632,211831,"Chemnitz, Neubauernweg",50.81492,12.879739
+633,353916,"Chemnitz, Neubauernweg",50.81506,12.879371
+634,102588,"Chemnitz, Neue Str",50.811592,12.841704
+635,77239,"Chemnitz, Neue Str",50.811764,12.841498
+636,270161,"Chemnitz, Nordstr",50.845753,12.919651
+637,4192,"Chemnitz, Nordstr",50.846222,12.920253
+638,155285,"Chemnitz, Nürnberger Str",50.831635,12.949448
+639,28562,"Chemnitz, Nürnberger Str",50.83158,12.950104
+640,306037,"Chemnitz, Nürnberger Str",50.83189,12.949529
+641,389382,"Chemnitz, Nürnberger Str",50.831795,12.950913
+642,153054,"Chemnitz, Oberrabenstein",50.841038,12.814764
+643,235997,"Chemnitz, Oberrabenstein",50.841026,12.815096
+644,183197,"Chemnitz, Omnibusbahnhof",50.840714,12.927916
+645,234618,"Chemnitz, Omnibusbahnhof",50.840458,12.925553
+646,264777,"Chemnitz, Omnibusbahnhof",50.840256,12.927574
+647,330121,"Chemnitz, Omnibusbahnhof",50.840332,12.925877
+648,346416,"Chemnitz, Omnibusbahnhof",50.8409,12.926748
+649,391412,"Chemnitz, Omnibusbahnhof",50.840855,12.926694
+650,435029,"Chemnitz, Omnibusbahnhof",50.840717,12.926631
+651,45660,"Chemnitz, Omnibusbahnhof",50.840782,12.926667
+652,458940,"Chemnitz, Omnibusbahnhof",50.841106,12.9262
+653,103285,"Chemnitz, Ostheim",50.82654,12.967046
+654,2374,"Chemnitz, Ostheim",50.82659,12.966382
+655,404276,"Chemnitz, Otto-Schmerbach-Str",50.81056,12.850346
+656,415157,"Chemnitz, Otto-Schmerbach-Str",50.8106,12.849538
+657,15519,"Chemnitz, Palmstr",50.84308,12.938552
+658,64814,"Chemnitz, Palmstr",50.84304,12.938219
+659,294078,"Chemnitz, Pappelhain",50.822704,12.963732
+660,315569,"Chemnitz, Pappelhain",50.822342,12.96375
+661,451559,"Chemnitz, Pappelstr",50.814533,12.954524
+662,46814,"Chemnitz, Pappelstr",50.81457,12.954578
+663,19601,"Chemnitz, Parkstr",50.823647,12.910974
+664,354044,"Chemnitz, Parkstr",50.823425,12.910479
+665,351066,"Chemnitz, Pasteurstr",50.80987,12.86666
+666,55594,"Chemnitz, Pasteurstr",50.810112,12.866965
+667,192416,"Chemnitz, Paul-Bertz-Str",50.802948,12.89422
+668,390044,"Chemnitz, Paul-Bertz-Str",50.802975,12.89475
+669,178510,"Chemnitz, Paul-Fischer-Weg",50.86432,12.886009
+670,384643,"Chemnitz, Paul-Fischer-Weg",50.863667,12.886818
+671,295423,"Chemnitz, Pelzmühlenstr",50.822083,12.837213
+672,329082,"Chemnitz, Pelzmühlenstr",50.822495,12.836611
+673,134155,"Chemnitz, Platnerstr",50.819855,12.894615
+674,411540,"Chemnitz, Platnerstr",50.819653,12.89413
+675,297610,"Chemnitz, Rabenstein, Tierpark",50.81918,12.827538
+676,254452,"Chemnitz, RabensteinCenter",50.826244,12.831841
+677,268298,"Chemnitz, RabensteinCenter",50.82611,12.831994
+678,30526,"Chemnitz, RabensteinCenter",50.826588,12.831518
+679,352273,"Chemnitz, Rabensteiner Str",50.813198,12.818393
+680,91657,"Chemnitz, Rabensteiner Str",50.813114,12.817603
+681,233863,"Chemnitz, Reichenbrand",50.813545,12.831841
+682,371461,"Chemnitz, Reichenbrand",50.813904,12.831859
+683,238121,"Chemnitz, Reichenhain",50.800045,12.952485
+684,171804,"Chemnitz, Reichenhainer Mühlberg",50.796486,12.945487
+685,258677,"Chemnitz, Reichenhainer Mühlberg",50.79608,12.945029
+686,191479,"Chemnitz, Reichsstr",50.828117,12.913767
+687,246427,"Chemnitz, Reichsstr",50.82764,12.912096
+688,445497,"Chemnitz, Reichsstr",50.827545,12.911441
+689,447836,"Chemnitz, Reichsstr",50.828735,12.914531
+690,441916,"Chemnitz, Reineckerstr",50.831257,12.94413
+691,458775,"Chemnitz, Reineckerstr",50.83118,12.943511
+692,107255,"Chemnitz, Reinhardtstr",50.842342,12.940852
+693,245824,"Chemnitz, Reinhardtstr",50.843052,12.939971
+694,232343,"Chemnitz, Richard-Hartmann-Platz",50.838417,12.911324
+695,273173,"Chemnitz, Richard-Hartmann-Platz",50.838337,12.911324
+696,214944,"Chemnitz, Richard-Wagner-Str",50.820564,12.897041
+697,65454,"Chemnitz, Richard-Wagner-Str",50.82057,12.897544
+698,398525,"Chemnitz, Riedstr",50.828693,12.826137
+699,405357,"Chemnitz, Riedstr",50.82885,12.82567
+700,343891,"Chemnitz, Riemenschneiderstr",50.78541,12.925499
+701,176744,"Chemnitz, Robert-Siewert-Str",50.79774,12.897256
+702,238956,"Chemnitz, Robert-Siewert-Str",50.797,12.895702
+703,268531,"Chemnitz, Robert-Siewert-Str",50.797565,12.896789
+704,414177,"Chemnitz, Robert-Siewert-Str",50.796467,12.897445
+705,173126,"Chemnitz, Rosa-Luxemburg-Str",50.81263,12.956752
+706,353777,"Chemnitz, Rosa-Luxemburg-Str",50.812885,12.957345
+707,146707,"Chemnitz, Rosenbergstr",50.817505,12.92938
+708,228680,"Chemnitz, Rosenbergstr",50.818024,12.929236
+709,271673,"Chemnitz, Rosenbergstr",50.81757,12.929209
+710,296956,"Chemnitz, Rosenbergstr",50.817825,12.92929
+711,366331,"Chemnitz, Rosenbergstr",50.81804,12.92938
+712,95773,"Chemnitz, Rosenbergstr",50.817753,12.929416
+713,234835,"Chemnitz, Rosenhof",50.830585,12.91657
+714,180766,"Chemnitz, Rosental",50.865055,12.918951
+715,208885,"Chemnitz, Rosental",50.86563,12.918573
+716,340320,"Chemnitz, Rotdorn",50.82601,12.955512
+717,113828,"Chemnitz, Roter Turm",50.83417,12.922544
+718,126148,"Chemnitz, Roter Turm",50.83453,12.923101
+719,176644,"Chemnitz, Roter Turm",50.83417,12.922759
+720,55539,"Chemnitz, Roter Turm",50.834515,12.923146
+721,80491,"Chemnitz, Roter Turm",50.83419,12.922697
+722,364992,"Chemnitz, Rottluff",50.83431,12.868905
+723,37948,"Chemnitz, Rottluff",50.83407,12.868995
+724,413661,"Chemnitz, Rottluff",50.834328,12.868546
+725,16782,"Chemnitz, Rudolf-Krahl-Str",50.83363,12.880386
+726,177076,"Chemnitz, Rudolf-Krahl-Str",50.833595,12.880305
+727,158586,"Chemnitz, Rudolf-Liebold-Str",50.848576,12.944067
+728,318365,"Chemnitz, Rudolf-Liebold-Str",50.848694,12.94449
+729,206289,"Chemnitz, Rudolfstr",50.8265,12.938022
+730,253807,"Chemnitz, Rudolfstr",50.826347,12.937806
+731,244316,"Chemnitz, Röntgenstr",50.81441,12.827233
+732,323679,"Chemnitz, Röntgenstr",50.814846,12.82681
+733,130151,"Chemnitz, Rößlerstr",50.817177,12.91419
+734,150559,"Chemnitz, Rößlerstr",50.81665,12.914055
+735,190313,"Chemnitz, Rößlerstr",50.816452,12.913776
+736,339833,"Chemnitz, Rößlerstr",50.816513,12.914154
+737,332498,"Chemnitz, Sachsenring",50.82097,12.957156
+738,88789,"Chemnitz, Sachsenring",50.820816,12.957147
+739,241044,"Chemnitz, Sandgrubenweg",50.824177,12.972858
+740,350244,"Chemnitz, Sandgrubenweg",50.824608,12.971673
+741,226721,"Chemnitz, Sandstr",50.863983,12.901532
+742,378331,"Chemnitz, Sandstr",50.86412,12.901685
+743,200183,"Chemnitz, Scharnhorststr",50.833332,12.959788
+744,43208,"Chemnitz, Scharnhorststr",50.833427,12.958315
+745,272640,"Chemnitz, Scheffelstr",50.80236,12.911692
+746,282912,"Chemnitz, Scheffelstr",50.802475,12.911423
+747,332061,"Chemnitz, Scheffelstr",50.801952,12.911225
+748,413859,"Chemnitz, Scheffelstr",50.802635,12.910605
+749,54994,"Chemnitz, Scheffelstr",50.802273,12.911153
+750,110574,"Chemnitz, Schillerplatz",50.839596,12.927062
+751,240581,"Chemnitz, Schloßviertel",50.845024,12.918699
+752,361769,"Chemnitz, Schloßviertel",50.845062,12.917774
+753,25361,"Chemnitz, Schmidt-Rottluff-Str",50.8805,12.930961
+754,435994,"Chemnitz, Schmidt-Rottluff-Str",50.88064,12.930952
+755,161033,"Chemnitz, Schneeberger Str",50.793755,12.922741
+756,169570,"Chemnitz, Schneeberger Str",50.79413,12.92214
+757,326150,"Chemnitz, Schneeberger Str",50.794136,12.922409
+758,356602,"Chemnitz, Schneeberger Str",50.794136,12.922409
+759,139500,"Chemnitz, Schule Altchemnitz",50.79902,12.912914
+760,274792,"Chemnitz, Schule Altchemnitz",50.79865,12.913543
+761,315698,"Chemnitz, Schule Altchemnitz",50.798943,12.913354
+762,457342,"Chemnitz, Schule Altchemnitz",50.799217,12.912195
+763,184833,"Chemnitz, Schönau",50.820923,12.875679
+764,195545,"Chemnitz, Schönau",50.820446,12.875993
+765,21952,"Chemnitz, Schönau",50.82078,12.875804
+766,422777,"Chemnitz, Schönau",50.82086,12.875724
+767,925,"Chemnitz, Schönau",50.820827,12.875948
+768,126526,"Chemnitz, Schönherrpark",50.84994,12.921196
+769,390938,"Chemnitz, Schönherrpark",50.849194,12.921268
+770,333182,"Chemnitz, Schösserholz",50.80147,12.991597
+771,168858,"Chemnitz, Sechsruthen",50.87504,12.906671
+772,85917,"Chemnitz, Sechsruthen",50.875084,12.906464
+773,132693,"Chemnitz, Senefelderstr",50.82132,12.93813
+774,431470,"Chemnitz, Senefelderstr",50.821968,12.93689
+775,205294,"Chemnitz, Solaris",50.81919,12.890815
+776,69840,"Chemnitz, Solaris",50.8191,12.889683
+777,214184,"Chemnitz, Sportforum",50.808357,12.937312
+778,401366,"Chemnitz, Sportforum",50.808067,12.937195
+779,141752,"Chemnitz, Sportforum Tor 1",50.80743,12.932434
+780,360562,"Chemnitz, Sportforum Tor 1",50.807278,12.93247
+781,128147,"Chemnitz, Sportforum Tor 4",50.806927,12.937088
+782,415567,"Chemnitz, Sportforum Tor 4",50.806057,12.937636
+783,11534,"Chemnitz, Stadion Gellertstr",50.841095,12.944121
+784,418736,"Chemnitz, Stadion Gellertstr",50.841156,12.943951
+785,153488,"Chemnitz, Stadlerplatz",50.821064,12.927224
+786,187807,"Chemnitz, Stadlerplatz",50.82135,12.926999
+787,212500,"Chemnitz, Stadlerplatz",50.820274,12.927862
+788,324872,"Chemnitz, Stadlerplatz",50.82135,12.926964
+789,351562,"Chemnitz, Stadlerplatz",50.82086,12.927278
+790,417277,"Chemnitz, Stadlerplatz",50.820885,12.927817
+791,169352,"Chemnitz, Stadthalle",50.83574,12.922804
+792,321437,"Chemnitz, Stadthalle",50.83595,12.921996
+793,1253,"Chemnitz, Stefan-Heym-Platz",50.832912,12.925257
+794,208101,"Chemnitz, Stefan-Heym-Platz",50.833088,12.925275
+795,280514,"Chemnitz, Stefan-Heym-Platz",50.833393,12.925535
+796,410133,"Chemnitz, Stefan-Heym-Platz",50.83305,12.924978
+797,276905,"Chemnitz, Steinweg",50.85325,12.957461
+798,278341,"Chemnitz, Steinweg",50.85311,12.957156
+799,126135,"Chemnitz, Stelzendorf",50.798367,12.862123
+800,434190,"Chemnitz, Stelzendorf",50.797367,12.860596
+801,446905,"Chemnitz, Stelzendorf",50.79728,12.862411
+802,122893,"Chemnitz, Stelzendorfer Gutsweg",50.80452,12.866094
+803,411711,"Chemnitz, Stelzendorfer Gutsweg",50.8028,12.865043
+804,358817,"Chemnitz, Stelzendorfer Str",50.81913,12.870864
+805,420206,"Chemnitz, Stelzendorfer Str",50.818085,12.870585
+806,77763,"Chemnitz, Stelzendorfer Str",50.819057,12.869373
+807,12720,"Chemnitz, Stephanplatz",50.830097,12.910048
+808,93514,"Chemnitz, Stephanplatz",50.830097,12.910129
+809,313748,"Chemnitz, Sterzelstr",50.823055,12.844723
+810,404205,"Chemnitz, Sterzelstr",50.823086,12.844965
+811,30680,"Chemnitz, Stiftskirche Ebersdorf",50.87604,12.97293
+812,420278,"Chemnitz, Stiftskirche Ebersdorf",50.875683,12.971646
+813,102826,"Chemnitz, Stiftstal",50.882248,12.978958
+814,382232,"Chemnitz, Stiftstal",50.882236,12.978796
+815,357652,"Chemnitz, Str Usti nad Labem",50.81082,12.893537
+816,36037,"Chemnitz, Str Usti nad Labem",50.81142,12.892244
+817,227657,"Chemnitz, Städtischer Friedhof",50.811024,12.934033
+818,343572,"Chemnitz, Städtischer Friedhof",50.810753,12.934042
+819,179641,"Chemnitz, Sächsisches Eisenbahnmuseum",50.860252,12.95253
+820,433668,"Chemnitz, Sächsisches Eisenbahnmuseum",50.85947,12.952889
+821,212379,"Chemnitz, Südbahnhof",50.824577,12.925391
+822,85697,"Chemnitz, Südbahnhof",50.82404,12.925427
+823,21796,"Chemnitz, Südring",50.803757,12.887132
+824,271550,"Chemnitz, Südring",50.803963,12.887123
+825,46124,"Chemnitz, Südring",50.803635,12.886692
+826,53988,"Chemnitz, Südring",50.80293,12.88627
+827,305365,"Chemnitz, TU Campus",50.813465,12.931051
+828,324043,"Chemnitz, TU Campus",50.813934,12.930844
+829,333631,"Chemnitz, TU Campus",50.81371,12.930808
+830,423954,"Chemnitz, TU Campus",50.81366,12.930979
+831,48078,"Chemnitz, TU Campus",50.81372,12.930683
+832,63227,"Chemnitz, TU Campus",50.813927,12.930719
+833,419816,"Chemnitz, TU Erfenschlager Str",50.794968,12.942639
+834,431615,"Chemnitz, TU Erfenschlager Str",50.795124,12.941983
+835,116229,"Chemnitz, Talanger",50.83971,12.888084
+836,12915,"Chemnitz, Talanger",50.8394,12.887896
+837,136566,"Chemnitz, Technopark",50.811485,12.924853
+838,227284,"Chemnitz, Technopark",50.810337,12.923334
+839,407060,"Chemnitz, Technopark",50.81143,12.924349
+840,431623,"Chemnitz, Technopark",50.811325,12.924673
+841,62170,"Chemnitz, Technopark",50.811012,12.924305
+842,65846,"Chemnitz, Technopark",50.810413,12.923101
+843,7482,"Chemnitz, Technopark",50.81151,12.924026
+844,88775,"Chemnitz, Technopark",50.811172,12.924655
+845,228204,"Chemnitz, Terra Nova Campus",50.839012,12.95438
+846,314303,"Chemnitz, Terra Nova Campus",50.83873,12.955359
+847,115824,"Chemnitz, Theaterplatz",50.837543,12.925993
+848,296052,"Chemnitz, Theaterplatz",50.837147,12.925616
+849,204370,"Chemnitz, Treffurthstr",50.819424,12.915187
+850,285700,"Chemnitz, Treffurthstr",50.820553,12.916795
+851,393307,"Chemnitz, Treffurthstr",50.819397,12.915214
+852,44095,"Chemnitz, Treffurthstr",50.819023,12.914863
+853,273928,"Chemnitz, Trinitatisstr",50.85681,12.950715
+854,314015,"Chemnitz, Trinitatisstr",50.85649,12.950751
+855,218785,"Chemnitz, Tschaikowskistr",50.83069,12.937582
+856,269092,"Chemnitz, Tschaikowskistr",50.83052,12.938058
+857,173698,"Chemnitz, Tuchschererstr",50.804382,12.8565
+858,379121,"Chemnitz, Tuchschererstr",50.804356,12.856446
+859,124481,"Chemnitz, Turnstr",50.82418,12.931284
+860,410259,"Chemnitz, Turnstr",50.82402,12.931671
+861,133125,"Chemnitz, Uferstr",50.829792,12.939818
+862,74820,"Chemnitz, Uferstr",50.829468,12.939998
+863,272289,"Chemnitz, Uhlandstr",50.836544,12.935111
+864,356535,"Chemnitz, Uhlandstr",50.83647,12.935336
+865,197819,"Chemnitz, Uhlestr",50.805744,12.911845
+866,352744,"Chemnitz, Uhlestr",50.805473,12.912087
+867,378475,"Chemnitz, Uhlestr",50.806274,12.911926
+868,376776,"Chemnitz, Ulmenstr",50.83127,12.896196
+869,455114,"Chemnitz, Ulmenstr",50.831455,12.896502
+870,222330,"Chemnitz, VITA-CENTER",50.79509,12.890276
+871,306241,"Chemnitz, VITA-CENTER",50.794857,12.890097
+872,3120,"Chemnitz, VITA-CENTER",50.79485,12.890779
+873,414642,"Chemnitz, VITA-CENTER",50.794987,12.890438
+874,96873,"Chemnitz, Virchowstr",50.813255,12.870909
+875,136374,"Chemnitz, Waisenstr",50.83497,12.927898
+876,66120,"Chemnitz, Waisenstr",50.8351,12.927574
+877,253431,"Chemnitz, Waldeck",50.877712,12.955476
+878,25450,"Chemnitz, Waldeck",50.87765,12.955575
+879,205849,"Chemnitz, Waldenburger Str",50.832664,12.874475
+880,79810,"Chemnitz, Waldenburger Str",50.832752,12.874619
+881,323090,"Chemnitz, Waldrand",50.852703,12.897077
+882,459251,"Chemnitz, Waldrand",50.852646,12.896906
+883,167651,"Chemnitz, Waldschlößchenstr",50.850433,12.951577
+884,217801,"Chemnitz, Waldschlößchenstr",50.850456,12.95182
+885,141428,"Chemnitz, Walter-Klippel-Str",50.832794,12.989801
+886,232648,"Chemnitz, Walter-Klippel-Str",50.832832,12.98972
+887,243917,"Chemnitz, Waplerstr",50.81641,12.912025
+888,300476,"Chemnitz, Waplerstr",50.816128,12.911548
+889,146861,"Chemnitz, Wartburgstr",50.81741,12.940196
+890,174452,"Chemnitz, Wartburgstr",50.817093,12.940429
+891,182530,"Chemnitz, Wartburgstr",50.817394,12.939908
+892,21754,"Chemnitz, Wartburgstr",50.818176,12.939315
+893,219047,"Chemnitz, Wartburgstr",50.81765,12.939702
+894,44641,"Chemnitz, Wartburgstr",50.817505,12.938561
+895,311070,"Chemnitz, Wattstr",50.839653,12.895576
+896,64373,"Chemnitz, Wattstr",50.840054,12.896852
+897,380178,"Chemnitz, Weigandstr",50.830086,12.822696
+898,54057,"Chemnitz, Weigandstr",50.830246,12.822346
+899,163348,"Chemnitz, Wenzel-Verner-Str",50.807903,12.897894
+900,232602,"Chemnitz, Wenzel-Verner-Str",50.807873,12.89775
+901,147192,"Chemnitz, Weststr",50.830467,12.890393
+902,191567,"Chemnitz, Weststr",50.83041,12.889908
+903,196479,"Chemnitz, Wiesengrund",50.835495,12.859213
+904,5205,"Chemnitz, Wiesengrund",50.835705,12.857434
+905,220467,"Chemnitz, Wilhelm-Busch-Str",50.804855,12.971861
+906,270234,"Chemnitz, Wilhelm-Busch-Str",50.804325,12.971789
+907,131652,"Chemnitz, Wilhelm-Firl-Str",50.795235,12.900203
+908,331381,"Chemnitz, Wilhelm-Firl-Str",50.79472,12.900652
+909,102008,"Chemnitz, Wilhelm-Külz-Platz",50.846092,12.929847
+910,145073,"Chemnitz, Wilhelm-Külz-Platz",50.84634,12.930224
+911,61347,"Chemnitz, Wittenberger Str",50.820667,12.940061
+912,182746,"Chemnitz, Wittgensdorfer Str",50.856453,12.895514
+913,451295,"Chemnitz, Wittgensdorfer Str",50.856846,12.895325
+914,130603,"Chemnitz, Würzburger Str",50.83546,12.943582
+915,257091,"Chemnitz, Würzburger Str",50.835194,12.945586
+916,126611,"Chemnitz, Yorckgebiet",50.83285,12.966292
+917,225782,"Chemnitz, Yorckgebiet",50.8327,12.965977
+918,395646,"Chemnitz, Yorckgebiet",50.83281,12.966337
+919,109193,"Chemnitz, Yorckstr",50.836277,12.956015
+920,899,"Chemnitz, Yorckstr",50.83694,12.956213
+921,260189,"Chemnitz, Zeisigwald, Klinik Bethanien",50.83927,12.963121
+922,423915,"Chemnitz, Zeisigwald, Klinik Bethanien",50.83969,12.963669
+923,45165,"Chemnitz, Zeisigwaldstr",50.837643,12.960201
+924,54523,"Chemnitz, Zeisigwaldstr",50.837757,12.959752
+925,145148,"Chemnitz, Zentralhaltestelle",50.83169,12.922131
+926,159366,"Chemnitz, Zentralhaltestelle",50.83183,12.923182
+927,200777,"Chemnitz, Zentralhaltestelle",50.83214,12.923828
+928,228917,"Chemnitz, Zentralhaltestelle",50.83178,12.922741
+929,284041,"Chemnitz, Zentralhaltestelle",50.83205,12.921888
+930,314700,"Chemnitz, Zentralhaltestelle",50.83188,12.922939
+931,421677,"Chemnitz, Zentralhaltestelle",50.831596,12.923343
+932,425670,"Chemnitz, Zentralhaltestelle",50.83189,12.923155
+933,441009,"Chemnitz, Zentralhaltestelle",50.832222,12.921906
+934,445471,"Chemnitz, Zentralhaltestelle",50.831715,12.922167
+935,49838,"Chemnitz, Zentralhaltestelle",50.832745,12.921385
+936,85024,"Chemnitz, Zentralhaltestelle",50.832203,12.921825
+937,38878,"Chemnitz, Zieschestr/Schauspielhaus",50.831844,12.931455
+938,430882,"Chemnitz, Zieschestr/Schauspielhaus",50.831665,12.932048
+939,107433,"Chemnitz, Zietenstr",50.83539,12.939774
+940,117905,"Chemnitz, Zietenstr",50.835613,12.940582
+941,192104,"Chemnitz, Zietenstr",50.835697,12.941022
+942,441343,"Chemnitz, Zietenstr",50.836033,12.939917
+943,163261,"Chemnitz, Zinzendorfstr",50.834015,12.883916
+944,171427,"Chemnitz, Zinzendorfstr",50.833874,12.883916
+945,206432,"Chemnitz, Zschopauer Str",50.8241,12.932937
+946,380377,"Chemnitz, Zschopauer Str",50.824177,12.933117
+947,100634,"Chemnitz, Zöllnerplatz",50.84823,12.92779
+948,4856,"Chemnitz, Zöllnerplatz",50.847538,12.927476
+949,357682,"Chemnitz, Zöllnerstr",50.844593,12.930045
+950,99496,"Chemnitz, Zöllnerstr",50.843826,12.929703
+951,353747,"Chemnitz, ehem Gh Schere",50.823334,12.999988
+952,52890,"Chemnitz, ehem Gh Schere",50.823254,13.001425
+953,191623,"Chemnitz, eins energie in sachsen",50.833206,12.927269
+954,21746,"Chemnitz, eins energie in sachsen",50.833443,12.927682
+955,440482,"Chemnitz, eins energie in sachsen",50.833492,12.926793
+956,30036,"Chemnitz, Überflieger",50.81202,12.874152
+957,146188,"Chemnitz,Clara-Zetkin-Str/Schauspielhaus",50.8271,12.928419
+958,286790,"Chemnitz,Clara-Zetkin-Str/Schauspielhaus",50.827755,12.928239
+959,195316,"Chemnitz,Rehabilitationszentr für Blinde",50.841797,12.876981
+960,318730,"Chemnitz,Rehabilitationszentr für Blinde",50.841774,12.877844
+961,361446,"Chemnitz,Thomas-Mann-Platz/SACHSEN-ALLEE",50.84498,12.937321
+962,75361,"Chemnitz,Thomas-Mann-Platz/SACHSEN-ALLEE",50.84477,12.937348
+963,300026,Chemnitz-Center (Ringstraße),50.863617,12.866867
+964,341822,Chemnitz-Friedrichstraße,50.772877,12.919328
+965,458279,Chemnitz-Harthau,50.77687,12.924197
+966,206160,"Draisdorf, Ortseingang",50.88393,12.897014
+967,398293,"Draisdorf, Ortseingang",50.88337,12.897499
+968,240595,"Einsiedel August-Bebel-Platz, Chemnitz",50.76814,12.973505
+969,380576,"Einsiedel Funkstr., Chemnitz",50.78089,12.972679
+970,173343,"Einsiedel Rathaus, Chemnitz",50.773586,12.974089
+971,232917,"Einsiedel, Abzw Berbisdorf",50.76825,12.969184
+972,372445,"Einsiedel, Abzw Berbisdorf",50.768314,12.969175
+973,225749,"Einsiedel, Am Feld",50.763466,12.973793
+974,249555,"Einsiedel, Am Feld",50.763325,12.973703
+975,230074,"Einsiedel, Am Plan",50.770367,12.973883
+976,434369,"Einsiedel, Am Plan",50.770576,12.973927
+977,159806,"Einsiedel, August-Bebel-Platz",50.76833,12.973002
+978,395161,"Einsiedel, August-Bebel-Platz",50.767975,12.973451
+979,417037,"Einsiedel, August-Bebel-Platz",50.768295,12.973586
+980,263163,"Einsiedel, Brauerei",50.765167,12.974682
+981,65463,"Einsiedel, Brauerei",50.76519,12.974709
+982,259795,"Einsiedel, Eibenberger Str",50.762108,12.967738
+983,441826,"Einsiedel, Eibenberger Str",50.76224,12.968196
+984,16610,"Einsiedel, Funkstr",50.780987,12.972643
+985,60467,"Einsiedel, Funkstr",50.780766,12.972751
+986,342161,"Einsiedel, Kindergarten",50.77747,12.970927
+987,458149,"Einsiedel, Kindergarten",50.777454,12.970891
+988,304482,"Einsiedel, Rathaus",50.77352,12.974116
+989,335038,"Einsiedel, Rathaus",50.773643,12.973963
+990,152351,"Einsiedel, Rosenstr",50.766598,12.973424
+991,445313,"Einsiedel, Rosenstr",50.766403,12.973344
+992,252036,"Einsiedel, Sommerbad Einsiedel",50.766438,12.959033
+993,294413,"Einsiedel, Sommerbad Einsiedel",50.766434,12.958665
+994,317637,Euba,50.849335,13.007659
+995,4365,Euba,50.849392,13.00748
+996,283747,"Euba, Am Beutenberg",50.845486,12.985983
+997,7800,"Euba, Am Beutenberg",50.8466,12.98592
+998,115858,"Euba, Am Eubaer Bach",50.843292,13.018026
+999,195272,"Euba, Am Eubaer Bach",50.84283,13.018924
+1000,446953,"Euba, Am Lehngut",50.833866,13.021736
+1001,83393,"Euba, Am Lehngut",50.833656,13.021502
+1002,170248,"Euba, Anton-Günther-Siedlung",50.838383,12.989352
+1003,343095,"Euba, Anton-Günther-Siedlung",50.83806,12.990142
+1004,253608,"Euba, Bergeshöh",50.84572,13.014415
+1005,382045,"Euba, Bergeshöh",50.845467,13.014971
+1006,44908,"Euba, Beutenbergstr",50.843697,12.986621
+1007,155865,"Euba, Kuckucksdelle",50.833588,12.990897
+1008,286472,"Euba, Kuckucksdelle",50.833622,12.990816
+1009,168654,"Euba, Ortseingang",50.821663,13.028141
+1010,274910,"Euba, Ortseingang",50.821175,13.027018
+1011,273686,"Euba, Rosenplatz",50.841007,13.023173
+1012,82441,"Euba, Rosenplatz",50.84083,13.023263
+1013,164056,"Euba, Schwanauer Str",50.838223,13.025338
+1014,429914,"Euba, Schwanauer Str",50.837776,13.025113
+1015,315584,"Gornauer Str., Chemnitz",50.794033,12.943051
+1016,405128,Grüna,50.80957,12.769013
+1017,303429,"Grüna, An der Wiesenmühle",50.812218,12.809608
+1018,145856,"Grüna, Bleicherstr",50.81028,12.777062
+1019,371294,"Grüna, Bleicherstr",50.81045,12.778041
+1020,381918,"Grüna, Blumenweg",50.81506,12.792153
+1021,58085,"Grüna, Blumenweg",50.81542,12.792513
+1022,131108,"Grüna, Dorfstr",50.815094,12.801702
+1023,238875,"Grüna, Dorfstr",50.815895,12.801361
+1024,13770,"Grüna, Forsthaus Grüna",50.820015,12.799268
+1025,195585,"Grüna, HP Grüna",50.811802,12.800624
+1026,27392,"Grüna, HP Grüna",50.811825,12.800723
+1027,443932,"Grüna, Hexenberg",50.816605,12.797921
+1028,94850,"Grüna, Hexenberg",50.816467,12.797507
+1029,135020,"Grüna, Karl-Liebknecht-Str",50.812473,12.789521
+1030,63810,"Grüna, Karl-Liebknecht-Str",50.81251,12.789863
+1031,415115,"Grüna, Ortsmitte",50.810883,12.786719
+1032,23547,"Grüna, Pleißaer Str",50.81201,12.793124
+1033,287531,"Grüna, Pleißaer Str",50.812023,12.792638
+1034,419827,"Grüna, Poststr",50.812534,12.798253
+1035,54087,"Grüna, Poststr",50.812473,12.798235
+1036,276353,"Grüna, Rathaus",50.810635,12.7837
+1037,73339,"Grüna, Rathaus",50.81061,12.78441
+1038,413203,"Grüna, Reichenbrander Str",50.81351,12.809859
+1039,65170,"Grüna, Reichenbrander Str",50.81377,12.809778
+1040,122427,"Grüna, Teichstr",50.809834,12.772777
+1041,30329,"Grüna, Teichstr",50.80994,12.772992
+1042,48616,"Hauptbahnhof Bahnhofstr., Chemnitz",50.838196,12.929182
+1043,233131,Klaffenbach,50.754433,12.923029
+1044,363934,Klaffenbach,50.75425,12.923469
+1045,173762,Klaffenbach Hp,50.77226,12.903661
+1046,190125,Klaffenbach Hp,50.771458,12.901775
+1047,21536,Klaffenbach Hp,50.77157,12.902044
+1048,432008,"Klaffenbach, Adorfer Str",50.76574,12.906329
+1049,64520,"Klaffenbach, Adorfer Str",50.76548,12.906518
+1050,323145,"Klaffenbach, Am Steinbruch",50.75825,12.916399
+1051,401727,"Klaffenbach, Am Steinbruch",50.7586,12.916193
+1052,420242,"Klaffenbach, Bergschänke",50.755096,12.930117
+1053,422472,"Klaffenbach, Bergschänke",50.75521,12.930233
+1054,161089,"Klaffenbach, Mühle",50.7713,12.903176
+1055,295243,"Klaffenbach, Mühle",50.771355,12.903023
+1056,159878,"Klaffenbach, Rudolf-Drechsel-Str",50.77809,12.899125
+1057,348695,"Klaffenbach, Rudolf-Drechsel-Str",50.778305,12.899125
+1058,194014,"Klaffenbach, Rödelwaldstr",50.763184,12.909698
+1059,45865,"Klaffenbach, Rödelwaldstr",50.76316,12.909653
+1060,285758,"Klaffenbach, Schule",50.761383,12.914127
+1061,364660,"Klaffenbach, Schule",50.76132,12.914091
+1062,304271,"Kleinolberdorf, Gh Kleinolbersdorf",50.800686,13.020029
+1063,419522,"Kleinolberdorf, Gh Kleinolbersdorf",50.80072,13.019876
+1064,166911,"Kleinolbersdorf, Am Schwarzbach",50.798763,13.029093
+1065,383475,"Kleinolbersdorf, Am Schwarzbach",50.79892,13.028267
+1066,165341,"Kleinolbersdorf, Gartenstadt",50.795578,12.996035
+1067,56882,"Kleinolbersdorf, Gartenstadt",50.795704,12.99652
+1068,379943,"Kleinolbersdorf, Johannes-Ebert-Str",50.7995,13.007201
+1069,88592,"Kleinolbersdorf, Johannes-Ebert-Str",50.799873,13.007677
+1070,156535,"Kleinolbersdorf, Kirche",50.800995,13.016355
+1071,24727,"Kleinolbersdorf, Kirche",50.80093,13.016786
+1072,177920,"Kleinolbersdorf, Schillerstr",50.797436,13.001326
+1073,180348,"Kleinolbersdorf, Schillerstr",50.79752,13.001748
+1074,230383,"Kleinolbersdorf, Weg zur Sternmühle",50.798264,13.031653
+1075,342725,"Kleinolbersdorf, Weg zur Sternmühle",50.798344,13.031653
+1076,42761,"Mittelbach, Aktienstr",50.805344,12.804793
+1077,433762,"Mittelbach, Aktienstr",50.80416,12.806778
+1078,6529,"Mittelbach, Aktienstr",50.80239,12.805323
+1079,258046,"Mittelbach, Dorfstr",50.795235,12.79095
+1080,269897,"Mittelbach, Dorfstr",50.795403,12.791902
+1081,154057,"Mittelbach, Landgraben",50.79393,12.784643
+1082,9542,"Mittelbach, Landgraben",50.794056,12.784958
+1083,102466,"Mittelbach, Müllergasse",50.797653,12.794758
+1084,165502,"Mittelbach, Müllergasse",50.79757,12.794507
+1085,120066,"Mittelbach, Ortseingang",50.806126,12.808727
+1086,256262,"Mittelbach, Ortseingang",50.805977,12.808081
+1087,113631,"Mittelbach, Rathaus",50.799625,12.799672
+1088,54612,"Mittelbach, Rathaus",50.799614,12.800041
+1089,336372,"Oberlungwitz, Gh Landgraben",50.802273,12.772822
+1090,413426,"Oberlungwitz, Gh Landgraben",50.80195,12.773998
+1091,117493,"Omnibusbahnhof, Chemnitz",50.84069,12.926182
+1092,370577,"Pleißa, Industriepark West",50.822285,12.754765
+1093,74945,"Pleißa, Industriepark West",50.82255,12.754954
+1094,113301,"Rabenstein, Grünaer Str",50.829952,12.818914
+1095,272747,"Rabenstein, Grünaer Str",50.8295,12.817019
+1096,53248,"Rabenstein, Grünaer Str",50.829803,12.818178
+1097,250480,"Röhrsdorf, Alfred-Brehm-Str",50.8605,12.862743
+1098,187445,"Röhrsdorf, Chemnitz Center",50.863564,12.866749
+1099,356291,"Röhrsdorf, Chemnitz Center",50.86333,12.866606
+1100,48197,"Röhrsdorf, Chemnitz Center",50.862938,12.866184
+1101,62298,"Röhrsdorf, Chemnitz Center",50.863205,12.866417
+1102,2025,"Röhrsdorf, Chemnitz Center Marktkauf",50.8651,12.868313
+1103,367918,"Röhrsdorf, Gemeindepark",50.861217,12.834931
+1104,43060,"Röhrsdorf, Gemeindepark",50.861748,12.833772
+1105,119405,"Röhrsdorf, Genossenschaftsweg",50.86193,12.84987
+1106,343670,"Röhrsdorf, Genossenschaftsweg",50.861877,12.850211
+1107,247992,"Röhrsdorf, Gewerbegebiet Chemnitz-Park",50.867332,12.853409
+1108,254414,"Röhrsdorf, Gewerbegebiet Chemnitz-Park",50.867275,12.853454
+1109,176482,"Röhrsdorf, Gh Wildpark",50.862793,12.85367
+1110,191757,"Röhrsdorf, Gh Wildpark",50.862587,12.856931
+1111,295233,"Röhrsdorf, Heinrich-Heine Str",50.861176,12.842091
+1112,356179,"Röhrsdorf, Heinrich-Heine Str",50.860977,12.843151
+1113,118472,"Röhrsdorf, Jack-London-Str",50.864418,12.824475
+1114,274294,"Röhrsdorf, Jack-London-Str",50.86466,12.823747
+1115,173253,"Röhrsdorf, Löbenhainer Str",50.86234,12.812482
+1116,349639,"Röhrsdorf, Löbenhainer Str",50.862286,12.812114
+1117,104132,"Röhrsdorf, Post",50.861282,12.838156
+1118,308443,"Röhrsdorf, Post",50.861267,12.838183
+1119,208254,"Röhrsdorf, Querstr",50.86561,12.857793
+1120,176900,"Röhrsdorf, Röhrsdorfer Allee",50.877037,12.828724
+1121,204046,"Röhrsdorf, Röhrsdorfer Allee",50.877014,12.828993
+1122,225425,"Röhrsdorf, Röhrsdorfer Allee/SIEMENS",50.87215,12.841857
+1123,22632,"Röhrsdorf, Röhrsdorfer Allee/SIEMENS",50.873104,12.840752
+1124,229609,"Röhrsdorf, Röhrsdorfer Allee/SIEMENS",50.873158,12.840842
+1125,203244,"Röhrsdorf, Sebastian-Bach-Gasse",50.862293,12.830377
+1126,350009,"Röhrsdorf, Sebastian-Bach-Gasse",50.862633,12.829092
+1127,119691,"Röhrsdorf, Wasserschänkenstr",50.864594,12.81992
+1128,351512,"Röhrsdorf, Wasserschänkenstr",50.86453,12.819848
+1129,152518,"Röhrsdorf, Wasserschänkenstr/B 95",50.8754,12.827601
+1130,222249,"Röhrsdorf, Wasserschänkenstr/B 95",50.87554,12.827116
+1131,361778,"Röhrsdorf, Wildparkstr",50.867004,12.857551
+1132,267280,"TU Campus, Chemnitz",50.813816,12.930772
+1133,400782,"Treffurthstr., Chemnitz",50.819843,12.915833
+1134,156089,"Wittgensdorf, Am Regenbogenhaus",50.881214,12.867585
+1135,446129,"Wittgensdorf, Am Regenbogenhaus",50.881104,12.8671
+1136,306518,"Wittgensdorf, Am Wittgensdorfer Bach",50.881466,12.853131
+1137,388339,"Wittgensdorf, Am Wittgensdorfer Bach",50.881386,12.85314
+1138,128244,"Wittgensdorf, Bräuteichweg",50.879425,12.864028
+1139,404692,"Wittgensdorf, Bräuteichweg",50.879307,12.863246
+1140,359358,"Wittgensdorf, Chemnitztal",50.893147,12.892666
+1141,362528,"Wittgensdorf, Chemnitztal",50.89316,12.892711
+1142,165769,"Wittgensdorf, Herzogshöhe",50.88713,12.876918
+1143,371702,"Wittgensdorf, Herzogshöhe",50.88701,12.876505
+1144,234994,"Wittgensdorf, Kornweg",50.871136,12.874888
+1145,86264,"Wittgensdorf, Kornweg",50.870667,12.875463
+1146,213261,"Wittgensdorf, Marktsteig",50.89022,12.882901
+1147,334816,"Wittgensdorf, Marktsteig",50.89013,12.881949
+1148,245896,"Wittgensdorf, Mitte",50.87503,12.870639
+1149,384676,"Wittgensdorf, Mitte",50.874386,12.869894
+1150,50270,"Wittgensdorf, Mitte",50.875168,12.870801
+1151,53292,"Wittgensdorf, Mitte",50.874435,12.869804
+1152,101634,"Wittgensdorf, Nordplatz",50.87985,12.858458
+1153,42960,"Wittgensdorf, Nordplatz",50.879894,12.858566
+1154,140920,"Wittgensdorf, Oberer Bahnhof",50.88016,12.843384
+1155,151564,"Wittgensdorf, Oberer Bahnhof",50.879543,12.842917
+1156,177020,"Wittgensdorf, Oberer Bahnhof",50.880028,12.843708
+1157,436109,"Wittgensdorf, Oberer Bahnhof",50.88032,12.842666
+1158,283340,"Wittgensdorf, Rathaus",50.881817,12.869669
+1159,346963,"Wittgensdorf, Rathaus",50.882072,12.869777
+1160,185888,"Wittgensdorf, Schule",50.880978,12.870109
+1161,58271,"Wittgensdorf, Schule",50.879936,12.870504
+1162,175649,"Wittgensdorf, Steinbruchsweg",50.880417,12.839225
+1163,361834,"Wittgensdorf, Steinbruchsweg",50.88036,12.839495
+1164,311279,"Wittgensdorf, Zum Chemnitztalradweg",50.890907,12.888632
+1165,80578,"Wittgensdorf, Zum Chemnitztalradweg",50.89081,12.888498
+1166,219161,"Zentralhaltestelle, Chemnitz",50.83213,12.92381
+1167,91240,"Zentralhaltestelle, Chemnitz",50.831627,12.922292

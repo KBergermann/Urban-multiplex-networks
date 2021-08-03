@@ -1,0 +1,80 @@
+Parameters:
+alpha_const=0.010000, beta_const=0.010000, maxit_quadrature=5, maxit_fAb=10, top_k_centralities=10
+
+
+
+-----Total communicability-----
+Joint communicabilities:
+ TC_JC_ranking  node_id         stop_name  layer_id layer_name    value
+             1     1519   D-Spichernplatz         7        721 1.014081
+             2      582       D-Großmarkt         7        721 1.013302
+             3      857    D-Johannstraße         7        721 1.013302
+             4      367   D-Eckenerstraße         7        721 1.013286
+             5      109   D-An der Piwipp         7        721 1.009929
+             6      410 D-Elsässer Straße         7        721 1.009929
+             7     1724  D-Venloer Straße         7        721 1.009926
+             8     1616    D-Tannenstraße         7        721 1.009760
+             9     1083  D-Marienhospital         7        721 1.009413
+            10      487  D-Franziusstraße         7        721 1.009373
+Marginal node communicabilities:
+ TC_MNC_ranking  node_id         stop_name      value
+              1      904 D-Karolingerplatz 104.024860
+              2     1568   D-Steinstraße U 104.023311
+              3     1778      D-Wehrhahn S 104.022633
+              4      905 D-Karolingerplatz 104.022604
+              5     1575     D-Sternstraße 104.022547
+              6     1436 D-Schadowstraße U 104.022541
+              7      355         D-Dreieck 104.022224
+              8     1777      D-Wehrhahn S 104.022054
+              9     1569   D-Steinstraße U 104.022039
+             10     1827 D-Worringer Platz 104.021791
+Marginal layer communicabilities:
+ TC_MLC_ranking  layer_id layer_name       value
+              1         3        706 1878.646570
+              2         7        721 1878.420759
+              3        12        726 1878.380252
+              4        10        724 1878.370140
+              5        44        788 1878.363598
+              6        73        NE2 1878.359445
+              7        54        827 1878.351509
+              8        16        730 1878.333726
+              9        28        752 1878.332537
+             10        19        733 1878.330053
+
+-----Katz centrality-----
+Joint centralities:
+ KC_JC_ranking  node_id         stop_name  layer_id layer_name    value
+             1     1519   D-Spichernplatz         7        721 1.014140
+             2      582       D-Großmarkt         7        721 1.013374
+             3      857    D-Johannstraße         7        721 1.013374
+             4      367   D-Eckenerstraße         7        721 1.013341
+             5      109   D-An der Piwipp         7        721 1.009979
+             6      410 D-Elsässer Straße         7        721 1.009979
+             7     1724  D-Venloer Straße         7        721 1.009973
+             8     1616    D-Tannenstraße         7        721 1.009811
+             9     1083  D-Marienhospital         7        721 1.009448
+            10      487  D-Franziusstraße         7        721 1.009416
+Marginal node centralities:
+ KC_MNC_ranking  node_id         stop_name      value
+              1      904 D-Karolingerplatz 104.024933
+              2     1568   D-Steinstraße U 104.023381
+              3     1778      D-Wehrhahn S 104.022694
+              4      905 D-Karolingerplatz 104.022665
+              5     1575     D-Sternstraße 104.022620
+              6     1436 D-Schadowstraße U 104.022609
+              7      355         D-Dreieck 104.022312
+              8     1777      D-Wehrhahn S 104.022114
+              9     1569   D-Steinstraße U 104.022101
+             10     1827 D-Worringer Platz 104.021832
+Marginal layer centralities:
+ KC_MLC_ranking  layer_id layer_name       value
+              1         3        706 1878.648576
+              2         7        721 1878.422341
+              3        12        726 1878.381569
+              4        10        724 1878.371170
+              5        44        788 1878.364745
+              6        73        NE2 1878.360361
+              7        54        827 1878.352445
+              8        16        730 1878.334834
+              9        28        752 1878.333662
+             10        19        733 1878.331217

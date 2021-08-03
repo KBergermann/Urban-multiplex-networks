@@ -1,0 +1,80 @@
+Parameters:
+alpha_const=0.500000, beta_const=0.500000, maxit_quadrature=5, maxit_fAb=10, top_k_centralities=10
+
+
+
+-----Total communicability-----
+Joint communicabilities:
+ TC_JC_ranking  node_id                    stop_name  layer_id layer_name    value
+             1      207     Chemnitz, Chemnitzer Str        24        361 1.759047
+             2      570    Chemnitz, Ludwig-Kühn-Str        24        361 1.755169
+             3      571    Chemnitz, Ludwig-Kühn-Str        24        361 1.755169
+             4       31 Chemnitz, Alfred-Neubert-Str        24        361 1.709224
+             5       32 Chemnitz, Alfred-Neubert-Str        24        361 1.709215
+             6      583      Chemnitz, Margaretenstr        17         26 1.657080
+             7      728 Chemnitz, Rudolf-Liebold-Str        17         26 1.657080
+             8      420       Chemnitz, Helmholtzstr        17         26 1.657080
+             9      287           Chemnitz, Forststr        17         26 1.657079
+            10      854      Chemnitz, Trinitatisstr        17         26 1.657079
+Marginal node communicabilities:
+ TC_MNC_ranking  node_id                    stop_name     value
+              1      718         Chemnitz, Roter Turm 80.413012
+              2      469  Chemnitz, Innere Klosterstr 80.386786
+              3      470  Chemnitz, Innere Klosterstr 80.321987
+              4      243     Chemnitz, Dresdner Platz 80.195486
+              5      479 Chemnitz, Johann-Richter-Str 80.148776
+              6      616        Chemnitz, Morgenleite 80.117638
+              7      242     Chemnitz, Dresdner Platz 80.094540
+              8      269    Chemnitz, Ernst-Wabra-Str 80.094427
+              9       32 Chemnitz, Alfred-Neubert-Str 80.083216
+             10      644     Chemnitz, Omnibusbahnhof 80.079080
+Marginal layer communicabilities:
+ TC_MLC_ranking  layer_id layer_name       value
+              1        17         26 1199.041141
+              2        31         46 1190.384346
+              3         1        125 1186.778034
+              4        11        211 1185.868270
+              5        30         43 1185.570556
+              6        15        251 1183.619824
+              7         4        200 1183.400424
+              8        24        361 1182.254922
+              9         6        206 1180.904342
+             10        25        383 1179.503129
+
+-----Katz centrality-----
+Joint centralities:
+ KC_JC_ranking  node_id                    stop_name  layer_id layer_name    value
+             1      207     Chemnitz, Chemnitzer Str        24        361 2.252069
+             2      570    Chemnitz, Ludwig-Kühn-Str        24        361 2.215631
+             3      571    Chemnitz, Ludwig-Kühn-Str        24        361 2.215548
+             4       31 Chemnitz, Alfred-Neubert-Str        24        361 2.050193
+             5       32 Chemnitz, Alfred-Neubert-Str        24        361 2.049902
+             6      583      Chemnitz, Margaretenstr        17         26 2.020326
+             7      728 Chemnitz, Rudolf-Liebold-Str        17         26 2.020210
+             8      420       Chemnitz, Helmholtzstr        17         26 2.020205
+             9      287           Chemnitz, Forststr        17         26 2.019654
+            10      854      Chemnitz, Trinitatisstr        17         26 2.019633
+Marginal node centralities:
+ KC_MNC_ranking  node_id                    stop_name     value
+              1      469  Chemnitz, Innere Klosterstr 80.705076
+              2      718         Chemnitz, Roter Turm 80.681276
+              3      243     Chemnitz, Dresdner Platz 80.648158
+              4      470  Chemnitz, Innere Klosterstr 80.629422
+              5      479 Chemnitz, Johann-Richter-Str 80.594907
+              6      571    Chemnitz, Ludwig-Kühn-Str 80.543537
+              7      616        Chemnitz, Morgenleite 80.528619
+              8      570    Chemnitz, Ludwig-Kühn-Str 80.494419
+              9       32 Chemnitz, Alfred-Neubert-Str 80.462228
+             10      269    Chemnitz, Ernst-Wabra-Str 80.457875
+Marginal layer centralities:
+ KC_MLC_ranking  layer_id layer_name       value
+              1        17         26 1211.216493
+              2        31         46 1197.968244
+              3        30         43 1191.391982
+              4         1        125 1191.192610
+              5        11        211 1188.453763
+              6        15        251 1188.426429
+              7        24        361 1186.658853
+              8         4        200 1185.252851
+              9        25        383 1183.527424
+             10         6        206 1183.012627

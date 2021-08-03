@@ -1,0 +1,154 @@
+Parameters:
+alpha_const=0.500000, beta_const=0.500000, maxit_quadrature=5, maxit_fAb=10, top_k_centralities=10
+
+-----Subgraph centrality-----
+Joint centralities:
+ SC_JC_ranking  node_id                           stop_name  layer_id layer_name    value
+             1     1094             Stuttgart Straußstaffel        15         50 1.070058
+             2      925            Stuttgart Rosenbergplatz        15         50 1.070058
+             3      854              Stuttgart Planckstraße        15         50 1.070018
+             4      918 Stuttgart Rosenberg-/Johannesstraße        15         50 1.070015
+             5     1011       Stuttgart Schwab-/Bebelstraße        15         50 1.070015
+             6      438            Stuttgart Heidehofstraße        15         50 1.070015
+             7     1016   Stuttgart Schwab-/Reinsburgstraße        15         50 1.070015
+             8     1025        Stuttgart Schwarenbergstraße        15         50 1.069975
+             9      973         Stuttgart Schickhardtschule        15         50 1.069857
+            10     1202           Stuttgart Wagenburgstraße        15         50 1.063956
+Marginal node centralities:
+ SC_MNC_ranking  node_id                              stop_name     value
+              1      985                 Stuttgart Schlossplatz 90.191512
+              2      178              Stuttgart Charlottenplatz 90.191448
+              3      412 Stuttgart Hauptbf (Arnulf-Klett-Platz) 90.185878
+              4      176              Stuttgart Charlottenplatz 90.176303
+              5      990                 Stuttgart Schlossplatz 90.176244
+              6      824                      Stuttgart Olgaeck 90.172166
+              7      819                      Stuttgart Olgaeck 90.166640
+              8      414 Stuttgart Hauptbf (Arnulf-Klett-Platz) 90.157344
+              9      881                   Stuttgart Pragsattel 90.151917
+             10      214                  Stuttgart Dobelstraße 90.144943
+Marginal layer centralities:
+ SC_MLC_ranking  layer_id layer_name       value
+              1        15         50 1336.184500
+              2        18        503 1336.155175
+              3         4        122 1335.597890
+              4        37        748 1335.567354
+              5        11         42 1335.397741
+              6        61       BB09 1334.969182
+              7        51         92 1334.587966
+              8        21         53 1334.420323
+              9        40         80 1334.192575
+             10        34         73 1334.171413
+
+-----Resolvent-based subgraph centrality-----
+Joint centralities:
+ SCres_JC_ranking  node_id                           stop_name  layer_id layer_name    value
+                1     1094             Stuttgart Straußstaffel        15         50 1.174528
+                2      925            Stuttgart Rosenbergplatz        15         50 1.174527
+                3      854              Stuttgart Planckstraße        15         50 1.173166
+                4     1011       Stuttgart Schwab-/Bebelstraße        15         50 1.173067
+                5      918 Stuttgart Rosenberg-/Johannesstraße        15         50 1.173048
+                6      438            Stuttgart Heidehofstraße        15         50 1.172955
+                7     1016   Stuttgart Schwab-/Reinsburgstraße        15         50 1.172469
+                8     1025        Stuttgart Schwarenbergstraße        15         50 1.171444
+                9      973         Stuttgart Schickhardtschule        15         50 1.167079
+               10     1202           Stuttgart Wagenburgstraße        15         50 1.155935
+Marginal node centralities:
+ SCres_MNC_ranking  node_id                              stop_name     value
+                 1      985                 Stuttgart Schlossplatz 90.439584
+                 2      178              Stuttgart Charlottenplatz 90.437647
+                 3      412 Stuttgart Hauptbf (Arnulf-Klett-Platz) 90.424364
+                 4      176              Stuttgart Charlottenplatz 90.401002
+                 5      990                 Stuttgart Schlossplatz 90.399087
+                 6      824                      Stuttgart Olgaeck 90.391770
+                 7      819                      Stuttgart Olgaeck 90.379121
+                 8      414 Stuttgart Hauptbf (Arnulf-Klett-Platz) 90.353538
+                 9      881                   Stuttgart Pragsattel 90.342177
+                10      214                  Stuttgart Dobelstraße 90.329068
+Marginal layer centralities:
+ SCres_MLC_ranking  layer_id layer_name       value
+                 1        15         50 1340.689495
+                 2        18        503 1340.238035
+                 3         4        122 1338.918259
+                 4        37        748 1338.917561
+                 5        11         42 1338.466816
+                 6        61       BB09 1337.530196
+                 7        51         92 1336.581264
+                 8        21         53 1336.079419
+                 9        40         80 1335.532530
+                10        34         73 1335.475293
+
+-----Total communicability-----
+Joint communicabilities:
+ TC_JC_ranking  node_id                           stop_name  layer_id layer_name    value
+             1      925            Stuttgart Rosenbergplatz        15         50 1.696728
+             2     1094             Stuttgart Straußstaffel        15         50 1.696670
+             3      918 Stuttgart Rosenberg-/Johannesstraße        15         50 1.692822
+             4      854              Stuttgart Planckstraße        15         50 1.692688
+             5     1011       Stuttgart Schwab-/Bebelstraße        15         50 1.692306
+             6      438            Stuttgart Heidehofstraße        15         50 1.691901
+             7     1016   Stuttgart Schwab-/Reinsburgstraße        15         50 1.688750
+             8     1025        Stuttgart Schwarenbergstraße        15         50 1.687498
+             9     1202           Stuttgart Wagenburgstraße        15         50 1.658965
+            10      827               Stuttgart Ostendplatz        15         50 1.657377
+Marginal node communicabilities:
+ TC_MNC_ranking  node_id                              stop_name     value
+              1      985                 Stuttgart Schlossplatz 92.339344
+              2      178              Stuttgart Charlottenplatz 92.327680
+              3      412 Stuttgart Hauptbf (Arnulf-Klett-Platz) 92.297950
+              4      176              Stuttgart Charlottenplatz 92.219376
+              5      990                 Stuttgart Schlossplatz 92.209986
+              6      824                      Stuttgart Olgaeck 92.178362
+              7      819                      Stuttgart Olgaeck 92.157384
+              8      414 Stuttgart Hauptbf (Arnulf-Klett-Platz) 92.077588
+              9      881                   Stuttgart Pragsattel 91.958202
+             10      880                   Stuttgart Pragsattel 91.897339
+Marginal layer communicabilities:
+ TC_MLC_ranking  layer_id layer_name       value
+              1        18        503 1368.736239
+              2        15         50 1366.177122
+              3         4        122 1363.194589
+              4        37        748 1362.171016
+              5        11         42 1360.934894
+              6        61       BB09 1355.390289
+              7        21         53 1353.574299
+              8        40         80 1352.386638
+              9        51         92 1351.851860
+             10        34         73 1350.062119
+
+-----Katz centrality-----
+Joint centralities:
+ KC_JC_ranking  node_id                           stop_name  layer_id layer_name    value
+             1      925            Stuttgart Rosenbergplatz        15         50 2.107486
+             2     1094             Stuttgart Straußstaffel        15         50 2.106480
+             3      854              Stuttgart Planckstraße        15         50 2.095104
+             4     1011       Stuttgart Schwab-/Bebelstraße        15         50 2.094058
+             5      918 Stuttgart Rosenberg-/Johannesstraße        15         50 2.091742
+             6      438            Stuttgart Heidehofstraße        15         50 2.086868
+             7     1025        Stuttgart Schwarenbergstraße        15         50 2.068763
+             8     1016   Stuttgart Schwab-/Reinsburgstraße        15         50 2.047733
+             9      360                Stuttgart Gablenberg        15         50 2.032495
+            10      126             Stuttgart Bismarckplatz        15         50 2.027505
+Marginal node centralities:
+ KC_MNC_ranking  node_id                              stop_name     value
+              1      985                 Stuttgart Schlossplatz 93.221909
+              2      178              Stuttgart Charlottenplatz 93.186765
+              3      412 Stuttgart Hauptbf (Arnulf-Klett-Platz) 93.150453
+              4      176              Stuttgart Charlottenplatz 93.011559
+              5      990                 Stuttgart Schlossplatz 92.981698
+              6      824                      Stuttgart Olgaeck 92.947281
+              7      819                      Stuttgart Olgaeck 92.935795
+              8      414 Stuttgart Hauptbf (Arnulf-Klett-Platz) 92.785345
+              9      881                   Stuttgart Pragsattel 92.599046
+             10      880                   Stuttgart Pragsattel 92.540131
+Marginal layer centralities:
+ KC_MLC_ranking  layer_id layer_name       value
+              1        15         50 1383.501944
+              2        18        503 1382.717468
+              3         4        122 1374.583822
+              4        37        748 1374.076094
+              5        11         42 1371.524244
+              6        61       BB09 1364.175523
+              7        21         53 1358.890074
+              8        51         92 1358.448405
+              9        40         80 1356.445405
+             10        34         73 1353.901170

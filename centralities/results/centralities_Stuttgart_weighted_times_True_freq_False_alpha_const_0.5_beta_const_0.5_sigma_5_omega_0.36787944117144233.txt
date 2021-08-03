@@ -1,0 +1,154 @@
+Parameters:
+alpha_const=0.500000, beta_const=0.500000, maxit_quadrature=5, maxit_fAb=10, top_k_centralities=10
+
+-----Subgraph centrality-----
+Joint centralities:
+ SC_JC_ranking  node_id                      stop_name  layer_id layer_name    value
+             1      705 Stuttgart Max-Planck-Institute        80         U6 1.040091
+             2     1004             Stuttgart Schranne        17        502 1.030584
+             3      793          Stuttgart Nobelstraße        69        U13 1.030229
+             4     1232        Stuttgart Weilimdorf Bf        39         77 1.028834
+             5      254            Stuttgart EnBW City        70        U14 1.028668
+             6      790          Stuttgart Nobelstraße        69        U13 1.028516
+             7     1312 Stuttgart Zuffenhausen Porsche        60       BB08 1.026538
+             8      391   Stuttgart Großglocknerstraße        56       BB04 1.025378
+             9      344     Stuttgart Fritz-Walter-Weg        53       BB01 1.025376
+            10       68             Stuttgart Auwiesen        44       816A 1.025359
+Marginal node centralities:
+ SC_MNC_ranking  node_id                      stop_name     value
+              1      705 Stuttgart Max-Planck-Institute 90.174610
+              2      793          Stuttgart Nobelstraße 90.173392
+              3      790          Stuttgart Nobelstraße 90.166525
+              4      624             Stuttgart Lauchhau 90.158436
+              5      621             Stuttgart Lauchhau 90.156753
+              6     1143          Stuttgart Universität 90.141868
+              7     1004             Stuttgart Schranne 90.134866
+              8     1140          Stuttgart Universität 90.128524
+              9      702 Stuttgart Max-Planck-Institute 90.125005
+             10      867      Stuttgart Plieningen Post 90.123873
+Marginal layer centralities:
+ SC_MLC_ranking  layer_id layer_name       value
+              1        18        503 1334.208043
+              2        40         80 1334.166727
+              3        21         53 1334.003964
+              4         4        122 1333.996662
+              5        11         42 1333.927102
+              6        20         52 1333.870407
+              7        69        U13 1333.856932
+              8         7         23 1333.829199
+              9        17        502 1333.820269
+             10        37        748 1333.810197
+
+-----Resolvent-based subgraph centrality-----
+Joint centralities:
+ SCres_JC_ranking  node_id                      stop_name  layer_id layer_name    value
+                1      705 Stuttgart Max-Planck-Institute        80         U6 1.094790
+                2      793          Stuttgart Nobelstraße        69        U13 1.071131
+                3     1004             Stuttgart Schranne        17        502 1.071033
+                4      790          Stuttgart Nobelstraße        69        U13 1.067708
+                5     1232        Stuttgart Weilimdorf Bf        39         77 1.062204
+                6      254            Stuttgart EnBW City        70        U14 1.062042
+                7     1143          Stuttgart Universität        80         U6 1.060509
+                8     1143          Stuttgart Universität        63        RT4 1.060503
+                9      621             Stuttgart Lauchhau        80         U6 1.058046
+               10      790          Stuttgart Nobelstraße        80         U6 1.057192
+Marginal node centralities:
+ SCres_MNC_ranking  node_id                      stop_name     value
+                 1      705 Stuttgart Max-Planck-Institute 90.415133
+                 2      793          Stuttgart Nobelstraße 90.410675
+                 3      790          Stuttgart Nobelstraße 90.396784
+                 4      624             Stuttgart Lauchhau 90.378196
+                 5      621             Stuttgart Lauchhau 90.376756
+                 6     1143          Stuttgart Universität 90.348349
+                 7     1004             Stuttgart Schranne 90.314191
+                 8     1140          Stuttgart Universität 90.303162
+                 9      702 Stuttgart Max-Planck-Institute 90.290436
+                10       38        Stuttgart Am Schattwald 90.287460
+Marginal layer centralities:
+ SCres_MLC_ranking  layer_id layer_name       value
+                 1        18        503 1335.608121
+                 2        40         80 1335.475583
+                 3        21         53 1335.143149
+                 4         4        122 1335.142098
+                 5        11         42 1334.989052
+                 6        69        U13 1334.859448
+                 7        20         52 1334.832378
+                 8         7         23 1334.778122
+                 9        17        502 1334.766023
+                10        44       816A 1334.710685
+
+-----Total communicability-----
+Joint communicabilities:
+ TC_JC_ranking  node_id                      stop_name  layer_id layer_name    value
+             1      705 Stuttgart Max-Planck-Institute        80         U6 2.034128
+             2      793          Stuttgart Nobelstraße        69        U13 1.836894
+             3      790          Stuttgart Nobelstraße        69        U13 1.829337
+             4     1004             Stuttgart Schranne        17        502 1.798044
+             5     1143          Stuttgart Universität        80         U6 1.744362
+             6     1143          Stuttgart Universität        63        RT4 1.743983
+             7      621             Stuttgart Lauchhau        80         U6 1.738408
+             8      624             Stuttgart Lauchhau        80         U6 1.738358
+             9      793          Stuttgart Nobelstraße        80         U6 1.721601
+            10      790          Stuttgart Nobelstraße        80         U6 1.720431
+Marginal node communicabilities:
+ TC_MNC_ranking  node_id                      stop_name     value
+              1      705 Stuttgart Max-Planck-Institute 95.178893
+              2      793          Stuttgart Nobelstraße 95.124583
+              3      790          Stuttgart Nobelstraße 95.069183
+              4     1143          Stuttgart Universität 94.975417
+              5      621             Stuttgart Lauchhau 94.922520
+              6      624             Stuttgart Lauchhau 94.913609
+              7     1140          Stuttgart Universität 94.162502
+              8       38        Stuttgart Am Schattwald 93.967225
+              9     1004             Stuttgart Schranne 93.864454
+             10      702 Stuttgart Max-Planck-Institute 93.648189
+Marginal layer communicabilities:
+ TC_MLC_ranking  layer_id layer_name       value
+              1        18        503 1361.757525
+              2        40         80 1357.596036
+              3         4        122 1356.108499
+              4        21         53 1354.843594
+              5        11         42 1354.124702
+              6        69        U13 1353.043487
+              7         7         23 1352.397475
+              8        34         73 1351.056317
+              9        20         52 1351.051706
+             10        44       816A 1350.512193
+
+-----Katz centrality-----
+Joint centralities:
+ KC_JC_ranking  node_id                      stop_name  layer_id layer_name    value
+             1      705 Stuttgart Max-Planck-Institute        80         U6 2.616222
+             2      790          Stuttgart Nobelstraße        69        U13 2.291207
+             3      793          Stuttgart Nobelstraße        69        U13 2.282713
+             4      621             Stuttgart Lauchhau        80         U6 2.218028
+             5      624             Stuttgart Lauchhau        80         U6 2.212849
+             6     1004             Stuttgart Schranne        17        502 2.202935
+             7      790          Stuttgart Nobelstraße        80         U6 2.157407
+             8      793          Stuttgart Nobelstraße        80         U6 2.157394
+             9      621             Stuttgart Lauchhau        75        U29 2.151714
+            10      793          Stuttgart Nobelstraße        63        RT4 2.145377
+Marginal node centralities:
+ KC_MNC_ranking  node_id                      stop_name     value
+              1      793          Stuttgart Nobelstraße 98.045129
+              2      790          Stuttgart Nobelstraße 98.008731
+              3      705 Stuttgart Max-Planck-Institute 98.000224
+              4      621             Stuttgart Lauchhau 97.871395
+              5      624             Stuttgart Lauchhau 97.759351
+              6     1143          Stuttgart Universität 97.228627
+              7     1140          Stuttgart Universität 96.065606
+              8     1004             Stuttgart Schranne 95.944789
+              9       38        Stuttgart Am Schattwald 95.784828
+             10      702 Stuttgart Max-Planck-Institute 95.522561
+Marginal layer centralities:
+ KC_MLC_ranking  layer_id layer_name       value
+              1        18        503 1370.227682
+              2        40         80 1363.516334
+              3         4        122 1362.642841
+              4        21         53 1360.626926
+              5        11         42 1360.038461
+              6        69        U13 1359.543383
+              7         7         23 1357.650135
+              8        66       RT70 1356.403395
+              9        34         73 1355.763104
+             10        17        502 1355.648459

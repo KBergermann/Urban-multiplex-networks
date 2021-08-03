@@ -1,0 +1,80 @@
+Parameters:
+alpha_const=0.500000, beta_const=0.500000, maxit_quadrature=5, maxit_fAb=10, top_k_centralities=10
+
+
+
+-----Total communicability-----
+Joint communicabilities:
+ TC_JC_ranking  node_id                     stop_name  layer_id layer_name    value
+             1      207      Chemnitz, Chemnitzer Str        24        361 1.765405
+             2      571     Chemnitz, Ludwig-Kühn-Str        24        361 1.765121
+             3      570     Chemnitz, Ludwig-Kühn-Str        24        361 1.765038
+             4       32  Chemnitz, Alfred-Neubert-Str        24        361 1.719395
+             5       31  Chemnitz, Alfred-Neubert-Str        24        361 1.719303
+             6      287            Chemnitz, Forststr        17         26 1.672349
+             7       76  Chemnitz, Am Schnellen Markt        17         26 1.671336
+             8      123 Chemnitz, Bahnhof Hilbersdorf        17         26 1.670756
+             9      420        Chemnitz, Helmholtzstr        17         26 1.669935
+            10      583       Chemnitz, Margaretenstr        17         26 1.666249
+Marginal node communicabilities:
+ TC_MNC_ranking  node_id                    stop_name     value
+              1      931 Chemnitz, Zentralhaltestelle 81.446616
+              2      469  Chemnitz, Innere Klosterstr 80.566198
+              3      718         Chemnitz, Roter Turm 80.510868
+              4      470  Chemnitz, Innere Klosterstr 80.451048
+              5      719         Chemnitz, Roter Turm 80.281278
+              6      848       Chemnitz, Theaterplatz 80.254004
+              7      928 Chemnitz, Zentralhaltestelle 80.232989
+              8      243     Chemnitz, Dresdner Platz 80.225430
+              9      876          Chemnitz, Waisenstr 80.209451
+             10      644     Chemnitz, Omnibusbahnhof 80.208714
+Marginal layer communicabilities:
+ TC_MLC_ranking  layer_id layer_name       value
+              1        17         26 1199.717861
+              2        31         46 1191.047208
+              3         1        125 1187.159727
+              4        11        211 1186.561410
+              5        30         43 1185.953563
+              6        15        251 1184.306463
+              7         4        200 1183.966796
+              8        24        361 1182.613132
+              9         6        206 1181.307666
+             10        25        383 1179.912344
+
+-----Katz centrality-----
+Joint centralities:
+ KC_JC_ranking  node_id                     stop_name  layer_id layer_name    value
+             1      207      Chemnitz, Chemnitzer Str        24        361 2.265705
+             2      571     Chemnitz, Ludwig-Kühn-Str        24        361 2.232640
+             3      570     Chemnitz, Ludwig-Kühn-Str        24        361 2.232427
+             4       32  Chemnitz, Alfred-Neubert-Str        24        361 2.066361
+             5       31  Chemnitz, Alfred-Neubert-Str        24        361 2.066271
+             6      287            Chemnitz, Forststr        17         26 2.038082
+             7      420        Chemnitz, Helmholtzstr        17         26 2.037716
+             8      583       Chemnitz, Margaretenstr        17         26 2.034202
+             9      854       Chemnitz, Trinitatisstr        17         26 2.030617
+            10      123 Chemnitz, Bahnhof Hilbersdorf        17         26 2.029542
+Marginal node centralities:
+ KC_MNC_ranking  node_id                    stop_name     value
+              1      931 Chemnitz, Zentralhaltestelle 81.743312
+              2      469  Chemnitz, Innere Klosterstr 80.926074
+              3      718         Chemnitz, Roter Turm 80.817387
+              4      470  Chemnitz, Innere Klosterstr 80.791377
+              5      243     Chemnitz, Dresdner Platz 80.698327
+              6      479 Chemnitz, Johann-Richter-Str 80.617599
+              7      571    Chemnitz, Ludwig-Kühn-Str 80.589378
+              8      616        Chemnitz, Morgenleite 80.548749
+              9      570    Chemnitz, Ludwig-Kühn-Str 80.538470
+             10      848       Chemnitz, Theaterplatz 80.512994
+Marginal layer centralities:
+ KC_MLC_ranking  layer_id layer_name       value
+              1        17         26 1212.155720
+              2        31         46 1198.883706
+              3        30         43 1191.912948
+              4         1        125 1191.687409
+              5        11        211 1189.290896
+              6        15        251 1189.265582
+              7        24        361 1187.099876
+              8         4        200 1185.918657
+              9        25        383 1184.052768
+             10         6        206 1183.498132

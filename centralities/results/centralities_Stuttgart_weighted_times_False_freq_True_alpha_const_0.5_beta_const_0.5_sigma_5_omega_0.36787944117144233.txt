@@ -1,0 +1,154 @@
+Parameters:
+alpha_const=0.500000, beta_const=0.500000, maxit_quadrature=5, maxit_fAb=10, top_k_centralities=10
+
+-----Subgraph centrality-----
+Joint centralities:
+ SC_JC_ranking  node_id                              stop_name  layer_id layer_name    value
+             1     1200              Stuttgart Wagenburgstraße        15         50 1.065059
+             2      639                Stuttgart Libanonstraße        15         50 1.065059
+             3      828                  Stuttgart Ostendplatz        15         50 1.064542
+             4      360                   Stuttgart Gablenberg        15         50 1.064542
+             5      854                 Stuttgart Planckstraße        15         50 1.064024
+             6     1025           Stuttgart Schwarenbergstraße        15         50 1.064024
+             7      409 Stuttgart Hauptbf (Arnulf-Klett-Platz)        15         50 1.064021
+             8      551           Stuttgart Katharinenhospital        15         50 1.064021
+             9      642                Stuttgart Linden-Museum        15         50 1.064021
+            10      919      Stuttgart Rosenberg-/Seidenstraße        15         50 1.064021
+Marginal node centralities:
+ SC_MNC_ranking  node_id                              stop_name     value
+              1      985                 Stuttgart Schlossplatz 90.175118
+              2      412 Stuttgart Hauptbf (Arnulf-Klett-Platz) 90.175118
+              3      178              Stuttgart Charlottenplatz 90.175116
+              4      819                      Stuttgart Olgaeck 90.174300
+              5      990                 Stuttgart Schlossplatz 90.161209
+              6      414 Stuttgart Hauptbf (Arnulf-Klett-Platz) 90.161209
+              7      176              Stuttgart Charlottenplatz 90.161207
+              8      824                      Stuttgart Olgaeck 90.160577
+              9      215                  Stuttgart Dobelstraße 90.148019
+             10      880                   Stuttgart Pragsattel 90.145818
+Marginal layer centralities:
+ SC_MLC_ranking  layer_id layer_name       value
+              1        18        503 1336.360254
+              2        15         50 1336.151788
+              3         4        122 1335.770895
+              4        37        748 1335.689512
+              5        11         42 1335.439751
+              6        61       BB09 1335.192672
+              7        51         92 1334.761573
+              8        21         53 1334.411567
+              9        34         73 1334.251499
+             10        40         80 1334.227739
+
+-----Resolvent-based subgraph centrality-----
+Joint centralities:
+ SCres_JC_ranking  node_id                              stop_name  layer_id layer_name    value
+                1      639                Stuttgart Libanonstraße        15         50 1.159315
+                2     1200              Stuttgart Wagenburgstraße        15         50 1.159315
+                3      828                  Stuttgart Ostendplatz        15         50 1.157871
+                4      360                   Stuttgart Gablenberg        15         50 1.157871
+                5     1025           Stuttgart Schwarenbergstraße        15         50 1.156422
+                6      854                 Stuttgart Planckstraße        15         50 1.156422
+                7     1160                  Stuttgart Urachstraße        15         50 1.156316
+                8     1094                Stuttgart Straußstaffel        15         50 1.156316
+                9      340                Stuttgart Friedenstraße        15         50 1.156309
+               10      409 Stuttgart Hauptbf (Arnulf-Klett-Platz)        15         50 1.156309
+Marginal node centralities:
+ SCres_MNC_ranking  node_id                              stop_name     value
+                 1      412 Stuttgart Hauptbf (Arnulf-Klett-Platz) 90.397619
+                 2      985                 Stuttgart Schlossplatz 90.397618
+                 3      178              Stuttgart Charlottenplatz 90.397564
+                 4      819                      Stuttgart Olgaeck 90.395689
+                 5      414 Stuttgart Hauptbf (Arnulf-Klett-Platz) 90.362580
+                 6      990                 Stuttgart Schlossplatz 90.362579
+                 7      176              Stuttgart Charlottenplatz 90.362541
+                 8      824                      Stuttgart Olgaeck 90.361111
+                 9      215                  Stuttgart Dobelstraße 90.338605
+                10      133                       Stuttgart Bopser 90.330204
+Marginal layer centralities:
+ SCres_MLC_ranking  layer_id layer_name       value
+                 1        18        503 1340.724316
+                 2        15         50 1340.590146
+                 3         4        122 1339.330769
+                 4        37        748 1339.222566
+                 5        11         42 1338.552402
+                 6        61       BB09 1338.090978
+                 7        51         92 1337.009260
+                 8        21         53 1336.050356
+                 9        34         73 1335.681454
+                10        40         80 1335.609693
+
+-----Total communicability-----
+Joint communicabilities:
+ TC_JC_ranking  node_id                              stop_name  layer_id layer_name    value
+             1     1200              Stuttgart Wagenburgstraße        15         50 1.665043
+             2      639                Stuttgart Libanonstraße        15         50 1.665043
+             3      828                  Stuttgart Ostendplatz        15         50 1.662035
+             4      360                   Stuttgart Gablenberg        15         50 1.662035
+             5      409 Stuttgart Hauptbf (Arnulf-Klett-Platz)        15         50 1.659185
+             6      551           Stuttgart Katharinenhospital        15         50 1.658855
+             7      642                Stuttgart Linden-Museum        15         50 1.658811
+             8      919      Stuttgart Rosenberg-/Seidenstraße        15         50 1.658809
+             9      918    Stuttgart Rosenberg-/Johannesstraße        15         50 1.658745
+            10     1025           Stuttgart Schwarenbergstraße        15         50 1.658635
+Marginal node communicabilities:
+ TC_MNC_ranking  node_id                              stop_name     value
+              1      985                 Stuttgart Schlossplatz 92.218765
+              2      412 Stuttgart Hauptbf (Arnulf-Klett-Platz) 92.218496
+              3      178              Stuttgart Charlottenplatz 92.218266
+              4      819                      Stuttgart Olgaeck 92.211365
+              5      990                 Stuttgart Schlossplatz 92.104262
+              6      414 Stuttgart Hauptbf (Arnulf-Klett-Platz) 92.103970
+              7      176              Stuttgart Charlottenplatz 92.103884
+              8      824                      Stuttgart Olgaeck 92.098399
+              9      880                   Stuttgart Pragsattel 91.916408
+             10      881                   Stuttgart Pragsattel 91.870931
+Marginal layer communicabilities:
+ TC_MLC_ranking  layer_id layer_name       value
+              1        18        503 1372.020548
+              2        15         50 1365.993199
+              3         4        122 1365.681599
+              4        37        748 1363.592206
+              5        11         42 1362.072622
+              6        61       BB09 1358.120388
+              7        21         53 1353.938351
+              8        51         92 1353.861694
+              9        40         80 1353.389313
+             10        34         73 1351.832783
+
+-----Katz centrality-----
+Joint centralities:
+ KC_JC_ranking  node_id                              stop_name  layer_id layer_name    value
+             1     1200              Stuttgart Wagenburgstraße        15         50 2.037819
+             2      639                Stuttgart Libanonstraße        15         50 2.037817
+             3      828                  Stuttgart Ostendplatz        15         50 2.032095
+             4      360                   Stuttgart Gablenberg        15         50 2.032086
+             5     1025           Stuttgart Schwarenbergstraße        15         50 2.025649
+             6      854                 Stuttgart Planckstraße        15         50 2.025613
+             7      409 Stuttgart Hauptbf (Arnulf-Klett-Platz)        15         50 2.024866
+             8      551           Stuttgart Katharinenhospital        15         50 2.024617
+             9      642                Stuttgart Linden-Museum        15         50 2.024541
+            10      919      Stuttgart Rosenberg-/Seidenstraße        15         50 2.024473
+Marginal node centralities:
+ KC_MNC_ranking  node_id                              stop_name     value
+              1      985                 Stuttgart Schlossplatz 93.017933
+              2      412 Stuttgart Hauptbf (Arnulf-Klett-Platz) 93.017301
+              3      178              Stuttgart Charlottenplatz 93.015989
+              4      819                      Stuttgart Olgaeck 93.004039
+              5      990                 Stuttgart Schlossplatz 92.815876
+              6      414 Stuttgart Hauptbf (Arnulf-Klett-Platz) 92.815159
+              7      176              Stuttgart Charlottenplatz 92.814518
+              8      824                      Stuttgart Olgaeck 92.805498
+              9      880                   Stuttgart Pragsattel 92.554712
+             10      215                  Stuttgart Dobelstraße 92.507734
+Marginal layer centralities:
+ KC_MLC_ranking  layer_id layer_name       value
+              1        18        503 1387.837180
+              2        15         50 1383.040048
+              3         4        122 1378.425405
+              4        37        748 1376.446026
+              5        11         42 1373.149005
+              6        61       BB09 1368.882896
+              7        51         92 1361.793719
+              8        21         53 1359.214081
+              9        40         80 1357.807429
+             10        34         73 1356.267856

@@ -1,0 +1,1334 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,274925,Nufringen Kuppinger Straße,48.779846,9.250467
+1,407957,Nufringen Kuppinger Straße,48.779846,9.250467
+2,220151,Stuttgart A.-Stuttg.-/Vaihinger Landstr.,48.777477,9.127267
+3,128583,Stuttgart Aalstraße,48.844913,9.221473
+4,176680,Stuttgart Aalstraße,48.843887,9.22106
+5,238772,Stuttgart Albblick,48.723663,9.094456
+6,429831,Stuttgart Albblick,48.723843,9.094769
+7,333804,Stuttgart Albert-Luthuli-Platz,48.815792,9.187671
+8,188522,Stuttgart Albert-Schäffle-Straße,48.7719,9.204159
+9,394674,Stuttgart Albert-Schäffle-Straße,48.771637,9.204566
+10,264571,Stuttgart Albschule,48.7426,9.165453
+11,306014,Stuttgart Albschule,48.7426,9.165453
+12,58975,Stuttgart Albschule,48.74169,9.16666
+13,37263,Stuttgart Alpseeweg,48.833397,9.229022
+14,69261,Stuttgart Alpseeweg,48.833736,9.229678
+15,277663,Stuttgart Alte Krone,48.779186,9.252831
+16,91188,Stuttgart Alte Stuttgarter-/Nöllenstr.,48.77825,9.124956
+17,373349,Stuttgart Altenburg,48.81176,9.21023
+18,374188,Stuttgart Altenburg,48.811462,9.209943
+19,301568,Stuttgart Alter Gutshof,48.81817,9.190594
+20,117755,Stuttgart Am Bergwald,48.756104,9.248499
+21,222829,Stuttgart Am Bergwald,48.756058,9.248716
+22,256817,Stuttgart Am Bismarckturm,48.791924,9.154237
+23,358205,Stuttgart Am Bismarckturm,48.792038,9.154782
+24,236388,Stuttgart Am Buberlesbach/G.-Mahler-Str.,48.776737,9.121537
+25,405707,Stuttgart Am Feldrand,48.736492,9.097703
+26,65861,Stuttgart Am Feldrand,48.736923,9.097228
+27,175997,Stuttgart Am Kriegsbergturm,48.789986,9.174101
+28,345026,Stuttgart Am Kriegsbergturm,48.789986,9.174101
+29,340421,Stuttgart Am Mittelkai,48.75457,9.265478
+30,297217,Stuttgart Am Ochsenwald,48.72059,9.091379
+31,341013,Stuttgart Am Ochsenwald,48.72076,9.091991
+32,96554,Stuttgart Am Ochsenwald,48.720913,9.091584
+33,160874,Stuttgart Am Römerkastell,48.813625,9.208563
+34,200088,Stuttgart Am Römerkastell,48.813644,9.208209
+35,406768,Stuttgart Am Römerkastell,48.813393,9.208548
+36,146462,Stuttgart Am Schattwald,48.75224,9.083577
+37,150306,Stuttgart Am Schattwald,48.751034,9.083833
+38,203733,Stuttgart Am Schattwald,48.751034,9.083833
+39,370598,Stuttgart Am Schattwald,48.75224,9.083577
+40,226559,Stuttgart Amstetter Straße,48.757053,9.256759
+41,228407,Stuttgart Amstetter Straße,48.757053,9.256759
+42,238849,Stuttgart Antwerpener Straße,48.808395,9.242945
+43,46370,Stuttgart Antwerpener Straße,48.808434,9.242931
+44,286011,Stuttgart Arndt-/Spittastraße,48.77485,9.150784
+45,325930,Stuttgart Arndt-/Spittastraße,48.774876,9.150784
+46,364860,Stuttgart Asang,48.770863,9.274094
+47,416886,Stuttgart Asang,48.770863,9.274094
+48,1852,Stuttgart Asemwald,48.726246,9.192406
+49,214446,Stuttgart Asemwald,48.726246,9.192406
+50,326729,Stuttgart Aspen,48.78702,9.267609
+51,75925,Stuttgart Aspen,48.78702,9.267609
+52,237563,Stuttgart Aspenwald-/Kullenbergstr.,48.77428,9.122524
+53,272074,Stuttgart Aspenwaldstraße,48.77355,9.125719
+54,388716,Stuttgart Aspenwaldstraße,48.7738,9.126223
+55,205736,Stuttgart Asperger Straße,48.852608,9.155487
+56,436631,Stuttgart Asperger Straße,48.852608,9.155487
+57,416995,Stuttgart Auberlen-/Brahmsweg,48.774414,9.132225
+58,36490,Stuttgart Auberlenweg,48.77383,9.1304
+59,416652,Stuttgart Auberlenweg,48.773823,9.1304
+60,215454,Stuttgart Auf der Gans,48.81881,9.24226
+61,319994,Stuttgart Auf der Gans,48.81857,9.241796
+62,135408,Stuttgart Augsburger Platz,48.805904,9.230844
+63,329962,Stuttgart Augsburger Platz,48.805878,9.230816
+64,454175,Stuttgart Augustinum,48.738976,9.214412
+65,51926,Stuttgart Augustinum,48.738976,9.214412
+66,153794,Stuttgart Auwiesen,48.839474,9.225345
+67,174839,Stuttgart Auwiesen,48.83968,9.225169
+68,305828,Stuttgart Auwiesen,48.839466,9.224854
+69,443981,Stuttgart Auwiesen,48.839428,9.224895
+70,214390,Stuttgart Bachhalde,48.845757,9.227294
+71,258423,Stuttgart Bachhalde,48.845757,9.227294
+72,57290,Stuttgart Bad Cann. Wilhelmspl.(Badstr.),48.803432,9.215395
+73,272935,Stuttgart Bad Cannstatt,48.802097,9.217622
+74,290801,Stuttgart Bad Cannstatt,48.802,9.216778
+75,137082,Stuttgart Bad Cannstatt Wilhelmsplatz,48.803307,9.215667
+76,167581,Stuttgart Bad Cannstatt Wilhelmsplatz,48.802776,9.21576
+77,170748,Stuttgart Bad Cannstatt Wilhelmsplatz,48.803036,9.2167
+78,190488,Stuttgart Bad Cannstatt Wilhelmsplatz,48.80334,9.215667
+79,301440,Stuttgart Bad Cannstatt Wilhelmsplatz,48.802776,9.216127
+80,371207,Stuttgart Bad Cannstatt Wilhelmsplatz,48.80267,9.215446
+81,81873,Stuttgart Bad Cannstatt Wilhelmsplatz,48.802757,9.215814
+82,157755,Stuttgart Banzhaldenstraße,48.8061,9.142342
+83,106642,Stuttgart Baumgartenweg,48.7484,9.218151
+84,290561,Stuttgart Beethovenstraße,48.777164,9.133035
+85,364866,Stuttgart Beethovenstraße,48.77721,9.133375
+86,380364,Stuttgart Beethovenstraße,48.777084,9.133402
+87,446344,Stuttgart Beethovenstraße,48.777218,9.133307
+88,428016,Stuttgart Beilsteiner Straße,48.833237,9.177098
+89,211185,Stuttgart Belaustr. (Wendeplatte),48.777813,9.116777
+90,261052,Stuttgart Bergfriedhof,48.7891,9.204977
+91,372825,Stuttgart Bergfriedhof,48.789024,9.20612
+92,384032,Stuttgart Berghaustraße,48.714806,9.105352
+93,450189,Stuttgart Berghaustraße,48.714806,9.105352
+94,30618,Stuttgart Bergheimer Hof,48.804176,9.101088
+95,66286,Stuttgart Bergheimer Hof,48.80421,9.101075
+96,13991,Stuttgart Bergstaffelstraße,48.76574,9.26585
+97,37861,Stuttgart Bergstaffelstraße,48.76574,9.26585
+98,108227,Stuttgart Berliner Platz (Hohe Straße),48.777138,9.168601
+99,132515,Stuttgart Berliner Platz (Hohe Straße),48.777126,9.168546
+100,360882,Stuttgart Berliner Platz (Hohe Straße),48.777786,9.167854
+101,157048,Stuttgart Berliner Platz (Liederhalle),48.77856,9.167163
+102,208141,Stuttgart Berliner Platz (Liederhalle),48.77855,9.167381
+103,264081,Stuttgart Berliner Platz (Liederhalle),48.778576,9.169122
+104,362503,Stuttgart Berliner Platz (Liederhalle),48.77853,9.169149
+105,367648,Stuttgart Berliner Platz (Liederhalle),48.77854,9.16734
+106,96815,Stuttgart Berliner Platz (Liederhalle),48.77862,9.167463
+107,36188,Stuttgart Bernhäuser Straße,48.699543,9.215467
+108,436131,Stuttgart Bernhäuser Straße,48.69877,9.215586
+109,52517,Stuttgart Bernhäuser Straße,48.69877,9.215586
+110,90512,Stuttgart Bernhäuser Straße,48.699535,9.215426
+111,252345,Stuttgart Bertastraße,48.82332,9.165079
+112,82641,Stuttgart Berufsbildungszentrum,48.723995,9.122891
+113,252254,Stuttgart Beskidenstraße,48.8102,9.253791
+114,222562,Stuttgart Bihlplatz,48.760128,9.152195
+115,275138,Stuttgart Bihlplatz,48.75931,9.150682
+116,31497,Stuttgart Birkach Friedhof,48.71927,9.208022
+117,332463,Stuttgart Birkach Friedhof,48.71927,9.208022
+118,16462,Stuttgart Birkach West,48.725994,9.202436
+119,408641,Stuttgart Birkach West,48.725994,9.202436
+120,276164,Stuttgart Birkacher Straße,48.726547,9.211138
+121,85623,Stuttgart Birkacher Straße,48.72732,9.211358
+122,294609,Stuttgart Birkenkopf,48.764996,9.136281
+123,88534,Stuttgart Birkenkopf,48.764996,9.136281
+124,245523,Stuttgart Birkheckenstraße,48.722874,9.208214
+125,269175,Stuttgart Birkheckenstraße,48.723675,9.207211
+126,257359,Stuttgart Bismarckplatz,48.773853,9.156087
+127,454806,Stuttgart Bismarckplatz,48.773853,9.156087
+128,123438,Stuttgart Bismarckstaffel,48.769592,9.146986
+129,140360,Stuttgart Bismarckstaffel,48.769592,9.146986
+130,264605,Stuttgart Blick,48.79294,9.242366
+131,28050,Stuttgart Blick,48.7935,9.241811
+132,262517,Stuttgart Bopser,48.76796,9.183697
+133,349882,Stuttgart Bopser,48.76794,9.183724
+134,152264,Stuttgart Borkumstraße (Neuw.-siedl.),48.834785,9.144126
+135,419061,Stuttgart Borkumstraße (Neuw.-siedl.),48.834785,9.144126
+136,189899,Stuttgart Borsigstraße,48.8194,9.175497
+137,309238,Stuttgart Borsigstraße,48.81939,9.175442
+138,247786,Stuttgart Botnang,48.77867,9.122181
+139,328200,Stuttgart Botnang,48.778885,9.122889
+140,400852,Stuttgart Botnang,48.7785,9.122181
+141,13325,Stuttgart Botnang Freibad,48.78658,9.133223
+142,80168,Stuttgart Botnang Freibad,48.78659,9.13321
+143,321739,Stuttgart Botnang Ortsmitte,48.778378,9.127541
+144,124717,Stuttgart Botnanger Sattel,48.77577,9.136786
+145,344982,Stuttgart Botnanger Sattel,48.77577,9.136786
+146,105365,Stuttgart Bottroper Straße,48.820362,9.212704
+147,188225,Stuttgart Bottroper Straße,48.820915,9.210105
+148,240020,Stuttgart Bottroper Straße,48.820976,9.210023
+149,395434,Stuttgart Bottroper Straße,48.820377,9.212894
+150,115462,Stuttgart Brendle (Großmarkt),48.781525,9.226731
+151,128448,Stuttgart Brendle (Großmarkt),48.78156,9.226745
+152,179926,Stuttgart Bruckner-/Lindpaintnerstr.,48.772987,9.128766
+153,312293,Stuttgart Bruderhaus,48.756035,9.083964
+154,418878,Stuttgart Bruderhaus,48.756172,9.082019
+155,147804,Stuttgart Bubenbad,48.77296,9.194721
+156,236942,Stuttgart Bubenbad,48.773796,9.194384
+157,290983,Stuttgart Bubenbad,48.77297,9.194708
+158,39427,Stuttgart Bubenbad,48.773785,9.194384
+159,259482,Stuttgart Buchrain Friedhof,48.730488,9.081311
+160,78061,Stuttgart Buchrain Friedhof,48.730488,9.081311
+161,220342,Stuttgart Buchwald,48.771633,9.211436
+162,121408,Stuttgart Budapester Platz,48.790436,9.185671
+163,131119,Stuttgart Budapester Platz,48.79048,9.185657
+164,49176,Stuttgart Burgholzhof,48.81742,9.191285
+165,53406,Stuttgart Burgholzhof,48.81742,9.191285
+166,428901,Stuttgart Bußbachstraße,48.747913,9.219984
+167,20956,Stuttgart Bächlenweg,48.757366,9.246792
+168,251798,Stuttgart Bächlenweg,48.757366,9.246792
+169,399117,Stuttgart Börsenplatz,48.780155,9.176353
+170,80729,Stuttgart Börsenplatz,48.78013,9.17638
+171,207643,Stuttgart Büchsenstraße,48.777496,9.174575
+172,212967,Stuttgart Büsnauer Platz,48.749832,9.080309
+173,277671,Stuttgart Cannstatter Wasen,48.796482,9.22017
+174,395804,Stuttgart Cannstatter Wasen,48.796516,9.220197
+175,122516,Stuttgart Charlottenplatz,48.7754,9.182812
+176,132807,Stuttgart Charlottenplatz,48.776028,9.182774
+177,135730,Stuttgart Charlottenplatz,48.77655,9.182191
+178,140036,Stuttgart Charlottenplatz,48.776035,9.182815
+179,173283,Stuttgart Charlottenplatz,48.777355,9.183595
+180,222920,Stuttgart Charlottenplatz,48.776764,9.183266
+181,261392,Stuttgart Charlottenplatz,48.776115,9.183373
+182,310008,Stuttgart Charlottenplatz,48.77727,9.181037
+183,328140,Stuttgart Charlottenplatz,48.77589,9.182964
+184,369957,Stuttgart Charlottenplatz,48.775883,9.182909
+185,393782,Stuttgart Charlottenplatz,48.77677,9.183226
+186,347015,Stuttgart Chopinstr. (Wendeplatte),48.779327,9.111556
+187,290965,Stuttgart Dachswald,48.74772,9.121127
+188,74380,Stuttgart Dachswald,48.74781,9.120964
+189,217162,Stuttgart Dachswaldweg,48.746487,9.121423
+190,222340,Stuttgart Dachswaldweg,48.746838,9.120744
+191,13552,Stuttgart Daimlerplatz,48.805313,9.218997
+192,26952,Stuttgart Daimlerplatz,48.805298,9.219024
+193,150406,Stuttgart Degerloch,48.748802,9.168546
+194,179421,Stuttgart Degerloch,48.748943,9.169063
+195,284745,Stuttgart Degerloch,48.74917,9.16901
+196,34866,Stuttgart Degerloch,48.748737,9.168628
+197,398217,Stuttgart Degerloch,48.7489,9.168914
+198,364382,Stuttgart Degerloch Albstraße,48.746418,9.163385
+199,61264,Stuttgart Degerloch Albstraße,48.746433,9.163358
+200,411112,Stuttgart Degerloch Epplestraße,48.748756,9.169783
+201,381403,Stuttgart Degerloch ZOB,48.748047,9.167184
+202,390872,Stuttgart Degerloch ZOB,48.748146,9.167483
+203,442149,Stuttgart Degerloch ZOB,48.748013,9.166653
+204,65726,Stuttgart Degerloch ZOB,48.748283,9.167375
+205,81449,Stuttgart Degerloch ZOB,48.748173,9.167089
+206,391605,Stuttgart Dessauer Straße,48.81876,9.212983
+207,435076,Stuttgart Dessauer Straße,48.818752,9.212983
+208,58701,Stuttgart Dillmannstraße,48.786636,9.160467
+209,81290,Stuttgart Dillmannstraße,48.786636,9.160467
+210,177753,Stuttgart Dinkelstraße (Karlshof),48.726337,9.185828
+211,19036,Stuttgart Dinkelstraße (Karlshof),48.726337,9.185828
+212,310102,Stuttgart Ditzinger Straße,48.81806,9.097031
+213,419627,Stuttgart Ditzinger Straße,48.81806,9.097031
+214,257186,Stuttgart Dobelstraße,48.769745,9.185975
+215,71373,Stuttgart Dobelstraße,48.769726,9.186002
+216,25338,Stuttgart Doggenburg,48.78776,9.15119
+217,406233,Stuttgart Doggenburg,48.78776,9.15119
+218,49765,Stuttgart Doggenburg,48.787285,9.151379
+219,66438,Stuttgart Donizetti-/Elt.st./Chopinstr.,48.78036,9.119886
+220,367192,Stuttgart Dornhaldenstraße,48.75993,9.159607
+221,94262,Stuttgart Dornhaldenstraße,48.75993,9.15962
+222,245776,Stuttgart Dornröschenweg,48.7195,9.143985
+223,417701,Stuttgart Dornröschenweg,48.721027,9.144792
+224,413288,Stuttgart Dorotheenstraße,48.775238,9.181955
+225,260776,Stuttgart Dürnauer Weg,48.72406,9.203258
+226,80430,Stuttgart Dürnauer Weg,48.724106,9.203883
+227,213118,Stuttgart Dürrbachstraße,48.758446,9.23748
+228,285038,Stuttgart Dürrbachstraße,48.758392,9.236759
+229,20299,Stuttgart Dürrlewang,48.71902,9.118054
+230,284772,Stuttgart Dürrlewang,48.71847,9.117862
+231,52670,Stuttgart Dürrlewang,48.718697,9.117876
+232,237185,Stuttgart Ebitzweg,48.803734,9.232127
+233,407532,Stuttgart Ebitzweg,48.803715,9.232032
+234,120660,Stuttgart Ebniseestraße,48.767784,9.264446
+235,305906,Stuttgart Ebniseestraße,48.76782,9.264568
+236,30855,Stuttgart Edelweißweg,48.81419,9.241461
+237,35610,Stuttgart Edelweißweg,48.81419,9.241461
+238,247656,Stuttgart Ehrenhalde,48.78773,9.160389
+239,443104,Stuttgart Ehrenhalde,48.78773,9.160389
+240,237375,Stuttgart Eiernest,48.757492,9.159273
+241,18761,Stuttgart Elbestraße,48.825558,9.212821
+242,447757,Stuttgart Elbestraße,48.825523,9.212848
+243,102827,Stuttgart Eltinger Straße,48.77922,9.126836
+244,350805,Stuttgart Eltinger Straße,48.779186,9.126795
+245,428056,Stuttgart Eltinger Straße,48.77926,9.126836
+246,451566,Stuttgart Eltinger Straße,48.779186,9.126795
+247,56988,Stuttgart Eltinger Straße,48.779366,9.12655
+248,298134,Stuttgart Eltinger-/Kauffmannstr.,48.779163,9.124767
+249,269803,Stuttgart Eltinger-/Sommerhaldenstr.,48.779266,9.12074
+250,380348,Stuttgart Elwertstraße,48.798637,9.216926
+251,168355,Stuttgart EnBW City,48.711746,9.167525
+252,231725,Stuttgart EnBW City,48.71215,9.167024
+253,283506,Stuttgart EnBW City,48.711727,9.167416
+254,335334,Stuttgart EnBW City,48.712276,9.166943
+255,141168,Stuttgart Engelboldstraße,48.73776,9.12824
+256,257224,Stuttgart Engelboldstraße,48.73692,9.127803
+257,26756,Stuttgart Erdbeerweg,48.752747,9.217367
+258,203507,Stuttgart Ernst-Reuter-Platz,48.803047,9.092211
+259,130748,Stuttgart Erwin-Schoettle-Platz,48.762897,9.160079
+260,209047,Stuttgart Erwin-Schoettle-Platz,48.762833,9.159126
+261,314961,Stuttgart Erwin-Schoettle-Platz,48.76285,9.160106
+262,83337,Stuttgart Erwin-Schoettle-Platz,48.76248,9.159506
+263,430690,Stuttgart Eselweg,48.76143,9.219568
+264,97737,Stuttgart Eselweg,48.76143,9.219568
+265,108314,Stuttgart Eszet,48.787605,9.2466
+266,13921,Stuttgart Eszet,48.787624,9.246641
+267,121372,Stuttgart Eugensplatz,48.777813,9.1904
+268,149591,Stuttgart Eugensplatz,48.77782,9.190332
+269,189165,Stuttgart Eugensplatz,48.778397,9.190729
+270,359408,Stuttgart Eugensplatz,48.77801,9.190428
+271,45469,Stuttgart Eugensplatz,48.778,9.190496
+272,69231,Stuttgart Eugensplatz,48.77747,9.190222
+273,140005,Stuttgart Europaplatz,48.714203,9.160032
+274,274009,Stuttgart Europaplatz,48.712143,9.160311
+275,418485,Stuttgart Europaplatz,48.71422,9.160861
+276,78477,Stuttgart Europaplatz,48.712223,9.160243
+277,213671,Stuttgart F.-Schubert-/A. Stuttg. Str.,48.777767,9.126233
+278,134718,Stuttgart Falbenhennenstraße,48.766987,9.178565
+279,367542,Stuttgart Falbenhennenstraße,48.766212,9.178712
+280,377061,Stuttgart Fanny-Leicht-Straße,48.729893,9.116557
+281,66633,Stuttgart Fanny-Leicht-Straße,48.729893,9.116557
+282,173226,Stuttgart Fasanenhof,48.710487,9.153036
+283,206757,Stuttgart Fasanenhof,48.710354,9.152981
+284,208392,Stuttgart Fasanenhof,48.710487,9.153036
+285,65745,Stuttgart Fasanenhof,48.71038,9.152968
+286,119730,Stuttgart Fasanenhof Abzw.,48.713318,9.163359
+287,147509,Stuttgart Fasanenhof Abzw.,48.713425,9.163998
+288,382773,Stuttgart Fasanenhof Abzw.,48.713318,9.163359
+289,89267,Stuttgart Fasanenhof Abzw.,48.713425,9.163998
+290,126061,Stuttgart Fasanenhof Schelmenwasen,48.70767,9.170338
+291,160700,Stuttgart Fauststraße,48.731926,9.115121
+292,359811,Stuttgart Fauststraße,48.73189,9.115148
+293,316555,Stuttgart Fehrbelliner Str.,48.818485,9.116477
+294,457767,Stuttgart Fehrbelliner Str.,48.81799,9.115972
+295,20932,Stuttgart Feuerbach,48.814007,9.168153
+296,211256,Stuttgart Feuerbach,48.81361,9.168247
+297,335921,Stuttgart Feuerbach,48.814007,9.168153
+298,83428,Stuttgart Feuerbach,48.813637,9.16826
+299,158113,Stuttgart Feuerbach Bosch,48.81718,9.166652
+300,321244,Stuttgart Feuerbach Bosch,48.818146,9.167009
+301,112940,Stuttgart Feuerbach Friedhof,48.801804,9.154009
+302,251465,Stuttgart Feuerbach Friedhof,48.801804,9.154009
+303,355204,Stuttgart Feuerbach Pfostenwäldle,48.812035,9.1363
+304,42976,Stuttgart Feuerbach Pfostenwäldle,48.812325,9.13468
+305,194800,Stuttgart Feuerbacher Weg,48.79662,9.163494
+306,454852,Stuttgart Feuerbacher Weg,48.797123,9.16468
+307,163481,Stuttgart Feuersee,48.773235,9.167227
+308,330257,Stuttgart Feuersee,48.773117,9.167825
+309,362215,Stuttgart Feuersee,48.77293,9.166831
+310,428208,Stuttgart Feuersee,48.772823,9.167525
+311,211426,Stuttgart Fichtelbergstraße,48.814877,9.150155
+312,162182,Stuttgart Fichtestraße,48.779427,9.151763
+313,338882,Stuttgart Fichtestraße,48.779366,9.151124
+314,202016,Stuttgart Filderblickweg,48.761276,9.214915
+315,394856,Stuttgart Filderblickweg,48.761276,9.214915
+316,251091,Stuttgart Flachter Straße,48.819977,9.106431
+317,269094,Stuttgart Flachter Straße,48.819977,9.106431
+318,150374,Stuttgart Fleckenweinberg,48.803974,9.164866
+319,12159,Stuttgart Forellenweg,48.84334,9.215131
+320,344570,Stuttgart Forellenweg,48.84334,9.215131
+321,386577,Stuttgart Forsthaus I,48.765984,9.110887
+322,10349,Stuttgart Forsthaus II,48.777935,9.089987
+323,113635,Stuttgart Forsthaus II,48.779453,9.090507
+324,433067,Stuttgart Forsthaus Parkplatz,48.767616,9.115203
+325,201456,Stuttgart Frankenstraße,48.825752,9.172605
+326,226612,Stuttgart Frankenstraße,48.825752,9.172605
+327,167324,Stuttgart Fraubronnstraße,48.703346,9.20566
+328,288687,Stuttgart Fraubronnstraße,48.703346,9.20566
+329,454738,Stuttgart Frauenkopf,48.761173,9.225864
+330,129510,Stuttgart Freiberg,48.843914,9.211686
+331,296073,Stuttgart Freiberg,48.84416,9.210584
+332,297037,Stuttgart Freiberg,48.844032,9.211605
+333,310605,Stuttgart Freiberg,48.844078,9.210611
+334,427745,Stuttgart Freiberg Schulzentrum,48.83878,9.212196
+335,29591,Stuttgart Freibergstraße,48.8243,9.221981
+336,408087,Stuttgart Freibergstraße,48.824272,9.22194
+337,219980,Stuttgart Freytagweg,48.709663,9.157056
+338,3664,Stuttgart Freytagweg,48.709663,9.157056
+339,240564,Stuttgart Fridinger Straße,48.750786,9.218474
+340,303893,Stuttgart Friedenstraße,48.784966,9.192795
+341,403341,Stuttgart Friedenstraße,48.784966,9.192795
+342,17760,Stuttgart Friedrichswahl,48.822903,9.172813
+343,215188,Stuttgart Friedrichswahl,48.822903,9.172854
+344,304386,Stuttgart Fritz-Walter-Weg,48.790688,9.231522
+345,394367,Stuttgart Fritz-Walter-Weg,48.790676,9.231522
+346,154208,Stuttgart Fruwirthstraße,48.714245,9.206072
+347,388450,Stuttgart Fruwirthstraße,48.714245,9.206072
+348,177526,Stuttgart Fuchsrain,48.770878,9.208168
+349,332599,Stuttgart Fuchsrain,48.770878,9.208168
+350,244676,Stuttgart Furtw.-/Verdi-/Offenbachstr.,48.78103,9.129358
+351,102087,Stuttgart Föhrich,48.81014,9.149923
+352,105703,Stuttgart Föhrich,48.80956,9.153284
+353,225967,Stuttgart Föhrich,48.8101,9.149855
+354,246332,Stuttgart Föhrich,48.80956,9.153284
+355,24287,Stuttgart Fürfelder Straße,48.832016,9.191028
+356,334959,Stuttgart Fürfelder Straße,48.832043,9.191546
+357,452273,Stuttgart Fürfelder Straße,48.832268,9.19205
+358,73211,Stuttgart Fürfelder Straße,48.83224,9.19205
+359,236363,Stuttgart G.-Mahler-Str. (Wendeplatte),48.775597,9.119412
+360,267728,Stuttgart Gablenberg,48.77501,9.203613
+361,445845,Stuttgart Gablenberg,48.77501,9.203613
+362,405268,Stuttgart Gaisburg,48.78381,9.215746
+363,427499,Stuttgart Gaisburg,48.783875,9.21576
+364,426047,Stuttgart Gaußstraße,48.779396,9.147654
+365,78352,Stuttgart Gaußstraße,48.779835,9.1479
+366,24787,Stuttgart Gehrenwald,48.790222,9.259569
+367,278606,Stuttgart Gehrenwald,48.789604,9.258953
+368,101405,Stuttgart Geibelstraße,48.781418,9.142149
+369,135966,Stuttgart Geibelstraße,48.781418,9.142149
+370,184968,Stuttgart Generatorstraße,48.824924,9.105012
+371,397346,Stuttgart Generatorstraße,48.824944,9.105012
+372,185155,Stuttgart Gerlinger Straße,48.81442,9.087098
+373,185517,Stuttgart Gerlinger Straße,48.814564,9.086704
+374,62722,Stuttgart Gerlinger Straße,48.81453,9.085219
+375,145399,Stuttgart Geroksruhe,48.766205,9.201088
+376,417518,Stuttgart Geroksruhe,48.76624,9.201197
+377,379346,Stuttgart Geschwister-Scholl-Gymnasium,48.73766,9.220687
+378,116350,Stuttgart Gewerbestraße,48.72192,9.12086
+379,186054,Stuttgart Giebel,48.802647,9.087908
+380,384258,Stuttgart Giebel,48.8028,9.087432
+381,416769,Stuttgart Giebel,48.80262,9.087908
+382,66247,Stuttgart Giebel,48.802704,9.088194
+383,146343,Stuttgart Glaunerweg,48.749393,9.240579
+384,224372,Stuttgart Glaunerweg,48.749393,9.240579
+385,142351,Stuttgart Glockenstraße,48.8081,9.204224
+386,65797,Stuttgart Glockenstraße,48.808075,9.204238
+387,104412,Stuttgart Gnesener Straße,48.81249,9.228573
+388,279264,Stuttgart Gnesener Straße,48.812428,9.2286
+389,226358,Stuttgart Greutterstraße,48.823067,9.121091
+390,430795,Stuttgart Greutterstraße,48.823067,9.121091
+391,304947,Stuttgart Großglocknerstraße,48.778404,9.252719
+392,45204,Stuttgart Großglocknerstraße,48.778404,9.252719
+393,72194,Stuttgart Grubenäcker,48.80348,9.103401
+394,232866,Stuttgart Gründgensstraße,48.726185,9.078001
+395,437177,Stuttgart Gründgensstraße,48.726406,9.078301
+396,212581,Stuttgart Hafenbahnstr.,48.76189,9.265924
+397,138169,Stuttgart Haigst,48.755207,9.172729
+398,264460,Stuttgart Haigst,48.75508,9.172253
+399,404895,Stuttgart Haigst,48.755093,9.172239
+400,418010,Stuttgart Haigst,48.755035,9.17311
+401,183293,Stuttgart Hallschlag,48.81829,9.204511
+402,222057,Stuttgart Hallschlag,48.818344,9.204429
+403,321840,Stuttgart Hallschlag,48.817562,9.203909
+404,38569,Stuttgart Hallschlag,48.817562,9.203909
+405,219592,Stuttgart Handwerkstraße,48.721703,9.12983
+406,1976,Stuttgart Hans-Rehn-Stift,48.719856,9.09676
+407,112077,Stuttgart Hauptbf (Arnulf-Klett-Platz),48.783142,9.18099
+408,275087,Stuttgart Hauptbf (Arnulf-Klett-Platz),48.783222,9.181072
+409,316540,Stuttgart Hauptbf (Arnulf-Klett-Platz),48.783142,9.18099
+410,318906,Stuttgart Hauptbf (Arnulf-Klett-Platz),48.783222,9.181072
+411,377609,Stuttgart Hauptbf (Arnulf-Klett-Platz),48.78324,9.181208
+412,390762,Stuttgart Hauptbf (Arnulf-Klett-Platz),48.783115,9.181072
+413,411354,Stuttgart Hauptbf (Arnulf-Klett-Platz),48.783215,9.181181
+414,428485,Stuttgart Hauptbf (Arnulf-Klett-Platz),48.783077,9.181031
+415,305216,Stuttgart Hauptfriedhof,48.820156,9.234763
+416,375989,Stuttgart Hauptfriedhof,48.818993,9.237113
+417,50738,Stuttgart Hauptfriedhof,48.820156,9.234763
+418,55301,Stuttgart Hauptfriedhof,48.819008,9.237236
+419,31550,Stuttgart Haus am Weinberg,48.770233,9.26284
+420,319984,Stuttgart Haus am Weinberg,48.769974,9.262974
+421,417389,Stuttgart Haus auf dem Killesberg,48.804016,9.168555
+422,123211,Stuttgart Hausenring,48.814594,9.082047
+423,151737,Stuttgart Hausenring,48.814594,9.082061
+424,180817,Stuttgart Hebsacker Straße,48.820225,9.183357
+425,353836,Stuttgart Hebsacker Straße,48.820225,9.183357
+426,140276,Stuttgart Hedelfingen,48.75981,9.255386
+427,58450,Stuttgart Hedelfingen,48.7601,9.254313
+428,72409,Stuttgart Hedelfingen,48.7599,9.255155
+429,196570,Stuttgart Hedelfinger Straße,48.76693,9.249029
+430,409341,Stuttgart Hedelfinger Straße,48.76691,9.248988
+431,412748,Stuttgart Heerstraße,48.73106,9.097651
+432,97794,Stuttgart Heerstraße,48.73106,9.097651
+433,283324,Stuttgart Hegaustraße,48.815212,9.147923
+434,194768,Stuttgart Hegel-/Seidenstr.,48.783833,9.163452
+435,3297,Stuttgart Hegel-/Seidenstr.,48.78388,9.16348
+436,146384,Stuttgart Hegel-Gymnasium,48.722816,9.106116
+437,295653,Stuttgart Hegel-Gymnasium,48.722816,9.106116
+438,243595,Stuttgart Heidehofstraße,48.779156,9.193425
+439,296476,Stuttgart Heidehofstraße,48.778843,9.19273
+440,319868,Stuttgart Heidehofstraße,48.779156,9.193425
+441,411868,Stuttgart Heidehofstraße,48.778824,9.192662
+442,338539,Stuttgart Heigelinstraße,48.714237,9.165074
+443,24508,Stuttgart Heiligenbergstraße,48.814137,9.152713
+444,278427,Stuttgart Heimberg,48.798946,9.151931
+445,356715,Stuttgart Heimberg,48.798946,9.151931
+446,290065,Stuttgart Helfferichstraße,48.79109,9.171002
+447,310339,Stuttgart Helfferichstraße,48.79109,9.171002
+448,442976,Stuttgart Hemminger Straße,48.82557,9.098149
+449,447587,Stuttgart Hemminger Straße,48.82559,9.098149
+450,282891,Stuttgart Herderplatz,48.77254,9.14158
+451,400654,Stuttgart Herderplatz,48.77227,9.14147
+452,414055,Stuttgart Herderplatz,48.77254,9.14158
+453,50025,Stuttgart Herderplatz,48.77228,9.141443
+454,74351,Stuttgart Herderplatz,48.772038,9.140749
+455,142381,Stuttgart Herweghstraße,48.772076,9.149102
+456,178716,Stuttgart Heslach Vogelrain,48.753563,9.138412
+457,440644,Stuttgart Heslach Vogelrain,48.753616,9.138208
+458,45214,Stuttgart Heslach Vogelrain,48.75368,9.138426
+459,79412,Stuttgart Heslach Vogelrain,48.753716,9.138358
+460,326743,Stuttgart Heumaden,48.73842,9.233443
+461,370716,Stuttgart Heumaden,48.738094,9.233741
+462,37777,Stuttgart Heumaden,48.738113,9.233768
+463,406370,Stuttgart Heumaden,48.73834,9.233715
+464,431347,Stuttgart Heumaden,48.7382,9.233836
+465,217503,Stuttgart Heumaden Bockelstraße,48.739655,9.22782
+466,275552,Stuttgart Heumaden Bockelstraße,48.740456,9.227226
+467,283545,Stuttgart Heumaden Bockelstraße,48.739708,9.227848
+468,301501,Stuttgart Heumaden Bockelstraße,48.740425,9.227361
+469,232301,Stuttgart Heumaden Rose,48.746387,9.237573
+470,242469,Stuttgart Heumaden Rose,48.746387,9.237573
+471,331660,Stuttgart Heumaden Schule,48.7463,9.231916
+472,78903,Stuttgart Heumaden Schule,48.7463,9.231916
+473,434388,Stuttgart Heutingsheimer Straße,48.84244,9.159298
+474,445053,Stuttgart Heutingsheimer Straße,48.842453,9.159338
+475,157623,Stuttgart Himmelsleiter,48.837387,9.201538
+476,361931,Stuttgart Himmelsleiter,48.83736,9.201565
+477,277478,Stuttgart Hofen,48.836563,9.22243
+478,30124,Stuttgart Hofen,48.836197,9.222006
+479,369406,Stuttgart Hofen,48.836483,9.22273
+480,62256,Stuttgart Hofen,48.83617,9.221775
+481,314090,Stuttgart Hohe Eiche,48.733578,9.168237
+482,402873,Stuttgart Hohe Eiche,48.733578,9.168237
+483,159327,Stuttgart Hohensteinstraße,48.827496,9.173782
+484,246023,Stuttgart Hohensteinstraße,48.82691,9.173657
+485,269348,Stuttgart Hohensteinstraße,48.827477,9.174
+486,396910,Stuttgart Hohensteinstraße,48.82691,9.173712
+487,255121,Stuttgart Hohewartstraße,48.808735,9.156399
+488,322990,Stuttgart Hohewartstraße,48.808735,9.156399
+489,420432,Stuttgart Hohewartstraße,48.808277,9.155717
+490,401616,Stuttgart Holderäcker,48.824047,9.101483
+491,58383,Stuttgart Holderäcker,48.824047,9.101483
+492,167238,Stuttgart Honoldweg,48.781456,9.153566
+493,307813,Stuttgart Honoldweg,48.781124,9.153769
+494,131329,Stuttgart Hubertusplatz,48.80511,9.108414
+495,78314,Stuttgart Hummelb.-/Beeth.-/Klinglerstr.,48.777725,9.131281
+496,349452,Stuttgart Hummelberg-/Haydn-/Wengertstr.,48.776745,9.129687
+497,236854,Stuttgart Händelstraße,48.78056,9.129016
+498,53522,Stuttgart Händelstraße,48.780273,9.12907
+499,195164,Stuttgart Höhenfreibad,48.80741,9.17698
+500,203780,Stuttgart Höhenfreibad,48.80741,9.17698
+501,20250,Stuttgart Hölderlinplatz,48.782852,9.157829
+502,203675,Stuttgart Hölderlinplatz,48.782852,9.157829
+503,408636,Stuttgart Hölderlinplatz,48.781746,9.158384
+504,104209,Stuttgart Hölderlinstraße,48.785423,9.16622
+505,454099,Stuttgart Hölderlinstraße,48.785423,9.16622
+506,288388,Stuttgart Im Chausseefeld,48.714294,9.19872
+507,49990,Stuttgart Im Chausseefeld,48.714294,9.19872
+508,37732,Stuttgart Im Degen,48.77793,9.233545
+509,61426,Stuttgart Im Degen,48.77838,9.232935
+510,259719,Stuttgart Im Elsental,48.74478,9.126137
+511,294379,Stuttgart Im Elsental,48.744667,9.125688
+512,121302,Stuttgart Im Gaizen,48.817787,9.157817
+513,395580,Stuttgart Im Hag,48.78719,9.255743
+514,412719,Stuttgart Im Hag,48.786896,9.25483
+515,291338,Stuttgart Im Himmerreich,48.769833,9.120065
+516,406980,Stuttgart Im Himmerreich,48.769833,9.120065
+517,183010,Stuttgart Im Kaisemer,48.788383,9.175878
+518,382830,Stuttgart Im Kaisemer,48.788383,9.175878
+519,236284,Stuttgart Im Köpfert,48.701393,9.20644
+520,390550,Stuttgart Im Köpfert,48.701393,9.20644
+521,2874,Stuttgart Im Lauch,48.746803,9.217478
+522,109002,Stuttgart Im Mäder,48.76679,9.271187
+523,330275,Stuttgart Im Mäder,48.76679,9.271187
+524,210203,Stuttgart Im Raiser,48.82761,9.191297
+525,216212,Stuttgart Im Raiser,48.82761,9.191297
+526,282895,Stuttgart In den Entenäckern,48.69686,9.217221
+527,309317,Stuttgart In den Entenäckern,48.69686,9.217207
+528,98392,Stuttgart In den Stegwiesen,48.75619,9.269253
+529,60078,Stuttgart In der Werre,48.749886,9.219612
+530,288098,Stuttgart Industriestraße,48.722755,9.129072
+531,291018,Stuttgart Inselstraße,48.776035,9.236788
+532,363011,Stuttgart Inselstraße,48.775898,9.238311
+533,310854,Stuttgart Isegrimweg,48.74357,9.230313
+534,456592,Stuttgart Isegrimweg,48.74357,9.230313
+535,385360,Stuttgart Jelinstraße,48.72359,9.146321
+536,84659,Stuttgart Jelinstraße,48.72359,9.146321
+537,387463,Stuttgart Johannesgraben,48.739506,9.105404
+538,393584,Stuttgart Johannesgraben,48.739506,9.105404
+539,283372,Stuttgart Johanneskirche,48.831505,9.17558
+540,120210,Stuttgart Jurastraße,48.728912,9.117207
+541,265908,Stuttgart Jurastraße,48.728947,9.117221
+542,49343,Stuttgart Kaiserslauterer Straße,48.81319,9.122796
+543,223628,Stuttgart Kaltental,48.739643,9.129958
+544,395837,Stuttgart Kaltental,48.739662,9.129917
+545,10586,Stuttgart Karl-Olga-Krankenhaus,48.78923,9.20133
+546,251484,Stuttgart Karl-Olga-Krankenhaus,48.78917,9.202119
+547,111576,Stuttgart Karl-Pfaff-Straße,48.75224,9.172189
+548,402067,Stuttgart Karl-Pfaff-Straße,48.75223,9.172379
+549,352804,Stuttgart Kaserne Möhringen,48.72121,9.181745
+550,398057,Stuttgart Kaserne Möhringen,48.72111,9.181704
+551,175547,Stuttgart Katharinenhospital,48.783134,9.174513
+552,21641,Stuttgart Katharinenhospital,48.783215,9.174472
+553,290539,Stuttgart Katzenbachstraße,48.73371,9.100688
+554,98678,Stuttgart Katzenbachstraße,48.733955,9.100036
+555,46855,Stuttgart Kauffmann-/Belaustr.,48.778778,9.120603
+556,150423,Stuttgart Kemnater Straße,48.740128,9.220236
+557,254358,Stuttgart Kemnater Straße,48.740433,9.220618
+558,296827,Stuttgart Kemnater Straße,48.740128,9.220236
+559,293296,Stuttgart Kerschensteinerschule,48.813194,9.157775
+560,358502,Stuttgart Kerschensteinerschule,48.81332,9.15768
+561,259175,Stuttgart Kienbachstraße,48.79936,9.234666
+562,403748,Stuttgart Kienbachstraße,48.799995,9.234247
+563,166165,Stuttgart Killesberg,48.799236,9.171819
+564,243370,Stuttgart Killesberg,48.799236,9.171819
+565,45213,Stuttgart Killesberg,48.799397,9.171343
+566,80888,Stuttgart Killesberg,48.799236,9.171806
+567,368733,Stuttgart Kirchheimer Straße,48.74422,9.214244
+568,242143,Stuttgart Kirchtalstraße,48.832203,9.170597
+569,245874,Stuttgart Kirchtalstraße,48.832275,9.170611
+570,271037,Stuttgart Kirchtalstraße,48.832264,9.170516
+571,375224,Stuttgart Kirchtalstraße,48.832203,9.170529
+572,237391,Stuttgart Kleiner Ostring,48.82069,9.245088
+573,380194,Stuttgart Kleiner Ostring,48.82069,9.245088
+574,162907,Stuttgart Kleiner Schlossplatz,48.779434,9.176541
+575,104028,Stuttgart Kleiststraße,48.771576,9.145318
+576,326183,Stuttgart Kleiststraße,48.771576,9.145318
+577,104255,Stuttgart Knappenweg,48.74548,9.113833
+578,159003,Stuttgart Knappenweg,48.746334,9.113495
+579,142220,Stuttgart Korntaler Straße,48.846043,9.157497
+580,232452,Stuttgart Korntaler Straße,48.846745,9.157159
+581,287087,Stuttgart Korntaler Straße,48.845837,9.157592
+582,83661,Stuttgart Korntaler Straße,48.846733,9.15709
+583,306277,Stuttgart Kornwestheimer Straße,48.85095,9.166833
+584,393226,Stuttgart Kornwestheimer Straße,48.85095,9.166833
+585,3227,Stuttgart Kraftwerk Münster,48.813915,9.217483
+586,355909,Stuttgart Kraftwerk Münster,48.813923,9.217415
+587,17316,Stuttgart Kranstraße,48.82683,9.103422
+588,178582,Stuttgart Kranstraße,48.82683,9.103422
+589,55092,Stuttgart Krehlstraße,48.730057,9.102815
+590,70754,Stuttgart Krehlstraße,48.730057,9.102815
+591,169586,Stuttgart Kreuzstraße,48.733578,9.1083
+592,39485,Stuttgart Kreuzstraße,48.733444,9.106805
+593,127919,Stuttgart Kräherwald,48.783913,9.146538
+594,84341,Stuttgart Kräherwald,48.783615,9.146088
+595,52331,Stuttgart Kunstakademie,48.79922,9.175399
+596,53638,Stuttgart Kunstakademie,48.79922,9.175399
+597,335324,Stuttgart Kurmärker Kaserne,48.731796,9.087308
+598,458830,Stuttgart Kurmärker Kaserne,48.731796,9.087308
+599,178112,Stuttgart Kursaal,48.809147,9.222363
+600,36192,Stuttgart Kursaal,48.80914,9.222309
+601,293493,Stuttgart Kurt-Schumacher-Straße,48.712685,9.152065
+602,350262,Stuttgart Kurt-Schumacher-Straße,48.712685,9.152065
+603,150192,Stuttgart Königsträßle,48.75328,9.181005
+604,21535,Stuttgart Königsträßle,48.753456,9.181604
+605,323796,Stuttgart Kühwasen,48.751816,9.215514
+606,128710,Stuttgart Laihle,48.781925,9.130557
+607,153141,Stuttgart Laihle,48.78241,9.131225
+608,147379,Stuttgart Lambertweg,48.71662,9.122193
+609,280080,Stuttgart Landauer Straße,48.814583,9.123971
+610,438953,Stuttgart Landauer Straße,48.814617,9.123971
+611,117870,Stuttgart Landhaus,48.720417,9.165651
+612,232005,Stuttgart Landhaus,48.720715,9.165299
+613,347564,Stuttgart Landhaus,48.720398,9.165094
+614,431199,Stuttgart Landhaus,48.72039,9.165624
+615,158835,Stuttgart Landhauskreuzung,48.72213,9.167601
+616,29033,Stuttgart Landhauskreuzung,48.72233,9.167656
+617,246860,Stuttgart Lapp Kabel,48.723087,9.121054
+618,267539,Stuttgart Lapp Kabel,48.72265,9.12074
+619,87169,Stuttgart Lapp Kabel,48.72263,9.120781
+620,118323,Stuttgart Lauchhau,48.73896,9.092256
+621,152679,Stuttgart Lauchhau,48.73896,9.092256
+622,224520,Stuttgart Lauchhau,48.738716,9.092921
+623,251260,Stuttgart Lauchhau,48.739006,9.092337
+624,77336,Stuttgart Lauchhau,48.739006,9.092337
+625,203598,Stuttgart Lederberg,48.75402,9.242804
+626,78783,Stuttgart Lederberg,48.75402,9.242804
+627,459089,Stuttgart Lehenstraße,48.763996,9.171005
+628,87104,Stuttgart Lehenstraße,48.763996,9.171005
+629,200928,Stuttgart Leibnizstraße,48.782497,9.14882
+630,432784,Stuttgart Leibnizstraße,48.782154,9.149295
+631,262618,Stuttgart Leipziger Platz,48.770096,9.150144
+632,300317,Stuttgart Leipziger Platz,48.770096,9.150144
+633,241673,Stuttgart Lenbachstraße,48.806744,9.166318
+634,63893,Stuttgart Leobener Straße,48.810272,9.163035
+635,430886,Stuttgart Lerchenrainschule,48.757015,9.159502
+636,24416,Stuttgart Lerchenwiesen,48.727535,9.205514
+637,66783,Stuttgart Lerchenwiesen,48.727585,9.2044
+638,248668,Stuttgart Libanonstraße,48.77801,9.206578
+639,279991,Stuttgart Libanonstraße,48.77801,9.206578
+640,256808,Stuttgart Lilienthalstraße,48.82547,9.108527
+641,284841,Stuttgart Lilienthalstraße,48.82547,9.108527
+642,142778,Stuttgart Linden-Museum,48.782207,9.170237
+643,169473,Stuttgart Linden-Museum,48.782646,9.17081
+644,377862,Stuttgart Linden-Museum,48.781685,9.17063
+645,67121,Stuttgart Linden-Museum,48.782555,9.171912
+646,431958,Stuttgart Lindpaintnerstr. (Wendeplatte),48.770428,9.125589
+647,101678,Stuttgart Lindpaintnerstraße,48.77406,9.134101
+648,140849,Stuttgart Lindpaintnerstraße,48.774017,9.134319
+649,184614,Stuttgart Lindpaintnerstraße,48.774,9.134265
+650,217966,Stuttgart Lindpaintnerstraße,48.77406,9.134101
+651,178800,Stuttgart Linzer Straße,48.812325,9.154858
+652,241863,Stuttgart Liststraße,48.76229,9.168523
+653,396606,Stuttgart Liststraße,48.76227,9.168523
+654,458068,Stuttgart Liststraße,48.762306,9.168483
+655,90904,Stuttgart Liststraße,48.762306,9.168483
+656,200897,Stuttgart Lohäckerstraße,48.717777,9.143396
+657,427452,Stuttgart Lohäckerstraße,48.717648,9.144021
+658,107852,Stuttgart Lortzing-/Brucknerstr.,48.774326,9.130483
+659,328912,Stuttgart Lortzingstr./Fleckenwaldweg,48.775127,9.128866
+660,300414,Stuttgart Luginsland,48.792065,9.260708
+661,79035,Stuttgart Luginsland,48.792423,9.260914
+662,248627,Stuttgart Luikenweg,48.756012,9.22663
+663,369892,Stuttgart Luikenweg,48.756104,9.226154
+664,421926,Stuttgart Luise-Benger-Straße,48.77548,9.280785
+665,68929,Stuttgart Luise-Benger-Straße,48.77548,9.280785
+666,178119,Stuttgart Löwentor,48.808254,9.189957
+667,292717,Stuttgart Löwentor,48.807888,9.1882
+668,327791,Stuttgart Löwentor,48.807842,9.188145
+669,411079,Stuttgart Löwentor,48.80829,9.189876
+670,250648,Stuttgart Löwentorbrücke,48.803684,9.183569
+671,367013,Stuttgart Löwentorbrücke,48.803696,9.183419
+672,419117,Stuttgart Manzeller Weg,48.75452,9.259548
+673,421749,Stuttgart Manzeller Weg,48.75452,9.259548
+674,261913,Stuttgart Marabustraße,48.83078,9.233614
+675,389845,Stuttgart Marabustraße,48.830383,9.232795
+676,313232,Stuttgart Marco-Polo-Weg,48.84337,9.153238
+677,83807,Stuttgart Marco-Polo-Weg,48.84337,9.153238
+678,272928,Stuttgart Marconibrücke,48.833,9.158723
+679,420446,Stuttgart Marconibrücke,48.833,9.158723
+680,25209,Stuttgart Marconistraße,48.833176,9.155917
+681,284770,Stuttgart Marconistraße,48.833176,9.155917
+682,338657,Stuttgart Marien-/Silberburgstraße,48.770065,9.169379
+683,396711,Stuttgart Marien-/Silberburgstraße,48.770554,9.169136
+684,216580,Stuttgart Marienhospital,48.761642,9.162645
+685,288287,Stuttgart Marienhospital,48.761642,9.162645
+686,21290,Stuttgart Marienplatz,48.764538,9.167715
+687,236187,Stuttgart Marienplatz,48.764294,9.168639
+688,237995,Stuttgart Marienplatz,48.76424,9.168149
+689,345678,Stuttgart Marienplatz,48.764538,9.167715
+690,97374,Stuttgart Marienplatz,48.76428,9.168136
+691,101872,Stuttgart Marienstraße,48.77177,9.171712
+692,269932,Stuttgart Marienstraße,48.772297,9.17121
+693,77020,Stuttgart Marktplatz/BW Bank,48.778885,9.124848
+694,283816,Stuttgart Markuskirche,48.76475,9.175959
+695,401672,Stuttgart Markuskirche,48.764565,9.174625
+696,72715,Stuttgart Martinskirche,48.80775,9.210771
+697,82513,Stuttgart Martinskirche,48.80775,9.210771
+698,122703,Stuttgart Max-Eyth-See,48.83273,9.216202
+699,224953,Stuttgart Max-Eyth-See,48.832706,9.21721
+700,40762,Stuttgart Max-Eyth-See,48.83271,9.216243
+701,58619,Stuttgart Max-Eyth-See,48.832844,9.217442
+702,167304,Stuttgart Max-Planck-Institute,48.746944,9.084275
+703,329146,Stuttgart Max-Planck-Institute,48.746944,9.084275
+704,54005,Stuttgart Max-Planck-Institute,48.746944,9.084275
+705,94529,Stuttgart Max-Planck-Institute,48.746944,9.084275
+706,102599,Stuttgart Maybachstraße,48.81095,9.177237
+707,423349,Stuttgart Maybachstraße,48.810997,9.177265
+708,324525,Stuttgart Mercedes-Benz,48.760876,9.260954
+709,339467,Stuttgart Mercedes-Benz Welt,48.78882,9.234929
+710,432146,Stuttgart Mercedes-Benz Welt,48.78882,9.234929
+711,268596,Stuttgart Mercedesstraße,48.800014,9.211719
+712,369162,Stuttgart Mercedesstraße,48.799988,9.211746
+713,158720,Stuttgart Metzgerhau,48.765285,9.116585
+714,212336,Stuttgart Metzstraße,48.792248,9.200526
+715,4960,Stuttgart Metzstraße,48.792217,9.200553
+716,12463,Stuttgart Milchhof,48.793495,9.189806
+717,193444,Stuttgart Milchhof,48.793495,9.189888
+718,162707,Stuttgart Millöckerstr. (Wendeplatte),48.78249,9.132845
+719,238043,Stuttgart Millöckerstraße,48.779404,9.132048
+720,246433,Stuttgart Millöckerstraße,48.77944,9.132034
+721,289852,Stuttgart Millöckerstraße,48.779522,9.132034
+722,193103,Stuttgart Mineralbäder,48.796886,9.205771
+723,341140,Stuttgart Mineralbäder,48.796974,9.205676
+724,415074,Stuttgart Mittl.B.w.weg/B.wald-/P-L-str.,48.78343,9.127853
+725,224816,Stuttgart Mittnachtstraße,48.797928,9.190136
+726,232165,Stuttgart Mittnachtstraße,48.797928,9.190163
+727,324372,Stuttgart Mittnachtstraße,48.79792,9.190177
+728,66361,Stuttgart Mittnachtstraße,48.797928,9.190136
+729,159756,Stuttgart Morsestraße,48.83063,9.161902
+730,193683,Stuttgart Morsestraße,48.83063,9.161902
+731,377940,Stuttgart Motorstraße 24,48.82717,9.107536
+732,417265,Stuttgart Motorstraße 24,48.827198,9.107536
+733,137340,Stuttgart Muckensturm,48.818542,9.236553
+734,289387,Stuttgart Muckensturm,48.818542,9.236553
+735,233389,Stuttgart Mähderklinge,48.79452,9.147535
+736,413545,Stuttgart Mähderklinge,48.794243,9.146813
+737,17861,Stuttgart Möhringen Bf,48.730198,9.146585
+738,247391,Stuttgart Möhringen Bf,48.73062,9.146845
+739,278160,Stuttgart Möhringen Bf,48.730656,9.146831
+740,284982,Stuttgart Möhringen Bf,48.730568,9.14713
+741,97469,Stuttgart Möhringen Bf,48.73054,9.146912
+742,256124,Stuttgart Möhringen Freibad,48.716908,9.141396
+743,338046,Stuttgart Möhringen Freibad,48.716934,9.141491
+744,187178,Stuttgart Möhringen Rathaus,48.726658,9.146874
+745,208644,Stuttgart Möhringen Rathaus,48.726658,9.146874
+746,188863,Stuttgart Mönchfeld,48.844387,9.217955
+747,430107,Stuttgart Mönchweg,48.778145,9.255126
+748,10492,Stuttgart Mönsheimer Weg,48.81673,9.086422
+749,230724,Stuttgart Mönsheimer Weg,48.81673,9.086422
+750,127705,Stuttgart Mörikestraße,48.76824,9.168897
+751,185329,Stuttgart Mörikestraße,48.76824,9.168897
+752,121713,Stuttgart Mühlhausen,48.842106,9.230084
+753,292725,Stuttgart Mühlhausen,48.841225,9.230203
+754,341074,Stuttgart Mühlhausen,48.841484,9.230708
+755,377265,Stuttgart Mühlhausen,48.841003,9.229834
+756,447760,Stuttgart Mühlhausen,48.84117,9.230243
+757,448735,Stuttgart Mühlhausen,48.84086,9.229697
+758,210537,Stuttgart Mühlhausen Schloss,48.842793,9.229896
+759,88639,Stuttgart Mühlhausen Schloss,48.843403,9.229927
+760,282112,Stuttgart Mühlsteg,48.809673,9.215667
+761,85428,Stuttgart Mühlsteg,48.809692,9.215613
+762,49920,Stuttgart Münster,48.821262,9.215894
+763,126070,Stuttgart Münster Rathaus,48.821064,9.226651
+764,424294,Stuttgart Münster Rathaus,48.821053,9.226597
+765,342470,Stuttgart Münster Viadukt,48.816612,9.222219
+766,379625,Stuttgart Münster Viadukt,48.816586,9.222246
+767,308166,Stuttgart Nastplatz,48.816055,9.212535
+768,89644,Stuttgart Nastplatz,48.816055,9.212535
+769,127485,Stuttgart NeckarPark (Stadion),48.792908,9.226742
+770,204413,Stuttgart NeckarPark (Stadion),48.79335,9.226526
+771,408216,Stuttgart NeckarPark (Stadion),48.792927,9.227313
+772,456572,Stuttgart NeckarPark (Stadion),48.793728,9.225316
+773,282885,Stuttgart Neckarhalde,48.774395,9.259977
+774,340136,Stuttgart Neckarhalde,48.774395,9.259977
+775,23661,Stuttgart Neckartor,48.786133,9.190173
+776,367906,Stuttgart Neckartor,48.786102,9.190213
+777,267046,Stuttgart Neugereut,48.83223,9.23644
+778,278239,Stuttgart Neugereut,48.83259,9.237001
+779,303674,Stuttgart Neugereut,48.832043,9.236303
+780,321543,Stuttgart Neuwirtshaus Gaststätte,48.84102,9.140302
+781,71850,Stuttgart Neuwirtshaus Gaststätte,48.84102,9.140302
+782,104273,Stuttgart Neuwirtshauskreuzung,48.840504,9.141908
+783,258629,Stuttgart Neuwirtshauskreuzung,48.840504,9.141908
+784,215057,Stuttgart Niebuhrweg,48.84202,9.147512
+785,68378,Stuttgart Niebuhrweg,48.84202,9.147512
+786,354305,Stuttgart Nikolauspflege,48.778732,9.137937
+787,81062,Stuttgart Nikolauspflege,48.778732,9.137937
+788,165565,Stuttgart Nixenweg,48.831394,9.221808
+789,316716,Stuttgart Nixenweg,48.83177,9.222545
+790,113492,Stuttgart Nobelstraße,48.740356,9.100198
+791,200346,Stuttgart Nobelstraße,48.740356,9.100198
+792,312050,Stuttgart Nobelstraße,48.740356,9.100198
+793,366599,Stuttgart Nobelstraße,48.740356,9.100198
+794,171705,Stuttgart Nordbahnhof,48.80308,9.189733
+795,180166,Stuttgart Nordbahnhof,48.80308,9.189706
+796,220884,Stuttgart Nordsee-/Schwieberd. Straße,48.836014,9.146677
+797,125333,Stuttgart Nägelestraße,48.75149,9.173573
+798,273868,Stuttgart Nägelestraße,48.75149,9.173573
+799,286047,Stuttgart Nöllenstr./Leo-Fall-Weg,48.775566,9.122881
+800,139839,Stuttgart Nürnberger Straße,48.806854,9.236607
+801,161764,Stuttgart Nürnberger Straße,48.806828,9.23662
+802,241008,Stuttgart Ob dem Steinbach,48.749634,9.083545
+803,86661,Stuttgart Ob. Kirchh.-/Mittl.Bauernw.weg,48.782066,9.117821
+804,141217,Stuttgart Obere Mönchhalde,48.793854,9.174346
+805,43887,Stuttgart Obere Mönchhalde,48.793854,9.174346
+806,167518,Stuttgart Obere Ziegelei,48.815166,9.235352
+807,186474,Stuttgart Obere Ziegelei,48.815136,9.235393
+808,215726,Stuttgart Obere Ziegelei,48.814518,9.235104
+809,26264,Stuttgart Obere Ziegelei,48.81526,9.235407
+810,344983,Stuttgart Obere Ziegelei,48.814884,9.235106
+811,278574,Stuttgart Oberer -/Mittl. Kirchhaldenweg,48.78182,9.120474
+812,434811,Stuttgart Obertürkh. Bf (Göppinger Str.),48.762543,9.26839
+813,101808,Stuttgart Obertürkheim,48.76181,9.269229
+814,154779,Stuttgart Obertürkheim,48.761917,9.268958
+815,456333,Stuttgart Obertürkheim,48.762028,9.268863
+816,250131,Stuttgart Oberwiesenstraße 55,48.746376,9.215355
+817,32012,Stuttgart Ohmstraße (Zuffenhausen Bf),48.82925,9.165099
+818,48295,Stuttgart Ohmstraße (Zuffenhausen Bf),48.828793,9.165955
+819,14075,Stuttgart Olgaeck,48.77405,9.186114
+820,241681,Stuttgart Olgaeck,48.773838,9.184847
+821,252503,Stuttgart Olgaeck,48.774033,9.186848
+822,284601,Stuttgart Olgaeck,48.773838,9.184847
+823,349942,Stuttgart Olgaeck,48.773556,9.187418
+824,359691,Stuttgart Olgaeck,48.774033,9.186086
+825,437451,Stuttgart Oskar-Schlemmer-Straße,48.800995,9.173241
+826,458083,Stuttgart Oskar-Schlemmer-Straße,48.801014,9.173241
+827,268532,Stuttgart Ostendplatz,48.785183,9.207914
+828,62149,Stuttgart Ostendplatz,48.78566,9.207712
+829,6991,Stuttgart Ostendplatz,48.786568,9.207743
+830,92668,Stuttgart Ostendplatz,48.78656,9.20762
+831,118960,Stuttgart Osterbronnstraße,48.718826,9.112264
+832,452254,Stuttgart Osterbronnstraße,48.718674,9.111666
+833,140617,Stuttgart Ostheim Leo-Vetter-Bad,48.785015,9.210948
+834,285086,Stuttgart Ostheim Leo-Vetter-Bad,48.78508,9.210989
+835,71983,Stuttgart Ostheim Leo-Vetter-Bad,48.785187,9.210595
+836,421225,Stuttgart Otto-Hirsch-Brücken,48.762074,9.260797
+837,433971,Stuttgart Otto-Hirsch-Brücken,48.762074,9.260797
+838,197232,Stuttgart Paul-Lincke-Straße,48.784313,9.131829
+839,354937,Stuttgart Paul-Lincke-Straße,48.784313,9.131748
+840,119890,Stuttgart Payerstraße,48.770195,9.195704
+841,5552,Stuttgart Payerstraße,48.769325,9.195292
+842,104719,Stuttgart Peregrinastraße,48.743618,9.158821
+843,92260,Stuttgart Peregrinastraße,48.744183,9.159706
+844,108283,Stuttgart Pestalozzi-Schule,48.725178,9.100168
+845,441613,Stuttgart Pestalozzi-Schule,48.725178,9.100168
+846,151168,Stuttgart Pfaffenweg,48.76005,9.167292
+847,301667,Stuttgart Pfaffenweg,48.759666,9.168161
+848,338694,Stuttgart Pfaffenweg,48.759666,9.168161
+849,398336,Stuttgart Pfaffenweg,48.76005,9.167292
+850,235471,Stuttgart Pflugfelder Straße,48.853245,9.152205
+851,87446,Stuttgart Pflugfelder Straße,48.853245,9.152205
+852,353243,Stuttgart Pfullinger Straße,48.74006,9.169169
+853,56074,Stuttgart Pfullinger Straße,48.74006,9.169169
+854,415199,Stuttgart Planckstraße,48.77759,9.203025
+855,62994,Stuttgart Planckstraße,48.77759,9.203025
+856,35691,Stuttgart Plieningen,48.710377,9.202292
+857,422501,Stuttgart Plieningen,48.710323,9.201803
+858,443292,Stuttgart Plieningen,48.710377,9.202292
+859,144560,Stuttgart Plieningen Garbe,48.71067,9.204182
+860,261178,Stuttgart Plieningen Garbe,48.710896,9.20315
+861,261785,Stuttgart Plieningen Garbe,48.710896,9.20315
+862,285340,Stuttgart Plieningen Garbe,48.710896,9.20315
+863,302193,Stuttgart Plieningen Garbe,48.710896,9.20315
+864,315985,Stuttgart Plieningen Garbe,48.71067,9.204182
+865,400229,Stuttgart Plieningen Garbe,48.710896,9.20315
+866,126932,Stuttgart Plieningen Post,48.701126,9.210678
+867,148872,Stuttgart Plieningen Post,48.701126,9.210678
+868,171152,Stuttgart Plieningen Post,48.701107,9.21137
+869,8165,Stuttgart Plieningen Post,48.701107,9.21137
+870,160701,Stuttgart Plieningen Seemühlenweg,48.704945,9.221047
+871,198332,Stuttgart Plieningen Seemühlenweg,48.705036,9.221101
+872,410099,Stuttgart Plieningen Seemühlenweg,48.705036,9.221101
+873,237744,Stuttgart Plieninger Straße,48.72427,9.156666
+874,331956,Stuttgart Plieninger Straße,48.72425,9.156626
+875,248353,Stuttgart Postdörfle,48.788265,9.177497
+876,87270,Stuttgart Postdörfle,48.788265,9.177497
+877,201870,Stuttgart Pragfriedhof,48.798103,9.182514
+878,47609,Stuttgart Pragfriedhof,48.798096,9.182636
+879,217413,Stuttgart Pragsattel,48.809525,9.181929
+880,244845,Stuttgart Pragsattel,48.809505,9.183332
+881,59882,Stuttgart Pragsattel,48.80944,9.183222
+882,206964,Stuttgart Raitelsberg,48.788933,9.212285
+883,87515,Stuttgart Raitelsberg,48.78897,9.212285
+884,399050,Stuttgart Rappachschule,48.80681,9.089168
+885,123029,Stuttgart Rappachstraße,48.807156,9.086078
+886,198726,Stuttgart Rastatter Straße,48.810177,9.107962
+887,455306,Stuttgart Rastatter Straße,48.810165,9.108003
+888,176227,Stuttgart Rathaus,48.773712,9.179936
+889,313305,Stuttgart Rathaus,48.7737,9.180371
+890,318922,Stuttgart Rathaus,48.773594,9.180139
+891,429019,Stuttgart Rathaus,48.773685,9.17999
+892,437938,Stuttgart Rathaus,48.77397,9.180113
+893,431239,Stuttgart Reger-/Schumannstr.,48.779102,9.128591
+894,104426,Stuttgart Ressestraße,48.702312,9.214935
+895,388115,Stuttgart Ressestraße,48.702312,9.214935
+896,314889,Stuttgart Riedenberg,48.73357,9.210066
+897,360021,Stuttgart Riedenberg,48.733093,9.21073
+898,282212,Stuttgart Riedsee,48.733276,9.150632
+899,82936,Stuttgart Riedsee,48.733276,9.150577
+900,111646,Stuttgart Riethmüllerhaus,48.81385,9.203907
+901,40251,Stuttgart Riethmüllerhaus,48.813877,9.203785
+902,134609,Stuttgart Rilke-Realschule,48.829777,9.196781
+903,71965,Stuttgart Rilke-Realschule,48.829777,9.196781
+904,239029,Stuttgart Robert-Bosch-Krankenhaus,48.81509,9.186429
+905,261510,Stuttgart Rohr,48.71802,9.108212
+906,414988,Stuttgart Rohr,48.718075,9.108185
+907,267766,Stuttgart Rohr Mitte,48.718452,9.106406
+908,329667,Stuttgart Rohr Mitte,48.718994,9.106557
+909,77642,Stuttgart Rohr Mitte,48.718113,9.106025
+910,209627,Stuttgart Rohracker,48.756653,9.217303
+911,257546,Stuttgart Rohracker Kelter,48.75686,9.231638
+912,68849,Stuttgart Rohracker Kelter,48.75686,9.231638
+913,213326,Stuttgart Rohrer Höhe,48.718414,9.091864
+914,403607,Stuttgart Rohrer Höhe,48.718414,9.091864
+915,153717,Stuttgart Rohrer Weg,48.72228,9.136641
+916,91653,Stuttgart Rohrer Weg,48.72228,9.136695
+917,256803,Stuttgart Rosenberg-/Johannesstraße,48.779686,9.159534
+918,657,Stuttgart Rosenberg-/Johannesstraße,48.779926,9.160283
+919,160452,Stuttgart Rosenberg-/Seidenstraße,48.781673,9.165581
+920,340016,Stuttgart Rosenberg-/Seidenstraße,48.78143,9.165431
+921,404984,Stuttgart Rosenberg-/Seidenstraße,48.78198,9.164957
+922,71879,Stuttgart Rosenberg-/Seidenstraße,48.782005,9.165065
+923,97178,Stuttgart Rosenberg-/Seidenstraße,48.7815,9.165091
+924,19164,Stuttgart Rosenbergplatz,48.77808,9.155787
+925,298244,Stuttgart Rosenbergplatz,48.77862,9.156237
+926,314892,Stuttgart Rosensteinbrücke,48.806343,9.211678
+927,373765,Stuttgart Rosensteinbrücke,48.80594,9.211145
+928,376364,Stuttgart Rosensteinbrücke,48.805935,9.209675
+929,415942,Stuttgart Rosensteinbrücke,48.80589,9.209606
+930,60239,Stuttgart Rosensteinbrücke,48.805977,9.21105
+931,99519,Stuttgart Rosensteinbrücke,48.805805,9.210804
+932,394046,Stuttgart Rosensteinpark,48.80692,9.196963
+933,450233,Stuttgart Rosensteinpark,48.80685,9.195779
+934,136853,Stuttgart Rotebühl-/Reinsburgstraße,48.768627,9.151336
+935,430358,Stuttgart Rotebühl-/Reinsburgstraße,48.768627,9.151336
+936,111100,Stuttgart Rotenberg,48.783344,9.270651
+937,204034,Stuttgart Rotwiesenstraße,48.72764,9.208505
+938,338846,Stuttgart Rotwiesenstraße,48.72764,9.208505
+939,307084,Stuttgart Roßbachstraße,48.81755,9.108469
+940,69025,Stuttgart Roßbachstraße,48.81755,9.108469
+941,136712,Stuttgart Rudolf-Sophien-Stift,48.75846,9.124879
+942,255134,Stuttgart Rudolf-Sophien-Stift,48.758114,9.128619
+943,102526,Stuttgart Ruhbank (Fernsehturm),48.753445,9.195298
+944,223192,Stuttgart Ruhbank (Fernsehturm),48.753166,9.195243
+945,28847,Stuttgart Ruhbank (Fernsehturm),48.753365,9.195257
+946,374559,Stuttgart Ruhbank (Fernsehturm),48.753483,9.194496
+947,4988,Stuttgart Ruhbank (Fernsehturm),48.753246,9.195257
+948,63819,Stuttgart Ruhbank (Fernsehturm),48.753483,9.194306
+949,302216,Stuttgart Russische Kirche,48.78443,9.160651
+950,304106,Stuttgart Russische Kirche,48.78455,9.160828
+951,329281,Stuttgart Russische Kirche,48.784332,9.161277
+952,378139,Stuttgart Russische Kirche,48.784378,9.161304
+953,348345,Stuttgart Rübezahlweg,48.720917,9.14914
+954,37931,Stuttgart SSB-Zentrum,48.726868,9.129476
+955,5574,Stuttgart SSB-Zentrum,48.72679,9.130835
+956,159122,Stuttgart Salamanderweg,48.802616,9.093244
+957,352685,Stuttgart Salamanderweg,48.802643,9.093244
+958,154466,Stuttgart Salvatorkirche,48.80447,9.09058
+959,306208,Stuttgart Salzwiesenstraße,48.836548,9.162439
+960,308653,Stuttgart Salzwiesenstraße,48.836243,9.163187
+961,423237,Stuttgart Salzwiesenstraße,48.836395,9.162793
+962,4541,Stuttgart Salzwiesenstraße,48.83643,9.162888
+963,56489,Stuttgart Salzäcker,48.721653,9.161864
+964,72806,Stuttgart Salzäcker,48.72162,9.16185
+965,241513,Stuttgart Scharnhäuser Brücke,48.703953,9.217686
+966,268398,Stuttgart Scharnhäuser Brücke,48.703407,9.217127
+967,178836,Stuttgart Schattengrund,48.756165,9.091267
+968,315264,Stuttgart Schattengrund,48.755608,9.091307
+969,254443,Stuttgart Schemppstraße,48.741405,9.218297
+970,348049,Stuttgart Schemppstraße,48.741226,9.218677
+971,38267,Stuttgart Schemppstraße,48.74128,9.218786
+972,50246,Stuttgart Schemppstraße,48.741405,9.218297
+973,154320,Stuttgart Schickhardtschule,48.7658,9.16085
+974,52889,Stuttgart Schickhardtschule,48.7658,9.16085
+975,218868,Stuttgart Schildfarnweg,48.751907,9.241801
+976,71160,Stuttgart Schildfarnweg,48.751907,9.241801
+977,304819,Stuttgart Schlachthof,48.787197,9.217612
+978,310951,Stuttgart Schlachthof,48.78717,9.217571
+979,393292,Stuttgart Schlachthof,48.787094,9.218646
+980,396336,Stuttgart Schlachthof,48.78672,9.217637
+981,368314,Stuttgart Schloss-/Johannesstraße,48.7762,9.162529
+982,425568,Stuttgart Schloss-/Johannesstraße,48.776608,9.162245
+983,435458,Stuttgart Schloss-/Johannesstraße,48.776203,9.161863
+984,440380,Stuttgart Schloss-/Johannesstraße,48.77655,9.162884
+985,105625,Stuttgart Schlossplatz,48.778973,9.179029
+986,259948,Stuttgart Schlossplatz,48.778973,9.178975
+987,272728,Stuttgart Schlossplatz,48.777603,9.179514
+988,301925,Stuttgart Schlossplatz,48.778973,9.179029
+989,315560,Stuttgart Schlossplatz,48.777714,9.179093
+990,427525,Stuttgart Schlossplatz,48.77898,9.178975
+991,327308,Stuttgart Schlotterbeckstraße,48.784103,9.249005
+992,72392,Stuttgart Schlotterbeckstraße,48.784096,9.248896
+993,140536,Stuttgart Schlotwiese,48.82935,9.1531
+994,123797,Stuttgart Schnarrenberg,48.8242,9.197344
+995,327826,Stuttgart Schnarrenberg,48.8242,9.197344
+996,343342,Stuttgart Schneideräckerstraße,48.834816,9.238741
+997,414198,Stuttgart Schneideräckerstraße,48.834816,9.238741
+998,254730,Stuttgart Schottstraße,48.790405,9.159758
+999,402662,Stuttgart Schottstraße,48.790405,9.159758
+1000,134008,Stuttgart Schozacher Straße,48.8304,9.184906
+1001,239059,Stuttgart Schozacher Straße,48.83055,9.18507
+1002,384206,Stuttgart Schozacher Straße,48.83037,9.185315
+1003,398463,Stuttgart Schozacher Straße,48.83037,9.18492
+1004,22801,Stuttgart Schranne,48.74285,9.10382
+1005,269636,Stuttgart Schranne,48.74285,9.10382
+1006,445920,Stuttgart Schranne,48.74285,9.10382
+1007,89334,Stuttgart Schranne,48.74285,9.10382
+1008,246915,Stuttgart Schulze-Delitzsch-Str.,48.720535,9.127218
+1009,247812,Stuttgart Schumann-/Franz-Schubert-Str.,48.778385,9.128725
+1010,16834,Stuttgart Schwab-/Bebelstraße,48.775024,9.155015
+1011,227611,Stuttgart Schwab-/Bebelstraße,48.775356,9.155996
+1012,41584,Stuttgart Schwab-/Bebelstraße,48.775356,9.155996
+1013,64620,Stuttgart Schwab-/Bebelstraße,48.77505,9.155015
+1014,292989,Stuttgart Schwab-/Reinsburgstraße,48.76837,9.159606
+1015,334277,Stuttgart Schwab-/Reinsburgstraße,48.768238,9.159416
+1016,366084,Stuttgart Schwab-/Reinsburgstraße,48.76837,9.159606
+1017,389425,Stuttgart Schwab-/Reinsburgstraße,48.76841,9.160191
+1018,270985,Stuttgart Schwabengalerie,48.729855,9.108048
+1019,318978,Stuttgart Schwabengalerie,48.729855,9.108048
+1020,289102,Stuttgart Schwabstraße,48.77035,9.158184
+1021,317292,Stuttgart Schwabstraße,48.770786,9.1579
+1022,324760,Stuttgart Schwabstraße,48.770508,9.157749
+1023,417716,Stuttgart Schwabstraße,48.770657,9.158348
+1024,298504,Stuttgart Schwarenbergstraße,48.78565,9.203534
+1025,337478,Stuttgart Schwarenbergstraße,48.785507,9.202867
+1026,207383,Stuttgart Senefelderstraße,48.77186,9.162828
+1027,421485,Stuttgart Senefelderstraße,48.772205,9.164163
+1028,259691,Stuttgart Seyfferstraße,48.76974,9.152904
+1029,322868,Stuttgart Seyfferstraße,48.76974,9.152904
+1030,113150,Stuttgart Sieglestraße,48.816322,9.177161
+1031,330393,Stuttgart Sieglestraße,48.815323,9.17792
+1032,163689,Stuttgart Sigmaringer Straße,48.728706,9.153214
+1033,361845,Stuttgart Sigmaringer Straße,48.728733,9.153255
+1034,205643,Stuttgart Silberburg-/Reinsburgstraße,48.770206,9.165829
+1035,48363,Stuttgart Silberburg-/Reinsburgstraße,48.770485,9.166878
+1036,220229,Stuttgart Silberwald,48.747917,9.207692
+1037,276253,Stuttgart Silberwald,48.747974,9.207774
+1038,150079,Stuttgart Sillenbuch,48.74452,9.213144
+1039,220687,Stuttgart Sillenbuch,48.744484,9.213076
+1040,37274,Stuttgart Sillenbuch,48.74505,9.212616
+1041,163010,Stuttgart Solitude,48.78695,9.083852
+1042,311547,Stuttgart Solitude,48.78695,9.083852
+1043,124091,Stuttgart Sommerhaldenstr. (Wendeplatte),48.77838,9.112125
+1044,96497,Stuttgart Sommerrain,48.81514,9.246463
+1045,243599,Stuttgart Sonatenweg,48.84971,9.164757
+1046,415100,Stuttgart Sonatenweg,48.84971,9.164757
+1047,202072,Stuttgart Sonnenberg,48.740692,9.152992
+1048,383541,Stuttgart Sonnenberg,48.741394,9.154205
+1049,124050,Stuttgart Sonnenbühl,48.786934,9.273065
+1050,75028,Stuttgart Sonnenbühl,48.786934,9.273065
+1051,25364,Stuttgart Spaichinger Straße,48.74303,9.215082
+1052,258747,Stuttgart Spaichinger Straße,48.74303,9.215082
+1053,453378,Stuttgart Spaichinger Straße,48.7433,9.215042
+1054,432395,Stuttgart Sportpark Feuerbach,48.80977,9.142393
+1055,54861,Stuttgart Sportpark Feuerbach,48.809734,9.142339
+1056,132975,Stuttgart Staatsgalerie,48.783016,9.187235
+1057,145654,Stuttgart Staatsgalerie,48.783035,9.187181
+1058,221968,Stuttgart Staatsgalerie,48.781162,9.187487
+1059,272733,Stuttgart Staatsgalerie,48.7827,9.188554
+1060,342718,Stuttgart Staatsgalerie,48.781162,9.187133
+1061,355016,Stuttgart Staatsgalerie,48.7827,9.188554
+1062,231559,Stuttgart Stadtbibliothek,48.79066,9.180582
+1063,232086,Stuttgart Stadtbibliothek,48.790688,9.181153
+1064,323289,Stuttgart Stadtbibliothek,48.79066,9.180582
+1065,412931,Stuttgart Stadtbibliothek,48.790688,9.181208
+1066,105821,Stuttgart Stadtmitte,48.77483,9.171885
+1067,122479,Stuttgart Stadtmitte,48.775505,9.171207
+1068,143542,Stuttgart Stadtmitte,48.77483,9.171885
+1069,319483,Stuttgart Stadtmitte,48.77446,9.172836
+1070,55875,Stuttgart Stadtmitte,48.774433,9.172795
+1071,456191,Stuttgart Stafflenbergstraße,48.77543,9.191955
+1072,74590,Stuttgart Stafflenbergstraße,48.775383,9.191887
+1073,126193,Stuttgart Stammheim,48.84944,9.156022
+1074,294979,Stuttgart Stammheim,48.850044,9.156174
+1075,96786,Stuttgart Stammheim,48.850216,9.156093
+1076,27236,Stuttgart Steckfeld,48.71613,9.197192
+1077,94617,Stuttgart Steckfeld,48.71613,9.197192
+1078,368555,Stuttgart Stefan-Zweig-Straße,48.806713,9.140302
+1079,297375,Stuttgart Steinbuttstraße,48.84258,9.218084
+1080,337787,Stuttgart Steinbuttstraße,48.84258,9.218084
+1081,115166,Stuttgart Steinhaldenfeld,48.827545,9.231924
+1082,122737,Stuttgart Steinhaldenfeld,48.827545,9.231924
+1083,145778,Stuttgart Steinhaldenfeld,48.828373,9.231723
+1084,180520,Stuttgart Steinhaldenfeld,48.82838,9.231587
+1085,106619,Stuttgart Steinäcker,48.73495,9.213117
+1086,426175,Stuttgart Steinäcker,48.73495,9.213117
+1087,186935,Stuttgart Stelle,48.761215,9.199858
+1088,243535,Stuttgart Stelle,48.76127,9.199804
+1089,432421,Stuttgart Stelle,48.761314,9.200212
+1090,326530,Stuttgart Sternhäule,48.72413,9.167553
+1091,327286,Stuttgart Sternhäule,48.724117,9.167458
+1092,368216,Stuttgart Sternhäule,48.7233,9.16634
+1093,60447,Stuttgart Sternhäule,48.723408,9.166762
+1094,335503,Stuttgart Straußstaffel,48.779144,9.199793
+1095,393006,Stuttgart Straußstaffel,48.779144,9.199793
+1096,382003,Stuttgart Straßenbahnmuseum,48.799236,9.218603
+1097,269054,Stuttgart Stöckach,48.788975,9.194988
+1098,415586,Stuttgart Stöckach,48.788994,9.19496
+1099,298119,Stuttgart Suttnerstraße,48.840496,9.20655
+1100,395537,Stuttgart Suttnerstraße,48.840515,9.206495
+1101,244053,Stuttgart Synergiepark,48.72472,9.118366
+1102,72302,Stuttgart Synergiepark,48.72461,9.118638
+1103,252433,Stuttgart Südheimer Platz,48.755997,9.142104
+1104,426741,Stuttgart Südheimer Platz,48.75665,9.14363
+1105,450110,Stuttgart Südheimer Platz,48.755924,9.142172
+1106,89327,Stuttgart Südheimer Platz,48.756622,9.143643
+1107,195485,Stuttgart Tal-/Landhausstraße,48.784615,9.213396
+1108,411973,Stuttgart Tal-/Landhausstraße,48.784615,9.213396
+1109,418572,Stuttgart Tannenäckerstraße,48.813236,9.146229
+1110,261917,Stuttgart Tapachstraße,48.83251,9.19592
+1111,282662,Stuttgart Tapachstraße,48.833908,9.195598
+1112,319229,Stuttgart Tapachstraße,48.833908,9.19553
+1113,49030,Stuttgart Tapachstraße,48.832767,9.195281
+1114,373087,Stuttgart Tennisplatz,48.76433,9.124649
+1115,443593,Stuttgart Tennisplatz,48.76445,9.12469
+1116,215501,Stuttgart Terlanerstraße,48.774353,9.27799
+1117,265949,Stuttgart Terlanerstraße,48.7734,9.277114
+1118,424321,Stuttgart Theodorstraße,48.821335,9.167524
+1119,314607,Stuttgart Thingstraße,48.716988,9.097923
+1120,320193,Stuttgart Thingstraße,48.716835,9.097556
+1121,261938,Stuttgart Tiefenbachschule,48.75588,9.221937
+1122,339776,Stuttgart Tiefenbachschule,48.75588,9.221937
+1123,49724,Stuttgart Tigerstraße,48.730614,9.094959
+1124,83474,Stuttgart Tigerstraße,48.730675,9.094959
+1125,395462,Stuttgart Tiroler Straße,48.773167,9.280841
+1126,399191,Stuttgart Tiroler Straße,48.773273,9.280828
+1127,118754,Stuttgart Treiberstraße,48.751022,9.220936
+1128,167158,Stuttgart Triebweg,48.808235,9.139965
+1129,105829,Stuttgart Tränke,48.737804,9.169067
+1130,55663,Stuttgart Tränke,48.737804,9.169067
+1131,280175,Stuttgart Tunnel Ostportal,48.780052,9.200668
+1132,361579,Stuttgart Tunnel Ostportal,48.780212,9.2006
+1133,238281,Stuttgart Uff-Kirchhof,48.804996,9.225925
+1134,414737,Stuttgart Uff-Kirchhof,48.805023,9.225925
+1135,158525,Stuttgart Uhlbach,48.7755,9.278854
+1136,117369,Stuttgart Uhlbacher Höhe,48.77148,9.279008
+1137,32899,Stuttgart Uhlbacher Höhe,48.771545,9.279117
+1138,11873,Stuttgart Umgelterweg,48.77177,9.122423
+1139,411281,Stuttgart Umgelterweg,48.772312,9.123512
+1140,167443,Stuttgart Universität,48.74411,9.105617
+1141,228959,Stuttgart Universität,48.74437,9.106393
+1142,415018,Stuttgart Universität,48.74411,9.105617
+1143,46697,Stuttgart Universität,48.74437,9.106393
+1144,267020,Stuttgart Universität (Schleife),48.7456,9.107266
+1145,300748,Stuttgart Universität (Schleife),48.745747,9.10728
+1146,45428,Stuttgart Universität (Schleife),48.745766,9.107307
+1147,123568,Stuttgart Universität Hohenheim,48.711918,9.209418
+1148,14459,Stuttgart Universität Hohenheim,48.711918,9.209418
+1149,212238,Stuttgart Untertürkheim,48.7792,9.249906
+1150,229346,Stuttgart Untertürkheim,48.780136,9.249203
+1151,300418,Stuttgart Untertürkheim,48.77911,9.249878
+1152,314537,Stuttgart Untertürkheim,48.779163,9.249743
+1153,421475,Stuttgart Untertürkheim,48.77928,9.250002
+1154,423364,Stuttgart Untertürkheim,48.780136,9.249162
+1155,400567,Stuttgart Untertürkheim Alter Friedhof,48.78198,9.254791
+1156,289873,Stuttgart Untertürkheim Friedhof,48.784763,9.259418
+1157,373876,Stuttgart Untertürkheim Friedhof,48.784763,9.259418
+1158,207380,Stuttgart Untertürkheim Kelterplatz,48.781105,9.25495
+1159,211687,Stuttgart Urachstraße,48.785805,9.197983
+1160,367460,Stuttgart Urachstraße,48.785805,9.197983
+1161,25713,Stuttgart Vaih. Landstr./Emma-Aberle-Weg,48.772984,9.124847
+1162,190311,Stuttgart Vaihingen,48.726334,9.112077
+1163,200146,Stuttgart Vaihingen,48.726406,9.111955
+1164,23205,Stuttgart Vaihingen,48.726887,9.111399
+1165,243969,Stuttgart Vaihingen,48.72636,9.112036
+1166,290642,Stuttgart Vaihingen,48.727036,9.112296
+1167,373695,Stuttgart Vaihingen,48.726433,9.111914
+1168,47014,Stuttgart Vaihingen,48.726887,9.111399
+1169,72358,Stuttgart Vaihingen,48.726936,9.112309
+1170,44059,Stuttgart Vaihingen Alter Friedhof,48.736042,9.107816
+1171,75748,Stuttgart Vaihingen Alter Friedhof,48.735664,9.106782
+1172,100895,Stuttgart Vaihingen Bf (Ost),48.72526,9.113977
+1173,218927,Stuttgart Vaihingen Rathaus,48.731644,9.109153
+1174,337989,Stuttgart Vaihingen Rathaus,48.731247,9.109451
+1175,181069,Stuttgart Vaihingen Schillerplatz,48.729824,9.111935
+1176,253904,Stuttgart Vaihingen Schillerplatz,48.730164,9.112942
+1177,346535,Stuttgart Vaihingen Schillerplatz,48.72987,9.111514
+1178,458776,Stuttgart Vaihingen Schillerplatz,48.730137,9.113023
+1179,289944,Stuttgart Vaihingen Viadukt,48.733253,9.118699
+1180,452052,Stuttgart Vaihingen Viadukt,48.733234,9.118753
+1181,446608,Stuttgart Vaihinger Land-/Brucknerstr.,48.77416,9.126769
+1182,192360,Stuttgart Vaihinger Land-/Gluckstr.,48.77505,9.126907
+1183,171520,Stuttgart Vaihinger Land-/Hummelbergstr.,48.776333,9.128543
+1184,388352,Stuttgart Vaihinger Land-/Kullenbergstr.,48.775623,9.127017
+1185,244675,Stuttgart Vaihinger Land-/Lortzingstr.,48.77592,9.127236
+1186,309485,Stuttgart Vaihinger Landstr./Brahmsweg,48.775955,9.128392
+1187,132160,Stuttgart Vaihinger Straße,48.727726,9.139224
+1188,50141,Stuttgart Vaihinger Straße,48.727734,9.13917
+1189,332893,Stuttgart Veielbrunnenweg,48.79871,9.220602
+1190,418025,Stuttgart Veielbrunnenweg,48.79871,9.220602
+1191,93162,Stuttgart Verdi-/Donizettistr.,48.780945,9.124051
+1192,455942,Stuttgart Verdistr./Ob. Kirchhaldenweg,48.78239,9.12517
+1193,241205,Stuttgart Viergiebelweg,48.796513,9.175648
+1194,71651,Stuttgart Viergiebelweg,48.796783,9.175377
+1195,116859,Stuttgart Viktor-Köchl-Weg,48.788074,9.154525
+1196,281125,Stuttgart Viktor-Köchl-Weg,48.78844,9.155574
+1197,149483,Stuttgart Vogelsang,48.77466,9.14594
+1198,405235,Stuttgart Vogelsang,48.774624,9.144688
+1199,440516,Stuttgart Vogelsang,48.774693,9.14594
+1200,182943,Stuttgart Wagenburgstraße,48.78203,9.207779
+1201,287509,Stuttgart Wagenburgstraße,48.782036,9.208064
+1202,321393,Stuttgart Wagenburgstraße,48.78171,9.208049
+1203,60929,Stuttgart Wagenburgstraße,48.78171,9.207818
+1204,262200,Stuttgart Wagrainäcker,48.829273,9.211829
+1205,369773,Stuttgart Wagrainäcker,48.83002,9.212486
+1206,247641,Stuttgart Waldau,48.75161,9.189022
+1207,329913,Stuttgart Waldau,48.75151,9.18909
+1208,233851,Stuttgart Waldburgstraße,48.72546,9.107413
+1209,269840,Stuttgart Waldburgstraße,48.72546,9.107413
+1210,167182,Stuttgart Waldeck,48.745403,9.132883
+1211,294114,Stuttgart Waldeck,48.744827,9.134377
+1212,375590,Stuttgart Waldeck,48.74554,9.133264
+1213,49872,Stuttgart Waldeck,48.74482,9.134418
+1214,136137,Stuttgart Waldfriedhof,48.751675,9.145492
+1215,31630,Stuttgart Waldfriedhof,48.751755,9.146934
+1216,189800,Stuttgart Wallgraben,48.726997,9.125249
+1217,285419,Stuttgart Wallgraben,48.727024,9.125263
+1218,235143,Stuttgart Wangen Marktplatz,48.77155,9.245419
+1219,416801,Stuttgart Wangen Marktplatz,48.77153,9.245378
+1220,176491,Stuttgart Wangener-/Landhausstraße,48.782288,9.222448
+1221,180887,Stuttgart Wangener-/Landhausstraße,48.782322,9.222476
+1222,1884,Stuttgart Wangener-/Landhausstraße,48.782467,9.222626
+1223,273235,Stuttgart Wangener-/Landhausstraße,48.78244,9.222612
+1224,125269,Stuttgart Wasenstraße,48.77613,9.242843
+1225,445015,Stuttgart Wasenstraße,48.776104,9.242816
+1226,449527,Stuttgart Wasenstraße,48.775497,9.244677
+1227,75693,Stuttgart Wasenstraße,48.77548,9.244636
+1228,119184,Stuttgart Weidachtal,48.729748,9.167123
+1229,92534,Stuttgart Weidachtal,48.72974,9.16715
+1230,389086,Stuttgart Weilemer Pfad,48.8165,9.090084
+1231,417109,Stuttgart Weilemer Pfad,48.8165,9.090084
+1232,405051,Stuttgart Weilimdorf Bf,48.82194,9.094356
+1233,277975,Stuttgart Weilimdorf Bf (Unterführung),48.821587,9.096888
+1234,394878,Stuttgart Weilimdorf Bf (Unterführung),48.821445,9.096738
+1235,249553,Stuttgart Weilimdorf Löwen-Markt,48.81374,9.112804
+1236,257630,Stuttgart Weilimdorf Löwen-Markt,48.814407,9.112301
+1237,307451,Stuttgart Weilimdorf Löwen-Markt,48.814568,9.111839
+1238,319492,Stuttgart Weilimdorf Löwen-Markt,48.813705,9.113811
+1239,339407,Stuttgart Weilimdorf Löwen-Markt,48.81368,9.112817
+1240,378438,Stuttgart Weinsteige,48.75495,9.174741
+1241,85952,Stuttgart Weinsteige,48.75496,9.1747
+1242,192349,Stuttgart Werner und Pfleiderer,48.821537,9.170302
+1243,199255,Stuttgart Werner und Pfleiderer,48.821537,9.170302
+1244,167954,Stuttgart Weserstraße,48.82244,9.215273
+1245,401266,Stuttgart Westbahnhof,48.769356,9.145135
+1246,41234,Stuttgart Westbahnhof,48.769337,9.145094
+1247,22210,Stuttgart Westbahnhof (Schleife),48.768887,9.145732
+1248,112009,Stuttgart Wielandshöhe,48.75733,9.170302
+1249,409391,Stuttgart Wielandshöhe,48.75735,9.170329
+1250,59344,Stuttgart Wielandshöhe,48.75733,9.170275
+1251,60354,Stuttgart Wielandshöhe,48.75735,9.170329
+1252,364585,Stuttgart Wiener Straße,48.809013,9.150178
+1253,27711,Stuttgart Wildensteinstraße,48.804607,9.155366
+1254,413159,Stuttgart Wildensteinstraße,48.804607,9.155366
+1255,353482,Stuttgart Wildgansweg,48.83551,9.231797
+1256,52302,Stuttgart Wildgansweg,48.83577,9.232657
+1257,60202,Stuttgart Wilhelm-/Olgastraße,48.769733,9.180778
+1258,91193,Stuttgart Wilhelm-/Olgastraße,48.76909,9.180246
+1259,151646,Stuttgart Wilhelm-Geiger-Platz,48.811653,9.158587
+1260,180718,Stuttgart Wilhelm-Geiger-Platz,48.811607,9.159009
+1261,310935,Stuttgart Wilhelm-Geiger-Platz,48.811646,9.158655
+1262,435814,Stuttgart Wilhelm-Geiger-Platz,48.811592,9.159022
+1263,158632,Stuttgart Wilhelma,48.804012,9.208278
+1264,457891,Stuttgart Wilhelma,48.803993,9.208305
+1265,203928,Stuttgart Wilhelmsbau,48.773567,9.174588
+1266,252102,Stuttgart Wilhelmsbau,48.773567,9.174588
+1267,107454,Stuttgart Wimpfener Straße,48.838303,9.160987
+1268,227590,Stuttgart Wimpfener Straße,48.83827,9.16096
+1269,207980,Stuttgart Windhalmweg,48.707226,9.204847
+1270,51643,Stuttgart Windhalmweg,48.707226,9.204847
+1271,289604,Stuttgart Wolfbusch,48.807545,9.105356
+1272,445844,Stuttgart Wolfbusch,48.80756,9.105329
+1273,144111,Stuttgart Wolfbusch Friedhof,48.80188,9.111035
+1274,302549,Stuttgart Wollinstraße,48.83746,9.147158
+1275,34704,Stuttgart Wollinstraße,48.837353,9.147062
+1276,123718,Stuttgart Wunnensteinstraße,48.78074,9.2038
+1277,315996,Stuttgart Wunnensteinstraße,48.780865,9.20376
+1278,348755,Stuttgart Wurmlinger Straße,48.746113,9.169625
+1279,114543,Stuttgart Yitzhak-Rabin-Straße,48.81613,9.188435
+1280,136331,Stuttgart Yitzhak-Rabin-Straße,48.81613,9.188435
+1281,302063,Stuttgart Zabergäustraße,48.834522,9.175223
+1282,153568,Stuttgart Zahn-Nopper-Straße,48.832573,9.163843
+1283,274881,Stuttgart Zahn-Nopper-Straße,48.832573,9.163843
+1284,405137,Stuttgart Zahn-Nopper-Straße,48.83293,9.164838
+1285,80781,Stuttgart Zahn-Nopper-Straße,48.83293,9.164838
+1286,115941,Stuttgart Zahnradbahnhof,48.75025,9.172427
+1287,178853,Stuttgart Zahnradbahnhof,48.7501,9.171991
+1288,228692,Stuttgart Zahnradbahnhof,48.750065,9.172086
+1289,31218,Stuttgart Zahnradbahnhof,48.750065,9.172086
+1290,308489,Stuttgart Zazenhausen Krone,48.84071,9.197968
+1291,315533,Stuttgart Zazenhausen Krone,48.84107,9.198473
+1292,396463,Stuttgart Zazenhausen Steigle,48.84281,9.19987
+1293,55786,Stuttgart Zazenhausen Steigle,48.84281,9.19987
+1294,443384,Stuttgart Zazenhausen Viadukt,48.83962,9.194585
+1295,5271,Stuttgart Zazenhausen Viadukt,48.83962,9.194585
+1296,110707,Stuttgart Zellerstraße,48.76262,9.177815
+1297,409939,Stuttgart Zellerstraße,48.76262,9.177815
+1298,417150,Stuttgart Zuckerberg,48.825844,9.23208
+1299,439316,Stuttgart Zuckerberg,48.825844,9.23208
+1300,231845,Stuttgart Zuffenhausen,48.8295,9.168164
+1301,281252,Stuttgart Zuffenhausen,48.829563,9.168341
+1302,304936,Stuttgart Zuffenhausen,48.829803,9.168247
+1303,401610,Stuttgart Zuffenhausen,48.829704,9.168355
+1304,406321,Stuttgart Zuffenhausen,48.829662,9.168478
+1305,268764,Stuttgart Zuffenhausen Friedhof,48.8359,9.181467
+1306,444860,Stuttgart Zuffenhausen Friedhof,48.8359,9.181467
+1307,121604,Stuttgart Zuffenhausen Kelterplatz,48.829525,9.175682
+1308,172777,Stuttgart Zuffenhausen Kelterplatz,48.829597,9.17571
+1309,188771,Stuttgart Zuffenhausen Kelterplatz,48.82972,9.176119
+1310,304127,Stuttgart Zuffenhausen Kelterplatz,48.829685,9.176119
+1311,166130,Stuttgart Zuffenhausen Porsche,48.83517,9.151783
+1312,261475,Stuttgart Zuffenhausen Porsche,48.834217,9.151616
+1313,344504,Stuttgart Zuffenhausen Porsche,48.83508,9.151673
+1314,302551,Stuttgart Zuffenhausen Rathaus,48.831738,9.174165
+1315,39939,Stuttgart Zuffenhausen Rathaus,48.830585,9.174651
+1316,51159,Stuttgart Zuffenhausen Rathaus,48.830597,9.174719
+1317,374733,Stuttgart Zuffenhausen Reibedanz,48.838478,9.188437
+1318,385495,Stuttgart Zuffenhausen Reibedanz,48.838478,9.188437
+1319,119780,Stuttgart Zuffenhausen bus station,48.829445,9.16863
+1320,144518,Stuttgart Zuffenhäuser Heide,48.824997,9.189026
+1321,395296,Stuttgart Zuffenhäuser Heide,48.82499,9.188849
+1322,261063,Stuttgart Züricher Straße,48.810448,9.199904
+1323,304759,Stuttgart Züricher Straße,48.810413,9.199931
+1324,179607,Stuttgart Ährenweg,48.757587,9.252396
+1325,415165,Stuttgart Ährenweg,48.757587,9.252396
+1326,12627,Stuttgart Österreichischer Platz,48.77039,9.175938
+1327,250974,Stuttgart Österreichischer Platz,48.771126,9.176593
+1328,25901,Stuttgart Österreichischer Platz,48.771,9.177246
+1329,346078,Stuttgart Österreichischer Platz,48.7703,9.176033
+1330,98808,Stuttgart Österreichischer Platz,48.76972,9.174806
+1331,315690,Stuttgarter Str./Fa. Lidl,48.81109,9.164644
+1332,166028,Stuttgarter Straße,48.80938,9.15941

@@ -1,0 +1,154 @@
+Parameters:
+alpha_const=0.500000, beta_const=0.500000, maxit_quadrature=5, maxit_fAb=10, top_k_centralities=10
+
+-----Subgraph centrality-----
+Joint centralities:
+ SC_JC_ranking  node_id                      stop_name  layer_id layer_name    value
+             1      513               Lieskauer Straße        21        308 1.084511
+             2      484       Krankenhaus Martha-Maria        21        308 1.084066
+             3      118                       Blumenau        21        308 1.080073
+             4       23                 Am Hechtgraben        21        308 1.080069
+             5      509                         Lettin        21        308 1.080006
+             6      557                Moskauer Straße        12         26 1.075722
+             7      247             Gertraudenfriedhof         4         16 1.073281
+             8      558                Moskauer Straße        12         26 1.073185
+             9      482                  Kornblumenweg         4         16 1.073109
+            10      506 Landesmuseum für Vorgeschichte        24        312 1.071559
+Marginal node centralities:
+ SC_MNC_ranking  node_id        stop_name     value
+              1      216     Franckeplatz 62.194552
+              2      215     Franckeplatz 62.190837
+              3      540       Marktplatz 62.187557
+              4      541       Marktplatz 62.170738
+              5      609 Rannischer Platz 62.163009
+              6      713         Steinweg 62.156461
+              7       44      Am Steintor 62.155269
+              8      712         Steinweg 62.154141
+              9      610 Rannischer Platz 62.151064
+             10      556   Moritzburgring 62.144228
+Marginal layer centralities:
+ SC_MLC_ranking  layer_id layer_name      value
+              1        12         26 827.573538
+              2        24        312 826.686758
+              3         4         16 826.243889
+              4        38         3E 825.775530
+              5        27        320 825.649381
+              6        21        308 825.537347
+              7        26         32 825.525666
+              8         5          2 825.486036
+              9        15          3 824.968191
+             10         8         23 824.765063
+
+-----Resolvent-based subgraph centrality-----
+Joint centralities:
+ SCres_JC_ranking  node_id                stop_name  layer_id layer_name    value
+                1      513         Lieskauer Straße        21        308 1.215494
+                2      484 Krankenhaus Martha-Maria        21        308 1.214237
+                3      118                 Blumenau        21        308 1.201793
+                4       23           Am Hechtgraben        21        308 1.201358
+                5      509                   Lettin        21        308 1.198797
+                6      557          Moskauer Straße        12         26 1.186755
+                7      247       Gertraudenfriedhof         4         16 1.182504
+                8      558          Moskauer Straße        12         26 1.178918
+                9      204     Fiete-Schulze-Straße        24        312 1.177048
+               10        9  Alfred-Schneider-Straße        24        312 1.177018
+Marginal node centralities:
+ SCres_MNC_ranking  node_id        stop_name     value
+                 1      216     Franckeplatz 62.442291
+                 2      215     Franckeplatz 62.440513
+                 3      540       Marktplatz 62.434379
+                 4      541       Marktplatz 62.387694
+                 5      609 Rannischer Platz 62.370500
+                 6      713         Steinweg 62.358389
+                 7       44      Am Steintor 62.356267
+                 8      712         Steinweg 62.350869
+                 9      610 Rannischer Platz 62.346273
+                10      556   Moritzburgring 62.335864
+Marginal layer centralities:
+ SCres_MLC_ranking  layer_id layer_name      value
+                 1        12         26 832.527698
+                 2        24        312 830.496236
+                 3         4         16 829.355710
+                 4        38         3E 827.926894
+                 5        27        320 827.697886
+                 6        21        308 827.549121
+                 7        26         32 827.310403
+                 8         5          2 827.209866
+                 9        15          3 826.085365
+                10         8         23 825.700441
+
+-----Total communicability-----
+Joint communicabilities:
+ TC_JC_ranking  node_id                stop_name  layer_id layer_name    value
+             1      513         Lieskauer Straße        21        308 1.785383
+             2      484 Krankenhaus Martha-Maria        21        308 1.783093
+             3      118                 Blumenau        21        308 1.762935
+             4       23           Am Hechtgraben        21        308 1.760766
+             5      509                   Lettin        21        308 1.749447
+             6      478             Kolkturmring        21        308 1.737861
+             7        5    Alfred-Oelßner-Straße        21        308 1.735469
+             8      512         Lieskauer Straße        21        308 1.731473
+             9      557          Moskauer Straße        12         26 1.728258
+            10      244             Gartenstraße        21        308 1.720545
+Marginal node communicabilities:
+ TC_MNC_ranking  node_id        stop_name     value
+              1      216     Franckeplatz 64.800431
+              2      215     Franckeplatz 64.679852
+              3      541       Marktplatz 64.609232
+              4      540       Marktplatz 64.437299
+              5      609 Rannischer Platz 64.313133
+              6      679           Saline 64.261916
+              7      678           Saline 64.173204
+              8      713         Steinweg 64.107198
+              9      712         Steinweg 64.098899
+             10      610 Rannischer Platz 64.080102
+Marginal layer communicabilities:
+ TC_MLC_ranking  layer_id layer_name      value
+              1        12         26 864.840205
+              2        24        312 853.538089
+              3         4         16 849.433190
+              4        38         3E 848.158939
+              5         5          2 846.974302
+              6        26         32 846.441919
+              7        27        320 845.400474
+              8        21        308 844.302859
+              9        15          3 839.240173
+             10        35        358 834.964633
+
+-----Katz centrality-----
+Joint centralities:
+ KC_JC_ranking  node_id                stop_name  layer_id layer_name    value
+             1      513         Lieskauer Straße        21        308 2.273363
+             2      484 Krankenhaus Martha-Maria        21        308 2.270097
+             3      118                 Blumenau        21        308 2.243230
+             4       23           Am Hechtgraben        21        308 2.219058
+             5      509                   Lettin        21        308 2.166416
+             6      478             Kolkturmring        21        308 2.156470
+             7        9  Alfred-Schneider-Straße        24        312 2.135511
+             8      204     Fiete-Schulze-Straße        24        312 2.134201
+             9        8  Alfred-Schneider-Straße        24        312 2.127160
+            10      557          Moskauer Straße        12         26 2.118608
+Marginal node centralities:
+ KC_MNC_ranking  node_id        stop_name     value
+              1      216     Franckeplatz 65.737700
+              2      215     Franckeplatz 65.676881
+              3      541       Marktplatz 65.458499
+              4      540       Marktplatz 65.406576
+              5      609 Rannischer Platz 65.057343
+              6       44      Am Steintor 64.856950
+              7      713         Steinweg 64.834890
+              8      679           Saline 64.834395
+              9      610 Rannischer Platz 64.812654
+             10      712         Steinweg 64.794461
+Marginal layer centralities:
+ KC_MLC_ranking  layer_id layer_name      value
+              1        12         26 884.370632
+              2        24        312 868.831359
+              3         4         16 861.326471
+              4        38         3E 855.614811
+              5         5          2 852.725764
+              6        27        320 852.668110
+              7        26         32 852.445008
+              8        21        308 852.015134
+              9        15          3 842.926950
+             10         8         23 838.040058

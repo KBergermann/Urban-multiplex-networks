@@ -1,0 +1,2085 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,355521,Bergisch Gladbach Gronau Schlodderdicher Weg,50.98118,7.09979
+1,221909,Bergisch Gladbach Hand Heinrich-Strünker-Str.,50.98727,7.086064
+2,88907,Bergisch Gladbach Hand Heinrich-Strünker-Str.,50.987545,7.086297
+3,23146,"CHEMPARK S-Bahn,Wiesdorf",51.01111,6.996376
+4,220212,"CHEMPARK Tor 10,Flittard",51.01085,6.989899
+5,351248,Cologne South (Airport CGN Terminal 2),50.881,7.117833
+6,101001,Dormagen Chempark Tor 1,51.084587,6.847777
+7,283633,Dormagen Chempark Tor 1,51.08448,6.847705
+8,139411,Dormagen Chempark Tor 10,51.080486,6.848612
+9,318046,Dormagen Chempark Tor 10,51.080513,6.848684
+10,61219,Dormagen Hackhausen Stadtgrenz,51.053596,6.817845
+11,438030,Dormagen INEOS Tor 9,51.072624,6.855224
+12,154977,Köln Airport-Businesspark,50.910282,7.044451
+13,251205,Köln Altstadt-Nord Auf Dem Berlich,50.941067,6.948127
+14,299169,Köln Altstadt-Nord Auf Dem Berlich,50.941067,6.948127
+15,222578,Köln Altstadt-Nord Offenbachplatz,50.937927,6.952987
+16,79984,Köln Altstadt-Nord Offenbachplatz,50.937927,6.952987
+17,219991,Köln Altstadt-Nord Unter Sachsenhausen,50.941967,6.952754
+18,277163,Köln Altstadt-Nord Unter Sachsenhausen,50.941967,6.952754
+19,236763,Köln Altstadt-Süd Blaubach,50.931774,6.954137
+20,283638,Köln Altstadt-Süd Blaubach,50.931774,6.954137
+21,103018,Köln Appellhofplatz,50.939728,6.950571
+22,111229,Köln Appellhofplatz,50.9395,6.950463
+23,390590,Köln Appellhofplatz,50.9411,6.950535
+24,440490,Köln Appellhofplatz,50.941143,6.950283
+25,434051,Köln Auweiler,51.002487,6.852762
+26,99387,Köln Auweiler,51.002487,6.852762
+27,142792,Köln Auweiler Hermann-Löns-Str.,51.005264,6.853607
+28,183369,Köln Auweiler Hermann-Löns-Str.,51.004433,6.853032
+29,100740,Köln Barbarossaplatz,50.92896,6.943169
+30,107557,Köln Barbarossaplatz,50.928967,6.942019
+31,166906,Köln Barbarossaplatz,50.92813,6.942414
+32,265003,Köln Barbarossaplatz,50.928993,6.943061
+33,310132,Köln Barbarossaplatz,50.928738,6.941049
+34,85706,Köln Barbarossaplatz,50.929108,6.942037
+35,251649,Köln Bayenthal Bonntor,50.914158,6.962195
+36,312094,Köln Bayenthal Bonntor,50.91443,6.961917
+37,278454,Köln Bayenthal Cäsarstr.,50.90666,6.963587
+38,438500,Köln Bayenthal Cäsarstr.,50.90554,6.963866
+39,109540,Köln Bayenthal Koblenzer Str.,50.91221,6.967208
+40,329609,Köln Bayenthal Koblenzer Str.,50.91277,6.966094
+41,145341,Köln Bayenthal Mannsfeld,50.90971,6.962761
+42,270505,Köln Bayenthal Mannsfeld,50.90999,6.961943
+43,365630,Köln Bayenthal Mannsfeld,50.90943,6.961647
+44,439673,Köln Bayenthal Mannsfeld,50.90943,6.962752
+45,231821,Köln Bayenthal Marktstraße,50.91166,6.962473
+46,38004,Köln Bayenthal Marktstraße,50.91193,6.961925
+47,415534,Köln Bayenthal Schönhauser Str.,50.914223,6.971906
+48,420639,Köln Bayenthal Schönhauser Str.,50.914524,6.971861
+49,419525,Köln Bayenthal Tacitusstr.,50.90916,6.969696
+50,434250,Köln Bayenthal Tacitusstr.,50.909718,6.969139
+51,203347,Köln Bf Süd,50.926723,6.93759
+52,370329,Köln Bickendorf Akazienweg,50.960682,6.894049
+53,409211,Köln Bickendorf Akazienweg,50.96034,6.894516
+54,276438,Köln Bickendorf Emilstr.,50.966373,6.89775
+55,382718,Köln Bickendorf Emilstr.,50.966373,6.89775
+56,391679,Köln Bickendorf Erlenweg,50.968323,6.895253
+57,40933,Köln Bickendorf Erlenweg,50.96805,6.895531
+58,250194,Köln Bickendorf Feltenstr.,50.962772,6.900256
+59,299879,Köln Bickendorf Feltenstr.,50.962772,6.900256
+60,402717,Köln Bickendorf Häuschensweg,50.9611,6.901092
+61,65314,Köln Bickendorf Häuschensweg,50.96082,6.90164
+62,109186,Köln Bickendorf Rochusplatz,50.957035,6.902277
+63,137479,Köln Bickendorf Rochusplatz,50.95721,6.900822
+64,163287,Köln Bickendorf Rochusplatz,50.95694,6.90137
+65,165779,Köln Bickendorf Rochusplatz,50.95665,6.903149
+66,183809,Köln Bickendorf Rochusplatz,50.9567,6.903086
+67,19733,Köln Bickendorf Rochusplatz,50.955822,6.902484
+68,310197,Köln Bickendorf Rochusplatz,50.9567,6.903086
+69,56864,Köln Bickendorf Rochusplatz,50.956104,6.902205
+70,295047,Köln Bickendorf Wilhelm-Mauser-Str.,50.9561,6.891929
+71,300204,Köln Bickendorf Wilhelm-Mauser-Str.,50.956383,6.89192
+72,3726,Köln Bilderstöckchen Alzeyer Str.,50.97027,6.926927
+73,97998,Köln Bilderstöckchen Alzeyer Str.,50.96943,6.926918
+74,136049,Köln Bilderstöckchen Am Bilderstöckchen,50.973038,6.924969
+75,218360,Köln Bilderstöckchen Am Bilderstöckchen,50.973324,6.925822
+76,330476,Köln Bilderstöckchen Am Bilderstöckchen,50.973038,6.926083
+77,343525,Köln Bilderstöckchen Am Bilderstöckchen,50.97305,6.925256
+78,407299,Köln Bilderstöckchen Am Bilderstöckchen,50.973038,6.924969
+79,47189,Köln Bilderstöckchen Am Bilderstöckchen,50.97305,6.925256
+80,113931,Köln Bilderstöckchen Cöllnparc,50.976936,6.921358
+81,2021,Köln Bilderstöckchen Cöllnparc,50.976654,6.921645
+82,277977,Köln Bilderstöckchen Ebernburgweg,50.968876,6.932209
+83,428747,Köln Bilderstöckchen Ebernburgweg,50.96888,6.931652
+84,181355,Köln Bilderstöckchen Escher Str.,50.9647,6.933943
+85,287799,Köln Bilderstöckchen Escher Str.,50.96438,6.933395
+86,224448,Köln Bilderstöckchen Frankenthaler Str.,50.968876,6.936368
+87,336415,Köln Bilderstöckchen Frankenthaler Str.,50.968876,6.935542
+88,161362,Köln Bilderstöckchen Geldernstr./Parkgürtel,50.968597,6.939701
+89,17034,Köln Bilderstöckchen Geldernstr./Parkgürtel,50.968433,6.940348
+90,259303,Köln Bilderstöckchen Geldernstr./Parkgürtel,50.968384,6.940716
+91,40057,Köln Bilderstöckchen Geldernstr./Parkgürtel,50.968876,6.939692
+92,237743,Köln Bilderstöckchen Gewerbegebiet Bilderstöckchen,50.9836,6.912752
+93,326918,Köln Bilderstöckchen Gewerbegebiet Bilderstöckchen,50.983322,6.91303
+94,248160,Köln Bilderstöckchen Longericher Str./Etzelstr.,50.97805,6.92832
+95,29688,Köln Bilderstöckchen Longericher Str./Etzelstr.,50.978046,6.928589
+96,403589,Köln Bilderstöckchen Ludwigsburger Str.,50.96554,6.93998
+97,405133,Köln Bilderstöckchen Ludwigsburger Str.,50.965256,6.93998
+98,208312,Köln Bilderstöckchen Mülhauser Str.,50.97499,6.929424
+99,435587,Köln Bilderstöckchen Mülhauser Str.,50.974712,6.929703
+100,187033,Köln Bilderstöckchen Nievenheimer Str.,50.962772,6.940258
+101,202923,Köln Bilderstöckchen Nievenheimer Str.,50.96221,6.940258
+102,360324,Köln Bilderstöckchen Osterather Str.,50.958042,6.939153
+103,408731,Köln Bilderstöckchen Osterather Str.,50.958317,6.939144
+104,289229,Köln Bilderstöckchen Robert-Perthel-Str.,50.979984,6.918591
+105,449284,Köln Bilderstöckchen Robert-Perthel-Str.,50.980545,6.918312
+106,299728,Köln Bilderstöckchen Trifelsstr.,50.972485,6.933871
+107,381564,Köln Bilderstöckchen Trifelsstr.,50.972485,6.933871
+108,227696,Köln Blumenberg (S),51.03749,6.883583
+109,43858,Köln Blumenberg (S),51.03749,6.883871
+110,27956,Köln Blumenberg Kallbergstr.,51.039993,6.883314
+111,294956,Köln Blumenberg Kallbergstr.,51.040264,6.882748
+112,201813,Köln Blumenberg Langenbergstr.,51.03417,6.88671
+113,248674,Köln Blumenberg Langenbergstr.,51.03417,6.88671
+114,131602,Köln Blumenberg Staffelbergstr.,51.034027,6.884006
+115,419529,Köln Blumenberg Staffelbergstr.,51.034027,6.884006
+116,273625,Köln Blumenberg Vogelsbergstr.,51.035225,6.888569
+117,292919,Köln Blumenberg Vogelsbergstr.,51.035225,6.888569
+118,128149,Köln Bocklemünd,50.969284,6.872678
+119,334772,Köln Bocklemünd,50.969482,6.87266
+120,65694,Köln Bocklemünd,50.969467,6.872867
+121,86991,Köln Bocklemünd,50.969204,6.873235
+122,251612,Köln Bocklemünd Auweilerweg,50.986935,6.858601
+123,428524,Köln Bocklemünd Auweilerweg,50.986652,6.858862
+124,219959,Köln Bocklemünd Buschweg,50.983604,6.860533
+125,353007,Köln Bocklemünd Buschweg,50.984436,6.859976
+126,232345,Köln Bocklemünd Börnestr.,50.979713,6.864988
+127,65637,Köln Bocklemünd Börnestr.,50.979713,6.864988
+128,297319,Köln Bocklemünd Dohmengasse,50.98055,6.857748
+129,456289,Köln Bocklemünd Dohmengasse,50.980824,6.859428
+130,267970,Köln Bocklemünd Grevenbroicher Str.,50.97249,6.865815
+131,67951,Köln Bocklemünd Grevenbroicher Str.,50.972767,6.865536
+132,115127,Köln Bocklemünd Görlinger-Zentrum,50.98056,6.870351
+133,391561,Köln Bocklemünd Görlinger-Zentrum,50.980537,6.870333
+134,199696,Köln Bocklemünd Heinrich-Mann-Str.,50.98305,6.864979
+135,302220,Köln Bocklemünd Heinrich-Mann-Str.,50.9836,6.86497
+136,209300,Köln Bocklemünd Kappelsweg,50.977264,6.86047
+137,233402,Köln Bocklemünd Kappelsweg,50.977264,6.86047
+138,241772,Köln Bocklemünd Nattermannallee,50.975872,6.85826
+139,447759,Köln Bocklemünd Nattermannallee,50.975376,6.859553
+140,128895,Köln Bocklemünd Nüssenberger Str.,50.976654,6.865536
+141,153972,Köln Bocklemünd Nüssenberger Str.,50.977207,6.864422
+142,17259,Köln Bocklemünd Ollenhauerring,50.97567,6.871115
+143,271733,Köln Bocklemünd Ollenhauerring,50.97581,6.871259
+144,446573,Köln Bocklemünd Ollenhauerring,50.976383,6.870531
+145,94274,Köln Bocklemünd Ollenhauerring,50.976097,6.870809
+146,307572,Köln Bocklemünd Schaffrathsgasse,50.971382,6.87001
+147,335529,Köln Bocklemünd Schaffrathsgasse,50.971653,6.870261
+148,147611,Köln Bocklemünd Schumacherring,50.984154,6.869695
+149,319376,Köln Bocklemünd Schumacherring,50.983883,6.869974
+150,152705,Köln Bocklemünd Venloer Str. / Autobahn,50.97975,6.845845
+151,391446,Köln Bocklemünd Venloer Str. / Autobahn,50.979828,6.846178
+152,184045,Köln Bocklemünd Wdr,50.969944,6.856876
+153,93124,Köln Bocklemünd Wdr,50.97006,6.856894
+154,125358,Köln Bonner Wall,50.916454,6.960937
+155,165311,Köln Bonner Wall,50.91641,6.961063
+156,289537,Köln Bonner Wall,50.916927,6.960821
+157,443404,Köln Bonner Wall,50.91693,6.960533
+158,103180,Köln Braunsfeld Aachener Str./Gürtel,50.937435,6.908619
+159,156585,Köln Braunsfeld Aachener Str./Gürtel,50.936935,6.909419
+160,178814,Köln Braunsfeld Aachener Str./Gürtel,50.936935,6.909419
+161,200695,Köln Braunsfeld Aachener Str./Gürtel,50.937016,6.907694
+162,319060,Köln Braunsfeld Aachener Str./Gürtel,50.936325,6.908386
+163,421020,Köln Braunsfeld Aachener Str./Gürtel,50.937042,6.909536
+164,456415,Köln Braunsfeld Aachener Str./Gürtel,50.93701,6.909437
+165,287757,Köln Braunsfeld Clarenbachstift,50.937275,6.894588
+166,7972,Köln Braunsfeld Clarenbachstift,50.937363,6.894157
+167,214666,Köln Braunsfeld Eupener Str.,50.93744,6.889494
+168,296674,Köln Braunsfeld Eupener Str.,50.937508,6.889144
+169,52301,Köln Braunsfeld Eupener Str.,50.93745,6.889252
+170,66036,Köln Braunsfeld Eupener Str.,50.93745,6.889252
+171,358556,Köln Braunsfeld Geilenkircher Str.,50.941933,6.896941
+172,374986,Köln Braunsfeld Geilenkircher Str.,50.941658,6.898037
+173,180439,Köln Braunsfeld Maarweg,50.93718,6.899367
+174,219146,Köln Braunsfeld Maarweg,50.93727,6.898909
+175,269660,Köln Braunsfeld Maarweg,50.93718,6.899537
+176,57302,Köln Braunsfeld Maarweg,50.93718,6.899367
+177,210580,Köln Braunsfeld Melatengürtel,50.940548,6.909985
+178,222070,Köln Braunsfeld Melatengürtel,50.939987,6.910263
+179,37430,Köln Braunsfeld Melatengürtel,50.939938,6.911018
+180,53459,Köln Braunsfeld Melatengürtel,50.93918,6.910389
+181,267298,Köln Braunsfeld Stolberger Str.,50.941933,6.904703
+182,343958,Köln Braunsfeld Stolberger Str.,50.941658,6.904703
+183,158324,Köln Braunsfeld Stolberger Str./Eupener Str.,50.94221,6.888857
+184,161281,Köln Braunsfeld Stolberger Str./Eupener Str.,50.94221,6.888587
+185,117094,Köln Breslauer Platz/Hbf,50.943535,6.96091
+186,125451,Köln Breslauer Platz/Hbf,50.943043,6.960856
+187,153923,Köln Breslauer Platz/Hbf,50.943085,6.961045
+188,16702,Köln Breslauer Platz/Hbf,50.94352,6.960982
+189,203747,Köln Breslauer Platz/Hbf,50.944237,6.958772
+190,240936,Köln Breslauer Platz/Hbf,50.943027,6.960937
+191,253720,Köln Breslauer Platz/Hbf,50.943184,6.961045
+192,256144,Köln Breslauer Platz/Hbf,50.943344,6.961036
+193,264068,Köln Breslauer Platz/Hbf,50.94315,6.960731
+194,322180,Köln Breslauer Platz/Hbf,50.943096,6.960982
+195,326131,Köln Breslauer Platz/Hbf,50.94295,6.960812
+196,40196,Köln Breslauer Platz/Hbf,50.943203,6.960964
+197,69484,Köln Breslauer Platz/Hbf,50.94333,6.961117
+198,72367,Köln Breslauer Platz/Hbf,50.94314,6.960785
+199,89407,Köln Breslauer Platz/Hbf,50.94442,6.958745
+200,95409,Köln Breslauer Platz/Hbf,50.942936,6.960883
+201,237499,Köln Brück Am Schildchen,50.94558,7.069822
+202,431350,Köln Brück Am Schildchen,50.94558,7.069822
+203,330011,Köln Brück Bückebergstr.,50.941776,7.084707
+204,33073,Köln Brück Bückebergstr.,50.941826,7.084653
+205,10495,Köln Brück Erker Mühle,50.93249,7.091373
+206,201226,Köln Brück Erker Mühle,50.932487,7.091085
+207,261517,Köln Brück Flehbachstr.,50.94777,7.073317
+208,99032,Köln Brück Flehbachstr.,50.94777,7.07293
+209,268528,Köln Brück Im Langen Bruch,50.952496,7.077754
+210,50388,Köln Brück Im Langen Bruch,50.951927,7.07832
+211,296190,Köln Brück Kleinfeldchensweg,50.939995,7.086082
+212,335738,Köln Brück Kleinfeldchensweg,50.940388,7.085875
+213,105256,Köln Brück Lehmbacher Weg Friedhof,50.93249,7.078868
+214,24875,Köln Brück Lehmbacher Weg Friedhof,50.93249,7.078868
+215,144264,Köln Brück Mauspfad,50.949276,7.079183
+216,174008,Köln Brück Mauspfad,50.94876,7.077961
+217,195045,Köln Brück Mauspfad,50.94931,7.079156
+218,221994,Köln Brück Mauspfad,50.948784,7.078042
+219,378588,Köln Brück Mauspfad,50.94876,7.078284
+220,288746,Köln Brück Olpener Str.,50.94508,7.081339
+221,451811,Köln Brück Olpener Str.,50.94554,7.081123
+222,12216,Köln Brück Wiehler Str.,50.94249,7.064145
+223,165697,Köln Brück Wiehler Str.,50.943043,7.063031
+224,192281,Köln Buchforst Klaprothstr.,50.948444,7.006033
+225,404029,Köln Buchforst Klaprothstr.,50.948437,7.00623
+226,266456,Köln Buchforst S-Bahn,50.953594,7.004245
+227,372012,Köln Buchforst S-Bahn,50.953434,7.004416
+228,205172,Köln Buchforst Waldecker Str.,50.95094,7.004676
+229,261132,Köln Buchforst Waldecker Str.,50.95138,7.005099
+230,277585,Köln Buchforst Waldecker Str.,50.951244,7.005808
+231,413212,Köln Buchforst Waldecker Str.,50.951385,7.004928
+232,124946,Köln Buchheim Ackerstr.,50.96074,7.017136
+233,212428,Köln Buchheim Ackerstr.,50.96074,7.017136
+234,21464,Köln Buchheim Beuthener Str.,50.94971,7.018313
+235,284751,Köln Buchheim Beuthener Str.,50.94972,7.017765
+236,219510,Köln Buchheim Frankfurter Str.,50.952766,7.014145
+237,410451,Köln Buchheim Frankfurter Str.,50.95249,7.014154
+238,60790,Köln Buchheim Frankfurter Str.,50.953278,7.014333
+239,77866,Köln Buchheim Frankfurter Str.,50.95331,7.014621
+240,121915,Köln Buchheim Gauweg,50.962486,7.027206
+241,247994,Köln Buchheim Gauweg,50.962486,7.027206
+242,168295,Köln Buchheim Gronauer Str.,50.965607,7.026281
+243,279594,Köln Buchheim Gronauer Str.,50.96555,7.025535
+244,13983,Köln Buchheim Herler Str.,50.95801,7.025284
+245,170922,Köln Buchheim Herler Str.,50.958324,7.025535
+246,177509,Köln Buchheim Herler Str.,50.958046,7.025257
+247,262863,Köln Buchheim Herler Str.,50.957855,7.024808
+248,306549,Köln Buchheim Herler Str.,50.957813,7.024996
+249,76978,Köln Buchheim Mülheimer Ring,50.964718,7.022202
+250,83248,Köln Buchheim Mülheimer Ring,50.964436,7.020532
+251,151975,Köln Buchheim Wichheimer Str.,50.9611,7.030808
+252,211421,Köln Buchheim Wichheimer Str.,50.9618,7.031482
+253,2391,Köln Chlodwigplatz,50.92127,6.960282
+254,25326,Köln Chlodwigplatz,50.92164,6.959518
+255,257733,Köln Chlodwigplatz,50.921104,6.960246
+256,270318,Köln Chlodwigplatz,50.92154,6.959419
+257,278565,Köln Chlodwigplatz,50.921383,6.960542
+258,287137,Köln Chlodwigplatz,50.921223,6.960578
+259,351558,Köln Chlodwigplatz,50.92026,6.959707
+260,431537,Köln Chlodwigplatz,50.92226,6.959392
+261,115013,Köln Chorweiler,51.02135,6.898199
+262,121322,Köln Chorweiler,51.02009,6.89748
+263,128412,Köln Chorweiler,51.02009,6.89748
+264,150212,Köln Chorweiler,51.02063,6.897921
+265,170614,Köln Chorweiler,51.019993,6.897202
+266,277178,Köln Chorweiler,51.02009,6.89748
+267,366401,Köln Chorweiler,51.02009,6.89748
+268,373032,Köln Chorweiler,51.02009,6.89748
+269,392494,Köln Chorweiler,51.02135,6.898199
+270,424902,Köln Chorweiler,51.019993,6.897202
+271,425726,Köln Chorweiler,51.02135,6.898199
+272,458020,Köln Chorweiler,51.020992,6.898028
+273,75432,Köln Chorweiler,51.02009,6.89748
+274,83865,Köln Chorweiler,51.02135,6.898199
+275,309120,Köln Chorweiler Florenzer Str.,51.022774,6.893591
+276,376484,Köln Chorweiler Florenzer Str.,51.022762,6.893312
+277,271742,Köln Chorweiler Havelstr.,51.026936,6.888318
+278,88368,Köln Chorweiler Havelstr.,51.026936,6.888318
+279,184259,Köln Chorweiler Helaweg,51.033226,6.891003
+280,286295,Köln Chorweiler Helaweg,51.033226,6.891003
+281,219745,Köln Chorweiler Karl-Marx-Allee,51.02388,6.903867
+282,90149,Köln Chorweiler Karl-Marx-Allee,51.023876,6.904146
+283,184115,Köln Chorweiler Merianstr.,51.027493,6.909706
+284,271323,Köln Chorweiler Merianstr.,51.027214,6.911925
+285,341870,Köln Chorweiler Merianstr.,51.026382,6.90914
+286,263196,Köln Chorweiler Moldaustr.,51.025597,6.889728
+287,354667,Köln Chorweiler Moldaustr.,51.025597,6.889728
+288,222101,Köln Chorweiler Neißestr.,51.029705,6.893869
+289,411653,Köln Chorweiler Neißestr.,51.029987,6.89386
+290,295137,Köln Chorweiler Nord (S),51.028164,6.892647
+291,432854,Köln Chorweiler Nord (S),51.028164,6.892647
+292,144840,Köln Chorweiler Okerstr.,51.030678,6.889243
+293,417689,Köln Chorweiler Okerstr.,51.030678,6.889243
+294,107329,Köln Chorweiler Oskar-Schindler-Straße,51.03249,6.919983
+295,331553,Köln Chorweiler Oskar-Schindler-Straße,51.03249,6.919696
+296,115826,Köln Chorweiler Swinestr.,51.03114,6.893402
+297,182168,Köln Chorweiler Swinestr.,51.03114,6.893402
+298,29318,Köln Chorweiler Weichselring,51.026108,6.896097
+299,320117,Köln Chorweiler Weichselring,51.025547,6.894974
+300,431431,Köln Chorweiler Weichselring,51.025547,6.895262
+301,54464,Köln Chorweiler Weichselring,51.02666,6.896366
+302,48351,Köln Chorweiler Weserpromenade,51.03277,6.888866
+303,95363,Köln Chorweiler Weserpromenade,51.032486,6.888048
+304,179680,Köln Christophstr./Mediapark,50.94497,6.942827
+305,258265,Köln Christophstr./Mediapark,50.944702,6.942297
+306,135856,Köln Dasselstr./Süd Bf,50.92821,6.935533
+307,341978,Köln Dasselstr./Süd Bf,50.928314,6.935946
+308,266910,Köln Dellbrück Am Leinacker,50.964428,7.062195
+309,84041,Köln Dellbrück Am Leinacker,50.964428,7.062195
+310,139542,Köln Dellbrück Anemonenweg,50.98165,7.068313
+311,218155,Köln Dellbrück Anemonenweg,50.98166,7.068582
+312,126825,Köln Dellbrück Bergisch Gladbacher Str.,50.981743,7.077862
+313,393462,Köln Dellbrück Bergisch Gladbacher Str.,50.981792,7.079012
+314,126638,Köln Dellbrück Diepeschrather Str.,50.98582,7.067756
+315,393594,Köln Dellbrück Diepeschrather Str.,50.986656,7.067208
+316,69129,Köln Dellbrück Diepeschrather Str.,50.9865,7.067729
+317,361731,Köln Dellbrück Gemarkenstr.,50.97226,7.078895
+318,6491,Köln Dellbrück Gemarkenstr.,50.972332,7.078949
+319,196881,Köln Dellbrück Hauptstr.,50.97512,7.075176
+320,288968,Köln Dellbrück Hauptstr.,50.974514,7.074386
+321,317038,Köln Dellbrück Hauptstr.,50.974712,7.074978
+322,58241,Köln Dellbrück Hauptstr.,50.974438,7.074987
+323,122649,Köln Dellbrück Heinz-Kühn-Str.,50.9661,7.059698
+324,350455,Köln Dellbrück Heinz-Kühn-Str.,50.966103,7.060255
+325,100093,Köln Dellbrück Mauspfad,50.971767,7.064468
+326,197971,Köln Dellbrück Mauspfad,50.97206,7.06551
+327,174646,Köln Dellbrück Möhlstr.,50.97928,7.072346
+328,388155,Köln Dellbrück Möhlstr.,50.979553,7.072706
+329,227259,Köln Dellbrück Ostfriedhof,50.963596,7.072481
+330,235002,Köln Dellbrück Ostfriedhof,50.963875,7.07276
+331,221526,Köln Dellbrück Paffrather Str.,50.984035,7.081761
+332,345125,Köln Dellbrück Paffrather Str.,50.984577,7.082569
+333,107843,Köln Dellbrück Penningsfelder Weg,50.971035,7.091795
+334,184363,Köln Dellbrück Penningsfelder Weg,50.971348,7.092837
+335,107170,Köln Dellbrück Roteichenweg,50.967766,7.067756
+336,436765,Köln Dellbrück Roteichenweg,50.967766,7.068043
+337,234800,Köln Dellbrück S-Bahn,50.981182,7.069121
+338,375069,Köln Dellbrück S-Bahn,50.981205,7.069238
+339,274417,Köln Dellbrück Siedlung Mielenforst,50.966652,7.067756
+340,448624,Köln Dellbrück Siedlung Mielenforst,50.96638,7.068304
+341,447335,Köln Dellbrück Strundener Str.,50.971382,7.087483
+342,448396,Köln Dellbrück Strundener Str.,50.971256,7.088354
+343,260995,Köln Dellbrück Thielenbruch,50.978004,7.085668
+344,300255,Köln Dellbrück Thielenbruch,50.97798,7.085516
+345,321376,Köln Dellbrück Thielenbruch,50.978024,7.085812
+346,440845,Köln Dellbrück Thielenbruch,50.978073,7.085345
+347,263169,Köln Dellbrück Thurner Kamp,50.968315,7.07443
+348,382639,Köln Dellbrück Thurner Kamp,50.968876,7.074143
+349,272085,Köln Dellbrück Von-Quadt-Str.,50.976654,7.072203
+350,309618,Köln Dellbrück Von-Quadt-Str.,50.976654,7.072203
+351,109252,Köln Deutz Betzdorfer Str.,50.93582,6.991363
+352,201230,Köln Deutz Betzdorfer Str.,50.935543,6.991363
+353,21024,Köln Deutz Bf Deutz/Messe Lanxess Arena,50.939064,6.978401
+354,217342,Köln Deutz Bf Deutz/Messe Lanxess Arena,50.938393,6.978203
+355,264786,Köln Deutz Bf Deutz/Messe Lanxess Arena,50.93943,6.977754
+356,325184,Köln Deutz Bf Deutz/Messe Lanxess Arena,50.93904,6.978437
+357,396718,Köln Deutz Bf Deutz/Messe Lanxess Arena,50.939705,6.977978
+358,419140,Köln Deutz Bf Deutz/Messe Lanxess Arena,50.9383,6.978194
+359,90396,Köln Deutz Bf Deutz/Messe Lanxess Arena,50.9398,6.976397
+360,91477,Köln Deutz Bf Deutz/Messe Lanxess Arena,50.93978,6.978059
+361,423477,Köln Deutz Bf Deutz/Messeplatz,50.941113,6.973145
+362,457237,Köln Deutz Bf Deutz/Messeplatz,50.941254,6.973505
+363,136842,Köln Deutz Deutzer Freiheit,50.937763,6.971412
+364,27954,Köln Deutz Deutzer Freiheit,50.93769,6.971259
+365,305153,Köln Deutz Deutzer Freiheit,50.93569,6.970828
+366,309627,Köln Deutz Deutzer Freiheit,50.93581,6.970989
+367,263766,Köln Deutz Drehbrücke,50.928165,6.975445
+368,436743,Köln Deutz Drehbrücke,50.9286,6.9747
+369,264060,Köln Deutz Gummersbacher Str.,50.938324,6.988875
+370,64205,Köln Deutz Gummersbacher Str.,50.938046,6.987474
+371,193898,Köln Deutz Im Rheinpark,50.94554,6.974978
+372,391767,Köln Deutz Im Rheinpark,50.94554,6.974978
+373,437041,Köln Deutz Koelnmesse,50.94333,6.981841
+374,439737,Köln Deutz Koelnmesse,50.943333,6.982048
+375,124425,Köln Deutz Poller Kirchweg,50.923954,6.979604
+376,413501,Köln Deutz Poller Kirchweg,50.92372,6.98008
+377,113274,Köln Deutz Severinsbrücke,50.930595,6.972274
+378,205342,Köln Deutz Severinsbrücke,50.93089,6.972166
+379,110457,Köln Deutz Suevenstr.,50.932533,6.976011
+380,196022,Köln Deutz Suevenstr.,50.93276,6.976361
+381,117584,Köln Deutz Technische Hochschule,50.936855,6.985165
+382,182250,Köln Deutz Technische Hochschule,50.936382,6.985533
+383,394566,Köln Deutz Technische Hochschule,50.936096,6.986099
+384,426225,Köln Deutz Technische Hochschule,50.93656,6.985812
+385,201962,Köln Deutz Thermalbad,50.950096,6.981922
+386,226527,Köln Deutz Thermalbad,50.950096,6.981922
+387,301861,Köln Deutz Thermalbad,50.950695,6.980709
+388,113529,Köln Dom/Hbf,50.941708,6.955503
+389,245698,Köln Dom/Hbf,50.941757,6.957075
+390,280857,Köln Dom/Hbf,50.94172,6.955682
+391,376407,Köln Dom/Hbf,50.941833,6.957057
+392,147920,Köln Dünnwald Aeltgen-Dünwald-Str.,51.003326,7.024978
+393,435967,Köln Dünnwald Aeltgen-Dünwald-Str.,51.00332,7.024709
+394,160412,Köln Dünnwald Am Portzenacker,51.004158,7.029694
+395,203479,Köln Dünnwald Am Portzenacker,51.00388,7.029703
+396,146063,Köln Dünnwald Am Weißen Mönch,50.997765,7.025805
+397,296498,Köln Dünnwald Am Weißen Mönch,50.997765,7.025805
+398,234214,Köln Dünnwald An Der Walkmühle,50.996655,7.04731
+399,231326,Köln Dünnwald Auf Der Aue,50.996937,7.044975
+400,438347,Köln Dünnwald Auf Der Aue,50.996937,7.044975
+401,14473,Köln Dünnwald Auguste-Kowalski-Str.,51.00527,7.023595
+402,430571,Köln Dünnwald Auguste-Kowalski-Str.,51.00527,7.023864
+403,131669,Köln Dünnwald Hardthof,51.00427,7.068268
+404,54627,Köln Dünnwald Hardthof,51.00432,7.068564
+405,316938,Köln Dünnwald Hildegundweg,51.001102,7.029425
+406,356714,Köln Dünnwald Hildegundweg,51.000267,7.029137
+407,103281,Köln Dünnwald Im Wirtskamp,50.998047,7.05164
+408,408172,Köln Dünnwald Im Wirtskamp,50.998047,7.05164
+409,152864,Köln Dünnwald In Der Hardt,51.002625,7.063381
+410,299457,Köln Dünnwald In Der Hardt,51.002518,7.06304
+411,183588,Köln Dünnwald Kalkweg,50.990265,7.055251
+412,36607,Köln Dünnwald Kalkweg,50.98999,7.05526
+413,115448,Köln Dünnwald Klosterhof,50.999714,7.032201
+414,118996,Köln Dünnwald Klosterhof,50.999714,7.033027
+415,233702,Köln Dünnwald Leimbachweg,51.00673,7.027826
+416,422528,Köln Dünnwald Leimbachweg,51.0066,7.027997
+417,102309,Köln Dünnwald Leuchterstr.,50.995865,7.038561
+418,146948,Köln Dünnwald Leuchterstr.,50.996727,7.037168
+419,18134,Köln Dünnwald Leuchterstr.,50.996113,7.037905
+420,228174,Köln Dünnwald Leuchterstr.,50.996582,7.03839
+421,232771,Köln Dünnwald Leuchterstr.,50.996937,7.036971
+422,320265,Köln Dünnwald Leuchterstr.,50.996857,7.037824
+423,329225,Köln Dünnwald Leuchterstr.,50.99582,7.037204
+424,442139,Köln Dünnwald Leuchterstr.,50.99622,7.036558
+425,283350,Köln Dünnwald Mutzbach,50.99888,7.03415
+426,292891,Köln Dünnwald Mutzbach,50.99916,7.038049
+427,283945,Köln Dünnwald Odenthaler Str.,51.00082,7.041642
+428,293773,Köln Dünnwald Odenthaler Str.,51.001472,7.042603
+429,414178,Köln Dünnwald Odenthaler Str.,51.00226,7.042208
+430,425953,Köln Dünnwald Odenthaler Str.,51.002235,7.041894
+431,249704,Köln Dünnwald Waldbad,50.99833,7.054425
+432,316112,Köln Dünnwald Waldbad,50.99833,7.054425
+433,287161,Köln Dünnwald Wildpark,50.99277,7.047777
+434,391237,Köln Dünnwald Wildpark,50.99249,7.048038
+435,166516,Köln Ebertplatz,50.950783,6.959311
+436,240237,Köln Ebertplatz,50.950764,6.959365
+437,322265,Köln Ebertplatz,50.950825,6.957757
+438,36738,Köln Ebertplatz,50.95082,6.958027
+439,374199,Köln Ebertplatz,50.950577,6.958943
+440,443320,Köln Ebertplatz,50.950657,6.958934
+441,349765,Köln Ebertplatz/Riehler Str.,50.950542,6.95915
+442,167971,Köln Ehrenfeld Am Alten Güterbahnhof,50.951164,6.905996
+443,222021,Köln Ehrenfeld Am Alten Güterbahnhof,50.951164,6.905996
+444,270577,Köln Ehrenfeld Am Alten Güterbahnhof,50.951164,6.905996
+445,364997,Köln Ehrenfeld Bf Ehrenfeld,50.952213,6.918591
+446,69635,Köln Ehrenfeld Bf Ehrenfeld,50.951942,6.91886
+447,251709,Köln Ehrenfeld Borsigstr.,50.958603,6.904972
+448,376956,Köln Ehrenfeld Borsigstr.,50.958317,6.904981
+449,136329,Köln Ehrenfeld Franz-Liszt-Str.,50.952507,6.899187
+450,258702,Köln Ehrenfeld Franz-Liszt-Str.,50.952507,6.899187
+451,284171,Köln Ehrenfeld Franz-Liszt-Str.,50.952507,6.899187
+452,65357,Köln Ehrenfeld Franz-Liszt-Str.,50.952507,6.899187
+453,266229,Köln Ehrenfeld Geisselstr.,50.94332,6.916372
+454,85264,Köln Ehrenfeld Geisselstr.,50.94333,6.916641
+455,263414,Köln Ehrenfeld Gutenbergstr.,50.95027,6.928517
+456,60047,Köln Ehrenfeld Gutenbergstr.,50.95054,6.928014
+457,242446,Köln Ehrenfeld Innere Kanalstr.,50.94082,6.923037
+458,40146,Köln Ehrenfeld Innere Kanalstr.,50.94054,6.923316
+459,27567,Köln Ehrenfeld Karnevalsmuseum,50.946003,6.8981
+460,314232,Köln Ehrenfeld Karnevalsmuseum,50.945816,6.898864
+461,436067,Köln Ehrenfeld Karnevalsmuseum,50.945824,6.897193
+462,418827,Köln Ehrenfeld Körnerstr.,50.948425,6.92019
+463,425477,Köln Ehrenfeld Körnerstr.,50.948177,6.920522
+464,204206,Köln Ehrenfeld Lessingstr.,50.955544,6.914971
+465,430897,Köln Ehrenfeld Lessingstr.,50.955544,6.914971
+466,234168,Köln Ehrenfeld Leyendeckerstr.,50.9549,6.908709
+467,405981,Köln Ehrenfeld Leyendeckerstr.,50.954464,6.909733
+468,256303,Köln Ehrenfeld Liebigstr.,50.95249,6.924978
+469,28536,Köln Ehrenfeld Liebigstr.,50.951942,6.925023
+470,383952,Köln Ehrenfeld Liebigstr.,50.952206,6.924412
+471,454992,Köln Ehrenfeld Liebigstr.,50.951996,6.924762
+472,219732,Köln Ehrenfeld Marienstr.,50.958324,6.908045
+473,418186,Köln Ehrenfeld Marienstr.,50.958042,6.908305
+474,103903,Köln Ehrenfeld Mechternstr.,50.942493,6.918591
+475,361977,Köln Ehrenfeld Mechternstr.,50.942493,6.918591
+476,196860,Köln Ehrenfeld Oskar-Jäger-Str.,50.945263,6.906661
+477,35677,Köln Ehrenfeld Oskar-Jäger-Str.,50.945274,6.906922
+478,268483,Köln Ehrenfeld Piusstr.,50.945942,6.925867
+479,420611,Köln Ehrenfeld Piusstr.,50.94612,6.925741
+480,159828,Köln Ehrenfeld Takustr.,50.95694,6.911925
+481,76991,Köln Ehrenfeld Takustr.,50.95721,6.911377
+482,262076,Köln Ehrenfeld Venloer Str./Gürtel,50.949158,6.915815
+483,276024,Köln Ehrenfeld Venloer Str./Gürtel,50.949158,6.915536
+484,318546,Köln Ehrenfeld Venloer Str./Gürtel,50.94976,6.916354
+485,410449,Köln Ehrenfeld Venloer Str./Gürtel,50.949604,6.91604
+486,428117,Köln Ehrenfeld Venloer Str./Gürtel,50.950516,6.91612
+487,445895,Köln Ehrenfeld Venloer Str./Gürtel,50.95073,6.915995
+488,208197,Köln Ehrenfeld Vitalisstr. Nord,50.950825,6.894148
+489,269489,Köln Ehrenfeld Vitalisstr. Nord,50.950825,6.894148
+490,150475,Köln Ehrenfeld Weinsbergstr./Gürtel,50.94471,6.913309
+491,181123,Köln Ehrenfeld Weinsbergstr./Gürtel,50.944992,6.911925
+492,235774,Köln Ehrenfeld Weinsbergstr./Gürtel,50.945274,6.912752
+493,405827,Köln Ehrenfeld Weinsbergstr./Gürtel,50.945312,6.912716
+494,446788,Köln Ehrenfeld Weinsbergstr./Gürtel,50.944763,6.912815
+495,248043,Köln Eifelplatz,50.923157,6.943339
+496,416933,Köln Eifelplatz,50.923344,6.943582
+497,243786,Köln Eifelstr.,50.926434,6.946124
+498,69742,Köln Eifelstr.,50.92681,6.94554
+499,173805,Köln Eil Fuggerstr.,50.90499,7.076919
+500,376515,Köln Eil Fuggerstr.,50.905262,7.076649
+501,138143,Köln Eil Gut Leidenhausen,50.896572,7.097275
+502,451132,Köln Eil Gut Leidenhausen,50.896725,7.101497
+503,91608,Köln Eil Gut Leidenhausen,50.896572,7.097275
+504,252205,Köln Eil Heumarer Str.,50.897205,7.077754
+505,449272,Köln Eil Heumarer Str.,50.896935,7.078033
+506,382802,Köln Eil Im Falkenhorst,50.888046,7.079982
+507,7257,Köln Eil Im Falkenhorst,50.88805,7.079704
+508,65509,Köln Eil Kirche,50.89221,7.077754
+509,87273,Köln Eil Kirche,50.891933,7.077754
+510,163921,Köln Eil Maarhäuser Weg,50.90888,7.07108
+511,195677,Köln Eil Maarhäuser Weg,50.90999,7.070253
+512,302931,Köln Eil Maarhäuser Weg,50.90888,7.07081
+513,340989,Köln Eil Maarhäuser Weg,50.90971,7.070253
+514,228934,Köln Eil Neue Eiler Str.,50.892773,7.074709
+515,379391,Köln Eil Neue Eiler Str.,50.892765,7.073865
+516,379164,Köln Eil Rudolf-Diesel-Str.,50.9011,7.075805
+517,55499,Köln Eil Rudolf-Diesel-Str.,50.90055,7.075257
+518,238174,Köln Elsdorf,50.872494,7.083306
+519,68478,Köln Elsdorf,50.872215,7.083315
+520,199528,Köln Ensen Gilgaustr.,50.89962,7.031734
+521,385637,Köln Ensen Gilgaustr.,50.899616,7.030431
+522,361478,Köln Ensen Kloster,50.897026,7.047382
+523,449303,Köln Ensen Kloster,50.897285,7.047122
+524,102989,Köln Esch,51.0136,6.85526
+525,450956,Köln Esch,51.013878,6.854146
+526,178333,Köln Esch Am Braunsacker,51.01193,6.861099
+527,280219,Köln Esch Am Braunsacker,51.011658,6.861916
+528,19659,Köln Esch Chorbuschstr.,51.01194,6.857766
+529,297754,Köln Esch Chorbuschstr.,51.013042,6.85693
+530,353369,Köln Esch Chorbuschstr.,51.01249,6.857469
+531,407482,Köln Esch Chorbuschstr.,51.01277,6.858592
+532,194480,Köln Esch Johannes-Prassel-Str.,51.01443,6.847202
+533,434150,Köln Esch Johannes-Prassel-Str.,51.01443,6.846366
+534,449376,Köln Esch Sinnersdorfer Mühle,51.017765,6.834697
+535,265085,Köln Finkenberg Stresemannstr.,50.89666,7.061647
+536,433912,Köln Finkenberg Stresemannstr.,50.89693,7.061091
+537,250447,Köln Finkenberg Theodor-Heuss-Str.,50.89666,7.064423
+538,383052,Köln Finkenberg Theodor-Heuss-Str.,50.89693,7.06498
+539,300092,Köln Flittard Am Feldrain,50.996933,6.981374
+540,326422,Köln Flittard Am Feldrain,50.99777,6.981096
+541,313384,Köln Flittard Arthur-Hantzsch-Str.,50.99999,6.989432
+542,394038,Köln Flittard Arthur-Hantzsch-Str.,50.999714,6.989423
+543,20030,Köln Flittard Chempark Tor 10,51.01091,6.990079
+544,72802,Köln Flittard Chempark Tor 10,51.010826,6.990384
+545,164726,Köln Flittard Edelhofstr.,51.000828,6.98026
+546,78124,Köln Flittard Edelhofstr.,51.000816,6.979973
+547,33413,Köln Flittard Flittarder Feld,51.008045,6.994148
+548,56269,Köln Flittard Flittarder Feld,51.00694,6.994148
+549,161963,Köln Flittard Leopold-Gmelin-Str.,51.00082,6.986369
+550,33846,Köln Flittard Leopold-Gmelin-Str.,51.001102,6.985803
+551,246634,Köln Flittard Süd,50.9986,6.994427
+552,65773,Köln Flittard Süd,50.998318,6.994975
+553,194395,Köln Frankfurter Straße,50.91522,7.051262
+554,110956,Köln Friesenplatz,50.94054,6.93998
+555,154821,Köln Friesenplatz,50.940723,6.940069
+556,292944,Köln Friesenplatz,50.94054,6.93998
+557,314531,Köln Friesenplatz,50.94044,6.939872
+558,438095,Köln Friesenplatz,50.94075,6.939252
+559,71816,Köln Friesenplatz,50.940643,6.939611
+560,251844,Köln Fühlingen,51.036648,6.902762
+561,324523,Köln Fühlingen,51.035816,6.903328
+562,305618,Köln Fühlingen Arenzhof,51.03921,6.902762
+563,339126,Köln Fühlingen Arenzhof,51.03909,6.902349
+564,328408,Köln Fühlingen Haus Fühlingen,51.031372,6.906365
+565,457411,Köln Fühlingen Haus Fühlingen,51.03055,6.906643
+566,161550,Köln Fühlingen Mennweg,51.04332,6.898055
+567,193480,Köln Fühlingen Mennweg,51.04388,6.898037
+568,406951,Köln Geldernstr./Parkgürtel,50.96855,6.941413
+569,195118,Köln Godorf Bf,50.847797,6.978122
+570,213996,Köln Godorf Bf,50.847225,6.978463
+571,252567,Köln Godorf Bf,50.847168,6.978302
+572,296250,Köln Godorf Bf,50.84774,6.978077
+573,200612,Köln Godorf Bunsenstr.,50.85387,6.975256
+574,378692,Köln Godorf Bunsenstr.,50.85304,6.974978
+575,343854,Köln Godorf Friedhof Godorf,50.85027,6.97081
+576,72551,Köln Godorf Friedhof Godorf,50.850266,6.971088
+577,148943,Köln Godorf Ikea Godorf,50.861103,6.97443
+578,306837,Köln Godorf Ikea Godorf,50.861103,6.974143
+579,361262,Köln Godorf Otto-Hahn-Str.,50.857773,6.9747
+580,450934,Köln Godorf Otto-Hahn-Str.,50.858322,6.974421
+581,176594,Köln Godorf Pierstr.,50.848877,6.975535
+582,90370,Köln Godorf Pierstr.,50.848877,6.975535
+583,147349,Köln Gremberghoven Am Hochkreuz,50.902763,7.059986
+584,216011,Köln Gremberghoven Am Hochkreuz,50.902763,7.060255
+585,125335,Köln Gremberghoven Auf Dem Streitacker,50.90666,7.056374
+586,73258,Köln Gremberghoven Auf Dem Streitacker,50.90638,7.056087
+587,233849,Köln Gremberghoven August-Horch-Str.,50.90916,7.050814
+588,310990,Köln Gremberghoven August-Horch-Str.,50.90888,7.050805
+589,335903,Köln Gremberghoven Cheruskerstr.,50.90027,7.054982
+590,341075,Köln Gremberghoven Cheruskerstr.,50.900543,7.054982
+591,280695,Köln Gremberghoven Edmund-Rumpler-Str.,50.91165,7.054138
+592,443873,Köln Gremberghoven Edmund-Rumpler-Str.,50.91165,7.054425
+593,175700,Köln Gremberghoven Ettore-Bugatti-Str.,50.908607,7.054695
+594,332376,Köln Gremberghoven Ettore-Bugatti-Str.,50.908318,7.05526
+595,245372,Köln Gremberghoven Frankfurter Str.,50.916065,7.05261
+596,368794,Köln Gremberghoven Frankfurter Str.,50.915924,7.052574
+597,21366,Köln Gremberghoven Hansestr.,50.91388,7.065537
+598,366829,Köln Gremberghoven Hansestr.,50.91388,7.066364
+599,285000,Köln Gremberghoven Lina-Bommer-Weg,50.91805,7.048029
+600,228892,Köln Gremberghoven Neuenhofstr.,50.91304,7.054703
+601,289400,Köln Gremberghoven Neuenhofstr.,50.91304,7.054982
+602,195592,Köln Gremberghoven Steinstr. S-Bahn,50.897614,7.057102
+603,36809,Köln Gremberghoven Steinstr. S-Bahn,50.89546,7.057919
+604,426639,Köln Gremberghoven Steinstr. S-Bahn,50.89752,7.057821
+605,43111,Köln Gremberghoven Steinstr. S-Bahn,50.895447,7.058036
+606,129433,Köln Gremberghoven Talweg,50.903603,7.052754
+607,324508,Köln Gremberghoven Talweg,50.903603,7.052754
+608,249320,Köln Gremberghoven Welserstr.,50.9136,7.058593
+609,82980,Köln Gremberghoven Welserstr.,50.9136,7.058306
+610,206215,Köln Grengel Friedensstr.,50.877213,7.097499
+611,395072,Köln Grengel Friedensstr.,50.876938,7.097472
+612,377188,Köln Grengel Kaserne Nordtor,50.871937,7.107201
+613,80626,Köln Grengel Kaserne Nordtor,50.872486,7.106644
+614,145371,Köln Grengel Mauspfad,50.88027,7.103311
+615,394772,Köln Grengel Mauspfad,50.88027,7.103311
+616,244291,Köln Grengel Waldstr./Akazienweg,50.88138,7.096924
+617,300677,Köln Grengel Waldstr./Akazienweg,50.881104,7.098595
+618,70503,Köln Grengel Waldstr./Akazienweg,50.880547,7.097472
+619,272759,Köln Grengel Wiesenweg,50.872765,7.098029
+620,315615,Köln Grengel Wiesenweg,50.873047,7.098038
+621,250027,Köln Grengel/Flughafen Flughafen Personalparkplatz,50.875957,7.11339
+622,226006,Köln Grengel/Flughafen Krieger-Str.,50.879715,7.110525
+623,401586,Köln Grengel/Flughafen Krieger-Str.,50.879986,7.110246
+624,15241,Köln Grengel/Flughafen Köln/Bonn Flughafen Termina,50.87825,7.119499
+625,319188,Köln Grengel/Flughafen Köln/Bonn Flughafen Termina,50.878994,7.119876
+626,380133,Köln Grengel/Flughafen Köln/Bonn Flughafen Termina,50.878433,7.119598
+627,394326,Köln Grengel/Flughafen Köln/Bonn Flughafen Termina,50.878815,7.119786
+628,58824,Köln Grengel/Flughafen Köln/Bonn Flughafen Termina,50.88129,7.117613
+629,81890,Köln Grengel/Flughafen Köln/Bonn Flughafen Termina,50.88149,7.117145
+630,82613,Köln Grengel/Flughafen Köln/Bonn Flughafen Termina,50.881397,7.117352
+631,202585,Köln Hahnwald,50.86971,6.978032
+632,222946,Köln Hahnwald,50.869713,6.97858
+633,193056,Köln Hahnwald Kirschbaumweg,50.872494,6.993322
+634,297139,Köln Hahnwald Kirschbaumweg,50.87277,6.993313
+635,15715,Köln Hahnwald Mannesmannstr.,50.8686,6.991372
+636,249400,Köln Hahnwald Mannesmannstr.,50.8686,6.991094
+637,126247,Köln Hans-Böckler-Platz/Bf West,50.943264,6.933584
+638,282502,Köln Hans-Böckler-Platz/Bf West,50.943493,6.933009
+639,402019,Köln Hans-Böckler-Platz/Bf West,50.943195,6.933656
+640,436480,Köln Hans-Böckler-Platz/Bf West,50.943493,6.933009
+641,136365,Köln Hansaring,50.948704,6.95128
+642,155908,Köln Hansaring,50.94983,6.952763
+643,186653,Köln Hansaring,50.950226,6.953391
+644,191260,Köln Hansaring,50.948612,6.95137
+645,45622,Köln Hansaring,50.94913,6.952565
+646,368827,Köln Hbf,50.94303,6.958729
+647,377657,Köln Hbf (Breslauer Platz),50.942898,6.960458
+648,111778,Köln Heimersdorf,51.011658,6.905808
+649,207162,Köln Heimersdorf,51.011944,6.906877
+650,292247,Köln Heimersdorf,51.01187,6.906787
+651,435506,Köln Heimersdorf,51.011658,6.906913
+652,457635,Köln Heimersdorf,51.011658,6.906913
+653,68222,Köln Heimersdorf,51.012203,6.907766
+654,309660,Köln Heimersdorf Pulheimer Str.,51.00527,6.899142
+655,386602,Köln Heimersdorf Pulheimer Str.,51.005547,6.898594
+656,333849,Köln Heimersdorf Stallagsweg,51.010548,6.895809
+657,352956,Köln Heimersdorf Stallagsweg,51.010265,6.895818
+658,234361,Köln Heimersdorf Zypressenstr.,51.01249,6.899421
+659,341869,Köln Heimersdorf Zypressenstr.,51.01249,6.899142
+660,214544,Köln Heumarkt,50.935753,6.959868
+661,254684,Köln Heumarkt,50.93554,6.960344
+662,30212,Köln Heumarkt,50.935516,6.960344
+663,346261,Köln Heumarkt,50.935707,6.960246
+664,363019,Köln Heumarkt,50.93477,6.961288
+665,420182,Köln Heumarkt,50.93634,6.962033
+666,428782,Köln Heumarkt,50.93506,6.961333
+667,434137,Köln Heumarkt,50.935005,6.957389
+668,47221,Köln Heumarkt,50.935574,6.960578
+669,53951,Köln Heumarkt,50.93505,6.957461
+670,351762,Köln Hochkirchen,50.878605,6.962473
+671,447559,Köln Hochkirchen,50.878876,6.96303
+672,322212,Köln Hochkirchen Bonner Landstr.,50.882763,6.969148
+673,84627,Köln Hochkirchen Bonner Landstr.,50.883045,6.969696
+674,247485,Köln Hochkirchen Lerchenweg,50.877213,6.959967
+675,429013,Köln Hochkirchen Lerchenweg,50.87777,6.96109
+676,127905,Köln Hochkirchen Lindenweg,50.880825,6.962204
+677,306471,Köln Hochkirchen Lindenweg,50.881104,6.962195
+678,15532,Köln Hochkirchen Reiherstr.,50.87555,6.959976
+679,445994,Köln Hochkirchen Reiherstr.,50.87555,6.959976
+680,293291,Köln Holweide Burgwiesenstr.,50.964153,7.043034
+681,90826,Köln Holweide Burgwiesenstr.,50.964157,7.043313
+682,346469,Köln Holweide Buschfeldstr.,50.971653,7.040807
+683,434821,Köln Holweide Buschfeldstr.,50.97082,7.039154
+684,172713,Köln Holweide Colonia-Allee,50.963047,7.046924
+685,222346,Köln Holweide Colonia-Allee,50.963047,7.047203
+686,114362,Köln Holweide Gerhart-Hauptmann-Str.,50.972485,7.049143
+687,213416,Köln Holweide Gerhart-Hauptmann-Str.,50.973328,7.049718
+688,351926,Köln Holweide Grunerstr.,50.976097,7.049978
+689,124819,Köln Holweide Kochwiesenstr.,50.963043,7.0497
+690,274913,Köln Holweide Kochwiesenstr.,50.963043,7.0497
+691,177497,Köln Holweide Kühzällerweg,50.97527,7.047751
+692,184904,Köln Holweide Kühzällerweg,50.974712,7.048595
+693,349290,Köln Holweide Lacher Broch,50.958046,7.040528
+694,409943,Köln Holweide Lacher Broch,50.958324,7.041364
+695,288775,Köln Holweide Maria-Himmelfahrt-Str.,50.96784,7.044633
+696,406355,Köln Holweide Maria-Himmelfahrt-Str.,50.967854,7.044337
+697,308299,Köln Holweide Neufelder Str. (Krankenhaus Holweide,50.96943,7.055108
+698,410789,Köln Holweide Neufelder Str. (Krankenhaus Holweide,50.9697,7.056024
+699,280074,Köln Holweide S-Bahn,50.97655,7.043843
+700,432270,Köln Holweide S-Bahn,50.97654,7.04378
+701,374622,Köln Holweide Schlagbaumsweg,50.959435,7.044975
+702,92979,Köln Holweide Schlagbaumsweg,50.959145,7.044984
+703,113374,Köln Holweide Vischeringstr.,50.966076,7.037653
+704,155409,Köln Holweide Vischeringstr.,50.9662,7.037905
+705,259940,Köln Holweide Vischeringstr.,50.966778,7.03866
+706,275490,Köln Holweide Vischeringstr.,50.966755,7.038857
+707,362480,Köln Holweide Vischeringstr.,50.966652,7.039702
+708,429964,Köln Holweide Vischeringstr.,50.96693,7.039154
+709,194979,Köln Humboldt/Gremberg Am Grauen Stein,50.923595,6.99192
+710,204914,Köln Humboldt/Gremberg Am Grauen Stein,50.923595,6.99192
+711,317892,Köln Humboldt/Gremberg Deutzer Friedhof,50.925262,6.99192
+712,424934,Köln Humboldt/Gremberg Deutzer Friedhof,50.925262,6.99192
+713,105774,Köln Humboldt/Gremberg Deutzer Ring,50.93554,6.993591
+714,206042,Köln Humboldt/Gremberg Deutzer Ring,50.935265,6.994139
+715,236872,Köln Humboldt/Gremberg Esserstr.,50.92999,6.996367
+716,445926,Köln Humboldt/Gremberg Esserstr.,50.92971,6.996942
+717,152801,Köln Humboldt/Gremberg Feldbergstr.,50.93415,6.994148
+718,426503,Köln Humboldt/Gremberg Feldbergstr.,50.93333,6.99387
+719,290230,Köln Humboldt/Gremberg Gießener Str.,50.9336,7.000805
+720,58217,Köln Humboldt/Gremberg Gießener Str.,50.9336,7.000805
+721,175389,Köln Humboldt/Gremberg Gremberg,50.925823,7.010542
+722,50286,Köln Humboldt/Gremberg Gremberg,50.926655,7.010533
+723,179328,Köln Humboldt/Gremberg Lüderichstr.,50.927486,7.004146
+724,35774,Köln Humboldt/Gremberg Lüderichstr.,50.928047,7.002484
+725,282915,Köln Humboldt/Gremberg Rolshover Str.,50.928326,6.9997
+726,364036,Köln Humboldt/Gremberg Rolshover Str.,50.929157,6.999152
+727,448783,Köln Humboldt/Gremberg Rolshover Str.,50.929165,6.9997
+728,53968,Köln Humboldt/Gremberg Rolshover Str.,50.9286,7.000526
+729,348643,Köln Humboldt/Gremberg Sauerlandstr.,50.9261,6.999421
+730,372259,Köln Humboldt/Gremberg Tüv-Akademie,50.924435,6.99387
+731,162884,Köln Humboldt/Gremberg Wattstr.,50.93138,7.000535
+732,311290,Köln Humboldt/Gremberg Wattstr.,50.93194,7.000814
+733,20847,Köln Humboldt/Gremberg Weilburger Str.,50.931377,6.993861
+734,330104,Köln Humboldt/Gremberg Weilburger Str.,50.9311,6.99387
+735,293375,Köln Humboldt/Gremberg Wiedstr.,50.927208,7.007758
+736,295730,Köln Humboldt/Gremberg Wiedstr.,50.925823,7.008593
+737,103249,Köln Höhenberg Frankfurter Str.,50.94173,7.029245
+738,275934,Köln Höhenberg Frankfurter Str.,50.94166,7.029137
+739,293177,Köln Höhenberg Frankfurter Str.,50.94138,7.029146
+740,75933,Köln Höhenberg Frankfurter Str.,50.941814,7.02867
+741,210399,Köln Höhenberg Fuldaer Str.,50.94138,7.022472
+742,247803,Köln Höhenberg Fuldaer Str.,50.941547,7.023038
+743,361097,Köln Höhenberg Fuldaer Str.,50.941612,7.022175
+744,363386,Köln Höhenberg Fuldaer Str.,50.94138,7.022472
+745,323904,Köln Höhenberg Mülheimer Friedhof,50.946926,7.021924
+746,333936,Köln Höhenberg Mülheimer Friedhof,50.945824,7.023038
+747,205417,Köln Höhenberg Würzburger Str.,50.9386,7.019427
+748,297436,Köln Höhenberg Würzburger Str.,50.938877,7.019418
+749,225918,Köln Höhenhaus Am Emberg,50.988903,7.029542
+750,254009,Köln Höhenhaus Am Emberg,50.989384,7.030305
+751,285335,Köln Höhenhaus Am Emberg,50.989025,7.029685
+752,96756,Köln Höhenhaus Am Emberg,50.989346,7.030153
+753,298687,Köln Höhenhaus Am Flachsrosterweg,50.9836,7.022508
+754,81741,Köln Höhenhaus Am Flachsrosterweg,50.983547,7.022301
+755,130773,Köln Höhenhaus Am Springborn,50.97749,7.032479
+756,286825,Köln Höhenhaus Am Springborn,50.97749,7.032479
+757,335812,Köln Höhenhaus Birkenweg,50.984715,7.041085
+758,358395,Köln Höhenhaus Birkenweg,50.984715,7.041085
+759,75160,Köln Höhenhaus Birkenweg,50.984715,7.041085
+760,78560,Köln Höhenhaus Birkenweg,50.9847,7.041301
+761,231754,Köln Höhenhaus Bugenhagenstr.,50.986397,7.024287
+762,268490,Köln Höhenhaus Bugenhagenstr.,50.986397,7.024287
+763,303565,Köln Höhenhaus Cottbuser Str.,50.978874,7.02081
+764,320256,Köln Höhenhaus Cottbuser Str.,50.979435,7.021376
+765,377446,Köln Höhenhaus Cottbuser Str.,50.978874,7.021089
+766,150786,Köln Höhenhaus Eddaweg,50.976383,7.034707
+767,322138,Köln Höhenhaus Eddaweg,50.976383,7.034976
+768,152852,Köln Höhenhaus Goldregenweg,50.97916,7.048864
+769,68744,Köln Höhenhaus Goldregenweg,50.97916,7.048864
+770,173323,Köln Höhenhaus Heimfriedweg,50.984142,7.031347
+771,420765,Köln Höhenhaus Heimfriedweg,50.983906,7.031608
+772,177126,Köln Höhenhaus Honschaftsstr.,50.980824,7.031374
+773,367657,Köln Höhenhaus Honschaftsstr.,50.980824,7.031644
+774,75312,Köln Höhenhaus Höhscheider Weg,50.987495,7.041642
+775,94789,Köln Höhenhaus Höhscheider Weg,50.987766,7.04192
+776,122504,Köln Höhenhaus Im Weidenbruch,50.980568,7.022804
+777,141078,Köln Höhenhaus Im Weidenbruch,50.980534,7.022418
+778,76340,Köln Höhenhaus Im Weidenbruch,50.98051,7.022939
+779,98511,Köln Höhenhaus Im Weidenbruch,50.980537,7.02275
+780,303800,Köln Höhenhaus Imbacher Weg,50.993874,7.040807
+781,335336,Köln Höhenhaus Imbacher Weg,50.993877,7.040537
+782,325990,Köln Höhenhaus Jasminweg,50.978603,7.039693
+783,54838,Köln Höhenhaus Jasminweg,50.97832,7.039702
+784,101260,Köln Höhenhaus Lippeweg,50.99165,7.043034
+785,106405,Köln Höhenhaus Lippeweg,50.99138,7.043025
+786,349270,Köln Höhenhaus Sigwinstr.,50.982212,7.044148
+787,442850,Köln Höhenhaus Sigwinstr.,50.98165,7.044148
+788,137195,Köln Höhenhaus Torringer Weg,50.982464,7.037303
+789,15087,Köln Höhenhaus Torringer Weg,50.982372,7.036531
+790,166450,Köln Höhenhaus Wupperplatz,50.990185,7.03362
+791,67817,Köln Höhenhaus Wupperplatz,50.990185,7.03362
+792,30275,Köln Höningen Am Eifeltor,50.879158,6.916929
+793,109266,Köln Höningen Güterverkehrszentrum,50.886658,6.920531
+794,10912,Köln Höningen Güterverkehrszentrum Süd,50.880825,6.918869
+795,216660,Köln Höningen Güterverkehrszentrum Süd,50.880825,6.918869
+796,109436,Köln Höningen Rondorfer Weg,50.879993,6.936638
+797,365221,Köln Höningen Rondorfer Weg,50.88027,6.936934
+798,138814,Köln Höningen Siedlung,50.88388,6.939414
+799,223003,Köln Höningen Siedlung,50.883324,6.939153
+800,155226,Köln Immendorf,50.8586,6.958862
+801,413825,Köln Immendorf,50.85805,6.959707
+802,243366,Köln Immendorf Schule,50.856106,6.962204
+803,320127,Köln Immendorf Schule,50.856106,6.962204
+804,276385,Köln Immendorf Siedlung,50.853657,6.965968
+805,383298,Köln Immendorf Siedlung,50.85404,6.96524
+806,27508,Köln Immendorf Zaunhof,50.860264,6.954694
+807,287884,Köln Immendorf Zaunhof,50.85999,6.95526
+808,139361,Köln Junkersdorf,50.937214,6.867486
+809,2185,Köln Junkersdorf,50.93772,6.868411
+810,334708,Köln Junkersdorf,50.93766,6.868815
+811,362731,Köln Junkersdorf,50.937767,6.867764
+812,445031,Köln Junkersdorf,50.937214,6.867486
+813,68470,Köln Junkersdorf,50.937145,6.867593
+814,129122,Köln Junkersdorf Beethovenstr.,50.92943,6.852475
+815,316898,Köln Junkersdorf Beethovenstr.,50.92943,6.852475
+816,118784,Köln Junkersdorf Birkenallee,50.933598,6.860263
+817,159133,Köln Junkersdorf Birkenallee,50.933872,6.860533
+818,177241,Köln Junkersdorf Egelspfad,50.94222,6.853319
+819,283693,Köln Junkersdorf Egelspfad,50.94193,6.854137
+820,75300,Köln Junkersdorf Eichenstr.,50.926105,6.868312
+821,90131,Köln Junkersdorf Eichenstr.,50.926937,6.868582
+822,136572,Köln Junkersdorf Kölner Weg,50.93165,6.857209
+823,306775,Köln Junkersdorf Kölner Weg,50.9311,6.857478
+824,223668,Köln Junkersdorf Mohnweg,50.937927,6.855242
+825,30300,Köln Junkersdorf Mohnweg,50.938034,6.854909
+826,16762,Köln Junkersdorf Sterrenhofweg,50.928047,6.854694
+827,72357,Köln Junkersdorf Sterrenhofweg,50.92777,6.854424
+828,21731,Köln Junkersdorf Südallee,50.93026,6.863865
+829,248778,Köln Junkersdorf Südallee,50.930267,6.864153
+830,166897,Köln Junkersdorf Wiener Weg,50.926937,6.865258
+831,421217,Köln Junkersdorf Wiener Weg,50.92666,6.864979
+832,211685,Köln Junkersdorf Willi-Lauf-Allee,50.925823,6.861656
+833,53555,Köln Junkersdorf Willi-Lauf-Allee,50.925823,6.861368
+834,123979,Köln Kalk Christian-Sünner-Str.,50.93388,7.011081
+835,48135,Köln Kalk Corintostr.,50.941097,6.993582
+836,94066,Köln Kalk Corintostr.,50.94118,6.993753
+837,384959,Köln Kalk Dillenburger Str.,50.93388,7.011081
+838,406253,Köln Kalk Dillenburger Str.,50.93388,7.011081
+839,264474,Köln Kalk Eythstr.,50.939987,7.010803
+840,85435,Köln Kalk Eythstr.,50.93971,7.010812
+841,112582,Köln Kalk Heinrich-Bützler-Str.,50.935272,7.010533
+842,116803,Köln Kalk Kalk-Karree,50.93499,7.002754
+843,209660,Köln Kalk Kalk-Karree,50.934715,7.003041
+844,159475,Köln Kalk Kapelle,50.93884,7.008638
+845,173004,Köln Kalk Kapelle,50.938873,7.009428
+846,204400,Köln Kalk Kapelle,50.938877,7.008871
+847,290254,Köln Kalk Kapelle,50.93882,7.007919
+848,160846,Köln Kalk Post,50.937492,6.999143
+849,198921,Köln Kalk Post,50.937534,6.998002
+850,23851,Köln Kalk Post,50.937508,6.998801
+851,299555,Köln Kalk Post,50.937206,6.998038
+852,324272,Köln Kalk Remscheider Str.,50.94416,7.007479
+853,386854,Köln Kalk Remscheider Str.,50.944714,7.004973
+854,172736,Köln Kalk Steinmetzstr.,50.943043,7.009419
+855,272755,Köln Kalk Steinmetzstr.,50.94249,7.008027
+856,120935,Köln Kalk Trimbornstr.,50.93512,6.997193
+857,433977,Köln Kalk Trimbornstr.,50.93506,6.998092
+858,189003,Köln Kalk Walter-Pauli-Ring,50.93693,6.994705
+859,232612,Köln Kalk Walter-Pauli-Ring,50.93693,6.994975
+860,119802,Köln Kartäuserhof,50.924934,6.958404
+861,25356,Köln Kartäuserhof,50.92502,6.958521
+862,385907,Köln Kasselberg,51.036655,6.939144
+863,424233,Köln Kasselberg,51.036385,6.939153
+864,373870,Köln Klettenberg Klettenbergpark,50.908096,6.919579
+865,418725,Köln Klettenberg Klettenbergpark,50.907978,6.919291
+866,368174,Köln Klettenberg Rhöndorfer Str.,50.913597,6.932748
+867,40972,Köln Klettenberg Rhöndorfer Str.,50.9136,6.9322
+868,139255,Köln Klettenberg Siebengebirgsallee,50.90971,6.928876
+869,86249,Köln Klettenberg Siebengebirgsallee,50.90999,6.927763
+870,240795,Köln Klettenberg Sülzburgstr.,50.915028,6.926765
+871,302277,Köln Klettenberg Sülzburgstr.,50.915817,6.926918
+872,321070,Köln Klettenberg Sülzburgstr.,50.915306,6.927089
+873,441575,Köln Klettenberg Sülzburgstr.,50.915264,6.928302
+874,214885,Köln Klettenberg Sülzgürtel,50.911816,6.923433
+875,222067,Köln Klettenberg Sülzgürtel,50.91278,6.923406
+876,291310,Köln Klettenberg Sülzgürtel,50.912533,6.923118
+877,298730,Köln Klettenberg Sülzgürtel,50.912727,6.923217
+878,361771,Köln Klettenberg Sülzgürtel,50.912804,6.923118
+879,390658,Köln Klettenberg Sülzgürtel,50.912666,6.923244
+880,427462,Köln Klettenberg Sülzgürtel,50.911472,6.923028
+881,27678,Köln Krefelder Wall,50.95388,6.950247
+882,443065,Köln Krefelder Wall,50.95416,6.950256
+883,255569,Köln Langel Lrh. Gewerbegebiet Feldkassel,51.03988,6.915285
+884,46125,Köln Langel Lrh. Gewerbegebiet Feldkassel,51.03988,6.915285
+885,379066,Köln Langel Lrh. Langel Fähre,51.05249,6.914414
+886,391454,Köln Langel Lrh. Langel Fähre,51.05249,6.914414
+887,215758,Köln Langel Lrh. Langel Kuhlenweg,51.045826,6.924978
+888,404255,Köln Langel Lrh. Langel Kuhlenweg,51.04638,6.924151
+889,131895,Köln Langel Lrh. Langel Mohlenweg,51.0486,6.919974
+890,676,Köln Langel Lrh. Langel Mohlenweg,51.0486,6.919974
+891,149315,Köln Langel Lrh. Langel Nord,51.050823,6.916641
+892,150922,Köln Langel Lrh. Langel Nord,51.0511,6.915815
+893,16504,Köln Lentpark,50.957485,6.963309
+894,55812,Köln Lentpark,50.957485,6.963309
+895,149072,Köln Libur Kirche,50.838047,7.069148
+896,453324,Köln Libur Kirche,50.838047,7.069418
+897,105464,Köln Libur Margaretenstr.,50.839157,7.072751
+898,15605,Köln Libur Margaretenstr.,50.839153,7.073038
+899,189854,Köln Lind Linder Kreuz,50.846653,7.094149
+900,233223,Köln Lind Linder Kreuz,50.846653,7.094149
+901,100606,Köln Lind Linder Mauspfad,50.851097,7.108863
+902,177320,Köln Lind Linder Mauspfad,50.851105,7.10915
+903,99057,Köln Lind Linder Mauspfad,50.850266,7.109698
+904,28809,Köln Lind Linder Weg,50.849716,7.103311
+905,303355,Köln Lind Linder Weg,50.849716,7.104973
+906,191381,Köln Lind Nibelungenstr.,50.85305,7.108872
+907,231125,Köln Lind Nibelungenstr.,50.85332,7.104704
+908,312521,Köln Lind Nibelungenstr.,50.853317,7.108863
+909,132113,Köln Lind Niederkasseler Str.,50.841225,7.104362
+910,408777,Köln Lind Niederkasseler Str.,50.841377,7.105297
+911,162078,Köln Lind Niederkasseler Str./Kreisel,50.845154,7.102224
+912,260288,Köln Lind Niederkasseler Str./Kreisel,50.845154,7.102224
+913,84520,Köln Lind Spicher Str.,50.842636,7.101299
+914,95544,Köln Lind Spicher Str.,50.842648,7.101299
+915,396010,Köln Lind Troisdorfer Str.,50.847763,7.100257
+916,426488,Köln Lind Troisdorfer Str.,50.84805,7.100814
+917,351026,Köln Lindenthal Bachemer Str.,50.930546,6.926361
+918,84031,Köln Lindenthal Bachemer Str.,50.92999,6.927206
+919,248291,Köln Lindenthal Brahmsstr.,50.926094,6.89854
+920,261834,Köln Lindenthal Brahmsstr.,50.925545,6.896923
+921,28632,Köln Lindenthal Brahmsstr.,50.926105,6.899151
+922,51857,Köln Lindenthal Brahmsstr.,50.925865,6.897921
+923,256903,Köln Lindenthal Deckstein,50.91666,6.899978
+924,418298,Köln Lindenthal Deckstein,50.91666,6.899978
+925,142319,Köln Lindenthal Dürener Str./Gürtel,50.928635,6.908503
+926,160561,Köln Lindenthal Dürener Str./Gürtel,50.9286,6.908619
+927,171189,Köln Lindenthal Dürener Str./Gürtel,50.928043,6.909697
+928,252188,Köln Lindenthal Dürener Str./Gürtel,50.928043,6.909697
+929,334612,Köln Lindenthal Freiligrathstr.,50.91944,6.904424
+930,392637,Köln Lindenthal Geibelstr.,50.928047,6.9186
+931,419664,Köln Lindenthal Geibelstr.,50.927486,6.918034
+932,173800,Köln Lindenthal Gleueler Str./Gürtel,50.924004,6.911979
+933,27835,Köln Lindenthal Gleueler Str./Gürtel,50.923874,6.912761
+934,279356,Köln Lindenthal Gleueler Str./Gürtel,50.923046,6.91109
+935,411566,Köln Lindenthal Gleueler Str./Gürtel,50.92413,6.911997
+936,16347,Köln Lindenthal Hildegardis-Krankenhaus,50.930267,6.923316
+937,452651,Köln Lindenthal Hildegardis-Krankenhaus,50.930546,6.922193
+938,210005,Köln Lindenthal Hohenlind,50.924706,6.896914
+939,441566,Köln Lindenthal Hohenlind,50.924156,6.897202
+940,277140,Köln Lindenthal Karl-Schwering-Platz,50.931095,6.917198
+941,389428,Köln Lindenthal Karl-Schwering-Platz,50.930546,6.916363
+942,324297,Köln Lindenthal Kitschburger Str.,50.926376,6.901927
+943,390326,Köln Lindenthal Kitschburger Str.,50.9261,6.900813
+944,28971,Köln Lindenthal Koppensteinstr.,50.9186,6.902762
+945,40899,Köln Lindenthal Koppensteinstr.,50.918324,6.902197
+946,158363,Köln Lindenthal Krieler Str.,50.9211,6.906643
+947,220493,Köln Lindenthal Krieler Str.,50.92166,6.907757
+948,307554,Köln Lindenthal Leiblplatz,50.925545,6.915536
+949,97348,Köln Lindenthal Leiblplatz,50.926373,6.916363
+950,21981,Köln Lindenthal Melaten,50.936745,6.916713
+951,351235,Köln Lindenthal Melaten,50.936745,6.916713
+952,423294,Köln Lindenthal Melaten,50.93681,6.916192
+953,84022,Köln Lindenthal Melaten,50.93672,6.916767
+954,94304,Köln Lindenthal Prälat-Van-Acken-Str.,50.92499,6.896636
+955,446941,Köln Lindenthal Theresienstr.,50.929153,6.912752
+956,97090,Köln Lindenthal Theresienstr.,50.929436,6.913309
+957,119023,Köln Lindenthal Universitätsstr.,50.936638,6.923927
+958,129458,Köln Lindenthal Universitätsstr.,50.936405,6.924529
+959,182976,Köln Lindenthal Universitätsstr.,50.93582,6.924421
+960,305439,Köln Lindenthal Universitätsstr.,50.9367,6.925202
+961,438416,Köln Lindenthal Universitätsstr.,50.936096,6.92469
+962,450951,Köln Lindenthal Universitätsstr.,50.936405,6.924529
+963,334613,Köln Lindenthal Wüllnerstr.,50.93085,6.908098
+964,355027,Köln Lindenthal Wüllnerstr.,50.931477,6.907901
+965,250495,Köln Lindweiler Korber Weg,51.005604,6.889926
+966,333661,Köln Lindweiler Lindweilerfeld,51.002766,6.889701
+967,441251,Köln Lindweiler Lindweilerfeld,51.003036,6.889422
+968,281309,Köln Lindweiler Marienberger Weg,50.99999,6.892468
+969,370249,Köln Lindweiler Marienberger Weg,50.999714,6.892755
+970,213034,Köln Lindweiler Unnauer Weg,51.006943,6.889656
+971,428287,Köln Lindweiler Unnauer Weg,51.006943,6.890015
+972,142246,Köln Longerich Altonaer Platz,50.993877,6.933036
+973,416087,Köln Longerich Altonaer Platz,50.993855,6.933664
+974,180643,Köln Longerich Am Nordpark,51.003048,6.932748
+975,181346,Köln Longerich Am Nordpark,51.002766,6.933027
+976,438922,Köln Longerich Bremerhavener Str.,50.99833,6.936377
+977,446995,Köln Longerich Bremerhavener Str.,50.99638,6.937204
+978,352736,Köln Longerich Dionysstr.,50.997208,6.907209
+979,400367,Köln Longerich Dionysstr.,50.996655,6.905808
+980,204196,Köln Longerich Dädalusring,50.98999,6.906365
+981,233185,Köln Longerich Dädalusring,50.99082,6.905529
+982,31980,Köln Longerich Dädalusring,50.990578,6.906122
+983,151431,Köln Longerich Esso,51.007484,6.929415
+984,238524,Köln Longerich Esso,51.00666,6.929703
+985,20965,Köln Longerich Friedhof,50.99553,6.911359
+986,330845,Köln Longerich Friedhof,50.99499,6.911665
+987,49153,Köln Longerich Friedhof,50.995636,6.911305
+988,82638,Köln Longerich Friedhof,50.99527,6.910533
+989,234273,Köln Longerich Herforder Str.,50.994705,6.925616
+990,50655,Köln Longerich Herforder Str.,50.99461,6.925454
+991,167847,Köln Longerich Hugo-Junkers-Str.,50.987766,6.909697
+992,309917,Köln Longerich Hugo-Junkers-Str.,50.987206,6.910254
+993,242806,Köln Longerich Lindweilerweg,50.99527,6.90137
+994,2458,Köln Longerich Lindweilerweg,50.994987,6.901361
+995,132596,Köln Longerich Longericher Str.,50.995975,6.91506
+996,148632,Köln Longerich Longericher Str.,50.995823,6.913875
+997,451729,Köln Longerich Longericher Str.,50.996117,6.915006
+998,73737,Köln Longerich Longericher Str.,50.995823,6.913875
+999,77068,Köln Longerich Longericher Str.,50.995823,6.913875
+1000,169549,Köln Longerich Meerfeldstr.,50.995155,6.920289
+1001,60157,Köln Longerich Meerfeldstr.,50.99514,6.921133
+1002,383554,Köln Longerich Paul-Reifenberg-Str.,51.0136,6.923585
+1003,64251,Köln Longerich Paul-Reifenberg-Str.,51.013046,6.92443
+1004,18171,Köln Longerich S-Bahn,50.99916,6.901649
+1005,241441,Köln Longerich S-Bahn,50.999153,6.90331
+1006,349706,Köln Longerich S-Bahn,50.999435,6.901918
+1007,431332,Köln Longerich S-Bahn,50.99888,6.903032
+1008,118575,Köln Longerich Stommeler Str.,50.99887,6.912195
+1009,80322,Köln Longerich Stommeler Str.,50.998882,6.911925
+1010,178454,Köln Longerich Wilhelm-Sollmann-Str.,50.99195,6.940986
+1011,192649,Köln Longerich Wilhelm-Sollmann-Str.,50.991657,6.941094
+1012,233984,Köln Longerich Wilhelm-Sollmann-Str.,50.99203,6.941156
+1013,70099,Köln Longerich Wilhelm-Sollmann-Str.,50.99166,6.941381
+1014,371622,Köln Lövenich An Der Ronne,50.950706,6.828615
+1015,418746,Köln Lövenich An Der Ronne,50.950764,6.828786
+1016,121045,Köln Lövenich Bf Lövenich,50.943043,6.834293
+1017,86982,Köln Lövenich Bf Lövenich,50.943066,6.833987
+1018,208591,Köln Lövenich Braugasse,50.94416,6.829424
+1019,231460,Köln Lövenich Braugasse,50.94416,6.829702
+1020,180413,Köln Lövenich Brauweiler Str.,50.94821,6.82584
+1021,355793,Köln Lövenich Brauweiler Str.,50.948997,6.824142
+1022,325792,Köln Lövenich Curt-Stenvert-Bogen,50.953945,6.828768
+1023,383528,Köln Lövenich Curt-Stenvert-Bogen,50.954006,6.828939
+1024,276611,Köln Lövenich Dieselstr.,50.946934,6.841363
+1025,359932,Köln Lövenich Dieselstr.,50.946938,6.84165
+1026,108996,Köln Lövenich Saarstr.,50.943874,6.821097
+1027,254981,Köln Lövenich Saarstr.,50.943874,6.821097
+1028,178117,Köln Lövenich Seithümerstr.,50.9461,6.8322
+1029,188031,Köln Lövenich Seithümerstr.,50.9461,6.8322
+1030,262743,Köln Lövenich Severinusstr.,50.94276,6.824968
+1031,448052,Köln Lövenich Spitzangerweg,50.94721,6.826648
+1032,222017,Köln Lövenich Zaunstr.,50.947052,6.829954
+1033,23326,Köln Lövenich Zaunstr.,50.94713,6.829846
+1034,160172,Köln Marienburg Arnoldshöhe,50.894714,6.966642
+1035,270533,Köln Marienburg Arnoldshöhe,50.895546,6.966642
+1036,114787,Köln Marienburg Bayenthalgürtel,50.906437,6.978284
+1037,354446,Köln Marienburg Bayenthalgürtel,50.907036,6.977574
+1038,409514,Köln Marienburg Bayenthalgürtel,50.905823,6.97637
+1039,5697,Köln Marienburg Bayenthalgürtel,50.906097,6.975804
+1040,111148,Köln Marienburg Bonner Str./Gürtel,50.903603,6.964692
+1041,265283,Köln Marienburg Bonner Str./Gürtel,50.904152,6.964423
+1042,309725,Köln Marienburg Bonner Str./Gürtel,50.904152,6.964153
+1043,82511,Köln Marienburg Bonner Str./Gürtel,50.903603,6.965537
+1044,409102,Köln Marienburg Gaedestr.,50.9011,6.965258
+1045,438889,Köln Marienburg Gaedestr.,50.900272,6.965249
+1046,103279,Köln Marienburg Goltsteinstr./Gürtel,50.90443,6.97081
+1047,259591,Köln Marienburg Goltsteinstr./Gürtel,50.904152,6.971645
+1048,371964,Köln Marienburg Goltsteinstr./Gürtel,50.90471,6.971088
+1049,450631,Köln Marienburg Goltsteinstr./Gürtel,50.90443,6.971915
+1050,289375,Köln Marienburg Heinrich-Lübke-Ufer,50.89999,6.984707
+1051,354515,Köln Marienburg Heinrich-Lübke-Ufer,50.89973,6.984985
+1052,449312,Köln Marienburg Heinrich-Lübke-Ufer,50.900543,6.984419
+1053,91094,Köln Marienburg Heinrich-Lübke-Ufer,50.899673,6.984859
+1054,134541,Köln Marienburg Leyboldstr.,50.8986,6.965815
+1055,300781,Köln Marienburg Leyboldstr.,50.896935,6.966094
+1056,332994,Köln Marienburg Marienburger Str.,50.901382,6.973307
+1057,410427,Köln Marienburg Marienburger Str.,50.900818,6.973864
+1058,285481,Köln Marienburg Südpark,50.898323,6.975526
+1059,400751,Köln Marienburg Südpark,50.898323,6.975526
+1060,27024,Köln Marsdorf,50.917507,6.858574
+1061,390222,Köln Marsdorf,50.917362,6.857254
+1062,303727,Köln Marsdorf Haus Vorst,50.915707,6.848307
+1063,445650,Köln Marsdorf Haus Vorst,50.915688,6.848612
+1064,176980,Köln Marsdorf Stüttgenhof,50.920063,6.877394
+1065,80152,Köln Marsdorf Stüttgenhof,50.92007,6.876927
+1066,375332,Köln Mauenheim Bergstr.,50.973145,6.946304
+1067,80055,Köln Mauenheim Bergstr.,50.973774,6.946474
+1068,239971,Köln Mauenheim Grüner Hof,50.97499,6.94943
+1069,71531,Köln Mauenheim Grüner Hof,50.97499,6.94943
+1070,276143,Köln Mauenheim Nibelungenplatz,50.974438,6.939423
+1071,400414,Köln Mauenheim Nibelungenplatz,50.97471,6.939144
+1072,144779,Köln Mauenheim Nordfriedhof,50.975544,6.94581
+1073,207940,Köln Mauenheim Nordfriedhof,50.975822,6.945819
+1074,233401,Köln Mauenheim Schmiedegasse,50.97693,6.935263
+1075,62753,Köln Mauenheim Schmiedegasse,50.976654,6.93609
+1076,40111,Köln Mauritiuskirche,50.9338,6.945037
+1077,451506,Köln Mauritiuskirche,50.93442,6.945109
+1078,310016,Köln Merheim,50.944153,7.04776
+1079,364639,Köln Merheim,50.94426,7.048586
+1080,435327,Köln Merheim,50.944153,7.048029
+1081,79544,Köln Merheim,50.943882,7.047472
+1082,277289,Köln Merheim Bevingsweg,50.949993,7.043313
+1083,71557,Köln Merheim Bevingsweg,50.949432,7.042756
+1084,167698,Köln Merheim Broichstr.,50.95082,7.049978
+1085,272998,Köln Merheim Broichstr.,50.94999,7.049987
+1086,128986,Köln Merheim Eggerbachstr.,50.954437,7.049969
+1087,259968,Köln Merheim Eggerbachstr.,50.954987,7.049987
+1088,275073,Köln Merheim Gewerbegebiet Broichstr.,50.944435,7.059707
+1089,433679,Köln Merheim Gewerbegebiet Broichstr.,50.94471,7.060255
+1090,432949,Köln Merheim Hopfenstr.,50.941933,7.054695
+1091,78857,Köln Merheim Hopfenstr.,50.941933,7.054695
+1092,211902,Köln Merheim Kalker Friedhof,50.94263,7.042441
+1093,436484,Köln Merheim Kalker Friedhof,50.94267,7.042738
+1094,133466,Köln Merheim Klinikum Merheim,50.938877,7.049152
+1095,328835,Köln Merheim Klinikum Merheim,50.938877,7.049152
+1096,414949,Köln Merheim Lvr Kliniken,50.936096,7.051919
+1097,79247,Köln Merheim Lvr Kliniken,50.936096,7.051919
+1098,25158,Köln Merheim Ostmerheimer Str.,50.94138,7.050535
+1099,397761,Köln Merheim Ostmerheimer Str.,50.94138,7.050535
+1100,366319,Köln Merkenich,51.02832,6.94775
+1101,374110,Köln Merkenich,51.028095,6.948038
+1102,49504,Köln Merkenich,51.028164,6.948127
+1103,170599,Köln Merkenich Mitte,51.02401,6.953499
+1104,433330,Köln Merkenich Mitte,51.024254,6.953391
+1105,108253,Köln Merkenich Schlettstadter Str.,51.030266,6.95164
+1106,271579,Köln Merkenich Schlettstadter Str.,51.03082,6.95137
+1107,234143,Köln Meschenich Am Kölnberg,50.86265,6.927852
+1108,27358,Köln Meschenich Am Kölnberg,50.86256,6.927565
+1109,354439,Köln Meschenich Auf Der Freiheit,50.85693,6.923352
+1110,110518,Köln Meschenich Engeldorfer Hof,50.853867,6.921259
+1111,407862,Köln Meschenich Engeldorfer Str.,50.858948,6.928481
+1112,270121,Köln Meschenich Frankenstr.,50.853333,6.92787
+1113,316490,Köln Meschenich Frankenstr.,50.85305,6.927754
+1114,375830,Köln Meschenich Im Rheintal,50.855816,6.928589
+1115,115153,Köln Meschenich Kettelerstr.,50.860825,6.93194
+1116,87377,Köln Meschenich Kettelerstr.,50.860825,6.93194
+1117,217600,Köln Meschenich Kirche,50.860325,6.927026
+1118,269385,Köln Meschenich Kirche,50.860268,6.927197
+1119,369684,Köln Meschenich Kirche,50.860264,6.927026
+1120,43293,Köln Meschenich Kirche,50.861095,6.927484
+1121,96423,Köln Meschenich Kirche,50.860325,6.927026
+1122,18159,Köln Messe/Deutz,50.940872,6.975001
+1123,206681,Köln Moltkestr.,50.934994,6.932479
+1124,215155,Köln Moltkestr.,50.935543,6.931931
+1125,335916,Köln Moltkestr.,50.93654,6.933045
+1126,387024,Köln Moltkestr.,50.93582,6.932488
+1127,306944,Köln Mühlenbach,50.93326,6.957811
+1128,69947,Köln Mühlenbach,50.933277,6.957425
+1129,329588,Köln Mülheim Am Faulbach,50.97916,7.002754
+1130,340281,Köln Mülheim Am Faulbach,50.9786,7.002754
+1131,140350,Köln Mülheim Auenweg,50.955166,6.992217
+1132,149518,Köln Mülheim Auenweg,50.955166,6.992217
+1133,171414,Köln Mülheim Berliner Str.,50.97471,7.014423
+1134,299353,Köln Mülheim Berliner Str.,50.974655,7.014746
+1135,325468,Köln Mülheim Berliner Str.,50.97499,7.014145
+1136,334288,Köln Mülheim Berliner Str.,50.97499,7.014145
+1137,343979,Köln Mülheim Berliner Str.,50.97471,7.014827
+1138,403032,Köln Mülheim Berliner Str.,50.97471,7.014154
+1139,410013,Köln Mülheim Berliner Str.,50.97471,7.014423
+1140,443663,Köln Mülheim Berliner Str.,50.97471,7.014154
+1141,188421,Köln Mülheim Bf Mülheim,50.95767,7.011872
+1142,292820,Köln Mülheim Bf Mülheim,50.957153,7.012492
+1143,329582,Köln Mülheim Bf Mülheim,50.957054,7.012474
+1144,403968,Köln Mülheim Bf Mülheim,50.957027,7.0118
+1145,407694,Köln Mülheim Bf Mülheim,50.95767,7.011827
+1146,87368,Köln Mülheim Bf Mülheim,50.95717,7.0118
+1147,333801,Köln Mülheim Bruder-Klaus-Siedlung,50.98166,7.008036
+1148,9964,Köln Mülheim Bruder-Klaus-Siedlung,50.981377,7.008314
+1149,416337,Köln Mülheim Carlswerkstr.,50.96527,7.018313
+1150,429139,Köln Mülheim Carlswerkstr.,50.964798,7.017917
+1151,169791,Köln Mülheim Danzierstr.,50.958878,6.999987
+1152,2410,Köln Mülheim Danzierstr.,50.959003,6.999816
+1153,430666,Köln Mülheim Danzierstr.,50.959087,7.000203
+1154,264143,Köln Mülheim Dünnwalder Str.,50.968597,7.006374
+1155,405844,Köln Mülheim Dünnwalder Str.,50.968597,7.006644
+1156,270095,Köln Mülheim Elisabeth-Breuer-Str.,50.95971,7.007758
+1157,378845,Köln Mülheim Elisabeth-Breuer-Str.,50.95944,7.008036
+1158,129187,Köln Mülheim Graf-Adolf-Str.,50.958046,7.009419
+1159,329628,Köln Mülheim Graf-Adolf-Str.,50.958046,7.009419
+1160,219128,Köln Mülheim Grünstr.,50.955666,7.000284
+1161,348457,Köln Mülheim Grünstr.,50.955784,7.000409
+1162,250462,Köln Mülheim Keupstr.,50.96638,7.006365
+1163,341209,Köln Mülheim Keupstr.,50.96602,7.006715
+1164,345640,Köln Mülheim Keupstr.,50.966373,7.006096
+1165,375156,Köln Mülheim Keupstr.,50.96622,7.006724
+1166,210276,Köln Mülheim Kieler Str.,50.95554,7.004137
+1167,232562,Köln Mülheim Kieler Str.,50.956104,7.004703
+1168,12933,Köln Mülheim Montanusstr.,50.962765,7.012483
+1169,94552,Köln Mülheim Montanusstr.,50.962765,7.01304
+1170,130045,Köln Mülheim Neuer Mülheimer Friedhof,50.984715,7.004146
+1171,288224,Köln Mülheim Neuer Mülheimer Friedhof,50.98499,7.004146
+1172,333111,Köln Mülheim Neuer Mülheimer Friedhof,50.984715,7.004146
+1173,183013,Köln Mülheim Schanzenstr. Nord,50.96916,7.016651
+1174,244432,Köln Mülheim Schanzenstr. Nord,50.96916,7.016651
+1175,157290,Köln Mülheim Schanzenstr./Schauspielhaus,50.966568,7.009842
+1176,430850,Köln Mülheim Schanzenstr./Schauspielhaus,50.966652,7.009976
+1177,354596,Köln Mülheim Schützenhofstr,50.96999,7.008036
+1178,41087,Köln Mülheim Schützenhofstr,50.96999,7.008036
+1179,160543,Köln Mülheim Stegerwaldsiedlung,50.94841,6.993097
+1180,31799,Köln Mülheim Stegerwaldsiedlung,50.9484,6.993043
+1181,346532,Köln Mülheim Von-Galen-Str.,50.978874,7.012474
+1182,363686,Köln Mülheim Von-Galen-Str.,50.9786,7.013309
+1183,295095,Köln Mülheim Von-Lohe-Str.,50.973324,7.006087
+1184,51721,Köln Mülheim Von-Lohe-Str.,50.973045,7.005826
+1185,203430,Köln Mülheim Von-Sparr-Str.,50.97166,7.010542
+1186,238547,Köln Mülheim Von-Sparr-Str.,50.97166,7.010542
+1187,285194,Köln Mülheim Von-Sparr-Str.,50.970467,7.011423
+1188,81039,Köln Mülheim Von-Sparr-Str.,50.970375,7.011261
+1189,131546,Köln Mülheim Wiener Platz,50.961525,7.005134
+1190,136356,Köln Mülheim Wiener Platz,50.96125,7.003356
+1191,178428,Köln Mülheim Wiener Platz,50.96129,7.005997
+1192,257325,Köln Mülheim Wiener Platz,50.96171,7.004955
+1193,361894,Köln Mülheim Wiener Platz,50.96104,7.003544
+1194,376067,Köln Mülheim Wiener Platz,50.961655,7.004146
+1195,52825,Köln Mülheim Wiener Platz,50.961823,7.005512
+1196,76603,Köln Mülheim Wiener Platz,50.961655,7.004021
+1197,304253,Köln Mülheim Windmühlenstr.,50.957703,6.996627
+1198,425868,Köln Mülheim Windmühlenstr.,50.95762,6.996744
+1199,115900,Köln Müngersdorf Alter Militärring,50.937763,6.881311
+1200,24715,Köln Müngersdorf Alter Militärring,50.937683,6.881499
+1201,358902,Köln Müngersdorf Alter Militärring,50.937767,6.881095
+1202,426413,Köln Müngersdorf Alter Militärring,50.938046,6.881922
+1203,428679,Köln Müngersdorf Alter Militärring,50.937775,6.882128
+1204,184832,Köln Müngersdorf Am Lindenweg,50.950542,6.862751
+1205,89915,Köln Müngersdorf Am Lindenweg,50.951103,6.862473
+1206,315578,Köln Müngersdorf Am Serviesberg,50.941933,6.879155
+1207,102828,Köln Müngersdorf Belvederestr.,50.95027,6.867755
+1208,373157,Köln Müngersdorf Belvederestr.,50.95055,6.867755
+1209,332334,Köln Müngersdorf Böcklinstr.,50.9411,6.859149
+1210,98730,Köln Müngersdorf Böcklinstr.,50.94138,6.858044
+1211,160353,Köln Müngersdorf Flachsweg,50.945816,6.859419
+1212,302039,Köln Müngersdorf Flachsweg,50.946106,6.86109
+1213,275168,Köln Müngersdorf Herrigergasse,50.94138,6.87637
+1214,372489,Köln Müngersdorf Herrigergasse,50.94166,6.876091
+1215,213321,Köln Müngersdorf Josef-Lammerting-Allee,50.945824,6.887482
+1216,411724,Köln Müngersdorf Josef-Lammerting-Allee,50.944992,6.887204
+1217,122648,Köln Müngersdorf Kämpchensweg,50.944714,6.873028
+1218,214257,Köln Müngersdorf Kämpchensweg,50.944992,6.87275
+1219,177778,Köln Müngersdorf Leinsamenweg,50.945263,6.853032
+1220,247192,Köln Müngersdorf Leinsamenweg,50.945274,6.853319
+1221,203589,Köln Müngersdorf Rheinenergie-Stadion,50.93767,6.874618
+1222,311240,Köln Müngersdorf Rheinenergie-Stadion,50.937565,6.874888
+1223,131983,Köln Müngersdorf Roggenweg,50.947487,6.848864
+1224,389867,Köln Müngersdorf Roggenweg,50.94749,6.8511
+1225,15641,Köln Müngersdorf S-Bahn Technologiepark,50.948048,6.888318
+1226,158425,Köln Müngersdorf S-Bahn Technologiepark,50.94832,6.888039
+1227,113812,Köln Müngersdorf Schwindstr.,50.940826,6.861377
+1228,8551,Köln Müngersdorf Schwindstr.,50.940826,6.861647
+1229,30122,Köln Müngersdorf Technologiepark Köln,50.946648,6.891093
+1230,394763,Köln Müngersdorf Technologiepark Köln,50.94666,6.890258
+1231,205198,Köln Müngersdorf Vitalisstr. Süd,50.943043,6.8822
+1232,381278,Köln Müngersdorf Vitalisstr. Süd,50.943043,6.8822
+1233,215137,Köln Müngersdorf Wendelinstr.,50.939716,6.88026
+1234,229815,Köln Müngersdorf Wendelinstr.,50.940548,6.879694
+1235,34970,Köln Müngersdorf Widdersdorfer Str.,50.946384,6.885254
+1236,360389,Köln Müngersdorf Widdersdorfer Str.,50.946384,6.885254
+1237,117976,Köln Neu-Brück Europaring,50.938877,7.061647
+1238,9836,Köln Neu-Brück Europaring,50.937767,7.064154
+1239,341520,Köln Neu-Brück Ludwig-Quidde-Platz,50.931377,7.055539
+1240,152834,Köln Neu-Brück Rösrather Str.,50.928875,7.06083
+1241,263193,Köln Neu-Brück Rösrather Str.,50.928043,7.060255
+1242,434080,Köln Neu-Brück Rösrather Str.,50.929153,7.05942
+1243,337191,Köln Neu-Brück Straßburger Platz,50.93582,7.058584
+1244,415952,Köln Neu-Brück Straßburger Platz,50.934982,7.062752
+1245,27346,Köln Neuehrenfeld Butzweilerstr.,50.968597,6.916372
+1246,424159,Köln Neuehrenfeld Butzweilerstr.,50.968597,6.916372
+1247,118685,Köln Neuehrenfeld Iltisstr.,50.96444,6.911359
+1248,21415,Köln Neuehrenfeld Iltisstr.,50.96554,6.912195
+1249,381963,Köln Neuehrenfeld Iltisstr.,50.965015,6.912482
+1250,97593,Köln Neuehrenfeld Iltisstr.,50.96487,6.912321
+1251,393178,Köln Neuehrenfeld Lenauplatz,50.958817,6.918204
+1252,57158,Köln Neuehrenfeld Lenauplatz,50.958977,6.918249
+1253,217775,Köln Neuehrenfeld Methweg,50.95666,6.935533
+1254,368064,Köln Neuehrenfeld Methweg,50.95666,6.935533
+1255,168554,Köln Neuehrenfeld Nußbaumerstr.,50.957104,6.923756
+1256,399871,Köln Neuehrenfeld Nußbaumerstr.,50.957,6.923523
+1257,211571,Köln Neuehrenfeld Pettenkoferstr.,50.9561,6.933871
+1258,44963,Köln Neuehrenfeld Pettenkoferstr.,50.95582,6.933871
+1259,126072,Köln Neuehrenfeld Schadowstr.,50.953327,6.927484
+1260,284439,Köln Neuehrenfeld Schadowstr.,50.953606,6.927763
+1261,148747,Köln Neuehrenfeld Schirmerstr.,50.954437,6.929424
+1262,357381,Köln Neuehrenfeld Schirmerstr.,50.95443,6.929694
+1263,297107,Köln Neuehrenfeld Subbelrather Str./Gürtel,50.954742,6.921268
+1264,30000,Köln Neuehrenfeld Subbelrather Str./Gürtel,50.95388,6.919696
+1265,58428,Köln Neuehrenfeld Subbelrather Str./Gürtel,50.953876,6.919426
+1266,72220,Köln Neuehrenfeld Subbelrather Str./Gürtel,50.954956,6.921627
+1267,173959,Köln Neumarkt,50.93564,6.948029
+1268,180211,Köln Neumarkt,50.93587,6.947346
+1269,204530,Köln Neumarkt,50.935154,6.949133
+1270,21263,Köln Neumarkt,50.93637,6.946762
+1271,72624,Köln Neumarkt,50.935272,6.949205
+1272,87317,Köln Neumarkt,50.936295,6.948029
+1273,95948,Köln Neumarkt,50.93574,6.94802
+1274,178370,Köln Neustadt-Süd Eifelwall/Stadtarchiv,50.924923,6.936827
+1275,193301,Köln Neustadt-Süd Eifelwall/Stadtarchiv,50.92468,6.936916
+1276,306646,Köln Neustadt-Süd Eifelwall/Stadtarchiv,50.92452,6.936701
+1277,449943,Köln Neustadt-Süd Eifelwall/Stadtarchiv,50.92535,6.937051
+1278,161795,Köln Niehl,50.994717,6.956086
+1279,181050,Köln Niehl,50.994495,6.955125
+1280,192697,Köln Niehl,50.995613,6.955467
+1281,314038,Köln Niehl,50.995296,6.955583
+1282,328352,Köln Niehl,50.994488,6.955197
+1283,385312,Köln Niehl,50.99471,6.955817
+1284,327648,Köln Niehl Betriebshof Nord,50.97471,6.973029
+1285,368990,Köln Niehl Betriebshof Nord,50.974983,6.973325
+1286,152310,Köln Niehl Drosselweg,50.97693,6.960821
+1287,7283,Köln Niehl Drosselweg,50.976936,6.960533
+1288,188004,Köln Niehl Fordwerke Mitte,51.011635,6.95535
+1289,203836,Köln Niehl Fordwerke Mitte,51.011955,6.955467
+1290,179189,Köln Niehl Fordwerke Nord,51.0181,6.955503
+1291,357626,Köln Niehl Fordwerke Nord,51.016872,6.95535
+1292,417677,Köln Niehl Fordwerke Süd,51.00584,6.955458
+1293,439326,Köln Niehl Fordwerke Süd,51.005547,6.955341
+1294,159765,Köln Niehl Friedrich-Karl-Str.,50.974438,6.959428
+1295,380294,Köln Niehl Friedrich-Karl-Str.,50.974712,6.959707
+1296,184523,Köln Niehl Geestemünder Str.,51.002693,6.954398
+1297,190144,Köln Niehl Geestemünder Str.,51.002228,6.955377
+1298,223992,Köln Niehl Geestemünder Str.,51.002495,6.954452
+1299,97468,Köln Niehl Geestemünder Str.,51.001827,6.955251
+1300,221314,Köln Niehl Graditzer Str.,50.98249,6.960533
+1301,234582,Köln Niehl Graditzer Str.,50.98193,6.960533
+1302,64068,Köln Niehl Halfengasse,50.992214,6.958584
+1303,190697,Köln Niehl Merkenicher Str.,50.98915,6.961369
+1304,295429,Köln Niehl Merkenicher Str.,50.98999,6.961386
+1305,293342,Köln Niehl Nesselrodestr.,50.9768,6.968905
+1306,45735,Köln Niehl Nesselrodestr.,50.977196,6.968869
+1307,187893,Köln Niehl Neven Dumont Haus,50.97415,6.969705
+1308,277875,Köln Niehl Neven Dumont Haus,50.97388,6.968869
+1309,32946,Köln Niehl Niehler Damm,50.994156,6.960821
+1310,46704,Köln Niehl Niehler Kirchweg,50.97388,6.954703
+1311,67895,Köln Niehl Niehler Kirchweg,50.97416,6.954982
+1312,353686,Köln Niehl Pasteurstr.,50.971382,6.976649
+1313,90198,Köln Niehl Pasteurstr.,50.971375,6.976918
+1314,101048,Köln Niehl Sebastianstr.,50.984997,6.961081
+1315,179303,Köln Niehl Sebastianstr.,50.985115,6.961521
+1316,289202,Köln Niehl Sebastianstr.,50.984707,6.961917
+1317,306320,Köln Niehl Sebastianstr.,50.984707,6.960803
+1318,251839,Köln Niehl Weidenpescher Str.,50.979717,6.963309
+1319,324628,Köln Niehl Weidenpescher Str.,50.979435,6.963318
+1320,410377,Köln Nippes Beuelsweg,50.962204,6.958593
+1321,19592,Köln Nippes Beuelsweg Nord,50.963043,6.958862
+1322,101378,Köln Nippes Cranachstr.,50.961098,6.954694
+1323,376763,Köln Nippes Cranachstr.,50.96111,6.953868
+1324,420275,Köln Nippes Cranachstr.,50.961098,6.954694
+1325,220665,Köln Nippes Florastr.,50.96499,6.953598
+1326,255052,Köln Nippes Florastr.,50.96471,6.953589
+1327,320403,Köln Nippes Florastr.,50.96418,6.953715
+1328,82835,Köln Nippes Florastr.,50.964706,6.953733
+1329,147523,Köln Nippes Kretzerstr.,50.96694,6.962761
+1330,87629,Köln Nippes Kretzerstr.,50.96666,6.963866
+1331,122584,Köln Nippes Kuenstr.,50.9611,6.963039
+1332,229501,Köln Nippes Leipziger Platz,50.966373,6.955529
+1333,329691,Köln Nippes Leipziger Platz,50.966373,6.955817
+1334,179153,Köln Nippes Lohsestr.,50.957855,6.955341
+1335,333956,Köln Nippes Lohsestr.,50.958374,6.955224
+1336,161495,Köln Nippes Merheimer Platz,50.957767,6.949708
+1337,251642,Köln Nippes Merheimer Platz,50.957493,6.949439
+1338,140478,Köln Nippes Neusser Str./Gürtel,50.972767,6.951092
+1339,187182,Köln Nippes Neusser Str./Gürtel,50.972248,6.950984
+1340,21978,Köln Nippes Neusser Str./Gürtel,50.972317,6.950903
+1341,288400,Köln Nippes Neusser Str./Gürtel,50.972054,6.951424
+1342,33230,Köln Nippes Neusser Str./Gürtel,50.972767,6.951092
+1343,442686,Köln Nippes Neusser Str./Gürtel,50.972652,6.951325
+1344,58135,Köln Nippes Neusser Str./Gürtel,50.972485,6.95137
+1345,99083,Köln Nippes Neusser Str./Gürtel,50.972485,6.95137
+1346,232750,Köln Nippes Niehler Str.,50.967484,6.959428
+1347,451745,Köln Nippes Niehler Str.,50.9672,6.958862
+1348,270964,Köln Nippes Nordstr.,50.967484,6.953032
+1349,454,Köln Nippes Nordstr.,50.967213,6.953032
+1350,237243,Köln Nippes S-Bahn,50.958324,6.941094
+1351,84178,Köln Nippes S-Bahn,50.958317,6.941363
+1352,178910,Köln Nippes Schneider-Clauss-Str.,50.961124,6.958979
+1353,426760,Köln Nippes Schneider-Clauss-Str.,50.9611,6.958871
+1354,170123,Köln Nippes Sechzigstr.,50.95916,6.944426
+1355,401026,Köln Nippes Sechzigstr.,50.958046,6.944426
+1356,221861,Köln Nippes St. Vinzenz-Hospital,50.965267,6.946367
+1357,88351,Köln Nippes St. Vinzenz-Hospital,50.96526,6.946636
+1358,191599,Köln Nippes Wilhelmstr.,50.962494,6.950256
+1359,290907,Köln Nippes Wilhelmstr.,50.961098,6.952475
+1360,340621,Köln Nippes Zonser Str.,50.95944,6.949978
+1361,67217,Köln Nippes Zonser Str.,50.958603,6.949169
+1362,51687,Köln Ossendorf,50.977207,6.90358
+1363,59861,Köln Ossendorf,50.97693,6.904415
+1364,149759,Köln Ossendorf Alter Flughafen Butzweilerhof,50.977524,6.897965
+1365,179815,Köln Ossendorf Alter Flughafen Butzweilerhof,50.97749,6.89748
+1366,252650,Köln Ossendorf Alter Flughafen Butzweilerhof,50.97749,6.89775
+1367,339803,Köln Ossendorf Alter Flughafen Butzweilerhof,50.97749,6.898648
+1368,144477,Köln Ossendorf Am Coloneum,50.98888,6.89165
+1369,92407,Köln Ossendorf Am Coloneum,50.98832,6.89165
+1370,338681,Köln Ossendorf Bleriotstr.,50.97415,6.890806
+1371,94767,Köln Ossendorf Bleriotstr.,50.97388,6.890815
+1372,201346,Köln Ossendorf Franziska-Anneke-Str.,50.971653,6.914135
+1373,383904,Köln Ossendorf Franziska-Anneke-Str.,50.972214,6.913596
+1374,185194,Köln Ossendorf Gunther-Plüschow-Str.,50.979713,6.884419
+1375,294414,Köln Ossendorf Gunther-Plüschow-Str.,50.979713,6.884419
+1376,130300,Köln Ossendorf Hugo-Eckener-Str.,50.977486,6.892198
+1377,38001,Köln Ossendorf Hugo-Eckener-Str.,50.977478,6.891641
+1378,449684,Köln Ossendorf Hugo-Eckener-Str.,50.976658,6.890815
+1379,92685,Köln Ossendorf Hugo-Eckener-Str.,50.976658,6.890815
+1380,342357,Köln Ossendorf Ikea am Butzweilerhof,50.982082,6.894327
+1381,455700,Köln Ossendorf Ikea am Butzweilerhof,50.981693,6.894552
+1382,21598,Köln Ossendorf Margaretastr.,50.96836,6.905493
+1383,426313,Köln Ossendorf Margaretastr.,50.96836,6.905448
+1384,171679,Köln Ossendorf Mathias-Brüggen-Str.,50.982765,6.884697
+1385,4634,Köln Ossendorf Mathias-Brüggen-Str.,50.98276,6.884976
+1386,152216,Köln Ossendorf Mühlenweg,50.970543,6.890815
+1387,182956,Köln Ossendorf Mühlenweg,50.96916,6.893878
+1388,124247,Köln Ossendorf Rektor-Klein-Str.,50.974174,6.904775
+1389,425513,Köln Ossendorf Rektor-Klein-Str.,50.973324,6.904739
+1390,110947,Köln Ossendorf Sparkasse am Butzweilerhof,50.984985,6.886925
+1391,141913,Köln Ossendorf Sparkasse am Butzweilerhof,50.984802,6.888228
+1392,212748,Köln Ossendorf Sparkasse am Butzweilerhof,50.98465,6.888291
+1393,264365,Köln Ossendorf Sparkasse am Butzweilerhof,50.984715,6.887195
+1394,150276,Köln Ossendorf Von-Hünefeld-Str.,50.977215,6.885254
+1395,260350,Köln Ossendorf Von-Hünefeld-Str.,50.977215,6.885254
+1396,190790,Köln Ostheim,50.9286,7.04192
+1397,331777,Köln Ostheim,50.928875,7.041642
+1398,332525,Köln Ostheim,50.929253,7.041867
+1399,41735,Köln Ostheim,50.929153,7.042163
+1400,421888,Köln Ostheim,50.928596,7.042208
+1401,430976,Köln Ostheim,50.928772,7.042208
+1402,43748,Köln Ostheim,50.928772,7.042208
+1403,6144,Köln Ostheim,50.9286,7.04192
+1404,20576,Köln Ostheim Alter Deutzer Postweg,50.919106,7.049933
+1405,441095,Köln Ostheim Alter Deutzer Postweg,50.919155,7.0497
+1406,14630,Köln Ostheim Autobahn (Bus),50.928596,7.055251
+1407,62406,Köln Ostheim Autobahn (Bus),50.9286,7.055808
+1408,162860,Köln Ostheim Autobahn (Stadtbahn),50.92724,7.053634
+1409,372462,Köln Ostheim Autobahn (Stadtbahn),50.927044,7.054093
+1410,114605,Köln Ostheim Bertha-Benz-Karree,50.925545,7.035812
+1411,46269,Köln Ostheim Bertha-Benz-Karree,50.925545,7.035812
+1412,357791,Köln Ostheim Buchheimer Weg,50.933598,7.037195
+1413,393367,Köln Ostheim Buchheimer Weg,50.933872,7.037204
+1414,167667,Köln Ostheim Hans-Offermann-Str.,50.925545,7.031644
+1415,221731,Köln Ostheim Hans-Offermann-Str.,50.924995,7.032201
+1416,122308,Köln Ostheim Kleingartenanlage Ostheim,50.92194,7.03442
+1417,330916,Köln Ostheim Kleingartenanlage Ostheim,50.92194,7.03442
+1418,149238,Köln Ostheim Saarbrücker Str.,50.92499,7.044696
+1419,163209,Köln Ostheim Saarbrücker Str.,50.924156,7.045253
+1420,308114,Köln Ostheim Servatiusstr.,50.92971,7.046367
+1421,33742,Köln Ostheim Servatiusstr.,50.92943,7.04776
+1422,175299,Köln Pesch Donatusstr.,51.006657,6.871645
+1423,422683,Köln Pesch Donatusstr.,51.006657,6.871645
+1424,104705,Köln Pesch Escher See,51.00693,6.868869
+1425,148257,Köln Pesch Escher See,51.00666,6.86886
+1426,393816,Köln Pesch Gewerbegebiet Pesch,51.003876,6.873316
+1427,82001,Köln Pesch Gewerbegebiet Pesch,51.003326,6.873585
+1428,16602,Köln Pesch Gewerbegebiet Pesch-Nord,51.004433,6.874421
+1429,241134,Köln Pesch Gewerbegebiet Pesch-Nord,51.004433,6.874421
+1430,363085,Köln Pesch Heinering,50.9961,6.871932
+1431,425817,Köln Pesch Heinering,50.99554,6.872202
+1432,147647,Köln Pesch Johannesstraße,50.998604,6.877475
+1433,303457,Köln Pesch Kapellenweg,51.0011,6.876648
+1434,273732,Köln Pesch Mozartstraße,51.00082,6.874142
+1435,325502,Köln Pesch Otto-Müller-Str.,50.999985,6.878867
+1436,88077,Köln Pesch Otto-Müller-Str.,51.000546,6.878589
+1437,208374,Köln Pesch Pescher Weg,50.999714,6.881922
+1438,252656,Köln Pesch Pescher Weg,50.99943,6.882209
+1439,199419,Köln Pesch Schulstr.,50.998882,6.869417
+1440,234221,Köln Pesch Schulstr.,50.99916,6.869417
+1441,261046,Köln Pesch Schulstr.,50.998882,6.869417
+1442,173565,Köln Poll Alfred-Schütte-Allee,50.91165,6.984141
+1443,861,Köln Poll Alfred-Schütte-Allee,50.91138,6.984707
+1444,457062,Köln Poll Auf Den Steinen,50.908375,6.989755
+1445,87560,Köln Poll Auf Den Steinen,50.908375,6.989755
+1446,221195,Köln Poll Baumschulenweg,50.91483,7.000203
+1447,366584,Köln Poll Baumschulenweg,50.914963,6.999673
+1448,187333,Köln Poll Hauptstr.,50.91165,6.989701
+1449,215076,Köln Poll Hauptstr.,50.9111,6.989423
+1450,297712,Köln Poll Im Wasserfeld,50.911102,6.993313
+1451,278370,Köln Poll In Der Kreuzau,50.90729,6.994058
+1452,34727,Köln Poll In Der Kreuzau,50.90729,6.994058
+1453,264737,Köln Poll Poller Holzweg,50.91805,6.996645
+1454,347331,Köln Poll Poller Holzweg,50.91805,6.996645
+1455,295983,Köln Poll Raiffeisenstr.,50.920074,6.985928
+1456,340365,Köln Poll Raiffeisenstr.,50.919933,6.985964
+1457,373083,Köln Poll Salmstr.,50.9161,6.994418
+1458,418907,Köln Poll Salmstr.,50.916374,6.994705
+1459,424910,Köln Poll Salmstr.,50.91594,6.99272
+1460,85230,Köln Poll Salmstr.,50.91595,6.992414
+1461,156837,Köln Poll Schüttewerk,50.913048,6.983036
+1462,936,Köln Poll Schüttewerk,50.91332,6.983036
+1463,332524,Köln Poll Siegburger Str.,50.91499,6.992756
+1464,376589,Köln Poll Siegburger Str.,50.913883,6.996088
+1465,236772,Köln Poll Taubenholzweg,50.921104,6.998864
+1466,302788,Köln Poll Taubenholzweg,50.92166,6.999143
+1467,165205,Köln Poll Zündorfer Weg,50.910267,6.998316
+1468,155361,Köln Porz Bf Porz,50.88289,7.065438
+1469,359707,Köln Porz Bf Porz,50.88275,7.065582
+1470,188527,Köln Porz Celsiusstr.,50.88193,7.068591
+1471,99328,Köln Porz Celsiusstr.,50.881935,7.068304
+1472,273316,Köln Porz Glashüttenstr.,50.889435,7.059977
+1473,439416,Köln Porz Glashüttenstr.,50.888325,7.060803
+1474,4993,Köln Porz Humboldtstr.,50.890823,7.069418
+1475,597,Köln Porz Humboldtstr.,50.891655,7.069975
+1476,136054,Köln Porz Klingerstr.,50.883324,7.062483
+1477,317211,Köln Porz Klingerstr.,50.883602,7.062474
+1478,187496,Köln Porz Kopernikusschule,50.887486,7.070532
+1479,450348,Köln Porz Kopernikusschule,50.887486,7.070532
+1480,205863,Köln Porz Markt,50.884434,7.059141
+1481,241504,Köln Porz Markt,50.884655,7.059249
+1482,257025,Köln Porz Markt,50.884644,7.059087
+1483,375293,Köln Porz Markt,50.884987,7.058872
+1484,111443,Köln Porz Siemensstr.,50.88554,7.070819
+1485,296274,Köln Porz Siemensstr.,50.88526,7.07081
+1486,116559,Köln Porz Steinstr.,50.892,7.055835
+1487,159754,Köln Porz Steinstr.,50.892014,7.056356
+1488,39546,Köln Porz Steinstr.,50.891552,7.056509
+1489,71496,Köln Porz Steinstr.,50.89146,7.05615
+1490,456305,Köln Porz Voltastr.,50.88304,7.070819
+1491,81874,Köln Porz Voltastr.,50.883045,7.071089
+1492,30056,Köln Porz-Langel Kirche,50.84471,7.007479
+1493,61245,Köln Porz-Langel Kirche,50.84443,7.00747
+1494,107400,Köln Porz-Langel Mühle,50.852493,7.018025
+1495,24246,Köln Porz-Langel Mühle,50.85276,7.018034
+1496,34478,Köln Porz-Langel Nord,50.856094,7.025266
+1497,448808,Köln Porz-Langel Nord,50.855824,7.024978
+1498,255554,Köln Porz-Langel Rheinbergstr.,50.850544,7.013031
+1499,360451,Köln Porz-Langel Rheinbergstr.,50.85027,7.012204
+1500,146636,Köln Porz-Langel Süd,50.8411,7.006922
+1501,417136,Köln Porz-Langel Süd,50.841377,7.006922
+1502,259562,Köln Porz-Langel Zur Eiche,50.848328,7.009419
+1503,364251,Köln Porz-Langel Zur Eiche,50.848602,7.009707
+1504,31860,Köln Poststr.,50.931644,6.950104
+1505,436634,Köln Poststr.,50.931435,6.950005
+1506,350990,Köln Raderberg Rheinsteinstr.,50.906937,6.959419
+1507,433168,Köln Raderberg Rheinsteinstr.,50.90721,6.959707
+1508,252305,Köln Raderberg Volksgarten,50.918324,6.950804
+1509,343247,Köln Raderberg Volksgarten,50.918324,6.950804
+1510,225500,Köln Raderberg Zugweg,50.916653,6.956095
+1511,38665,Köln Raderberg Zugweg,50.916653,6.955808
+1512,110755,Köln Raderthal Brühler Str./Gürtel,50.903603,6.957757
+1513,147180,Köln Raderthal Brühler Str./Gürtel,50.904713,6.957479
+1514,177684,Köln Raderthal Brühler Str./Gürtel,50.903603,6.958045
+1515,30144,Köln Raderthal Brühler Str./Gürtel,50.904434,6.957479
+1516,220389,Köln Raderthal Heeresamt,50.89749,6.951092
+1517,318890,Köln Raderthal Heeresamt,50.897213,6.95137
+1518,238007,Köln Raderthal Leichweg,50.903877,6.948864
+1519,295705,Köln Raderthal Leichweg,50.904152,6.948864
+1520,130694,Köln Raderthal Liblarer Str.,50.900272,6.952197
+1521,249380,Köln Raderthal Liblarer Str.,50.900272,6.951092
+1522,395961,Köln Raderthal Wasserwerk,50.888325,6.966372
+1523,63135,Köln Raderthal Wasserwerk,50.8886,6.966372
+1524,252162,Köln Rath/Heumar Alte Forststr.,50.91527,7.091094
+1525,50673,Köln Rath/Heumar Alte Forststr.,50.915264,7.090807
+1526,106360,Köln Rath/Heumar Baldurstr.,50.925262,7.095253
+1527,49883,Köln Rath/Heumar Baldurstr.,50.926384,7.094984
+1528,328917,Köln Rath/Heumar Eiler Str.,50.91693,7.081365
+1529,57457,Köln Rath/Heumar Eiler Str.,50.91721,7.081644
+1530,316232,Köln Rath/Heumar Königsforst,50.91977,7.097472
+1531,371217,Köln Rath/Heumar Königsforst,50.919937,7.09608
+1532,382871,Köln Rath/Heumar Königsforst,50.919827,7.096385
+1533,75117,Köln Rath/Heumar Königsforst,50.919773,7.097463
+1534,131128,Köln Rath/Heumar Porzer Str.,50.921696,7.074673
+1535,244416,Köln Rath/Heumar Porzer Str.,50.921627,7.07541
+1536,273285,Köln Rath/Heumar Rath-Heumar,50.920444,7.082336
+1537,295535,Köln Rath/Heumar Rath-Heumar,50.92046,7.080431
+1538,300102,Köln Rath/Heumar Röttgensweg,50.920322,7.090951
+1539,407069,Köln Rath/Heumar Röttgensweg,50.920284,7.089953
+1540,182268,Köln Rath/Heumar Schloß Röttgen,50.914707,7.081087
+1541,422027,Köln Rath/Heumar Schloß Röttgen,50.914433,7.081365
+1542,276937,Köln Rath/Heumar Steinweg,50.92372,7.066355
+1543,391932,Köln Rath/Heumar Steinweg,50.92358,7.067298
+1544,107493,Köln Rathaus,50.938442,6.95968
+1545,87451,Köln Rathaus,50.938446,6.959581
+1546,183631,Köln Reichenspergerplatz,50.954308,6.965088
+1547,19912,Köln Reichenspergerplatz,50.95426,6.96471
+1548,320544,Köln Reichenspergerplatz,50.95388,6.964423
+1549,450407,Köln Reichenspergerplatz,50.95416,6.963309
+1550,459207,Köln Reichenspergerplatz,50.95415,6.964144
+1551,340162,Köln Rheinauhafen,50.924713,6.965258
+1552,414773,Köln Rheinauhafen,50.924713,6.965528
+1553,118064,Köln Rheinkassel,51.039158,6.932766
+1554,202910,Köln Rheinkassel,51.039433,6.932757
+1555,102325,Köln Rheinkassel Edsel-Ford-Str.,51.029984,6.923028
+1556,417610,Köln Rheinkassel Edsel-Ford-Str.,51.03027,6.92248
+1557,193446,Köln Rheinkassel Feldkasseler Weg,51.034782,6.922867
+1558,324245,Köln Rheinkassel Feldkasseler Weg,51.034893,6.92328
+1559,425129,Köln Rheinkassel Feldkasseler Weg,51.034546,6.923307
+1560,92661,Köln Rheinkassel Marconistr.,51.033882,6.928311
+1561,338563,Köln Rheinkassel Marconistr. Ost,51.035545,6.929137
+1562,381586,Köln Rheinkassel Morsestr.,51.037766,6.92248
+1563,239252,Köln Rheinkassel Oranjehofstr.,51.025272,6.939423
+1564,86639,Köln Rheinkassel Oranjehofstr.,51.025265,6.939692
+1565,198339,Köln Rheinkassel Rheinlandstr.,51.026653,6.928032
+1566,198466,Köln Rheinkassel Rheinlandstr.,51.026653,6.928032
+1567,382937,Köln Rheinkassel Robert-Bosch-Str.,51.03138,6.920531
+1568,72860,Köln Rheinkassel Robert-Bosch-Str.,51.031094,6.921097
+1569,123305,Köln Riehl Amsterdamer Str./Gürtel,50.9711,6.96922
+1570,138900,Köln Riehl Amsterdamer Str./Gürtel,50.97054,6.968959
+1571,148156,Köln Riehl Amsterdamer Str./Gürtel,50.970543,6.968869
+1572,185227,Köln Riehl Amsterdamer Str./Gürtel,50.970543,6.969139
+1573,315764,Köln Riehl Amsterdamer Str./Gürtel,50.9709,6.968744
+1574,35333,Köln Riehl Amsterdamer Str./Gürtel,50.97081,6.969274
+1575,21630,Köln Riehl Barbarastr.,50.969154,6.978598
+1576,249367,Köln Riehl Barbarastr.,50.968876,6.97832
+1577,278980,Köln Riehl Bodinusstr.,50.96138,6.973864
+1578,435629,Köln Riehl Bodinusstr.,50.961098,6.973586
+1579,278988,Köln Riehl Boltensternstr.,50.962166,6.980287
+1580,313314,Köln Riehl Boltensternstr.,50.962296,6.980817
+1581,202648,Köln Riehl Kinderkrankenhaus,50.963043,6.968304
+1582,362249,Köln Riehl Kinderkrankenhaus,50.963314,6.968537
+1583,348564,Köln Riehl Riehler Gürtel,50.964157,6.97637
+1584,375982,Köln Riehl Riehler Gürtel,50.96499,6.97664
+1585,240276,Köln Riehl Seniorenzentrum Riehl,50.967766,6.978868
+1586,248062,Köln Riehl Seniorenzentrum Riehl,50.96666,6.979982
+1587,310604,Köln Riehl Slabystr.,50.965607,6.987554
+1588,357107,Köln Riehl Slabystr.,50.96758,6.988192
+1589,407499,Köln Riehl Slabystr.,50.96608,6.987869
+1590,44079,Köln Riehl Slabystr.,50.96707,6.987986
+1591,355224,Köln Riehl Sprengelstr.,50.968044,6.969148
+1592,3604,Köln Riehl Sprengelstr.,50.968876,6.968869
+1593,14502,Köln Riehl Xantener Str.,50.966373,6.968869
+1594,264171,Köln Riehl Xantener Str.,50.9661,6.967756
+1595,231620,Köln Riehl Zoo/Flora,50.957832,6.974107
+1596,290606,Köln Riehl Zoo/Flora,50.957813,6.974322
+1597,299073,Köln Riehl Zoo/Flora,50.958324,6.971645
+1598,56190,Köln Riehl Zoo/Flora,50.95833,6.971367
+1599,228169,Köln Rodenkirchen Adolf-Menzel-Str.,50.879993,7.016085
+1600,455866,Köln Rodenkirchen Adolf-Menzel-Str.,50.88027,7.015249
+1601,163638,Köln Rodenkirchen Am Neuen Forst,50.87554,6.994975
+1602,355439,Köln Rodenkirchen Am Neuen Forst,50.875263,6.994696
+1603,118893,Köln Rodenkirchen Bf,50.890778,6.990151
+1604,137190,Köln Rodenkirchen Bf,50.891224,6.990492
+1605,220963,Köln Rodenkirchen Bf,50.89071,6.990106
+1606,233576,Köln Rodenkirchen Bf,50.891098,6.990258
+1607,251187,Köln Rodenkirchen Bf,50.89086,6.990169
+1608,396413,Köln Rodenkirchen Bf,50.891098,6.990258
+1609,447355,Köln Rodenkirchen Bf,50.891098,6.990258
+1610,451849,Köln Rodenkirchen Bf,50.891098,6.990258
+1611,188859,Köln Rodenkirchen Bismarckstr.,50.89055,7.008314
+1612,196680,Köln Rodenkirchen Eygelshovener Str.,50.878235,7.011063
+1613,400658,Köln Rodenkirchen Eygelshovener Str.,50.87825,7.011117
+1614,117626,Köln Rodenkirchen Frankstr.,50.89471,6.989423
+1615,70819,Köln Rodenkirchen Frankstr.,50.894432,6.989701
+1616,248433,Köln Rodenkirchen Friedhof Rodenkirchen,50.87919,7.002898
+1617,399593,Köln Rodenkirchen Friedhof Rodenkirchen,50.879204,7.00297
+1618,190062,Köln Rodenkirchen Grimmelshausenstr.,50.89027,7.001927
+1619,93679,Köln Rodenkirchen Grimmelshausenstr.,50.890266,7.002197
+1620,253511,Köln Rodenkirchen Grüngürtelstr.,50.884712,7.004703
+1621,288754,Köln Rodenkirchen Grüngürtelstr.,50.88443,7.005808
+1622,227655,Köln Rodenkirchen Konrad-Adenauer-Str.,50.89027,6.98609
+1623,335441,Köln Rodenkirchen Konrad-Adenauer-Str.,50.890266,6.985812
+1624,306990,Köln Rodenkirchen Maternusplatz,50.892494,6.993313
+1625,32000,Köln Rodenkirchen Maternusplatz,50.892494,6.993313
+1626,206174,Köln Rodenkirchen Michaelshoven,50.875736,6.999134
+1627,84194,Köln Rodenkirchen Michaelshoven,50.87612,6.999062
+1628,338276,Köln Rodenkirchen Rathaus,50.891937,6.996358
+1629,48546,Köln Rodenkirchen Rathaus,50.891376,6.996645
+1630,141348,Köln Rodenkirchen Richard-Wagner-Str.,50.88193,7.011917
+1631,448354,Köln Rodenkirchen Richard-Wagner-Str.,50.882492,7.010542
+1632,157536,Köln Rodenkirchen Rotdornstr.,50.885773,6.997831
+1633,357467,Köln Rodenkirchen Rotdornstr.,50.88574,6.99775
+1634,204981,Köln Rodenkirchen Schillingsrotter Str.,50.884434,6.98971
+1635,7661,Köln Rodenkirchen Schillingsrotter Str.,50.884155,6.989414
+1636,210168,Köln Rodenkirchen Schwabenstr.,50.886932,6.989701
+1637,297413,Köln Rodenkirchen Schwabenstr.,50.88637,6.989701
+1638,102329,Köln Rodenkirchen Siegfriedstr.,50.88833,6.999143
+1639,27538,Köln Rodenkirchen Siegfriedstr.,50.88833,7.000266
+1640,397228,Köln Rodenkirchen Siegfriedstr.,50.888046,6.998595
+1641,454015,Köln Rodenkirchen Siegfriedstr.,50.88833,7.000266
+1642,340435,Köln Rodenkirchen Siegstr. (Stadtbahn),50.88366,6.994355
+1643,350610,Köln Rodenkirchen Siegstr. (Stadtbahn),50.88297,6.994939
+1644,428229,Köln Rodenkirchen St.-Joseph-Kirche,50.8861,7.002763
+1645,93442,Köln Rodenkirchen St.-Joseph-Kirche,50.8861,7.002763
+1646,158194,Köln Rodenkirchen Sürther Feldallee,50.873363,7.010587
+1647,249097,Köln Rodenkirchen Sürther Feldallee,50.873363,7.010587
+1648,146025,Köln Rodenkirchen Uferstr.,50.89166,7.009698
+1649,297967,Köln Rodenkirchen Uferstr.,50.89166,7.009698
+1650,201936,Köln Roggendorf Baptiststr.,51.047485,6.849708
+1651,411597,Köln Roggendorf Baptiststr.,51.046654,6.849151
+1652,263868,Köln Roggendorf Further Str.,51.043324,6.847202
+1653,435159,Köln Roggendorf Further Str.,51.043324,6.847202
+1654,11558,Köln Roggendorf Im Wichemshof,51.04332,6.850256
+1655,447169,Köln Roggendorf Walter-Dodde-Weg,51.04877,6.85128
+1656,58657,Köln Roggendorf Walter-Dodde-Weg,51.0486,6.851091
+1657,160441,Köln Rondorf,50.873882,6.954973
+1658,171095,Köln Rondorf,50.873596,6.954425
+1659,183386,Köln Rondorf Am Steinneuerhof,50.876373,6.938866
+1660,329267,Köln Rondorf Am Steinneuerhof,50.87665,6.938039
+1661,288220,Köln Rondorf Bödinger Str.,50.87416,6.950813
+1662,315005,Köln Rondorf Bödinger Str.,50.87443,6.950535
+1663,132454,Köln Rondorf Friedhof Steinneuerhof,50.873325,6.937204
+1664,430019,Köln Rondorf Habichtstr.,50.875824,6.958036
+1665,459292,Köln Rondorf Habichtstr.,50.87582,6.957757
+1666,338286,Köln Rondorf Westerwaldstr.,50.872215,6.946924
+1667,405622,Köln Rondorf Westerwaldstr.,50.871937,6.946654
+1668,212407,Köln Roonstr.,50.93304,6.933862
+1669,36057,Köln Roonstr.,50.932487,6.933584
+1670,429933,Köln Rosenstr.,50.9261,6.958584
+1671,83409,Köln Rosenstr.,50.926933,6.961099
+1672,226809,Köln Rothgerberbach (Poststr.),50.930786,6.950894
+1673,368568,Köln Rothgerberbach (Poststr.),50.930195,6.947966
+1674,121678,Köln Rudolfplatz,50.935272,6.938309
+1675,144241,Köln Rudolfplatz,50.935757,6.940321
+1676,208251,Köln Rudolfplatz,50.935272,6.938309
+1677,289210,Köln Rudolfplatz,50.936024,6.93892
+1678,323258,Köln Rudolfplatz,50.93663,6.939108
+1679,35646,Köln Rudolfplatz,50.936222,6.939926
+1680,37243,Köln Schokoladenmuseum,50.93249,6.962761
+1681,416923,Köln Schokoladenmuseum,50.932487,6.96303
+1682,212354,Köln Seeberg,51.01832,6.917746
+1683,75245,Köln Seeberg,51.01832,6.917746
+1684,243632,Köln Seeberg Am Hetzepetsch,51.013878,6.912204
+1685,418057,Köln Seeberg Am Hetzepetsch,51.014156,6.912752
+1686,19352,Köln Seeberg Herstattallee,51.017212,6.901927
+1687,275444,Köln Seeberg Herstattallee,51.01666,6.903867
+1688,258273,Köln Severinskirche,50.923325,6.960255
+1689,324006,Köln Severinskirche,50.923325,6.96136
+1690,157008,Köln Severinstr.,50.929516,6.957272
+1691,166511,Köln Severinstr.,50.92939,6.957137
+1692,209155,Köln Severinstr.,50.929054,6.956266
+1693,294526,Köln Severinstr.,50.929447,6.95729
+1694,337921,Köln Severinstr.,50.92947,6.95729
+1695,343218,Köln Severinstr.,50.92919,6.957245
+1696,398165,Köln Severinstr.,50.929615,6.957111
+1697,410255,Köln Severinstr.,50.929096,6.956949
+1698,47785,Köln Severinstr.,50.929356,6.957146
+1699,137051,Köln St. Vincenz-Haus,50.948574,6.964944
+1700,78269,Köln St. Vincenz-Haus,50.949055,6.965609
+1701,397895,Köln Stammheim Bonhoefferstr.,50.98582,6.992208
+1702,86724,Köln Stammheim Bonhoefferstr.,50.98582,6.992208
+1703,331568,Köln Stammheim Egonstr.,50.99082,6.985812
+1704,67037,Köln Stammheim Egonstr.,50.990547,6.986099
+1705,208796,Köln Stammheim Friedhof Stammheim,50.987484,6.991929
+1706,394949,Köln Stammheim Friedhof Stammheim,50.988045,6.990815
+1707,386646,Köln Stammheim Gisbertstr.,50.987217,6.99192
+1708,346931,Köln Stammheim Moses-Hess-Str.,50.986652,6.9997
+1709,34895,Köln Stammheim Moses-Hess-Str.,50.985268,6.99943
+1710,317399,Köln Stammheim S-Bahn,50.98984,7.000616
+1711,351505,Köln Stammheim S-Bahn,50.989773,7.000724
+1712,25458,Köln Stammheim Stammheimer Ring,50.9886,6.999143
+1713,289871,Köln Stammheim Stammheimer Ring,50.98888,6.997193
+1714,39391,Köln Stammheim Stammheimer Ring,50.98888,6.997193
+1715,67582,Köln Stammheim Stammheimer Ring,50.989254,6.998361
+1716,146407,Köln Steinstraße,50.895557,7.057173
+1717,179881,Köln Sülz Arnulfstr.,50.918324,6.93026
+1718,408524,Köln Sülz Arnulfstr.,50.91803,6.929901
+1719,149665,Köln Sülz Berrenrather Str./Gürtel,50.914265,6.921016
+1720,220002,Köln Sülz Berrenrather Str./Gürtel,50.91478,6.920244
+1721,273132,Köln Sülz Berrenrather Str./Gürtel,50.91486,6.921753
+1722,335522,Köln Sülz Berrenrather Str./Gürtel,50.914265,6.921016
+1723,388433,Köln Sülz Berrenrather Str./Gürtel,50.914963,6.921591
+1724,80472,Köln Sülz Berrenrather Str./Gürtel,50.914665,6.920235
+1725,407252,Köln Sülz Euskirchener Str.,50.91658,6.917657
+1726,96797,Köln Sülz Euskirchener Str.,50.91709,6.916983
+1727,137839,Köln Sülz Gerolsteiner Str,50.917027,6.923792
+1728,49121,Köln Sülz Gerolsteiner Str,50.91705,6.923603
+1729,192302,Köln Sülz Hermeskeiler Platz,50.91706,6.907119
+1730,459276,Köln Sülz Hermeskeiler Platz,50.917164,6.907344
+1731,265593,Köln Sülz Justizzentrum,50.921932,6.938039
+1732,349681,Köln Sülz Justizzentrum,50.922215,6.937761
+1733,104085,Köln Sülz Konradstr.,50.92045,6.927772
+1734,361011,Köln Sülz Konradstr.,50.92037,6.927879
+1735,335172,Köln Sülz Lindenburg (Universitätskliniken),50.922424,6.92213
+1736,7517,Köln Sülz Lindenburg (Universitätskliniken),50.92212,6.921322
+1737,314075,Köln Sülz Mommsenstr.,50.919094,6.910183
+1738,57963,Köln Sülz Mommsenstr.,50.919113,6.910272
+1739,407035,Köln Sülz Rheinenergie-Sportpark,50.904865,6.909131
+1740,419572,Köln Sülz Rheinenergie-Sportpark,50.905106,6.909563
+1741,139096,Köln Sülz Scherfginstr.,50.90757,6.913821
+1742,40222,Köln Sülz Scherfginstr.,50.90742,6.913416
+1743,152461,Köln Sülz Universität,50.92564,6.930493
+1744,17029,Köln Sülz Universität,50.9258,6.930934
+1745,183835,Köln Sülz Universität,50.926033,6.930799
+1746,237439,Köln Sülz Universität,50.9261,6.929415
+1747,260675,Köln Sülz Universität,50.925262,6.929424
+1748,371944,Köln Sülz Universität,50.925858,6.930979
+1749,453517,Köln Sülz Universität,50.925755,6.930754
+1750,148659,Köln Sülz Weißhausstr.,50.921204,6.933117
+1751,290710,Köln Sülz Weißhausstr.,50.921627,6.933368
+1752,319259,Köln Sülz Weißhausstr.,50.92145,6.933871
+1753,420645,Köln Sülz Weißhausstr.,50.921604,6.933727
+1754,397272,Köln Sülz Weyertal,50.92427,6.927646
+1755,64953,Köln Sülz Weyertal,50.923916,6.92655
+1756,232978,Köln Sülz Zülpicher Str./Gürtel,50.920624,6.915015
+1757,31453,Köln Sülz Zülpicher Str./Gürtel,50.920242,6.914638
+1758,415901,Köln Sülz Zülpicher Str./Gürtel,50.920025,6.915536
+1759,446209,Köln Sülz Zülpicher Str./Gürtel,50.920452,6.915743
+1760,142244,Köln Sürth Bf,50.86509,7.004371
+1761,147628,Köln Sürth Bf,50.864437,7.004137
+1762,390185,Köln Sürth Bf,50.864155,7.003374
+1763,39150,Köln Sürth Bf,50.864437,7.004137
+1764,74166,Köln Sürth Bf,50.8653,7.003877
+1765,78700,Köln Sürth Bf,50.864185,7.003535
+1766,195436,Köln Sürth Ernst-Volland-Str.,50.867493,7.017477
+1767,376143,Köln Sürth Ernst-Volland-Str.,50.86805,7.017756
+1768,11555,Köln Sürth Hammerschmidtstr.,50.870827,7.02108
+1769,79531,Köln Sürth Hammerschmidtstr.,50.8711,7.021089
+1770,264536,Köln Sürth Heinrich-Erpenbach-Str.,50.869053,7.006338
+1771,347997,Köln Sürth Heinrich-Erpenbach-Str.,50.869053,7.006338
+1772,273792,Köln Sürth Kölnstr.,50.86416,7.011369
+1773,379146,Köln Sürth Kölnstr.,50.864708,7.011935
+1774,124357,Köln Sürth Marktplatz Sürth,50.86193,7.006931
+1775,247715,Köln Sürth Marktplatz Sürth,50.86221,7.007758
+1776,404410,Köln Sürth Rodderweg,50.86803,7.000023
+1777,71778,Köln Sürth Rodderweg,50.868015,7.000023
+1778,155948,Köln Sürth Unter Buschweg,50.867214,7.002727
+1779,350597,Köln Sürth Unter Buschweg,50.866215,7.001694
+1780,441149,Köln Sürth Wesselinger Str.,50.860268,7.004416
+1781,153015,Köln Ubierring,50.922237,6.964908
+1782,177240,Köln Ubierring,50.922485,6.965806
+1783,350432,Köln Ubierring,50.92166,6.96498
+1784,397316,Köln Ubierring,50.92238,6.965276
+1785,50126,Köln Ubierring,50.92226,6.965132
+1786,115951,Köln Ulrepforte,50.92398,6.952008
+1787,309265,Köln Ulrepforte,50.92432,6.951523
+1788,107118,Köln Urbach Antoniusstr.,50.881657,7.092487
+1789,91731,Köln Urbach Antoniusstr.,50.881374,7.091642
+1790,235576,Köln Urbach Dorotheenstr.,50.886093,7.073029
+1791,55042,Köln Urbach Dorotheenstr.,50.886093,7.073029
+1792,18822,Köln Urbach Feuerwache,50.881096,7.073029
+1793,327707,Köln Urbach Feuerwache,50.880825,7.07276
+1794,292327,Köln Urbach Friedhof,50.87832,7.087474
+1795,403189,Köln Urbach Friedhof,50.87804,7.087483
+1796,321028,Köln Urbach Friedrich-Hirsch-Str.,50.87582,7.083863
+1797,432397,Köln Urbach Friedrich-Hirsch-Str.,50.8761,7.084141
+1798,107504,Köln Urbach Kaiserstr.,50.881096,7.080809
+1799,417561,Köln Urbach Kaiserstr.,50.88138,7.08053
+1800,222491,Köln Urbach Marienplatz,50.884712,7.079991
+1801,354224,Köln Urbach Marienplatz,50.885548,7.079982
+1802,117418,Köln Urbach Waldstr.,50.881096,7.082749
+1803,346370,Köln Urbach Waldstr.,50.881374,7.082758
+1804,163360,Köln Vingst,50.932854,7.021259
+1805,224177,Köln Vingst,50.932762,7.021645
+1806,237021,Köln Vingst,50.93249,7.021637
+1807,257116,Köln Vingst,50.932842,7.021744
+1808,382834,Köln Vingst,50.9327,7.022005
+1809,104054,Köln Vingst Kuthstr./Vingst,50.933254,7.021924
+1810,446276,Köln Vingst Kuthstr./Vingst,50.9332,7.021942
+1811,251567,Köln Vingst Kürtenstr.,50.928326,7.017199
+1812,390494,Köln Vingst Kürtenstr.,50.928318,7.01692
+1813,197008,Köln Vingst Oranienstr.,50.935825,7.021089
+1814,208910,Köln Vingst Oranienstr.,50.936382,7.021098
+1815,184300,Köln Vogelsang Bachstelzenweg,50.96138,6.871914
+1816,440105,Köln Vogelsang Bachstelzenweg,50.961098,6.872193
+1817,188148,Köln Vogelsang Falkenweg,50.955544,6.884419
+1818,222106,Köln Vogelsang Falkenweg,50.95554,6.885254
+1819,178842,Köln Vogelsang Goldammerweg,50.957767,6.873873
+1820,93067,Köln Vogelsang Goldammerweg,50.958042,6.873037
+1821,219929,Köln Vogelsang Kolkrabenweg,50.964157,6.878589
+1822,329999,Köln Vogelsang Kolkrabenweg,50.964592,6.879209
+1823,368505,Köln Vogelsang Kolkrabenweg,50.96471,6.879137
+1824,232847,Köln Vogelsang Silbermöwenweg,50.96638,6.87637
+1825,317403,Köln Vogelsang Silbermöwenweg,50.966103,6.876918
+1826,144365,Köln Vogelsang Steinkauzweg,50.963047,6.875535
+1827,395960,Köln Vogelsang Steinkauzweg,50.96332,6.874421
+1828,42460,Köln Vogelsang Vogelsanger Markt,50.955544,6.880817
+1829,91495,Köln Vogelsang Vogelsanger Markt,50.95555,6.881931
+1830,141861,Köln Vogelsang Wasseramselweg,50.950024,6.878113
+1831,376959,Köln Vogelsang Wasseramselweg,50.950024,6.878113
+1832,111005,Köln Vogelsang Westfriedhof,50.967346,6.878688
+1833,47341,Köln Vogelsang Westfriedhof,50.96761,6.878122
+1834,256007,Köln Vogelsang Wolffsohnstr.,50.965317,6.88423
+1835,336373,Köln Vogelsang Wolffsohnstr.,50.96507,6.884733
+1836,46473,Köln Volkhoven/Weiler Friedhof Chorweiler,51.018147,6.881032
+1837,142947,Köln Volkhoven/Weiler Fühlinger Weg,51.020824,6.887482
+1838,247821,Köln Volkhoven/Weiler Fühlinger Weg,51.019985,6.888309
+1839,14446,Köln Volkhoven/Weiler Volkhovener Weg,51.013878,6.892486
+1840,422962,Köln Volkhoven/Weiler Volkhovener Weg,51.01415,6.892207
+1841,153172,Köln Volkhoven/Weiler Weiler,51.023327,6.8822
+1842,371643,Köln Volkhoven/Weiler Weiler,51.023327,6.8822
+1843,206275,Köln Volkhoven/Weiler Weilerweg,51.019714,6.886368
+1844,226109,Köln Volkhoven/Weiler Weilerweg,51.01971,6.886647
+1845,12752,Köln Volkhoven/Weiler Wezelostr.,51.021652,6.885533
+1846,238769,Köln Volkhoven/Weiler Wezelostr.,51.021107,6.884697
+1847,146999,Köln Wahn Friedhof,50.852215,7.089693
+1848,365745,Köln Wahn Friedhof,50.852493,7.089702
+1849,284032,Köln Wahn Kirche,50.85665,7.086091
+1850,305680,Köln Wahn Kirche,50.857407,7.086306
+1851,375381,Köln Wahn Kirche,50.857494,7.087474
+1852,404648,Köln Wahn Kirche,50.85693,7.085255
+1853,19177,Köln Wahn Kornblumenweg,50.85832,7.092478
+1854,32859,Köln Wahn Kornblumenweg,50.858322,7.091921
+1855,295450,Köln Wahn Nachtigallenstr.,50.86305,7.083027
+1856,406986,Köln Wahn Nachtigallenstr.,50.86193,7.083872
+1857,7304,Köln Wahn Nachtigallenstr.,50.86304,7.082479
+1858,15894,Köln Wahn S-Bahn,50.858704,7.079299
+1859,183516,Köln Wahn S-Bahn,50.85805,7.079641
+1860,183922,Köln Wahn S-Bahn,50.858612,7.079353
+1861,204982,Köln Wahn S-Bahn,50.85868,7.079308
+1862,218681,Köln Wahn S-Bahn,50.85862,7.079461
+1863,223073,Köln Wahn S-Bahn,50.85868,7.079425
+1864,26146,Köln Wahn S-Bahn,50.858456,7.079569
+1865,318549,Köln Wahn S-Bahn,50.858707,7.079407
+1866,386857,Köln Wahn S-Bahn,50.858585,7.079362
+1867,430064,Köln Wahn S-Bahn,50.858845,7.07921
+1868,54424,Köln Wahn S-Bahn,50.858646,7.079335
+1869,71393,Köln Wahn S-Bahn,50.858555,7.079389
+1870,262311,Köln Wahn Schulzentrum Wahn,50.862762,7.089145
+1871,375792,Köln Wahn Schulzentrum Wahn,50.86277,7.089432
+1872,218253,Köln Wahnheide Albin-Köbis-Straße,50.86304,7.093026
+1873,55361,Köln Wahnheide Albin-Köbis-Straße,50.86304,7.094149
+1874,221450,Köln Wahnheide Bieselweg,50.863323,7.099431
+1875,44494,Köln Wahnheide Bieselweg,50.8636,7.099422
+1876,106898,Köln Wahnheide Dlr,50.854984,7.11887
+1877,407041,Köln Wahnheide Dlr,50.854984,7.11887
+1878,218982,Köln Wahnheide Guntherstr.,50.8586,7.100536
+1879,446060,Köln Wahnheide Guntherstr.,50.85888,7.101371
+1880,293952,Köln Wahnheide Kaserne Haupttor,50.855545,7.112753
+1881,75287,Köln Wahnheide Kaserne Haupttor,50.855816,7.112474
+1882,267390,Köln Wahnheide Lucasstr.,50.865547,7.106635
+1883,299294,Köln Wahnheide Lucasstr.,50.865543,7.106366
+1884,258068,Köln Wahnheide Scheuermühlenstr.,50.8586,7.108036
+1885,86285,Köln Wahnheide Scheuermühlenstr.,50.857212,7.108036
+1886,73495,Köln Wahnheide Sportplatzstr.,50.85943,7.102206
+1887,201178,Köln Waidmarkt,50.932487,6.955529
+1888,237041,Köln Weiden Bahnstr.,50.93809,6.845522
+1889,79902,Köln Weiden Bahnstr.,50.938194,6.844848
+1890,123912,Köln Weiden Benfleetstr.,50.934757,6.842899
+1891,225235,Köln Weiden Benfleetstr.,50.934757,6.842899
+1892,309764,Köln Weiden Bistritzer Str.,50.93138,6.842477
+1893,339983,Köln Weiden Bistritzer Str.,50.9311,6.843033
+1894,161809,Köln Weiden Diepenbeekallee,50.93499,6.845531
+1895,206578,Köln Weiden Diepenbeekallee,50.935272,6.84554
+1896,236212,Köln Weiden Frechener Weg,50.939156,6.826639
+1897,313086,Köln Weiden Frechener Weg,50.938595,6.826361
+1898,228602,Köln Weiden Göttinger Str.,50.93555,6.839144
+1899,356363,Köln Weiden Göttinger Str.,50.93555,6.839144
+1900,312614,Köln Weiden Lübecker Str.,50.93358,6.83317
+1901,405337,Köln Weiden Lübecker Str.,50.93358,6.83317
+1902,12029,Köln Weiden Ostlandstr.,50.936096,6.833035
+1903,138227,Köln Weiden Ostlandstr.,50.93555,6.834419
+1904,158520,Köln Weiden Ostlandstr.,50.93566,6.832999
+1905,279378,Köln Weiden Ostlandstr.,50.935543,6.8322
+1906,140508,Köln Weiden Römergrab,50.938396,6.828337
+1907,294895,Köln Weiden Römergrab,50.93835,6.828732
+1908,228043,Köln Weiden Selma-Lagerlöf-Str.,50.941658,6.82831
+1909,61090,Köln Weiden Selma-Lagerlöf-Str.,50.941658,6.828598
+1910,229227,Köln Weiden Sportplatz,50.94221,6.841093
+1911,229453,Köln Weiden Sportplatz,50.94222,6.840815
+1912,105289,Köln Weiden Stormstr.,50.941933,6.844974
+1913,261062,Köln Weiden Stormstr.,50.941933,6.844974
+1914,142691,Köln Weiden West,50.94029,6.815868
+1915,404687,Köln Weiden West,50.940296,6.815949
+1916,415141,Köln Weiden West,50.940174,6.815608
+1917,454974,Köln Weiden West,50.94016,6.815662
+1918,10536,Köln Weiden Zentrum,50.93804,6.834976
+1919,173804,Köln Weiden Zentrum,50.938313,6.834895
+1920,195910,Köln Weiden Zentrum,50.93804,6.834976
+1921,378976,Köln Weiden Zentrum,50.938194,6.835317
+1922,374131,Köln Weiden Zentrum (Ekc),50.938454,6.834086
+1923,92467,Köln Weiden Zentrum (Ekc),50.938114,6.834041
+1924,271788,Köln Weiden Üsdorf,50.93471,6.826648
+1925,292077,Köln Weiden Üsdorf,50.93499,6.826639
+1926,229942,Köln Weidenpesch Etzelstr.,50.97833,6.931922
+1927,252536,Köln Weidenpesch Etzelstr.,50.97832,6.931643
+1928,222509,Köln Weidenpesch Mollwitzstr.,50.978344,6.94881
+1929,29027,Köln Weidenpesch Mollwitzstr.,50.978165,6.948792
+1930,238970,Köln Weidenpesch Scheibenstr.,50.98575,6.946358
+1931,429293,Köln Weidenpesch Scheibenstr.,50.985386,6.94651
+1932,3200,Köln Weiß Friedhof,50.876938,7.026928
+1933,77465,Köln Weiß Friedhof,50.87721,7.026649
+1934,386113,Köln Weiß Ritterstr.,50.873047,7.0247
+1935,393267,Köln Weiß Ritterstr.,50.872204,7.023586
+1936,311044,Köln Weiß Weißer Hauptstr.,50.875263,7.029155
+1937,374195,Köln Weiß Weißer Hauptstr.,50.87554,7.029425
+1938,161324,Köln Weiß Zum Hedelsberg,50.878876,7.021376
+1939,242513,Köln Weiß Zum Hedelsberg,50.87888,7.02055
+1940,176570,Köln Westhoven Berliner Str.,50.901684,7.024781
+1941,25575,Köln Westhoven Berliner Str.,50.901245,7.025724
+1942,220788,Köln Westhoven Kölner Str.,50.906708,7.01471
+1943,320927,Köln Westhoven Kölner Str.,50.9067,7.014926
+1944,425763,Köln Widdersdorf,50.96637,6.834598
+1945,91899,Köln Widdersdorf,50.96622,6.834086
+1946,161517,Köln Widdersdorf Adrian-Meller-Str.,50.963737,6.830367
+1947,29468,Köln Widdersdorf Adrian-Meller-Str.,50.963737,6.830179
+1948,301697,Köln Widdersdorf Blaugasse,50.962822,6.830538
+1949,441221,Köln Widdersdorf Blaugasse,50.962807,6.830376
+1950,205961,Köln Widdersdorf Brennerei,50.96459,6.82875
+1951,272072,Köln Widdersdorf Brennerei,50.9645,6.828804
+1952,55708,Köln Widdersdorf Im Buschfelde,50.967167,6.837266
+1953,79742,Köln Widdersdorf Im Buschfelde,50.96746,6.83794
+1954,179921,Köln Widdersdorf Indianapolis-Straße,50.9683,6.842818
+1955,359350,Köln Widdersdorf Indianapolis-Straße,50.968407,6.842791
+1956,284930,Köln Widdersdorf Palmenhof,50.965816,6.841722
+1957,339552,Köln Widdersdorf Palmenhof,50.96585,6.841812
+1958,210707,Köln Widdersdorf Rosmarinweg,50.963047,6.841075
+1959,218888,Köln Widdersdorf Rosmarinweg,50.963223,6.840904
+1960,114838,Köln Widdersdorf Zum Neuen Kreuz,50.96112,6.83626
+1961,317345,Köln Widdersdorf Zum Neuen Kreuz,50.961506,6.836503
+1962,185601,Köln Widdersdorf Zur Abtei,50.959557,6.831948
+1963,342842,Köln Widdersdorf Zur Abtei,50.95977,6.831831
+1964,35369,Köln Wiso-Fakultät,50.93083,6.928589
+1965,52598,Köln Wiso-Fakultät,50.93082,6.929424
+1966,311069,Köln Worringen Alte Römerstr.,51.056652,6.882748
+1967,350289,Köln Worringen Alte Römerstr.,51.05554,6.883583
+1968,205563,Köln Worringen Alte Str.,51.05546,6.85446
+1969,50113,Köln Worringen Alte Str.,51.05546,6.85446
+1970,140255,Köln Worringen An Den Kaulen,51.06471,6.859706
+1971,312919,Köln Worringen An Den Kaulen,51.06471,6.8572
+1972,121879,Köln Worringen Bitterstr.,51.068874,6.857478
+1973,305634,Köln Worringen Dornstr.,51.06832,6.857209
+1974,374632,Köln Worringen Dornstr.,51.069157,6.86109
+1975,139800,Köln Worringen Friedhof Worringen,51.062767,6.859697
+1976,342489,Köln Worringen Hackhauser Weg,51.061382,6.856095
+1977,402206,Köln Worringen Hackhauser Weg,51.061104,6.856373
+1978,236524,Köln Worringen Mühlenweiher,51.064987,6.864422
+1979,408251,Köln Worringen Ramrather Weg,51.066376,6.851648
+1980,99626,Köln Worringen Ramrather Weg,51.066376,6.851648
+1981,138602,Köln Worringen S-Bahn,51.052216,6.852205
+1982,370241,Köln Worringen S-Bahn,51.051647,6.851576
+1983,421995,Köln Worringen S-Bahn,51.052216,6.852205
+1984,172707,Köln Worringen Sankt-Tönnis-Str.,51.06471,6.867755
+1985,182531,Köln Worringen Sankt-Tönnis-Str.,51.06499,6.867755
+1986,281140,Köln Worringen Süd,51.060547,6.87275
+1987,320395,Köln Worringen Süd,51.060543,6.873037
+1988,353183,Köln Worringen Wiedenfelder Weg,51.06443,6.853041
+1989,99298,Köln Worringen Wiedenfelder Weg,51.06443,6.853041
+1990,163457,Köln Worringen Üdesheimer Weg,51.05833,6.858305
+1991,426976,Köln Worringen Üdesheimer Weg,51.05805,6.857469
+1992,122512,Köln Worringer Str.,50.95526,6.967756
+1993,452501,Köln Worringer Str.,50.95527,6.968025
+1994,137113,Köln Zollstock Am Vorgebirgstor,50.91499,6.946088
+1995,448923,Köln Zollstock Am Vorgebirgstor,50.91498,6.946645
+1996,414266,Köln Zollstock Bernkasteler Str.,50.90665,6.936647
+1997,455499,Köln Zollstock Bernkasteler Str.,50.9061,6.937204
+1998,127806,Köln Zollstock Brüggener Str.,50.90499,6.938866
+1999,386308,Köln Zollstock Brüggener Str.,50.904987,6.939144
+2000,285372,Köln Zollstock Gottesweg,50.91,6.941426
+2001,311508,Köln Zollstock Gottesweg,50.90983,6.941327
+2002,313102,Köln Zollstock Gottesweg,50.910828,6.941085
+2003,382278,Köln Zollstock Gottesweg,50.910828,6.940815
+2004,219527,Köln Zollstock Herthastr.,50.912815,6.940743
+2005,247751,Köln Zollstock Herthastr.,50.913048,6.940806
+2006,169158,Köln Zollstock Kendenicher Str.,50.90166,6.937204
+2007,201831,Köln Zollstock Kendenicher Str.,50.90166,6.937204
+2008,392367,Köln Zollstock Kendenicher Str.,50.901653,6.936368
+2009,401068,Köln Zollstock Kendenicher Str.,50.90221,6.936934
+2010,43716,Köln Zollstock Oberer Komarweg,50.898323,6.931365
+2011,51561,Köln Zollstock Oberer Komarweg,50.8986,6.931643
+2012,207231,Köln Zollstock Paul-Nießen-Str.,50.91166,6.937761
+2013,293695,Köln Zollstock Paul-Nießen-Str.,50.91193,6.937482
+2014,109136,Köln Zollstock Pohligstr.,50.91693,6.940806
+2015,139485,Köln Zollstock Pohligstr.,50.916286,6.941354
+2016,356765,Köln Zollstock Pohligstr.,50.91694,6.941094
+2017,6437,Köln Zollstock Pohligstr.,50.91661,6.941507
+2018,247103,Köln Zollstock Roisdorfer Str.,50.90582,6.945262
+2019,330287,Köln Zollstock Roisdorfer Str.,50.90527,6.94554
+2020,424257,Köln Zollstock Sibille-Hartmann-Str.,50.913834,6.944426
+2021,436850,Köln Zollstock Sibille-Hartmann-Str.,50.913834,6.944426
+2022,259224,Köln Zollstock Südfriedhof,50.900883,6.944624
+2023,449218,Köln Zollstock Südfriedhof,50.900543,6.946097
+2024,453650,Köln Zollstock Südfriedhof,50.900925,6.944363
+2025,79587,Köln Zollstock Südfriedhof,50.90082,6.944148
+2026,84911,Köln Zollstock Südfriedhof,50.90082,6.944148
+2027,336558,Köln Zollstock Zollstockgürtel,50.90553,6.942082
+2028,395686,Köln Zollstock Zollstockgürtel,50.90471,6.943591
+2029,430671,Köln Zollstock Zollstockgürtel,50.904713,6.94386
+2030,76632,Köln Zollstock Zollstockgürtel,50.905308,6.942118
+2031,151745,Köln Zollstock Zollstocksweg,50.908607,6.945531
+2032,64467,Köln Zollstock Zollstocksweg,50.90888,6.945253
+2033,151587,Köln Zülpicher Platz,50.931755,6.940519
+2034,250899,Köln Zülpicher Platz,50.931416,6.941174
+2035,306539,Köln Zülpicher Platz,50.930817,6.940249
+2036,408559,Köln Zülpicher Platz,50.93138,6.940564
+2037,106875,Köln Zündorf,50.86582,7.049143
+2038,195292,Köln Zündorf,50.86599,7.048739
+2039,368056,Köln Zündorf,50.865547,7.048316
+2040,387878,Köln Zündorf,50.866096,7.049134
+2041,41063,Köln Zündorf,50.866104,7.049421
+2042,224420,Köln Zündorf Altersheim,50.86304,7.036638
+2043,218500,Köln Zündorf An Sankt Marien,50.863876,7.054425
+2044,304373,Köln Zündorf An Sankt Marien,50.863876,7.054138
+2045,244089,Köln Zündorf Kirche,50.866104,7.041364
+2046,68329,Köln Zündorf Marktstr.,50.86832,7.044696
+2047,302737,Köln Zündorf Mitte,50.866096,7.044975
+2048,391111,Köln Zündorf Oberzündorf,50.860264,7.032758
+2049,75546,Köln Zündorf Oberzündorf,50.859985,7.032749
+2050,316371,Köln Zündorf Olefsgasse,50.86332,7.040807
+2051,53326,Köln Zündorf Ranzeler Str.,50.860542,7.036935
+2052,236771,Köln Zündorf Rosenhügel,50.87398,7.059905
+2053,374263,Köln Zündorf Rosenhügel,50.874203,7.060084
+2054,166108,Köln-Ehrenfeld,50.951534,6.917276
+2055,343035,Köln-Longerich,50.997738,6.901557
+2056,148857,Köln-Mülheim,50.957985,7.013295
+2057,48226,Köln-Nippes,50.958668,6.941605
+2058,279458,Köln-Worringen Bf,51.05241,6.852331
+2059,304729,Köln-Worringen Bf,51.052418,6.852241
+2060,364093,Köln-Worringen Bf,51.05168,6.851549
+2061,55264,Köln-Worringen Bf,51.05169,6.851469
+2062,264408,Leverkusen Schlebusch,51.018925,7.044813
+2063,307442,Leverkusen Schlebusch,51.018463,7.044436
+2064,364700,Leverkusen Schlebusch,51.018593,7.044588
+2065,152290,Leverkusen Wiesdorf Chempark S-Bahn,51.011307,6.99554
+2066,370624,Leverkusen Wiesdorf Chempark S-Bahn,51.01138,6.995415
+2067,82504,Porz(Rhein),50.882908,7.064724
+2068,244568,Porz-Wahn,50.85813,7.079266
+2069,166350,Worringen An den Kaulen,51.064816,6.859562
+2070,243422,Worringen An den Kaulen,51.064877,6.860057
+2071,189923,Worringen Dornstraße,51.068306,6.857263
+2072,272260,Worringen Dornstraße,51.068073,6.857433
+2073,141205,Worringen Hackhauser Weg,51.06146,6.856391
+2074,208948,Worringen Mühlenweiher,51.06506,6.864719
+2075,365800,Worringen Sankt-Tönnis-Platz,51.06404,6.864207
+2076,76580,Worringen Sankt-Tönnis-Str.,51.065014,6.867989
+2077,170019,Worringen Süd,51.060806,6.873154
+2078,356434,Worringen Walter-Dodde-Weg,51.048904,6.851379
+2079,312692,Worringen Wiedenfelder Weg,51.0646,6.854119
+2080,319186,Worringen Wiedenfelder Weg,51.064682,6.85464
+2081,230632,Worringen Üdesheimer Weg,51.058403,6.858134
+2082,287478,Worringen Üdesheimer Weg,51.058155,6.857694
+2083,441157,"Worringen, Alte Neusser Landstraße",51.0602,6.87593

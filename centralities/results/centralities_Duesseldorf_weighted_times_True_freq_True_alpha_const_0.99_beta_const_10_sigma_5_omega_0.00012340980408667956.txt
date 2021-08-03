@@ -1,0 +1,80 @@
+Parameters:
+alpha_const=0.990000, beta_const=10.000000, maxit_quadrature=5, maxit_fAb=10, top_k_centralities=10
+
+
+
+-----Total communicability-----
+Joint communicabilities:
+ TC_JC_ranking  node_id         stop_name  layer_id layer_name        value
+             1      857    D-Johannstraße         7        721 39609.480524
+             2      582       D-Großmarkt         7        721 38058.121750
+             3     1519   D-Spichernplatz         7        721 25193.869335
+             4     1616    D-Tannenstraße         7        721 23443.946505
+             5     1617    D-Tannenstraße         7        721 23081.636327
+             6      109   D-An der Piwipp         7        721 21692.974548
+             7      110   D-An der Piwipp         7        721 17712.186321
+             8      410 D-Elsässer Straße         7        721 16239.022184
+             9      426  D-Essener Straße         7        721 14952.040998
+            10      367   D-Eckenerstraße         7        721 13989.563442
+Marginal node communicabilities:
+ TC_MNC_ranking  node_id         stop_name        value
+              1      857    D-Johannstraße 39717.456733
+              2      582       D-Großmarkt 38175.199330
+              3     1519   D-Spichernplatz 25496.987684
+              4     1616    D-Tannenstraße 23552.968598
+              5     1617    D-Tannenstraße 23205.893774
+              6      109   D-An der Piwipp 21800.075869
+              7      110   D-An der Piwipp 17819.127703
+              8      410 D-Elsässer Straße 16346.132094
+              9      426  D-Essener Straße 15366.536250
+             10      367   D-Eckenerstraße 14096.568726
+Marginal layer communicabilities:
+ TC_MLC_ranking  layer_id layer_name         value
+              1         7        721 366427.926499
+              2        12        726  81024.376603
+              3         3        706  62303.815441
+              4        19        733  59678.961235
+              5        28        752  44010.838788
+              6        16        730  38769.811736
+              7        44        788  33329.701181
+              8        11        725  27171.929462
+              9        27        752  24153.272087
+             10        10        724  22282.912643
+
+-----Katz centrality-----
+Joint centralities:
+ KC_JC_ranking  node_id         stop_name  layer_id layer_name      value
+             1      857    D-Johannstraße         7        721 184.262204
+             2      582       D-Großmarkt         7        721 176.148309
+             3     1519   D-Spichernplatz         7        721 113.423228
+             4     1616    D-Tannenstraße         7        721 108.408914
+             5     1617    D-Tannenstraße         7        721 106.760721
+             6      109   D-An der Piwipp         7        721  98.568279
+             7      110   D-An der Piwipp         7        721  81.553948
+             8      410 D-Elsässer Straße         7        721  70.628820
+             9      426  D-Essener Straße         7        721  62.899329
+            10      367   D-Eckenerstraße         7        721  58.524892
+Marginal node centralities:
+ KC_MNC_ranking  node_id         stop_name      value
+              1      857    D-Johannstraße 287.415956
+              2      582       D-Großmarkt 279.619113
+              3     1519   D-Spichernplatz 217.326771
+              4     1616    D-Tannenstraße 211.573338
+              5     1617    D-Tannenstraße 209.956616
+              6      109   D-An der Piwipp 201.756551
+              7      110   D-An der Piwipp 184.725964
+              8      410 D-Elsässer Straße 173.817276
+              9      426  D-Essener Straße 167.311058
+             10      367   D-Eckenerstraße 161.693794
+Marginal layer centralities:
+ KC_MLC_ranking  layer_id layer_name       value
+              1         7        721 3388.985209
+              2         3        706 2043.018412
+              3        12        726 2000.994246
+              4        44        788 1975.148244
+              5        19        733 1974.741018
+              6        16        730 1967.201309
+              7        28        752 1966.216211
+              8        10        724 1965.234680
+              9        11        725 1961.932066
+             10        54        827 1960.663311
