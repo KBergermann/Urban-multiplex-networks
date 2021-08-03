@@ -22,7 +22,7 @@ In order to be able to execute all scripts, you require the following python pac
  - matplotlib (tested with versions 3.4.1 and 3.4.2)
  - osmnx (tested with version 1.1.1)
  
-**Version**
+**Version:**
 All codes were tested with Python 3.8.10 on Ubuntu 20.04.2 LTS as well as with Python 3.6.9 on Ubuntu 18.04.5 LTS.
 
 
@@ -66,7 +66,7 @@ It calls the following functions from the directory 'subroutines'. Please refer 
 
 **References:**
 
- - [1] K. Bergermann and M. Stoll, Orientations and matrix function-based centralities in multiplex network analysis of urban public transport, arXiv preprint, arXiv:2107.12695, (2021).
+ - [1] K. Bergermann and M. Stoll, Orientations and matrix function-based centralities in multiplex network analysis of urban public transport, arXiv preprint, arXiv:2107.12695, (2021), https://arxiv.org/abs/2107.12695.
  - [2] G. Boeing, OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks, Computers, Environment and Urban Systems, 65 (2017), pp. 126–139, https://doi.org/10.1016/j.compenvurbsys.2017.05.004.
  - [3] G. Boeing, Urban spatial order: Street network orientation, configuration, and entropy, Applied Network Science, 4 (2019), pp. 1–19, https://doi.org/10.1007/s41109-019-0189-1.
  - [4] N. J. Higham, Functions of matrices: Theory and computation, SIAM, USA, 2008, https://doi.org/10.1137/1.9780898717778.
