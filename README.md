@@ -1,5 +1,8 @@
 # Urban-multiplex-networks
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5155152.svg)](https://doi.org/10.5281/zenodo.5155152)
+
+
 This repository contains python3 codes reproducing the results and grahpics from the 
 
 **Paper:**
