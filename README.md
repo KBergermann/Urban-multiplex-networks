@@ -29,7 +29,7 @@ All codes were tested with Python 3.8.10 on Ubuntu 20.04.2 LTS as well as with P
 This repository contains:
 
 **License:**
- - COPYING: GNU General Public License v2.0
+ - LICENSE: GNU General Public License v2.0
 
 **Directories:**
  - adjacency_matrices: contains the inter- and intra-layer adjacency matrices in npz-format (numpy) as well as node and layer lists in csv-format, which are produced by the function 'build_supra_adjacency_matrix'
@@ -66,11 +66,11 @@ It calls the following functions from the directory 'subroutines'. Please refer 
 
 **References:**
 
-[1] K. Bergermann and M. Stoll, Orientations and matrix function-based centralities in multiplex network analysis of urban public transport, arXiv preprint, arXiv:2107.12695, (2021).
-[2] G. Boeing, OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks, Computers, Environment and Urban Systems, 65 (2017), pp. 126–139, https://doi.org/10.1016/j.compenvurbsys.2017.05.004.
-[3] G. Boeing, Urban spatial order: Street network orientation, configuration, and entropy, Applied Network Science, 4 (2019), pp. 1–19, https://doi.org/10.1007/s41109-019-0189-1.
-[4] N. J. Higham, Functions of matrices: Theory and computation, SIAM, USA, 2008, https://doi.org/10.1137/1.9780898717778.
-[5] G. H. Golub and G. Meurant, Matrices, moments and quadrature with applications, Princeton University Press, USA, 2009, https://doi.org/10.1515/9781400833887.
-[6] G. H. Golub and C. F. Van Loan, Matrix computations, vol. 3, JHU press, USA, 2013.
-[7] C. Lanczos, An iteration method for the solution of the eigenvalue problem of linear differential and integral operators, United States Governm. Press Office Los Angeles, CA, USA, 1950, https://doi.org/10.6028/jres.045.026.
+ - [1] K. Bergermann and M. Stoll, Orientations and matrix function-based centralities in multiplex network analysis of urban public transport, arXiv preprint, arXiv:2107.12695, (2021).
+ - [2] G. Boeing, OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks, Computers, Environment and Urban Systems, 65 (2017), pp. 126–139, https://doi.org/10.1016/j.compenvurbsys.2017.05.004.
+ - [3] G. Boeing, Urban spatial order: Street network orientation, configuration, and entropy, Applied Network Science, 4 (2019), pp. 1–19, https://doi.org/10.1007/s41109-019-0189-1.
+ - [4] N. J. Higham, Functions of matrices: Theory and computation, SIAM, USA, 2008, https://doi.org/10.1137/1.9780898717778.
+ - [5] G. H. Golub and G. Meurant, Matrices, moments and quadrature with applications, Princeton University Press, USA, 2009, https://doi.org/10.1515/9781400833887.
+ - [6] G. H. Golub and C. F. Van Loan, Matrix computations, vol. 3, JHU press, USA, 2013.
+ - [7] C. Lanczos, An iteration method for the solution of the eigenvalue problem of linear differential and integral operators, United States Governm. Press Office Los Angeles, CA, USA, 1950, https://doi.org/10.6028/jres.045.026.
 
