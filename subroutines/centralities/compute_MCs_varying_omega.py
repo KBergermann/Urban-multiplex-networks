@@ -22,7 +22,8 @@ def compute_MCs_varying_omega(cityString, compute_quadrature_quantities=False, w
 	#		weighted_with_travel_times (optional, default=True): option passed to the function	#
 	#			'compute_centralities'. If True, a Gaussian kernel applied to the travel	#
 	#			times is used to weight intra-layer edges, cf. [1, Eq. (4.4)].		#
-	#		weighted_with_frequencies (optional, default=True): option passed to the function	# 		#			'compute_centralities'. If True, line frequencies are used to weight intra-	#
+	#		weighted_with_frequencies (optional, default=True): option passed to the function	# 
+	#			'compute_centralities'. If True, line frequencies are used to weight intra-	#
 	#			layer edges, cf. [1, Eq. (4.4)].						#
 	#		alpha_const (optional, default=0.5): option passed to the function 			#
 	#			'compute_centralities'. Specifies the value of alpha in [1, Eq. (5.2)&(5.3)]	#

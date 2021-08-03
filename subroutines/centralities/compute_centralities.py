@@ -73,11 +73,6 @@ def compute_centralities(cityString, weighted_with_travel_times=True, weighted_w
 	#####################################################################################################
 
 
-	# Output: 	txt file saved in 'centralities/results' unless option suppress_output is set to True
-	#		MLC or MNC (option return_layer_centralities)
-	#		all four quantities or only TC and KC (option compute_quadrature_quantities)
-
-
 	####################
 	### Preparations ###
 	####################

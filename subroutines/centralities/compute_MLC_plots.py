@@ -26,9 +26,11 @@ def compute_MLC_plots(cityString, compute_quadrature_quantities=True, weighted_w
 	#		weighted_with_travel_times (optional, default=True): option passed to the function	#
 	#			'compute_centralities'. If True, a Gaussian kernel applied to the travel	#
 	#			times is used to weight intra-layer edges, cf. [3, Eq. (4.4)].		#
-	#		weighted_with_frequencies (optional, default=True): option passed to the function	# 		#			'compute_centralities'. If True, line frequencies are used to weight intra-	#
+	#		weighted_with_frequencies (optional, default=True): option passed to the function	#
+	#			'compute_centralities'. If True, line frequencies are used to weight intra-	#
 	#			layer edges, cf. [3, Eq. (4.4)].						#
-	#		omega (optional, default=1): option passed to the function 'compute_centralities'.	# 		#			Specifies the value of the inter-layer coupling parameter,			#
+	#		omega (optional, default=1): option passed to the function 'compute_centralities'.	#
+	#			Specifies the value of the inter-layer coupling parameter,			#
 	#			cf. [3, Eq.(4.3)], which models a constant transfer time across the network.	#
 	#		alpha_const (optional, default=0.5): option passed to the function 			#
 	#			'compute_centralities'. Specifies the value of alpha in [3, Eq. (5.2)&(5.3)]	#
