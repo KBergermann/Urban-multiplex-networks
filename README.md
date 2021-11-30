@@ -6,7 +6,7 @@
 This repository contains python3 codes reproducing the results and grahpics from the 
 
 **Paper:**
-[1] Orientations and matrix function-based centralities in multiplex network analysis of urban public transport, K. Bergermann and M. Stoll, https://arxiv.org/abs/2107.12695
+[1] Orientations and matrix function-based centralities in multiplex network analysis of urban public transport, K. Bergermann and M. Stoll, Applied Network Science, 6, 90, 2021. DOI: 10.1007/s41109-021-00429-9
 
 Most methods rely on the German local public transport GTFS data set (feed version 'light-2021-04-22'), which can be downloaded here (170MB):
 
