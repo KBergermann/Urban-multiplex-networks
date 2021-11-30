@@ -6,7 +6,7 @@
 This repository contains python3 codes reproducing the results and grahpics from the 
 
 **Paper:**
-[1] Orientations and matrix function-based centralities in multiplex network analysis of urban public transport, K. Bergermann and M. Stoll, Applied Network Science, 6, 90, 2021. DOI: 10.1007/s41109-021-00429-9
+[1] Orientations and matrix function-based centralities in multiplex network analysis of urban public transport, K. Bergermann and M. Stoll, Applied Network Science, 6, 90, 2021. https://doi.org/10.1007/s41109-021-00429-9
 
 Most methods rely on the German local public transport GTFS data set (feed version 'light-2021-04-22'), which can be downloaded here (170MB):
 
@@ -69,7 +69,7 @@ It calls the following functions from the directory 'subroutines'. Please refer 
 
 **References:**
 
- - [1] K. Bergermann and M. Stoll, Orientations and matrix function-based centralities in multiplex network analysis of urban public transport, arXiv preprint, arXiv:2107.12695, (2021), https://arxiv.org/abs/2107.12695.
+ - [1] K. Bergermann and M. Stoll, Orientations and matrix function-based centralities in multiplex network analysis of urban public transport, Applied Network Science, 6, 90 (2021), https://doi.org/10.1007/s41109-021-00429-9
  - [2] G. Boeing, OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks, Computers, Environment and Urban Systems, 65 (2017), pp. 126–139, https://doi.org/10.1016/j.compenvurbsys.2017.05.004.
  - [3] G. Boeing, Urban spatial order: Street network orientation, configuration, and entropy, Applied Network Science, 4 (2019), pp. 1–19, https://doi.org/10.1007/s41109-019-0189-1.
  - [4] N. J. Higham, Functions of matrices: Theory and computation, SIAM, USA, 2008, https://doi.org/10.1137/1.9780898717778.
