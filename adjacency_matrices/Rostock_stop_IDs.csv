@@ -1,0 +1,337 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,45633,Müggenburg,54.223003,12.22266
+1,336683,Neu Hinrichsdorf EKZ,54.12298,12.169912
+2,164698,Niederhagen,54.17889,12.205389
+3,408281,Rostock Alter Hafen Süd,54.10954,12.086007
+4,303849,Rostock Am Dorfteich,54.061073,12.104945
+5,14542,Rostock Am Petridamm,54.091232,12.162336
+6,345688,Rostock Am Petridamm,54.091076,12.162538
+7,75513,Rostock Am Rosengarten,54.085423,12.136684
+8,162302,Rostock Am Seehafen (Bus),54.142742,12.109375
+9,8428,Rostock Am Seehafen (Bus),54.14253,12.109681
+10,367235,Rostock Bei der Tweel,54.08054,12.11363
+11,57337,Rostock Bei der Tweel,54.080444,12.113852
+12,234809,Rostock Beim Pulverturm,54.076008,12.105771
+13,295723,Rostock Brinckmansdorf,54.081036,12.18663
+14,269948,Rostock Campingplatz,54.19433,12.156583
+15,436376,Rostock Campus Südstadt,54.074,12.103359
+16,439056,Rostock Campus Südstadt,54.074604,12.103694
+17,458458,Rostock Campus Südstadt,54.07457,12.103631
+18,221250,Rostock Carl-Hopp-Str.,54.09923,12.096114
+19,255837,Rostock DK-Abstellung,54.098434,12.157073
+20,94630,Rostock Dethardingstr.,54.085278,12.106632
+21,301283,Rostock Deutsche Med Platz,54.085697,12.127271
+22,328884,Rostock Deutsche Med Platz,54.085613,12.125202
+23,295043,Rostock Dierkow Dorf,54.108974,12.160031
+24,177893,Rostock Dierkower Kreuz,54.10345,12.154013
+25,414439,Rostock Dierkower Kreuz,54.10345,12.154013
+26,202550,Rostock E-Schlesinger-Straße,54.075027,12.121807
+27,274860,Rostock E-Schlesinger-Straße,54.07486,12.122008
+28,314259,Rostock E-Schlesinger-Straße,54.074905,12.121859
+29,419245,Rostock E-Schlesinger-Straße,54.075455,12.121839
+30,172646,Rostock Fischereihafen,54.11593,12.084968
+31,33866,Rostock Gehlsdorf Fähre,54.099678,12.114285
+32,352202,Rostock Getreidehafen,54.147854,12.124702
+33,221449,Rostock Hauptbahnhof,54.078133,12.131211
+34,157354,Rostock Hinrichshagen,54.187786,12.207886
+35,301397,Rostock Immendiek,54.10414,12.070051
+36,174640,Rostock Joachim-Jungius-Str,54.07785,12.113368
+37,50565,Rostock Kabutzenhof Fähre,54.094677,12.114017
+38,386077,Rostock Kessiner Berg,54.071346,12.165133
+39,334300,Rostock Kessiner Weg,54.07102,12.178663
+40,215817,Rostock Klinikum Süd,54.073025,12.107734
+41,400238,Rostock Klinikum Süd,54.072887,12.107555
+42,412515,Rostock Klinikum Süd,54.072918,12.107802
+43,433272,Rostock Klinikum-Schillingalle,54.085255,12.100546
+44,93344,Rostock Liebherrstraße,54.15377,12.117002
+45,194128,Rostock Lütten Klein Zentrum,54.13825,12.055065
+46,438265,Rostock Lütten Klein Zentrum,54.1381,12.05513
+47,80370,Rostock Lütten Klein Zentrum,54.137966,12.055075
+48,198782,Rostock Majakowskistraße,54.069546,12.116566
+49,348247,Rostock Majakowskistraße,54.06963,12.116343
+50,67412,Rostock Majakowskistraße,54.069485,12.116424
+51,308987,Rostock Markgrafenheide Strand,54.20065,12.154383
+52,16164,Rostock Markt Reutershagen,54.09871,12.074084
+53,211233,Rostock Neubrandenburger Str,54.079815,12.159648
+54,382091,Rostock Neuer Friedhof,54.073624,12.087283
+55,52716,Rostock Neuer Friedhof,54.073765,12.087492
+56,388454,Rostock Nienhager Koppel,54.16096,12.175085
+57,85271,Rostock Paulstraße,54.082386,12.141163
+58,122529,Rostock Reutershagen,54.101765,12.079021
+59,438935,Rostock Reutershagen,54.101765,12.079021
+60,253732,Rostock Rigaer Straße,54.140194,12.057305
+61,187501,Rostock Robert-Koch-Straße,54.07225,12.11197
+62,209165,Rostock Robert-Koch-Straße,54.07205,12.111878
+63,38104,Rostock Robert-Koch-Straße,54.07211,12.112235
+64,165447,Rostock Rosa-Luxemburg-Straße,54.080185,12.13664
+65,216618,Rostock Rostocker Heide,54.202282,12.211954
+66,177220,Rostock Rostocker Straße,54.170353,12.082893
+67,125484,Rostock S Evershagen,54.12388,12.069033
+68,246659,Rostock S Holbeinplatz,54.09286,12.099753
+69,263007,Rostock S Holbeinplatz,54.09286,12.099753
+70,49811,Rostock S Lichtenhagen,54.151894,12.068795
+71,60943,Rostock S Lichtenhagen,54.152187,12.071619
+72,269297,Rostock S Lütten Klein,54.138042,12.065504
+73,110084,Rostock S Marienehe,54.11066,12.080798
+74,246070,Rostock S Parkstraße,54.08373,12.109252
+75,359171,Rostock S Parkstraße,54.083817,12.108265
+76,426720,Rostock S Parkstraße,54.08367,12.109325
+77,92995,Rostock S Parkstraße,54.083317,12.108473
+78,35801,Rostock S Warnemünde Werft,54.169743,12.083859
+79,119037,Rostock Schillingallee,54.086998,12.102036
+80,115620,Rostock Schutow,54.105946,12.054951
+81,390075,Rostock Schutow,54.105812,12.054926
+82,402987,Rostock Schwimmhalle,54.08625,12.089582
+83,366022,Rostock Stadthafen,54.091473,12.151513
+84,101446,Rostock Steintor IHK,54.0858,12.14188
+85,126692,Rostock Steintor IHK,54.08609,12.142543
+86,250197,Rostock Steintor IHK,54.086323,12.140788
+87,322214,Rostock Steintor IHK,54.08646,12.141058
+88,362915,Rostock Steintor IHK,54.086018,12.142186
+89,422484,Rostock Steintor IHK,54.086227,12.143425
+90,446107,Rostock Steintor IHK,54.08656,12.14105
+91,47666,Rostock Steintor IHK,54.086025,12.141942
+92,89318,Rostock Stolteraer Weg,54.16907,12.037072
+93,321814,Rostock Südstadt-Center,54.072117,12.117126
+94,335695,Rostock Südstadt-Center,54.07213,12.11679
+95,409448,Rostock Südstadt-Center,54.07194,12.116945
+96,377607,Rostock Tannenweg,54.074955,12.072633
+97,305758,Rostock Tessiner Straße,54.0814,12.16969
+98,91242,Rostock Thierfelder Straße,54.08037,12.102383
+99,330764,Rostock Torfbrücke,54.24168,12.224977
+100,447930,Rostock Weidengrund,54.06019,12.114062
+101,223009,Rostock Weißes Kreuz,54.08133,12.159243
+102,209911,Rostock ZOB,54.076015,12.13041
+103,133117,Rostock Zum Pagenwerder,54.158424,12.07761
+104,354859,Rostock Zur Mooskuhle,54.069923,12.138249
+105,435943,Rostock Zur Mooskuhle,54.069923,12.138249
+106,199087,Rostock central bus station,54.076458,12.130252
+107,82058,"Rostock, Albert-Schulz-Str.",54.08985,12.187459
+108,145983,"Rostock, Albert-Schweitzer-Str",54.116566,12.150588
+109,272205,"Rostock, Am Bagehl",54.08626,12.147678
+110,279041,"Rostock, Am Kringelgraben",54.06541,12.129611
+111,40764,"Rostock, Am Liepengraben",54.128426,12.158269
+112,322726,"Rostock, Bahnbetriebswerk",54.1324,12.131711
+113,202054,"Rostock, Baumschulenweg",54.106213,12.136342
+114,210105,"Rostock, Bertolt-Brecht-Straße",54.118774,12.058756
+115,210483,"Rostock, Bertolt-Brecht-Straße",54.118595,12.058712
+116,392832,"Rostock, Bertolt-Brecht-Straße",54.11857,12.059032
+117,264809,"Rostock, Biestow",54.05951,12.102155
+118,341344,"Rostock, Binzer Straße",54.14142,12.043741
+119,448375,"Rostock, Blockmacherring",54.14467,12.076833
+120,323973,"Rostock, Blücherstraße",54.08142,12.142725
+121,121056,"Rostock, Bonhoefferstraße",54.095196,12.06913
+122,283258,"Rostock, Breitling",54.176712,12.104694
+123,351681,"Rostock, Brinckmanshöhe",54.087727,12.18858
+124,107138,"Rostock, Brückenweg",54.115307,12.169035
+125,194787,"Rostock, Charles-Darwin-Ring",54.06141,12.117285
+126,267014,"Rostock, Charles-Darwin-Ring",54.06141,12.117285
+127,432069,"Rostock, Diedrichshagen",54.166943,12.047408
+128,253943,"Rostock, Dierkow-Zentrum",54.102222,12.166951
+129,68439,"Rostock, Dierkow-Zentrum",54.102222,12.166951
+130,268079,"Rostock, Dierkower Damm",54.09862,12.156812
+131,213259,"Rostock, Dieselmotorenwerk",54.07298,12.136233
+132,202450,"Rostock, Doberaner Platz",54.08802,12.123318
+133,261060,"Rostock, Doberaner Platz",54.08778,12.122184
+134,337284,"Rostock, Doberaner Platz",54.08836,12.123329
+135,399045,"Rostock, Doberaner Platz",54.088467,12.122664
+136,70597,"Rostock, Doberaner Platz",54.088024,12.123135
+137,337364,"Rostock, Dr.-Lorenz-Weg",54.079628,12.094638
+138,177311,"Rostock, Dänenberg",54.143726,12.069262
+139,257926,"Rostock, Ehm-Welk-Straße",54.122803,12.058701
+140,274764,"Rostock, Ehm-Welk-Straße",54.123096,12.058386
+141,55796,"Rostock, Ehm-Welk-Straße",54.122765,12.058362
+142,347273,"Rostock, Elmenhorster Weg",54.15132,12.058402
+143,98038,"Rostock, Elmenhorster Weg",54.15132,12.058402
+144,397544,"Rostock, Etkar-Andree-Straße",54.09833,12.06742
+145,40547,"Rostock, Eutiner Straße",54.148327,12.058058
+146,412794,"Rostock, Eutiner Straße",54.148327,12.058058
+147,223748,"Rostock, Evershagen Süd",54.116646,12.061567
+148,2581,"Rostock, Evershagen Süd",54.11653,12.061498
+149,300929,"Rostock, Evershagen Süd",54.116745,12.060825
+150,209621,"Rostock, Fischerdorf",54.128765,12.057886
+151,414925,"Rostock, Flussbad",54.083626,12.153272
+152,276393,"Rostock, Friedensforum",54.113327,12.143489
+153,244682,"Rostock, Fährstr. Michaelshof",54.101326,12.119349
+154,13295,"Rostock, Galileistraße",54.06747,12.117541
+155,155898,"Rostock, Gartenstadt",54.086246,12.087931
+156,38631,"Rostock, Gedser Straße",54.138252,12.043906
+157,395711,"Rostock, Gedser Straße",54.13793,12.04373
+158,83204,"Rostock, Gehlsheim Klinik",54.102238,12.130628
+159,346015,"Rostock, Gehlsheimer Straße",54.099026,12.126685
+160,182852,"Rostock, Gerberbruch",54.088634,12.149005
+161,34190,"Rostock, Gerberbruch",54.088634,12.149005
+162,455,"Rostock, Gerüstbauerring",54.14687,12.082065
+163,218187,"Rostock, Goetheplatz",54.08144,12.127089
+164,24132,"Rostock, Goetheplatz",54.08205,12.127532
+165,351528,"Rostock, Goetheplatz",54.0814,12.127499
+166,142260,"Rostock, Grabower Straße",54.15606,12.069548
+167,296134,"Rostock, Graf-Stauffenberg-Str",54.11174,12.137372
+168,23359,"Rostock, Graureiherweg",54.070786,12.081998
+169,61101,"Rostock, Greifswalder Straße",54.09002,12.101666
+170,333951,"Rostock, Groß Klein Dorf",54.150627,12.081747
+171,218880,"Rostock, Groß Schwaßer Weg",54.08373,12.072135
+172,184585,"Rostock, Güstrower Straße",54.152557,12.063454
+173,90569,"Rostock, Güterverkehrszentrum",54.139687,12.164837
+174,363612,"Rostock, Hafenallee",54.10851,12.135889
+175,409837,"Rostock, Hafenallee",54.108643,12.135975
+176,31343,"Rostock, Hafenbahnweg",54.12596,12.143574
+177,61796,"Rostock, Haltepunkt Dierkow",54.10366,12.180199
+178,428800,"Rostock, Handwerkstraße",54.12339,12.074704
+179,177150,"Rostock, Hauptbahnhof Nord",54.078598,12.133096
+180,290665,"Rostock, Hauptbahnhof Nord",54.07898,12.132483
+181,328284,"Rostock, Hauptbahnhof Nord",54.0791,12.132033
+182,13221,"Rostock, Hauptbahnhof Süd",54.0775,12.129039
+183,307489,"Rostock, Heidenholzmoor",54.135002,12.117014
+184,199552,"Rostock, Heinrich-Schütz-Str.",54.09522,12.093751
+185,213706,"Rostock, Heinrich-Schütz-Str.",54.09522,12.093751
+186,110078,"Rostock, Helsinkier Straße",54.133015,12.057312
+187,336419,"Rostock, Helsinkier Straße",54.133015,12.057312
+188,356571,"Rostock, Hinrichsdorf",54.135754,12.162669
+189,295058,"Rostock, Hinrichsdorfer Straße",54.10648,12.159566
+190,61883,"Rostock, Hohe Düne",54.178493,12.114726
+191,158336,"Rostock, Hohe Düne Fähre",54.176712,12.097416
+192,377682,"Rostock, Hohe Düne Fähre",54.17676,12.098615
+193,85690,"Rostock, Hundsburgallee",54.11984,12.077302
+194,126573,"Rostock, Hölderlinweg",54.11172,12.151567
+195,134190,"Rostock, Hüerbaasweg",54.081215,12.179856
+196,450688,"Rostock, Industriestraße",54.129665,12.081383
+197,317678,"Rostock, J.-Curie-Allee",54.11166,12.134016
+198,259950,"Rostock, Jawaharal-Nehru-Str.",54.11397,12.159295
+199,226362,"Rostock, Jürgeshof",54.1681,12.196802
+200,306522,"Rostock, Kabutzenhof",54.09192,12.112679
+201,319062,"Rostock, Kabutzenhof",54.091843,12.11249
+202,440353,"Rostock, Kabutzenhof",54.09199,12.112333
+203,300112,"Rostock, Kassebohm (Bus)",54.07578,12.177744
+204,126358,"Rostock, Kassebohm Süd",54.072395,12.182375
+205,25115,"Rostock, Katerweg",54.100723,12.172311
+206,360860,"Rostock, Katerweg",54.100685,12.172615
+207,6183,"Rostock, Kirchenplatz",54.10392,12.115047
+208,311229,"Rostock, Kopenhagener Straße",54.134888,12.043644
+209,310254,"Rostock, Kraftwerk",54.141384,12.128149
+210,241112,"Rostock, Krummendorf",54.133865,12.110317
+211,369671,"Rostock, Krummendorf Nord",54.136143,12.120284
+212,144353,"Rostock, Kröpeliner Tor",54.089893,12.129009
+213,266990,"Rostock, Kröpeliner Tor",54.08975,12.129457
+214,96455,"Rostock, Kröpeliner Tor",54.089836,12.129143
+215,171252,"Rostock, Kunsthalle",54.09969,12.08659
+216,66937,"Rostock, Kunsthalle",54.09969,12.08659
+217,300523,"Rostock, Kuphalstraße",54.093773,12.08534
+218,190787,"Rostock, Kurt-Schumacher-Ring",54.10851,12.165029
+219,79222,"Rostock, Kurt-Schumacher-Ring",54.10885,12.164825
+220,120430,"Rostock, Lange Straße",54.089863,12.134695
+221,257222,"Rostock, Lange Straße",54.089954,12.134962
+222,388227,"Rostock, Lange Straße",54.090015,12.1344
+223,119995,"Rostock, Langenort",54.119194,12.104795
+224,168306,"Rostock, Langenort Hufe",54.116352,12.110733
+225,189478,"Rostock, Lessingstraße",54.0747,12.138411
+226,304388,"Rostock, Lomonossowstraße",54.06534,12.117504
+227,432843,"Rostock, Lomonossowstraße",54.065327,12.11738
+228,406638,"Rostock, Lorenzstraße",54.104874,12.159765
+229,451829,"Rostock, Lorenzstraße",54.10473,12.1598
+230,144691,"Rostock, Markgrafenheide",54.193626,12.145647
+231,138627,"Rostock, Martin-Luther-King-Al",54.111073,12.163297
+232,105076,"Rostock, Martin-Niemöller-Str.",54.1094,12.155062
+233,425983,"Rostock, Maxim-Gorki-Str.",54.119965,12.053014
+234,341183,"Rostock, Maßmannstraße",54.09305,12.107932
+235,74528,"Rostock, Maßmannstraße",54.09305,12.107932
+236,23017,"Rostock, Mecklenburger Allee",54.15539,12.058779
+237,91682,"Rostock, Mecklenburger Allee",54.15539,12.058779
+238,234517,"Rostock, Mendelejewstraße",54.07375,12.128069
+239,148228,"Rostock, Messestraße",54.110863,12.051427
+240,294444,"Rostock, Möllner Straße",54.14356,12.057492
+241,63503,"Rostock, Neu Hinrichsdorf",54.1253,12.165943
+242,59993,"Rostock, Neuer Markt",54.089027,12.140533
+243,73152,"Rostock, Neuer Markt",54.089104,12.140341
+244,361448,"Rostock, Nienhagen",54.148857,12.171937
+245,42741,"Rostock, Oldendorf",54.132607,12.106181
+246,272562,"Rostock, Osloer Straße",54.138073,12.048133
+247,273085,"Rostock, Osloer Straße",54.138252,12.047748
+248,445060,"Rostock, Petridamm",54.093094,12.157478
+249,278848,"Rostock, Platz der Jugend",54.081738,12.105909
+250,372219,"Rostock, Platz der Jugend",54.081814,12.105074
+251,102720,"Rostock, Pressentinstraße",54.11213,12.107234
+252,93830,"Rostock, Puschkinplatz",54.07601,12.140864
+253,73331,"Rostock, Rahnstädter Weg",54.10669,12.079356
+254,329381,"Rostock, Richard-Wagner-Straße",54.1731,12.080217
+255,284004,"Rostock, Riekdahl",54.091454,12.184982
+256,351470,"Rostock, Roald-Amundsen-Straße",54.131954,12.07315
+257,48505,"Rostock, Rohrmannsche Koppel",54.172855,12.046066
+258,390770,"Rostock, Rosenweg",54.08657,12.08479
+259,285135,"Rostock, Rudolf-Tarnow-Str.",54.08594,12.188749
+260,397342,"Rostock, Rügener Str.",54.14535,12.050367
+261,429949,"Rostock, Saarplatz",54.084843,12.116185
+262,56009,"Rostock, Saßnitzer Straße",54.145866,12.043822
+263,228943,"Rostock, Schenkendorfweg",54.103497,12.144702
+264,232977,"Rostock, Schmarl Dorf",54.135593,12.087824
+265,272612,"Rostock, Schmarl Zentrum",54.134342,12.073618
+266,452270,"Rostock, Schnatermannweg",54.19163,12.178848
+267,272672,"Rostock, Schröderplatz",54.087063,12.126243
+268,391216,"Rostock, Schröderplatz",54.08729,12.126489
+269,393327,"Rostock, Schröderplatz",54.086594,12.125917
+270,99708,"Rostock, Schulzenwiese",54.191135,12.159697
+271,126438,"Rostock, Schwaaner Landstraße",54.066944,12.13315
+272,367487,"Rostock, Schöffenweg",54.1092,12.110013
+273,432566,"Rostock, Seehafen Fähre",54.14626,12.100254
+274,336008,"Rostock, Seehafen Ost",54.147,12.121346
+275,26320,"Rostock, Seelotsenring",54.156395,12.079312
+276,353017,"Rostock, Siemens",54.125935,12.0793
+277,230099,"Rostock, Speicher",54.092365,12.143798
+278,149196,"Rostock, St. Petersburger Stra",54.137363,12.057296
+279,444192,"Rostock, St. Petersburger Stra",54.137363,12.057296
+280,116556,"Rostock, Stadion",54.086487,12.095409
+281,18506,"Rostock, Stadthalle",54.07791,12.127343
+282,272873,"Rostock, Stadthalle",54.078125,12.127084
+283,54706,"Rostock, Stadthalle",54.07787,12.127141
+284,283652,"Rostock, Stadtwerke",54.12302,12.080767
+285,87495,"Rostock, Steintor",54.08586,12.142939
+286,378251,"Rostock, Stephan-Jantzen-Ring",54.129967,12.071412
+287,365978,"Rostock, Sternwarte",54.085945,12.07765
+288,314574,"Rostock, Strand",54.182915,12.125249
+289,80803,"Rostock, Streuwiesenweg",54.166862,12.04201
+290,119557,"Rostock, Stuthof",54.16667,12.172214
+291,258563,"Rostock, Taklerring",54.151985,12.081358
+292,245595,"Rostock, Taterhörn",54.187313,12.132294
+293,443135,"Rostock, Theodor-Storm-Straße",54.116215,12.054483
+294,106718,"Rostock, Thomas-Morus-Straße",54.124577,12.057899
+295,11737,"Rostock, Thomas-Morus-Straße",54.124897,12.057632
+296,18068,"Rostock, Thomas-Morus-Straße",54.12461,12.058223
+297,279320,"Rostock, Thomas-Morus-Straße",54.124775,12.057898
+298,48750,"Rostock, Timmermannsstrat",54.08302,12.193493
+299,143214,"Rostock, Tschaikowskistraße",54.09049,12.088353
+300,51845,"Rostock, Turkuer Straße",54.142117,12.049563
+301,108859,"Rostock, Tychsenstraße",54.067184,12.123235
+302,27984,"Rostock, Ulrich-von-Hutten-Str",54.0968,12.080412
+303,407497,"Rostock, Ulrich-von-Hutten-Str",54.096973,12.08047
+304,423965,"Rostock, Urho-Kekkonen-Straße",54.11851,12.144861
+305,265057,"Rostock, Vicke-Schorler-Ring",54.074898,12.175475
+306,14753,"Rostock, Volkstheater",54.089996,12.118452
+307,211714,"Rostock, Volkstheater",54.090137,12.11857
+308,430065,"Rostock, Volkstheater",54.090034,12.118684
+309,77048,"Rostock, W.-Husemann-Straße",54.095436,12.07268
+310,437447,"Rostock, Warnemünde Fähre",54.176674,12.092648
+311,373734,"Rostock, Warnowallee",54.139347,12.049559
+312,306122,"Rostock, Warnowblick",54.11763,12.102413
+313,380082,"Rostock, Warnowrande",54.128708,12.105293
+314,356834,"Rostock, Weidendamm",54.11526,12.136506
+315,280896,"Rostock, Werftblick",54.162243,12.071047
+316,32559,"Rostock, Werftblick",54.161633,12.070941
+317,205860,"Rostock, Westfriedhof",54.080627,12.071769
+318,212390,"Rostock, ZOB (EA)",54.076096,12.130829
+319,172030,"Rostock, Zoo",54.08,12.087818
+320,316103,"Rostock, Zoo",54.080257,12.086354
+321,174731,"Rostock, Zu den Söllen",54.071926,12.170862
+322,228196,"Rostock, Zum Laakkanal",54.156742,12.073412
+323,213434,"Rostock, Zum Schäferteich",54.117687,12.140637
+324,216836,Rostock-Bramow,54.101826,12.093463
+325,317877,Wallensteins Lager,54.20857,12.212596
+326,256864,Warnemünde Friedhof,54.175224,12.051495
+327,122561,Warnemünde Fritz-Reuter-Straße,54.173267,12.085959
+328,53461,Warnemünde Haus Stolteraa,54.17684,12.068208
+329,192905,Warnemünde Kirchenplatz,54.17665,12.084741
+330,346762,Warnemünde Kurhausstraße,54.179523,12.079209
+331,47457,Warnemünde Strand,54.17653,12.058164
+332,206857,Warnemünde Wiesenweg,54.176193,12.075253
+333,393468,"Warnemünde, Poststraße",54.17471,12.087262
+334,157914,"Warnemünde, Seestraße",54.180252,12.082082
+335,40498,"Warnemünde, Wachtlerstraße",54.17735,12.081728

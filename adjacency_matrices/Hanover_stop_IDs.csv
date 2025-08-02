@@ -1,0 +1,1189 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,148380,Altwarmbüchen Varrelheide,52.4268,9.826392
+1,426651,Altwarmbüchen Varrelheide,52.425938,9.828216
+2,303277,Altwarmbüchen Varrelheidering,52.424164,9.8318
+3,393863,Altwarmbüchen Varrelheidering,52.42428,9.831639
+4,318120,H-Stadtfriedh.Lahe/Haupteing.,52.41297,9.827875
+5,146203,Hann. Deisterpl./Bornumer Str.,52.360752,9.712037
+6,3133,Hann. Deisterpl./Bornumer Str.,52.36104,9.713645
+7,385623,Hannover Aarhushof,52.335224,9.698796
+8,58640,Hannover Aarhushof,52.33528,9.698886
+9,120586,Hannover Aegidientorplatz,52.368725,9.743568
+10,174537,Hannover Aegidientorplatz,52.369232,9.742966
+11,310161,Hannover Aegidientorplatz,52.369564,9.743577
+12,327141,Hannover Aegidientorplatz,52.369293,9.743164
+13,337472,Hannover Aegidientorplatz,52.368668,9.743343
+14,435482,Hannover Aegidientorplatz,52.36983,9.742651
+15,190668,Hannover Ahlem,52.377144,9.664417
+16,192116,Hannover Ahlem,52.37731,9.663797
+17,230089,Hannover Ahlem,52.377247,9.665199
+18,232799,Hannover Ahlem,52.377384,9.664112
+19,260713,Hannover Ahlem,52.37734,9.664273
+20,300413,Hannover Ahlem,52.377094,9.664866
+21,364108,Hannover Ahlem,52.377235,9.664893
+22,430452,Hannover Ahlem,52.37702,9.665001
+23,67694,Hannover Ahlem,52.37727,9.663815
+24,101324,Hannover Allerweg,52.361897,9.721568
+25,316036,Hannover Allerweg,52.362118,9.721936
+26,398496,Hannover Allerweg,52.361816,9.720948
+27,198010,Hannover Alte Heide,52.415348,9.781557
+28,232398,Hannover Alte Heide,52.415348,9.781647
+29,237547,Hannover Alte Heide,52.415627,9.781324
+30,421676,Hannover Alte Heide,52.4157,9.780983
+31,50841,Hannover Alte Heide,52.415596,9.780641
+32,51823,Hannover Alte Heide,52.415462,9.780803
+33,176425,Hannover Altenauer Weg,52.400574,9.693846
+34,70875,Hannover Altenauer Weg,52.40023,9.693711
+35,125985,Hannover Altenbekener Damm,52.35404,9.755084
+36,202429,Hannover Altenbekener Damm,52.35552,9.754815
+37,248151,Hannover Altenbekener Damm,52.354927,9.75459
+38,457013,Hannover Altenbekener Damm,52.355343,9.7538
+39,83442,Hannover Altenbekener Damm,52.354816,9.754527
+40,87879,Hannover Altenbekener Damm,52.355618,9.754599
+41,260655,Hannover Alter Flughafen,52.415924,9.735564
+42,266956,Hannover Alter Flughafen,52.41618,9.733758
+43,364371,Hannover Alter Flughafen,52.416,9.73498
+44,85375,Hannover Alter Flughafen,52.416492,9.733812
+45,164560,Hannover Altes Dorf,52.365116,9.669609
+46,21734,Hannover Altes Dorf,52.365143,9.669663
+47,364836,Hannover Altes Dorf,52.36491,9.66934
+48,425461,Hannover Altes Dorf,52.36493,9.669331
+49,157625,Hannover Alvenslebenstraße,52.397854,9.742023
+50,387776,Hannover Alvenslebenstraße,52.397873,9.742139
+51,216576,Hannover Am Asphaltberge,52.376923,9.661111
+52,308535,Hannover Am Asphaltberge,52.376972,9.660375
+53,22714,Hannover Am Brabrinke,52.323822,9.783094
+54,340929,Hannover Am Brabrinke,52.32424,9.783004
+55,377539,Hannover Am Brabrinke,52.32393,9.783174
+56,428166,Hannover Am Brabrinke,52.32358,9.783148
+57,455023,Hannover Am Brabrinke,52.323593,9.783363
+58,457618,Hannover Am Brabrinke,52.323143,9.783273
+59,249587,Hannover Am Forstkamp,52.392754,9.84876
+60,383394,Hannover Am Forstkamp,52.392773,9.848482
+61,175175,Hannover Am Fuhrenkampe,52.40884,9.695463
+62,80105,Hannover Am Fuhrenkampe,52.40888,9.69549
+63,178843,Hannover Am Großmarkt,52.352825,9.693801
+64,23078,Hannover Am Großmarkt,52.353,9.694762
+65,37705,Hannover Am Hafen,52.384106,9.860717
+66,453015,Hannover Am Hafen,52.384453,9.860672
+67,164787,Hannover Am Kindergarten,52.366726,9.857124
+68,458468,Hannover Am Kindergarten,52.366707,9.857079
+69,295392,Hannover Am Klagesmarkt,52.379505,9.733201
+70,295676,Hannover Am Klagesmarkt,52.379406,9.733246
+71,155113,Hannover Am Küchengarten,52.371643,9.712738
+72,189007,Hannover Am Küchengarten,52.37146,9.71316
+73,338696,Hannover Am Küchengarten,52.371105,9.713115
+74,354028,Hannover Am Küchengarten,52.371635,9.712782
+75,375229,Hannover Am Küchengarten,52.371456,9.713133
+76,381725,Hannover Am Küchengarten,52.371155,9.714947
+77,400839,Hannover Am Küchengarten,52.371067,9.714615
+78,269333,Hannover Am Lindener Hafen,52.36504,9.692319
+79,32533,Hannover Am Lindener Hafen,52.365246,9.693496
+80,436317,Hannover Am Lindener Hafen,52.36498,9.693271
+81,80584,Hannover Am Lindener Hafen,52.36527,9.693496
+82,144726,Hannover Am Mittelfelde,52.335598,9.797781
+83,177529,Hannover Am Mittelfelde,52.334522,9.798473
+84,213568,Hannover Am Mittelfelde,52.33492,9.797251
+85,271325,Hannover Am Mittelfelde,52.33461,9.798859
+86,447342,Hannover Am Mittelfelde,52.33555,9.797826
+87,91913,Hannover Am Mittelfelde,52.334797,9.797862
+88,408837,Hannover Am Pferdeturm,52.371532,9.782034
+89,13161,Hannover Am Rotdorn,52.43871,9.801707
+90,282042,Hannover Am Rotdorn,52.438164,9.80194
+91,389666,Hannover Am Sauerwinkel,52.34144,9.701913
+92,86952,Hannover Am Sauerwinkel,52.34135,9.702344
+93,164385,Hannover Am Seelberg,52.387905,9.841322
+94,351992,Hannover Am Seelberg,52.387856,9.841349
+95,250512,Hannover Am Soltekampe,52.357616,9.677083
+96,298963,Hannover Am Soltekampe,52.357452,9.67694
+97,350344,Hannover Am Soltekampe,52.357353,9.676805
+98,421696,Hannover Am Soltekampe,52.35758,9.677173
+99,234467,Hannover Am Stöckener Bach,52.41252,9.653404
+100,393814,Hannover An den Deichwiesen,52.426003,9.816044
+101,405376,Hannover An den Deichwiesen,52.42576,9.81546
+102,397554,Hannover An der Breiten Wiese,52.38365,9.823886
+103,76870,Hannover An der Breiten Wiese,52.383366,9.823509
+104,237496,Hannover An der Engesohde,52.35413,9.753027
+105,180496,Hannover An der Kirche,52.329666,9.691969
+106,436629,Hannover An der Kirche,52.329853,9.691582
+107,233892,Hannover An der Martinskirche,52.36561,9.708965
+108,250933,Hannover An der Schleuse,52.358795,9.864265
+109,365601,Hannover An der Schleuse,52.358807,9.864238
+110,270787,Hannover An der Strangriede,52.391907,9.718873
+111,433199,Hannover An der Strangriede,52.391865,9.718837
+112,81520,Hannover An der Strangriede,52.390873,9.720876
+113,94105,Hannover An der Strangriede,52.3907,9.720885
+114,181215,Hannover An der Tiefenriede,52.356068,9.75795
+115,268343,Hannover An der Tiefenriede,52.355995,9.757995
+116,260962,Hannover Anderten,52.358467,9.858902
+117,273548,Hannover Anderten,52.35856,9.858121
+118,371608,Hannover Anderten,52.358536,9.858274
+119,430570,Hannover Anderten,52.358486,9.858741
+120,49986,Hannover Anderten,52.35836,9.858579
+121,73978,Hannover Anderten,52.358425,9.858345
+122,76443,Hannover Anderten,52.35865,9.85769
+123,66340,Hannover Anderten-Misburg,52.36916,9.861109
+124,218234,Hannover Angerstraße,52.350582,9.8273
+125,427024,Hannover Angerstraße,52.351147,9.827192
+126,132587,Hannover Annastift,52.369263,9.808651
+127,181039,Hannover Annastift,52.369343,9.808965
+128,213897,Hannover Annastift,52.369553,9.807896
+129,328810,Hannover Annastift,52.369457,9.808166
+130,310763,Hannover Apostelkirche,52.38531,9.745867
+131,443183,Hannover Apostelkirche,52.385384,9.745966
+132,242949,Hannover Appelstraße,52.38996,9.706413
+133,374135,Hannover Appelstraße,52.39021,9.706207
+134,138030,Hannover Auf der Klappenburg,52.41334,9.648023
+135,150252,Hannover Auf der Klappenburg,52.413197,9.648131
+136,232810,Hannover Auf der Klappenburg,52.413944,9.647601
+137,83063,Hannover Auf der Klappenburg,52.413837,9.647933
+138,100718,Hannover August-Holweg-Platz,52.349785,9.72296
+139,225099,Hannover August-Holweg-Platz,52.350094,9.72323
+140,27979,Hannover August-Madsack-Straße,52.350487,9.804896
+141,448533,Hannover August-Madsack-Straße,52.350636,9.804743
+142,263657,Hannover Bahnhof Bismarckstr.,52.35794,9.766942
+143,399713,Hannover Bahnhof Bismarckstr.,52.357834,9.766771
+144,83316,Hannover Bahnhof Bismarckstr.,52.35649,9.768765
+145,86458,Hannover Bahnhof Bismarckstr.,52.35638,9.768757
+146,240617,Hannover Bahnhof Kleefeld,52.37395,9.789804
+147,435296,Hannover Bahnhof Kleefeld,52.373962,9.790065
+148,282161,Hannover Bahnhof Ledeburg,52.409958,9.690702
+149,300189,Hannover Bahnhof Ledeburg,52.410027,9.690199
+150,229958,Hannover Bahnhof Leinhausen,52.397446,9.674568
+151,23603,Hannover Bahnhof Leinhausen,52.397236,9.674918
+152,116685,Hannover Bahnhof Linden/Fischerhof,52.353336,9.722098
+153,188725,Hannover Bahnhof Linden/Fischerhof,52.353138,9.721855
+154,375655,Hannover Bahnhof Linden/Fischerhof,52.352634,9.722215
+155,40140,Hannover Bahnhof Linden/Fischerhof,52.35235,9.722233
+156,182845,Hannover Bahnhof Nordstadt,52.393936,9.71846
+157,228621,Hannover Bahnhof Nordstadt,52.393833,9.718451
+158,322211,Hannover Bahnhof Nordstadt,52.393963,9.718469
+159,81957,Hannover Bahnhof Nordstadt,52.393875,9.718451
+160,199167,Hannover Bahnhof Vinnhorst,52.424168,9.706845
+161,328641,Hannover Bahnhof Vinnhorst,52.42401,9.706252
+162,174684,Hannover Bahnstrift,52.417152,9.772422
+163,320179,Hannover Bahnstrift,52.417007,9.772718
+164,418972,Hannover Bahnstrift,52.417282,9.772413
+165,62192,Hannover Bahnstrift,52.41728,9.77235
+166,439677,Hannover Bardowicker Straße,52.368874,9.703081
+167,71337,Hannover Bardowicker Straße,52.368877,9.702991
+168,190401,Hannover Bartold-Knaust-Straße,52.34205,9.70989
+169,240044,Hannover Bartold-Knaust-Straße,52.342045,9.710267
+170,194137,Hannover Baumschulenallee,52.385555,9.822673
+171,94904,Hannover Baumschulenallee,52.385536,9.822593
+172,125637,Hannover Bauweg,52.360935,9.692606
+173,197120,Hannover Bauweg,52.360912,9.692966
+174,345230,Hannover Beckstraße,52.34593,9.688663
+175,434625,Hannover Beckstraße,52.345863,9.688672
+176,376194,Hannover Beekestraße,52.34342,9.725089
+177,81667,Hannover Beekestraße,52.343662,9.725134
+178,335692,Hannover Bemerod. Rathausplatz,52.346504,9.827399
+179,364516,Hannover Bemerod. Rathausplatz,52.34674,9.827093
+180,416066,Hannover Bemerod. Rathausplatz,52.346214,9.826024
+181,345811,Hannover Beneckeallee,52.414406,9.702452
+182,432092,Hannover Beneckeallee,52.41457,9.702362
+183,15810,Hannover Benther Berg,52.356354,9.641807
+184,317135,Hannover Benther Berg,52.356316,9.641869
+185,358372,Hannover Bernhard-Caspar-Str.,52.366356,9.7007
+186,383860,Hannover Bernhard-Caspar-Str.,52.366158,9.69964
+187,51160,Hannover Bernhard-Caspar-Str.,52.36636,9.7007
+188,60937,Hannover Bernhard-Caspar-Str.,52.36615,9.69964
+189,188964,Hannover Bf Anderten-Misburg,52.368465,9.861013
+190,416572,Hannover Bf Anderten-Misburg,52.36845,9.861229
+191,201721,Hannover Bf K.-Wiechert-Allee,52.37509,9.807932
+192,245329,Hannover Bf K.-Wiechert-Allee,52.37477,9.808121
+193,266976,Hannover Bf K.-Wiechert-Allee,52.374386,9.807833
+194,452733,Hannover Bf K.-Wiechert-Allee,52.37479,9.807716
+195,287678,Hannover Bleekstraße,52.365044,9.81387
+196,313167,Hannover Bleekstraße,52.365128,9.813538
+197,316277,Hannover Bleekstraße,52.365147,9.813627
+198,438412,Hannover Bleekstraße,52.365604,9.813286
+199,207573,Hannover Blumhardtstraße,52.371784,9.806099
+200,305901,Hannover Blumhardtstraße,52.372147,9.806755
+201,101930,Hannover Bogenstraße,52.40966,9.7007
+202,49283,Hannover Bogenstraße,52.409645,9.700628
+203,153065,Hannover Bollnäser Straße,52.39968,9.828
+204,17751,Hannover Bothfeld,52.414646,9.797107
+205,273456,Hannover Bothfeld,52.414227,9.797098
+206,322210,Hannover Bothfeld,52.415207,9.795931
+207,82429,Hannover Bothfeld,52.41517,9.796164
+208,201655,Hannover Bothfelder Kirchweg,52.41274,9.798194
+209,334211,Hannover Bothfelder Kirchweg,52.41243,9.797296
+210,342274,Hannover Bothfelder Kirchweg,52.412373,9.798428
+211,8004,Hannover Bothfelder Kirchweg,52.41222,9.796874
+212,261365,Hannover Bothmerstraße,52.33317,9.772997
+213,44350,Hannover Bothmerstraße,52.33274,9.773266
+214,121790,Hannover Boulevard de Montréal,52.317375,9.821784
+215,299808,Hannover Boulevard de Montréal,52.317318,9.821721
+216,100827,Hannover Brabeckstraße,52.344612,9.827704
+217,191952,Hannover Brabeckstraße,52.34439,9.82721
+218,261625,Hannover Brabeckstraße,52.34479,9.827129
+219,288210,Hannover Brabeckstraße,52.344467,9.828315
+220,201446,Hannover Braunschweiger Platz,52.37049,9.761795
+221,22547,Hannover Braunschweiger Platz,52.37018,9.762334
+222,39075,Hannover Braunschweiger Platz,52.37081,9.7621
+223,59530,Hannover Braunschweiger Platz,52.37042,9.762109
+224,108459,Hannover Brehmstraße,52.36738,9.76563
+225,273257,Hannover Brehmstraße,52.36755,9.765648
+226,110271,Hannover Brunnenstraße,52.37726,9.684557
+227,266383,Hannover Brunnenstraße,52.377335,9.683965
+228,322020,Hannover Brückstraße,52.33211,9.7553
+229,434271,Hannover Brückstraße,52.33229,9.755497
+230,295358,Hannover Brüder-Grimm-Schule,52.401928,9.768774
+231,426583,Hannover Brüder-Grimm-Schule,52.40198,9.768972
+232,436761,Hannover Buchholz/Betriebshof,52.407692,9.800799
+233,406566,Hannover Burgweg,52.395855,9.701518
+234,187701,Hannover Bussestraße,52.403183,9.801177
+235,267891,Hannover Bussestraße,52.403183,9.801249
+236,396495,Hannover Bünteweg/L.-Hop-Str.,52.355762,9.818918
+237,439855,Hannover Bünteweg/L.-Hop-Str.,52.355804,9.8189
+238,101624,Hannover Bünteweg/TiHo,52.354027,9.796874
+239,310453,Hannover Bünteweg/TiHo,52.354668,9.796182
+240,354481,Hannover Bünteweg/TiHo,52.354774,9.797476
+241,443276,Hannover Bünteweg/TiHo,52.35415,9.796784
+242,4103,Hannover Büttnerstraße,52.402767,9.735528
+243,93863,Hannover Büttnerstraße,52.40229,9.735519
+244,2900,Hannover Calenberger Straße,52.37021,9.727281
+245,323291,Hannover Calenberger Straße,52.370132,9.727048
+246,147916,Hannover Canarisweg,52.344524,9.692373
+247,436048,Hannover Canarisweg,52.344578,9.692328
+248,442537,Hannover Canarisweg,52.34395,9.692696
+249,327847,Hannover Celler Straße,52.38221,9.738555
+250,331765,Hannover Celler Straße,52.382313,9.737845
+251,81017,Hannover Celler Straße,52.38161,9.737342
+252,63664,Hannover Charlottenstraße,52.36225,9.716555
+253,17174,Hannover Chicago Lane,52.313934,9.821416
+254,298897,Hannover Chicago Lane,52.313927,9.821586
+255,238885,Hannover Christuskirche,52.38176,9.725718
+256,325245,Hannover Christuskirche,52.382423,9.725512
+257,350623,Hannover Christuskirche,52.38176,9.725583
+258,240008,Hannover Claudiusstraße,52.329006,9.782222
+259,90660,Hannover Claudiusstraße,52.32902,9.782132
+260,130952,Hannover Clausewitzstraße,52.371056,9.773401
+261,201419,Hannover Clausewitzstraße,52.371094,9.772988
+262,160431,Hannover Congress Centrum,52.377563,9.769071
+263,260529,Hannover Congress Centrum,52.37707,9.769278
+264,33278,Hannover Congress Centrum,52.37686,9.768343
+265,57506,Hannover Congress Centrum,52.37716,9.769152
+266,331554,Hannover Constantinstraße,52.40169,9.763286
+267,374230,Hannover Constantinstraße,52.401543,9.763385
+268,350084,Hannover Cranzer Weg,52.410187,9.784028
+269,67221,Hannover Cranzer Weg,52.410233,9.784001
+270,200111,Hannover Culemeyertrift,52.396976,9.692391
+271,291025,Hannover Culemeyertrift,52.39685,9.692373
+272,320157,Hannover Culemeyertrift,52.396645,9.693927
+273,376684,Hannover Davenstedter Holz,52.37007,9.670175
+274,8386,Hannover Davenstedter Holz,52.370045,9.670077
+275,47182,Hannover Davenstedter Platz,52.365498,9.676167
+276,9438,Hannover Davenstedter Platz,52.365543,9.676104
+277,206643,Hannover Deisterplatz/Allerweg,52.362827,9.71634
+278,330160,Hannover Deisterplatz/Allerweg,52.362865,9.716394
+279,95503,Hannover Distelborn,52.329254,9.690882
+280,138023,Hannover Doggerweg,52.36693,9.664471
+281,87257,Hannover Doggerweg,52.366863,9.663474
+282,208194,Hannover Dorfstraße,52.32757,9.779815
+283,457387,Hannover Dorfstraße,52.32841,9.780345
+284,222430,Hannover Dragonerstraße,52.394516,9.737163
+285,302645,Hannover Dragonerstraße,52.39464,9.736291
+286,388770,Hannover Dragonerstraße,52.39427,9.735393
+287,78824,Hannover Dragonerstraße,52.39386,9.735195
+288,249112,Hannover Dreifaltigkeitskirche,52.381844,9.753458
+289,257845,Hannover Dreifaltigkeitskirche,52.38266,9.75335
+290,80636,Hannover Dresdener Straße,52.41098,9.752335
+291,433535,Hannover Droehnenstraße,52.367825,9.670822
+292,77221,Hannover Droehnenstraße,52.3677,9.670732
+293,228699,Hannover Dunantstraße,52.415974,9.762334
+294,251557,Hannover Dunantstraße,52.4159,9.762325
+295,344406,Hannover Döhren/Betriebshof,52.337334,9.770266
+296,88388,Hannover Döhren/Betriebshof,52.337822,9.771451
+297,162122,Hannover Döhrener Turm,52.345474,9.7621
+298,50722,Hannover Döhrener Turm,52.345078,9.762352
+299,379748,Hannover Dörpefeld,52.42241,9.701248
+300,94741,Hannover Dörpefeld,52.422443,9.701652
+301,217230,Hannover Eckenerstraße,52.41652,9.742876
+302,263398,Hannover Eckenerstraße,52.416393,9.742687
+303,85876,Hannover Ehrhartstraße,52.377373,9.673598
+304,92301,Hannover Ehrhartstraße,52.377422,9.673212
+305,300000,Hannover Eibenweg,52.414314,9.712333
+306,74144,Hannover Eibenweg,52.414284,9.712342
+307,242988,Hannover Eichenfeldstraße,52.35539,9.670319
+308,337427,Hannover Eichenfeldstraße,52.355614,9.671406
+309,242193,Hannover Eifelweg,52.41026,9.776877
+310,41295,Hannover Eifelweg,52.4102,9.776967
+311,390466,Hannover Elsenborner Straße,52.34038,9.783947
+312,58581,Hannover Elsenborner Straße,52.34038,9.783884
+313,25750,Hannover Emslandstraße,52.34565,9.820149
+314,446399,Hannover Emslandstraße,52.34554,9.820347
+315,458967,Hannover Emslandstraße,52.346127,9.821712
+316,29290,Hannover Eupener Straße,52.343277,9.780228
+317,311195,Hannover Eupener Straße,52.343147,9.78012
+318,193374,Hannover Fasanenkrug,52.43172,9.801141
+319,308801,Hannover Fasanenkrug,52.43142,9.800746
+320,327857,Hannover Fasanenkrug,52.43153,9.800934
+321,96022,Hannover Fasanenkrug,52.431595,9.800754
+322,114625,Hannover Fehrsweg,52.399014,9.813969
+323,117919,Hannover Fehrsweg,52.39908,9.813708
+324,231724,Hannover Fehrsweg,52.399117,9.81378
+325,63449,Hannover Fehrsweg,52.398968,9.814005
+326,27972,Hannover Feldbuschwende,52.34209,9.836094
+327,349386,Hannover Feldbuschwende,52.342323,9.836436
+328,17596,Hannover Fenskestraße,52.39593,9.717786
+329,284474,Hannover Fenskestraße,52.39655,9.717067
+330,433397,Hannover Fenskestraße,52.39664,9.71704
+331,86686,Hannover Fenskestraße,52.395752,9.717615
+332,378250,Hannover Fiedelerstraße,52.3415,9.765756
+333,45555,Hannover Fiedelerstraße,52.34116,9.765954
+334,157129,Hannover Flüggestraße,52.385693,9.749263
+335,188494,Hannover Flüggestraße,52.38571,9.750009
+336,203922,Hannover Forst Heidehaus,52.423313,9.627191
+337,427322,Hannover Forst Heidehaus,52.42336,9.62685
+338,182988,Hannover Forst Mecklenheide,52.427505,9.685599
+339,348091,Hannover Forst Mecklenheide,52.427544,9.685626
+340,288927,Hannover Franz-Steineke-Weg,52.428574,9.821622
+341,432828,Hannover Franz-Steineke-Weg,52.42854,9.821775
+342,112652,Hannover Freboldstraße,52.36473,9.660977
+343,120867,Hannover Freboldstraße,52.36477,9.661228
+344,255081,Hannover Freienwalder Straße,52.395355,9.861094
+345,415411,Hannover Freienwalder Straße,52.395367,9.861031
+346,203083,Hannover Freudenthalstraße,52.404987,9.660492
+347,294274,Hannover Freudenthalstraße,52.40474,9.660743
+348,25783,Hannover Freundallee,52.369324,9.771784
+349,342942,Hannover Freundallee,52.369656,9.771847
+350,108575,Hannover Fridtj.-Nansen-Schule,52.415157,9.756773
+351,13847,Hannover Fridtj.-Nansen-Schule,52.4152,9.756755
+352,115105,Hannover Friedenauer Straße,52.411644,9.706234
+353,121490,Hannover Friedenauer Straße,52.412506,9.706018
+354,13096,Hannover Friedenauer Straße,52.411808,9.70618
+355,407925,Hannover Friedenauer Straße,52.412483,9.706126
+356,117583,Hannover Friedenstraße,52.37819,9.757761
+357,221426,Hannover Friedenstraße,52.378326,9.757932
+358,214473,Hannover Friedhof Marienwerder,52.408104,9.626077
+359,232737,Hannover Friedhof Marienwerder,52.40817,9.625987
+360,150445,Hannover Friedhofsallee,52.339363,9.780219
+361,170837,Hannover Friedhofsallee,52.339413,9.780291
+362,31031,Hannover Gartenheimstraße,52.41955,9.804536
+363,343524,Hannover Gartenheimstraße,52.419582,9.804348
+364,115848,Hannover Gehägestraße,52.399845,9.792391
+365,170359,Hannover Gehägestraße,52.396935,9.792777
+366,30020,Hannover Gehägestraße,52.39693,9.790756
+367,371704,Hannover Gehägestraße,52.39707,9.79311
+368,144494,Hannover Geibelstraße,52.35981,9.750673
+369,454264,Hannover Geibelstraße,52.359985,9.750673
+370,183116,Hannover Gerberstraße,52.37583,9.720903
+371,118371,Hannover Gernsstraße,52.41757,9.80662
+372,225573,Hannover Gernsstraße,52.417355,9.806432
+373,221229,Hannover Gerrit-Engelke-Straße,52.403934,9.776734
+374,337325,Hannover Gerrit-Engelke-Straße,52.403908,9.77676
+375,148765,Hannover Gertrud-Greising-Weg,52.401993,9.765037
+376,308391,Hannover Gertrud-Greising-Weg,52.402027,9.764903
+377,186349,Hannover Glocksee,52.3737,9.718523
+378,421444,Hannover Glocksee,52.373665,9.71917
+379,436080,Hannover Glocksee,52.373753,9.719098
+380,156320,Hannover Glocksee/Betriebshof,52.37454,9.718379
+381,205438,Hannover Glocksee/Betriebshof,52.3745,9.718379
+382,382841,Hannover Gneisenaustraße,52.375328,9.765244
+383,400351,Hannover Gneisenaustraße,52.37529,9.76555
+384,200376,Hannover Goetheplatz,52.373222,9.724874
+385,217831,Hannover Goetheplatz,52.373165,9.725116
+386,268136,Hannover Goetheplatz,52.37309,9.724721
+387,323127,Hannover Goetheplatz,52.373062,9.725
+388,446161,Hannover Goetheschule,52.394512,9.70768
+389,339149,Hannover Gorch-Fock-Straße,52.403946,9.779635
+390,399455,Hannover Gorch-Fock-Straße,52.404453,9.781054
+391,48201,Hannover Gorch-Fock-Straße,52.4039,9.779105
+392,18447,Hannover Grabbestraße,52.393764,9.731503
+393,364629,Hannover Grabbestraße,52.393784,9.731548
+394,353178,Hannover Gradestraße,52.403934,9.742373
+395,391148,Hannover Gradestraße,52.40396,9.742373
+396,395503,Hannover Grenzstraße,52.38492,9.828414
+397,399187,Hannover Grenzstraße,52.384895,9.828521
+398,26274,Hannover Gretelriede,52.406155,9.693783
+399,300243,Hannover Gretelriede,52.406197,9.693738
+400,10336,Hannover Gronostraße,52.3453,9.717193
+401,400123,Hannover Gronostraße,52.345367,9.717256
+402,106333,Hannover Groß-Buchholzer Str.,52.39918,9.804186
+403,345644,Hannover Groß-Buchholzer Str.,52.399277,9.804483
+404,350527,Hannover Große Heide,52.434746,9.802614
+405,94975,Hannover Große Heide,52.43549,9.802749
+406,15633,Hannover Große Pranke,52.406097,9.619313
+407,389063,Hannover Große Pranke,52.40611,9.619268
+408,106899,Hannover Großer Hillen,52.36159,9.82739
+409,108967,Hannover Großer Hillen,52.361652,9.827381
+410,243412,Hannover Großer Hillen,52.361137,9.827345
+411,432354,Hannover Großer Hillen,52.361088,9.826725
+412,62501,Hannover Großer Hillen,52.360954,9.829123
+413,67034,Hannover Großer Hillen,52.360847,9.828899
+414,148079,Hannover Großer Kolonnenweg,52.40613,9.73825
+415,307326,Hannover Großer Kolonnenweg,52.406372,9.738591
+416,21204,Hannover Grundschule Ahlem,52.383564,9.663708
+417,28349,Hannover Grundschule Ahlem,52.383774,9.663761
+418,187102,Hannover Grundschule Wettberg.,52.328903,9.699793
+419,444124,Hannover Grundschule Wettberg.,52.32886,9.699892
+420,172774,Hannover Göttinger Straße,52.35822,9.716358
+421,318225,Hannover Göttinger Straße,52.35773,9.716349
+422,317392,Hannover HDI Arena,52.36195,9.733731
+423,12918,Hannover Haberhof,52.39647,9.815496
+424,5659,Hannover Haberhof,52.396454,9.815442
+425,221518,Hannover Hainhölzer Markt,52.401375,9.712756
+426,389608,Hannover Hainhölzer Markt,52.401466,9.712791
+427,190789,Hannover Hallesche Straße,52.410347,9.754383
+428,270270,Hannover Hallesche Straße,52.41029,9.754383
+429,197370,Hannover Haltenhoffstraße,52.39297,9.713636
+430,223312,Hannover Haltenhoffstraße,52.392796,9.71342
+431,342092,Hannover Haltenhoffstraße,52.393078,9.713492
+432,359788,Hannover Haltenhoffstraße,52.393097,9.713753
+433,222469,Hannover Hangstraße,52.33123,9.691744
+434,419149,Hannover Hangstraße,52.331234,9.691654
+435,146811,Hannover Hannoversche Straße,52.38606,9.832267
+436,42297,Hannover Hannoversche Straße,52.385956,9.831737
+437,276805,Hannover Hans-Sachs-Weg,52.342117,9.789067
+438,374029,Hannover Hans-Sachs-Weg,52.34251,9.789786
+439,322847,Hannover Hansastraße,52.4192,9.65141
+440,339904,Hannover Hansastraße,52.418964,9.651446
+441,210584,Hannover Harenberger Straße,52.377098,9.689489
+442,257131,Hannover Harenberger Straße,52.37705,9.689777
+443,195528,Hannover Hartmannstraße,52.37344,9.863142
+444,196347,Hannover Hartmannstraße,52.37301,9.863071
+445,132175,Hannover Hauptbahnhof,52.378326,9.742562
+446,237020,Hannover Hauptbahnhof,52.378384,9.743199
+447,303652,Hannover Hauptbahnhof,52.378273,9.742741
+448,367885,Hannover Hauptbahnhof,52.378437,9.743029
+449,214851,Hannover Hauptbahnhof/E.-A.-Pl,52.375694,9.741259
+450,309140,Hannover Hauptbahnhof/E.-A.-Pl,52.375694,9.741358
+451,107383,Hannover Hauptbahnhof/Rosenstraße,52.376945,9.73851
+452,21029,Hannover Hauptbahnhof/Rosenstraße,52.37696,9.737756
+453,286437,Hannover Hauptbahnhof/Rosenstraße,52.37696,9.738142
+454,447121,Hannover Hauptbahnhof/Rosenstraße,52.37702,9.737639
+455,59977,Hannover Hauptbahnhof/Rosenstraße,52.376884,9.737819
+456,92354,Hannover Hauptbahnhof/Rosenstraße,52.37706,9.73807
+457,132471,Hannover Hauptbahnhof/ZOB,52.379017,9.742508
+458,170669,Hannover Hauptbahnhof/ZOB,52.378716,9.741376
+459,32236,Hannover Hauptbahnhof/ZOB,52.378986,9.742562
+460,374805,Hannover Hauptbahnhof/ZOB,52.378487,9.741744
+461,428957,Hannover Hauptbahnhof/ZOB,52.378468,9.741618
+462,435849,Hannover Hauptbahnhof/ZOB,52.37848,9.741717
+463,453473,Hannover Hauptbahnhof/ZOB,52.378777,9.741232
+464,23957,Hannover Hbf,52.376762,9.741021
+465,32566,Hannover Heidering,52.380104,9.812621
+466,385648,Hannover Heidering,52.380245,9.813008
+467,348588,Hannover Heidjerhof,52.377346,9.802506
+468,396415,Hannover Heidjerhof,52.377377,9.802398
+469,2575,Hannover Heinrich-Heine-Straße,52.360287,9.764067
+470,408471,Hannover Heinrich-Heine-Straße,52.360138,9.764445
+471,424559,Hannover Heitlinger Straße,52.430447,9.64805
+472,198412,Hannover Hermann-Ehlers-Allee,52.347347,9.669924
+473,310913,Hannover Hermann-Ehlers-Allee,52.348095,9.669888
+474,269980,Hannover Herrenhäuser Gärten,52.391415,9.700179
+475,321988,Hannover Herrenhäuser Gärten,52.391655,9.699191
+476,431959,Hannover Herrenhäuser Gärten,52.391693,9.6992
+477,74580,Hannover Herrenhäuser Gärten,52.39154,9.699685
+478,305600,Hannover Herrenhäuser Markt,52.39368,9.683767
+479,73533,Hannover Herrenhäuser Markt,52.39354,9.684081
+480,108102,Hannover Hesemannstraße,52.401657,9.80274
+481,125498,Hannover Hesemannstraße,52.40164,9.802677
+482,305650,Hannover Heusingerstraße,52.412586,9.678395
+483,425620,Hannover Heusingerstraße,52.412834,9.678161
+484,35886,Hannover Hilde-Schneider-Allee,52.35339,9.757078
+485,353436,Hannover Hilshof,52.408817,9.672403
+486,382932,Hannover Hinrichsring,52.40496,9.776994
+487,112844,Hannover Hinter dem Dorfe,52.34172,9.826536
+488,183592,Hannover Hinter dem Dorfe,52.341938,9.826922
+489,361235,Hannover Hintzehof,52.41652,9.797844
+490,38420,Hannover Hintzehof,52.41664,9.79832
+491,254319,Hannover Hirtenweg,52.40281,9.740028
+492,259173,Hannover Hirtenweg,52.402786,9.740046
+493,395,Hannover Hoher Weg,52.338184,9.783363
+494,443111,Hannover Hoher Weg,52.33816,9.78348
+495,355710,Hannover Hollerithallee,52.412457,9.632383
+496,362973,Hannover Hollerithallee,52.41245,9.632338
+497,244474,Hannover Holthusenstraße,52.338894,9.775099
+498,338718,Hannover Holthusenstraße,52.33882,9.775215
+499,252679,Hannover Hudeplan,52.34973,9.686534
+500,279970,Hannover Humboldtstraße,52.369553,9.722978
+501,366591,Hannover Humboldtstraße,52.370686,9.723311
+502,417313,Hannover Humboldtstraße,52.369675,9.723311
+503,444168,Hannover Humboldtstraße,52.37029,9.723194
+504,308563,Hannover Höfestraße,52.396748,9.748688
+505,402695,Hannover Höfestraße,52.396725,9.74858
+506,265598,Hannover Höltjebaumstraße,52.34613,9.788879
+507,294681,Hannover Höltjebaumstraße,52.346165,9.788816
+508,127798,Hannover Ikarusallee,52.419754,9.744834
+509,281607,Hannover Ikarusallee,52.419754,9.744951
+510,119273,Hannover Im Born,52.35748,9.664067
+511,445902,Hannover Im Born,52.357464,9.664076
+512,244685,Hannover Im Dorfe,52.350246,9.684306
+513,411142,Hannover Im Dorfe,52.350258,9.684234
+514,339962,Hannover Im Hellerloh,52.32811,9.6863
+515,102894,Hannover Im Wiesenhof,52.36303,9.859962
+516,93336,Hannover Im Wiesenhof,52.36328,9.859774
+517,103663,Hannover Immelmannstraße,52.415558,9.677766
+518,278480,Hannover Immelmannstraße,52.415565,9.677883
+519,321532,Hannover Immelmannstraße,52.416065,9.67817
+520,61619,Hannover Immelmannstraße,52.41616,9.678188
+521,273506,Hannover In den Sieben Stücken,52.40882,9.80804
+522,73163,Hannover In den Sieben Stücken,52.40885,9.808408
+523,133889,Hannover In der Steinbreite,52.37305,9.667498
+524,246842,Hannover In der Steinbreite,52.37309,9.667121
+525,373079,Hannover In der Steinbreite,52.373074,9.667256
+526,87424,Hannover In der Steinbreite,52.37309,9.66757
+527,187208,Hannover Industrieweg,52.421825,9.717454
+528,313423,Hannover Industrieweg,52.42174,9.717301
+529,274957,Hannover Innersteweg,52.407806,9.692094
+530,276469,Hannover Innersteweg,52.408104,9.692121
+531,435914,Hannover Isernhagener Straße,52.39183,9.739337
+532,406040,Hannover Jahnplatz,52.393852,9.729078
+533,423737,Hannover Jahnplatz,52.393772,9.729024
+534,169353,Hannover Jakobi-/Voßstraße,52.390182,9.743837
+535,234737,Hannover Jakobi-/Voßstraße,52.39076,9.744179
+536,78744,Hannover Jakobi-/Voßstraße,52.390537,9.74364
+537,105973,Hannover Johanneskamp,52.335033,9.838708
+538,397379,Hannover Johanneskamp,52.33513,9.838717
+539,451395,Hannover Jugendgästehaus,52.323433,9.767445
+540,98207,Hannover Jugendgästehaus,52.32334,9.767822
+541,106121,Hannover Jädekamp,52.416313,9.641286
+542,255826,Hannover Jädekamp,52.41588,9.642633
+543,361793,Hannover Jädekamp,52.41566,9.64284
+544,89982,Hannover Jädekamp,52.416134,9.641959
+545,106500,Hannover Kabelkamp,52.412483,9.735366
+546,169678,Hannover Kabelkamp,52.412373,9.734773
+547,169939,Hannover Kabelkamp,52.41211,9.734315
+548,325653,Hannover Kabelkamp,52.411835,9.734243
+549,149326,Hannover Kafkastraße,52.39495,9.84249
+550,356920,Hannover Kafkastraße,52.395065,9.8424
+551,11034,Hannover Kahlendamm,52.443874,9.800207
+552,56915,Hannover Kahlendamm,52.443974,9.800171
+553,204106,Hannover Kaiserallee,52.379856,9.76183
+554,387126,Hannover Kaiserallee,52.37969,9.761309
+555,85634,Hannover Kampstraße,52.39024,9.849003
+556,92090,Hannover Kampstraße,52.3902,9.848994
+557,100749,Hannover Kantplatz,52.3727,9.785025
+558,39346,Hannover Kantplatz,52.37255,9.784773
+559,444526,Hannover Kantplatz,52.37219,9.786516
+560,64309,Hannover Kantplatz,52.37236,9.785816
+561,132551,Hannover Karl-Wiechert-Allee,52.374416,9.808116
+562,280301,Hannover Karlsruher Straße,52.331207,9.788789
+563,283987,Hannover Karlsruher Straße,52.33125,9.788744
+564,235058,Hannover Kastanienallee,52.334682,9.770553
+565,282201,Hannover Kastanienallee,52.33461,9.770463
+566,359062,Hannover Katzenwinkel,52.33944,9.823176
+567,418880,Hannover Katzenwinkel,52.3395,9.82323
+568,26097,Hannover Kerstingstraße,52.364983,9.771514
+569,293233,Hannover Kerstingstraße,52.36448,9.77314
+570,66722,Hannover Kerstingstraße,52.365253,9.771433
+571,71036,Hannover Kerstingstraße,52.364372,9.773239
+572,188786,Hannover Kiefernpfad,52.419903,9.781566
+573,343828,Hannover Kiefernpfad,52.419903,9.781531
+574,156952,Hannover Kirchbichler Straße,52.32632,9.849722
+575,225289,Hannover Kirchbichler Straße,52.326145,9.849668
+576,136390,Hannover Kirchwender Straße,52.37651,9.75388
+577,182294,Hannover Kirchwender Straße,52.376656,9.75433
+578,250671,Hannover Kleiner Hillen,52.358585,9.827228
+579,398764,Hannover Kleiner Hillen,52.35829,9.827228
+580,256286,Hannover Kleiner Holzhägen,52.356457,9.872431
+581,98642,Hannover Kleiner Holzhägen,52.356483,9.872431
+582,218053,Hannover Klingerstraße,52.402756,9.791017
+583,305359,Hannover Klingerstraße,52.40282,9.791026
+584,68716,Hannover Klingerstraße,52.402744,9.79055
+585,261,Hannover Konradstraße,52.332035,9.701616
+586,393786,Hannover Konradstraße,52.332047,9.701688
+587,139574,Hannover Kopernikusstraße,52.386574,9.723724
+588,244125,Hannover Kopernikusstraße,52.386665,9.723778
+589,247693,Hannover Kopernikusstraße,52.38708,9.723499
+590,116950,Hannover Kreisstraße,52.380547,9.862397
+591,312608,Hannover Kreisstraße,52.380836,9.862136
+592,386737,Hannover Krepenstraße,52.40745,9.709836
+593,42909,Hannover Krepenstraße,52.407642,9.709764
+594,315489,Hannover Kriegerstraße,52.38848,9.740918
+595,401892,Hannover Kriegerstraße,52.388313,9.740496
+596,112301,Hannover Kronsberg,52.33876,9.833417
+597,151548,Hannover Kronsberg,52.33831,9.832842
+598,412101,Hannover Kronsberg,52.338882,9.833642
+599,88873,Hannover Kronsberg,52.338196,9.833615
+600,122309,Hannover Kröpcke,52.373352,9.739507
+601,127477,Hannover Kröpcke,52.37363,9.739319
+602,138673,Hannover Kröpcke,52.373817,9.738241
+603,145120,Hannover Kröpcke,52.373688,9.739319
+604,159999,Hannover Kröpcke,52.37374,9.73913
+605,172280,Hannover Kröpcke,52.373905,9.738375
+606,234017,Hannover Kröpcke,52.373352,9.739507
+607,332243,Hannover Kröpcke,52.37342,9.739444
+608,369059,Hannover Kröpcke,52.373642,9.739157
+609,137076,Hannover Krügerskamp,52.334343,9.830013
+610,72262,Hannover Krügerskamp,52.334496,9.830219
+611,324365,Hannover Kurze-Kamp-Straße,52.42031,9.797485
+612,54734,Hannover Kurze-Kamp-Straße,52.420044,9.797161
+613,14782,Hannover Königsberger Ring,52.35936,9.852381
+614,169103,Hannover Königsberger Ring,52.359814,9.84974
+615,317921,Hannover Königsberger Ring,52.359383,9.851617
+616,95516,Hannover Königsberger Ring,52.35946,9.851366
+617,183466,Hannover Königstraße,52.37563,9.747538
+618,369270,Hannover Königstraße,52.375366,9.7469
+619,131171,Hannover Königsworther Platz,52.37819,9.723113
+620,248288,Hannover Königsworther Platz,52.37807,9.723014
+621,346441,Hannover Königsworther Platz,52.378128,9.723095
+622,272550,Hannover Körtingsdorfer Weg,52.360207,9.686435
+623,299977,Hannover Körtingsdorfer Weg,52.360207,9.685977
+624,283322,Hannover Kötnerholzweg,52.370026,9.706315
+625,389307,Hannover Kötnerholzweg,52.370014,9.706324
+626,123292,Hannover Laher Kirchweg,52.41276,9.805399
+627,202734,Hannover Laher Kirchweg,52.412697,9.805525
+628,100652,Hannover Landwehrstraße,52.33578,9.761974
+629,50888,Hannover Landwehrstraße,52.335835,9.761947
+630,196189,Hannover Lange-Feld-Straße,52.359596,9.820967
+631,241480,Hannover Lange-Feld-Straße,52.359493,9.820203
+632,218787,Hannover Langenforther Straße,52.42457,9.781557
+633,98116,Hannover Langenforther Straße,52.424454,9.781441
+634,170137,Hannover Lathusenstraße,52.376286,9.798697
+635,78816,Hannover Lathusenstraße,52.376663,9.799659
+636,237541,Hannover Lauckerthof,52.409973,9.652577
+637,65761,Hannover Lauckerthof,52.409794,9.652676
+638,119322,Hannover Lavesstraße,52.37309,9.749613
+639,227995,Hannover Lavesstraße,52.373135,9.749694
+640,280433,Hannover Lehrter Platz,52.33282,9.793451
+641,306810,Hannover Lehrter Platz,52.333015,9.793918
+642,201837,Hannover Leibniz Universität,52.381462,9.717615
+643,378271,Hannover Leibniz Universität,52.381218,9.717885
+644,453031,Hannover Leibnizschule,52.394993,9.750772
+645,7607,Hannover Leibnizschule,52.394913,9.751311
+646,145653,Hannover Leinaustraße,52.37361,9.706952
+647,253145,Hannover Leinaustraße,52.373764,9.706593
+648,263420,Hannover Leinaustraße,52.373585,9.707042
+649,450224,Hannover Leinaustraße,52.373615,9.707051
+650,304004,Hannover Leipziger Straße,52.413322,9.756288
+651,397805,Hannover Leipziger Straße,52.413162,9.756486
+652,106985,Hannover Lenbachstraße,52.398087,9.785214
+653,414012,Hannover Lenbachstraße,52.398113,9.785348
+654,80854,Hannover Lerchenfeldstraße,52.33796,9.813825
+655,96478,Hannover Lerchenfeldstraße,52.33815,9.814553
+656,219718,Hannover Leuschnerstraße,52.34683,9.682563
+657,456913,Hannover Leuschnerstraße,52.346756,9.682869
+658,217184,Hannover Liebrechtstraße,52.35091,9.77358
+659,378436,Hannover Liebrechtstraße,52.350945,9.773589
+660,234487,Hannover Liliencronstraße,52.40185,9.774209
+661,82520,Hannover Liliencronstraße,52.401817,9.774299
+662,407401,Hannover Lilienstraße,52.384754,9.724829
+663,23053,Hannover Lilienthalstraße,52.42057,9.73887
+664,258666,Hannover Lilienthalstraße,52.420574,9.738977
+665,134494,Hannover Lindener Marktplatz,52.366558,9.714247
+666,165217,Hannover Lindener Marktplatz,52.366768,9.714741
+667,420674,Hannover Lindener Marktplatz,52.367077,9.714678
+668,65267,Hannover Lindener Marktplatz,52.3667,9.715217
+669,187128,Hannover Linsingenstraße,52.40008,9.740675
+670,229885,Hannover Linsingenstraße,52.400375,9.740531
+671,149532,Hannover Lister Kirchweg,52.395054,9.744179
+672,168218,Hannover Lister Kirchweg,52.395107,9.744134
+673,258732,Hannover Lister Kirchweg,52.395,9.744628
+674,312032,Hannover Lister Kirchweg,52.395,9.744547
+675,198210,Hannover Lister Platz,52.38876,9.75035
+676,209458,Hannover Lister Platz,52.38946,9.749811
+677,38638,Hannover Lister Platz,52.389072,9.751159
+678,82326,Hannover Lister Platz,52.389065,9.751051
+679,212174,Hannover Lister Turm,52.38961,9.75415
+680,217332,Hannover Lister Turm,52.389133,9.755623
+681,365,Hannover Lohfeldweg,52.336662,9.696837
+682,411804,Hannover Lohfeldweg,52.336662,9.696981
+683,148256,Hannover Lortzingstraße,52.392796,9.757977
+684,459172,Hannover Lortzingstraße,52.392933,9.758336
+685,237,Hannover Lothringer Straße,52.36354,9.814454
+686,242449,Hannover Lothringer Straße,52.363483,9.814481
+687,333085,Hannover Ludwig-Jahn-Straße,52.393208,9.859594
+688,36989,Hannover Ludwig-Jahn-Straße,52.393246,9.859585
+689,271053,Hannover Ludwig-Sievers-Ring,52.410877,9.79912
+690,444033,Hannover Ludwig-Sievers-Ring,52.410736,9.799048
+691,163534,Hannover Luise-Blume-Straße,52.412113,9.807537
+692,396597,Hannover Luise-Blume-Straße,52.41197,9.808112
+693,405263,Hannover Luise-Finke-Weg,52.358204,9.728889
+694,112083,Hannover Lutherstraße,52.36745,9.754833
+695,327103,Hannover Lutherstraße,52.3673,9.755048
+696,303195,Hannover Lärchenstraße,52.37977,9.754042
+697,340953,Hannover Lärchenstraße,52.37972,9.753961
+698,118588,Hannover Marienstraße,52.370182,9.752623
+699,198542,Hannover Marienstraße,52.36992,9.75318
+700,339925,Hannover Marienstraße,52.36993,9.752973
+701,434116,Hannover Marienstraße,52.36976,9.753395
+702,288417,Hannover Markthalle/Landtag,52.370716,9.73613
+703,72848,Hannover Markthalle/Landtag,52.370667,9.735851
+704,304621,Hannover Martin-Luther-Kirche,52.38433,9.664273
+705,90548,Hannover Martin-Luther-Kirche,52.384327,9.665073
+706,64280,Hannover Maschsee/Altenbekener Damm,52.354675,9.745993
+707,82792,Hannover Maschsee/Altenbekener Damm,52.35469,9.745607
+708,409778,Hannover Maschsee/Funkhaus,52.359997,9.741493
+709,429555,Hannover Maschsee/Funkhaus,52.359695,9.741663
+710,299543,Hannover Maschsee/Sprengel M.,52.362827,9.739229
+711,317030,Hannover Maschsee/Sprengel M.,52.363583,9.739004
+712,379271,Hannover Maschsee/Sprengel M.,52.364197,9.739507
+713,144296,Hannover Max-Kuhlemann-Straße,52.37097,9.862199
+714,29761,Hannover Max-Kuhlemann-Straße,52.370995,9.862118
+715,115043,Hannover Mecklenheidestraße,52.42001,9.693783
+716,371799,Hannover Mecklenheidestraße,52.419483,9.694367
+717,422703,Hannover Mecklenheidestraße,52.42001,9.695804
+718,444961,Hannover Mecklenheidestraße,52.41989,9.693855
+719,121173,Hannover Med. Hochschule,52.384125,9.81007
+720,17887,Hannover Med. Hochschule,52.38415,9.809774
+721,303481,Hannover Med. Hochschule,52.384033,9.808552
+722,355,Hannover Med. Hochschule,52.38422,9.808561
+723,303575,Hannover Meersmannufer,52.403664,9.809693
+724,3629,Hannover Meersmannufer,52.40366,9.80981
+725,28139,Hannover Meierwiesen,52.422646,9.786004
+726,41712,Hannover Meierwiesen,52.42251,9.786229
+727,123959,Hannover Melanchthonstraße,52.398216,9.729527
+728,229246,Hannover Melanchthonstraße,52.39828,9.729509
+729,57623,Hannover Melanchthonstraße,52.398064,9.729841
+730,164917,Hannover Mengendamm,52.39592,9.756414
+731,239759,Hannover Mengendamm,52.395878,9.756432
+732,404962,Hannover Menzelstraße,52.338875,9.71704
+733,84086,Hannover Menzelstraße,52.33881,9.716969
+734,184202,Hannover Mergenthalerweg,52.341328,9.786193
+735,437328,Hannover Mergenthalerweg,52.34137,9.786157
+736,365772,Hannover Messe/Nord,52.32857,9.804635
+737,77019,Hannover Messe/Nord,52.327747,9.804545
+738,155920,Hannover Messe/Ost(EXPO-Plaza),52.32277,9.822242
+739,293648,Hannover Messe/Ost(EXPO-Plaza),52.321953,9.821622
+740,350767,Hannover Messe/Ost(EXPO-Plaza),52.32204,9.822063
+741,312895,Hannover Messeschnellweg,52.31777,9.81625
+742,415551,Hannover Messeschnellweg,52.317757,9.816143
+743,310389,Hannover Meyers Garten,52.389793,9.852803
+744,396536,Hannover Meyers Garten,52.389824,9.852803
+745,215645,Hannover Milanstraße,52.38801,9.821038
+746,338449,Hannover Milanstraße,52.38857,9.820607
+747,131413,Hannover Misburg,52.391613,9.853279
+748,177074,Hannover Misburg,52.391205,9.854159
+749,218696,Hannover Misburg,52.39163,9.85336
+750,274620,Hannover Misburg,52.391716,9.852533
+751,27745,Hannover Misburg,52.391705,9.854456
+752,286056,Hannover Misburg,52.3915,9.853692
+753,381064,Hannover Misburg,52.39154,9.853207
+754,399942,Hannover Misburg,52.39173,9.85309
+755,122235,Hannover Misburger Straße,52.37917,9.808794
+756,150165,Hannover Misburger Straße,52.379223,9.808741
+757,357758,Hannover Misburger Straße,52.378998,9.80857
+758,406755,Hannover Misburger Straße,52.379005,9.808687
+759,416871,Hannover Misburger Straße,52.379,9.808507
+760,6654,Hannover Misburger Straße,52.37919,9.808606
+761,201334,Hannover Mogelkenstraße,52.410152,9.706126
+762,451439,Hannover Mogelkenstraße,52.41021,9.706458
+763,224095,Hannover Mohrmannstraße,52.391514,9.709117
+764,229512,Hannover Mohrmannstraße,52.391426,9.708435
+765,242503,Hannover Moltkeplatz,52.39278,9.74655
+766,436253,Hannover Moltkeplatz,52.392544,9.746595
+767,59496,Hannover Moltkeplatz,52.39286,9.746532
+768,188061,Hannover Moorkamp,52.396633,9.727039
+769,56610,Hannover Moorkamp,52.39642,9.727452
+770,451810,Hannover Möckernstraße,52.400032,9.749434
+771,57241,Hannover Möckernstraße,52.3999,9.749353
+772,12922,Hannover Mühlenberger Markt,52.3413,9.69355
+773,273982,Hannover Mühlenberger Markt,52.341465,9.693406
+774,300548,Hannover Mühlenberger Markt,52.341137,9.693433
+775,406547,Hannover Mühlenberger Markt,52.341183,9.693729
+776,423040,Hannover Mühlenberger Markt,52.341084,9.693244
+777,126809,Hannover Nackenberg,52.37078,9.805201
+778,131132,Hannover Nackenberg,52.370567,9.803252
+779,135827,Hannover Nackenberg,52.37013,9.805219
+780,96170,Hannover Nackenberg,52.370667,9.802686
+781,15450,Hannover Neckarstraße,52.333473,9.765046
+782,197215,Hannover Neckarstraße,52.333454,9.76537
+783,11649,Hannover Neisser Weg,52.334644,9.784091
+784,143627,Hannover Neisser Weg,52.334698,9.784019
+785,120108,Hannover Nenndorfer Chaussee,52.34966,9.689759
+786,157285,Hannover Nenndorfer Chaussee,52.34954,9.688375
+787,260082,Hannover Nenndorfer Chaussee,52.34916,9.689327
+788,263870,Hannover Neue Straße,52.328983,9.696182
+789,286097,Hannover Neue Straße,52.328953,9.696155
+790,191434,Hannover Neue-Land-Straße,52.3921,9.798877
+791,224649,Hannover Neue-Land-Straße,52.392433,9.798401
+792,242776,Hannover Neue-Land-Straße,52.39234,9.797251
+793,171702,Hannover Neues Haus,52.37716,9.752102
+794,306286,Hannover Neues Haus,52.377136,9.752219
+795,34826,Hannover Neues Haus,52.37784,9.753135
+796,219232,Hannover Niedersachsenring,52.398907,9.736112
+797,273583,Hannover Niedersachsenring,52.39913,9.737765
+798,404989,Hannover Niedersachsenring,52.399067,9.737836
+799,427255,Hannover Niedersachsenring,52.39869,9.736013
+800,126064,Hannover Nieschlagstraße,52.36721,9.708695
+801,280617,Hannover Nieschlagstraße,52.367184,9.709063
+802,420197,Hannover Nieschlagstraße,52.36721,9.709432
+803,327298,Hannover Nobelring,52.389297,9.806629
+804,331290,Hannover Nobelring,52.38864,9.806773
+805,133052,Hannover Noltemeyerbrücke,52.40577,9.79991
+806,137526,Hannover Noltemeyerbrücke,52.405617,9.7985
+807,205313,Hannover Noltemeyerbrücke,52.40645,9.801105
+808,230414,Hannover Noltemeyerbrücke,52.405834,9.799263
+809,315094,Hannover Noltemeyerbrücke,52.405865,9.800126
+810,330186,Hannover Noltemeyerbrücke,52.40597,9.800521
+811,332861,Hannover Noltemeyerbrücke,52.40526,9.797314
+812,382456,Hannover Noltemeyerbrücke,52.40702,9.800072
+813,158786,Hannover Nordhafen,52.422245,9.690028
+814,180633,Hannover Nordhafen,52.42228,9.690091
+815,334212,Hannover Nordhafen,52.42246,9.69001
+816,175764,Hannover Nordring,52.403347,9.748023
+817,193978,Hannover Nordring,52.403275,9.748131
+818,209038,Hannover Oldenburger Allee,52.417118,9.829842
+819,435301,Hannover Oldenburger Allee,52.417255,9.830255
+820,153303,Hannover Osterfelddamm,52.392418,9.818038
+821,180579,Hannover Osterfelddamm,52.39302,9.817751
+822,123245,Hannover Ostergrube,52.360962,9.858651
+823,250920,Hannover Ostergrube,52.36079,9.85866
+824,203055,Hannover Ostfeldstraße,52.36055,9.84426
+825,342441,Hannover Ostfeldstraße,52.360447,9.845014
+826,382362,Hannover Ostfeldstraße,52.36045,9.844538
+827,400223,Hannover Ostfeldstraße,52.36071,9.844206
+828,259474,Hannover Paderborner Straße,52.337334,9.809495
+829,453879,Hannover Paderborner Straße,52.33746,9.810232
+830,179507,Hannover Papenwinkel,52.415062,9.752147
+831,361944,Hannover Papenwinkel,52.414818,9.751814
+832,224172,Hannover Pappelweg,52.424633,9.716861
+833,436366,Hannover Pappelweg,52.424633,9.716951
+834,20685,Hannover Pappelwiese,52.403652,9.825171
+835,212487,Hannover Pappelwiese,52.403984,9.825162
+836,217935,Hannover Pappelwiese,52.40397,9.82491
+837,347299,Hannover Pappelwiese,52.403675,9.825287
+838,182438,Hannover Paracelsusweg,52.40927,9.816484
+839,293020,Hannover Paracelsusweg,52.409397,9.816277
+840,368723,Hannover Paracelsusweg,52.409313,9.815047
+841,48534,Hannover Paracelsusweg,52.409134,9.81687
+842,9138,Hannover Paracelsusweg,52.409294,9.816879
+843,24440,Hannover Pascalstraße,52.41399,9.624649
+844,312993,Hannover Pascalstraße,52.414055,9.625125
+845,54869,Hannover Pasteurallee,52.40703,9.806306
+846,76370,Hannover Pasteurallee,52.407063,9.806405
+847,148316,Hannover Pater-Kolbe-Gang,52.338436,9.693837
+848,82480,Hannover Pater-Kolbe-Gang,52.33847,9.693936
+849,102539,Hannover Peiner Straße,52.3379,9.769125
+850,167660,Hannover Peiner Straße,52.3377,9.769053
+851,17122,Hannover Peiner Straße,52.33751,9.769116
+852,244308,Hannover Peiner Straße,52.33773,9.769287
+853,381536,Hannover Peiner Straße,52.338226,9.769484
+854,73568,Hannover Peiner Straße,52.33769,9.769313
+855,373973,Hannover Pelikanstraße,52.397697,9.772017
+856,426964,Hannover Pelikanstraße,52.397785,9.77252
+857,329972,Hannover Peperfeld,52.32648,9.683309
+858,101060,Hannover Petermannstraße,52.357033,9.682033
+859,409082,Hannover Petermannstraße,52.35704,9.681934
+860,288365,Hannover Pflügerstraße,52.39991,9.818209
+861,456382,Hannover Pflügerstraße,52.399918,9.818469
+862,443484,Hannover Pinkenburger Straße,52.39765,9.807896
+863,59456,Hannover Pinkenburger Straße,52.3976,9.807968
+864,217210,Hannover Plathnerstraße,52.373825,9.76095
+865,336897,Hannover Plathnerstraße,52.373802,9.760842
+866,252098,Hannover Plauener Straße,52.412464,9.760339
+867,85353,Hannover Plauener Straße,52.412464,9.760375
+868,241461,Hannover Poggendiek,52.32924,9.702119
+869,272198,Hannover Poggendiek,52.32924,9.702057
+870,244120,Hannover Rathaus/Bleichenstr.,52.36695,9.739983
+871,247406,Hannover Rathaus/Bleichenstr.,52.36697,9.73993
+872,144063,Hannover Rathaus/Friedrichsw.,52.368416,9.736399
+873,259366,Hannover Rathaus/Friedrichsw.,52.368416,9.738025
+874,154419,Hannover Raupertstraße,52.33886,9.819116
+875,20840,Hannover Raupertstraße,52.338894,9.819736
+876,290028,Hannover Rebhuhnfeld,52.370144,9.665585
+877,90775,Hannover Rebhuhnfeld,52.370064,9.666429
+878,204625,Hannover Regenwalder Straße,52.396584,9.856549
+879,226692,Hannover Regenwalder Straße,52.396496,9.856558
+880,111062,Hannover Rehmer Feld,52.3983,9.801177
+881,41269,Hannover Rehmer Feld,52.398277,9.801195
+882,111417,Hannover Reiterstadion,52.411316,9.742804
+883,390327,Hannover Reiterstadion,52.411076,9.743568
+884,405581,Hannover Reiterstadion,52.411163,9.743002
+885,40980,Hannover Reiterstadion,52.411358,9.742705
+886,181182,Hannover Richard-Lattorf-Str.,52.379543,9.663779
+887,38040,Hannover Richard-Lattorf-Str.,52.379833,9.663752
+888,247914,Hannover Riethorst,52.41075,9.811409
+889,322747,Hannover Riethorst,52.410816,9.811426
+890,155487,Hannover Roderbruch,52.390007,9.818604
+891,234488,Hannover Roderbruch,52.389984,9.818326
+892,410561,Hannover Roderbruch,52.39015,9.819538
+893,90985,Hannover Roderbruch,52.39056,9.819368
+894,113113,Hannover Roderbruchmarkt,52.38868,9.813475
+895,8692,Hannover Roderbruchmarkt,52.388645,9.81307
+896,162187,Hannover Roderbruchstraße,52.391575,9.803773
+897,331904,Hannover Roderbruchstraße,52.391502,9.803629
+898,415174,Hannover Rosenbergstraße,52.39429,9.740774
+899,71899,Hannover Rosenbergstraße,52.394466,9.741466
+900,276992,Hannover Roßkampstraße,52.350586,9.781701
+901,362561,Hannover Roßkampstraße,52.350574,9.781773
+902,2451,Hannover Rutenbergstraße,52.354904,9.814112
+903,35162,Hannover Rutenbergstraße,52.354977,9.814175
+904,23182,Hannover Rügener Straße,52.417618,9.686974
+905,58297,Hannover Rügener Straße,52.41762,9.687279
+906,118718,Hannover Saarbrückener Straße,52.362587,9.81926
+907,18397,Hannover Saarbrückener Straße,52.362656,9.81899
+908,406523,Hannover Safariweg,52.35212,9.669349
+909,91364,Hannover Safariweg,52.351475,9.669367
+910,338389,Hannover Sahlkamp,52.40996,9.762729
+911,434293,Hannover Sahlkamp,52.41027,9.763142
+912,157919,Hannover Schaperplatz,52.37559,9.795697
+913,190495,Hannover Schaperplatz,52.375397,9.795445
+914,146697,Hannover Schaumburgstraße,52.392246,9.694151
+915,358228,Hannover Schaumburgstraße,52.39233,9.694322
+916,434495,Hannover Schaumburgstraße,52.39215,9.694448
+917,452876,Hannover Schaumburgstraße,52.392204,9.694951
+918,289462,Hannover Scheelenkamp,52.397717,9.724182
+919,54509,Hannover Scheffelfeld,52.41548,9.787073
+920,84248,Hannover Scheffelfeld,52.41544,9.788025
+921,131406,Hannover Schierholzstraße,52.399582,9.83048
+922,249799,Hannover Schierholzstraße,52.399456,9.830632
+923,108032,Hannover Schlägerstraße,52.364544,9.747161
+924,259894,Hannover Schlägerstraße,52.36449,9.747116
+925,236328,Hannover Schneiderbg./W.-B.-M.,52.38534,9.712028
+926,91199,Hannover Schneiderbg./W.-B.-M.,52.385044,9.712306
+927,109687,Hannover Schnepfenweg,52.371845,9.662091
+928,84842,Hannover Schnepfenweg,52.372005,9.662243
+929,159147,Hannover Schwarzer Bär,52.36741,9.719143
+930,33502,Hannover Schwarzer Bär,52.367233,9.719762
+931,335273,Hannover Schwarzer Bär,52.366295,9.719448
+932,345646,Hannover Schwarzer Bär,52.36808,9.720706
+933,35355,Hannover Schwarzer Bär,52.368126,9.721263
+934,46821,Hannover Schwarzer Bär,52.367363,9.719259
+935,254332,Hannover Schönebecker Allee,52.418114,9.615181
+936,340174,Hannover Schönebecker Allee,52.41832,9.616169
+937,367042,Hannover Schönebecker Allee,52.418198,9.615477
+938,123223,Hannover Schünemannplatz,52.34768,9.723868
+939,454372,Hannover Schünemannplatz,52.34731,9.723877
+940,383488,Hannover Sedanstraße/Lister M.,52.383762,9.746245
+941,404146,Hannover Sedanstraße/Lister M.,52.38372,9.746308
+942,438509,Hannover Seelhorster Allee,52.34779,9.812127
+943,76002,Hannover Seelhorster Allee,52.347652,9.812244
+944,2400,Hannover Silberstraße,52.40125,9.812118
+945,253193,Hannover Silberstraße,52.401226,9.812208
+946,163247,Hannover Soltauer Straße,52.38154,9.817382
+947,197866,Hannover Soltauer Straße,52.381382,9.816996
+948,177288,Hannover Spannhagengarten,52.39986,9.781225
+949,2150,Hannover Spannhagengarten,52.400368,9.782195
+950,340286,Hannover Spannhagengarten,52.40052,9.78101
+951,419214,Hannover Spannhagengarten,52.40017,9.781773
+952,443585,Hannover Spannhagengarten,52.4003,9.781737
+953,256390,Hannover Spessartweg,52.41171,9.781513
+954,82687,Hannover Spessartweg,52.412086,9.78145
+955,107507,Hannover Sporlederweg,52.361385,9.709558
+956,449966,Hannover St. Anna-Kirche,52.38958,9.855408
+957,56574,Hannover St. Anna-Kirche,52.38955,9.855507
+958,42493,Hannover St. Heinrich-Kirche,52.3623,9.758803
+959,436026,Hannover St. Heinrich-Kirche,52.362366,9.758624
+960,106501,Hannover St. Johanniskirche,52.386353,9.859388
+961,151004,Hannover St. Johanniskirche,52.38685,9.858795
+962,163387,Hannover Stadionbad,52.359425,9.733039
+963,120252,Hannover Stadionbrücke,52.357784,9.722727
+964,125687,Hannover Stadionbrücke,52.357784,9.722835
+965,270808,Hannover Stadionbrücke,52.358597,9.724973
+966,281311,Hannover Stadionbrücke,52.3588,9.722754
+967,139472,Hannover Stadtfelddamm,52.393234,9.794134
+968,251126,Hannover Stadtfelddamm,52.393375,9.79443
+969,334238,Hannover Stadtfriedh. Bothfeld,52.425343,9.799677
+970,341728,Hannover Stadtfriedh. Bothfeld,52.425034,9.799524
+971,371651,Hannover Stadtfriedhof Ahlem,52.383644,9.652461
+972,398928,Hannover Stadtfriedhof Ahlem,52.383636,9.652398
+973,137825,Hannover Stadtfriedhof Lahe,52.41409,9.824533
+974,63004,Hannover Stadtfriedhof Lahe,52.414177,9.824856
+975,170338,Hannover Stadtfriedhof Misburg,52.39873,9.856576
+976,156122,Hannover Stadtfriedhof Seelh.,52.335205,9.791205
+977,211020,Hannover Stadtfriedhof Seelh.,52.335087,9.790271
+978,312095,Hannover Stadtfriedhof Seelh.,52.33511,9.790819
+979,373198,Hannover Stadtfriedhof Seelh.,52.335133,9.791924
+980,171298,Hannover Stadtfriedhof Stöcken,52.400463,9.66881
+981,283937,Hannover Stadtfriedhof Stöcken,52.4003,9.668972
+982,12293,Hannover Steinfeldstraße,52.38079,9.681755
+983,219432,Hannover Steinfeldstraße,52.38088,9.681171
+984,113778,Hannover Steintor,52.375793,9.732384
+985,152324,Hannover Steintor,52.375534,9.731575
+986,263052,Hannover Steintor,52.37685,9.732842
+987,284068,Hannover Steintor,52.375755,9.731809
+988,396695,Hannover Steintor,52.375816,9.731979
+989,402747,Hannover Steintor,52.376644,9.73312
+990,424850,Hannover Steintor,52.375874,9.732501
+991,50078,Hannover Steintor,52.37552,9.731432
+992,204645,Hannover Stelinger Straße,52.416355,9.651886
+993,212506,Hannover Stelinger Straße,52.41542,9.652676
+994,88063,Hannover Stelinger Straße,52.41531,9.651203
+995,406185,Hannover Sternheimweg,52.357056,9.657653
+996,55401,Hannover Sternheimweg,52.357105,9.657689
+997,226486,Hannover Stockholmer Allee,52.327393,9.824919
+998,366906,Hannover Stockholmer Allee,52.327133,9.824722
+999,50118,Hannover Stollenweg,52.376045,9.667373
+1000,9857,Hannover Stollenweg,52.376434,9.667445
+1001,12520,Hannover Stolzestraße,52.36527,9.756441
+1002,442908,Hannover Stolzestraße,52.36556,9.756288
+1003,378644,Hannover Straße der Nationen,52.314022,9.818119
+1004,391069,Hannover Straße der Nationen,52.314697,9.81784
+1005,32699,Hannover Stresemannallee,52.356594,9.762091
+1006,353520,Hannover Stresemannallee,52.356663,9.762064
+1007,145038,Hannover Stöcken,52.41427,9.667687
+1008,153097,Hannover Stöcken,52.414555,9.667256
+1009,19326,Hannover Stöcken,52.41463,9.667058
+1010,402585,Hannover Stöcken,52.414043,9.667373
+1011,453705,Hannover Stöcken,52.41404,9.667139
+1012,53225,Hannover Stöcken,52.41427,9.667687
+1013,54915,Hannover Stöcken,52.414,9.666995
+1014,98963,Hannover Stöcken,52.414116,9.66731
+1015,173064,Hannover Stöckener Markt,52.40916,9.662656
+1016,253080,Hannover Stöckener Markt,52.410755,9.663303
+1017,348380,Hannover Stöckener Markt,52.409447,9.662917
+1018,130980,Hannover Sudetenstraße,52.35578,9.827372
+1019,2613,Hannover Sudetenstraße,52.35578,9.827147
+1020,228643,Hannover Sven-Hedin-Straße,52.400513,9.823051
+1021,418319,Hannover Sven-Hedin-Straße,52.400394,9.822503
+1022,236164,Hannover Südfeldstraße,52.3659,9.684342
+1023,85313,Hannover Südfeldstraße,52.366,9.684387
+1024,156978,Hannover Sündernstraße,52.410175,9.788996
+1025,303265,Hannover Sündernstraße,52.410137,9.788825
+1026,29837,Hannover Tegtmeyerallee,52.38307,9.669942
+1027,82607,Hannover Tegtmeyerallee,52.382904,9.670346
+1028,38179,Hannover Tegtmeyerstraße,52.37934,9.685537
+1029,412583,Hannover Tegtmeyerstraße,52.379406,9.685294
+1030,73527,Hannover Telemax,52.393864,9.80088
+1031,85165,Hannover Telemax,52.393944,9.801024
+1032,246798,Hannover Tempelhofweg,52.418114,9.765442
+1033,334582,Hannover Tempelhofweg,52.41827,9.765091
+1034,457989,Hannover Tempelhofweg,52.41851,9.764957
+1035,85518,Hannover Tempelhofweg,52.418415,9.765109
+1036,433044,Hannover Thielenplatz/Schausp.,52.374302,9.74487
+1037,454824,Hannover Thielenplatz/Schausp.,52.37464,9.744655
+1038,457814,Hannover Thielenplatz/Schausp.,52.374714,9.74505
+1039,56957,Hannover Thielenplatz/Schausp.,52.37435,9.744924
+1040,148496,Hannover Tiergarten,52.361286,9.834127
+1041,250940,Hannover Tiergarten,52.36134,9.833956
+1042,262174,Hannover Tiergarten,52.36126,9.834549
+1043,72339,Hannover Tiergarten,52.361202,9.834055
+1044,340249,Hannover Tollenbrink,52.41143,9.793811
+1045,418710,Hannover Tollenbrink,52.411446,9.794098
+1046,195248,Hannover Tresckowstraße,52.336308,9.690567
+1047,23555,Hannover Tresckowstraße,52.336533,9.690594
+1048,277910,Hannover Uelzestraße,52.398014,9.763888
+1049,289554,Hannover Uelzestraße,52.398487,9.763744
+1050,134123,Hannover Uhlhornstraße,52.371487,9.793505
+1051,9855,Hannover Uhlhornstraße,52.371555,9.7932
+1052,131674,Hannover Ungerstraße,52.37534,9.701257
+1053,179194,Hannover Ungerstraße,52.375164,9.701697
+1054,234303,Hannover Ungerstraße,52.375156,9.701814
+1055,247575,Hannover Ungerstraße,52.375267,9.701437
+1056,329426,Hannover Uslarplatz,52.42138,9.8121
+1057,385158,Hannover Uslarplatz,52.420677,9.811579
+1058,120462,Hannover VW-Feuerwache,52.416416,9.675341
+1059,140168,Hannover VW-Lackiererei,52.419617,9.66448
+1060,398964,Hannover VW-PKW Tor 1,52.416626,9.654527
+1061,232967,Hannover VW-Sektor 17,52.416225,9.669088
+1062,436929,Hannover VW-Sektor 6,52.416077,9.660977
+1063,10148,Hannover Vahrenheider Markt,52.4109,9.74938
+1064,101685,Hannover Vahrenheider Markt,52.41221,9.74973
+1065,178081,Hannover Vahrenheider Markt,52.410828,9.749407
+1066,53571,Hannover Vahrenheider Markt,52.41194,9.749353
+1067,281985,Hannover Vahrenwalder Platz,52.39115,9.734773
+1068,325725,Hannover Vahrenwalder Platz,52.39093,9.734621
+1069,454156,Hannover Vahrenwalder Platz,52.391487,9.735106
+1070,160932,Hannover Verdener Platz,52.411346,9.684504
+1071,176264,Hannover Verdener Platz,52.41143,9.68383
+1072,148874,Hannover Vier Grenzen,52.395603,9.762495
+1073,245671,Hannover Vier Grenzen,52.395416,9.763591
+1074,273248,Hannover Vier Grenzen,52.395576,9.762477
+1075,326816,Hannover Vier Grenzen,52.395466,9.764004
+1076,344468,Hannover Vier Grenzen,52.395554,9.763897
+1077,238421,Hannover Vinzenzkrankenhaus,52.359608,9.815595
+1078,54637,Hannover Vinzenzkrankenhaus,52.359936,9.815307
+1079,232585,Hannover Voltastraße,52.39094,9.729904
+1080,421150,Hannover Voltmerstraße,52.39702,9.719816
+1081,438700,Hannover Voltmerstraße,52.39707,9.719726
+1082,268247,Hannover Wallensteinstraße,52.341885,9.716205
+1083,395723,Hannover Wallensteinstraße,52.342014,9.718154
+1084,403874,Hannover Wallensteinstraße,52.342655,9.717175
+1085,459260,Hannover Wallensteinstraße,52.341972,9.718541
+1086,90599,Hannover Wallensteinstraße,52.342003,9.716996
+1087,117667,Hannover Waterloo,52.36805,9.729374
+1088,195050,Hannover Waterloo,52.36804,9.729859
+1089,393202,Hannover Waterloo,52.368076,9.729779
+1090,73327,Hannover Waterloo,52.36801,9.729455
+1091,1023,Hannover Waterlooplatz,52.369267,9.729859
+1092,443378,Hannover Waterlooplatz,52.369152,9.730066
+1093,395588,Hannover Wedekindstraße,52.385406,9.752075
+1094,428843,Hannover Wedekindstraße,52.38541,9.752201
+1095,128946,Hannover Weidendamm,52.38808,9.72597
+1096,366173,Hannover Weidetorstraße,52.39661,9.803081
+1097,431400,Hannover Weidetorstraße,52.39665,9.803126
+1098,17499,Hannover Welfenplatz,52.383324,9.740567
+1099,260505,Hannover Welfenplatz,52.383186,9.740109
+1100,284603,Hannover Welfenstraße,52.38359,9.736282
+1101,350613,Hannover Welfenstraße,52.383644,9.736669
+1102,240547,Hannover Wendlandstraße,52.393673,9.693253
+1103,89222,Hannover Wendlandstraße,52.39366,9.693325
+1104,267692,Hannover Werderstraße,52.387066,9.7356
+1105,417082,Hannover Werderstraße,52.3876,9.734082
+1106,70426,Hannover Werderstraße,52.387653,9.734189
+1107,83333,Hannover Werderstraße,52.387142,9.734926
+1108,121005,Hannover Wettbergen,52.33321,9.690882
+1109,12372,Hannover Wettbergen,52.332844,9.690846
+1110,280723,Hannover Wettbergen,52.33308,9.690882
+1111,317120,Hannover Wettbergen,52.333447,9.691358
+1112,431042,Hannover Wettbergen,52.332836,9.690819
+1113,434787,Hannover Wettbergen,52.332855,9.69063
+1114,375225,Hannover Wiehbergstraße,52.328457,9.776868
+1115,55233,Hannover Wiehbergstraße,52.328835,9.776572
+1116,11641,Hannover Wiesenau,52.423447,9.732015
+1117,251785,Hannover Wiesenau,52.4234,9.731836
+1118,320603,Hannover Wietzegraben,52.41024,9.769439
+1119,431374,Hannover Wietzegraben,52.41031,9.76996
+1120,252322,Hannover Willy-Spahn-Park,52.38634,9.661327
+1121,56743,Hannover Willy-Spahn-Park,52.386196,9.66139
+1122,327816,Hannover Windausstraße,52.407837,9.734926
+1123,5350,Hannover Windausstraße,52.407642,9.734872
+1124,112896,Hannover Woermannstraße,52.362892,9.66987
+1125,247925,Hannover Woermannstraße,52.363503,9.669744
+1126,114314,Hannover Wohlenbergstraße,52.417957,9.722547
+1127,359742,Hannover Wohlenbergstraße,52.417957,9.722457
+1128,272052,Hannover Wolfstraße,52.352074,9.779258
+1129,369366,Hannover Wolfstraße,52.35204,9.779312
+1130,15556,Hannover Wunstorfer Straße,52.375015,9.695202
+1131,177496,Hannover Wunstorfer Straße,52.375294,9.695149
+1132,262696,Hannover Wunstorfer Straße,52.375313,9.694897
+1133,427643,Hannover Wunstorfer Straße,52.37548,9.695229
+1134,104387,Hannover Wülfeler Bruch,52.346268,9.792014
+1135,31764,Hannover Wülfeler Bruch,52.34614,9.792113
+1136,225336,Hannover Wülferoder Platz,52.329758,9.848814
+1137,431146,Hannover Wülferoder Platz,52.329086,9.849003
+1138,16271,Hannover Wülferoder Straße,52.33988,9.827102
+1139,319196,Hannover Wülferoder Straße,52.339985,9.827246
+1140,110413,Hannover Zehlendorfweg,52.41957,9.75901
+1141,178805,Hannover Zehlendorfweg,52.419556,9.759342
+1142,297492,Hannover Zeißstraße,52.34753,9.781459
+1143,92917,Hannover Zeißstraße,52.34712,9.781234
+1144,108029,Hannover Zoo,52.38158,9.766053
+1145,218826,Hannover Zoo,52.38114,9.766744
+1146,25500,Hannover Zoo,52.382137,9.766071
+1147,295774,Hannover Zoo,52.38152,9.766493
+1148,60374,Hannover Zoo,52.38115,9.766807
+1149,96640,Hannover Zoo,52.38191,9.765945
+1150,274621,Hannover Zum Brookland,52.387405,9.837792
+1151,385388,Hannover Zum Brookland,52.387352,9.837828
+1152,153186,Hannover Zum Buchengarten,52.38818,9.658093
+1153,184405,Hannover Zum Buchengarten,52.3881,9.658398
+1154,136971,Hannover Zur Sternwarte,52.363728,9.707384
+1155,108235,Hannover Zuschlagstraße,52.356865,9.792589
+1156,130035,Hannover Zuschlagstraße,52.35672,9.792661
+1157,200469,Hannover Zuschlagstraße,52.35713,9.79249
+1158,22597,Hannover Zuschlagstraße,52.356655,9.793038
+1159,54408,Hannover-Kleefeld,52.373608,9.79061
+1160,100148,Hannover/Kinderkrhs. a.d. Bult,52.36258,9.777973
+1161,159779,Hannover/Kinderkrhs. a.d. Bult,52.362587,9.777497
+1162,243136,Hannover/Kinderkrhs. a.d. Bult,52.362392,9.777794
+1163,449742,Hannover/Kinderkrhs. a.d. Bult,52.362705,9.77738
+1164,466,Hanover central bus station,52.37892,9.740987
+1165,240911,Hemmingen Döhrener Straße,52.327366,9.750287
+1166,412569,Hemmingen Döhrener Straße,52.327347,9.750332
+1167,121671,Klein-Buchholzer Kirchweg,52.41084,9.805165
+1168,179412,Klein-Buchholzer Kirchweg,52.410236,9.804824
+1169,214339,Kronsberghof,52.31026,9.834262
+1170,145774,Menschingstraße/Kinderkrkhs.,52.361588,9.773077
+1171,160824,Menschingstraße/Kinderkrkhs.,52.361713,9.773329
+1172,121565,Schulzentrum Badenstedt,52.35813,9.669367
+1173,135618,Schulzentrum Badenstedt,52.359024,9.670355
+1174,335897,Schulzentrum Badenstedt,52.35822,9.669142
+1175,425584,Schulzentrum Badenstedt,52.3589,9.670562
+1176,148264,Schwarze Heide,52.429718,9.646199
+1177,450590,Schwarze Heide,52.43018,9.645795
+1178,120312,Stadtfriedhof Ricklingen,52.33296,9.717023
+1179,64051,Stadtfriedhof Ricklingen,52.33276,9.717283
+1180,165732,Tierärztl.Hochsch/Westfalenhof,52.354862,9.807564
+1181,51536,Tierärztl.Hochsch/Westfalenhof,52.35478,9.807878
+1182,112836,Wissenschaftspark Marienwerder,52.416565,9.634395
+1183,152069,Wissenschaftspark Marienwerder,52.416237,9.634081
+1184,273736,Wissenschaftspark Marienwerder,52.416367,9.633524
+1185,280865,Wissenschaftspark Marienwerder,52.4165,9.63409
+1186,373416,Wissenschaftspark Marienwerder,52.41618,9.633461
+1187,40715,Wissenschaftspark Marienwerder,52.416187,9.634234

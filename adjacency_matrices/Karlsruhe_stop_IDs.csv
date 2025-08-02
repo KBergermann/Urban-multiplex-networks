@@ -1,0 +1,794 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,378752,Beiertheim West,48.995148,8.382665
+1,83950,Beiertheim West,48.99462,8.382683
+2,329893,Bergwald Bergwaldschule,48.971233,8.46787
+3,369642,Bergwald Elsa-Brändström-Str.,48.972343,8.461878
+4,202930,Bergwald Fridtjof-Nansen-Str.,48.971996,8.469748
+5,419998,Bergwald Hooverstraße,48.974106,8.464106
+6,148572,Bergwald Mitte,48.971706,8.468283
+7,458610,Bergwald Mitte,48.971752,8.468382
+8,386496,Bulach Friedhof,48.983063,8.374221
+9,39748,Bulach Friedhof,48.983658,8.374787
+10,155621,Bulach West,48.989388,8.375452
+11,432730,Bulach West,48.989346,8.375191
+12,88653,Daxlanden Agathenstraße,48.99971,8.334345
+13,274440,Daxlanden Ankerstraße,49.00674,8.335108
+14,140785,Daxlanden Aug.-Dosenbach-Str.,49.002068,8.342977
+15,441241,Daxlanden Aug.-Dosenbach-Str.,49.001766,8.343858
+16,370866,Daxlanden Dornröschenweg,48.993126,8.335566
+17,442929,Daxlanden Dornröschenweg,48.99252,8.335063
+18,193507,Daxlanden Hammäcker,48.99146,8.334174
+19,117384,Daxlanden Karl-Delisle-Straße,48.996124,8.338459
+20,315992,Daxlanden Karl-Delisle-Straße,48.996304,8.338378
+21,349156,Daxlanden Karl-Delisle-Straße,48.995907,8.337929
+22,57182,Daxlanden Mauerweg,49.00777,8.339582
+23,137133,Daxlanden Nussbaumweg,48.98915,8.333069
+24,304452,Daxlanden Nussbaumweg,48.988663,8.33262
+25,39352,Daxlanden Thomas-Mann-Straße,48.999043,8.34136
+26,55084,Daxlanden Thomas-Mann-Straße,48.998814,8.340983
+27,376044,Daxlanden Turnerstraße,49.00182,8.337004
+28,237654,Durlach Am Heegwald,49.017605,8.478973
+29,378469,Durlach Am Heegwald,49.01768,8.478641
+30,259426,Durlach An der Fayence,49.001595,8.470583
+31,275673,Durlach An der Fayence,49.00151,8.472074
+32,244616,Durlach Auer Str./Dr. Schwabe,49.000393,8.463693
+33,289799,Durlach Auer Str./Dr. Schwabe,49.000515,8.463199
+34,10031,Durlach August-Macke-Straße,48.98735,8.472452
+35,22508,Durlach Blattwiesenstraße,48.992878,8.464933
+36,60842,Durlach Blattwiesenstraße,48.993107,8.465247
+37,156241,Durlach Breit,49.020744,8.477913
+38,211126,Durlach Breit,49.02081,8.478192
+39,210079,Durlach Brühlstraße Mitte,48.988113,8.461124
+40,267735,Durlach Brühlstraße Mitte,48.988518,8.461304
+41,248798,Durlach Dieselstraße,48.99621,8.444972
+42,364953,Durlach Dieselstraße,48.99626,8.445035
+43,13365,Durlach Dürrbachstraße,48.994816,8.482001
+44,29052,Durlach Dürrbachstraße,48.99474,8.482126
+45,71618,Durlach Dürrenwettersb. Straße,48.97201,8.473548
+46,188181,Durlach Eisenhafengrund,48.98852,8.491289
+47,279121,Durlach Eisenhafengrund,48.98878,8.491244
+48,199298,Durlach Ellmendinger Straße,48.99412,8.459318
+49,212910,Durlach Ellmendinger Straße,48.994102,8.459417
+50,373222,Durlach Ellmendinger Straße,48.994274,8.458968
+51,376114,Durlach Ellmendinger Straße,48.994087,8.458411
+52,199779,Durlach Erich-Heckel-Straße,48.988293,8.474796
+53,106185,Durlach Ernst-Barlach-Straße,48.989193,8.479063
+54,274127,Durlach Ernst-Barlach-Straße,48.989265,8.479009
+55,191889,Durlach Friedhof,49.00249,8.483088
+56,341526,Durlach Friedhof,49.002407,8.483249
+57,166729,Durlach Friedrichschule,48.999336,8.468553
+58,89221,Durlach Friedrichschule,48.99928,8.468921
+59,220006,Durlach Geigersberg,48.98617,8.474868
+60,287758,Durlach Gritznerstraße,48.999462,8.46416
+61,70411,Durlach Gritznerstraße,48.99918,8.463846
+62,241149,Durlach Gudrunstraße,48.99651,8.455303
+63,29970,Durlach Gudrunstraße,48.99659,8.455258
+64,130842,Durlach Karl-Weysser-Straße,48.998566,8.476719
+65,274938,Durlach Karl-Weysser-Straße,48.998676,8.476719
+66,223788,Durlach Killisfeld,48.993095,8.444999
+67,38756,Durlach Killisfeld,48.99303,8.444882
+68,266050,Durlach Killisfeldstraße,48.99717,8.461843
+69,454842,Durlach Killisfeldstraße,48.997147,8.462202
+70,73403,Durlach Killisfeldstraße,48.997562,8.462157
+71,80523,Durlach Killisfeldstraße,48.997204,8.461995
+72,188358,Durlach Käthe-Kollwitz-Straße,48.993156,8.478722
+73,265654,Durlach Käthe-Kollwitz-Straße,48.993114,8.478614
+74,221260,Durlach Lerchenberg,48.99143,8.488253
+75,7525,Durlach Lerchenberg,48.99158,8.488235
+76,100875,Durlach Lußstraße,48.99516,8.477985
+77,17545,Durlach Lußstraße,48.995213,8.477868
+78,386251,Durlach Max-Beckmann-Straße,48.98792,8.477491
+79,111425,Durlach Max-Liebermann-Straße,48.988075,8.470152
+80,302539,Durlach Max-Liebermann-Straße,48.988583,8.470763
+81,188759,Durlach Maybachstraße,48.996914,8.438334
+82,243126,Durlach Maybachstraße,48.997105,8.439097
+83,134247,Durlach Neßlerstraße,49.00242,8.486977
+84,22846,Durlach Ochsentorstraße,49.00127,8.473278
+85,340795,Durlach Ochsentorstraße,49.001266,8.473359
+86,190712,Durlach Ostmarkstraße,48.9917,8.452518
+87,252662,Durlach Ostmarkstraße,48.99157,8.452761
+88,324899,Durlach Ostmarkstraße,48.99117,8.4525
+89,81476,Durlach Ostmarkstraße,48.992264,8.453605
+90,285695,Durlach Ottostraße,48.99526,8.450344
+91,349491,Durlach Ottostraße,48.9957,8.450227
+92,376884,Durlach Ottostraße,48.99562,8.450164
+93,411396,Durlach Ottostraße,48.99497,8.450102
+94,316615,Durlach Parkschlössle,48.995518,8.47538
+95,9418,Durlach Parkschlössle,48.995422,8.4752
+96,329163,Durlach Raiherwiesenstraße,48.997486,8.458609
+97,90765,Durlach Raiherwiesenstraße,48.99797,8.458528
+98,152512,Durlach Rommelstraße,48.992226,8.473062
+99,210289,Durlach Rommelstraße,48.99208,8.472191
+100,352219,Durlach Rommelstraße,48.99227,8.473215
+101,313094,Durlach Schlesier Straße Ost,48.985756,8.459085
+102,83524,Durlach Schlesier Straße Ost,48.986282,8.459696
+103,213242,Durlach Schlesier Straße West,48.988384,8.452922
+104,283558,Durlach Schlesier Straße West,48.988415,8.452195
+105,319218,Durlach Schlesier Straße West,48.98837,8.452985
+106,403677,Durlach Schlesier Straße West,48.988758,8.452213
+107,128524,Durlach Schlossplatz,48.999126,8.473754
+108,26624,Durlach Schlossplatz,48.999138,8.474293
+109,418879,Durlach Schlossplatz,48.999023,8.474482
+110,182989,Durlach Steiermärker Straße,48.985744,8.45648
+111,432429,Durlach Steiermärker Straße,48.985916,8.455797
+112,86213,Durlach Steiermärker Straße,48.98571,8.456219
+113,225571,Durlach Thomashof,48.967663,8.504279
+114,386456,Durlach Thomashof,48.96726,8.504423
+115,219006,Durlach Tiefbauamt,48.996544,8.433132
+116,335752,Durlach Tiefbauamt,48.996727,8.432369
+117,221288,Durlach Tiefentalstraße,48.97323,8.473557
+118,382328,Durlach Tiefentalstraße,48.973248,8.473619
+119,428066,Durlach Tiefentalstraße,48.973194,8.473305
+120,449471,Durlach Tiefentalstraße,48.97351,8.473009
+121,132148,Durlach Turmberg,49.00025,8.477877
+122,132683,Durlach Turmberg,49.00021,8.478084
+123,248857,Durlach Turmberg,49.000008,8.478443
+124,311388,Durlach Turmberg,48.999897,8.478551
+125,375006,Durlach Turmberg,48.99944,8.478686
+126,393215,Durlach Turmberg,49.000126,8.478165
+127,72407,Durlach Turmberg,48.99993,8.478237
+128,81792,Durlach Turmberg,48.999874,8.478515
+129,130480,Durlach Untermühlstraße,49.001896,8.455887
+130,79664,Durlach Untermühlstraße,49.00206,8.455069
+131,110530,Durlach Wachhausstraße,48.992794,8.44879
+132,298296,Durlach Wachhausstraße,48.992165,8.44879
+133,345911,Durlach Wachhausstraße,48.992825,8.44879
+134,400599,Durlach Wachhausstraße,48.992542,8.448332
+135,174105,Durlach Zündhütle,48.982803,8.460109
+136,190078,Durlach Zündhütle,48.983322,8.460387
+137,210513,Durlach Zündhütle,48.982586,8.46098
+138,212319,Durlach Zündhütle,48.98268,8.460756
+139,21805,Durlach Zündhütle,48.98242,8.460944
+140,233264,Durlach Zündhütle,48.983055,8.460333
+141,7686,Grötzingen,49.006123,8.493391
+142,83175,Grötzingen,49.006157,8.493319
+143,86113,Grötzingen Emil-Arheit-Halle,49.022594,8.496859
+144,206546,Grötzingen Gustav-Hofmann-Str.,49.004025,8.506615
+145,340761,Grötzingen Gustav-Hofmann-Str.,49.004036,8.506534
+146,231034,Grünw. Heinz-Barth-Schule,48.95357,8.476737
+147,66430,Grünwettersb. Seniorenresidenz,48.952526,8.47132
+148,92010,Grünwettersb. Seniorenresidenz,48.951923,8.471428
+149,137904,Grünwettersbach Mitte,48.955227,8.470368
+150,205882,Grünwettersbach Mitte,48.955006,8.470323
+151,224711,Grünwettersbach Rathaus,48.958233,8.466819
+152,278883,Grünwettersbach Rathaus,48.958496,8.466783
+153,421248,Grünwinkel Friedhof,49.005337,8.356021
+154,426484,Grünwinkel Friedhof,49.005768,8.356138
+155,165977,Hagsfeld An der Tagweide,49.02108,8.456471
+156,214881,Hagsfeld An der Tagweide,49.021027,8.456444
+157,65515,Hagsfeld An der Tagweide,49.02082,8.457854
+158,166791,Hagsfeld Bahnhof,49.025867,8.453578
+159,216226,Hagsfeld Bahnhof,49.027718,8.453946
+160,233184,Hagsfeld Bahnhof,49.02697,8.454306
+161,396315,Hagsfeld Bahnhof,49.026978,8.454108
+162,103204,Hagsfeld Brückenstraße,49.027,8.463998
+163,424174,Hagsfeld Brückenstraße,49.026546,8.463468
+164,43876,Hagsfeld Brückenstraße,49.02738,8.464295
+165,444069,Hagsfeld Elfmorgenbruch,49.01989,8.460378
+166,74391,Hagsfeld Elfmorgenbruch,49.019745,8.460585
+167,105075,Hagsfeld Fächerbad,49.02584,8.44791
+168,124975,Hagsfeld Fächerbad,49.02609,8.447604
+169,274410,Hagsfeld Fächerbad,49.02513,8.44852
+170,305257,Hagsfeld Fächerbad,49.02531,8.448053
+171,411507,Hagsfeld Fächerbad,49.025265,8.448278
+172,90387,Hagsfeld Fächerbad,49.02561,8.448179
+173,275790,Hagsfeld Geroldsäcker,49.032772,8.455366
+174,388126,Hagsfeld Geroldsäcker,49.03291,8.455357
+175,124847,Hagsfeld Hallesche Allee,49.034805,8.454009
+176,92953,Hagsfeld Hallesche Allee,49.034897,8.453344
+177,228578,Hagsfeld Jenaer Straße,49.035736,8.456129
+178,334892,Hagsfeld Jenaer Straße,49.03614,8.456282
+179,200204,Hagsfeld Julius-Bender-Straße,49.029316,8.457117
+180,311795,Hagsfeld Julius-Bender-Straße,49.02908,8.456767
+181,288865,Hagsfeld Mona,49.0215,8.468733
+182,306378,Hagsfeld Neue Wiesen,49.020527,8.460971
+183,71944,Hagsfeld Neue Wiesen,49.020508,8.460998
+184,397627,Hagsfeld Nord,49.034676,8.460118
+185,93021,Hagsfeld Nord,49.034874,8.460288
+186,144753,Hagsfeld Oberdorfstraße,49.02827,8.455923
+187,351687,Hagsfeld Oberdorfstraße,49.028255,8.455815
+188,196935,Hagsfeld Pfizer,49.023594,8.453246
+189,413835,Hagsfeld Pfizer,49.02356,8.453264
+190,245697,Hagsfeld Printzstraße,49.0237,8.463073
+191,412497,Hagsfeld Printzstraße,49.02375,8.463019
+192,434412,Hagsfeld Printzstraße,49.02445,8.461411
+193,45117,Hagsfeld Reitschul. (Schleife),49.044086,8.46107
+194,32793,Hagsfeld Reitschulschlag,49.042526,8.4608
+195,449253,Hagsfeld Reitschulschlag,49.043262,8.460872
+196,168726,Hagsfeld Schwetzinger Straße,49.031452,8.459121
+197,558,Hagsfeld Schwetzinger Straße,49.031082,8.458851
+198,371469,Hagsfeld Schäferstraße,49.028484,8.46116
+199,400248,Hagsfeld Schäferstraße,49.02858,8.460935
+200,219768,Hagsfeld Storrenacker Mitte,49.021152,8.468095
+201,361847,Hagsfeld Storrenacker Mitte,49.020874,8.467996
+202,119058,Hagsfeld Storrenacker Nord,49.025337,8.470493
+203,411419,Hagsfeld Storrenacker Süd,49.019,8.466999
+204,458804,Hagsfeld Storrenacker Süd,49.019016,8.466927
+205,269741,Hagsfeld Süd,49.025097,8.449778
+206,300747,Hagsfeld Süd,49.024868,8.450003
+207,30808,Hagsfeld Süd,49.024654,8.449913
+208,332628,Hagsfeld Süd,49.02422,8.449122
+209,218532,Hohenwettersb. Taglöhnergärten,48.96622,8.47229
+210,242023,Hohenwettersb. Taglöhnergärten,48.965862,8.47247
+211,24948,Hohenwettersbach Medersbuckel,48.970234,8.476593
+212,274163,Hohenwettersbach Medersbuckel,48.970963,8.476045
+213,280847,Hohenwettersbach Mitte,48.968704,8.478057
+214,387469,Hohenwettersbach Mitte,48.968193,8.478434
+215,197140,Hohenwettersbach Rathaus,48.96599,8.477401
+216,97201,Hohenwettersbach Rathaus,48.966034,8.477303
+217,455325,KA Kaiserslauterner Straße,49.036823,8.374023
+218,84894,KA Kaiserslauterner Straße,49.036564,8.374284
+219,104037,KA Kunstakademie/Hochschule,49.014683,8.38651
+220,182598,KA Kunstakademie/Hochschule,49.014725,8.38651
+221,308750,KA Kunstakademie/Hochschule,49.014618,8.385629
+222,377960,KA Kunstakademie/Hochschule,49.014286,8.385656
+223,292273,KA Mühlburger Tor (Grashofstraße),49.011353,8.384623
+224,381607,KA Mühlburger Tor (Grashofstraße),49.01091,8.384534
+225,386139,KA Mühlburger Tor (Kaiserallee),49.010616,8.382764
+226,90233,KA Mühlburger Tor (Kaiserallee),49.01055,8.383653
+227,100935,KA Volkswohnung/Staatstheater,49.004463,8.403254
+228,346555,KA Volkswohnung/Staatstheater,49.004265,8.403506
+229,89572,KA Volkswohnung/Staatstheater,49.00382,8.404054
+230,25744,KA-Grötzingen Am Schwalbenloch,49.00064,8.500767
+231,361595,KA-Grötzingen An der Pfinz,49.005955,8.501961
+232,396176,KA-Grötzingen An der Pfinz,49.005924,8.501961
+233,242547,KA-Grötzingen Augustenburg,49.004257,8.498763
+234,347928,KA-Grötzingen Augustenburg,49.00435,8.49888
+235,314098,KA-Grötzingen Büchelbergstraße,49.005695,8.495646
+236,390984,KA-Grötzingen Büchelbergstraße,49.005642,8.495637
+237,185007,KA-Grötzingen Eisenbahnstraße,49.005108,8.501126
+238,32973,KA-Grötzingen Eisenbahnstraße,49.0051,8.501108
+239,395886,KA-Grötzingen Fikentscherstr.,49.001747,8.507172
+240,47163,KA-Grötzingen Fikentscherstr.,49.001736,8.50701
+241,105485,KA-Grötzingen Fröbelstraße,49.007736,8.491181
+242,243874,KA-Grötzingen Fröbelstraße,49.007706,8.491038
+243,160991,KA-Grötzingen Greschbachstraße,49.02976,8.473116
+244,42972,KA-Grötzingen Greschbachstraße,49.029667,8.473098
+245,279204,KA-Grötzingen Hl.-Kreuz-Kirche,49.004482,8.503659
+246,338985,KA-Grötzingen Hl.-Kreuz-Kirche,49.004353,8.50356
+247,278659,KA-Grötzingen Im Sonnental,49.001823,8.502842
+248,315503,KA-Grötzingen Im Sonnental,49.001743,8.502734
+249,86909,KA-Grötzingen Im Sonnental,49.001823,8.502976
+250,180548,KA-Grötzingen K.-Leopold-Str.,49.010857,8.494954
+251,296770,KA-Grötzingen K.-Leopold-Str.,49.010788,8.495134
+252,221312,KA-Grötzingen LTZ Augustenberg,49.003235,8.492565
+253,348714,KA-Grötzingen LTZ Augustenberg,49.003117,8.492574
+254,335856,KA-Grötzingen Nord,49.014618,8.494137
+255,391055,KA-Grötzingen Nord,49.015076,8.4942
+256,416165,KA-Grötzingen Nord,49.01467,8.494218
+257,148953,KA-Grötzingen Ohmstraße,49.02721,8.472622
+258,350813,KA-Grötzingen Ohmstraße,49.02736,8.47282
+259,147669,KA-Grötzingen Paul-Rein-Straße,49.001247,8.504135
+260,8749,KA-Grötzingen Paul-Rein-Straße,49.00127,8.503875
+261,290144,KA-Grötzingen Pfinzhof,49.032284,8.47167
+262,324576,KA-Grötzingen Pfinzhof,49.032284,8.471616
+263,134264,KA-Grötzingen Rathaus,49.007504,8.494927
+264,204897,KA-Grötzingen Rathaus,49.007584,8.495233
+265,271301,KA-Grötzingen Rathaus,49.007725,8.496203
+266,278143,KA-Grötzingen Ringelberghohl,49.003487,8.502455
+267,28465,KA-Grötzingen Ringelberghohl,49.003464,8.502339
+268,156269,KA-Grötzingen Rossweid,49.035336,8.472047
+269,199065,KA-Grötzingen Staigstraße,49.002937,8.497865
+270,458090,KA-Grötzingen Staigstraße,49.00286,8.497892
+271,131429,KA-Grötzingen Vogelsang,48.99971,8.499635
+272,178027,KA-Grötzingen Weidbruch,49.03393,8.473745
+273,201971,KA-Grötzingen Weidbruch,49.033768,8.473619
+274,135863,KA-Stupferich Efeustraße,48.956657,8.512525
+275,360798,KA-Stupferich Efeustraße,48.95664,8.512615
+276,214854,KA-Stupferich Gerberastraße,48.95633,8.507378
+277,25977,KA-Stupferich Gerberastraße,48.956085,8.507693
+278,264857,KA-Stupferich Karlsbader Str.,48.954227,8.508717
+279,82433,KA-Stupferich Karlsbader Str.,48.95397,8.507899
+280,82969,KA-Stupferich Karlsbader Str.,48.953953,8.508034
+281,247340,KA-Stupferich Kirche,48.951283,8.509103
+282,269841,KA-Stupferich Pfefferäcker,48.952396,8.503938
+283,398152,KA-Stupferich Pfefferäcker,48.952343,8.504036
+284,304921,KA-Stupferich Rathaus,48.954243,8.51063
+285,365266,KA-Stupferich Rebgärtenstraße,48.949806,8.506013
+286,92638,KA-Stupferich Rieslingstraße,48.95121,8.503327
+287,158488,KA-Stupferich Wiesentalstraße,48.952106,8.511537
+288,68068,Karlsruhe Albtalbahnhof,48.99381,8.395466
+289,247341,Karlsruhe Am Kanalweg,49.029877,8.395664
+290,339651,Karlsruhe Am Kanalweg,49.030293,8.395439
+291,239352,Karlsruhe Andreas-Hofer-Straße,49.00291,8.360728
+292,84574,Karlsruhe Andreas-Hofer-Straße,49.00295,8.360701
+293,21051,Karlsruhe Arbeitsagentur,49.003246,8.386384
+294,37895,Karlsruhe Arbeitsagentur,49.003918,8.386492
+295,22996,Karlsruhe Augartenstraße,48.998882,8.403425
+296,457159,Karlsruhe Augartenstraße,49.000217,8.403156
+297,443266,Karlsruhe August-Bebel-Straße,49.024338,8.375362
+298,168941,Karlsruhe Bannwaldallee,48.99515,8.372388
+299,250452,Karlsruhe Bannwaldallee,48.99529,8.372757
+300,22873,Karlsruhe Barbaraweg,49.023968,8.365884
+301,436678,Karlsruhe Barbaraweg,49.023968,8.366037
+302,138654,Karlsruhe Barbarossaplatz,48.994587,8.390166
+303,220234,Karlsruhe Barbarossaplatz,48.994297,8.390076
+304,398655,Karlsruhe Barbarossaplatz,48.995007,8.388836
+305,428110,Karlsruhe Barbarossaplatz,48.9949,8.389896
+306,330380,Karlsruhe Belchenplatz,48.982426,8.390453
+307,5459,Karlsruhe Belchenplatz,48.982307,8.390292
+308,21767,Karlsruhe Benzstraße,49.0006,8.366019
+309,19323,Karlsruhe Berliner Straße,49.030865,8.364303
+310,375891,Karlsruhe Berliner Straße,49.030247,8.365004
+311,423214,Karlsruhe Berliner Straße,49.030228,8.364842
+312,91024,Karlsruhe Berliner Straße,49.03078,8.364375
+313,187240,Karlsruhe Bernsteinstraße,48.992054,8.348224
+314,265007,Karlsruhe Bernsteinstraße,48.991745,8.348125
+315,320901,Karlsruhe Bernsteinstraße,48.991653,8.347945
+316,359923,Karlsruhe Bernsteinstraße,48.99211,8.348188
+317,105096,Karlsruhe Binger Straße,49.031155,8.361357
+318,220319,Karlsruhe Binger Straße,49.031216,8.360459
+319,138969,Karlsruhe Birkenweg,48.99877,8.362336
+320,176386,Karlsruhe Birkenweg,48.998802,8.362255
+321,217351,Karlsruhe Blohnstraße,49.007446,8.355599
+322,66313,Karlsruhe Blohnstraße,49.00753,8.356371
+323,3309,Karlsruhe Breite Straße,48.992413,8.386159
+324,50315,Karlsruhe Breite Straße,48.992756,8.385737
+325,127728,Karlsruhe Büchiger Allee,49.019768,8.421328
+326,322141,Karlsruhe Büchiger Allee,49.01961,8.421328
+327,387323,Karlsruhe Dammerstock,48.984848,8.403129
+328,105564,Karlsruhe Duale Hochschule,49.02703,8.386429
+329,195285,Karlsruhe Duale Hochschule,49.02657,8.385998
+330,203957,Karlsruhe Duale Hochschule,49.026634,8.385917
+331,278891,Karlsruhe Duale Hochschule,49.027252,8.386186
+332,123377,Karlsruhe Durlacher Tor/KIT,49.00948,8.418499
+333,150507,Karlsruhe Durlacher Tor/KIT,49.00919,8.417924
+334,208382,Karlsruhe Durlacher Tor/KIT,49.00939,8.418364
+335,298374,Karlsruhe Durlacher Tor/KIT,49.00873,8.418804
+336,410043,Karlsruhe Durlacher Tor/KIT,49.00894,8.417816
+337,434751,Karlsruhe Durlacher Tor/KIT,49.009296,8.417888
+338,170154,Karlsruhe Durmersheimer Straße,49.00062,8.35091
+339,236373,Karlsruhe Durmersheimer Straße,49.000404,8.350407
+340,115652,Karlsruhe Ebertstraße,48.994587,8.394675
+341,350275,Karlsruhe Ebertstraße,48.994553,8.395268
+342,35878,Karlsruhe Ebertstraße,48.9945,8.395556
+343,396164,Karlsruhe Ebertstraße,48.99453,8.395152
+344,310721,Karlsruhe Eckenerstraße,49.00535,8.349939
+345,355953,Karlsruhe Eckenerstraße,49.00511,8.349562
+346,315288,Karlsruhe Edelbergstraße,48.996834,8.354027
+347,371566,Karlsruhe Edelbergstraße,48.99765,8.355204
+348,433968,Karlsruhe Edelbergstraße,48.996914,8.354117
+349,392904,Karlsruhe Eichelbergstraße,48.993484,8.345079
+350,412963,Karlsruhe Eichelbergstraße,48.99357,8.345071
+351,167813,Karlsruhe Einfahrt über Gl. 21,49.007675,8.433653
+352,100375,Karlsruhe Emil-Gött-Straße,49.013363,8.420727
+353,378447,Karlsruhe Emil-Gött-Straße,49.013298,8.420628
+354,126690,Karlsruhe Entenfang,49.010963,8.359893
+355,203404,Karlsruhe Entenfang,49.010937,8.359938
+356,207297,Karlsruhe Entenfang,49.011017,8.357773
+357,375552,Karlsruhe Entenfang,49.01062,8.359479
+358,38572,Karlsruhe Entenfang,49.01056,8.358402
+359,97496,Karlsruhe Entenfang,49.01095,8.359866
+360,147793,Karlsruhe Erlenweg,48.982655,8.408707
+361,211241,Karlsruhe Essenweinstraße,49.00932,8.431875
+362,374445,Karlsruhe Essenweinstraße,49.010105,8.431902
+363,18424,Karlsruhe Ettlinger Tor,49.006516,8.403569
+364,303576,Karlsruhe Europahalle/-bad,48.999084,8.376413
+365,62035,Karlsruhe Europahalle/-bad,48.998478,8.376242
+366,231524,Karlsruhe Europapl.(Kaiserstr),49.01002,8.394478
+367,41847,Karlsruhe Europapl.(Kaiserstr),49.010063,8.394532
+368,94020,Karlsruhe Europapl.(Kaiserstr),49.01008,8.393669
+369,145222,Karlsruhe Europaplatz (Spark.),49.010017,8.393112
+370,391231,Karlsruhe Falterweg,48.997032,8.336438
+371,117187,Karlsruhe Feierabendweg,49.022152,8.360477
+372,133477,Karlsruhe Feierabendweg,49.02199,8.360557
+373,167551,Karlsruhe Feierabendweg,49.021866,8.360575
+374,250506,Karlsruhe Feierabendweg,49.022022,8.360432
+375,311935,Karlsruhe Frankenthaler Straße,49.034073,8.370762
+376,432879,Karlsruhe Frankenthaler Straße,49.034103,8.370412
+377,129742,Karlsruhe Gebhardstraße,48.99287,8.389187
+378,292047,Karlsruhe Gebhardstraße,48.992996,8.389447
+379,215745,Karlsruhe Germersheimer Straße,49.03275,8.364977
+380,5168,Karlsruhe Germersheimer Straße,49.033028,8.364735
+381,347211,Karlsruhe Gottesauer Platz/BGV,49.007557,8.424616
+382,363688,Karlsruhe Gottesauer Platz/BGV,49.007233,8.424041
+383,423344,Karlsruhe Gottesauer Platz/BGV,49.007412,8.425245
+384,236715,Karlsruhe Griesbachstraße,49.000633,8.368274
+385,147077,Karlsruhe Grünwinkler Straße,48.987865,8.380356
+386,451948,Karlsruhe Grünwinkler Straße,48.988087,8.379826
+387,167717,Karlsruhe Hardecksiedlung,48.99275,8.368948
+388,295091,Karlsruhe Hardecksiedlung,48.99226,8.368795
+389,298235,Karlsruhe Hardecksiedlung,48.992252,8.368768
+390,310829,Karlsruhe Hardecksiedlung,48.991844,8.369065
+391,32900,Karlsruhe Hardecksiedlung,48.992523,8.368606
+392,100340,Karlsruhe Hauptbahnhof (Vorplatz),48.994274,8.399194
+393,121921,Karlsruhe Hauptbahnhof (Vorplatz),48.994465,8.39932
+394,132426,Karlsruhe Hauptbahnhof (Vorplatz),48.994514,8.399571
+395,292537,Karlsruhe Hauptbahnhof (Vorplatz),48.99461,8.399976
+396,371337,Karlsruhe Hauptbahnhof (Vorplatz),48.994717,8.400622
+397,377078,Karlsruhe Hauptbahnhof (Vorplatz),48.994457,8.400056
+398,49953,Karlsruhe Hauptbahnhof (Vorplatz),48.99434,8.399248
+399,454983,Karlsruhe Hauptbahnhof Süd,48.99174,8.401125
+400,1268,Karlsruhe Hauptfriedhof,49.013287,8.428246
+401,131831,Karlsruhe Hauptfriedhof,49.013264,8.428317
+402,380777,Karlsruhe Hauptfriedhof,49.013058,8.431129
+403,392029,Karlsruhe Hauptfriedhof,49.01361,8.429216
+404,63945,Karlsruhe Hauptfriedhof,49.013653,8.430833
+405,82356,Karlsruhe Hauptfriedhof,49.01384,8.430159
+406,103004,Karlsruhe Hbf,48.993515,8.402181
+407,139807,Karlsruhe Heidehof,49.031677,8.387121
+408,203037,Karlsruhe Heidehof,49.03153,8.387031
+409,243520,Karlsruhe Heidehof,49.031223,8.387022
+410,305083,Karlsruhe Heidehof,49.03104,8.386932
+411,69262,Karlsruhe Heidehof,49.030457,8.387094
+412,180566,Karlsruhe Herrenstraße,49.009727,8.400649
+413,185278,Karlsruhe Herrenstraße,49.009754,8.400739
+414,368103,Karlsruhe Herrenstraße,49.00976,8.399976
+415,58840,Karlsruhe Herrenstraße,49.009804,8.400074
+416,152352,Karlsruhe Hertzstraße,49.020245,8.365013
+417,277267,Karlsruhe Hertzstraße,49.019836,8.364492
+418,457533,Karlsruhe Hertzstraße,49.020267,8.365121
+419,58286,Karlsruhe Hertzstraße,49.02008,8.364088
+420,3362,Karlsruhe Hirtenweg/Techn.park,49.017094,8.438666
+421,390362,Karlsruhe Hirtenweg/Techn.park,49.01751,8.439465
+422,288899,Karlsruhe Holtzstraße,49.001637,8.381075
+423,371653,Karlsruhe Holtzstraße,49.002144,8.381183
+424,207343,Karlsruhe Hornisgrindestraße,48.996002,8.359749
+425,273435,Karlsruhe Hornisgrindestraße,48.995438,8.359803
+426,41353,Karlsruhe Hornisgrindestraße,48.996315,8.359884
+427,444755,Karlsruhe Hornisgrindestraße,48.996037,8.359659
+428,355786,Karlsruhe Händelstraße,49.011246,8.369047
+429,429856,Karlsruhe Händelstraße,49.0112,8.369559
+430,15110,Karlsruhe Hübschstraße,49.005543,8.373116
+431,284590,Karlsruhe Hübschstraße,49.005615,8.37211
+432,49287,Karlsruhe Hübschstraße,49.00552,8.373026
+433,266660,Karlsruhe Junker-und-Ruh-Str.,48.999477,8.369109
+434,222895,Karlsruhe Kaiserplatz,49.010612,8.388666
+435,232503,Karlsruhe Kaiserplatz,49.010017,8.38845
+436,353624,Karlsruhe Karl-Wilhelm-Platz,49.011375,8.423386
+437,63593,Karlsruhe Karl-Wilhelm-Platz,49.011253,8.422981
+438,66166,Karlsruhe Karl-Wilhelm-Platz,49.011242,8.422954
+439,72287,Karlsruhe Karl-Wilhelm-Platz,49.011387,8.423413
+440,158979,Karlsruhe Kolpingplatz,48.997734,8.393804
+441,169784,Karlsruhe Kolpingplatz,48.997387,8.393714
+442,359902,Karlsruhe Kolpingplatz,48.99791,8.393768
+443,64086,Karlsruhe Kolpingplatz,48.997887,8.393822
+444,165494,Karlsruhe Kongresszentrum,49.002007,8.403209
+445,92041,Karlsruhe Kongresszentrum,49.00245,8.403039
+446,365732,Karlsruhe Konzerthaus,49.00381,8.400056
+447,36660,Karlsruhe Kronenpl.(Erler-Str),49.00827,8.410046
+448,396767,Karlsruhe Kronenpl.(Erler-Str),49.007977,8.409974
+449,135729,Karlsruhe Kronenpl.(Kaiserstr),49.009403,8.408492
+450,200776,Karlsruhe Kronenpl.(Kaiserstr),49.009403,8.408456
+451,362388,Karlsruhe Kronenpl.(Kaiserstr),49.00934,8.409372
+452,457986,Karlsruhe Kronenpl.(Kaiserstr),49.009342,8.409336
+453,313874,Karlsruhe Kußmaulstr./Städt. Klinikum,49.016705,8.369657
+454,429193,Karlsruhe Kußmaulstr./Städt. Klinikum,49.016968,8.369136
+455,215963,Karlsruhe Kärcherstraße,49.016186,8.361761
+456,32878,Karlsruhe Kärcherstraße,49.015984,8.361555
+457,136124,Karlsruhe Kühler Krug,49.005566,8.368148
+458,208659,Karlsruhe Kühler Krug,49.00509,8.367906
+459,412724,Karlsruhe Kühler Krug,49.0054,8.3676
+460,91997,Karlsruhe Kühler Krug,49.005814,8.367214
+461,264334,Karlsruhe Lameyplatz,49.013447,8.354359
+462,342850,Karlsruhe Lameyplatz,49.013042,8.355006
+463,51295,Karlsruhe Lameyplatz,49.013226,8.354476
+464,74178,Karlsruhe Lameyplatz,49.012962,8.354871
+465,101176,Karlsruhe Landauer Straße,49.031258,8.370259
+466,99148,Karlsruhe Landauer Straße,49.029827,8.370448
+467,246796,Karlsruhe Landesbausparkasse,49.001972,8.377625
+468,77896,Karlsruhe Landesbausparkasse,49.001366,8.377509
+469,125913,Karlsruhe Landgrabenstraße,48.988663,8.377374
+470,189104,Karlsruhe Landgrabenstraße,48.988735,8.377329
+471,37336,Karlsruhe Lessingstraße,49.004414,8.383842
+472,88729,Karlsruhe Lessingstraße,49.00435,8.384641
+473,181052,Karlsruhe Lilienthalstraße,49.02191,8.38536
+474,194193,Karlsruhe Lilienthalstraße,49.022682,8.385225
+475,371265,Karlsruhe Lilienthalstraße,49.02344,8.385225
+476,99187,Karlsruhe Lilienthalstraße,49.022263,8.385081
+477,124548,Karlsruhe Linkenheimer Tor,49.01465,8.398251
+478,93131,Karlsruhe Linkenheimer Tor,49.01491,8.398179
+479,209982,Karlsruhe Links der Alb,48.984,8.39596
+480,90880,Karlsruhe Links der Alb,48.98386,8.395897
+481,197094,Karlsruhe Liststraße,49.004494,8.363971
+482,322870,Karlsruhe Lorenzstraße / ZKM,48.998856,8.383788
+483,83698,Karlsruhe Lorenzstraße / ZKM,48.998714,8.384498
+484,58540,Karlsruhe Madenburgweg,49.027145,8.365525
+485,97143,Karlsruhe Madenburgweg,49.027176,8.365354
+486,243325,Karlsruhe Marktplatz,49.00961,8.404296
+487,268004,Karlsruhe Marktplatz,49.00952,8.405527
+488,437198,Karlsruhe Marktplatz,49.009514,8.405563
+489,60776,Karlsruhe Marktplatz,49.009586,8.404611
+490,118238,Karlsruhe Mathystraße,49.001884,8.394244
+491,138323,Karlsruhe Mathystraße,49.00217,8.394325
+492,330173,Karlsruhe Mathystraße,49.002655,8.393229
+493,366352,Karlsruhe Mathystraße,49.00256,8.393813
+494,118859,Karlsruhe Moltkestr./Städt. Klinikum,49.015182,8.374679
+495,65223,Karlsruhe Moltkestr./Städt. Klinikum,49.01523,8.374203
+496,412996,Karlsruhe Mühlburger Feld,49.007523,8.364474
+497,139734,Karlsruhe Neckarplatz,48.987514,8.394352
+498,304076,Karlsruhe Neckarplatz,48.987354,8.394056
+499,261149,Karlsruhe Neue Anlage Straße,48.98996,8.384462
+500,387967,Karlsruhe Neue Anlage Straße,48.99061,8.384812
+501,100793,Karlsruhe Neureuter Str. West,49.024773,8.355006
+502,130068,Karlsruhe Neureuter Straße,49.023506,8.357683
+503,164948,Karlsruhe Neureuter Straße,49.02373,8.357333
+504,40955,Karlsruhe Neureuter Straße,49.02349,8.357988
+505,45448,Karlsruhe Neureuter Straße,49.023342,8.357845
+506,125918,Karlsruhe Nürnberger Straße,48.98436,8.3987
+507,394841,Karlsruhe Nürnberger Straße,48.984425,8.398457
+508,40993,Karlsruhe Ostendstraße,49.00514,8.41601
+509,446301,Karlsruhe Ostendstraße,49.00497,8.416549
+510,183417,Karlsruhe Otto-Sachs-Straße,49.00339,8.389546
+511,282462,Karlsruhe Otto-Sachs-Straße,49.003487,8.389232
+512,70793,Karlsruhe Pappelallee,48.9951,8.335135
+513,150933,Karlsruhe Pastor-Felke-Straße,49.01556,8.42229
+514,44001,Karlsruhe Pastor-Felke-Straße,49.015514,8.422236
+515,342192,Karlsruhe Petergraben,48.985855,8.377464
+516,98946,Karlsruhe Petergraben,48.985832,8.377509
+517,35166,Karlsruhe Pfannkuchstraße,49.011257,8.347837
+518,266977,Karlsruhe Philipp-Reis-Straße,49.00449,8.410899
+519,343228,Karlsruhe Philipp-Reis-Straße,49.00447,8.411456
+520,432357,Karlsruhe Philippstraße,49.011387,8.364878
+521,60041,Karlsruhe Philippstraße,49.011448,8.364169
+522,131446,Karlsruhe Poststraße,48.99493,8.402922
+523,16489,Karlsruhe Poststraße,48.99504,8.403066
+524,218050,Karlsruhe Poststraße,48.995247,8.403964
+525,33849,Karlsruhe Poststraße,48.9951,8.40303
+526,329036,Karlsruhe Rheinhafen,49.015747,8.347379
+527,89350,Karlsruhe Rheinhafen Nord,49.017105,8.320493
+528,367469,Karlsruhe Rheinhafenstraße,49.00139,8.3449
+529,430386,Karlsruhe Rheinhafenstraße,49.00168,8.345223
+530,194005,Karlsruhe Rintheimer Querallee,49.025528,8.424598
+531,255577,Karlsruhe Rintheimer Querallee,49.025257,8.424032
+532,342746,Karlsruhe Rüppurrer Tor,49.005642,8.410378
+533,453157,Karlsruhe Rüppurrer Tor,49.004826,8.410369
+534,54349,Karlsruhe Schillerstraße,49.01043,8.379808
+535,97446,Karlsruhe Schillerstraße,49.009754,8.379656
+536,244782,Karlsruhe Schloss Gottesaue,49.00365,8.426925
+537,52948,Karlsruhe Schloss Gottesaue,49.003635,8.427949
+538,389364,Karlsruhe Schloss Rüppurr,48.98105,8.403659
+539,264589,Karlsruhe Schweigener Straße,49.0384,8.369577
+540,320518,Karlsruhe Schweigener Straße,49.03851,8.369577
+541,316770,Karlsruhe Schwimmschulweg,48.994595,8.364133
+542,411363,Karlsruhe Schwimmschulweg,48.994595,8.364905
+543,411292,Karlsruhe Schützenhaus,49.02423,8.396454
+544,429942,Karlsruhe Schützenhaus,49.023827,8.396876
+545,107640,Karlsruhe Sinner (Durm. Str.),49.002663,8.355114
+546,30438,Karlsruhe Sinner (Durm. Str.),49.002213,8.354233
+547,259420,Karlsruhe Sinner (Zeppelinstr.),49.003098,8.356264
+548,431924,Karlsruhe Sinner (Zeppelinstr.),49.003014,8.356264
+549,247104,Karlsruhe Sophienstraße,49.00751,8.379063
+550,320321,Karlsruhe Sophienstraße,49.007748,8.379278
+551,209741,Karlsruhe St. Josef Kirche,48.998844,8.351637
+552,213254,Karlsruhe St. Josef Kirche,48.99887,8.348556
+553,226225,Karlsruhe St. Josef Kirche,48.99843,8.350155
+554,246616,Karlsruhe St. Vincent. Krankh.,48.99961,8.380958
+555,431311,Karlsruhe St. Vincent. Krankh.,48.99942,8.380779
+556,257142,Karlsruhe Stadtwerke,49.007175,8.343975
+557,257343,Karlsruhe Stadtwerke,49.00751,8.344244
+558,402170,Karlsruhe Staufenbergweg,48.99101,8.346975
+559,362086,Karlsruhe Stephanienbad,48.990868,8.391729
+560,9743,Karlsruhe Stephanienbad,48.991055,8.391927
+561,267531,Karlsruhe Stresemannstraße,49.02622,8.374445
+562,5452,Karlsruhe Stresemannstraße,49.02634,8.37458
+563,30577,Karlsruhe Studentenhaus,49.011024,8.417933
+564,7417,Karlsruhe Studentenhaus,49.011375,8.418148
+565,267948,Karlsruhe Synagoge,49.017464,8.385306
+566,280575,Karlsruhe Synagoge,49.017563,8.38492
+567,40891,Karlsruhe Synagoge,49.017616,8.384794
+568,450179,Karlsruhe Synagoge,49.017918,8.384902
+569,213811,Karlsruhe Südendschule,48.99863,8.389052
+570,73240,Karlsruhe Südendschule,48.998554,8.38836
+571,291315,Karlsruhe Tivoli,48.996975,8.410692
+572,377426,Karlsruhe Tivoli,48.99676,8.410692
+573,434888,Karlsruhe Tivoli,48.996643,8.410405
+574,344550,Karlsruhe Trierer Straße,49.03534,8.372757
+575,391741,Karlsruhe Trierer Straße,49.03527,8.372406
+576,208243,Karlsruhe Tullastraße/VBK,49.007286,8.431524
+577,287989,Karlsruhe Tullastraße/VBK,49.006096,8.432513
+578,310715,Karlsruhe Tullastraße/VBK,49.006756,8.431318
+579,353054,Karlsruhe Tullastraße/VBK,49.00629,8.43165
+580,258897,Karlsruhe TÜV,48.996437,8.348197
+581,270661,Karlsruhe TÜV,48.996597,8.348349
+582,241517,Karlsruhe Vogesenbrücke,49.00911,8.355563
+583,211153,Karlsruhe Wattkopfstraße,48.994644,8.351754
+584,250423,Karlsruhe Wattkopfstraße,48.994507,8.351502
+585,163314,Karlsruhe Weiherhof,48.985786,8.392978
+586,421667,Karlsruhe Weiherhof,48.985718,8.392753
+587,106204,Karlsruhe Weinbrennerplatz,49.00567,8.376754
+588,183805,Karlsruhe Weinbrennerplatz,49.005653,8.377176
+589,192137,Karlsruhe Weinbrennerplatz,49.005424,8.377859
+590,224817,Karlsruhe Weinbrennerplatz,49.00514,8.377832
+591,232385,Karlsruhe Weinbrennerplatz,49.005554,8.378371
+592,405286,Karlsruhe Weinbrennerplatz,49.005554,8.377724
+593,40761,Karlsruhe Weinbrennerplatz,49.0054,8.378694
+594,232035,Karlsruhe Weinweg,49.00443,8.441514
+595,300386,Karlsruhe Weinweg,49.0043,8.442062
+596,243220,Karlsruhe Weißenburger Straße,49.03683,8.366828
+597,267801,Karlsruhe Weißenburger Straße,49.03712,8.367151
+598,163597,Karlsruhe Weißes Haus,49.03327,8.394936
+599,336899,Karlsruhe Weißes Haus,49.032894,8.395152
+600,12170,Karlsruhe Welfenstraße,48.995087,8.386249
+601,137117,Karlsruhe Welfenstraße,48.99533,8.384929
+602,329303,Karlsruhe Welfenstraße,48.995304,8.386213
+603,55662,Karlsruhe Welfenstraße,48.995235,8.38554
+604,108455,Karlsruhe Werderstraße,49.000816,8.410621
+605,217673,Karlsruhe Werderstraße,49.000153,8.410603
+606,335384,Karlsruhe West,49.001854,8.362947
+607,75196,Karlsruhe West,49.00186,8.362992
+608,270203,Karlsruhe Wilhelm-Kolb-Straße,49.027924,8.372999
+609,332632,Karlsruhe Wilhelm-Kolb-Straße,49.027836,8.373466
+610,19118,Karlsruhe Windeckstraße,48.99131,8.371122
+611,376220,Karlsruhe Windeckstraße,48.99116,8.370672
+612,100874,Karlsruhe Wolfartsweierer Str.,49.003563,8.423062
+613,206416,Karlsruhe Wolfartsweierer Str.,49.00403,8.424329
+614,41617,Karlsruhe Wolfartsweierer Str.,49.0034,8.423637
+615,81304,Karlsruhe Wolfartsweierer Str.,49.003933,8.424266
+616,281872,Karlsruhe Yorckstraße,49.010895,8.376197
+617,337348,Karlsruhe Yorckstraße,49.01101,8.375209
+618,98519,Karlsruhe Yorckstraße,49.010963,8.375263
+619,348197,Karlsruhe ZKM,48.99899,8.385944
+620,389391,Karlsruhe ZKM,48.999798,8.386079
+621,315128,Karlsruhe central train station,48.991467,8.400453
+622,116317,Karlsruhe-Durlach,49.001385,8.462373
+623,18884,Karlsruhe-Durlach,49.00141,8.462471
+624,241690,Karlsruhe-Durlach,49.001152,8.462408
+625,26873,Karlsruhe-Hagsfeld,49.025936,8.453645
+626,237487,Knielingen Bruchweg,49.039497,8.335081
+627,173512,Knielingen Eggensteiner Straße,49.03394,8.338189
+628,172632,Knielingen Egon-Eiermann-Allee,49.035194,8.351206
+629,24832,Knielingen Egon-Eiermann-Allee,49.035954,8.350326
+630,3816,Knielingen Egon-Eiermann-Allee,49.035053,8.351296
+631,427411,Knielingen Egon-Eiermann-Allee,49.035995,8.350146
+632,55627,Knielingen Egon-Eiermann-Allee,49.035706,8.350451
+633,62025,Knielingen Egon-Eiermann-Allee,49.035652,8.350371
+634,256028,Knielingen Elsternweg,49.037914,8.339222
+635,258264,Knielingen Herweghstraße,49.03109,8.341495
+636,399638,Knielingen Herweghstraße,49.031124,8.341531
+637,116144,Knielingen Husarenlager,49.032845,8.355302
+638,247835,Knielingen Husarenlager,49.033,8.354817
+639,447352,Knielingen Jakob-Dörr-Straße,49.03666,8.336545
+640,63339,Knielingen Jakob-Dörr-Straße,49.0367,8.336851
+641,372258,Knielingen Kolbengärten,49.03981,8.341747
+642,140213,Knielingen Landeckstraße,49.03657,8.342888
+643,292668,Knielingen Landeckstraße,49.036667,8.342825
+644,259777,Knielingen Max-Dortu-Straße,49.04162,8.338621
+645,381655,Knielingen Nord,49.037766,8.347756
+646,409504,Knielingen Nord,49.037876,8.347487
+647,445098,Knielingen Nord,49.03849,8.346975
+648,113627,Knielingen Pionierstraße,49.033485,8.348089
+649,173079,Knielingen Pionierstraße,49.033375,8.347146
+650,246649,Knielingen Pionierstraße,49.033314,8.347182
+651,331876,Knielingen Pionierstraße,49.0334,8.347801
+652,386014,Knielingen Pionierstraße,49.032654,8.3472
+653,413242,Knielingen Pionierstraße,49.03324,8.347739
+654,256293,Knielingen Reinmuthstraße,49.034927,8.340624
+655,309801,Knielingen Reinmuthstraße,49.034843,8.340462
+656,125975,Knielingen Rheinbergstraße,49.035328,8.336312
+657,158773,Knielingen Siemensallee,49.027584,8.349993
+658,192507,Knielingen Siemensallee,49.027584,8.350209
+659,331200,Knielingen Siemensallee,49.027885,8.349814
+660,66468,Knielingen Siemensallee,49.027367,8.350802
+661,154726,Knielingen Sudetenstraße,49.030422,8.345053
+662,173801,Knielingen Sudetenstraße,49.03056,8.345313
+663,214135,Knielingen Sudetenstraße,49.03029,8.345538
+664,342754,Knielingen Sudetenstraße,49.03054,8.345124
+665,394680,Neureut Alte Kreisstraße,49.040474,8.392879
+666,431112,Neureut Alte Kreisstraße,49.04043,8.392825
+667,174816,Neureut Am Bachkanal,49.063824,8.37317
+668,371535,Neureut Am Bachkanal,49.06373,8.373358
+669,140613,Neureut Am Hubengut,49.042217,8.390516
+670,287703,Neureut Am Hubengut,49.042248,8.39057
+671,40574,Neureut Am Zinken,49.05845,8.380814
+672,295805,Neureut An der Trift,49.04592,8.394235
+673,421093,Neureut An der Trift,49.04574,8.393481
+674,107904,Neureut Bachenweg,49.05031,8.375065
+675,152549,Neureut Bachenweg,49.05006,8.374706
+676,152406,Neureut Blankenlocher Weg,49.053623,8.399113
+677,34120,Neureut Blankenlocher Weg,49.053493,8.399715
+678,1196,Neureut Bärenweg,49.047092,8.378874
+679,360423,Neureut Bärenweg,49.0471,8.378919
+680,211634,Neureut Dammweg,49.064167,8.370053
+681,40592,Neureut Dammweg,49.064148,8.369999
+682,421170,Neureut Donauschwabenstraße,49.05121,8.396041
+683,445872,Neureut Donauschwabenstraße,49.051414,8.396014
+684,333270,Neureut Flughafenstraße,49.036137,8.380644
+685,418488,Neureut Flughafenstraße,49.036148,8.380527
+686,113400,Neureut Forlenweg,49.052776,8.395601
+687,6509,Neureut Forlenweg,49.05278,8.395709
+688,31020,Neureut Friedhof,49.05788,8.384992
+689,56644,Neureut Friedhof,49.057266,8.384578
+690,158280,Neureut Grünewaldstraße,49.04557,8.381605
+691,389335,Neureut Grünewaldstraße,49.045624,8.381551
+692,226563,Neureut Holbeinstraße,49.04677,8.382683
+693,351946,Neureut Im Kleinen Bruch,49.06682,8.369666
+694,162629,Neureut Kirche,49.054867,8.38077
+695,385665,Neureut Kirche,49.05483,8.380931
+696,300842,Neureut Kirchfeld Fortuna,49.056423,8.400236
+697,35467,Neureut Kirchfeld Fortuna,49.056572,8.400218
+698,244572,Neureut Kirchfeld Nord,49.058617,8.39985
+699,322434,Neureut Kirchfeld Nord,49.059326,8.39976
+700,386266,Neureut Kirchfeld Nord,49.05862,8.399967
+701,208087,Neureut Mitteltorstraße,49.052162,8.378425
+702,31270,Neureut Mitteltorstraße,49.05218,8.378254
+703,59768,Neureut Moldaustraße,49.04735,8.396239
+704,79065,Neureut Moldaustraße,49.047394,8.396391
+705,231218,Neureut Rosmarinweg,49.035286,8.385809
+706,422432,Neureut Rosmarinweg,49.035618,8.38554
+707,130398,Neureut Spöcker Straße,49.045006,8.390732
+708,60092,Neureut Spöcker Straße,49.04508,8.390507
+709,411192,Neureut Südschule,49.04541,8.370807
+710,19269,Neureut Waldenserkirche,49.046818,8.370708
+711,395224,Neureut Waldenserkirche,49.04684,8.370655
+712,264949,Neureut Welschneureuter Straße,49.04455,8.373448
+713,449419,Neureut Welschneureuter Straße,49.044662,8.373358
+714,50831,Neureut-Heide,49.036488,8.388136
+715,67079,Neureut-Heide,49.03615,8.387983
+716,212574,Oberreut Albert-Braun-Straße,48.988976,8.363225
+717,232417,Oberreut Albert-Braun-Straße,48.989017,8.3638
+718,275961,Oberreut Albert-Braun-Straße,48.989227,8.363773
+719,92983,Oberreut Albert-Braun-Straße,48.988995,8.363522
+720,208863,Oberreut Badeniaplatz,48.982372,8.368912
+721,277867,Oberreut Badeniaplatz,48.982254,8.368067
+722,318887,Oberreut Badeniaplatz,48.982346,8.368319
+723,92482,Oberreut Badeniaplatz,48.981953,8.368247
+724,328990,Oberreut Bernh.-Lichtenbg-Str.,48.98718,8.364303
+725,113473,Oberreut Eugen-Geck-Straße,48.985073,8.356156
+726,226795,Oberreut Eva-Maria-Buch-Straße,48.985752,8.367897
+727,18526,Oberreut Johanna-Kirchner-Str.,48.985443,8.359471
+728,27258,Oberreut Johanna-Kirchner-Str.,48.98565,8.359731
+729,242532,Oberreut R.-Breitscheid-Staße,48.987118,8.360998
+730,434402,Oberreut R.-Breitscheid-Staße,48.986935,8.360737
+731,58160,Oberreut Realschule,48.993065,8.361366
+732,235565,Oberreut Wilhelm-Leuschner-Str,48.98347,8.36522
+733,246961,Oberreut Wilhelm-Leuschner-Str,48.98343,8.36522
+734,260871,Oberreut Wilhelm-Leuschner-Str,48.983334,8.365202
+735,66927,Oberreut Wilhelm-Leuschner-Str,48.98365,8.364528
+736,192681,Oberreut Zentrum,48.985535,8.362489
+737,232055,Oberreut Zentrum,48.98583,8.362255
+738,252053,Oberreut Zentrum,48.985676,8.362336
+739,347368,Oberreut Zentrum,48.98552,8.362417
+740,127573,Palmbach Im Kloth,48.947365,8.478129
+741,1812,Palmbach Im Kloth,48.947697,8.477608
+742,183853,Palmbach Kirche,48.946293,8.482126
+743,189859,Palmbach Kirche,48.946568,8.481075
+744,104324,Palmbach Rudolf-Link-Straße,48.94419,8.490059
+745,172201,Palmbach Winterrot,48.94566,8.485028
+746,22390,Palmbach Winterrot,48.945587,8.485271
+747,27939,Rintheim Sinsheimer Straße,49.020985,8.445035
+748,283557,Rintheim Sinsheimer Straße,49.020725,8.444658
+749,166014,Rüppurr Battstraße,48.965687,8.404404
+750,71941,Rüppurr Hegaustraße,48.96673,8.411887
+751,295638,Rüppurr Heinrich-Heine-Ring,48.966324,8.407036
+752,419114,Rüppurr Märchenring,48.970303,8.416181
+753,306018,Rüppurr Prinzenweg,48.96869,8.414465
+754,297981,Stupferich Auf der Römerstraße,48.945705,8.489538
+755,417759,Stupferich Auf der Römerstraße,48.945835,8.489565
+756,207678,Talstation (140m),48.998535,8.481057
+757,179115,Waldstadt Breslauer Straße,49.029057,8.430473
+758,406964,Waldstadt Breslauer Straße,49.02881,8.43033
+759,280676,Waldstadt Elbinger Straße Ost,49.040794,8.450694
+760,66218,Waldstadt Elbinger Straße Ost,49.040646,8.450497
+761,154511,Waldstadt Elbinger Straße West,49.040928,8.437983
+762,211010,Waldstadt Elbinger Straße West,49.04121,8.438423
+763,12428,Waldstadt Europäische Schule,49.0454,8.44764
+764,206880,Waldstadt Europäische Schule,49.045338,8.447299
+765,364436,Waldstadt Europäische Schule,49.044796,8.446796
+766,150289,Waldstadt Glogauer Straße,49.03171,8.441783
+767,298416,Waldstadt Glogauer Straße,49.031666,8.441909
+768,325818,Waldstadt Glogauer Straße,49.03199,8.442268
+769,396745,Waldstadt Glogauer Straße,49.031963,8.442071
+770,32410,Waldstadt Im Eichbäumle,49.029568,8.44791
+771,335917,Waldstadt Im Eichbäumle,49.029575,8.447829
+772,103731,Waldstadt Jägerhaus,49.03682,8.446913
+773,190491,Waldstadt Jägerhaus,49.0374,8.447541
+774,28915,Waldstadt Jägerhaus,49.03705,8.447919
+775,194090,Waldstadt Kolberger Straße,49.038254,8.434776
+776,5439,Waldstadt Kolberger Straße,49.038578,8.43527
+777,260540,Waldstadt Osteroder Straße,49.043198,8.447658
+778,60855,Waldstadt Osteroder Straße,49.043514,8.446652
+779,138310,Waldstadt Schneidemühler Str.,49.035206,8.43147
+780,27871,Waldstadt Schneidemühler Str.,49.034904,8.430914
+781,185920,Waldstadt Zentrum,49.03525,8.445376
+782,275459,Waldstadt Zentrum,49.03461,8.445053
+783,382538,Waldstadt Zentrum,49.03501,8.44508
+784,68105,Waldstadt Zentrum,49.034744,8.445107
+785,97610,Waldstadt Zentrum,49.035046,8.44526
+786,287363,Wolfartsweier Mitte,48.975616,8.455402
+787,314071,Wolfartsweier Mitte,48.975548,8.455267
+788,197147,Wolfartsweier Nord,48.97814,8.458097
+789,372233,Wolfartsweier Nord,48.978233,8.458276
+790,96302,Wolfartsweier Nord,48.979164,8.458815
+791,28477,Wolfartsweier Süd,48.97413,8.453291
+792,402323,Wolfartsweier Süd,48.97403,8.45312

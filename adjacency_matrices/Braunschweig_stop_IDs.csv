@@ -1,0 +1,955 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,368514,"BS, Alter Rautheimer Weg",52.222847,10.569838
+1,63832,"BS, Alter Rautheimer Weg",52.222694,10.569084
+2,232297,"BS, Bechtsbütteler Weg",52.32413,10.551513
+3,294112,"BS, Bechtsbütteler Weg",52.324078,10.551584
+4,307314,"BS, Broitzemer Steinberg",52.231697,10.47565
+5,49051,"BS, Broitzemer Steinberg",52.231686,10.47556
+6,154720,"BS, Ernst-Böhme-Straße",52.3103,10.490903
+7,198440,"BS, Ernst-Böhme-Straße",52.310722,10.49473
+8,13174,"BS, Grundschule Rüningen",52.222637,10.503246
+9,300389,"BS, Grundschule Rüningen",52.222645,10.503336
+10,400455,"BS, Hermann-Blenk-Straße",52.314034,10.534633
+11,61425,"BS, Hermann-Blenk-Straße",52.31431,10.535549
+12,109373,"BS, In den Rosenäckern",52.271233,10.48183
+13,128287,"BS, In den Rosenäckern",52.27127,10.48174
+14,422303,"BS, In den Springäckern",52.219948,10.562319
+15,445645,"BS, In den Springäckern",52.220234,10.56293
+16,153044,"BS, Leonhardplatz (Stadthalle)",52.258797,10.540751
+17,16759,"BS, Leonhardplatz (Stadthalle)",52.259193,10.540373
+18,224090,"BS, Leonhardplatz (Stadthalle)",52.25858,10.54049
+19,225063,"BS, Leonhardplatz (Stadthalle)",52.259045,10.541326
+20,357486,"BS, Leonhardplatz (Stadthalle)",52.259193,10.540373
+21,362608,"BS, Leonhardplatz (Stadthalle)",52.259037,10.541326
+22,61069,"BS, Leonhardplatz (Stadthalle)",52.259426,10.541002
+23,212043,"BS, Luftfahrtbundesamt",52.314285,10.545341
+24,262615,"BS, Luftfahrtbundesamt",52.314198,10.545269
+25,25395,"BS, Messegelände Nordeingang",52.24946,10.518104
+26,275901,"BS, Messegelände Nordeingang",52.24866,10.518437
+27,340895,"BS, Messegelände Nordeingang",52.248413,10.517089
+28,396669,"BS, Neunkirchener Straße",52.27392,10.472587
+29,421270,"BS, Neunkirchener Straße",52.27392,10.472587
+30,123393,"BS, Pappelbergsiedlung",52.28496,10.564179
+31,152755,"BS, Pappelbergsiedlung",52.285583,10.564242
+32,314311,"BS, Pappelbergsiedlung",52.285046,10.564529
+33,206202,"BS, Saarbrückener Straße",52.277504,10.473844
+34,401794,"BS, Saarbrückener Straße",52.277344,10.473979
+35,136485,"BS, Veltenhöfer Straße",52.322598,10.508887
+36,157029,"BS, Veltenhöfer Straße",52.322685,10.509094
+37,47379,"BS, Veltenhöfer Straße",52.32255,10.509229
+38,70445,"BS, Veltenhöfer Straße",52.3225,10.508968
+39,183810,"BS, von Pawelsches Holz",52.280857,10.465625
+40,19513,"BS, von Pawelsches Holz",52.28079,10.465517
+41,19401,"Braunschweig , Am Bruchkamp",52.306503,10.459417
+42,238481,"Braunschweig , Am Bruchkamp",52.306507,10.459291
+43,20076,"Braunschweig , Am Forst",52.30132,10.568949
+44,352100,"Braunschweig , Am Forst",52.301514,10.568733
+45,143178,"Braunschweig , Am Kalkwerk",52.221786,10.5654
+46,328201,"Braunschweig , Am Kalkwerk",52.22171,10.565589
+47,53683,"Braunschweig , Am Kalkwerk",52.221786,10.5654
+48,124795,"Braunschweig , Am Lehmanger",52.24097,10.489502
+49,206650,"Braunschweig , Am Lehmanger",52.24194,10.488532
+50,210747,"Braunschweig , Am Lehmanger",52.242203,10.48793
+51,384407,"Braunschweig , Am Lehmanger",52.241104,10.489098
+52,388199,"Braunschweig , Am Lehmanger",52.24194,10.488666
+53,48666,"Braunschweig , Am Lehmanger",52.241943,10.488837
+54,110009,"Braunschweig , Am Meerbusch",52.341484,10.576917
+55,39911,"Braunschweig , Am Meerbusch",52.341476,10.577213
+56,237515,"Braunschweig , Am Spieltore",52.236107,10.579513
+57,269790,"Braunschweig , Am Spieltore",52.23589,10.579684
+58,129341,"Braunschweig , Arndtstraße (Einwohnermeldeamt)",52.240574,10.501342
+59,37985,"Braunschweig , Arndtstraße (Einwohnermeldeamt)",52.240406,10.500883
+60,119567,"Braunschweig , Lammer Heide",52.266838,10.448027
+61,227527,"Braunschweig , Lammer Heide",52.266544,10.449284
+62,336665,"Braunschweig , Lammer Heide",52.266487,10.449482
+63,410652,"Braunschweig , Lammer Heide",52.26702,10.448098
+64,160356,"Braunschweig , Zum Wiesengrund",52.290092,10.492556
+65,383546,Braunschweig Julius-Elster-Str,52.245846,10.565877
+66,71745,Braunschweig Julius-Elster-Str,52.245502,10.56611
+67,368658,"Braunschweig, A.d.Gärtnerhöfen",52.24556,10.496248
+68,457201,"Braunschweig, A.d.Gärtnerhöfen",52.245502,10.496347
+69,198374,"Braunschweig, Ackerstraße",52.256245,10.548907
+70,215636,"Braunschweig, Ackerstraße",52.256462,10.548476
+71,279418,"Braunschweig, Ackerstraße",52.25642,10.548602
+72,96151,"Braunschweig, Ackerstraße",52.256245,10.548898
+73,175869,"Braunschweig, Adam-Opel-Straße",52.312523,10.500542
+74,205947,"Braunschweig, Adam-Opel-Straße",52.312763,10.499797
+75,183886,"Braunschweig, Alsterplatz",52.24909,10.47856
+76,287344,"Braunschweig, Alsterplatz",52.24915,10.47856
+77,14540,"Braunschweig, Alte Dorfstraße",52.291027,10.60065
+78,397340,"Braunschweig, Alte Dorfstraße",52.291077,10.600767
+79,410287,"Braunschweig, Alte Waage",52.26655,10.519703
+80,453017,"Braunschweig, Alte Waage",52.266533,10.520601
+81,196229,"Braunschweig, Alter Postweg",52.32671,10.51381
+82,78435,"Braunschweig, Alter Postweg",52.326206,10.513846
+83,110025,"Braunschweig, Altstadtmarkt",52.262936,10.517718
+84,30045,"Braunschweig, Altstadtmarkt",52.262974,10.517664
+85,362246,"Braunschweig, Am Berge",52.32081,10.525183
+86,99781,"Braunschweig, Am Berge",52.320892,10.524994
+87,152955,"Braunschweig, Am Bülten",52.28057,10.536798
+88,325545,"Braunschweig, Am Bülten",52.280422,10.536421
+89,143342,"Braunschweig, Am Dorfplatz",52.30394,10.443149
+90,294773,"Braunschweig, Am Dorfplatz",52.303707,10.442493
+91,339438,"Braunschweig, Am Grasplatz",52.305435,10.466092
+92,56054,"Braunschweig, Am Grasplatz",52.30539,10.466271
+93,6604,"Braunschweig, Am Grasplatz",52.30507,10.465822
+94,26365,"Braunschweig, Am Hafen",52.31005,10.486376
+95,376843,"Braunschweig, Am Hafen",52.309963,10.486439
+96,28709,"Braunschweig, Am Jödebrunnen",52.25379,10.496176
+97,364307,"Braunschweig, Am Jödebrunnen",52.254032,10.496176
+98,387362,"Braunschweig, Am Jödebrunnen",52.253944,10.496248
+99,440009,"Braunschweig, Am Jödebrunnen",52.254032,10.495835
+100,94574,"Braunschweig, Am Jödebrunnen",52.253937,10.496176
+101,213036,"Braunschweig, Am Kanal",52.33248,10.510289
+102,219010,"Braunschweig, Am Kanal",52.33321,10.510208
+103,229035,"Braunschweig, Am Kanal",52.33256,10.510199
+104,295664,"Braunschweig, Am Kanal",52.33325,10.510037
+105,320483,"Braunschweig, Am Klei",52.33993,10.575363
+106,455140,"Braunschweig, Am Klei",52.339886,10.575498
+107,124944,"Braunschweig, Am Klosterkamp",52.245415,10.507711
+108,395266,"Braunschweig, Am Klosterkamp",52.245472,10.507845
+109,100430,"Braunschweig, Am Magnitor",52.261066,10.532962
+110,171567,"Braunschweig, Am Magnitor",52.26117,10.53263
+111,303543,"Braunschweig, Am Magnitor",52.26124,10.532711
+112,421765,"Braunschweig, Am Magnitor",52.26125,10.532639
+113,197910,"Braunschweig, Am Markt",52.299988,10.600363
+114,443968,"Braunschweig, Am Markt",52.299927,10.600453
+115,38094,"Braunschweig, Am Mühlengraben",52.28496,10.500982
+116,393300,"Braunschweig, Am Mühlengraben",52.28486,10.501063
+117,352740,"Braunschweig, Am Oberstiege",52.329895,10.564835
+118,94245,"Braunschweig, Am Oberstiege",52.329857,10.564107
+119,218908,"Braunschweig, Am Platz",52.321533,10.534373
+120,343949,"Braunschweig, Am Platz",52.32147,10.53422
+121,136477,"Braunschweig, Am Queckenberg",52.246056,10.489133
+122,150714,"Braunschweig, Am Queckenberg",52.24597,10.489035
+123,231155,"Braunschweig, Am Queckenberg",52.24596,10.488738
+124,256674,"Braunschweig, Am Queckenberg",52.245937,10.488954
+125,128741,"Braunschweig, Am Remenhof",52.28584,10.58952
+126,186806,"Braunschweig, Am Remenhof",52.285915,10.589098
+127,1189,"Braunschweig, Am Steinring",52.324856,10.554675
+128,261324,"Braunschweig, Am Steinring",52.32493,10.554333
+129,338759,"Braunschweig, Am Wassertor (Volkswagen-Halle)",52.25844,10.520179
+130,116801,"Braunschweig, Am Wendentor",52.26961,10.523539
+131,399158,"Braunschweig, Am Wendentor",52.269703,10.523584
+132,175367,"Braunschweig, Amalienplatz/Weißes Ross",52.272842,10.506875
+133,221716,"Braunschweig, Amalienplatz/Weißes Ross",52.272484,10.506417
+134,405421,"Braunschweig, Amalienplatz/Weißes Ross",52.27247,10.507369
+135,409821,"Braunschweig, Amalienplatz/Weißes Ross",52.272182,10.506983
+136,242407,"Braunschweig, An der Horst",52.260464,10.485639
+137,252391,"Braunschweig, An der Horst",52.260277,10.485747
+138,16513,"Braunschweig, An der Lahwiese",52.332073,10.507019
+139,296581,"Braunschweig, An der Lahwiese",52.33196,10.506965
+140,451349,"Braunschweig, An der Rothenburg",52.23752,10.488334
+141,58356,"Braunschweig, An der Rothenburg",52.2372,10.488065
+142,93706,"Braunschweig, An der Rothenburg",52.237495,10.488244
+143,25055,"Braunschweig, Angerburgstraße",52.311928,10.59924
+144,96885,"Braunschweig, Angerburgstraße",52.311844,10.599141
+145,146286,"Braunschweig, Anklamstraße (Heidbergpark)",52.228836,10.540607
+146,439023,"Braunschweig, Anklamstraße (Heidbergpark)",52.228367,10.54085
+147,161393,"Braunschweig, Aschenkamp",52.328518,10.513074
+148,284064,"Braunschweig, Aschenkamp",52.32855,10.512993
+149,247101,"Braunschweig, Aussigstraße",52.279446,10.496257
+150,265583,"Braunschweig, Aussigstraße",52.279526,10.496563
+151,39266,"Braunschweig, Backhausweg",52.267334,10.443059
+152,52613,"Braunschweig, Backhausweg",52.267284,10.44305
+153,244379,"Braunschweig, Bastholzsiedlung",52.309155,10.542619
+154,321257,"Braunschweig, Bastholzsiedlung",52.309128,10.542889
+155,143739,"Braunschweig, Bebelhof",52.244217,10.535478
+156,188928,"Braunschweig, Bebelhof",52.244267,10.535567
+157,175942,"Braunschweig, Beberbachaue",52.34335,10.580663
+158,303336,"Braunschweig, Beberbachaue",52.34353,10.581256
+159,193118,"Braunschweig, Beethovenstraße",52.277416,10.544928
+160,53971,"Braunschweig, Beethovenstraße",52.277733,10.546545
+161,384115,"Braunschweig, Bei dem Gerichte",52.27803,10.504719
+162,700,"Braunschweig, Bei dem Gerichte",52.278057,10.50436
+163,148561,"Braunschweig, Benzstraße",52.311535,10.502743
+164,47798,"Braunschweig, Benzstraße",52.31161,10.502833
+165,182397,"Braunschweig, Berggarten",52.316032,10.611978
+166,217587,"Braunschweig, Berggarten",52.31686,10.612373
+167,203027,"Braunschweig, Berliner Platz",52.251373,10.536259
+168,384814,"Braunschweig, Berliner Platz",52.25063,10.536008
+169,132798,"Braunschweig, Bertha-von-Suttner-Straße",52.221313,10.519766
+170,377046,"Braunschweig, Bertha-von-Suttner-Straße",52.221115,10.519667
+171,47786,"Braunschweig, Betriebshof Tram",52.2508,10.557711
+172,105018,"Braunschweig, Bhf. Gliesmarode",52.27721,10.550479
+173,192366,"Braunschweig, Bhf. Gliesmarode",52.277077,10.548871
+174,220255,"Braunschweig, Bhf. Gliesmarode",52.277233,10.550884
+175,344706,"Braunschweig, Bhf. Gliesmarode",52.277447,10.549734
+176,62704,"Braunschweig, Bhf. Gliesmarode",52.277653,10.549806
+177,139909,"Braunschweig, Biberweg",52.28304,10.503048
+178,287132,"Braunschweig, Biberweg",52.28294,10.503345
+179,225498,"Braunschweig, Bindestraße",52.27429,10.540248
+180,270237,"Braunschweig, Bindestraße",52.274338,10.540131
+181,150940,"Braunschweig, Bockshornweg",52.288357,10.49491
+182,153680,"Braunschweig, Bockshornweg",52.287872,10.495062
+183,328575,"Braunschweig, Boeselagerstraße",52.30729,10.547991
+184,431051,"Braunschweig, Boeselagerstraße",52.307354,10.548099
+185,242093,"Braunschweig, Boltenberg",52.24748,10.580591
+186,351983,"Braunschweig, Boltenberg",52.247505,10.580896
+187,250293,"Braunschweig, Botan. Garten",52.2703,10.533582
+188,417912,"Braunschweig, Botan. Garten",52.270252,10.534031
+189,406955,"Braunschweig, Brandenburgstraße",52.32405,10.513397
+190,70293,"Braunschweig, Brandenburgstraße",52.324196,10.513235
+191,178936,"Braunschweig, Braunschweiger Verkehrs-GmbH",52.25236,10.557325
+192,319908,"Braunschweig, Braunschweiger Verkehrs-GmbH",52.252583,10.557082
+193,443382,"Braunschweig, Braunschweiger Verkehrs-GmbH",52.252472,10.557235
+194,5596,"Braunschweig, Braunschweiger Verkehrs-GmbH",52.25236,10.557325
+195,242987,"Braunschweig, Braunstraße",52.21129,10.499608
+196,42889,"Braunschweig, Braunstraße",52.210964,10.499213
+197,122121,"Braunschweig, Breitenhop",52.327984,10.559876
+198,403711,"Braunschweig, Breitenhop",52.32781,10.560136
+199,141433,"Braunschweig, Brockenblick",52.229836,10.480806
+200,83028,"Braunschweig, Brockenblick",52.22966,10.480698
+201,328659,"Braunschweig, Buchfinkweg",52.229084,10.478012
+202,95376,"Braunschweig, Buchfinkweg",52.229153,10.478012
+203,220305,"Braunschweig, Buchhorstblick",52.278152,10.606939
+204,281255,"Braunschweig, Buchhorstblick",52.278164,10.606561
+205,169410,"Braunschweig, Bundesallee",52.286358,10.451171
+206,238476,"Braunschweig, Bundesallee",52.285927,10.451045
+207,408895,"Braunschweig, Bundesallee",52.285973,10.450569
+208,119281,"Braunschweig, Burgundenplatz",52.28743,10.532046
+209,287667,"Braunschweig, Burgundenplatz",52.28743,10.531956
+210,297866,"Braunschweig, Burgundenplatz",52.287373,10.532271
+211,326542,"Braunschweig, Burgundenplatz",52.287357,10.532405
+212,421368,"Braunschweig, Bus-Depot",52.24839,10.562454
+213,219207,"Braunschweig, Butterberg",52.29652,10.535406
+214,228111,"Braunschweig, Butterberg",52.296383,10.535433
+215,51886,"Braunschweig, Bültenweg",52.27555,10.533501
+216,118857,"Braunschweig, Bürgerpark",52.250557,10.529531
+217,227194,"Braunschweig, Bürgerpark",52.25027,10.529207
+218,294952,"Braunschweig, Bürgerpark",52.250553,10.529387
+219,364748,"Braunschweig, Bürgerpark",52.251026,10.530977
+220,204089,"Braunschweig, Campestraße",52.256935,10.533187
+221,20686,"Braunschweig, Campestraße",52.257053,10.533025
+222,210912,"Braunschweig, Campestraße",52.256405,10.534022
+223,439765,"Braunschweig, Campestraße",52.257294,10.533052
+224,113307,"Braunschweig, Carl-Giesecke-Straße",52.31947,10.470538
+225,170938,"Braunschweig, Carl-Giesecke-Straße",52.319893,10.470997
+226,6006,"Braunschweig, Carl-Giesecke-Straße",52.319492,10.470404
+227,224151,"Braunschweig, Carl-Miele-Straße",52.314552,10.510747
+228,380306,"Braunschweig, Carl-Miele-Straße",52.314037,10.510235
+229,439942,"Braunschweig, Carl-Miele-Straße",52.313858,10.510621
+230,194608,"Braunschweig, Christian-Pommer-Straße",52.31997,10.480608
+231,212115,"Braunschweig, Christian-Pommer-Straße",52.31887,10.480069
+232,314717,"Braunschweig, Christian-Pommer-Straße",52.319893,10.48086
+233,68552,"Braunschweig, Christian-Pommer-Straße",52.318897,10.479944
+234,232574,"Braunschweig, Christian-Pommer-Straße Mitte",52.321518,10.467646
+235,68732,"Braunschweig, Christian-Pommer-Straße Mitte",52.321484,10.46708
+236,134645,"Braunschweig, Christian-Pommer-Straße Nord",52.325233,10.465373
+237,219931,"Braunschweig, Christian-Pommer-Straße Nord",52.32531,10.465427
+238,119453,"Braunschweig, Cyriaksring",52.255013,10.505402
+239,157504,"Braunschweig, Cyriaksring",52.25557,10.506031
+240,161045,"Braunschweig, Cyriaksring",52.255302,10.50683
+241,18140,"Braunschweig, Cyriaksring",52.255302,10.507297
+242,293199,"Braunschweig, Cyriaksring",52.255,10.50595
+243,82369,"Braunschweig, Cyriaksring",52.254723,10.506714
+244,247316,"Braunschweig, Daimlerstraße",52.309277,10.508483
+245,41749,"Braunschweig, Daimlerstraße",52.309475,10.507675
+246,191584,"Braunschweig, Dammstraße",52.31482,10.607657
+247,219155,"Braunschweig, Dammstraße",52.314583,10.607882
+248,163780,"Braunschweig, Dammstraße Ost",52.314423,10.611026
+249,223861,"Braunschweig, Dammstraße Ost",52.314598,10.611188
+250,180672,"Braunschweig, Dammwiese",52.317905,10.527734
+251,319178,"Braunschweig, Dammwiese",52.317966,10.527195
+252,246898,"Braunschweig, Danziger Straße",52.3143,10.601342
+253,312026,"Braunschweig, Danziger Straße",52.31421,10.601441
+254,339895,"Braunschweig, Dedekindstraße",52.24311,10.565993
+255,371975,"Braunschweig, Dedekindstraße",52.242546,10.566227
+256,303774,"Braunschweig, Dibbesdorf",52.299038,10.600767
+257,4322,"Braunschweig, Dibbesdorf",52.29919,10.601216
+258,439706,"Braunschweig, Dierckestraße",52.299286,10.55242
+259,21561,"Braunschweig, Dieselstraße",52.213795,10.498108
+260,402054,"Braunschweig, Dieselstraße",52.213795,10.498108
+261,122323,"Braunschweig, Donauknoten",52.24892,10.48722
+262,248646,"Braunschweig, Donauknoten",52.248974,10.487211
+263,289785,"Braunschweig, Donauknoten",52.24896,10.4866
+264,69979,"Braunschweig, Donauknoten",52.248913,10.486627
+265,81491,"Braunschweig, Donauknoten",52.249012,10.486582
+266,176368,"Braunschweig, Donnerbleek",52.232628,10.471616
+267,194600,"Braunschweig, Donnerbleek",52.232635,10.471527
+268,151980,"Braunschweig, Dorflage",52.242172,10.588352
+269,189881,"Braunschweig, Dorflage",52.24193,10.58793
+270,157205,"Braunschweig, Dreisch",52.30744,10.498198
+271,232298,"Braunschweig, Dreisch",52.306957,10.499572
+272,50237,"Braunschweig, Dresdenstraße",52.23409,10.543302
+273,75107,"Braunschweig, Dresdenstraße",52.234203,10.543176
+274,210776,"Braunschweig, Drosselweg",52.308464,10.600857
+275,302218,"Braunschweig, Drosselweg",52.308636,10.59986
+276,147919,"Braunschweig, Duisburger Straße",52.28984,10.553659
+277,221456,"Braunschweig, Duisburger Straße",52.289967,10.553525
+278,122683,"Braunschweig, Efeuweg",52.282066,10.561214
+279,450903,"Braunschweig, Efeuweg",52.28171,10.56072
+280,187304,"Braunschweig, Eichhahnweg",52.292686,10.560532
+281,218642,"Braunschweig, Eichhahnweg",52.29242,10.560675
+282,176494,"Braunschweig, Emsstraße",52.250675,10.490688
+283,241482,"Braunschweig, Emsstraße",52.25074,10.490445
+284,280063,"Braunschweig, Emsstraße",52.251053,10.491074
+285,236208,"Braunschweig, Engelhardstraße",52.209457,10.496931
+286,393881,"Braunschweig, Engelhardstraße",52.209446,10.497111
+287,149899,"Braunschweig, Erfurtplatz",52.230507,10.53687
+288,2872,"Braunschweig, Erfurtplatz",52.229614,10.535918
+289,57492,"Braunschweig, Erfurtplatz",52.23007,10.536385
+290,74661,"Braunschweig, Erfurtplatz",52.2296,10.53643
+291,341392,"Braunschweig, Essener Straße",52.290176,10.561178
+292,377534,"Braunschweig, Essener Straße",52.2903,10.561241
+293,211604,"Braunschweig, Europaplatz",52.25755,10.516191
+294,338232,"Braunschweig, Europaplatz",52.2573,10.515688
+295,343665,"Braunschweig, Europaplatz",52.25682,10.515014
+296,420757,"Braunschweig, Europaplatz",52.25765,10.515203
+297,383854,"Braunschweig, Eutschenwinkel",52.20598,10.509337
+298,446665,"Braunschweig, Eutschenwinkel",52.20578,10.509346
+299,101073,"Braunschweig, Fabrikstraße",52.24832,10.511591
+300,254924,"Braunschweig, Fabrikstraße",52.24828,10.511268
+301,27980,"Braunschweig, Falkenhorst",52.30984,10.592485
+302,91690,"Braunschweig, Falkenhorst",52.309788,10.59253
+303,108010,"Braunschweig, Feuerbrunnen",52.325817,10.559085
+304,231643,"Braunschweig, Feuerbrunnen",52.325935,10.559058
+305,28947,"Braunschweig, Flughafen",52.3162,10.559238
+306,356426,"Braunschweig, Flughafen",52.3162,10.559238
+307,158209,"Braunschweig, Flugunfalluntersuchungsstelle",52.31377,10.552779
+308,232501,"Braunschweig, Flugunfalluntersuchungsstelle",52.31377,10.552788
+309,120806,"Braunschweig, Fr.-Wilhelm-Platz",52.2593,10.520682
+310,19122,"Braunschweig, Fr.-Wilhelm-Platz",52.259937,10.519425
+311,242488,"Braunschweig, Fr.-Wilhelm-Platz",52.26023,10.519559
+312,350608,"Braunschweig, Fr.-Wilhelm-Platz",52.259483,10.520224
+313,434392,"Braunschweig, Fr.-Wilhelm-Platz",52.260365,10.519326
+314,7597,"Braunschweig, Fr.-Wilhelm-Platz",52.259495,10.520134
+315,18273,"Braunschweig, Fr.-Wilhelm-Str.",52.261303,10.521374
+316,290126,"Braunschweig, Fr.-Wilhelm-Str.",52.261387,10.521123
+317,331911,"Braunschweig, Fr.-Wilhelm-Str.",52.261326,10.521123
+318,137167,"Braunschweig, Freyastraße",52.284615,10.538217
+319,458839,"Braunschweig, Freyastraße",52.284004,10.537858
+320,289242,"Braunschweig, Frickenmühle",52.340664,10.499572
+321,85703,"Braunschweig, Frickenmühle",52.340675,10.499527
+322,85395,"Braunschweig, Friedr.-Seele-Str",52.241356,10.509148
+323,180242,"Braunschweig, Geibelstraße",52.31942,10.509588
+324,195832,"Braunschweig, Geibelstraße",52.31907,10.509471
+325,114293,"Braunschweig, Georg-Althaus-Straße",52.243076,10.449545
+326,42129,"Braunschweig, Georg-Althaus-Straße",52.243076,10.449545
+327,180328,"Braunschweig, Georg-Eckert-Straße",52.26251,10.526575
+328,192823,"Braunschweig, Georg-Eckert-Straße",52.262424,10.527375
+329,179866,"Braunschweig, Gesundheitsamt (Wasserwelt)",52.287296,10.519892
+330,305009,"Braunschweig, Gesundheitsamt (Wasserwelt)",52.287174,10.519901
+331,403860,"Braunschweig, Gesundheitsamt (Wasserwelt)",52.2863,10.51902
+332,436548,"Braunschweig, Gesundheitsamt (Wasserwelt)",52.286648,10.519065
+333,346219,"Braunschweig, Gew.Geb.Bastholz",52.309975,10.547039
+334,435396,"Braunschweig, Gew.Geb.Bastholz",52.30995,10.547254
+335,391238,"Braunschweig, Gewerbehof Hansestraße",52.322433,10.476539
+336,49716,"Braunschweig, Gewerbehof Hansestraße",52.32261,10.476431
+337,215832,"Braunschweig, Gliesmaroder Straße",52.273106,10.53766
+338,242933,"Braunschweig, Gliesmaroder Straße",52.27259,10.53696
+339,258437,"Braunschweig, Gliesmaroder Straße",52.27335,10.536942
+340,74795,"Braunschweig, Gliesmaroder Straße",52.272602,10.536556
+341,104542,"Braunschweig, Glogaustraße",52.227222,10.519434
+342,259772,"Braunschweig, Glogaustraße",52.227608,10.520242
+343,52708,"Braunschweig, Glogaustraße",52.22842,10.519667
+344,176703,"Braunschweig, Gosekamp",52.30573,10.451386
+345,318203,"Braunschweig, Gosekamp",52.305756,10.451261
+346,135799,"Braunschweig, Goslarsche Straße",52.26143,10.508923
+347,46504,"Braunschweig, Goslarsche Straße",52.26134,10.508843
+348,452945,"Braunschweig, Grenzweg",52.28479,10.583906
+349,69846,"Braunschweig, Grenzweg",52.285378,10.583582
+350,304115,"Braunschweig, Grotrian-Steinweg-Str.",52.31602,10.498799
+351,9057,"Braunschweig, Grotrian-Steinweg-Str.",52.31607,10.498611
+352,120336,"Braunschweig, Großes Weghaus",52.21025,10.523719
+353,240422,"Braunschweig, Großes Weghaus",52.2103,10.523692
+354,272814,"Braunschweig, Großes Weghaus",52.2097,10.523835
+355,64595,"Braunschweig, Großes Weghaus",52.20978,10.523817
+356,252210,"Braunschweig, Grüner Jäger",52.26214,10.586466
+357,409903,"Braunschweig, Grüner Jäger",52.26237,10.586223
+358,237912,"Braunschweig, Görlitzstraße",52.231113,10.522075
+359,431619,"Braunschweig, Görlitzstraße",52.231003,10.522156
+360,190992,"Braunschweig, Güldenstraße",52.261852,10.514529
+361,220917,"Braunschweig, Güldenstraße",52.262585,10.513801
+362,273129,"Braunschweig, Güldenstraße",52.263966,10.514358
+363,305529,"Braunschweig, Güldenstraße",52.262096,10.514188
+364,384438,"Braunschweig, Güldenstraße",52.263546,10.514475
+365,397838,"Braunschweig, Güldenstraße",52.262474,10.513271
+366,42057,"Braunschweig, H.-Büssing-Ring",52.251785,10.535226
+367,73139,"Braunschweig, H.-Büssing-Ring",52.25184,10.535064
+368,140081,"Braunschweig, H.-Elisabeth-Str.",52.261562,10.553938
+369,202249,"Braunschweig, H.-Elisabeth-Str.",52.261417,10.553884
+370,333984,"Braunschweig, H.-Elisabeth-Str.",52.261677,10.553902
+371,194445,"Braunschweig, HEH-Kliniken",52.23314,10.529261
+372,295426,"Braunschweig, HEH-Kliniken",52.23312,10.529162
+373,177440,"Braunschweig, Hackelkamp",52.337784,10.487732
+374,362743,"Braunschweig, Hackelkamp",52.33768,10.488091
+375,310727,"Braunschweig, Hagenmarkt",52.266487,10.525488
+376,363502,"Braunschweig, Hagenmarkt",52.266945,10.525246
+377,325958,"Braunschweig, Hahnenkleestraße",52.21965,10.502267
+378,85646,"Braunschweig, Hahnenkleestraße",52.21965,10.502105
+379,260592,"Braunschweig, Hallestraße",52.233837,10.536376
+380,81840,"Braunschweig, Hallestraße",52.23383,10.536681
+381,218789,"Braunschweig, Hamburger Straße",52.27424,10.522129
+382,258850,"Braunschweig, Hamburger Straße",52.27511,10.521787
+383,261309,"Braunschweig, Hamburger Straße",52.275215,10.520664
+384,370519,"Braunschweig, Hamburger Straße",52.274895,10.521697
+385,380669,"Braunschweig, Hamburger Straße",52.27487,10.521715
+386,236006,"Braunschweig, Hans-Geitel-Str.",52.24798,10.566047
+387,320352,"Braunschweig, Hans-Geitel-Str.",52.24793,10.565823
+388,150776,"Braunschweig, Hans-Sommer-Str.",52.275787,10.537472
+389,217718,"Braunschweig, Hans-Sommer-Str.",52.274715,10.5359
+390,188435,"Braunschweig, Hansestraße Mitte",52.3141,10.496715
+391,193162,"Braunschweig, Hansestraße Mitte",52.31391,10.496563
+392,345829,"Braunschweig, Hansestraße Mitte",52.314262,10.497407
+393,400384,"Braunschweig, Hansestraße Mitte",52.313164,10.496922
+394,110246,"Braunschweig, Hansestraße Ost",52.307514,10.513217
+395,360957,"Braunschweig, Hansestraße Ost",52.307716,10.51337
+396,369321,"Braunschweig, Hansestraße Ost",52.307163,10.513658
+397,89988,"Braunschweig, Hansestraße Ost",52.307007,10.513505
+398,216032,"Braunschweig, Hansestraße West",52.32177,10.474338
+399,97533,"Braunschweig, Hansestraße West",52.321884,10.474114
+400,367507,"Braunschweig, Hartgerstraße",52.263546,10.547479
+401,94693,"Braunschweig, Hartgerstraße",52.263695,10.547246
+402,161888,"Braunschweig, Harzblick",52.23181,10.484992
+403,79737,"Braunschweig, Harzblick",52.23181,10.484992
+404,200699,"Braunschweig, Hauptbahnhof",52.25232,10.537966
+405,202410,"Braunschweig, Hauptbahnhof",52.25268,10.538343
+406,330606,"Braunschweig, Hauptbahnhof",52.25232,10.537966
+407,340338,"Braunschweig, Hauptbahnhof",52.252663,10.538613
+408,453264,"Braunschweig, Hauptbahnhof",52.25268,10.538343
+409,76038,"Braunschweig, Hauptbahnhof",52.252533,10.538622
+410,159288,"Braunschweig, Hauptbahnhof Süd",52.252098,10.543248
+411,336657,"Braunschweig, Hauptbahnhof Süd",52.252293,10.543616
+412,38701,"Braunschweig, Hauptbahnhof/Viewegs Garten",52.253967,10.538819
+413,406759,"Braunschweig, Hauptbahnhof/Viewegs Garten",52.253952,10.5389
+414,173897,"Braunschweig, Hauptfriedhof",52.255085,10.556318
+415,214464,"Braunschweig, Hauptfriedhof",52.255177,10.55622
+416,276406,"Braunschweig, Hauptfriedhof",52.255173,10.556283
+417,291921,"Braunschweig, Hauptfriedhof",52.255096,10.55631
+418,30528,"Braunschweig, Hauptstraße",52.324207,10.514125
+419,490,"Braunschweig, Hauptstraße",52.324055,10.51399
+420,169336,"Braunschweig, Havelstraße",52.245384,10.481507
+421,92253,"Braunschweig, Havelstraße",52.246037,10.481713
+422,249216,"Braunschweig, Hebbelstraße",52.247704,10.504944
+423,416143,"Braunschweig, Hebbelstraße",52.247643,10.505097
+424,401741,"Braunschweig, Heesfeld",52.30597,10.482199
+425,432870,"Braunschweig, Heesfeld",52.306114,10.48219
+426,416272,"Braunschweig, Hegerdorfstraße",52.311684,10.60489
+427,48349,"Braunschweig, Hegerdorfstraße",52.311848,10.604998
+428,215120,"Braunschweig, Heideblick",52.3258,10.50878
+429,248471,"Braunschweig, Heideblick",52.325897,10.508744
+430,3699,"Braunschweig, Heideblick",52.326206,10.508672
+431,37920,"Braunschweig, Heideblick",52.326256,10.508555
+432,407445,"Braunschweig, Heideblick",52.326256,10.508474
+433,141347,"Braunschweig, Heidehöhe",52.23589,10.562822
+434,324319,"Braunschweig, Heidehöhe",52.23623,10.563038
+435,309707,"Braunschweig, Heideweg",52.240124,10.450704
+436,400600,"Braunschweig, Heideweg",52.240124,10.450865
+437,120933,"Braunschweig, Helenenstraße",52.25255,10.510253
+438,396094,"Braunschweig, Helenenstraße",52.2524,10.510001
+439,233086,"Braunschweig, Helmstedter Str.",52.255135,10.562319
+440,344820,"Braunschweig, Helmstedter Str.",52.255165,10.561547
+441,374385,"Braunschweig, Helmstedter Str.",52.254917,10.561089
+442,379308,"Braunschweig, Helmstedter Str.",52.25505,10.562364
+443,390920,"Braunschweig, Helmstedter Str.",52.255062,10.561529
+444,51851,"Braunschweig, Helmstedter Str.",52.25476,10.561924
+445,306959,"Braunschweig, Hermannstraße",52.273243,10.502959
+446,405785,"Braunschweig, Hermannstraße",52.27327,10.503003
+447,119054,"Braunschweig, Hildesheimer Str.",52.27227,10.494137
+448,219838,"Braunschweig, Hildesheimer Str.",52.27218,10.493742
+449,146553,"Braunschweig, Hinter den Hainen",52.225212,10.568329
+450,63670,"Braunschweig, Hinter den Hainen",52.225254,10.568446
+451,46744,"Braunschweig, Hintern Brüdern",52.26549,10.517161
+452,303545,"Braunschweig, Hochstraße",52.2623,10.538873
+453,42552,"Braunschweig, Hochstraße",52.2624,10.538262
+454,256418,"Braunschweig, Hohkamp",52.2672,10.437364
+455,37677,"Braunschweig, Hohkamp",52.267246,10.437166
+456,232228,"Braunschweig, Holzhof (Volkswagen-Halle)",52.25657,10.517781
+457,91348,"Braunschweig, Holzhof (Volkswagen-Halle)",52.257736,10.517996
+458,142156,"Braunschweig, Holzmindener Str.",52.24151,10.536574
+459,254658,"Braunschweig, Holzmindener Str.",52.24144,10.536376
+460,385303,"Braunschweig, Hopfenanger",52.23787,10.454432
+461,428454,"Braunschweig, Hopfenanger",52.237858,10.454647
+462,116501,"Braunschweig, Hordorfer Straße",52.2806,10.614934
+463,429848,"Braunschweig, Hordorfer Straße",52.2806,10.614763
+464,218150,"Braunschweig, Hänflingstraße",52.340023,10.479171
+465,73466,"Braunschweig, Hänflingstraße",52.340614,10.478479
+466,105051,"Braunschweig, Hühnerkamp",52.278065,10.610846
+467,399457,"Braunschweig, Hühnerkamp",52.278107,10.61028
+468,137482,"Braunschweig, Hüttenweg",52.27167,10.439591
+469,363551,"Braunschweig, Hüttenweg",52.2719,10.439645
+470,294328,"Braunschweig, Im Großen Moore",52.32167,10.538478
+471,358972,"Braunschweig, Im Großen Moore",52.321835,10.538029
+472,327499,"Braunschweig, Im Seumel",52.23461,10.507333
+473,404483,"Braunschweig, Im Seumel",52.2346,10.507127
+474,214078,"Braunschweig, In den Waashainen",52.310596,10.538011
+475,251764,"Braunschweig, In den Waashainen",52.310715,10.537607
+476,325242,"Braunschweig, Inselwall",52.26761,10.515068
+477,446757,"Braunschweig, Inselwall",52.267883,10.515095
+478,133041,"Braunschweig, Isarstraße",52.242588,10.479755
+479,159445,"Braunschweig, Isarstraße",52.242596,10.479872
+480,273040,"Braunschweig, J.-F.-Kennedy-Pl.",52.25867,10.52733
+481,33713,"Braunschweig, J.-F.-Kennedy-Pl.",52.258324,10.526476
+482,415646,"Braunschweig, J.-F.-Kennedy-Pl.",52.258385,10.527644
+483,428838,"Braunschweig, J.-F.-Kennedy-Pl.",52.258675,10.527698
+484,7241,"Braunschweig, J.-F.-Kennedy-Pl.",52.25809,10.528677
+485,94464,"Braunschweig, J.-F.-Kennedy-Pl.",52.258846,10.527438
+486,129262,"Braunschweig, J.-Fraunhofer-Str",52.28152,10.565293
+487,377647,"Braunschweig, J.-Fraunhofer-Str",52.282272,10.565167
+488,305198,"Braunschweig, J.-Konegen-Str.",52.27728,10.49862
+489,365733,"Braunschweig, J.-Konegen-Str.",52.277294,10.498692
+490,242952,"Braunschweig, J.-Kühn-Institut",52.275608,10.569757
+491,413330,"Braunschweig, J.-Kühn-Institut",52.275352,10.569766
+492,367731,"Braunschweig, J.-Selenka-Pl.",52.25819,10.503902
+493,74183,"Braunschweig, J.-Selenka-Pl.",52.2575,10.503992
+494,387157,"Braunschweig, Jahnplatz",52.24626,10.528794
+495,72212,"Braunschweig, Jahnplatz",52.24629,10.528866
+496,13794,"Braunschweig, Jasperallee",52.26832,10.539915
+497,33205,"Braunschweig, Jasperallee",52.267635,10.540086
+498,379556,"Braunschweig, Jasperallee",52.26798,10.540382
+499,93838,"Braunschweig, Jasperallee",52.26787,10.539277
+500,207103,"Braunschweig, Jägersruh",52.22671,10.553758
+501,442301,"Braunschweig, Jägersruh",52.226727,10.553749
+502,286872,"Braunschweig, Jägersruh Siedlung",52.22455,10.552438
+503,407580,"Braunschweig, Jägersruh Siedlung",52.224606,10.552294
+504,109740,"Braunschweig, Jüdelstraße",52.23129,10.559085
+505,25220,"Braunschweig, Jüdelstraße",52.231396,10.559076
+506,180467,"Braunschweig, Kanalbrücke",52.316372,10.488621
+507,301618,"Braunschweig, Kanalbrücke",52.316273,10.488523
+508,218180,"Braunschweig, Karl-Sprengel-Straße",52.30251,10.436375
+509,271238,"Braunschweig, Karl-Sprengel-Straße",52.302532,10.436429
+510,146620,"Braunschweig, Kasernenstraße",52.26686,10.536313
+511,148058,"Braunschweig, Kasernenstraße",52.266926,10.53581
+512,152006,"Braunschweig, Kastanienallee",52.26259,10.543005
+513,205319,"Braunschweig, Kastanienallee",52.262802,10.541712
+514,324519,"Braunschweig, Kastanienallee",52.262985,10.543509
+515,5083,"Braunschweig, Kastanienallee",52.26352,10.542907
+516,327468,"Braunschweig, Kath.Friedhof",52.25328,10.569515
+517,42386,"Braunschweig, Kath.Friedhof",52.25328,10.569515
+518,17850,"Braunschweig, Klinikum Celler Str.",52.275196,10.505285
+519,442713,"Braunschweig, Klinikum Celler Str.",52.274975,10.505204
+520,429143,"Braunschweig, Klinikum Salzdahlumer Str.",52.23776,10.542386
+521,442751,"Braunschweig, Klinikum Salzdahlumer Str.",52.23742,10.543392
+522,112976,"Braunschweig, Korfesstraße",52.259804,10.548818
+523,177184,"Braunschweig, Korfesstraße",52.25982,10.548503
+524,229671,"Braunschweig, Kremsweg",52.23923,10.47865
+525,391143,"Braunschweig, Kremsweg",52.239212,10.478084
+526,105775,"Braunschweig, Kreuzteich",52.270176,10.571841
+527,174787,"Braunschweig, Kreuzteich",52.27041,10.57071
+528,218459,"Braunschweig, Kreuzteich",52.27032,10.570566
+529,387187,"Braunschweig, Kreuzteich",52.27025,10.571698
+530,102012,"Braunschweig, Kreuztor",52.248215,10.584067
+531,239244,"Braunschweig, Kreuztor",52.2484,10.584103
+532,250555,"Braunschweig, Kruckweg",52.234055,10.487624
+533,442475,"Braunschweig, Kruckweg",52.233803,10.486915
+534,53079,"Braunschweig, Kruckweg",52.23375,10.487202
+535,1609,"Braunschweig, Krugplatz",52.33731,10.508816
+536,194594,"Braunschweig, Krugplatz",52.33728,10.509301
+537,25702,"Braunschweig, Kröppelberg",52.258118,10.46637
+538,424394,"Braunschweig, Kröppelberg",52.258038,10.466406
+539,26554,"Braunschweig, Kälberwiese",52.26716,10.500147
+540,426530,"Braunschweig, Kälberwiese",52.266636,10.500075
+541,251757,"Braunschweig, Lammer Busch",52.26741,10.45665
+542,430527,"Braunschweig, Lammer Busch",52.267147,10.456165
+543,103583,"Braunschweig, Lehmweg",52.24023,10.584741
+544,260107,"Braunschweig, Lehmweg",52.24026,10.584885
+545,244939,"Braunschweig, Leisewitzstraße",52.254555,10.528336
+546,305741,"Braunschweig, Leisewitzstraße",52.254524,10.528246
+547,2285,"Braunschweig, Lessinggymnasium",52.326756,10.508007
+548,399580,"Braunschweig, Lichtenberger Str",52.249073,10.481076
+549,55558,"Braunschweig, Lichtenberger Str",52.24845,10.480366
+550,245152,"Braunschweig, Liegnitzstraße",52.22874,10.525785
+551,336407,"Braunschweig, Liegnitzstraße",52.2284,10.525551
+552,361496,"Braunschweig, Ligusterweg",52.29391,10.511699
+553,120004,"Braunschweig, Lincolnsiedlung",52.311146,10.515023
+554,284020,"Braunschweig, Lincolnsiedlung",52.3112,10.515086
+555,442725,"Braunschweig, Lincolnsiedlung",52.311264,10.515337
+556,59194,"Braunschweig, Lincolnsiedlung",52.311363,10.515032
+557,67594,"Braunschweig, Lincolnsiedlung",52.31135,10.515221
+558,41686,"Braunschweig, Ludwigstraße",52.27866,10.519784
+559,79178,"Braunschweig, Ludwigstraße",52.27863,10.519667
+560,110787,"Braunschweig, Luftstraße",52.27197,10.486277
+561,138605,"Braunschweig, Luftstraße",52.27203,10.486268
+562,120797,"Braunschweig, Luisenstraße",52.25611,10.510801
+563,177713,"Braunschweig, Luisenstraße",52.256134,10.511106
+564,396670,"Braunschweig, Luisenstraße",52.256184,10.510019
+565,83567,"Braunschweig, Luisenstraße",52.25607,10.511645
+566,406447,"Braunschweig, Lägenkamp",52.307564,10.575075
+567,78940,"Braunschweig, Lägenkamp",52.307503,10.575156
+568,330790,"Braunschweig, Lönsweg",52.318672,10.536547
+569,452179,"Braunschweig, Lönsweg",52.319366,10.536879
+570,128330,"Braunschweig, Madamenweg",52.26062,10.502168
+571,339988,"Braunschweig, Madamenweg",52.260292,10.502932
+572,372415,"Braunschweig, Madamenweg",52.26067,10.5033
+573,451224,"Braunschweig, Madamenweg",52.260235,10.503147
+574,2008,"Braunschweig, Maienstraße",52.26424,10.501099
+575,363376,"Braunschweig, Maienstraße",52.263645,10.501117
+576,405123,"Braunschweig, Maienstraße",52.26394,10.501306
+577,232368,"Braunschweig, Marienberger Str.",52.23859,10.508618
+578,414410,"Braunschweig, Marienberger Str.",52.238956,10.508573
+579,115658,"Braunschweig, Marienstift",52.258335,10.545027
+580,165746,"Braunschweig, Marienstift",52.257713,10.545664
+581,344498,"Braunschweig, Marienstift",52.257713,10.545664
+582,391492,"Braunschweig, Marienstift",52.258335,10.545027
+583,160681,"Braunschweig, Maschplatz",52.27395,10.514089
+584,438069,"Braunschweig, Maschplatz",52.27381,10.513056
+585,203625,"Braunschweig, Maschstraße",52.26878,10.510747
+586,3372,"Braunschweig, Maschstraße",52.26872,10.511151
+587,116802,"Braunschweig, Maybachstraße",52.298836,10.511088
+588,266519,"Braunschweig, Maybachstraße",52.29853,10.511412
+589,212600,"Braunschweig, Messeweg",52.27904,10.567134
+590,27830,"Braunschweig, Messeweg",52.279366,10.567215
+591,306725,"Braunschweig, Messeweg",52.278824,10.568221
+592,363409,"Braunschweig, Messeweg",52.27915,10.568006
+593,368696,"Braunschweig, Messeweg",52.278873,10.567673
+594,455960,"Braunschweig, Messeweg",52.278755,10.567188
+595,244144,"Braunschweig, Michelfelderplatz",52.29913,10.542188
+596,97605,"Braunschweig, Michelfelderplatz",52.300198,10.541981
+597,269910,"Braunschweig, Militschstraße",52.226364,10.526899
+598,322022,"Braunschweig, Militschstraße",52.226315,10.527051
+599,384332,"Braunschweig, Militschstraße",52.226215,10.526405
+600,391649,"Braunschweig, Militschstraße",52.22637,10.526773
+601,174680,"Braunschweig, Milo-von-Bismarck-Platz",52.317745,10.515706
+602,252934,"Braunschweig, Milo-von-Bismarck-Platz",52.318417,10.515607
+603,330988,"Braunschweig, Milo-von-Bismarck-Platz",52.318096,10.516254
+604,131660,"Braunschweig, Mittelweg",52.27635,10.525839
+605,303469,"Braunschweig, Mittelweg",52.276085,10.525848
+606,122617,"Braunschweig, Moorhüttenweg",52.2839,10.583304
+607,256801,"Braunschweig, Moorhüttenweg",52.28395,10.583439
+608,289388,"Braunschweig, Moorhüttenweg",52.284187,10.583699
+609,385655,"Braunschweig, Moorhüttenweg",52.283325,10.582495
+610,76135,"Braunschweig, Moorhüttenweg",52.284042,10.584139
+611,920,"Braunschweig, Moorhüttenweg",52.28368,10.582549
+612,231101,"Braunschweig, Mozartstraße",52.27607,10.54509
+613,403552,"Braunschweig, Mozartstraße",52.275997,10.545143
+614,347951,"Braunschweig, Museumstraße",52.263554,10.531273
+615,385906,"Braunschweig, Museumstraße",52.263496,10.5313
+616,44817,"Braunschweig, Museumstraße",52.26351,10.531875
+617,450542,"Braunschweig, Museumstraße",52.263718,10.531444
+618,113318,"Braunschweig, Möwenweg",52.30898,10.588047
+619,250984,"Braunschweig, Möwenweg",52.309067,10.588128
+620,295261,"Braunschweig, Mühlenpfordtstr.",52.273827,10.524195
+621,351893,"Braunschweig, Mühlenpfordtstr.",52.273914,10.524258
+622,270227,"Braunschweig, Münzstraße",52.262234,10.523602
+623,124435,"Braunschweig, Neckarstraße",52.241814,10.492637
+624,288630,"Braunschweig, Neckarstraße",52.241867,10.49252
+625,221814,"Braunschweig, Neddernkamp",52.309364,10.605205
+626,233773,"Braunschweig, Neddernkamp",52.3086,10.605142
+627,95329,"Braunschweig, Neddernkamp",52.309025,10.604513
+628,423088,"Braunschweig, Nehrkornweg",52.269478,10.577007
+629,443260,"Braunschweig, Nehrkornweg",52.269592,10.576989
+630,11879,"Braunschweig, Neudammstraße",52.269764,10.444451
+631,423171,"Braunschweig, Neudammstraße",52.26969,10.444541
+632,12959,"Braunschweig, Neuer Kamp",52.233078,10.554666
+633,343449,"Braunschweig, Neuer Kamp",52.23315,10.554603
+634,248327,"Braunschweig, Neuruppinstraße",52.303856,10.463648
+635,421385,"Braunschweig, Neuruppinstraße",52.303856,10.46354
+636,106007,"Braunschweig, Nibelungenplatz",52.28787,10.527878
+637,170730,"Braunschweig, Nibelungenplatz",52.288143,10.526872
+638,213980,"Braunschweig, Nibelungenplatz",52.287746,10.526333
+639,321265,"Braunschweig, Nibelungenplatz",52.287758,10.526611
+640,96434,"Braunschweig, Nibelungenplatz",52.28789,10.527545
+641,112473,"Braunschweig, Nietzschestraße",52.23079,10.565751
+642,372973,"Braunschweig, Nietzschestraße",52.23069,10.565787
+643,312383,"Braunschweig, Noetherstraße",52.245735,10.574752
+644,416732,"Braunschweig, Noetherstraße",52.24546,10.574959
+645,209876,"Braunschweig, Nordanger",52.28224,10.531426
+646,351281,"Braunschweig, Nordanger",52.28223,10.531435
+647,253671,"Braunschweig, Nordhoffstraße",52.304142,10.516191
+648,271483,"Braunschweig, Nordhoffstraße",52.30418,10.515804
+649,324242,"Braunschweig, Nordhoffstraße",52.30418,10.515679
+650,55506,"Braunschweig, Nordhoffstraße",52.304104,10.515894
+651,260042,"Braunschweig, Nordstraße",52.277245,10.534795
+652,80834,"Braunschweig, Nordstraße",52.277695,10.535055
+653,107726,"Braunschweig, Nußberg",52.267174,10.559813
+654,184264,"Braunschweig, Nußberg",52.2671,10.559013
+655,164729,"Braunschweig, Nußbergstraße",52.266968,10.54933
+656,198470,"Braunschweig, Nußbergstraße",52.26655,10.549653
+657,397765,"Braunschweig, Oberkamp",52.3121,10.605411
+658,309668,"Braunschweig, Ohefeld",52.296383,10.525111
+659,371793,"Braunschweig, Ohefeld",52.29634,10.525003
+660,257001,"Braunschweig, Ohlenhofstraße",52.237164,10.449796
+661,270286,"Braunschweig, Ohlenhofstraße",52.237083,10.449688
+662,216845,"Braunschweig, Ottenroder Straße",52.286457,10.542341
+663,220804,"Braunschweig, Ottenroder Straße",52.286427,10.542664
+664,307301,"Braunschweig, Ottenroder Straße",52.286594,10.541757
+665,444519,"Braunschweig, Ottenroder Straße",52.28639,10.542251
+666,10724,"Braunschweig, Otto-von-Guericke-St",52.246048,10.51213
+667,291867,"Braunschweig, Otto-von-Guericke-St",52.24596,10.513208
+668,248198,"Braunschweig, Ottweilerstraße",52.273525,10.486034
+669,273612,"Braunschweig, Ottweilerstraße",52.273476,10.486825
+670,372766,"Braunschweig, P.T.B.",52.295353,10.457567
+671,374815,"Braunschweig, P.T.B.",52.29516,10.457324
+672,21176,"Braunschweig, Packhof",52.26541,10.521949
+673,164363,"Braunschweig, Pappelallee",52.318886,10.533699
+674,80475,"Braunschweig, Pappelallee",52.318954,10.533843
+675,319488,"Braunschweig, Paracelsusstraße",52.284534,10.457207
+676,322104,"Braunschweig, Paracelsusstraße",52.284534,10.457207
+677,361173,"Braunschweig, Paracelsusstraße",52.2844,10.457216
+678,187665,"Braunschweig, Paxmannstraße",52.24277,10.583043
+679,35723,"Braunschweig, Paxmannstraße",52.242577,10.583331
+680,46429,"Braunschweig, Peenestraße",52.253323,10.480546
+681,290464,"Braunschweig, Peterskamp",52.30484,10.569667
+682,458643,"Braunschweig, Peterskamp",52.305023,10.569883
+683,182652,"Braunschweig, Petristraße",52.268867,10.505573
+684,82883,"Braunschweig, Petristraße",52.269104,10.505528
+685,202816,"Braunschweig, Petzvalstraße",52.28167,10.576396
+686,218808,"Braunschweig, Petzvalstraße",52.281857,10.577249
+687,269769,"Braunschweig, Petzvalstraße",52.28177,10.576279
+688,424072,"Braunschweig, Petzvalstraße",52.281708,10.577276
+689,343591,"Braunschweig, Pfingststraße",52.26062,10.497578
+690,458314,"Braunschweig, Pfingststraße",52.260555,10.49791
+691,143623,"Braunschweig, Pfleidererstraße",52.2829,10.461205
+692,448123,"Braunschweig, Pfleidererstraße",52.28304,10.461043
+693,209290,"Braunschweig, Pillmannstraße",52.31711,10.474455
+694,265423,"Braunschweig, Pillmannstraße",52.316906,10.474464
+695,155353,"Braunschweig, Pockelsstraße",52.275574,10.527977
+696,333118,"Braunschweig, Pockelsstraße",52.275448,10.529001
+697,240744,"Braunschweig, Pr.-Albrecht-Park",52.263992,10.55189
+698,363346,"Braunschweig, Pr.-Albrecht-Park",52.264294,10.552177
+699,50515,"Braunschweig, Pr.-Albrecht-Park",52.26375,10.551989
+700,91485,"Braunschweig, Pr.-Albrecht-Park",52.264404,10.552159
+701,233393,"Braunschweig, Querumer Straße",52.278576,10.557316
+702,241187,"Braunschweig, Querumer Straße",52.27864,10.557325
+703,3632,"Braunschweig, Querumer Straße",52.278614,10.557325
+704,403413,"Braunschweig, Querumer Straße",52.278614,10.556929
+705,220410,"Braunschweig, R.-Strauß-Weg",52.27678,10.541649
+706,319461,"Braunschweig, R.-Strauß-Weg",52.277054,10.542062
+707,252370,"Braunschweig, Raabestraße",52.21663,10.499752
+708,448444,"Braunschweig, Raabestraße",52.21652,10.499922
+709,318176,"Braunschweig, Radeklint",52.266907,10.515427
+710,363948,"Braunschweig, Radeklint",52.26738,10.51443
+711,431019,"Braunschweig, Radeklint",52.267254,10.514304
+712,47822,"Braunschweig, Radeklint",52.267254,10.514304
+713,246507,"Braunschweig, Raffteichbad",52.257256,10.455833
+714,260652,"Braunschweig, Raffteichbad",52.257076,10.455977
+715,201285,"Braunschweig, Raffturm",52.260265,10.451925
+716,422179,"Braunschweig, Raffturm",52.26018,10.451162
+717,205893,"Braunschweig, Rathaus",52.264942,10.526414
+718,236521,"Braunschweig, Rathaus",52.265377,10.52706
+719,270449,"Braunschweig, Rathaus",52.26519,10.525524
+720,42402,"Braunschweig, Rathaus",52.265667,10.527743
+721,71273,"Braunschweig, Rathaus",52.263905,10.526306
+722,85969,"Braunschweig, Rathaus",52.26478,10.526351
+723,164595,"Braunschweig, Rautheimer Str.",52.24722,10.570422
+724,84537,"Braunschweig, Rautheimer Str.",52.24704,10.570485
+725,162087,"Braunschweig, Reitlingstraße",52.251812,10.576872
+726,67579,"Braunschweig, Reitlingstraße",52.252083,10.576108
+727,224906,"Braunschweig, Reuchlinstraße",52.25851,10.473961
+728,26471,"Braunschweig, Reuchlinstraße",52.258675,10.473817
+729,380651,"Braunschweig, Reuchlinstraße",52.258774,10.474275
+730,121949,"Braunschweig, Rheinring",52.248577,10.472488
+731,398600,"Braunschweig, Rheinring",52.24861,10.472452
+732,187203,"Braunschweig, Rhönweg",52.231483,10.50568
+733,342541,"Braunschweig, Rhönweg",52.23113,10.505761
+734,229919,"Braunschweig, Richmondweg",52.241215,10.527833
+735,2469,"Braunschweig, Richmondweg",52.24119,10.527545
+736,373333,"Braunschweig, Richmondweg",52.24067,10.527689
+737,61232,"Braunschweig, Richmondweg",52.24067,10.527779
+738,177447,"Braunschweig, Rodedamm",52.26964,10.438019
+739,414555,"Braunschweig, Rodedamm",52.269524,10.43907
+740,37501,"Braunschweig, Rodelandweg",52.30749,10.536861
+741,40997,"Braunschweig, Rodelandweg",52.307243,10.536699
+742,228740,"Braunschweig, Rudolfplatz",52.27034,10.501378
+743,256045,"Braunschweig, Rudolfplatz",52.2706,10.501396
+744,353758,"Braunschweig, Rudolfplatz",52.270096,10.501252
+745,367942,"Braunschweig, Rudolfplatz",52.269867,10.502204
+746,64418,"Braunschweig, Rudolfplatz",52.269665,10.500452
+747,90432,"Braunschweig, Rudolfplatz",52.269703,10.501297
+748,26138,"Braunschweig, Rühmer Weg",52.29225,10.526539
+749,370861,"Braunschweig, Rühmer Weg",52.292233,10.52645
+750,269894,"Braunschweig, Saalestraße",52.245117,10.471095
+751,442891,"Braunschweig, Saalestraße",52.244717,10.471059
+752,3081,"Braunschweig, Saarplatz",52.275333,10.479216
+753,329127,"Braunschweig, Saarplatz",52.274933,10.479755
+754,336586,"Braunschweig, Saarplatz",52.275574,10.479548
+755,417696,"Braunschweig, Saarplatz",52.274796,10.479818
+756,229245,"Braunschweig, Sachsendamm",52.228374,10.53289
+757,249448,"Braunschweig, Sachsendamm",52.229065,10.5313
+758,3032,"Braunschweig, Sachsendamm",52.228752,10.531399
+759,393073,"Braunschweig, Sachsendamm",52.228043,10.53077
+760,313698,"Braunschweig, Sackweg",52.281258,10.527357
+761,443790,"Braunschweig, Sackweg",52.28138,10.527536
+762,449864,"Braunschweig, Sally-Perel-Gesamtschule",52.287506,10.600048
+763,240797,"Braunschweig, Salzdahlumer Weg",52.204823,10.525515
+764,247632,"Braunschweig, Salzdahlumer Weg",52.205093,10.525875
+765,450329,"Braunschweig, Salzdahlumer Weg",52.20479,10.525713
+766,46987,"Braunschweig, Salzdahlumer Weg",52.20479,10.525632
+767,225893,"Braunschweig, Sandanger",52.305206,10.502545
+768,429275,"Braunschweig, Sandanger",52.30533,10.502366
+769,151697,"Braunschweig, Sandgrubenweg",52.238335,10.566622
+770,408590,"Braunschweig, Sandgrubenweg",52.238342,10.566398
+771,432841,"Braunschweig, Schapenstraße",52.280323,10.605241
+772,43808,"Braunschweig, Schapenstraße",52.280483,10.605322
+773,230192,"Braunschweig, Schefflerstraße",52.239964,10.539044
+774,403131,"Braunschweig, Schefflerstraße",52.240257,10.53819
+775,101876,"Braunschweig, Schlehenhang",52.29372,10.506821
+776,233461,"Braunschweig, Schlesierweg",52.303146,10.471562
+777,371626,"Braunschweig, Schlesierweg",52.30322,10.471634
+778,149542,"Braunschweig, Schloss",52.262253,10.525668
+779,217265,"Braunschweig, Schloss",52.2617,10.525003
+780,263828,"Braunschweig, Schloss",52.262264,10.525982
+781,330037,"Braunschweig, Schloss",52.261612,10.52592
+782,419217,"Braunschweig, Schloss",52.261665,10.524913
+783,426434,"Braunschweig, Schloss",52.26199,10.525749
+784,149008,"Braunschweig, Schmalbachstraße",52.297363,10.517368
+785,191387,"Braunschweig, Schmalbachstraße",52.297367,10.517457
+786,289619,"Braunschweig, Schmalbachstraße",52.297848,10.517709
+787,307556,"Braunschweig, Schmalbachstraße",52.29788,10.517116
+788,413550,"Braunschweig, Schmalbachstraße",52.29756,10.516406
+789,13620,"Braunschweig, Schreinerweg",52.234543,10.564817
+790,145768,"Braunschweig, Schreinerweg",52.234386,10.564592
+791,291677,"Braunschweig, Schulgasse",52.22399,10.563595
+792,451672,"Braunschweig, Schulgasse",52.22364,10.564188
+793,21588,"Braunschweig, Schulzentrum Stöckheim",52.217525,10.51655
+794,246102,"Braunschweig, Schulzentrum Stöckheim",52.2171,10.515176
+795,115021,"Braunschweig, Schuntersiedlung",52.294113,10.540311
+796,375961,"Braunschweig, Schuntersiedlung",52.293995,10.540068
+797,101582,"Braunschweig, Schwarzer Kamp",52.2594,10.481776
+798,380428,"Braunschweig, Schwarzer Kamp",52.259457,10.48174
+799,135132,"Braunschweig, Schöppenst. Turm",52.250607,10.592404
+800,248516,"Braunschweig, Schöppenst. Turm",52.25069,10.59244
+801,439125,"Braunschweig, Schützenplatz",52.283665,10.518967
+802,443043,"Braunschweig, Schützenplatz",52.283005,10.518697
+803,159299,"Braunschweig, Seikenkamp",52.288,10.601953
+804,61514,"Braunschweig, Seikenkamp",52.287796,10.602106
+805,141257,"Braunschweig, Senefelderstraße",52.214996,10.531004
+806,259204,"Braunschweig, Senefelderstraße",52.21485,10.531157
+807,213713,"Braunschweig, Siedlerstraße",52.215023,10.520548
+808,363657,"Braunschweig, Siedlerstraße",52.215225,10.520566
+809,180884,"Braunschweig, Siedlung",52.339733,10.507585
+810,392807,"Braunschweig, Siedlung",52.339737,10.507549
+811,125136,"Braunschweig, Siegfriedstraße",52.28637,10.538469
+812,222962,"Braunschweig, Siegfriedstraße",52.286644,10.538981
+813,265011,"Braunschweig, Siegfriedstraße",52.286686,10.539493
+814,338173,"Braunschweig, Siegfriedstraße",52.28717,10.538765
+815,405532,"Braunschweig, Siegfriedstraße",52.286755,10.539125
+816,296534,"Braunschweig, Siekgraben",52.218666,10.520054
+817,335235,"Braunschweig, Siekgraben",52.21859,10.519928
+818,449166,"Braunschweig, Siekgraben",52.21877,10.520062
+819,72196,"Braunschweig, Siekgraben",52.21884,10.520179
+820,52835,"Braunschweig, Sielkamp",52.29371,10.516254
+821,154005,"Braunschweig, Siemsstraße",52.32052,10.515167
+822,215567,"Braunschweig, Siemsstraße",52.32063,10.515113
+823,140568,"Braunschweig, Spechtweg",52.30472,10.548674
+824,311192,"Braunschweig, Spechtweg",52.304386,10.548234
+825,191689,"Braunschweig, St.-Wendel-Straße",52.279125,10.48325
+826,212126,"Braunschweig, St.-Wendel-Straße",52.279076,10.48325
+827,193873,"Braunschweig, Staatliche Untersuchungsämter",52.234066,10.546446
+828,31483,"Braunschweig, Staatliche Untersuchungsämter",52.234154,10.546464
+829,162558,"Braunschweig, Staatstheater",52.2657,10.530366
+830,392851,"Braunschweig, Staatstheater",52.265816,10.53033
+831,121661,"Braunschweig, Stadion (Schwarzer Berg)",52.290527,10.51876
+832,163998,"Braunschweig, Stadion (Schwarzer Berg)",52.291496,10.518733
+833,237757,"Braunschweig, Stadion (Schwarzer Berg)",52.291527,10.518931
+834,346341,"Braunschweig, Stadion (Schwarzer Berg)",52.291042,10.518589
+835,448741,"Braunschweig, Stadion (Schwarzer Berg)",52.290943,10.518769
+836,105199,"Braunschweig, Stadtpark",52.269527,10.546123
+837,277461,"Braunschweig, Stadtpark",52.26965,10.545952
+838,177608,"Braunschweig, Steinecke",52.30921,10.46142
+839,395038,"Braunschweig, Steinecke",52.30924,10.461537
+840,166387,"Braunschweig, Steinhof",52.31747,10.451314
+841,297502,"Braunschweig, Steinhof",52.317574,10.451332
+842,145747,"Braunschweig, Steinkamp",52.289104,10.596527
+843,365795,"Braunschweig, Steinkamp",52.28917,10.596392
+844,199723,"Braunschweig, Steinriedendamm",52.303017,10.540445
+845,372514,"Braunschweig, Steinriedendamm",52.303116,10.541559
+846,427624,"Braunschweig, Steinriedendamm",52.302624,10.540652
+847,337038,"Braunschweig, Steintor",52.262894,10.535217
+848,397066,"Braunschweig, Steintor",52.262783,10.53519
+849,248065,"Braunschweig, Stiddien",52.22589,10.45816
+850,428784,"Braunschweig, Stiddien",52.225807,10.458303
+851,183517,"Braunschweig, Stresemannstraße",52.268864,10.566272
+852,186120,"Braunschweig, Stresemannstraße",52.268826,10.566407
+853,153501,"Braunschweig, Strombeckstraße",52.258896,10.476512
+854,92800,"Braunschweig, Strombeckstraße",52.25896,10.476395
+855,100325,"Braunschweig, Stöckheimer Markt",52.213493,10.521859
+856,142037,"Braunschweig, Stöckheimer Markt",52.21292,10.522443
+857,353060,"Braunschweig, Stöckheimer Markt",52.213566,10.52176
+858,360933,"Braunschweig, Stöckheimer Markt",52.21297,10.522407
+859,299886,"Braunschweig, Stöckheimstraße",52.221916,10.564879
+860,277076,"Braunschweig, Südstraße",52.259724,10.51602
+861,78305,"Braunschweig, Südstraße",52.25997,10.515571
+862,367876,"Braunschweig, Taubenstraße",52.278755,10.526216
+863,397766,"Braunschweig, Taubenstraße",52.278873,10.526153
+864,333379,"Braunschweig, Theaterwall",52.26911,10.52927
+865,336133,"Braunschweig, Theaterwall",52.2692,10.529935
+866,3931,"Braunschweig, Theodor-Heuss-Straße",52.252,10.518652
+867,49015,"Braunschweig, Theodor-Heuss-Straße",52.252163,10.519182
+868,20248,"Braunschweig, Thiedebach",52.205578,10.495628
+869,48537,"Braunschweig, Thiedebach",52.205578,10.495646
+870,177306,"Braunschweig, Thiedebacher Weg",52.207516,10.503147
+871,365783,"Braunschweig, Thiedebacher Weg",52.207417,10.503138
+872,110210,"Braunschweig, Tiergarten",52.279125,10.442367
+873,378563,"Braunschweig, Tiergarten",52.279587,10.442232
+874,302360,"Braunschweig, Tiergarten Nord",52.28148,10.444954
+875,355297,"Braunschweig, Tiergarten Nord",52.281433,10.444784
+876,41355,"Braunschweig, Timmerlahstraße",52.23891,10.472991
+877,96381,"Braunschweig, Timmerlahstraße",52.239017,10.473287
+878,221770,"Braunschweig, Tostmannplatz",52.296482,10.541164
+879,376163,"Braunschweig, Tostmannplatz",52.295715,10.540481
+880,412285,"Braunschweig, Tostmannplatz",52.296513,10.540814
+881,169265,"Braunschweig, Trakehnenstraße",52.222355,10.523871
+882,450064,"Braunschweig, Trakehnenstraße",52.222282,10.523341
+883,350409,"Braunschweig, Trierstraße",52.278893,10.489125
+884,71106,"Braunschweig, Trierstraße",52.27895,10.489547
+885,125235,"Braunschweig, Triftstraße",52.25053,10.585927
+886,381525,"Braunschweig, Triftstraße",52.250805,10.585675
+887,376543,"Braunschweig, Troppaustraße",52.31417,10.597866
+888,407269,"Braunschweig, Troppaustraße",52.314034,10.597461
+889,16399,"Braunschweig, Tuckermannstraße",52.264507,10.505519
+890,228341,"Braunschweig, Tuckermannstraße",52.264572,10.505582
+891,121646,"Braunschweig, Turmstraße",52.234303,10.482216
+892,167867,"Braunschweig, Turmstraße",52.234203,10.481911
+893,405970,"Braunschweig, Turmstraße",52.234325,10.482028
+894,91987,"Braunschweig, Turmstraße",52.23415,10.482252
+895,253553,"Braunschweig, Unter den Linden",52.304882,10.487795
+896,92847,"Braunschweig, Unter den Linden",52.305134,10.488541
+897,454406,"Braunschweig, Varrentrappstr.",52.279724,10.505285
+898,88647,"Braunschweig, Varrentrappstr.",52.280556,10.504998
+899,230771,"Braunschweig, Vincent-van-Gogh-Ring",52.249134,10.571087
+900,232401,"Braunschweig, Vincent-van-Gogh-Ring",52.24899,10.571042
+901,271050,"Braunschweig, Waller Weg",52.30831,10.483609
+902,343785,"Braunschweig, Waller Weg",52.30849,10.483977
+903,345916,"Braunschweig, Wartheweg",52.30875,10.533169
+904,352412,"Braunschweig, Wartheweg",52.30898,10.532899
+905,133808,"Braunschweig, Weinbergstraße",52.2605,10.493634
+906,194228,"Braunschweig, Weinbergstraße",52.260567,10.493409
+907,338923,"Braunschweig, Weizenbleek",52.291237,10.511636
+908,264727,"Braunschweig, Welfenplatz",52.233955,10.558816
+909,354809,"Braunschweig, Welfenplatz",52.2339,10.559004
+910,199388,"Braunschweig, Wendener Weg",52.30765,10.49429
+911,289011,"Braunschweig, Wendener Weg",52.307503,10.492664
+912,269341,"Braunschweig, Weserstraße",52.2428,10.471068
+913,308018,"Braunschweig, Weserstraße",52.242943,10.470565
+914,145118,"Braunschweig, Westbahnhof",52.250313,10.505896
+915,337140,"Braunschweig, Westbahnhof",52.25041,10.506399
+916,151872,"Braunschweig, Westerbergstraße",52.22711,10.503408
+917,425283,"Braunschweig, Westerbergstraße",52.227,10.503542
+918,207144,"Braunschweig, Westfalenplatz",52.289963,10.556651
+919,282906,"Braunschweig, Westfalenplatz",52.29003,10.556579
+920,111824,"Braunschweig, Willy-Brandt-Platz",52.256603,10.539897
+921,167900,"Braunschweig, Willy-Brandt-Platz",52.25559,10.540131
+922,271628,"Braunschweig, Willy-Brandt-Platz",52.25656,10.540158
+923,437837,"Braunschweig, Willy-Brandt-Platz",52.25657,10.540068
+924,173255,"Braunschweig, Ziegelwiese",52.29053,10.593868
+925,241703,"Braunschweig, Ziegelwiese",52.29053,10.593769
+926,349256,"Braunschweig, Zivildienstschule",52.249332,10.542386
+927,434280,"Braunschweig, Zivildienstschule",52.248974,10.541712
+928,151304,"Braunschweig, Zollkamp",52.22465,10.503884
+929,192054,"Braunschweig, Zollkamp",52.22489,10.503767
+930,205443,"Braunschweig, Zum Zoll",52.296764,10.560999
+931,249597,"Braunschweig, Zum Zoll",52.29713,10.561637
+932,294428,"Braunschweig, Zum Zoll",52.29714,10.560406
+933,422752,"Braunschweig, Zur Wabe",52.23705,10.584768
+934,64030,"Braunschweig, Zur Wabe",52.237034,10.585047
+935,369943,Brunswick central station,52.251194,10.536665
+936,203235,"Dibbesdorf, Schönebergstraße",52.30274,10.604172
+937,23183,"Dibbesdorf, Schönebergstraße",52.3023,10.603345
+938,290168,"Dibbesdorf, Wiesengrund",52.305435,10.607154
+939,387212,"Dibbesdorf, Wiesengrund",52.305435,10.607289
+940,100188,"Geitelde, Emma-Kraume-Straße",52.2124,10.465454
+941,331291,"Geitelde, Emma-Kraume-Straße",52.212486,10.465319
+942,168863,"Geitelde, Geiteldestraße",52.209755,10.469919
+943,179446,"Geitelde, Geiteldestraße",52.20999,10.469775
+944,357068,"Geitelde, Geiteldestraße",52.20974,10.469883
+945,367530,"Geitelde, Geiteldestraße",52.21013,10.471113
+946,370337,"Geitelde, Pfarrgasse",52.21008,10.466191
+947,383840,"Geitelde, Pfarrgasse",52.21004,10.46611
+948,291523,"Klein Gleidingen, Am Raffkamp",52.258522,10.445395
+949,7948,"Klein Gleidingen, Am Raffkamp",52.25859,10.445089
+950,187887,"Wenden, Bechtsbüttel Bahnhof",52.33016,10.522326
+951,324392,"Wenden, Bechtsbüttel Bahnhof",52.330166,10.522308
+952,183527,"Wenden, Wendebrück",52.33061,10.518832
+953,54402,"Wenden, Wendebrück",52.33061,10.518814

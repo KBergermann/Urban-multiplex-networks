@@ -1,0 +1,806 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,173743,"Blumenau, Blumenau",49.561592,8.478866
+1,342376,"Blumenau, Brockenweg",49.557137,8.479845
+2,191613,"Blumenau, Eugen-Neter-Schule",49.56597,8.493158
+3,295816,"Feudenheim, A.-Damaschke-Ring",49.49342,8.520997
+4,390439,"Feudenheim, A.-Damaschke-Ring",49.49363,8.520988
+5,408301,"Feudenheim, A.-Damaschke-Ring",49.49324,8.521194
+6,409572,"Feudenheim, A.-Damaschke-Ring",49.493202,8.520952
+7,339666,"Feudenheim, Am Aubuckel",49.488625,8.518158
+8,433087,"Feudenheim, Am Aubuckel",49.488514,8.519326
+9,423210,"Feudenheim, Andreas-Hofer-Str.",49.490486,8.525488
+10,172022,"Feudenheim, Blücherstraße",49.487335,8.527563
+11,45796,"Feudenheim, Blücherstraße",49.48728,8.527644
+12,138001,"Feudenheim, Endstelle",49.484108,8.537984
+13,173051,"Feudenheim, Endstelle",49.484108,8.538262
+14,251258,"Feudenheim, Endstelle",49.48411,8.537705
+15,277403,"Feudenheim, Endstelle",49.483967,8.53766
+16,163257,"Feudenheim, Feldstraße",49.488472,8.543778
+17,218063,"Feudenheim, Hölderlinstraße",49.496403,8.530204
+18,346623,"Feudenheim, Hölderlinstraße",49.496315,8.529791
+19,370971,"Feudenheim, Hölderlinstraße",49.496525,8.530097
+20,438743,"Feudenheim, Hölderlinstraße",49.49638,8.529638
+21,15405,"Feudenheim, Kirche",49.486588,8.531381
+22,238663,"Feudenheim, Kirche",49.48673,8.530671
+23,380581,"Feudenheim, Kirche",49.4863,8.530465
+24,415990,"Feudenheim, Kirche",49.48651,8.530743
+25,188095,"Feudenheim, Kreuz",49.485928,8.53696
+26,170530,"Feudenheim, Liebfrauenstraße",49.48843,8.523449
+27,362911,"Feudenheim, Liebfrauenstraße",49.48839,8.52353
+28,369993,"Feudenheim, Liebfrauenstraße",49.488342,8.523629
+29,111324,"Feudenheim, Neckarplatt",49.48885,8.511897
+30,181933,"Feudenheim, Neckarplatt",49.489044,8.512525
+31,401527,"Feudenheim, Neckarplatt",49.488937,8.512723
+32,405840,"Feudenheim, Neckarplatt",49.488934,8.512184
+33,142485,"Feudenheim, Neckarstraße",49.484253,8.53201
+34,178111,"Feudenheim, Neckarstraße",49.484234,8.532818
+35,429340,"Feudenheim, Neckarstraße",49.484283,8.533402
+36,186657,"Feudenheim, Talstraße",49.495327,8.524671
+37,431521,"Feudenheim, Talstraße",49.495205,8.524796
+38,93254,"Feudenheim, Talstraße",49.49537,8.525138
+39,190005,"Feudenheim, Ziethenstraße",49.490124,8.518904
+40,198839,"Feudenheim, Ziethenstraße",49.490368,8.518912
+41,234465,"Feudenheim, Ziethenstraße",49.490356,8.519029
+42,276367,"Feudenheim, Ziethenstraße",49.490467,8.519281
+43,86705,"Friedrichsfeld (MA), Elsa-Brändström-Straße",49.450195,8.565445
+44,283949,"Friedrichsfeld, Alteichwalds.",49.432255,8.57203
+45,421333,"Friedrichsfeld, Friedr. Kreuz",49.446766,8.57653
+46,208015,"Friedrichsfeld, Gebweilerstr.",49.437847,8.571482
+47,266863,"Friedrichsfeld, Holzweg",49.451725,8.561295
+48,434600,"Friedrichsfeld, L-Gräber-Halle",49.442497,8.5692
+49,274049,"Friedrichsfeld, Langlachweg",49.446285,8.571922
+50,119433,"Friedrichsfeld, Mülhauser Str",49.438164,8.578102
+51,214322,"Friedrichsfeld, Neudorfstraße",49.440247,8.575938
+52,257996,"Friedrichsfeld, Pfalzb. Straße",49.443123,8.573305
+53,198422,"Friedrichsfeld, Saarburger Ring",49.446346,8.575839
+54,140365,"Friedrichsfeld, Steinzeugstr.",49.44694,8.567457
+55,267276,"Friedrichsfeld, Vogesenstraße",49.442566,8.579046
+56,305389,"Friedrichsfeld, Vogesenstraße",49.442474,8.579019
+57,53285,"Fries. Insel, BASF Fries.Insel",49.521706,8.44658
+58,314466,"Fries. Insel, Dürstelschlag",49.510757,8.452356
+59,382793,"Fries. Insel, Heizkraftwerk No",49.524067,8.454171
+60,183907,"Fries. Insel, Hombuschstraße",49.51618,8.460711
+61,350336,"Fries. Insel, Kammerschleuse",49.508087,8.448215
+62,326581,"Fries. Insel, Max-Born-Straße",49.52104,8.455096
+63,403258,"Fries. Insel, Max-Born-Straße",49.52129,8.453812
+64,45332,"Fries. Insel, Max-Planck-Str.",49.51915,8.45692
+65,200231,"Fries. Insel, Muskatormühle",49.531605,8.449607
+66,18746,"Fries. Insel, Niederweid",49.51316,8.456471
+67,104334,"Fries. Insel, Otto-Hahn-Straße",49.525967,8.454782
+68,89312,"Fries. Insel, Rheinrottstraße",49.511772,8.45453
+69,321074,"Fries. Insel, W.-Heisenberg-S.",49.528725,8.450856
+70,113517,"Fries. Insel, Weidenwörth",49.518494,8.46328
+71,157722,"Fries. Insel, Weidenwörth",49.517784,8.462965
+72,81976,"Fries. Insel, Weidenwörth",49.518772,8.461968
+73,177169,"Fries. Insel, Öllager",49.52985,8.447101
+74,5576,"Friesen. Insel, Einsteinstraße",49.519337,8.459785
+75,235845,"Friesenh. Insel, Gh. Dehus",49.53528,8.436681
+76,3907,"Friesenh. Insel, Ölhafenstraße",49.523083,8.450012
+77,274245,"Friesenheimer Insel, Bastion",49.517727,8.466002
+78,252955,"Friesenheimer Insel, Ölhafen",49.52518,8.449131
+79,26418,"Käfertal, ABB Tor 8",49.508945,8.496958
+80,428667,"Käfertal, ABB Tor 8",49.50942,8.496473
+81,272479,"Käfertal, Am Kuhbuckel",49.525906,8.511052
+82,248832,"Käfertal, Bahnhof (RNV)",49.509663,8.518131
+83,415862,"Käfertal, Bahnhof (RNV)",49.50973,8.51823
+84,427472,"Käfertal, Bahnhof (RNV)",49.509556,8.517879
+85,389305,"Käfertal, Bensheimer Straße",49.513557,8.5268
+86,78815,"Käfertal, Bensheimer Straße",49.513943,8.527761
+87,140941,"Käfertal, Boveristraße",49.50549,8.502626
+88,173419,"Käfertal, Boveristraße",49.5046,8.502078
+89,446226,"Käfertal, Boveristraße",49.505196,8.50197
+90,158688,"Käfertal, Carl-Benz-Bad",49.526398,8.505294
+91,164564,"Käfertal, Carl-Benz-Bad",49.526714,8.505788
+92,11391,"Käfertal, Feuerwache Nord",49.51712,8.509417
+93,400723,"Käfertal, Feuerwache Nord",49.51746,8.508519
+94,457591,"Käfertal, Franklin Mitte",49.518948,8.531237
+95,243153,"Käfertal, Friedhof",49.515396,8.519047
+96,256924,"Käfertal, Friedhof",49.51608,8.51973
+97,290358,"Käfertal, Funaristraße",49.515488,8.525452
+98,164978,"Käfertal, H.-Gutzmann-Schule",49.523296,8.501368
+99,294001,"Käfertal, H.-Gutzmann-Schule",49.522907,8.500865
+100,58320,"Käfertal, H.-Gutzmann-Schule",49.522987,8.500865
+101,393173,"Käfertal, Habichtplatz",49.51302,8.508294
+102,162161,"Käfertal, Hessische Straße",49.515247,8.496239
+103,55400,"Käfertal, Hessische Straße",49.515736,8.496356
+104,27827,"Käfertal, Ida-Dehmel-Ring",49.50467,8.531085
+105,17935,"Käfertal, Im Rott",49.507935,8.527806
+106,412655,"Käfertal, Im Rott",49.5077,8.527941
+107,75457,"Käfertal, Im Rott",49.507637,8.52892
+108,67414,"Käfertal, Joseph-Bauer-Haus",49.50563,8.514044
+109,10676,"Käfertal, Jugendverkehrsschule",49.51179,8.493409
+110,208419,"Käfertal, Jugendverkehrsschule",49.51157,8.49376
+111,445735,"Käfertal, Kometenweg",49.523247,8.511528
+112,329566,"Käfertal, Kulturhaus",49.510227,8.516173
+113,34113,"Käfertal, Kulturhaus",49.51016,8.516236
+114,133362,"Käfertal, Käfertaler Wald",49.529453,8.509462
+115,406994,"Käfertal, Käfertaler Wald",49.529682,8.509363
+116,288111,"Käfertal, Käfertalschule",49.514294,8.515283
+117,99790,"Käfertal, Ladenburger Straße",49.51207,8.520817
+118,325745,"Käfertal, Lincolnallee",49.52056,8.532603
+119,79438,"Käfertal, Malzstraße",49.513454,8.517978
+120,21369,"Käfertal, Mannheimer Straße",49.507977,8.513199
+121,227391,"Käfertal, Mannheimer Straße",49.50838,8.512912
+122,7140,"Käfertal, Mannheimer Straße",49.50793,8.512499
+123,385176,"Käfertal, Neues Leben",49.51929,8.502716
+124,123867,"Käfertal, Pl. der Freundschaft",49.518555,8.539134
+125,174311,"Käfertal, Pl. der Freundschaft",49.518364,8.538208
+126,240898,"Käfertal, Pl. der Freundschaft",49.51845,8.53784
+127,182944,"Käfertal, Rathaus",49.513115,8.517287
+128,452879,"Käfertal, Rathaus",49.512077,8.517888
+129,178241,"Käfertal, Sonnenschein",49.521828,8.505132
+130,33843,"Käfertal, Sonnenschein",49.521973,8.505312
+131,170769,"Käfertal, Speckweg",49.52059,8.499069
+132,220124,"Käfertal, Speckweg",49.521053,8.499311
+133,259822,"Käfertal, Speckweg",49.520657,8.497946
+134,285953,"Käfertal, Speckweg",49.520584,8.498197
+135,4770,"Käfertal, St. Hildegard",49.503887,8.508483
+136,194447,"Käfertal, Süd",49.506817,8.505195
+137,299878,"Käfertal, Süd",49.50724,8.505761
+138,313089,"Käfertal, Süd",49.5072,8.506327
+139,348110,"Käfertal, Süd",49.507298,8.506049
+140,259892,"Käfertal, Therese-Blase-Straße",49.503075,8.526674
+141,301011,"Käfertal, Völklinger Straße",49.50556,8.517143
+142,191696,"Käfertal, Wachenheimer Straße",49.49814,8.508223
+143,366845,"Käfertal, Wachenheimer Straße",49.498573,8.507809
+144,41409,"Käfertal, Washingtonstraße",49.517452,8.52812
+145,394637,"Käfertal, Wasserwerkstraße",49.51438,8.521473
+146,153003,"Käfertal, Zäher Wille",49.52154,8.494649
+147,173032,"Käfertal, Zäher Wille",49.521717,8.494011
+148,163194,"Käfertal, Äußere Wingertstraße",49.51617,8.511879
+149,371046,"Käfertal, Äußere Wingertstraße",49.516403,8.511474
+150,12695,"Lindenhof, Diesterwegschule",49.471428,8.46999
+151,134173,"Lindenhof, Diesterwegschule",49.47119,8.469963
+152,233953,"Lindenhof, Diesterwegschule",49.471504,8.4699
+153,199272,"Lindenhof, Glücksteinallee",49.47349,8.476063
+154,231805,"Lindenhof, Glücksteinallee",49.47432,8.474509
+155,33702,"Lindenhof, Hochschule West",49.471493,8.480366
+156,30503,"Lindenhof, MA Hauptbahnhof Süd",49.477207,8.469325
+157,405931,"Lindenhof, MA Hauptbahnhof Süd",49.477417,8.467798
+158,439847,"Lindenhof, MA Hauptbahnhof Süd",49.476963,8.467915
+159,44579,"Lindenhof, MA Hauptbahnhof Süd",49.477478,8.468364
+160,237914,"Lindenhof, Meeräckerplatz",49.4692,8.471517
+161,424325,"Lindenhof, Meeräckerplatz",49.469463,8.471661
+162,63116,"Lindenhof, Meeräckerplatz",49.46924,8.471526
+163,131870,"Lindenhof, Pfalzplatz",49.464664,8.469838
+164,163126,"Lindenhof, Windeckstraße",49.474277,8.468804
+165,232628,"Lindenhof, Windeckstraße",49.47455,8.468742
+166,384812,"Lindenhof, Windeckstraße",49.473934,8.468912
+167,226991,Luzenberg,49.516464,8.475793
+168,242673,Luzenberg,49.51631,8.475066
+169,442808,Luzenberg,49.51629,8.476045
+170,449967,Luzenberg,49.51669,8.475479
+171,66114,Luzenberg,49.51608,8.475182
+172,66646,Luzenberg,49.516544,8.476449
+173,137685,"Luzenberg, Diffenébrücke",49.5161,8.472047
+174,166754,"Luzenberg, Diffenébrücke",49.516193,8.472344
+175,139929,"Luzenberg, Hafenbahnstraße",49.5135,8.483627
+176,34106,"Luzenberg, Hafenbahnstraße",49.51371,8.482333
+177,318508,"Luzenberg, Mercedes-Benz T.1",49.516388,8.47971
+178,144147,"Luzenberg, Ost",49.51564,8.475874
+179,395773,"Luzenberg, Ost",49.516853,8.47785
+180,134964,"Luzenberg, Stolberger Straße",49.51786,8.474069
+181,191297,"Luzenberg, Stolberger Straße",49.518497,8.473521
+182,400745,"Luzenberg, Stolberger Straße",49.51821,8.473745
+183,128679,"MA-Friedrichsfeld, Südbahnhof",49.439068,8.573135
+184,322293,"MA-Friedrichsfeld, Südbahnhof",49.438747,8.572946
+185,362464,"MA-Friedrichsfeld, Südbahnhof",49.438686,8.572542
+186,152671,MA-Handelshafen,49.49182,8.453982
+187,219303,MA-Handelshafen,49.49185,8.453668
+188,345568,"MA-Käfertal, DB-Bahnhof",49.50269,8.503659
+189,211255,"MA-Rheinau, Bahnhof",49.42479,8.534552
+190,336653,"MA-Rheinau, Bahnhof",49.423744,8.534777
+191,364551,"MA-Rheinau, Bahnhof",49.42446,8.534876
+192,384084,"MA-Rheinau, Bahnhof",49.424625,8.534831
+193,3994,"MA-Rheinau, Bahnhof",49.42446,8.535172
+194,255924,Mannheim central bus station,49.47808,8.472819
+195,162022,"Mannheim, Abendakademie",49.491886,8.469972
+196,260072,"Mannheim, Abendakademie",49.491863,8.470017
+197,118923,"Mannheim, Akademiestraße",49.492447,8.456785
+198,116417,"Mannheim, Alte Feuerwache",49.495712,8.473305
+199,161733,"Mannheim, Alte Feuerwache",49.495823,8.472191
+200,210765,"Mannheim, Alte Feuerwache",49.495712,8.473305
+201,212114,"Mannheim, Alte Feuerwache",49.496,8.473575
+202,360829,"Mannheim, Alte Feuerwache",49.495975,8.473664
+203,227406,"Mannheim, Am Friedrichsplatz",49.48251,8.479054
+204,424694,"Mannheim, Am Friedrichsplatz",49.482803,8.479423
+205,137615,"Mannheim, Am Oberen Luisenp.",49.480385,8.493526
+206,181908,"Mannheim, Am Salzkai",49.496582,8.46063
+207,218121,"Mannheim, Bgm.-Fuchs-Straße",49.501175,8.463891
+208,258410,"Mannheim, Bgm.-Fuchs-Straße",49.501156,8.463657
+209,279459,"Mannheim, Bgm.-Fuchs-Straße",49.50129,8.463576
+210,275158,"Mannheim, Bibienastraße",49.494556,8.488001
+211,365385,"Mannheim, Bibienastraße",49.494553,8.488774
+212,371284,"Mannheim, Bibienastraße",49.494675,8.488424
+213,58986,"Mannheim, Bibienastraße",49.49488,8.487858
+214,58124,"Mannheim, Bonadiesstraße",49.50475,8.450021
+215,151171,"Mannheim, Bonifatiuskirche",49.49898,8.488675
+216,169669,"Mannheim, Bonifatiuskirche",49.49862,8.48925
+217,240924,"Mannheim, Bonifatiuskirche",49.49886,8.489771
+218,288425,"Mannheim, Bonifatiuskirche",49.49896,8.488522
+219,295954,"Mannheim, Bonifatiuskirche",49.499535,8.490813
+220,341372,"Mannheim, Bonifatiuskirche",49.49807,8.489295
+221,361720,"Mannheim, Bonifatiuskirche",49.499336,8.488513
+222,403296,"Mannheim, Bonifatiuskirche",49.49895,8.488433
+223,103514,"Mannheim, Brauerei",49.495987,8.489915
+224,217108,"Mannheim, Bunsenstraße",49.501934,8.456471
+225,93091,"Mannheim, Bunsenstraße",49.501858,8.456084
+226,183703,"Mannheim, Carl-Benz-Stadion",49.477966,8.502042
+227,381394,"Mannheim, Carl-Benz-Stadion",49.477753,8.502249
+228,402419,"Mannheim, Carl-Benz-Stadion",49.477825,8.502321
+229,420082,"Mannheim, Carl-Benz-Stadion",49.477886,8.502195
+230,200162,"Mannheim, Carl-Benz-Straße",49.499336,8.471607
+231,211195,"Mannheim, Carl-Benz-Straße",49.499825,8.471454
+232,272125,"Mannheim, Carl-Benz-Straße",49.499825,8.471454
+233,448840,"Mannheim, Carl-Benz-Straße",49.499336,8.471544
+234,14435,"Mannheim, Collini-Center",49.49157,8.477446
+235,315617,"Mannheim, Collini-Center",49.491383,8.477913
+236,249289,"Mannheim, Dalbergstraße",49.49349,8.461214
+237,315854,"Mannheim, Dalbergstraße",49.493538,8.461438
+238,219942,"Mannheim, Dudenstraße",49.500557,8.50118
+239,43261,"Mannheim, Eisenlohrplatz",49.500908,8.494047
+240,232369,"Mannheim, Exerzierplatz",49.503193,8.497425
+241,28914,"Mannheim, Exerzierplatz",49.503643,8.498314
+242,195868,"Mannheim, Fahrlach",49.473637,8.49835
+243,280893,"Mannheim, Fahrlach",49.473274,8.49879
+244,351584,"Mannheim, Fahrlach",49.47343,8.498871
+245,436454,"Mannheim, Fahrlach",49.473484,8.498386
+246,136349,"Mannheim, Fardelystraße",49.504063,8.458519
+247,241972,"Mannheim, Fardelystraße",49.503853,8.457638
+248,323022,"Mannheim, Fernmeldeturm",49.486877,8.493427
+249,75154,"Mannheim, Fernmeldeturm",49.486874,8.493337
+250,79884,"Mannheim, Fernmeldeturm",49.486977,8.492807
+251,219728,"Mannheim, Friedrich-Engelhorn-Straße",49.499966,8.497272
+252,271209,"Mannheim, Gesamtsch.Herzogenr.",49.508427,8.477195
+253,367959,"Mannheim, Gesamtsch.Herzogenr.",49.50839,8.476323
+254,215180,"Mannheim, Gewerkschaftshaus",49.489285,8.475883
+255,336205,"Mannheim, Gewerkschaftshaus",49.490223,8.47573
+256,35804,"Mannheim, Gewerkschaftshaus",49.488354,8.475928
+257,360928,"Mannheim, Gewerkschaftshaus",49.490498,8.475353
+258,308826,"Mannheim, Gutenbergstraße",49.492832,8.504
+259,31678,"Mannheim, Gutenbergstraße",49.49287,8.503902
+260,157999,"Mannheim, Güteramt",49.498566,8.448547
+261,278614,"Mannheim, Hafenpark",49.509987,8.465912
+262,418449,"Mannheim, Hafenpark",49.510567,8.467134
+263,150765,"Mannheim, Hansastraße",49.50927,8.468346
+264,39527,"Mannheim, Hansastraße",49.50923,8.469415
+265,173888,"Mannheim, Hauptbahnhof",49.479652,8.470529
+266,205748,"Mannheim, Hauptbahnhof",49.480137,8.469667
+267,291136,"Mannheim, Hauptbahnhof",49.47974,8.470709
+268,303197,"Mannheim, Hauptbahnhof",49.480263,8.469622
+269,441320,"Mannheim, Hauptbahnhof",49.480186,8.469784
+270,138122,"Mannheim, Hauptfriedhof",49.490696,8.491388
+271,267036,"Mannheim, Hauptfriedhof",49.49094,8.491083
+272,290104,"Mannheim, Hauptfriedhof",49.49106,8.491262
+273,366956,"Mannheim, Hauptfriedhof",49.490818,8.490813
+274,2441,"Mannheim, Hauptgüterbahnhof",49.500725,8.446984
+275,109160,"Mannheim, Herzogenriedstraße",49.508823,8.470691
+276,255013,"Mannheim, Herzogenriedstraße",49.50845,8.471517
+277,932,"Mannheim, Herzogenriedstraße",49.50839,8.470619
+278,27514,"Mannheim, Hochschule",49.46951,8.483905
+279,51792,"Mannheim, Hochschule",49.469894,8.484013
+280,354125,"Mannheim, Hochuferstraße",49.50283,8.487678
+281,391892,"Mannheim, Hochuferstraße",49.5039,8.487229
+282,459200,"Mannheim, Hochuferstraße",49.50327,8.487588
+283,66741,"Mannheim, Hochuferstraße",49.504337,8.487651
+284,242712,"Mannheim, Ida-Scipio-Heim",49.499084,8.481507
+285,256301,"Mannheim, Ida-Scipio-Heim",49.499237,8.480231
+286,300749,"Mannheim, Industriestraße",49.505695,8.459893
+287,77259,"Mannheim, Industriestraße",49.50646,8.461034
+288,357094,"Mannheim, Jungbuschschule",49.495533,8.459192
+289,337631,"Mannheim, Kolpingstraße",49.486706,8.482639
+290,154193,"Mannheim, Kon.-Adenauer-Brücke",49.482372,8.458591
+291,278962,"Mannheim, Kon.-Adenauer-Brücke",49.4826,8.458752
+292,196897,"Mannheim, Kopernikusstraße",49.47858,8.477294
+293,291693,"Mannheim, Kopernikusstraße",49.478363,8.477653
+294,161156,"Mannheim, Krappmühlstraße",49.47519,8.481318
+295,307420,"Mannheim, Krappmühlstraße",49.47531,8.481165
+296,143694,"Mannheim, Kunsthalle",49.482494,8.472479
+297,285347,"Mannheim, Kunsthalle",49.48312,8.473359
+298,306184,"Mannheim, Kunsthalle",49.483067,8.47317
+299,427446,"Mannheim, Kunsthalle",49.48314,8.473305
+300,428512,"Mannheim, Kunsthalle",49.48239,8.472766
+301,213067,"Mannheim, Kunstverein",49.479584,8.487543
+302,317768,"Mannheim, Kunstverein",49.479244,8.487498
+303,250020,"Mannheim, Kurpfalzbrücke",49.49355,8.470044
+304,39137,"Mannheim, Kurpfalzbrücke",49.49367,8.469505
+305,65219,"Mannheim, Kurpfalzbrücke",49.49293,8.470745
+306,453021,"Mannheim, Kutzerweiher",49.48301,8.490849
+307,374182,"Mannheim, Käfertaler Straße",49.502224,8.501476
+308,311779,"Mannheim, Landgüterhalle",49.49621,8.450236
+309,119551,"Mannheim, Landwehrstraße",49.50574,8.490301
+310,32141,"Mannheim, Landwehrstraße",49.50551,8.489762
+311,67360,"Mannheim, Landwehrstraße",49.505898,8.490535
+312,8055,"Mannheim, Landwehrstraße",49.50566,8.490121
+313,351062,"Mannheim, Landzungenstraße",49.49534,8.45418
+314,142980,"Mannheim, Lange Rötterstraße",49.495735,8.486384
+315,361734,"Mannheim, Lange Rötterstraße",49.496006,8.486483
+316,456336,"Mannheim, Lange Rötterstraße",49.496193,8.486879
+317,260364,"Mannheim, Lanzvilla",49.484306,8.487274
+318,448804,"Mannheim, Lanzvilla",49.485058,8.486852
+319,95428,"Mannheim, Lanzvilla",49.48451,8.487193
+320,265448,"Mannheim, Leoniweg",49.510426,8.492053
+321,414668,"Mannheim, Leoniweg",49.51056,8.491873
+322,104241,"Mannheim, Lessingstraße",49.489185,8.485468
+323,322581,"Mannheim, Lessingstraße",49.489235,8.485414
+324,78616,"Mannheim, Lortzingstraße",49.497242,8.467771
+325,34829,"Mannheim, Ludolf-Krehl-Straße",49.49722,8.49225
+326,59341,"Mannheim, Ludolf-Krehl-Straße",49.497284,8.492295
+327,176666,"Mannheim, Luisenp./Technoseum",49.478966,8.495808
+328,185492,"Mannheim, Luisenp./Technoseum",49.47888,8.496248
+329,329539,"Mannheim, Luisenp./Technoseum",49.47867,8.496068
+330,62951,"Mannheim, Luisenp./Technoseum",49.478626,8.496455
+331,119573,"Mannheim, MARCHIVUM",49.499355,8.4616
+332,335910,"Mannheim, MARCHIVUM",49.49939,8.461591
+333,292900,"Mannheim, MVV-Hochhaus",49.493923,8.467089
+334,384135,"Mannheim, MVV-Hochhaus",49.493977,8.465571
+335,239640,"Mannheim, Marktplatz",49.48945,8.467735
+336,282862,"Mannheim, Marktplatz",49.48954,8.467888
+337,172478,"Mannheim, Max-Joseph-Straße",49.49969,8.476251
+338,179532,"Mannheim, Maximilianstraße",49.482536,8.485666
+339,54303,"Mannheim, Maximilianstraße",49.482468,8.485315
+340,398324,"Mannheim, Mensa am Schloss",49.486557,8.459157
+341,213958,"Mannheim, Moselstraße",49.49883,8.483564
+342,211983,"Mannheim, Möhlstraße",49.474873,8.48695
+343,445062,"Mannheim, Möhlstraße",49.474663,8.487058
+344,84681,"Mannheim, Mühldorferstraße",49.477043,8.488055
+345,12206,"Mannheim, Nationaltheater",49.487713,8.478461
+346,181692,"Mannheim, Nationaltheater",49.487644,8.476764
+347,227191,"Mannheim, Nationaltheater",49.4876,8.47821
+348,28667,"Mannheim, Nationaltheater",49.48769,8.476764
+349,454054,"Mannheim, Nationaltheater",49.487797,8.478003
+350,75809,"Mannheim, Nationaltheater",49.487682,8.478515
+351,325202,"Mannheim, Neckarspitze",49.5025,8.445727
+352,400615,"Mannheim, Neckarvorlandstraße",49.504494,8.444307
+353,198212,"Mannheim, Neuer Meßplatz",49.505356,8.470008
+354,350349,"Mannheim, Neuer Meßplatz",49.504883,8.469972
+355,232163,"Mannheim, Neumarkt",49.498837,8.467646
+356,282061,"Mannheim, Neumarkt",49.49894,8.467313
+357,79087,"Mannheim, Neumarkt",49.49883,8.467726
+358,254380,"Mannheim, Otto-Beck-Straße",49.481533,8.484768
+359,355740,"Mannheim, Otto-Beck-Straße",49.480595,8.484094
+360,401994,"Mannheim, Otto-Beck-Straße",49.48162,8.484543
+361,567,"Mannheim, Otto-Beck-Straße",49.48082,8.484309
+362,232659,"Mannheim, Paradeplatz",49.487194,8.467628
+363,25043,"Mannheim, Paradeplatz",49.48761,8.466657
+364,295590,"Mannheim, Paradeplatz",49.487473,8.465984
+365,48399,"Mannheim, Paradeplatz",49.487213,8.46566
+366,71007,"Mannheim, Paradeplatz",49.48749,8.465984
+367,236285,"Mannheim, Pestalozzischule",49.47865,8.48227
+368,368230,"Mannheim, Pestalozzischule",49.47877,8.482109
+369,63854,"Mannheim, Pestalozzischule",49.478622,8.482369
+370,211725,"Mannheim, Pfeifferswörth",49.489483,8.501162
+371,217559,"Mannheim, Pfeifferswörth",49.489334,8.500946
+372,359539,"Mannheim, Pfeifferswörth",49.4894,8.501701
+373,449691,"Mannheim, Pfeifferswörth",49.48976,8.501755
+374,451163,"Mannheim, Pfeifferswörth",49.489517,8.5025
+375,11894,"Mannheim, Planetarium",49.476482,8.489789
+376,256723,"Mannheim, Planetarium",49.4766,8.489493
+377,395442,"Mannheim, Planetarium",49.476665,8.490292
+378,64044,"Mannheim, Planetarium",49.476597,8.48899
+379,182296,"Mannheim, Popakademie",49.49633,8.457504
+380,97457,"Mannheim, Popakademie",49.49704,8.457647
+381,277075,"Mannheim, Pyramidenstraße",49.506645,8.464735
+382,394294,"Mannheim, Pyramidenstraße",49.506718,8.464493
+383,146531,"Mannheim, Rathaus/REM",49.488956,8.462768
+384,318471,"Mannheim, Rathaus/REM",49.489136,8.462507
+385,407010,"Mannheim, Rathaus/REM",49.48962,8.463603
+386,57003,"Mannheim, Rathaus/REM",49.489243,8.46231
+387,166302,"Mannheim, Reichsk.-Müller-Str.",49.47374,8.482117
+388,389946,"Mannheim, Reichsk.-Müller-Str.",49.474323,8.48139
+389,271600,"Mannheim, Rheinstraße",49.49111,8.458016
+390,278997,"Mannheim, Rheinstraße",49.49097,8.457971
+391,360212,"Mannheim, Rheinstraße",49.490887,8.458061
+392,387829,"Mannheim, Rheinstraße",49.491085,8.457917
+393,66203,"Mannheim, Rheinstraße",49.49116,8.459624
+394,424256,"Mannheim, Rosengarten",49.48532,8.475326
+395,52643,"Mannheim, Rosengarten",49.485737,8.475614
+396,36614,"Mannheim, Sandgewann",49.509964,8.483501
+397,441905,"Mannheim, Sandgewann",49.509983,8.483195
+398,175650,"Mannheim, Schafweide",49.49483,8.479171
+399,335135,"Mannheim, Schafweide",49.49451,8.479548
+400,21974,"Mannheim, Schloss",49.48473,8.463352
+401,305623,"Mannheim, Schloss",49.48468,8.462498
+402,324566,"Mannheim, Schloss",49.485092,8.463756
+403,52954,"Mannheim, Schloss",49.484547,8.462489
+404,398375,"Mannheim, Strohmarkt",49.486214,8.470062
+405,436738,"Mannheim, Strohmarkt",49.486282,8.470035
+406,170746,"Mannheim, Tattersall",49.481544,8.475147
+407,176273,"Mannheim, Tattersall",49.48171,8.473188
+408,22709,"Mannheim, Tattersall",49.480606,8.47273
+409,430662,"Mannheim, Tattersall",49.481876,8.472838
+410,238781,"Mannheim, Technoseum Süd",49.47597,8.493589
+411,258405,"Mannheim, Technoseum Süd",49.475872,8.494119
+412,42206,"Mannheim, Technoseum Süd",49.47609,8.493625
+413,363847,"Mannheim, Teufelsbrücke",49.49452,8.457135
+414,371130,"Mannheim, Teufelsbrücke",49.494022,8.457099
+415,140780,"Mannheim, Theresienkrankenhaus",49.489765,8.480707
+416,256775,"Mannheim, Theresienkrankenhaus",49.49,8.480689
+417,356134,"Mannheim, Theresienkrankenhaus",49.48921,8.480527
+418,366007,"Mannheim, Theresienkrankenhaus",49.490128,8.48104
+419,268781,"Mannheim, TÜV",49.497913,8.504324
+420,295129,"Mannheim, TÜV",49.495766,8.505007
+421,12727,"Mannheim, Ulmenweg",49.50734,8.493248
+422,140105,"Mannheim, Ulmenweg",49.507717,8.493643
+423,172467,"Mannheim, Ulmenweg",49.507095,8.492745
+424,180247,"Mannheim, Ulmenweg",49.50738,8.492933
+425,119470,"Mannheim, Universität",49.482193,8.463442
+426,198870,"Mannheim, Universität",49.48292,8.465571
+427,393133,"Mannheim, Universität",49.482918,8.465571
+428,451631,"Mannheim, Universität",49.48163,8.465588
+429,186232,"Mannheim, Universität West",49.48695,8.45736
+430,373565,"Mannheim, Universität West",49.487656,8.457513
+431,100365,"Mannheim, Universitätsklinikum",49.493572,8.484435
+432,206020,"Mannheim, Universitätsklinikum",49.493618,8.483968
+433,315816,"Mannheim, Universitätsklinikum",49.493675,8.483851
+434,4082,"Mannheim, Universitätsklinikum",49.49377,8.484309
+435,137438,"Mannheim, Untermühlaustraße",49.510803,8.471158
+436,19279,"Mannheim, Untermühlaustraße",49.51126,8.471463
+437,344284,"Mannheim, Untermühlaustraße",49.511272,8.471598
+438,442514,"Mannheim, Untermühlaustraße",49.510864,8.471302
+439,364217,"Mannheim, Verbindungskanal",49.5009,8.451674
+440,343338,"Mannheim, Verl.Jungbuschstraße",49.49464,8.452222
+441,217044,"Mannheim, Wasserturm",49.484833,8.473619
+442,282931,"Mannheim, Wasserturm",49.483418,8.47379
+443,411499,"Mannheim, Wasserturm",49.48499,8.474805
+444,48927,"Mannheim, Wasserturm",49.484715,8.473844
+445,59860,"Mannheim, Wasserturm",49.484142,8.474122
+446,271721,"Mannheim, Weberstraße",49.47649,8.485747
+447,313976,"Mannheim, Weberstraße",49.47648,8.486061
+448,252241,"Mannheim, Werderstraße",49.48065,8.478246
+449,391258,"Mannheim, Werderstraße",49.481056,8.476773
+450,23238,"Mannheim, Wohlgelegen EKZ",49.503944,8.500147
+451,372988,"Mannheim, Zielstraße",49.505497,8.500201
+452,431882,"Mannheim, Zielstraße",49.50577,8.500021
+453,275296,"Neckarau, Altriper Straße",49.445526,8.505069
+454,143863,"Neckarau, August-Bebel-Straße",49.466827,8.480051
+455,179485,"Neckarau, August-Bebel-Straße",49.466713,8.480339
+456,114822,"Neckarau, Bahnhof",49.45552,8.4942
+457,283575,"Neckarau, Bahnhof",49.45525,8.495206
+458,325576,"Neckarau, Bahnhof",49.455437,8.494379
+459,423944,"Neckarau, Bahnhof",49.456642,8.493634
+460,452685,"Neckarau, Bahnhof",49.45539,8.49429
+461,357080,"Neckarau, Besselstraße",49.4503,8.516038
+462,385653,"Neckarau, Besselstraße",49.450317,8.515939
+463,29966,"Neckarau, Dannstadter Straße",49.44634,8.50895
+464,352681,"Neckarau, Dannstadter Straße",49.446075,8.509381
+465,325845,"Neckarau, Floßwörth",49.46001,8.499617
+466,457589,"Neckarau, Floßwörth",49.460087,8.498871
+467,20437,"Neckarau, Franz-Sigel-Straße",49.46234,8.477204
+468,431808,"Neckarau, Franz-Sigel-Straße",49.462963,8.477033
+469,8640,"Neckarau, Franz-Sigel-Straße",49.46273,8.476979
+470,190195,"Neckarau, Freiheitsplatz",49.459057,8.479647
+471,284833,"Neckarau, Freiheitsplatz",49.45948,8.479423
+472,418715,"Neckarau, Freiheitsplatz",49.45956,8.479521
+473,311576,"Neckarau, Friedhof",49.455048,8.50153
+474,47241,"Neckarau, Friedhof",49.454838,8.501153
+475,191230,"Neckarau, Friedrichstraße",49.453587,8.495161
+476,229889,"Neckarau, Friedrichstraße",49.45332,8.495368
+477,235725,"Neckarau, Friedrichstraße",49.453743,8.494371
+478,85748,"Neckarau, Fähre",49.442425,8.502563
+479,258541,"Neckarau, Fähre oben",49.442345,8.506525
+480,346159,"Neckarau, Helmertstraße",49.454243,8.513756
+481,407066,"Neckarau, Im Morchhof",49.455833,8.505366
+482,443856,"Neckarau, Im Morchhof",49.455994,8.504647
+483,134909,"Neckarau, Isarweg",49.449387,8.502608
+484,241626,"Neckarau, Isarweg",49.449078,8.503174
+485,383439,"Neckarau, Kabel und Draht",49.448612,8.499814
+486,38471,"Neckarau, Kabel und Draht",49.44814,8.500614
+487,356350,"Neckarau, Krügerstraße",49.453434,8.516119
+488,457625,"Neckarau, Krügerstraße",49.453407,8.516074
+489,100169,"Neckarau, Lettestraße",49.4655,8.486492
+490,276892,"Neckarau, Lettestraße",49.46531,8.486843
+491,350876,"Neckarau, Lettestraße",49.466145,8.486268
+492,363785,"Neckarau, Lettestraße",49.465622,8.486528
+493,330252,"Neckarau, Mallaustraße",49.454266,8.509813
+494,172321,"Neckarau, Marktplatz",49.45318,8.491792
+495,377366,"Neckarau, Marktplatz",49.453033,8.491909
+496,230332,"Neckarau, Markuskirche",49.46461,8.475596
+497,27841,"Neckarau, Markuskirche",49.46523,8.475057
+498,355251,"Neckarau, Markuskirche",49.46504,8.475218
+499,426670,"Neckarau, Markuskirche",49.46485,8.475317
+500,85892,"Neckarau, Markuskirche",49.464622,8.475829
+501,362375,"Neckarau, Matthäuskirche",49.45392,8.488019
+502,62802,"Neckarau, Matthäuskirche",49.453926,8.488549
+503,293344,"Neckarau, Rheingoldhalle",49.449947,8.469748
+504,213733,"Neckarau, Stollenwörth",49.450756,8.472335
+505,298784,"Neckarau, Tannhäuserring",49.452236,8.477006
+506,64508,"Neckarau, Tannhäuserring",49.45242,8.477716
+507,116192,"Neckarau, Voltastraße",49.461506,8.489969
+508,420560,"Neckarau, Voltastraße",49.461082,8.490265
+509,273624,"Neckarau, West",49.455166,8.481875
+510,373090,"Neckarau, West",49.45561,8.481902
+511,53503,"Neckarau, West",49.455338,8.482046
+512,142789,Neckarstadt West,49.50366,8.460666
+513,25233,Neckarstadt West,49.503864,8.46063
+514,372823,Neckarstadt West,49.503082,8.460127
+515,446015,Neckarstadt West,49.503113,8.460208
+516,232995,"Neuhermsheim, Gerd-Dehof-Platz",49.465626,8.510028
+517,245058,"Neuhermsheim, Gerd-Dehof-Platz",49.465622,8.50851
+518,405027,"Neuhermsheim, Gerd-Dehof-Platz",49.46604,8.509857
+519,277826,"Neuhermsheim, Husarenweg",49.469078,8.502967
+520,366006,"Neuhermsheim, Husarenweg",49.46886,8.500066
+521,67846,"Neuhermsheim, Husarenweg",49.46929,8.502608
+522,210849,"Neuhermsheim, Lochgärten",49.470062,8.499626
+523,117899,"Neuhermsheim, SAP Arena",49.46482,8.520413
+524,392552,"Neuhermsheim, SAP Arena",49.463367,8.518966
+525,124163,"Neuhermsheim, SAP Arena S-Bf.",49.459946,8.517062
+526,251851,"Neuhermsheim, SAP Arena S-Bf.",49.459724,8.517547
+527,415538,"Neuhermsheim, SAP Arena S-Bf.",49.460278,8.516316
+528,456498,"Neuhermsheim, SAP Arena Süd",49.46305,8.516622
+529,66251,"Neuhermsheim, SAP Arena Süd",49.462837,8.517026
+530,162355,"Neuhermsheim, Teufelsloch",49.47283,8.501359
+531,151686,"Neuhermsheim, Thomashaus",49.466385,8.50674
+532,312097,"Neuhermsheim, Thomashaus",49.46654,8.506309
+533,110320,"Neuhermsheim, Ulanenweg",49.467617,8.503417
+534,231748,"Neuhermsheim, Ulanenweg",49.467648,8.506156
+535,387168,"Neuhermsheim, Ulanenweg",49.467415,8.506722
+536,261107,"Neuostheim, Am Schäferstock",49.47506,8.503255
+537,435799,"Neuostheim, Am Schäferstock",49.474857,8.504234
+538,234867,"Neuostheim, Duale Hochschule",49.475353,8.534202
+539,89676,"Neuostheim, Duale Hochschule",49.4753,8.534337
+540,331043,"Neuostheim, Eastsite",49.475376,8.506013
+541,106100,"Neuostheim, Endstelle",49.477444,8.52317
+542,230844,"Neuostheim, Endstelle",49.477757,8.52273
+543,383695,"Neuostheim, Endstelle",49.477406,8.522865
+544,408097,"Neuostheim, Endstelle",49.477654,8.522712
+545,58565,"Neuostheim, Endstelle",49.477528,8.523251
+546,220379,"Neuostheim, Grünewaldstraße",49.478363,8.509318
+547,13184,"Neuostheim, Hans-Thoma-Straße",49.47516,8.524329
+548,146252,"Neuostheim, Hans-Thoma-Straße",49.47485,8.524159
+549,191098,"Neuostheim, Harrlach",49.47824,8.506794
+550,216307,"Neuostheim, Harrlach",49.478153,8.506408
+551,385425,"Neuostheim, Holbeinstraße",49.481434,8.512076
+552,80604,"Neuostheim, Holbeinstraße",49.48113,8.513002
+553,379712,"Neuostheim, Lucas-Cranach-Str.",49.47848,8.512525
+554,447776,"Neuostheim, Lucas-Cranach-Str.",49.478447,8.512912
+555,8486,"Neuostheim, Lucas-Cranach-Str.",49.47847,8.512768
+556,107063,"Neuostheim, Maimarkt",49.47035,8.522596
+557,446655,"Neuostheim, Maimarkt",49.470333,8.522667
+558,68925,"Neuostheim, Maimarkt",49.470333,8.522676
+559,304336,"Neuostheim, Schwindstraße",49.478405,8.518248
+560,358194,"Neuostheim, Schwindstraße",49.478436,8.518499
+561,298077,"Rheinau (MA), Mühlheimer Str.",49.426186,8.532064
+562,446634,"Rheinau (MA), Mühlheimer Str.",49.426537,8.531794
+563,124682,"Rheinau, Am Rheinauer See",49.416267,8.529926
+564,425324,"Rheinau, Antwerpener Straße",49.41765,8.505114
+565,405695,"Rheinau, Chiemseestraße",49.41713,8.53413
+566,303803,"Rheinau, Distelsand",49.42822,8.531408
+567,400320,"Rheinau, Distelsand",49.427814,8.531669
+568,201029,"Rheinau, Dortmunder Straße",49.41876,8.515391
+569,40010,"Rheinau, Essener Straße",49.42121,8.508034
+570,284217,"Rheinau, Faltkistenwerk",49.42136,8.510594
+571,88532,"Rheinau, Faltkistenwerk",49.421307,8.511555
+572,171738,"Rheinau, Fridtjof-Nansen-Weg",49.41273,8.540876
+573,175830,"Rheinau, Frobeniusstraße",49.41683,8.538074
+574,370812,"Rheinau, Gerhart-Hauptmann-Schule",49.41483,8.540167
+575,397518,"Rheinau, Gerhart-Hauptmann-Schule",49.414597,8.540149
+576,102223,"Rheinau, Hafen",49.435043,8.521068
+577,306303,"Rheinau, Hafen",49.434437,8.521904
+578,38740,"Rheinau, Hallenweg",49.44888,8.535064
+579,401995,"Rheinau, Hallenweg",49.44811,8.532863
+580,442085,"Rheinau, Hofrat-Wild-Straße",49.450207,8.520835
+581,96524,"Rheinau, Hofrat-Wild-Straße",49.450157,8.522155
+582,145024,"Rheinau, Holländerstraße",49.428165,8.508977
+583,387010,"Rheinau, Karl-Schwaner-Straße",49.419178,8.53369
+584,190610,"Rheinau, Karlsplatz",49.438995,8.523009
+585,273423,"Rheinau, Karlsplatz",49.43897,8.522542
+586,422358,"Rheinau, Karlsplatz",49.43864,8.523242
+587,220232,"Rheinau, Konrad-Duden-Schule",49.440487,8.523072
+588,221187,"Rheinau, Leutweinstraße",49.42011,8.528354
+589,409046,"Rheinau, Leutweinstraße",49.41974,8.530267
+590,311472,"Rheinau, Lever",49.44027,8.514241
+591,452618,"Rheinau, Lüderitzstraße",49.41915,8.535019
+592,161205,"Rheinau, Martinistraße",49.443268,8.52706
+593,346790,"Rheinau, Martinistraße",49.44315,8.526755
+594,449615,"Rheinau, Martinskirche",49.41766,8.527267
+595,32045,"Rheinau, Münchwälderstraße",49.421677,8.534489
+596,420438,"Rheinau, Münchwälderstraße",49.42171,8.535028
+597,249964,"Rheinau, Neuhofer Straße",49.43552,8.525677
+598,4116,"Rheinau, Neuhofer Straße",49.43512,8.526072
+599,289339,"Rheinau, Pfingstberg",49.4461,8.529423
+600,452950,"Rheinau, Pfingstberg Sportanl.",49.449436,8.524536
+601,91211,"Rheinau, Pfingstberg Sportanl.",49.449154,8.524823
+602,450354,"Rheinau, Pigagestraße",49.413914,8.528129
+603,44464,"Rheinau, Riedwiesen",49.417767,8.507827
+604,144001,"Rheinau, Rohrhofer Straße",49.42076,8.525838
+605,108072,"Rheinau, Rotterdamer Str. Süd",49.420727,8.514663
+606,270441,"Rheinau, Rotterdamer Str. Süd",49.42134,8.51531
+607,400833,"Rheinau, Rotterdamer Str. Süd",49.4222,8.514942
+608,406332,"Rheinau, Rotterdamer Str. Süd",49.421413,8.514592
+609,293323,"Rheinau, Rotterdamer Str.Mitte",49.42542,8.514277
+610,449737,"Rheinau, Rotterdamer Str.Nord",49.427788,8.513828
+611,344341,"Rheinau, Ruhrorter Straße",49.421406,8.520503
+612,416663,"Rheinau, Ruhrorter Straße",49.421474,8.519155
+613,360049,"Rheinau, Sandrain",49.443565,8.514816
+614,391413,"Rheinau, Sandrain",49.442898,8.516146
+615,331000,"Rheinau, Sporwörthplatz",49.442875,8.518984
+616,314580,"Rheinau, Stolzeneckstraße",49.446182,8.52273
+617,230328,"Rheinau, Waldseestraße",49.431602,8.528713
+618,235640,"Rheinau, Waldseestraße",49.431934,8.528551
+619,212386,"Rheinau, Waldseestraße-West",49.431007,8.526162
+620,261042,"Rheinau, Zündholzfabrik",49.41864,8.538819
+621,378798,"Rheinau, Zündholzfabrik",49.418736,8.537247
+622,250406,"Sandhofen, Amselstraße",49.545895,8.459049
+623,304406,"Sandhofen, Ausgasse",49.548126,8.43898
+624,30762,"Sandhofen, Bartholomäuskirche",49.54564,8.446859
+625,31662,"Sandhofen, Bartholomäuskirche",49.545994,8.446679
+626,36233,"Sandhofen, Blumenauer Weg",49.5555,8.448233
+627,164615,"Sandhofen, Bürstadter Straße",49.53519,8.453282
+628,206483,"Sandhofen, Bürstadter Straße",49.53549,8.453326
+629,305974,"Sandhofen, Bürstadter Straße",49.53501,8.453973
+630,330163,"Sandhofen, Bürstadter Straße",49.53553,8.452913
+631,441879,"Sandhofen, Endstelle",49.54181,8.449823
+632,85179,"Sandhofen, Endstelle",49.541935,8.449491
+633,139595,"Sandhofen, Friedhof",49.550537,8.453587
+634,445570,"Sandhofen, Friedhof",49.550182,8.452329
+635,160808,"Sandhofen, Fähre",49.536247,8.437561
+636,256049,"Sandhofen, Füllenweg",49.562206,8.448655
+637,8657,"Sandhofen, Groß-Gerauer Straße",49.548798,8.442313
+638,105315,"Sandhofen, Hanfstraße",49.53842,8.451135
+639,181437,"Sandhofen, Hanfstraße",49.538578,8.450937
+640,395223,"Sandhofen, Hanfstraße",49.538223,8.451135
+641,60494,"Sandhofen, IKEA",49.556786,8.444891
+642,33645,"Sandhofen, Jakobuskirche",49.54383,8.453398
+643,359243,"Sandhofen, Jakobuskirche",49.544018,8.454027
+644,161668,"Sandhofen, K.-Schweizer-Park",49.548843,8.447982
+645,30099,"Sandhofen, K.-Schweizer-Park",49.549217,8.448565
+646,302506,"Sandhofen, K.-Schweizer-Park",49.548866,8.447065
+647,300589,"Sandhofen, Kirschgartshausen",49.58158,8.448062
+648,321497,"Sandhofen, Kirschgartshausen",49.58104,8.447793
+649,22338,"Sandhofen, Krähenflügel",49.551414,8.457486
+650,315089,"Sandhofen, Krähenflügel",49.551315,8.456713
+651,404867,"Sandhofen, Rathaus",49.545,8.443176
+652,367447,"Sandhofen, Sandhofer Weg",49.55865,8.44799
+653,411344,"Sandhofen, Scharhof",49.55994,8.447919
+654,332610,"Schönau, Endstelle",49.546814,8.474742
+655,7939,"Schönau, Endstelle",49.546913,8.474212
+656,187572,"Schönau, Graudenzer Linie",49.539375,8.481075
+657,258802,"Schönau, Haderslebener Straße",49.54217,8.481048
+658,28000,"Schönau, Kerschensteinerschule",49.546997,8.479647
+659,174107,"Schönau, Königsberger Allee",49.546555,8.469164
+660,132729,"Schönau, Max-Winterhalter-Ring",49.55163,8.48139
+661,431832,"Schönau, Max-Winterhalter-Ring",49.55111,8.481255
+662,367544,"Schönau, Memeler Straße",49.544888,8.481004
+663,121299,"Schönau, Schönau Siedlung",49.539894,8.473494
+664,450166,"Schönau, Schönau Siedlung",49.539467,8.473323
+665,115967,"Schönau, Schönauschule",49.544132,8.474176
+666,152965,"Schönau, Schönauschule",49.543762,8.474069
+667,164136,"Schönau, Sonderburger Straße",49.536217,8.481156
+668,360193,"Schönau, Sonderburger Straße",49.53534,8.481048
+669,114730,"Seckenheim, Deutscher Hof",49.47038,8.557441
+670,311755,"Seckenheim, Deutscher Hof",49.470657,8.557172
+671,112675,"Seckenheim, Herrenalber Straße",49.469067,8.552114
+672,376155,"Seckenheim, Herrenalber Straße",49.468903,8.551854
+673,13652,"Seckenheim, Hochstätt",49.452564,8.538406
+674,49769,"Seckenheim, Hochstätt",49.453144,8.539214
+675,362581,"Seckenheim, Innerer Heckweg",49.459263,8.563155
+676,108922,"Seckenheim, Kapellenplatz",49.462784,8.555177
+677,341040,"Seckenheim, Kapellenplatz",49.46262,8.555043
+678,405868,"Seckenheim, Lämmertränke",49.461025,8.569182
+679,91117,"Seckenheim, Lämmertränke",49.45999,8.569685
+680,139198,"Seckenheim, Meßkircher Straße",49.461346,8.561726
+681,21488,"Seckenheim, Meßkircher Straße",49.461605,8.561879
+682,159652,"Seckenheim, OEG-Bahnhof",49.461918,8.569847
+683,241013,"Seckenheim, OEG-Bahnhof",49.462223,8.569452
+684,349767,"Seckenheim, OEG-Bahnhof",49.462376,8.56956
+685,4526,"Seckenheim, OEG-Bahnhof",49.461926,8.56956
+686,260952,"Seckenheim, Otto-Bauder-Sport",49.46602,8.549662
+687,348058,"Seckenheim, Pforzheimer Straße",49.473343,8.550533
+688,419821,"Seckenheim, Pforzheimer Straße",49.473526,8.549716
+689,38165,"Seckenheim, Pumpwerk",49.460686,8.552581
+690,458447,"Seckenheim, Pumpwerk",49.45943,8.550596
+691,247616,"Seckenheim, Rathaus",49.467037,8.563172
+692,358919,"Seckenheim, Rathaus",49.46694,8.563226
+693,419964,"Seckenheim, Rathaus",49.466892,8.563541
+694,129640,"Seckenheim, Schlittweg",49.455894,8.543643
+695,333216,"Seckenheim, Schwabenstraße",49.462643,8.567565
+696,353114,"Seckenheim, Suebenheim",49.455025,8.570018
+697,171097,"Seckenheim, Zähringer Straße",49.462166,8.56037
+698,95526,"Seckenheim, Zähringer Straße",49.46368,8.559849
+699,37046,"Vogelstang, Chemnitzer Straße",49.511265,8.551602
+700,238001,"Vogelstang, Eislebener Weg",49.508846,8.550605
+701,214960,"Vogelstang, Endstelle",49.511784,8.543742
+702,279108,"Vogelstang, Endstelle",49.512417,8.543832
+703,17325,"Vogelstang, Freiberger Ring",49.50929,8.540634
+704,392831,"Vogelstang, Fürstenwalder Weg",49.510323,8.535504
+705,401720,"Vogelstang, Im Wohlbühl",49.509003,8.529827
+706,454268,"Vogelstang, Im Wohlbühl",49.509377,8.530231
+707,191091,"Vogelstang, Magdeburger Straße",49.51379,8.546949
+708,206214,"Vogelstang, Potsdamer Weg",49.510204,8.53157
+709,294107,"Vogelstang, Potsdamer Weg",49.508244,8.533465
+710,95327,"Vogelstang, Potsdamer Weg",49.508175,8.533259
+711,157668,"Vogelstang, Sachsenstraße",49.507324,8.545646
+712,27213,"Vogelstang, Sachsenstraße",49.507416,8.546419
+713,319294,"Vogelstang, Schweriner Weg",49.50683,8.534346
+714,457775,"Vogelstang, Schweriner Weg",49.506973,8.534885
+715,326810,"Vogelstang, Straßenheimer Weg",49.511513,8.555905
+716,166192,"Vogelstang, Taylor Nord",49.51905,8.554019
+717,281117,"Vogelstang, Taylor Ost",49.5148,8.556561
+718,157001,"Vogelstang, Warnemünder Weg",49.507812,8.537014
+719,101799,"Vogelstang, West",49.506355,8.532019
+720,226879,"Vogelstang, West",49.50724,8.531633
+721,239699,"Vogelstang, West",49.506226,8.531767
+722,245762,"Vogelstang, West",49.505863,8.533205
+723,365365,"Vogelstang, West",49.50651,8.53113
+724,74427,"Vogelstang, West",49.506523,8.532082
+725,113720,"Vogelstang, Zentrum",49.51046,8.539089
+726,274383,"Vogelstang, Zentrum",49.51077,8.539349
+727,327299,"Vogelstang, Zentrum",49.51119,8.538352
+728,383926,"Vogelstang, Zentrum",49.5103,8.53881
+729,132239,"Vogelstang, real",49.520668,8.555555
+730,12200,"Waldhof, Alsenweg",49.5321,8.483618
+731,339703,"Waldhof, Alsenweg",49.53178,8.484336
+732,14403,"Waldhof, Altrheinstraße",49.5254,8.471131
+733,433773,"Waldhof, Altrheinstraße",49.525555,8.471176
+734,57284,"Waldhof, Altrheinstraße",49.52572,8.471032
+735,361187,"Waldhof, Am Herrschaftswald",49.533962,8.507621
+736,210015,"Waldhof, Bahnhof",49.524685,8.482189
+737,38660,"Waldhof, Bahnhof",49.524796,8.48174
+738,290947,"Waldhof, Erlöserkirche",49.525414,8.497631
+739,29703,"Waldhof, Erlöserkirche",49.526165,8.495709
+740,140994,"Waldhof, Eschenhof",49.53543,8.504548
+741,207323,"Waldhof, Freilichtbühne",49.533585,8.493131
+742,290194,"Waldhof, Freilichtbühne",49.533916,8.493239
+743,233355,"Waldhof, Freyaplatz",49.529736,8.49287
+744,288736,"Waldhof, Freyaplatz",49.529613,8.492161
+745,431159,"Waldhof, Föhrenweg",49.537106,8.500039
+746,454582,"Waldhof, Föhrenweg",49.53723,8.499653
+747,187728,"Waldhof, Glücksburger Weg",49.536114,8.485342
+748,44965,"Waldhof, Glücksburger Weg",49.536392,8.48625
+749,88643,"Waldhof, Haus Waldhof",49.525906,8.486052
+750,33663,"Waldhof, Karl-Feuerstein-Str.",49.523262,8.486968
+751,42858,"Waldhof, Karl-Feuerstein-Str.",49.52338,8.486331
+752,92400,"Waldhof, Karl-Feuerstein-Str.",49.522266,8.48731
+753,160312,"Waldhof, Kasseler Straße",49.527454,8.498278
+754,247081,"Waldhof, Kirchwaldstraße",49.534924,8.491146
+755,141380,"Waldhof, Langer Schlag",49.531113,8.509696
+756,243376,"Waldhof, Neueichwaldstraße",49.5303,8.500228
+757,113058,"Waldhof, Nord",49.532585,8.481192
+758,12579,"Waldhof, Nord",49.531094,8.481057
+759,190152,"Waldhof, Nord",49.530704,8.481363
+760,255576,"Waldhof, Papyrus",49.533558,8.459615
+761,289086,"Waldhof, Papyrus",49.53339,8.460073
+762,357868,"Waldhof, Papyrus",49.53347,8.459839
+763,20798,"Waldhof, Roche",49.528393,8.468966
+764,276973,"Waldhof, Roche",49.528534,8.468984
+765,393855,"Waldhof, Roche",49.528625,8.468804
+766,170640,"Waldhof, Taunusplatz",49.524376,8.485145
+767,226102,"Waldhof, Taunusplatz",49.524208,8.485037
+768,279902,"Waldhof, Waldfriedhof",49.535915,8.495017
+769,390194,"Waldhof, Waldfriedhof",49.535904,8.494945
+770,47875,"Waldhof, Waldfriedhof",49.53582,8.494793
+771,265500,"Waldhof, Waldpforte",49.537907,8.496652
+772,132475,"Waldhof, Waldstraße",49.52865,8.489187
+773,303845,"Waldhof, Waldstraße",49.52823,8.490175
+774,329579,"Waldhof, Waldstraße",49.52806,8.488549
+775,450023,"Waldhof, Waldstraße",49.529064,8.488451
+776,161944,"Waldhof, Wetzlarer Winkel",49.522514,8.489582
+777,188117,"Waldhof, Zellstoff-Fabrik",49.531216,8.465265
+778,413764,"Waldhof, Zellstoff-Fabrik",49.53146,8.464897
+779,45727,"Waldhof, Zellstoff-Fabrik",49.53137,8.465023
+780,226404,"Wallstadt, Alemannenstraße",49.49498,8.553165
+781,2815,"Wallstadt, Amorbacher Straße",49.498005,8.542889
+782,371577,"Wallstadt, Auf den Ried",49.502575,8.537876
+783,106650,"Wallstadt, Bahnhof",49.49852,8.549311
+784,64347,"Wallstadt, Bahnhof",49.49875,8.548781
+785,281446,"Wallstadt, Frankenstraße",49.492943,8.551027
+786,233083,"Wallstadt, Friedhof",49.500473,8.552725
+787,411176,"Wallstadt, Gotenstraße",49.49971,8.555213
+788,290034,"Wallstadt, Kiesäcker",49.498806,8.536591
+789,448479,"Wallstadt, Kiesäcker",49.499046,8.536555
+790,46445,"Wallstadt, Kiesäcker",49.49852,8.53651
+791,125507,"Wallstadt, Kormoranstraße",49.501728,8.546122
+792,354581,"Wallstadt, Mitte",49.49632,8.54641
+793,253509,"Wallstadt, Ost",49.4973,8.553974
+794,283280,"Wallstadt, Ost",49.49746,8.553444
+795,65507,"Wallstadt, Ost",49.497528,8.554495
+796,204224,"Wallstadt, Osterburker Straße",49.493874,8.547057
+797,204253,"Wallstadt, Osterburker Straße",49.493713,8.546221
+798,260622,"Wallstadt, Sportanlagen",49.500732,8.542314
+799,317722,"Wallstadt, Storchenstraße",49.50181,8.550416
+800,192539,"Wallstadt, Wallstadtschule",49.49761,8.548799
+801,45219,"Wallstadt, Wasserturm",49.499256,8.544362
+802,354928,"Wallstadt, West",49.500492,8.543895
+803,413310,"Wallstadt, West",49.50078,8.543733
+804,95415,"Wallstadt, West",49.500275,8.54438

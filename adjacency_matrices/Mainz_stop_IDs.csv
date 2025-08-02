@@ -1,0 +1,516 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,340494,"B'heim, Colonel-Kleinmann-Weg",49.992123,8.242923
+1,305425,"B'heim, Hanns-Dieter-Hüsch-Weg",49.991264,8.23889
+2,160439,"B'heim, Johannes-v.-Müller-Weg",49.993076,8.245483
+3,218651,"Bretzenheim (Mz),H.v.-B.-Str.",49.9842,8.234165
+4,433342,"Bretzenheim (Mz),H.v.-B.-Str.",49.984154,8.234165
+5,110490,"Bretzenheim(Mz),H.-Böckler-S.",49.976055,8.239312
+6,263366,"Bretzenheim(Mz),H.-Böckler-S.",49.976055,8.239204
+7,330286,"Bretzenheim(Mz),H.-Böckler-S.",49.976063,8.239366
+8,324175,"Bretzenheim, A.-Mumbächer-Str.",49.97987,8.25806
+9,236789,"Bretzenheim, Albert-Stohr-Str.",49.97765,8.24949
+10,282965,"Bretzenheim, Albert-Stohr-Str.",49.977512,8.249616
+11,389406,"Bretzenheim, Albert-Stohr-Str.",49.97628,8.249346
+12,76842,"Bretzenheim, Albert-Stohr-Str.",49.976562,8.249723
+13,247320,"Bretzenheim, Alte Ziegelei",49.97628,8.253317
+14,153034,"Bretzenheim, Backhaushohl",49.98878,8.244019
+15,277943,"Bretzenheim, Backhaushohl",49.989212,8.244289
+16,141599,"Bretzenheim, Bahnstraße",49.981983,8.245672
+17,52681,"Bretzenheim, Draiser Straße",49.98524,8.241396
+18,86444,"Bretzenheim, Draiser Weg",49.983753,8.231937
+19,125400,"Bretzenheim, Duesbergweg",49.988937,8.232494
+20,236730,"Bretzenheim, Gutenb-Center-Ost",49.96835,8.2297
+21,248178,"Bretzenheim, Gutenb.-Center N.",49.97015,8.227939
+22,283497,"Bretzenheim, Gutenb.-Center N.",49.97107,8.229448
+23,321445,"Bretzenheim, Gutenb.-Center S.",49.966892,8.233796
+24,185690,"Bretzenheim, Gutenberg-Center",49.96871,8.227337
+25,338922,"Bretzenheim, Hahn-Meitner-Weg",49.990685,8.231002
+26,36298,"Bretzenheim, Hinkelsteinerstr.",49.973957,8.246355
+27,206515,"Bretzenheim, Hochschule Mainz",49.987476,8.228613
+28,428555,"Bretzenheim, Hochschule Mainz",49.98747,8.228622
+29,428977,"Bretzenheim, Hochschule Mainz",49.98743,8.228667
+30,455621,"Bretzenheim, Hochschule Mainz",49.98744,8.228676
+31,149556,"Bretzenheim, IGS",49.976974,8.249202
+32,266725,"Bretzenheim, J.-H.-Str./Arena",49.989223,8.223484
+33,32349,"Bretzenheim, J.-H.-Str./Arena",49.989525,8.223969
+34,34881,"Bretzenheim, J.-H.-Str./Arena",49.989132,8.223546
+35,359231,"Bretzenheim, J.-H.-Str./Arena",49.989605,8.223978
+36,338059,"Bretzenheim, K.-Zörgiebel-Str.",49.976154,8.241037
+37,10513,"Bretzenheim, Koblenzer Straße",49.9921,8.228307
+38,446565,"Bretzenheim, Koblenzer Straße",49.992794,8.226915
+39,228786,"Bretzenheim, Lindenm.Natursch",49.98437,8.252481
+40,254112,"Bretzenheim, Ludwig-Nauth-Str.",49.979973,8.237614
+41,272400,"Bretzenheim, Ludwig-Nauth-Str.",49.979164,8.237946
+42,379989,"Bretzenheim, Ludwig-Nauth-Str.",49.980186,8.23747
+43,398871,"Bretzenheim, Ludwig-Nauth-Str.",49.979202,8.237991
+44,58741,"Bretzenheim, Ludwig-Nauth-Str.",49.979973,8.237695
+45,79830,"Bretzenheim, Ludwig-Nauth-Str.",49.980175,8.237398
+46,256986,"Bretzenheim, M.-Kirchner-Str.",49.982567,8.237416
+47,430054,"Bretzenheim, M.-Kirchner-Str.",49.98186,8.240776
+48,317426,"Bretzenheim, Roter Weg",49.97212,8.244001
+49,366299,"Bretzenheim, St. Bernhard",49.977177,8.245061
+50,420041,"Bretzenheim, Staudingerweg",49.989727,8.23641
+51,15925,"Bretzenheim, Südring",49.973,8.238593
+52,283445,"Bretzenheim, Südring",49.972935,8.238234
+53,288749,"Bretzenheim, Südring",49.973057,8.238512
+54,385440,"Bretzenheim, Südring",49.973,8.238432
+55,40562,"Bretzenheim, Südring",49.972923,8.23827
+56,312461,"Bretzenheim, Vor der Frecht",49.97581,8.234488
+57,137003,"Bretzenheim, Wilh.-Quetsch-Str",49.969734,8.236707
+58,246875,"Bretzenheim, Wilh.-Quetsch-Str",49.969395,8.236752
+59,305806,"Bretzenheim, Wilh.-Quetsch-Str",49.970085,8.236267
+60,329185,"Bretzenheim, Wilh.-Quetsch-Str",49.97011,8.236222
+61,108306,"Bretzenheim,HS MZ/Campusbrücke",49.99002,8.227571
+62,148059,"Bretzenheim,HS MZ/Campusbrücke",49.990105,8.228299
+63,306315,"Bretzenheim,HS MZ/Campusbrücke",49.99015,8.228209
+64,86685,"Bretzenheim,HS MZ/Campusbrücke",49.989975,8.227598
+65,120227,Brückenplatz,50.00303,8.274337
+66,146056,"Drais, Curt-Goetz-Straße",49.974518,8.195771
+67,111695,"Drais, Daniel-Brendel-Straße",49.979748,8.192519
+68,286658,"Drais, Daniel-Brendel-Straße",49.97981,8.193659
+69,339982,"Drais, Daniel-Brendel-Straße",49.979725,8.194216
+70,340857,"Drais, Daniel-Brendel-Straße",49.979763,8.192483
+71,342614,"Drais, Friedhof",49.97706,8.188988
+72,261686,"Drais, Heßlerweg",49.97435,8.188045
+73,299536,"Drais, Ober-Olmer Straße",49.972534,8.189051
+74,428494,"Ebersheim, Abzw.",49.919334,8.266576
+75,101412,"Ebersheim, Fritz-Erler-Straße",49.91684,8.248969
+76,236145,"Ebersheim, Neugasse",49.91325,8.244136
+77,253066,"Ebersheim, Neugasse",49.913506,8.244819
+78,67820,"Ebersheim, Senefelderstraße",49.913788,8.251861
+79,217948,"Ebersheim, Sommerflor",49.912586,8.236276
+80,262525,"Ebersheim, Töngeshof",49.916588,8.254628
+81,406517,"Ebersheim, Töngesstraße",49.91523,8.250685
+82,214970,"Ebersheim, Zornheimer Straße",49.911144,8.240147
+83,256183,"Finthen, Am Eiskeller",49.99291,8.173286
+84,99311,"Finthen, Am Hessendenkmal",49.998383,8.18314
+85,34513,"Finthen, Atrium-Hotel",49.98312,8.171058
+86,141688,"Finthen, Bezirksfriedhof West",49.97964,8.186994
+87,444315,"Finthen, Borngasse",49.989662,8.172271
+88,343198,"Finthen, Gemarkungsgrenze",49.996292,8.188072
+89,94610,"Finthen, Gemarkungsgrenze",49.996292,8.188009
+90,197512,"Finthen, Huttenstraße",49.99093,8.175424
+91,185448,"Finthen, Jupiterweg",49.995975,8.180149
+92,359679,"Finthen, Jupiterweg",49.995937,8.180302
+93,407180,"Finthen, Jupiterweg",49.996628,8.180239
+94,100765,"Finthen, Katzenberg",49.984848,8.181371
+95,426420,"Finthen, Katzenberg",49.98473,8.180607
+96,51115,"Finthen, Kettelerstraße",49.987717,8.168004
+97,175528,"Finthen, Kirchgasse",49.986526,8.175136
+98,418137,"Finthen, Königsborn",49.992672,8.179215
+99,446771,"Finthen, Königsborn",49.992702,8.179268
+100,383877,"Finthen, Layenhof",49.976147,8.145815
+101,46778,"Finthen, Layenhöfer Chaussee",49.982388,8.16662
+102,395867,"Finthen, Markthalle",49.98391,8.176241
+103,77808,"Finthen, Markthalle",49.98365,8.176654
+104,86275,"Finthen, Markthalle",49.983646,8.176861
+105,133707,"Finthen, Neue Markthalle",49.98157,8.161796
+106,252677,"Finthen, Peter-Härtling-Schule",49.98566,8.168318
+107,153477,"Finthen, Poststraße",49.98937,8.178828
+108,175529,"Finthen, Poststraße",49.98939,8.178532
+109,26497,"Finthen, Poststraße",49.988853,8.178837
+110,426508,"Finthen, Rodeneckplatz",49.985466,8.176798
+111,15635,"Finthen, Römerquelle",49.99547,8.175082
+112,170208,"Finthen, Römerquelle",49.99547,8.176627
+113,46216,"Finthen, Römerquelle",49.99549,8.1751
+114,399056,"Finthen, Sertoriusring Nord",49.998505,8.176538
+115,184939,"Finthen, Theodor-Heuss-Straße",49.984413,8.168165
+116,414708,"Finthen, Waldthausenstraße",49.99602,8.173429
+117,165860,"Gonsenh., I.F.-Allee/Kobl.Str.",49.994015,8.226232
+118,196521,"Gonsenheim, Am Gonsenh. Wald",50.0049,8.201493
+119,64004,"Gonsenheim, Am Gonsenh. Wald",50.004814,8.201286
+120,458251,"Gonsenheim, Am Sportfeld",50.00746,8.208913
+121,240886,"Gonsenheim, Am Sägewerk",49.99716,8.222433
+122,131611,"Gonsenheim, An der Bruchspitze",50.005295,8.230517
+123,201505,"Gonsenheim, An der Bruchspitze",50.00528,8.230724
+124,301295,"Gonsenheim, An der Bruchspitze",50.005226,8.230796
+125,365617,"Gonsenheim, An der Bruchspitze",50.005337,8.230922
+126,5374,"Gonsenheim, An der Krimm",50.008995,8.214276
+127,423013,"Gonsenheim, An der Nonnenwiese",50.00083,8.224175
+128,290531,"Gonsenheim, An der Oberbrücke",49.996998,8.208338
+129,3544,"Gonsenheim, Canisiusstraße",50.005943,8.216306
+130,25497,"Gonsenheim, E.-Brändström-Str.",50.0086,8.208455
+131,215312,"Gonsenheim, Elbestraße",50.005505,8.221319
+132,349751,"Gonsenheim, Elbestraße",50.005527,8.221274
+133,228517,"Gonsenheim, Gonsbachgärten",50.00973,8.234488
+134,409717,"Gonsenheim, Gonsbachgärten",50.008984,8.234937
+135,171521,"Gonsenheim, Hugo-Eckener-Str.",50.00574,8.22608
+136,224220,"Gonsenheim, Hugo-Eckener-Str.",50.00585,8.226196
+137,307153,"Gonsenheim, Hugo-Eckener-Str.",50.00582,8.226107
+138,75721,"Gonsenheim, Hugo-Eckener-Str.",50.005768,8.226205
+139,406372,"Gonsenheim, Isaac-Fulda-Allee",49.99385,8.222558
+140,243918,"Gonsenheim, Kapellenstr./G.Cen",50.001266,8.20461
+141,348351,"Gonsenheim, Kapellenstr./G.Cen",50.00139,8.204116
+142,446558,"Gonsenheim, Kapellenstr./G.Cen",50.00156,8.204269
+143,52439,"Gonsenheim, Kapellenstr./G.Cen",50.00148,8.204664
+144,76977,"Gonsenheim, Kapellenstr./G.Cen",50.00174,8.204628
+145,157475,"Gonsenheim, Krongarten",50.009502,8.217761
+146,33103,"Gonsenheim, Krongarten",50.009533,8.217555
+147,56821,"Gonsenheim, Lennebergplatz",50.003036,8.195573
+148,13936,"Gonsenheim, Mainzer Straße",50.00055,8.217797
+149,142680,"Gonsenheim, Mainzer Straße",50.001637,8.216989
+150,425017,"Gonsenheim, Mainzer Straße",50.00104,8.217977
+151,435224,"Gonsenheim, Mainzer Straße",50.00121,8.217887
+152,31,"Gonsenheim, Nerotalstraße",50.00266,8.209685
+153,89797,"Gonsenheim, Nerotalstraße",50.002674,8.209901
+154,209111,"Gonsenheim, R.-Schirrmann-Str.",49.996246,8.227005
+155,379210,"Gonsenheim, R.-Schirrmann-Str.",49.9962,8.226089
+156,247338,"Gonsenheim, Rathaus",49.99949,8.210215
+157,30948,"Gonsenheim, Rathaus",49.99996,8.208455
+158,365008,"Gonsenheim, TSV Schott Mainz",50.01216,8.229323
+159,15403,"Gonsenheim, Theodor-Körner-Str",50.002403,8.199993
+160,299640,"Gonsenheim, Viermorgenweg",49.99824,8.193435
+161,337207,"Gonsenheim, Viermorgenweg",49.998302,8.193695
+162,91736,"Gonsenheim, Werrastraße",50.00653,8.219818
+163,197749,"Gonsenheim, Wildpark",50.007206,8.206128
+164,403155,"Gonsenheim, Wilhelm-Raabe-Str.",50.00354,8.212919
+165,439487,"Gonsenheim, Wilhelm-Raabe-Str.",50.00361,8.213377
+166,422932,"Hartenberg, Alte Lokhalle",50.01261,8.241908
+167,93709,"Hartenberg, Am Judensand",50.006844,8.243157
+168,149258,"Hartenberg, Am Jugendwerk",50.001244,8.234847
+169,424070,"Hartenberg, An der Dreispitz",49.997356,8.241468
+170,3161,"Hartenberg, Berufsschulzentrum",50.00776,8.244845
+171,335543,"Hartenberg, Dijonstraße",49.999653,8.23394
+172,217381,"Hartenberg, Eduard-David-Str.",50.00608,8.238261
+173,326477,"Hartenberg, Gonsenheimer Tor",50.004833,8.248017
+174,11233,"Hartenberg, Hartenbergpark",50.00825,8.239941
+175,223092,"Hartenberg, Hegelstraße",49.9962,8.235844
+176,153966,"Hartenberg, Kantstraße",49.997986,8.237767
+177,342078,"Hartenberg, Ketteler-Kolleg",50.00201,8.237767
+178,361982,"Hartenberg, Ketteler-Kolleg",50.002014,8.237821
+179,66443,"Hartenberg, Ketteler-Kolleg",50.00256,8.238027
+180,289344,"Hartenberg, King-Park-Center",50.00089,8.246642
+181,18929,"Hartenberg, Münchfeld",49.996502,8.230113
+182,284945,"Hartenberg, Schützenhaus",50.002716,8.241495
+183,188159,"Hartenberg, Südwestrundfunk",50.003338,8.245897
+184,230027,"Hartenberg, Südwestrundfunk",50.003487,8.246822
+185,318721,"Hartenberg, Südwestrundfunk",50.003677,8.246166
+186,350552,"Hartenberg, Südwestrundfunk",50.0028,8.246391
+187,28103,"Hechtsheim, Am Schinnergraben",49.96368,8.279772
+188,285859,"Hechtsheim, Bereitschaftspol.",49.965836,8.262479
+189,210788,"Hechtsheim, Birkenstraße",49.967007,8.270016
+190,42034,"Hechtsheim, Birkenstraße",49.96675,8.270106
+191,86160,"Hechtsheim, Birkenstraße",49.966805,8.269531
+192,253230,"Hechtsheim, Büdingerstraße",49.967636,8.275065
+193,143710,"Hechtsheim, Bürgerhaus",49.95702,8.27493
+194,257736,"Hechtsheim, Carl-Zeiss-Str.",49.963425,8.269405
+195,258975,"Hechtsheim, Carl-Zeiss-Str.",49.962715,8.268893
+196,317015,"Hechtsheim, Carl-Zeiss-Str.",49.96384,8.269774
+197,5607,"Hechtsheim, Carl-Zeiss-Str.",49.963406,8.269459
+198,185659,"Hechtsheim, Dornsheimer Weg",49.95813,8.269648
+199,204184,"Hechtsheim, Dornsheimer Weg",49.958252,8.269846
+200,235205,"Hechtsheim, Dornsheimer Weg",49.95826,8.269774
+201,366078,"Hechtsheim, Frankenhöhe",49.966442,8.285988
+202,367642,"Hechtsheim, Frankenhöhe",49.966244,8.286114
+203,34961,"Hechtsheim, Heuerstraße",49.95459,8.267726
+204,344535,"Hechtsheim, Joh.-Kepler-Straße",49.962666,8.263
+205,158998,"Hechtsheim, Jägerhaus",49.971622,8.271858
+206,165921,"Hechtsheim, Jägerhaus",49.97169,8.271004
+207,188477,"Hechtsheim, Jägerhaus",49.9713,8.272208
+208,230730,"Hechtsheim, Jägerhaus",49.97164,8.270951
+209,230884,"Hechtsheim, Math.-Kerz-Straße",49.963917,8.28491
+210,436617,"Hechtsheim, Messe",49.94344,8.254287
+211,216296,"Hechtsheim, Messe Ost",49.94371,8.262893
+212,131001,"Hechtsheim, Mühldreieck",49.959644,8.26813
+213,143260,"Hechtsheim, Mühldreieck",49.95983,8.267753
+214,167382,"Hechtsheim, Mühldreieck",49.959114,8.267223
+215,243548,"Hechtsheim, Mühldreieck",49.959263,8.266414
+216,339521,"Hechtsheim, Mühldreieck",49.9596,8.268256
+217,413056,"Hechtsheim, Mühldreieck",49.95995,8.267582
+218,429238,"Hechtsheim, Mühldreieck",49.95964,8.268399
+219,5061,"Hechtsheim, Mühldreieck",49.959766,8.268211
+220,167393,"Hechtsheim, Robert-Bosch-Str.",49.959225,8.261833
+221,45042,"Hechtsheim, SB",49.95931,8.273915
+222,77537,"Hechtsheim, SB",49.959282,8.273592
+223,317564,"Hechtsheim, Werners Backstube",49.95857,8.25806
+224,54661,"Hechtsheim, Werners Backstube",49.95882,8.257296
+225,39483,"Hechtsheim, Wilh.-Maybach-Str.",49.962425,8.255985
+226,153082,"Hechtsheim,Galileo-Galilei-St.",49.962357,8.258751
+227,193019,Landtag,50.006294,8.27149
+228,353427,"Laubenheim, Am Bornberg",49.965122,8.310198
+229,360441,"Laubenheim, Am Leitgraben",49.96135,8.316693
+230,141,"Laubenheim, An der Klosterheck",49.953316,8.309982
+231,122517,"Laubenheim, Bahnhof",49.960957,8.312336
+232,214442,"Laubenheim, Bahnhof",49.961044,8.31327
+233,229009,"Laubenheim, Bahnhof",49.961193,8.31168
+234,372134,"Laubenheim, Bahnhof",49.96025,8.313171
+235,418754,"Laubenheim, Bahnhof",49.96106,8.313279
+236,341291,"Laubenheim, E.-Koch-Höhenweg",49.96777,8.307458
+237,277134,"Laubenheim, Ernst-Reuter-Str.",49.96325,8.31901
+238,67788,"Laubenheim, Ginsheimer Straße",49.965656,8.320106
+239,85209,"Laubenheim, Hans-Zöller-Straße",49.956165,8.309884
+240,88303,"Laubenheim, Hofgut Laub. Höhe",49.965107,8.301116
+241,336677,"Laubenheim, Ludwig-Marx-Straße",49.958237,8.312992
+242,218392,"Laubenheim, Marienhof",49.960403,8.309812
+243,410064,"Laubenheim, Marktplatz",49.961597,8.310656
+244,137026,"Laubenheim, Neuweg",49.961124,8.323969
+245,322107,"Laubenheim, Oppenheimer Straße",49.96495,8.314159
+246,111955,"Laubenheim, Riedweg",49.96007,8.315372
+247,72961,"Laubenheim, Rüsselsheimer Alle",49.964123,8.325532
+248,242805,"Laubenheim, Schubertstraße",49.96139,8.319397
+249,354557,"Laubenheim, Weisenauer Brücke",49.9671,8.314159
+250,118740,"Lerchenberg, Hebbelstraße",49.957264,8.190102
+251,151123,"Lerchenberg, Hebbelstraße",49.956554,8.188871
+252,327494,"Lerchenberg, Hebbelstraße",49.957455,8.189123
+253,119098,"Lerchenberg, Hindemithstr.",49.95882,8.198205
+254,190194,"Lerchenberg, Hindemithstr.",49.958397,8.197235
+255,217646,"Lerchenberg, Hindemithstr.",49.958748,8.198636
+256,375738,"Lerchenberg, Hindemithstr.",49.958374,8.197307
+257,425926,"Lerchenberg, Lortzingstraße",49.95863,8.201771
+258,51565,"Lerchenberg, Lortzingstraße",49.958496,8.201717
+259,130110,"Lerchenberg, Medienberg",49.961308,8.210144
+260,195597,"Lerchenberg, Medienberg",49.961506,8.210727
+261,237863,"Lerchenberg, Menzelstraße",49.96411,8.187407
+262,141942,"Lerchenberg, Schott Forschungs",49.960644,8.211284
+263,285490,"Lerchenberg, ZDF",49.960155,8.202858
+264,381399,"Lerchenberg, ZDF",49.96019,8.202804
+265,367202,Mainz Hbf,50.001118,8.25872
+266,279305,Mainz central train station (exit West),50.000435,8.258504
+267,245880,"Mainz, Agentur für Arbeit",49.997303,8.255526
+268,390149,"Mainz, Agentur für Arbeit",49.99729,8.255455
+269,279262,"Mainz, Altstadt/Holzhof",49.995453,8.275496
+270,186881,"Mainz, Am Gautor",49.993324,8.266728
+271,34002,"Mainz, Am Gautor",49.993336,8.266594
+272,417351,"Mainz, Am Gautor",49.993244,8.266567
+273,62911,"Mainz, Am Gautor",49.993263,8.266468
+274,147271,"Mainz, An der Philippsschanze",49.98982,8.26627
+275,412866,"Mainz, An der Philippsschanze",49.989803,8.266225
+276,425773,"Mainz, An der Philippsschanze",49.98983,8.266136
+277,450623,"Mainz, An der Philippsschanze",49.98919,8.267187
+278,80074,"Mainz, An der Philippsschanze",49.98988,8.264402
+279,322520,"Mainz, Baentschstraße",50.002605,8.25656
+280,206311,"Mainz, Bauhofstraße/LBBW",50.004177,8.268732
+281,104572,"Mainz, Berliner Straße",49.98108,8.269082
+282,194603,"Mainz, Berliner Straße",49.981018,8.26901
+283,205766,"Mainz, Berliner Straße",49.981018,8.269181
+284,28516,"Mainz, Berliner Straße",49.980774,8.268956
+285,228600,"Mainz, Bismarckplatz",50.01223,8.248798
+286,240340,"Mainz, Bismarckplatz",50.01223,8.248879
+287,272033,"Mainz, Bismarckplatz",50.012943,8.249023
+288,31148,"Mainz, Bismarckplatz",50.01295,8.248951
+289,54384,"Mainz, Bodelschwinghstraße",49.984657,8.279664
+290,16355,"Mainz, Botanischer Garten",49.991657,8.245771
+291,113196,"Mainz, Brückenplatz",50.00317,8.274696
+292,220994,"Mainz, Brückenplatz",50.002945,8.274831
+293,344880,"Mainz, Brückenplatz",50.00318,8.275137
+294,47515,"Mainz, Brückenplatz",50.00308,8.274301
+295,94106,"Mainz, Brückenplatz",50.00308,8.27431
+296,178396,"Mainz, Eisgrubweg",49.994785,8.273897
+297,143067,"Mainz, Feldbergpl./M. Stadtw.",50.01063,8.264447
+298,398994,"Mainz, Feldbergpl./M. Stadtw.",50.01142,8.262758
+299,270586,"Mainz, Fichteplatz",49.99185,8.26504
+300,118170,"Mainz, Fischtor",49.999165,8.277077
+301,214658,"Mainz, Fr.-v.-Pfeiffer-Weg",49.9945,8.235961
+302,357405,"Mainz, Fr.-v.-Pfeiffer-Weg",49.994312,8.236177
+303,436958,"Mainz, Fr.-v.-Pfeiffer-Weg",49.99433,8.23641
+304,170924,"Mainz, Fritz-Kohl-Straße",50.004234,8.253874
+305,121872,"Mainz, Goetheplatz",50.011154,8.2547
+306,99234,"Mainz, Goetheplatz",50.011208,8.254466
+307,146815,"Mainz, Goethestraße",50.009388,8.251385
+308,445231,"Mainz, Goethestraße",50.009792,8.251044
+309,17381,"Mainz, Goetheunterführung",50.00745,8.247828
+310,75830,"Mainz, Gonsenheim",49.99855,8.213997
+311,115507,"Mainz, Hauptbahnhof",50.00093,8.260063
+312,143279,"Mainz, Hauptbahnhof",50.00199,8.259111
+313,16774,"Mainz, Hauptbahnhof",50.001358,8.259883
+314,203599,"Mainz, Hauptbahnhof",50.001976,8.259219
+315,232380,"Mainz, Hauptbahnhof",50.002357,8.259731
+316,263165,"Mainz, Hauptbahnhof",50.001415,8.260458
+317,289982,"Mainz, Hauptbahnhof",50.00183,8.259766
+318,297111,"Mainz, Hauptbahnhof",50.00167,8.259811
+319,311604,"Mainz, Hauptbahnhof",50.001842,8.259892
+320,324967,"Mainz, Hauptbahnhof",50.001335,8.260081
+321,346989,"Mainz, Hauptbahnhof",50.001648,8.258554
+322,349415,"Mainz, Hauptbahnhof",50.001698,8.259964
+323,354996,"Mainz, Hauptbahnhof",50.001236,8.260018
+324,453764,"Mainz, Hauptbahnhof",50.000935,8.259973
+325,93551,"Mainz, Hauptbahnhof",50.001305,8.259847
+326,179847,"Mainz, Hauptfriedhof/Blindenz.",49.995243,8.252418
+327,318233,"Mainz, Hauptfriedhof/Blindenz.",49.99518,8.252355
+328,208618,"Mainz, Hbf West/Taubertsbergb.",49.99951,8.25859
+329,254838,"Mainz, Hbf West/Taubertsbergb.",49.99976,8.258626
+330,404576,"Mainz, Hbf West/Taubertsbergb.",49.999546,8.258518
+331,25823,"Mainz, Hechtsheimer Straße",49.987988,8.278523
+332,28893,"Mainz, Hechtsheimer Straße",49.987705,8.27917
+333,301834,"Mainz, Hechtsheimer Straße",49.98793,8.278847
+334,369741,"Mainz, Hechtsheimer Straße",49.988243,8.280158
+335,64961,"Mainz, Hechtsheimer Straße",49.98821,8.279224
+336,138846,"Mainz, Hindenburgplatz",50.005657,8.264492
+337,338330,"Mainz, Hindenburgplatz",50.00618,8.264393
+338,380227,"Mainz, Hindenburgplatz",50.005955,8.264339
+339,414875,"Mainz, Hindenburgplatz",50.005394,8.264932
+340,142357,"Mainz, Holzturm/Malakoff-Passage",49.996674,8.278658
+341,151366,"Mainz, Höfchen / Listmann",50.00059,8.272253
+342,179098,"Mainz, Höfchen / Listmann",50.000614,8.27219
+343,195331,"Mainz, Höfchen / Listmann",49.999302,8.272163
+344,412731,"Mainz, Höfchen / Listmann",49.999264,8.272226
+345,193664,"Mainz, Industriehafen",50.023975,8.234605
+346,46407,"Mainz, Ingelheimer Aue",50.028603,8.232646
+347,401830,"Mainz, Jägerstraße",49.98766,8.272603
+348,112598,"Mainz, Kaisertor/Stadtbib.",50.008812,8.269271
+349,309144,"Mainz, Kaisertor/Stadtbib.",50.008736,8.267726
+350,343887,"Mainz, Kaisertor/Stadtbib.",50.009384,8.26795
+351,249246,"Mainz, Kisselberg/Coface Deut.",49.992004,8.223034
+352,282478,"Mainz, Kisselberg/Coface Deut.",49.992493,8.226313
+353,360989,"Mainz, Kisselberg/Coface Deut.",49.99211,8.225631
+354,89443,"Mainz, Kisselberg/Coface Deut.",49.99212,8.225469
+355,318847,"Mainz, Kurfürstenstraße",50.007374,8.261527
+356,114621,"Mainz, Kurmainzk./Akad. d. W.",49.97745,8.270106
+357,283924,"Mainz, Kurmainzk./Akad. d. W.",49.977345,8.269819
+358,291859,"Mainz, Kurmainzk./Akad. d. W.",49.9768,8.270043
+359,292217,"Mainz, Kurmainzk./Akad. d. W.",49.976334,8.271912
+360,425079,"Mainz, Kurmainzk./Akad. d. W.",49.976753,8.270007
+361,439031,"Mainz, Kurmainzk./Akad. d. W.",49.975605,8.270043
+362,225248,"Mainz, Landtag",50.007195,8.271157
+363,230183,"Mainz, Landtag",50.006275,8.271265
+364,279983,"Mainz, Landtag",50.00559,8.272055
+365,296205,"Mainz, Landwehrweg",49.988583,8.259704
+366,184910,"Mainz, Lessingstraße",50.00596,8.255302
+367,260297,"Mainz, Lessingstraße",50.00626,8.255185
+368,291924,"Mainz, M.-L.-Str./Antenne",49.98219,8.27997
+369,241324,"Mainz, Mainstr/Bewegungszentr.",50.01366,8.257575
+370,326216,"Mainz, Mainstr/Bewegungszentr.",50.013233,8.259245
+371,45652,"Mainz, Mainstr/Bewegungszentr.",50.013603,8.258527
+372,102537,"Mainz, Marienborn",49.96156,8.222774
+373,231934,"Mainz, Marienborn",49.960392,8.222639
+374,324291,"Mainz, Marienborn",49.96163,8.22272
+375,222332,"Mainz, Mombach Bahnhof",50.022774,8.229116
+376,199204,"Mainz, Mombacher Tor",50.00987,8.244702
+377,205974,"Mainz, Münsterplatz",50.000526,8.26318
+378,241083,"Mainz, Münsterplatz",50.000175,8.263099
+379,356085,"Mainz, Münsterplatz",50.00032,8.263566
+380,387658,"Mainz, Münsterplatz",50.000175,8.263117
+381,123265,"Mainz, Neubrunnenplatz/Römerp.",50.002216,8.266378
+382,291490,"Mainz, Neubrunnenplatz/Römerp.",50.00179,8.265839
+383,124176,"Mainz, Neubrunnenstraße",50.003452,8.263036
+384,52438,"Mainz, NordbahnhofW. & Mertz",50.01987,8.245968
+385,322096,"Mainz, Obere Zahlbacher Straße",49.990623,8.262704
+386,48692,"Mainz, Obere Zahlbacher Straße",49.99159,8.262434
+387,135631,"Mainz, Pariser Tor",49.986153,8.266225
+388,154573,"Mainz, Pariser Tor",49.986828,8.266216
+389,271245,"Mainz, Pariser Tor",49.986042,8.266261
+390,36544,"Mainz, Pariser Tor",49.985905,8.265085
+391,419390,"Mainz, Pariser Tor",49.985954,8.266216
+392,439787,"Mainz, Pariser Tor",49.98655,8.266459
+393,80448,"Mainz, Pariser Tor",49.98647,8.266387
+394,182342,"Mainz, Pfaffengasse",49.997017,8.27104
+395,106890,"Mainz, Rheingoldhalle/Rathaus",50.00137,8.275568
+396,323142,"Mainz, Rheingoldhalle/Rathaus",50.0011,8.275748
+397,36655,"Mainz, Rheingoldhalle/Rathaus",50.001324,8.275173
+398,114615,"Mainz, Ritterstraße",49.99027,8.278784
+399,266423,"Mainz, Rosengarten",49.988674,8.284892
+400,278317,"Mainz, Römersteine/Hildegardi",49.992027,8.251709
+401,7682,"Mainz, Römersteine/Hildegardi",49.991974,8.251682
+402,419152,"Mainz, Römisches Theater",49.99388,8.278496
+403,112816,"Mainz, Schillerplatz",49.99875,8.266935
+404,189531,"Mainz, Schillerplatz",49.99874,8.266827
+405,155380,"Mainz, Schott AG",50.015175,8.243543
+406,319862,"Mainz, Schott AG",50.015293,8.243552
+407,395566,"Mainz, Schott Ceran-Center",50.0224,8.239285
+408,79169,"Mainz, Schusterstraße",50.001842,8.271193
+409,319996,"Mainz, Stadtpark",49.992905,8.282314
+410,436422,"Mainz, Stadtpark",49.99332,8.282018
+411,219143,"Mainz, Straßenbahnamt",50.016483,8.253011
+412,99654,"Mainz, Synagogenplatz",50.008465,8.259183
+413,181170,"Mainz, Sömmerringstraße",50.011948,8.256613
+414,390453,"Mainz, Trajanstraße",49.99596,8.261374
+415,158335,"Mainz, Universität",49.996277,8.246031
+416,207728,"Mainz, Universität",49.99774,8.247073
+417,253979,"Mainz, Universität",49.996387,8.245807
+418,260225,"Mainz, Universität",49.996304,8.245834
+419,307659,"Mainz, Universität",49.99774,8.247163
+420,34644,"Mainz, Universität",49.996044,8.247082
+421,417247,"Mainz, Universität",49.997425,8.249184
+422,444405,"Mainz, Universität",49.996044,8.247163
+423,85068,"Mainz, Universität",49.996944,8.246094
+424,150263,"Mainz, Universitätsmedizin",49.993015,8.259901
+425,407414,"Mainz, Universitätsmedizin",49.993927,8.260853
+426,298018,"Mainz, Universitätsmedizin Süd",49.99033,8.258239
+427,148731,"Mainz, Vincenz-Krankenhaus",49.98911,8.268705
+428,262035,"Mainz, Vincenz-Krankenhaus",49.988377,8.270115
+429,397951,"Mainz, Vincenz-Krankenhaus",49.988388,8.27007
+430,426394,"Mainz, Vincenz-Krankenhaus",49.98913,8.268723
+431,363630,"Mainz, Volkspark",49.986668,8.288207
+432,365341,"Mainz, Wallstraße",50.002415,8.254889
+433,127107,"Mainz, Zahlbach",49.98686,8.252418
+434,183817,"Mainz, Zahlbach",49.986843,8.252355
+435,173772,"Mainz, Zitadellenw./Bf. Röm. T",49.992634,8.279089
+436,89763,"Mainz, Zollhafen/Inge-Reitz-Straße",50.018944,8.254134
+437,47461,Mainz-Gonsenheim,49.997757,8.214478
+438,404965,"Mainz-Oberstadt, Gymnasium",49.98075,8.280212
+439,282935,"Marienborn (Mainz), VRM",49.959846,8.210772
+440,386395,"Marienborn (Mainz), VRM",49.959934,8.211051
+441,141746,"Marienborn (Mz), Wiesenstr.",49.962753,8.226825
+442,407481,"Marienborn (Mz), Wiesenstr.",49.962765,8.226987
+443,3725,"Marienborn, Am Sonnigen Hang",49.963123,8.232305
+444,179892,"Marienborn, Bahnhof Ersatz",49.96176,8.223304
+445,81072,"Marienborn, Bahnhof Ersatz",49.9617,8.223331
+446,264595,"Marienborn, Im Borner Grund",49.963264,8.230311
+447,337838,"Marienborn, Im Borner Grund",49.964367,8.230185
+448,63095,"Marienborn, Im Borner Grund",49.964348,8.230095
+449,433632,"Marienborn, Kard.-v.-Galen-Str",49.96026,8.224588
+450,186173,"Marienborn, Pfarrer-Dorn-Str.",49.962086,8.229107
+451,59073,"Marienborn, Pfarrer-Dorn-Str.",49.96088,8.229359
+452,408580,"Mombach, Abzw. Waldfriedhof",50.026066,8.204924
+453,402790,"Mombach, Alte Waggonfabrik",50.017708,8.235737
+454,258037,"Mombach, Am Lemmchen",50.020485,8.215246
+455,226465,"Mombach, Am Polygon",50.015133,8.213072
+456,119692,"Mombach, Am Schwermer",50.020916,8.219297
+457,145223,"Mombach, Am Schwermer",50.020985,8.220277
+458,176636,"Mombach, Am Schwermer",50.020386,8.220762
+459,455382,"Mombach, Am Schwermer",50.020756,8.220726
+460,267585,"Mombach, An den Dünen",50.017517,8.229754
+461,450031,"Mombach, An den Dünen",50.01753,8.228999
+462,33412,"Mombach, An der Hasenquelle",50.021557,8.211195
+463,372633,"Mombach, Auf der Langen Lein",50.016056,8.223843
+464,412501,"Mombach, Auf der Langen Lein",50.01644,8.225038
+465,65031,"Mombach, Eintrachthalle",50.019295,8.232566
+466,164517,"Mombach, I.d.Dalheimer Wiese",50.02656,8.220268
+467,394241,"Mombach, I.d.Dalheimer Wiese",50.026943,8.220277
+468,303970,"Mombach, Industriestraße",50.02378,8.234326
+469,126651,"Mombach, Karlsstraße",50.023403,8.220807
+470,407746,"Mombach, Karlsstraße",50.023415,8.220699
+471,455179,"Mombach, Obere Kreuzstraße",50.011726,8.217285
+472,182910,"Mombach, Ortsverwaltung",50.022556,8.224606
+473,252617,"Mombach, Ortsverwaltung",50.022537,8.223933
+474,68616,"Mombach, Quellwiese",50.0257,8.22855
+475,94017,"Mombach, Real-Markt",50.025963,8.22829
+476,345796,"Mombach, Sauerwiese",50.027473,8.223214
+477,60941,"Mombach, Tierheim Mainz",50.018887,8.241863
+478,14600,"Mombach, Turmstraße",50.01425,8.234156
+479,195736,"Mombach, Turmstraße",50.013298,8.232098
+480,317638,"Mombach, Turmstraße",50.01474,8.233715
+481,329505,"Mombach, Turmstraße",50.014256,8.234111
+482,449103,"Mombach, Turmstraße",50.01481,8.233697
+483,385095,"Mombach, Waldfriedhof",50.022144,8.204026
+484,282825,"Mombach, Westring",50.016323,8.217725
+485,37097,"Mombach, Westring",50.015583,8.21919
+486,396398,"Mombach, Westring",50.01642,8.217501
+487,409476,"Mombach, Westring",50.015663,8.219109
+488,16188,"Mombach, Zwerchallee",50.01627,8.239249
+489,379419,"Mombach, Zwerchallee",50.0163,8.238899
+490,384551,"Weisenau, Am Viktorstift",49.984314,8.291845
+491,371683,"Weisenau, Bauhaus/Am Großberg",49.97191,8.285629
+492,138904,"Weisenau, Bleichstraße",49.97729,8.300325
+493,164840,"Weisenau, Bleichstraße",49.979256,8.29967
+494,357596,"Weisenau, Chana-Kahn-Straße",49.972157,8.288773
+495,402487,"Weisenau, Favorite-Parkhotel",49.990524,8.289896
+496,182442,"Weisenau, Friedhof",49.980404,8.295304
+497,217308,"Weisenau, Friedhof",49.9819,8.295501
+498,456135,"Weisenau, Friedhof",49.980434,8.295358
+499,77751,"Weisenau, Friedhof",49.981705,8.295879
+500,110323,"Weisenau, Friedrich-Ebert-Str",49.97781,8.294334
+501,249617,"Weisenau, HeiligkreuzwegLöhr",49.97618,8.280877
+502,271787,"Weisenau, Hohlstraße",49.98322,8.298825
+503,315544,"Weisenau, Laubenheimer Straße",49.97574,8.296265
+504,191655,"Weisenau, Paul-Gerhardt-Weg",49.978123,8.302445
+505,308311,"Weisenau, Schillerschule",49.980286,8.298268
+506,456387,"Weisenau, Synagoge",49.98519,8.300406
+507,182114,"Weisenau, W.-Th.-Römheld-Str.",49.9785,8.29013
+508,377223,"Weisenau, Weberstraße",49.97583,8.289537
+509,140934,"Weisenau, Weisenauer Weg",49.970848,8.281623
+510,438673,"Weisenau, Weisenauer Weg",49.971474,8.281551
+511,98023,"Weisenau, Weisenauer Weg",49.971172,8.282314
+512,72757,"Weisenau, Wormser Straße",49.983257,8.304341
+513,166141,"Weisenau, Zur Alten Portland",49.97637,8.312605
+514,359447,"Weisenau, Zur Alten Portland",49.97708,8.312237

@@ -1,0 +1,1265 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,27261,Bonn Am Nordpark,50.74504,7.084734
+1,420299,Bonn Am Nordpark,50.74555,7.085516
+2,55698,Bonn Am Nordpark,50.745872,7.085138
+3,74651,Bonn Am Nordpark,50.745163,7.08539
+4,351004,Bonn An Den Markthallen,50.73987,7.085228
+5,270828,Bonn An Der Esche,50.743538,7.100428
+6,281418,Bonn An Der Esche,50.743195,7.10041
+7,140855,Bonn Arndtstr.,50.72491,7.107884
+8,64596,Bonn Arndtstr.,50.724422,7.108432
+9,251358,Bonn Auerberg Allensteiner Str.,50.757565,7.065438
+10,266409,Bonn Auerberg Allensteiner Str.,50.757763,7.064935
+11,208708,Bonn Auerberg An Der Josefshöhe,50.753307,7.081267
+12,40555,Bonn Auerberg An Der Josefshöhe,50.753777,7.079326
+13,422761,Bonn Auerberg An Der Josefshöhe,50.752613,7.080422
+14,423872,Bonn Auerberg An Der Josefshöhe,50.753414,7.081536
+15,6928,Bonn Auerberg An Der Josefshöhe,50.75334,7.081518
+16,148410,Bonn Auerberg Auerberger Mitte,50.755238,7.076739
+17,165672,Bonn Auerberg Auerberger Mitte,50.755352,7.076784
+18,373474,Bonn Auerberg Auerberger Mitte,50.75536,7.076712
+19,428331,Bonn Auerberg Auerberger Mitte,50.755093,7.076865
+20,213775,Bonn Auerberg Bernhardkirche,50.759007,7.068843
+21,235731,Bonn Auerberg Bernhardkirche,50.75933,7.068771
+22,151691,Bonn Auerberg Friedrich-Wöhler-Str.,50.748955,7.072787
+23,250806,Bonn Auerberg Friedrich-Wöhler-Str.,50.74912,7.071736
+24,330265,Bonn Auerberg Friedrich-Wöhler-Str.,50.74845,7.071655
+25,153838,Bonn Auerberg Georg-Von-Boeselager-Str.,50.750973,7.069544
+26,411046,Bonn Auerberg Georg-Von-Boeselager-Str.,50.751244,7.069418
+27,133426,Bonn Auerberg Hedwigschule,50.75121,7.077611
+28,304142,Bonn Auerberg Hedwigschule,50.75137,7.078123
+29,106332,Bonn Auerberg Insterburger Str.,50.75564,7.068852
+30,238876,Bonn Auerberg Insterburger Str.,50.75623,7.068879
+31,304665,Bonn Auerberg Insterburger Str.,50.756245,7.069112
+32,356777,Bonn Auerberg Insterburger Str.,50.75539,7.068987
+33,185341,Bonn Auerberg Josephinum,50.750225,7.079416
+34,221544,Bonn Auerberg Josephinum,50.749935,7.078491
+35,455044,Bonn Auerberg Josephinum,50.74959,7.078904
+36,119770,Bonn Auerberg Kopenhagener Str.,50.757484,7.071619
+37,171036,Bonn Auerberg Kopenhagener Str.,50.757,7.072643
+38,204725,Bonn Auerberg Kopenhagener Str.,50.757435,7.070685
+39,28544,Bonn Auerberg Kopenhagener Str.,50.75744,7.07152
+40,289195,Bonn Auerberg Kopenhagener Str.,50.75794,7.071403
+41,46315,Bonn Auerberg Kopenhagener Str.,50.757416,7.070541
+42,53239,Bonn Auerberg Kopenhagener Str.,50.758022,7.071286
+43,66084,Bonn Auerberg Kopenhagener Str.,50.75701,7.072643
+44,119886,Bonn Auerberg Nordfriedhof,50.754192,7.071241
+45,181334,Bonn Auerberg Nordfriedhof,50.75297,7.072113
+46,228772,Bonn Auerberg Nordfriedhof,50.753677,7.071897
+47,433891,Bonn Auerberg Nordfriedhof,50.75288,7.072194
+48,140327,Bonn Auerberg Tilsiter Str.,50.759308,7.073191
+49,90736,Bonn Auerberg Tilsiter Str.,50.759212,7.07293
+50,263318,Bonn Augustinum,50.748238,7.098586
+51,304359,Bonn Augustinum,50.748283,7.098712
+52,64621,Bonn Augustusring,50.746723,7.096242
+53,332507,Bonn Bachstr.,50.731876,7.090412
+54,104306,Bonn Bad Godesberg Aloisiuskolleg,50.679577,7.150662
+55,125926,Bonn Bad Godesberg Aloisiuskolleg,50.678097,7.150365
+56,401965,Bonn Bad Godesberg Aloisiuskolleg,50.679604,7.150688
+57,96755,Bonn Bad Godesberg Am Büchel,50.69683,7.164837
+58,348897,Bonn Bad Godesberg Am Kurpark,50.68331,7.155665
+59,69028,Bonn Bad Godesberg Am Kurpark,50.683163,7.155261
+60,136008,Bonn Bad Godesberg Bf,50.68422,7.158082
+61,386930,Bonn Bad Godesberg Bf,50.68448,7.157929
+62,117779,Bonn Bad Godesberg Bf / Löbestr.,50.68368,7.158387
+63,43246,Bonn Bad Godesberg Bf / Löbestr.,50.68356,7.157947
+64,102581,Bonn Bad Godesberg Bf / Rheinallee,50.68478,7.159267
+65,164335,Bonn Bad Godesberg Bf / Rheinallee,50.68541,7.157947
+66,217446,Bonn Bad Godesberg Bf / Rheinallee,50.685387,7.158414
+67,316152,Bonn Bad Godesberg Bf / Rheinallee,50.685093,7.158136
+68,448508,Bonn Bad Godesberg Bf / Rheinallee,50.685093,7.158153
+69,179548,Bonn Bad Godesberg Bonner Str.,50.687897,7.151793
+70,193322,Bonn Bad Godesberg Bonner Str.,50.68748,7.152045
+71,163299,Bonn Bad Godesberg Brunnenallee,50.681927,7.152674
+72,230046,Bonn Bad Godesberg Brunnenallee,50.682064,7.151919
+73,337501,Bonn Bad Godesberg Denglerstr.,50.69222,7.164289
+74,72855,Bonn Bad Godesberg Denglerstr.,50.692093,7.164666
+75,346768,Bonn Bad Godesberg Deutschherrenstr.,50.67628,7.159124
+76,370030,Bonn Bad Godesberg Deutschherrenstr.,50.676296,7.159213
+77,135765,Bonn Bad Godesberg Elsässer Str.,50.689877,7.145236
+78,8106,Bonn Bad Godesberg Elsässer Str.,50.690025,7.145469
+79,192871,Bonn Bad Godesberg Erlöserkirche,50.684933,7.163373
+80,76134,Bonn Bad Godesberg Erlöserkirche,50.68498,7.164352
+81,24730,Bonn Bad Godesberg Friedrichallee,50.682774,7.161666
+82,67716,Bonn Bad Godesberg Friedrichallee,50.682774,7.161666
+83,81824,Bonn Bad Godesberg Fähre,50.691456,7.171134
+84,92544,Bonn Bad Godesberg Fähre,50.691284,7.171215
+85,103932,Bonn Bad Godesberg Herz-Jesu-Kirche,50.688946,7.159438
+86,113617,Bonn Bad Godesberg Herz-Jesu-Kirche,50.689114,7.159537
+87,114225,Bonn Bad Godesberg Hindenburgallee,50.69639,7.14582
+88,349143,Bonn Bad Godesberg Hindenburgallee,50.69603,7.147553
+89,76043,Bonn Bad Godesberg Hindenburgallee,50.696434,7.146116
+90,225439,Bonn Bad Godesberg Hohenzollernstr.,50.69303,7.152153
+91,186390,Bonn Bad Godesberg Koblenzer Str.,50.684578,7.154659
+92,394196,Bonn Bad Godesberg Koblenzer Str.,50.684578,7.154704
+93,29923,Bonn Bad Godesberg Kronprinzenstr.,50.687332,7.162483
+94,373667,Bonn Bad Godesberg Kronprinzenstr.,50.687054,7.161765
+95,222868,Bonn Bad Godesberg Königsplatz,50.687016,7.15854
+96,85508,Bonn Bad Godesberg Löbestr.,50.682617,7.15757
+97,119767,Bonn Bad Godesberg Marienforst,50.674152,7.139307
+98,157779,Bonn Bad Godesberg Marienforst,50.67435,7.139819
+99,240767,Bonn Bad Godesberg Marienforster Steinweg,50.672314,7.144553
+100,384866,Bonn Bad Godesberg Marienforster Steinweg,50.672234,7.144436
+101,331910,Bonn Bad Godesberg Moltkestr.,50.68561,7.156213
+102,172429,Bonn Bad Godesberg Otto-Kühne-Schule,50.689075,7.166544
+103,403379,Bonn Bad Godesberg Otto-Kühne-Schule,50.68919,7.166732
+104,114481,Bonn Bad Godesberg Panoramaplatz,50.689697,7.168286
+105,372719,Bonn Bad Godesberg Panoramaplatz,50.68993,7.169158
+106,134976,Bonn Bad Godesberg Petersbergstr.,50.674625,7.146026
+107,231135,Bonn Bad Godesberg Petersbergstr.,50.674118,7.145676
+108,233236,Bonn Bad Godesberg Plittersdorf Mitte,50.69553,7.160804
+109,284198,Bonn Bad Godesberg Plittersdorf Mitte,50.694504,7.162025
+110,307697,Bonn Bad Godesberg Plittersdorf Mitte,50.695488,7.160534
+111,5164,Bonn Bad Godesberg Plittersdorf Mitte,50.69579,7.161109
+112,63697,Bonn Bad Godesberg Plittersdorfer Str.,50.68763,7.153922
+113,98726,Bonn Bad Godesberg Plittersdorfer Str.,50.688198,7.153249
+114,55581,Bonn Bad Godesberg Quellenstr.,50.68018,7.145981
+115,89757,Bonn Bad Godesberg Quellenstr.,50.68024,7.145882
+116,272828,Bonn Bad Godesberg Rheinufer,50.692547,7.170604
+117,37668,Bonn Bad Godesberg Rheinufer,50.692535,7.170595
+118,113638,Bonn Bad Godesberg Rigalsche Wiese,50.679523,7.156007
+119,422916,Bonn Bad Godesberg Rigalsche Wiese,50.678642,7.156626
+120,172517,Bonn Bad Godesberg Sonnenberg,50.66015,7.128231
+121,177042,Bonn Bad Godesberg Sonnenberg,50.660538,7.129165
+122,118261,Bonn Bad Godesberg Stadthalle,50.680054,7.158396
+123,121333,Bonn Bad Godesberg Stadthalle,50.68084,7.15871
+124,183672,Bonn Bad Godesberg Stadthalle,50.680283,7.158243
+125,296229,Bonn Bad Godesberg Stadthalle,50.68091,7.158827
+126,437854,Bonn Bad Godesberg Stadthalle,50.680714,7.158432
+127,317889,Bonn Bad Godesberg Steinhaus,50.698944,7.16578
+128,7323,Bonn Bad Godesberg Steinhaus,50.69847,7.166157
+129,92580,Bonn Bad Godesberg Steinstr.,50.69774,7.163489
+130,339555,Bonn Bad Godesberg Viktoriaplatz,50.692337,7.158261
+131,67399,Bonn Bad Godesberg Viktoriaplatz,50.692856,7.15757
+132,401200,Bonn Bad Godesberg Von-Groote-Platz/Bad Godesberg,50.684334,7.160076
+133,67847,Bonn Bad Godesberg Von-Groote-Platz/Bad Godesberg,50.684826,7.15907
+134,241719,Bonn Bad Godesberg Weststr.,50.690624,7.141472
+135,290691,Bonn Bad Godesberg Weststr.,50.690754,7.141184
+136,189960,Bonn Bad Godesberg Zietenstr.,50.694096,7.155809
+137,216781,Bonn Bad Godesberg Zietenstr.,50.694504,7.155593
+138,381761,Bonn Bad Godesberg Zietenstr.,50.69412,7.155773
+139,104135,Bonn Bataverweg,50.75362,7.093933
+140,229250,Bonn Bataverweg,50.75392,7.093601
+141,106146,Bonn Bechlinghoven,50.746822,7.158836
+142,110913,Bonn Bechlinghoven,50.74686,7.157498
+143,223413,Bonn Bechlinghoven Alte Schulstr.,50.749607,7.152234
+144,233434,Bonn Bechlinghoven Alte Schulstr.,50.749607,7.152225
+145,411257,Bonn Bechlinghoven Alte Schulstr.,50.749947,7.152296
+146,55244,Bonn Bechlinghoven Alte Schulstr.,50.749966,7.152314
+147,107012,Bonn Bechlinghoven Friedenstr.,50.747612,7.150527
+148,350944,Bonn Bechlinghoven Friedenstr.,50.74837,7.150787
+149,79789,Bonn Bechlinghoven Friedenstr.,50.747704,7.14944
+150,6411,Bonn Bechlinghoven Gesamtschule Beuel,50.75123,7.15059
+151,6573,Bonn Bechlinghoven Im Bonnet,50.749245,7.157111
+152,377870,Bonn Bechlinghoven Kautex-Werk,50.75134,7.160839
+153,41424,Bonn Bechlinghoven Kautex-Werk,50.75106,7.161468
+154,146236,Bonn Beethovenhalle Und Swb,50.740246,7.101793
+155,37992,Bonn Beethovenhalle Und Swb,50.74035,7.101506
+156,181040,Bonn Beethovenstr.,50.72914,7.094948
+157,72875,Bonn Beethovenstr.,50.72972,7.095002
+158,129987,Bonn Beringstr.,50.72681,7.09281
+159,95097,Bonn Beringstr.,50.72726,7.093376
+160,108764,Bonn Berta-Lungstras-Str.,50.742256,7.068241
+161,70149,Bonn Berta-Lungstras-Str.,50.742184,7.068026
+162,106550,Bonn Bertha-Von-Suttner-Pl./Beethovenhaus,50.737457,7.102233
+163,235555,Bonn Bertha-Von-Suttner-Pl./Beethovenhaus,50.73745,7.10306
+164,312961,Bonn Bertha-Von-Suttner-Pl./Beethovenhaus,50.737556,7.101506
+165,318864,Bonn Bertha-Von-Suttner-Pl./Beethovenhaus,50.737503,7.102611
+166,425277,Bonn Bertha-Von-Suttner-Pl./Beethovenhaus,50.7375,7.10173
+167,44015,Bonn Bertha-Von-Suttner-Pl./Beethovenhaus,50.73743,7.102341
+168,392271,Bonn Beuel Betriebshof Beuel,50.734535,7.129866
+169,62061,Bonn Beuel Betriebshof Beuel,50.73445,7.129857
+170,19707,Bonn Beuel Beueler Bahnhofsplatz,50.74091,7.125104
+171,305422,Bonn Beuel Beueler Bahnhofsplatz,50.740803,7.125176
+172,102051,Bonn Beuel Bf,50.73879,7.127036
+173,146099,Bonn Beuel Bf,50.73911,7.126973
+174,158770,Bonn Beuel Bf,50.738808,7.126928
+175,204466,Bonn Beuel Bf,50.738823,7.126928
+176,325724,Bonn Beuel Bf,50.73854,7.126802
+177,35604,Bonn Beuel Bf,50.738953,7.126703
+178,22953,Bonn Beuel Doktor-Weis-Platz,50.74032,7.124
+179,340258,Bonn Beuel Doktor-Weis-Platz,50.740353,7.123946
+180,104699,Bonn Beuel Eichendorffstr.,50.728134,7.127943
+181,208486,Bonn Beuel Eichendorffstr.,50.72803,7.128276
+182,246933,Bonn Beuel Ernst-Moritz-Arndt-Str.,50.72852,7.123191
+183,30023,Bonn Beuel Ernst-Moritz-Arndt-Str.,50.728485,7.123362
+184,226403,Bonn Beuel Gartenstr.,50.742916,7.133468
+185,24347,Bonn Beuel Gartenstr.,50.742905,7.133585
+186,316004,Bonn Beuel Gerhardstr.,50.74688,7.132758
+187,394588,Bonn Beuel Gerhardstr.,50.746914,7.132956
+188,130351,Bonn Beuel Goetheallee,50.73708,7.120622
+189,40219,Bonn Beuel Hallenbad,50.73756,7.123694
+190,49908,Bonn Beuel Hallenbad,50.737625,7.123568
+191,306982,Bonn Beuel Hermannstr./Konrad-Adenauer-Platz,50.737972,7.116561
+192,29151,Bonn Beuel Johannesstr.,50.733925,7.118771
+193,458365,Bonn Beuel Johannesstr.,50.73416,7.11861
+194,11651,Bonn Beuel Kardinal-Frings-Gymnasium,50.72642,7.126721
+195,412775,Bonn Beuel Kardinal-Frings-Gymnasium,50.72663,7.126362
+196,120678,Bonn Beuel Konrad-Adenauer-Platz,50.739433,7.118223
+197,188901,Bonn Beuel Konrad-Adenauer-Platz,50.73917,7.117999
+198,275501,Bonn Beuel Konrad-Adenauer-Platz,50.739056,7.118502
+199,279966,Bonn Beuel Konrad-Adenauer-Platz,50.738983,7.118268
+200,385754,Bonn Beuel Konrad-Adenauer-Platz,50.7392,7.118331
+201,403649,Bonn Beuel Konrad-Adenauer-Platz,50.739506,7.118017
+202,410382,Bonn Beuel Konrad-Adenauer-Platz,50.739742,7.118151
+203,61298,Bonn Beuel Konrad-Adenauer-Platz,50.73982,7.118574
+204,151715,Bonn Beuel Krankenhaus,50.73676,7.117639
+205,427705,Bonn Beuel Krankenhaus,50.736565,7.117109
+206,445789,Bonn Beuel Krankenhaus,50.736633,7.117621
+207,79266,Bonn Beuel Krankenhaus,50.736748,7.117639
+208,277749,Bonn Beuel Kreuzherrenstr.,50.72657,7.130791
+209,366016,Bonn Beuel Kreuzherrenstr.,50.72649,7.130773
+210,273208,Bonn Beuel Königswinterer Str.,50.73708,7.131033
+211,29451,Bonn Beuel Königswinterer Str.,50.737404,7.129866
+212,113006,Bonn Beuel Limpericher Str.,50.73449,7.125095
+213,56488,Bonn Beuel Limpericher Str.,50.73444,7.125015
+214,16879,Bonn Beuel Maria-Montessori-Allee,50.744995,7.140358
+215,372470,Bonn Beuel Maria-Montessori-Allee,50.745422,7.140573
+216,433162,Bonn Beuel Maria-Montessori-Allee,50.74551,7.140322
+217,404502,Bonn Beuel Nonnenpfad,50.745167,7.132174
+218,440199,Bonn Beuel Nonnenpfad,50.745476,7.132183
+219,257353,Bonn Beuel Obere Wilhelmstr.,50.73991,7.125158
+220,426411,Bonn Beuel Obere Wilhelmstr.,50.739956,7.125149
+221,5683,Bonn Beuel Pantheon Beuel,50.74096,7.131024
+222,9670,Bonn Beuel Pantheon Beuel,50.740944,7.131123
+223,361868,Bonn Beuel Pfaffenweg,50.739655,7.136208
+224,375991,Bonn Beuel Pfaffenweg,50.739845,7.13654
+225,159483,Bonn Beuel Rathaus,50.739243,7.12002
+226,30253,Bonn Beuel Rathaus,50.739506,7.120837
+227,305341,Bonn Beuel Rathaus,50.73947,7.120667
+228,35738,Bonn Beuel Rathaus,50.739285,7.120218
+229,398704,Bonn Beuel Rheindorfer Str.,50.743134,7.117208
+230,458055,Bonn Beuel Rheindorfer Str.,50.74336,7.117226
+231,390772,Bonn Beuel Rhenusallee,50.72483,7.135067
+232,64053,Bonn Beuel Rhenusallee,50.724586,7.135363
+233,15481,Bonn Beuel Richard-Scherer-Str.,50.74728,7.138444
+234,340381,Bonn Beuel Richard-Scherer-Str.,50.74743,7.137771
+235,211423,Bonn Beuel Rilkestr.,50.733376,7.12417
+236,266281,Bonn Beuel Rilkestr.,50.73342,7.123937
+237,203686,Bonn Beuel Ringstr.,50.731773,7.120802
+238,328276,Bonn Beuel Ringstr.,50.73197,7.119903
+239,47603,Bonn Beuel Ringstr.,50.731255,7.120406
+240,189975,Bonn Beuel Rudolf-Hahn-Str.,50.731403,7.124404
+241,325348,Bonn Beuel Rudolf-Hahn-Str.,50.73158,7.124044
+242,193533,Bonn Beuel Röhfeldstr.,50.742447,7.136306
+243,221059,Bonn Beuel Röhfeldstr.,50.7423,7.135228
+244,25368,Bonn Beuel Röhfeldstr. Ost,50.74243,7.139648
+245,66645,Bonn Beuel Röhfeldstr. Ost,50.742477,7.139406
+246,178949,Bonn Beuel Schevastesstr.,50.742813,7.135516
+247,391798,Bonn Beuel Schevastesstr.,50.743404,7.136738
+248,21318,Bonn Beuel Schillingsweg,50.747147,7.135723
+249,445494,Bonn Beuel Schillingsweg,50.74731,7.136037
+250,21547,Bonn Beuel Telekom Campus,50.722343,7.143637
+251,29359,Bonn Beuel Telekom Campus,50.72262,7.143286
+252,95498,Bonn Brüdergasse/Bertha-Von-Suttner-Platz,50.736595,7.104335
+253,1400,Bonn Brühler Str.,50.740307,7.069759
+254,377071,Bonn Brühler Str.,50.74032,7.069166
+255,200486,Bonn Brüser Berg Borsigallee,50.699665,7.057093
+256,243574,Bonn Brüser Berg Borsigallee,50.699677,7.057632
+257,296507,Bonn Brüser Berg Dachsweg,50.69507,7.032291
+258,408803,Bonn Brüser Berg Dachsweg,50.694977,7.032264
+259,393304,Bonn Brüser Berg Fahrenheitstr.,50.697144,7.058593
+260,6982,Bonn Brüser Berg Fahrenheitstr.,50.69713,7.058225
+261,40422,Bonn Brüser Berg Hallestr.,50.70131,7.060084
+262,436447,Bonn Brüser Berg Hallestr.,50.701015,7.059851
+263,189827,Bonn Brüser Berg Hardtberg Schulzentrum,50.703575,7.055323
+264,451474,Bonn Brüser Berg Hardtberg Schulzentrum,50.703915,7.055081
+265,146508,Bonn Brüser Berg Hardtbergbad,50.70675,7.04502
+266,66020,Bonn Brüser Berg Hardtbergbad,50.705776,7.046403
+267,458372,Bonn Brüser Berg Hardthöhe/Nordwache,50.70601,7.04723
+268,19336,Bonn Brüser Berg Hardthöhe/Südwache,50.695858,7.041364
+269,396787,Bonn Brüser Berg Hardthöhe/Südwache,50.695812,7.041283
+270,16968,Bonn Brüser Berg Heinkelstr.,50.694294,7.05253
+271,181507,Bonn Brüser Berg Heinkelstr.,50.694134,7.052557
+272,282490,Bonn Brüser Berg Marie-Curie-Str.,50.69536,7.056329
+273,375941,Bonn Brüser Berg Marie-Curie-Str.,50.69534,7.055934
+274,139944,Bonn Brüser Berg Reaumurstr.,50.69703,7.049026
+275,172483,Bonn Brüser Berg Reaumurstr.,50.697525,7.049772
+276,65158,Bonn Brüser Berg Reaumurstr.,50.69705,7.049026
+277,414904,Bonn Brüser Berg Riemannstr.,50.70024,7.053338
+278,69503,Bonn Brüser Berg Riemannstr.,50.700413,7.052934
+279,408098,Bonn Bundesrechnungshof/Auswärtiges Amt,50.725967,7.111333
+280,455541,Bonn Bundesrechnungshof/Auswärtiges Amt,50.72528,7.111773
+281,202060,Bonn Buschdorf,50.758728,7.046735
+282,215143,Bonn Buschdorf,50.758156,7.046466
+283,282219,Bonn Buschdorf,50.75762,7.046466
+284,359800,Bonn Buschdorf,50.758526,7.046511
+285,446428,Bonn Buschdorf,50.758205,7.046592
+286,200824,Bonn Buschdorf Dellweg,50.758366,7.053113
+287,227832,Bonn Buschdorf Dellweg,50.758377,7.053042
+288,240210,Bonn Buschdorf Egerstr.,50.763126,7.054739
+289,300981,Bonn Buschdorf Egerstr.,50.763206,7.054659
+290,325128,Bonn Buschdorf Egerstr.,50.763355,7.055593
+291,449515,Bonn Buschdorf Egerstr.,50.763786,7.055126
+292,289995,Bonn Buschdorf Friedlandstr.,50.76107,7.051604
+293,43719,Bonn Buschdorf Friedlandstr.,50.7609,7.051317
+294,138341,Bonn Buschdorf Georg-Elser-Weg,50.75671,7.05244
+295,455704,Bonn Buschdorf Georg-Elser-Weg,50.756477,7.052368
+296,291172,Bonn Buschdorf Gewerbepark Buschdorf,50.753902,7.0565
+297,305704,Bonn Buschdorf Gewerbepark Buschdorf,50.754143,7.056078
+298,302617,Bonn Buschdorf Hans-Herter-Str.,50.755733,7.059123
+299,408614,Bonn Buschdorf Hans-Herter-Str.,50.755787,7.059366
+300,117273,Bonn Buschdorf Hoogland,50.761192,7.057398
+301,224178,Bonn Buschdorf Hoogland,50.761166,7.057497
+302,108205,Bonn Buschdorf Im Großen Garten,50.760002,7.055449
+303,192504,Bonn Buschdorf Im Großen Garten,50.760036,7.05553
+304,114724,Bonn Buschdorf Lärchenstr.,50.760906,7.055027
+305,271024,Bonn Buschdorf Lärchenstr.,50.760746,7.055207
+306,10848,Bonn Buschdorf Peter-Klein-Str.,50.75477,7.054748
+307,86799,Bonn Buschdorf Peter-Klein-Str.,50.755314,7.053913
+308,160652,Bonn Chlodwigplatz,50.74344,7.090753
+309,294073,Bonn Chlodwigplatz,50.74317,7.091283
+310,365708,Bonn Chlodwigplatz,50.743168,7.091283
+311,454460,Bonn Chlodwigplatz,50.74344,7.090762
+312,321648,Bonn Colmantstr./Hbf,50.73161,7.096295
+313,380627,Bonn Dorotheenstr.,50.740047,7.090582
+314,380285,Bonn Dottendorf Droste-Hülshoff-Str.,50.702023,7.117675
+315,61159,Bonn Dottendorf Droste-Hülshoff-Str.,50.701576,7.118205
+316,113505,Bonn Dottendorf Hindenburgplatz,50.707226,7.109626
+317,247743,Bonn Dottendorf Hindenburgplatz,50.70714,7.109626
+318,25010,Bonn Dottendorf Hindenburgplatz,50.707306,7.109519
+319,327357,Bonn Dottendorf Hindenburgplatz,50.707024,7.10968
+320,204162,Bonn Dottendorf In Der Raste,50.708023,7.123434
+321,86979,Bonn Dottendorf In Der Raste,50.707848,7.123137
+322,179266,Bonn Dottendorf Quirinusplatz,50.70482,7.111711
+323,204458,Bonn Dottendorf Quirinusplatz,50.705254,7.111324
+324,325359,Bonn Dottendorf Quirinusplatz,50.70478,7.111675
+325,423715,Bonn Dottendorf Quirinusplatz,50.705116,7.111504
+326,116166,Bonn Dottendorf Servatiusstr.,50.704292,7.119912
+327,179110,Bonn Dottendorf Servatiusstr.,50.705105,7.11887
+328,258098,Bonn Dottendorf Servatiusstr.,50.70565,7.119804
+329,30011,Bonn Dottendorf Servatiusstr.,50.705257,7.117271
+330,154229,Bonn Dottendorf Stephanstr.,50.70418,7.114459
+331,37503,Bonn Dottendorf Stephanstr.,50.703564,7.115403
+332,270017,Bonn Dottendorf Südfriedhof,50.702763,7.122194
+333,357158,Bonn Dottendorf Südfriedhof,50.702988,7.122041
+334,206537,Bonn Dottendorf Wasserland,50.708218,7.11649
+335,381284,Bonn Dottendorf Wasserland,50.708626,7.116076
+336,26592,Bonn Dransdorf,50.737404,7.046987
+337,312292,Bonn Dransdorf,50.737404,7.046906
+338,39172,Bonn Dransdorf,50.737328,7.047086
+339,409896,Bonn Dransdorf,50.737724,7.048263
+340,92246,Bonn Dransdorf,50.73699,7.048047
+341,378151,Bonn Dransdorf An Der Dransdorfer Burg,50.735966,7.051604
+342,384390,Bonn Dransdorf An Der Dransdorfer Burg,50.735874,7.052071
+343,308047,Bonn Dransdorf Gerhart-Hauptmann-Str.,50.736065,7.060875
+344,87196,Bonn Dransdorf Gerhart-Hauptmann-Str.,50.735817,7.059833
+345,350570,Bonn Dransdorf Grootestr.,50.738983,7.047409
+346,438019,Bonn Dransdorf Grootestr.,50.73889,7.047418
+347,79183,Bonn Dransdorf Hans-Sachs-Str.,50.735706,7.058503
+348,79528,Bonn Dransdorf Hans-Sachs-Str.,50.73556,7.059204
+349,107121,Bonn Dransdorf Kirche,50.736004,7.049143
+350,74024,Bonn Dransdorf Kirche,50.735924,7.048918
+351,27224,Bonn Dransdorf Kleine Str.,50.741302,7.048245
+352,51197,Bonn Dransdorf Kleine Str.,50.741104,7.047795
+353,318873,Bonn Dransdorf Messdorfer Str.,50.73439,7.047589
+354,339821,Bonn Dransdorf Messdorfer Str.,50.734825,7.047562
+355,29484,Bonn Dransdorf Robert-Kirchhoff-Str.,50.73802,7.05694
+356,369072,Bonn Dransdorf Robert-Kirchhoff-Str.,50.738007,7.056401
+357,14984,Bonn Dransdorf Saime-Genc-Ring,50.741783,7.039684
+358,406426,Bonn Duisdorf Agentur Für Arbeit,50.712364,7.057488
+359,63902,Bonn Duisdorf Agentur Für Arbeit,50.712234,7.05791
+360,211860,Bonn Duisdorf Altenheim,50.710583,7.042585
+361,306474,Bonn Duisdorf Altenheim,50.71088,7.042675
+362,192000,Bonn Duisdorf Am Bruch,50.718597,7.048361
+363,47772,Bonn Duisdorf Am Bruch,50.718586,7.048254
+364,11931,Bonn Duisdorf Am Schickshof,50.7157,7.045478
+365,407728,Bonn Duisdorf Am Schickshof,50.714706,7.044804
+366,58469,Bonn Duisdorf Am Schickshof,50.715664,7.046717
+367,165279,Bonn Duisdorf Bahnübergang,50.715294,7.034509
+368,28782,Bonn Duisdorf Bahnübergang,50.715492,7.03353
+369,40563,Bonn Duisdorf Bahnübergang,50.71517,7.033827
+370,142174,Bonn Duisdorf Bf,50.716164,7.042055
+371,281399,Bonn Duisdorf Bf,50.716213,7.041741
+372,34567,Bonn Duisdorf Bf,50.71629,7.042316
+373,349848,Bonn Duisdorf Bf,50.71628,7.041696
+374,36741,Bonn Duisdorf Bf,50.71637,7.042316
+375,183787,Bonn Duisdorf Buntspechtweg,50.716927,7.048775
+376,96804,Bonn Duisdorf Buntspechtweg,50.716904,7.048855
+377,219217,Bonn Duisdorf Carl-Schurz-Str.,50.714405,7.058063
+378,310915,Bonn Duisdorf Carl-Schurz-Str.,50.714848,7.058692
+379,29756,Bonn Duisdorf Helmholtzstr. Süd,50.718494,7.055225
+380,386851,Bonn Duisdorf Helmholtzstr. Süd,50.718548,7.055449
+381,202870,Bonn Duisdorf Im Feldpütz,50.71766,7.062366
+382,2812,Bonn Duisdorf Im Feldpütz,50.71804,7.062887
+383,129988,Bonn Duisdorf Köslinstr.,50.714184,7.054093
+384,190106,Bonn Duisdorf Köslinstr.,50.71457,7.053715
+385,32732,Bonn Duisdorf Neuer Friedhof,50.718536,7.042774
+386,425144,Bonn Duisdorf Neuer Friedhof,50.718796,7.04263
+387,1073,Bonn Duisdorf Rathaus Hardtberg,50.716476,7.050167
+388,146260,Bonn Duisdorf Rathaus Hardtberg,50.71597,7.051658
+389,252044,Bonn Duisdorf Rathaus Hardtberg,50.71685,7.052188
+390,123753,Bonn Duisdorf Rene-Schickele-Str.,50.714825,7.038615
+391,147988,Bonn Duisdorf Rene-Schickele-Str.,50.714935,7.038803
+392,200185,Bonn Duisdorf Rochusstr./Bundesministerien,50.72007,7.058979
+393,276823,Bonn Duisdorf Rochusstr./Bundesministerien,50.719955,7.058566
+394,405466,Bonn Duisdorf Witterschlicker Str.,50.71395,7.044759
+395,343802,Bonn Eifelstr./Macke-Haus,50.737545,7.084114
+396,376253,Bonn Eifelstr./Macke-Haus,50.73745,7.084842
+397,177974,Bonn Ellerstr.,50.73809,7.080467
+398,301173,Bonn Ellerstr.,50.73816,7.080485
+399,103124,Bonn Endenich Alfred-Bucherer-Str.,50.725536,7.078141
+400,124364,Bonn Endenich Alfred-Bucherer-Str.,50.725433,7.078275
+401,202201,Bonn Endenich Am Dickobskreuz,50.737244,7.073379
+402,39802,Bonn Endenich Am Dickobskreuz,50.7367,7.072661
+403,407618,Bonn Endenich Am Dickobskreuz,50.736713,7.072643
+404,346780,Bonn Endenich Am Klostergarten,50.72133,7.07337
+405,94015,Bonn Endenich Am Klostergarten,50.72087,7.072607
+406,146390,Bonn Endenich Am Propsthof,50.732548,7.067226
+407,33739,Bonn Endenich Am Propsthof,50.732204,7.067864
+408,174742,Bonn Endenich Auf Dem Hügel,50.727783,7.072176
+409,185636,Bonn Endenich Auf Dem Hügel,50.72793,7.072571
+410,369,Bonn Endenich Auf Dem Hügel,50.728943,7.072975
+411,93591,Bonn Endenich Auf Dem Hügel,50.72876,7.073029
+412,169659,Bonn Endenich Biskuithalle,50.737465,7.070226
+413,67667,Bonn Endenich Biskuithalle,50.737392,7.069005
+414,150718,Bonn Endenich Brahmsstr.,50.726974,7.075733
+415,409557,Bonn Endenich Brahmsstr.,50.726833,7.075787
+416,168033,Bonn Endenich Erich-Hoffmann-Str.,50.72686,7.068726
+417,452621,Bonn Endenich Erich-Hoffmann-Str.,50.72628,7.066912
+418,383007,Bonn Endenich Euskirchener Str.,50.722572,7.06269
+419,447228,Bonn Endenich Euskirchener Str.,50.722435,7.062869
+420,172300,Bonn Endenich Frongasse,50.727463,7.074547
+421,335870,Bonn Endenich Gerhard-Domagk-Str.,50.734673,7.070828
+422,442856,Bonn Endenich Gerhard-Domagk-Str.,50.73518,7.071493
+423,180857,Bonn Endenich Immenburgpark,50.73043,7.07117
+424,266393,Bonn Endenich Immenburgpark,50.73064,7.070963
+425,128050,Bonn Endenich Immenburgstr.,50.734234,7.079838
+426,148454,Bonn Endenich Kollegienweg,50.720104,7.064378
+427,459170,Bonn Endenich Kollegienweg,50.720043,7.064091
+428,195771,Bonn Endenich Kolpingstr.,50.736668,7.064854
+429,24704,Bonn Endenich Kolpingstr.,50.736652,7.064783
+430,181027,Bonn Endenich Konradstr.,50.722687,7.077682
+431,49315,Bonn Endenich Konradstr.,50.722435,7.076524
+432,232052,Bonn Endenich Magdalenenplatz,50.72628,7.074305
+433,10325,Bonn Endenich Magdalenenstr.,50.72693,7.072319
+434,427769,Bonn Endenich Mva Bonn,50.732986,7.077404
+435,16517,Bonn Endenich Nord Bf,50.734924,7.061863
+436,186542,Bonn Endenich Nord Bf,50.734787,7.062016
+437,268936,Bonn Endenich Nord Bf,50.73539,7.060623
+438,117674,Bonn Endenich Pastoratsgasse,50.725147,7.069777
+439,127167,Bonn Endenich Pastoratsgasse,50.72576,7.070837
+440,377196,Bonn Endenich Rheinschule,50.7338,7.067334
+441,131211,Bonn Endenich Sebastianstr.,50.723846,7.079946
+442,236892,Bonn Endenich Sebastianstr.,50.723835,7.080045
+443,238195,Bonn Endenich Sebastianstr.,50.723152,7.079614
+444,179058,Bonn Endenich Verweyenstr.,50.733788,7.064477
+445,391088,Bonn Endenich Verweyenstr.,50.73374,7.064432
+446,327844,Bonn Endenich Von-Hymmen-Platz,50.723648,7.066382
+447,339581,Bonn Endenich Von-Hymmen-Platz,50.72336,7.065672
+448,197810,Bonn Endenich Wiesenweg,50.727173,7.081312
+449,23400,Bonn Endenich Wiesenweg,50.726883,7.080979
+450,122169,Bonn Frankenbad/Kunstverein,50.739555,7.088786
+451,266909,Bonn Frankenbad/Kunstverein,50.73837,7.089127
+452,423771,Bonn Frankenbad/Kunstverein,50.739273,7.087555
+453,351984,Bonn Friedensplatz,50.73656,7.097634
+454,4490,Bonn Friedensplatz,50.736076,7.09758
+455,55268,Bonn Friedensplatz,50.7364,7.097616
+456,62366,Bonn Friedensplatz,50.736237,7.097598
+457,195903,Bonn Friesdorf Am Weckhasen,50.70132,7.124709
+458,214900,Bonn Friesdorf Am Weckhasen,50.700832,7.125616
+459,294855,Bonn Friesdorf Annaberger Str.,50.699326,7.127593
+460,443031,Bonn Friesdorf Annaberger Str.,50.699547,7.127215
+461,116532,Bonn Friesdorf Bernkasteler Str.,50.69544,7.132255
+462,139680,Bonn Friesdorf Bernkasteler Str.,50.69558,7.132174
+463,251237,Bonn Friesdorf Heinemannstr.,50.70455,7.140232
+464,79369,Bonn Friesdorf Heinemannstr.,50.704742,7.140205
+465,137513,Bonn Friesdorf Hochkreuzallee,50.693417,7.135471
+466,455051,Bonn Friesdorf Hochkreuzallee,50.693947,7.134734
+467,83331,Bonn Friesdorf Im Bendel,50.691895,7.137726
+468,98379,Bonn Friesdorf Im Bendel,50.691994,7.137348
+469,271465,Bonn Friesdorf Joseph-Roth-Str.,50.696354,7.132983
+470,443977,Bonn Friesdorf Joseph-Roth-Str.,50.6964,7.13256
+471,123980,Bonn Friesdorf Klufterplatz,50.69752,7.126811
+472,328971,Bonn Friesdorf Klufterplatz,50.697445,7.126578
+473,268924,Bonn Friesdorf Max-Löbner-Str./Friesdorf,50.702003,7.136288
+474,280949,Bonn Friesdorf Max-Löbner-Str./Friesdorf,50.701584,7.13663
+475,24840,Bonn Friesdorf Schwalbengarten,50.69766,7.121646
+476,324848,Bonn Friesdorf Schwalbengarten,50.699028,7.121511
+477,459305,Bonn Friesdorf Turmhaus,50.69526,7.122966
+478,52080,Bonn Friesdorf Turmhaus,50.695393,7.12294
+479,158748,Bonn Friesdorf Zeller Str.,50.697384,7.129542
+480,86548,Bonn Friesdorf Zeller Str.,50.69731,7.129749
+481,423925,Bonn Friesdorf Ürziger Str.,50.695847,7.136037
+482,69854,Bonn Friesdorf Ürziger Str.,50.695625,7.13636
+483,220974,Bonn Geislar Hammstr.,50.757286,7.128698
+484,284153,Bonn Geislar Hammstr.,50.757534,7.12859
+485,146353,Bonn Geislar Kloster,50.76258,7.127449
+486,263643,Bonn Geislar Kloster,50.76273,7.127171
+487,266601,Bonn Geislar Mitte,50.76136,7.124485
+488,4871,Bonn Geislar Mitte,50.760975,7.127314
+489,270832,Bonn Gerhardsplatz,50.74403,7.08062
+490,2901,Bonn Gerhardsplatz,50.744144,7.080988
+491,204389,Bonn Graurheindorf Brungsgasse,50.763428,7.078015
+492,2506,Bonn Graurheindorf Friedhof,50.762997,7.074745
+493,139689,Bonn Graurheindorf Friesenweg,50.75491,7.091894
+494,324916,Bonn Graurheindorf Friesenweg,50.755306,7.091382
+495,151655,Bonn Graurheindorf Hafen/Bwi,50.75918,7.086145
+496,292730,Bonn Graurheindorf Hafen/Bwi,50.758926,7.086378
+497,156781,Bonn Graurheindorf Heinrich-Hertz-Europakolleg,50.75475,7.086737
+498,331433,Bonn Graurheindorf Heinrich-Hertz-Europakolleg,50.75489,7.086872
+499,386776,Bonn Graurheindorf Heinrich-Hertz-Europakolleg,50.754745,7.087187
+500,453514,Bonn Graurheindorf Heinrich-Hertz-Europakolleg,50.7547,7.086971
+501,119185,Bonn Graurheindorf Herseler Str.,50.75536,7.084932
+502,412084,Bonn Graurheindorf Herseler Str.,50.755226,7.084842
+503,332482,Bonn Graurheindorf Kranenweg,50.760147,7.085111
+504,123735,Bonn Graurheindorf Margarethenplatz,50.76428,7.075796
+505,55392,Bonn Graurheindorf Margarethenplatz,50.76419,7.075949
+506,330463,Bonn Graurheindorf Mondorfer Fähre,50.76798,7.06799
+507,334930,Bonn Graurheindorf Mondorfer Fähre,50.76773,7.068564
+508,131305,Bonn Graurheindorf Sportplatz,50.761444,7.075464
+509,238951,Bonn Graurheindorf Sportplatz,50.76164,7.075769
+510,144126,Bonn Graurheindorf Werftstr.,50.757076,7.088229
+511,288649,Bonn Graurheindorf Werftstr.,50.757065,7.088291
+512,327907,Bonn Gronau Baunscheidtstr.,50.710075,7.124835
+513,385399,Bonn Gronau Baunscheidtstr.,50.710117,7.124664
+514,266368,Bonn Gronau Deutsche Welle,50.717693,7.124862
+515,454182,Bonn Gronau Deutsche Welle,50.717728,7.124691
+516,307839,Bonn Gronau Fritz-Erler-Str.,50.71508,7.128249
+517,220411,Bonn Gronau Heinrich-Brüning-Str.,50.71663,7.126856
+518,125831,Bonn Gronau Heussallee/Museumsmeile,50.716595,7.122167
+519,151703,Bonn Gronau Heussallee/Museumsmeile,50.716087,7.121646
+520,209755,Bonn Gronau Heussallee/Museumsmeile,50.715775,7.121538
+521,295035,Bonn Gronau Heussallee/Museumsmeile,50.71721,7.12002
+522,310859,Bonn Gronau Heussallee/Museumsmeile,50.71647,7.120837
+523,33939,Bonn Gronau Heussallee/Museumsmeile,50.71659,7.121933
+524,381715,Bonn Gronau Heussallee/Museumsmeile,50.715897,7.120397
+525,228936,Bonn Gronau Johanniter-Krankenhaus,50.7144,7.130503
+526,432245,Bonn Gronau Johanniter-Krankenhaus,50.71445,7.129937
+527,323772,Bonn Gronau Marie-Kahle-Allee,50.712494,7.121574
+528,431800,Bonn Gronau Marie-Kahle-Allee,50.712456,7.121637
+529,155489,Bonn Gronau Ollenhauerstr.,50.71121,7.126874
+530,41662,Bonn Gronau Ollenhauerstr.,50.71163,7.1262
+531,451397,Bonn Gronau Ollenhauerstr.,50.710754,7.127171
+532,105038,Bonn Gronau Olof-Palme-Allee,50.705566,7.132408
+533,361684,Bonn Gronau Olof-Palme-Allee,50.706055,7.131959
+534,172870,Bonn Gronau Post Tower,50.716064,7.128177
+535,447163,Bonn Gronau Post Tower,50.716015,7.128455
+536,154987,Bonn Gronau Straßburger Weg,50.717014,7.115681
+537,89390,Bonn Gronau Straßburger Weg,50.717106,7.115753
+538,277574,Bonn Gronau Un Campus Bf,50.71489,7.118448
+539,64875,Bonn Gronau Un Campus Bf,50.714832,7.118762
+540,143121,Bonn Hardtberg Auf Dem Kirchbüchel,50.70764,7.057857
+541,240219,Bonn Hardtberg Auf Dem Kirchbüchel,50.707317,7.058791
+542,262694,Bonn Hardtberg Auf Dem Kirchbüchel,50.707596,7.057794
+543,426582,Bonn Hardtberg Auf Dem Kirchbüchel,50.70727,7.058809
+544,348801,Bonn Hardtberg Basketsring,50.7063,7.057749
+545,443051,Bonn Hardtberg Basketsring,50.70615,7.057605
+546,110688,Bonn Hardtberg Edith-Stein-Anlage,50.71175,7.05394
+547,276222,Bonn Hardtberg Edith-Stein-Anlage,50.712296,7.054883
+548,116488,Bonn Hardtberg Gaußstr.,50.70197,7.054578
+549,216589,Bonn Hardtberg Gaußstr.,50.702248,7.052449
+550,322509,Bonn Hardtberg Gaußstr.,50.70222,7.052943
+551,73209,Bonn Hardtberg Gaußstr.,50.701992,7.054254
+552,179676,Bonn Hardtberg Geschwister-Scholl-Str.,50.709667,7.054443
+553,264267,Bonn Hardtberg Geschwister-Scholl-Str.,50.70964,7.054497
+554,262544,Bonn Hardtberg Goerdelerstr.,50.710457,7.051703
+555,365290,Bonn Hardtberg Goerdelerstr.,50.71117,7.052143
+556,159063,Bonn Hardtberg Heilsbachstr.,50.71227,7.043385
+557,97963,Bonn Hardtberg Heilsbachstr.,50.71232,7.043385
+558,181382,Bonn Hardtberg Ossietzkystr.,50.707504,7.048254
+559,180839,Bonn Hardtberg Weierbornstr.,50.70989,7.049951
+560,339809,Bonn Hardtberg Weierbornstr.,50.709995,7.050032
+561,303901,Bonn Haus Der Jugend,50.720566,7.106923
+562,349369,Bonn Haus Der Jugend,50.720535,7.107003
+563,446553,Bonn Haus Der Jugend,50.720314,7.106914
+564,272969,Bonn Haydnstr.,50.730186,7.088956
+565,282101,Bonn Haydnstr.,50.730244,7.08883
+566,101087,Bonn Hbf,50.73206,7.099682
+567,104795,Bonn Hbf,50.731865,7.101021
+568,113916,Bonn Hbf,50.731934,7.100239
+569,119735,Bonn Hbf,50.732124,7.098658
+570,145694,Bonn Hbf,50.732037,7.098137
+571,1539,Bonn Hbf,50.732075,7.099314
+572,156962,Bonn Hbf,50.73197,7.098937
+573,191493,Bonn Hbf,50.73197,7.098954
+574,195647,Bonn Hbf,50.732014,7.096933
+575,22128,Bonn Hbf,50.733086,7.095981
+576,227283,Bonn Hbf,50.733006,7.095532
+577,267694,Bonn Hbf,50.731934,7.0997
+578,287959,Bonn Hbf,50.732166,7.098074
+579,323802,Bonn Hbf,50.730732,7.098954
+580,326357,Bonn Hbf,50.732967,7.09617
+581,332386,Bonn Hbf,50.731934,7.099422
+582,347663,Bonn Hbf,50.732906,7.096134
+583,363315,Bonn Hbf,50.731926,7.10014
+584,385633,Bonn Hbf,50.732178,7.098137
+585,422433,Bonn Hbf,50.732178,7.099116
+586,424466,Bonn Hbf,50.731888,7.099628
+587,54382,Bonn Hbf,50.732906,7.095846
+588,62540,Bonn Hbf,50.731865,7.100015
+589,99609,Bonn Hbf,50.731834,7.09908
+590,157340,Bonn Heerstr.,50.73676,7.090088
+591,195667,Bonn Heerstr.,50.73664,7.090376
+592,200814,Bonn Heiderhof Akazienweg,50.66382,7.156213
+593,258990,Bonn Heiderhof Akazienweg,50.66298,7.155414
+594,372811,Bonn Heiderhof Akazienweg,50.663727,7.155944
+595,69602,Bonn Heiderhof Akazienweg,50.663258,7.155369
+596,436450,Bonn Heiderhof Heiderhofring,50.666245,7.152656
+597,83979,Bonn Heiderhof Heiderhofring,50.666306,7.152809
+598,222683,Bonn Heiderhof Hohenzollernplatz,50.69073,7.156339
+599,228757,Bonn Heiderhof Kantstr.,50.661983,7.161639
+600,243086,Bonn Heiderhof Kantstr.,50.66211,7.161675
+601,4821,Bonn Heiderhof Kastanienweg,50.65899,7.152773
+602,86932,Bonn Heiderhof Kastanienweg,50.659107,7.153114
+603,39231,Bonn Heiderhof Nietzschestr.,50.659927,7.156402
+604,395107,Bonn Heiderhof Nietzschestr.,50.660004,7.15659
+605,135032,Bonn Heiderhof Pappelweg,50.65727,7.148542
+606,261021,Bonn Heinrich-Böll-Ring,50.739807,7.076568
+607,450184,Bonn Heinrich-Böll-Ring,50.74083,7.075257
+608,88549,Bonn Heinrich-Böll-Ring,50.740887,7.075302
+609,163469,Bonn Herwarthstr.,50.732826,7.092406
+610,322745,Bonn Herwarthstr.,50.73308,7.092963
+611,407167,Bonn Herwarthstr.,50.733185,7.09272
+612,384233,Bonn Herz-Jesu-Hof,50.72751,7.105279
+613,358663,Bonn Hochkreuz Brandenburger Str.,50.70163,7.143188
+614,458840,Bonn Hochkreuz Brandenburger Str.,50.701183,7.143789
+615,346149,Bonn Hochkreuz Langer Grabenweg,50.703747,7.139999
+616,392105,Bonn Hochkreuz Langer Grabenweg,50.7038,7.139954
+617,200898,Bonn Hochkreuz Rheinaue,50.711857,7.139217
+618,325586,Bonn Hochkreuz Rheinaue,50.712284,7.139639
+619,300039,Bonn Hochkreuz Rheinaue Hauptzugang,50.706055,7.143646
+620,357647,Bonn Hochkreuz Rheinaue Hauptzugang,50.706226,7.145649
+621,70361,Bonn Hochkreuz Rheinaue Hauptzugang,50.707394,7.143906
+622,428308,Bonn Hochkreuz Rheinaue Parkrestaurant,50.70976,7.140259
+623,51619,Bonn Hochkreuz Rheinaue Parkrestaurant,50.709045,7.14052
+624,294859,Bonn Hochkreuz Rheinaue Süd,50.704445,7.149269
+625,422715,Bonn Hochkreuz Rheinaue Süd,50.704235,7.149512
+626,112924,Bonn Hochkreuz Robert-Schuman-Platz,50.706486,7.137519
+627,133815,Bonn Hochkreuz Robert-Schuman-Platz,50.706074,7.137861
+628,237543,Bonn Hochkreuz Robert-Schuman-Platz,50.7066,7.137546
+629,299356,Bonn Hochkreuz Robert-Schuman-Platz,50.70663,7.137663
+630,240348,Bonn Hoholz Kleinfeldstr.,50.74485,7.201722
+631,361408,Bonn Hoholz Kleinfeldstr.,50.744595,7.201946
+632,448037,Bonn Hoholz Mitte,50.741604,7.201452
+633,50586,Bonn Hoholz Mitte,50.741047,7.200734
+634,68143,Bonn Hoholz Pützhecke,50.738506,7.199745
+635,127909,Bonn Holtorf Am Weidenbach,50.738605,7.160354
+636,353957,Bonn Holtorf Am Weidenbach,50.738552,7.159779
+637,203570,Bonn Holtorf Bleibtreustr.,50.73394,7.181168
+638,64822,Bonn Holtorf Bleibtreustr.,50.734196,7.179533
+639,289003,Bonn Holtorf Ettenhausen,50.730766,7.195991
+640,456167,Bonn Holtorf Ettenhausen,50.730625,7.195793
+641,142427,Bonn Holtorf Forsthaus Hardt,50.735832,7.169005
+642,218910,Bonn Holtorf Forsthaus Hardt,50.735832,7.169023
+643,163773,Bonn Holtorf Niederholtorf Mitte,50.73311,7.184052
+644,23713,Bonn Holtorf Niederholtorf Mitte,50.733,7.184124
+645,138510,Bonn Holtorf Oberholtorf,50.725956,7.187897
+646,301351,Bonn Holtorf Oberholtorf,50.725796,7.188741
+647,182336,Bonn Holtorf Oberkasseler Str.,50.728676,7.166265
+648,252289,Bonn Holtorf Oberkasseler Str.,50.728767,7.1664
+649,196176,Bonn Holtorf Ungarten,50.72847,7.191759
+650,84210,Bonn Holtorf Ungarten,50.72884,7.192487
+651,186875,Bonn Holzlar Am Pappelhain,50.746243,7.166876
+652,211908,Bonn Holzlar Am Pappelhain,50.745956,7.166741
+653,7507,Bonn Holzlar Am Rehsprung,50.745213,7.167289
+654,778,Bonn Holzlar Am Rehsprung,50.74521,7.167442
+655,207531,Bonn Holzlar Am Tanzberg,50.74842,7.178833
+656,368781,Bonn Holzlar Am Tanzberg,50.74743,7.180548
+657,195447,Bonn Holzlar Am Weinstock,50.74436,7.171008
+658,436300,Bonn Holzlar Am Weinstock,50.74436,7.171179
+659,128415,Bonn Holzlar Ennertstr.,50.750595,7.167972
+660,355358,Bonn Holzlar Ennertstr.,50.750988,7.169787
+661,419767,Bonn Holzlar Finkenweg,50.75001,7.165861
+662,421910,Bonn Holzlar Finkenweg,50.749516,7.165933
+663,152072,Bonn Holzlar Friedhof Om Berg,50.73743,7.19714
+664,271268,Bonn Holzlar Gielgen,50.739586,7.196008
+665,300555,Bonn Holzlar Gielgen,50.739414,7.195999
+666,397752,Bonn Holzlar Gielgen,50.74,7.195919
+667,99208,Bonn Holzlar Gielgen,50.739353,7.196017
+668,175087,Bonn Holzlar Hangelarer Str.,50.75094,7.172095
+669,331083,Bonn Holzlar Heidebergen,50.746986,7.18513
+670,55088,Bonn Holzlar Heidebergen,50.74701,7.184321
+671,133517,Bonn Holzlar Heideweg/Holzlarer Mühle,50.743404,7.177611
+672,24883,Bonn Holzlar Heideweg/Holzlarer Mühle,50.743324,7.177566
+673,396302,Bonn Holzlar Kohlkauler Platz,50.749832,7.174826
+674,417176,Bonn Holzlar Kohlkauler Platz,50.750168,7.174584
+675,8821,Bonn Holzlar Kohlkauler Platz,50.74985,7.17585
+676,290990,Bonn Holzlar Paul-Langen-Str.,50.744995,7.174009
+677,326095,Bonn Holzlar Paul-Langen-Str.,50.74526,7.172958
+678,338891,Bonn Holzlar Paul-Langen-Str.,50.74532,7.173775
+679,423014,Bonn Holzlar Paul-Langen-Str.,50.74532,7.173847
+680,397345,Bonn Holzlar Roleber Kreuzung,50.740692,7.191131
+681,42333,Bonn Holzlar Roleber Kreuzung,50.740192,7.191697
+682,136680,Bonn Holzlar Roleber Sportplatz,50.743565,7.188355
+683,407423,Bonn Holzlar Roleber Sportplatz,50.743565,7.188382
+684,49892,Bonn Husarenstr.,50.748425,7.09334
+685,51739,Bonn Husarenstr.,50.74825,7.093385
+686,337552,Bonn Innenministerium,50.750294,7.091858
+687,378511,Bonn Innenministerium,50.751335,7.090663
+688,403868,Bonn Innenministerium,50.751106,7.090744
+689,77820,Bonn Innenministerium,50.750813,7.090897
+690,334188,Bonn Ippendorf Alte Schule,50.70036,7.080072
+691,386163,Bonn Ippendorf Alte Schule,50.69939,7.080018
+692,140871,Bonn Ippendorf Altenheim,50.688183,7.085749
+693,187171,Bonn Ippendorf Altenheim,50.68787,7.08574
+694,104400,Bonn Ippendorf Am Mühlenberg,50.711037,7.085435
+695,233075,Bonn Ippendorf Am Mühlenberg,50.71093,7.085309
+696,280521,Bonn Ippendorf Buchholzstr.,50.69825,7.080063
+697,329483,Bonn Ippendorf Buchholzstr.,50.69777,7.08018
+698,54896,Bonn Ippendorf Buchholzstr.,50.696472,7.081491
+699,74044,Bonn Ippendorf Buchholzstr.,50.69656,7.081294
+700,2673,Bonn Ippendorf Gierolstr.,50.694477,7.084294
+701,381982,Bonn Ippendorf Gierolstr.,50.69433,7.083881
+702,39591,Bonn Ippendorf Gierolstr.,50.694366,7.083908
+703,9780,Bonn Ippendorf Gierolstr.,50.69485,7.084177
+704,234067,Bonn Ippendorf Haager Weg,50.69124,7.085022
+705,359473,Bonn Ippendorf Haager Weg,50.69147,7.084914
+706,181372,Bonn Ippendorf Im Erlenbusch,50.690083,7.085255
+707,2333,Bonn Ippendorf Im Erlenbusch,50.68993,7.085318
+708,183227,Bonn Ippendorf Im Uckerfeld,50.701294,7.083342
+709,24564,Bonn Ippendorf Im Uckerfeld,50.701412,7.083351
+710,24630,Bonn Ippendorf Ippendorfer Allee,50.704075,7.082192
+711,389679,Bonn Ippendorf Ippendorfer Allee,50.70397,7.082066
+712,424683,Bonn Ippendorf Ippendorfer Allee,50.703365,7.082264
+713,223293,Bonn Ippendorf Katzenloch,50.695576,7.079317
+714,90481,Bonn Ippendorf Katzenloch,50.695496,7.079317
+715,121590,Bonn Ippendorf Kreuzberg,50.708107,7.082938
+716,86280,Bonn Ippendorf Kreuzberg,50.708138,7.08292
+717,241438,Bonn Ippendorf Saalestr.,50.694492,7.089738
+718,403633,Bonn Ippendorf Saalestr.,50.69572,7.087959
+719,76487,Bonn Ippendorf Saalestr.,50.694317,7.08954
+720,168291,Bonn Ippendorf Wasserturmstr.,50.69803,7.083494
+721,203098,Bonn Ippendorf Wasserturmstr.,50.697983,7.083468
+722,430962,Bonn Juridicum,50.72947,7.108773
+723,89151,Bonn Juridicum,50.730194,7.10836
+724,101858,Bonn Karlstr.,50.73308,7.082291
+725,160682,Bonn Karlstr.,50.732716,7.08345
+726,356352,Bonn Karlstr.,50.731926,7.081797
+727,280317,Bonn Kaufmannstr.,50.728333,7.08468
+728,44919,Bonn Kaufmannstr.,50.728172,7.084222
+729,160129,Bonn Kessenich Argelanderstr.,50.71961,7.095191
+730,414652,Bonn Kessenich Argelanderstr.,50.719685,7.095182
+731,192642,Bonn Kessenich Bergstr.,50.70991,7.109366
+732,325946,Bonn Kessenich Bergstr.,50.709675,7.109339
+733,330937,Bonn Kessenich Bergstr.,50.709644,7.109348
+734,84218,Bonn Kessenich Bergstr.,50.709877,7.109402
+735,105690,Bonn Kessenich Eduard-Otto-Str.,50.71656,7.108063
+736,142620,Bonn Kessenich Eduard-Otto-Str.,50.716625,7.107246
+737,209642,Bonn Kessenich Eduard-Otto-Str.,50.716534,7.107857
+738,315812,Bonn Kessenich Eduard-Otto-Str.,50.716747,7.107246
+739,361254,Bonn Kessenich Eduard-Otto-Str.,50.716915,7.107812
+740,11197,Bonn Kessenich Geißlerstr.,50.71995,7.100347
+741,160022,Bonn Kessenich Geißlerstr.,50.719723,7.100554
+742,189673,Bonn Kessenich Graf-Stauffenberg-Str.,50.7165,7.104075
+743,273242,Bonn Kessenich Graf-Stauffenberg-Str.,50.716595,7.103976
+744,166021,Bonn Kessenich Gregor-Mendel-Str.,50.716488,7.101425
+745,363998,Bonn Kessenich Gregor-Mendel-Str.,50.716625,7.101155
+746,151693,Bonn Kessenich Heinrich-Lützeler-Str.,50.71743,7.097535
+747,50671,Bonn Kessenich Heinrich-Lützeler-Str.,50.71746,7.097194
+748,291886,Bonn Kessenich Loeschckestr.,50.711033,7.113813
+749,4231,Bonn Kessenich Loeschckestr.,50.71131,7.113705
+750,33431,Bonn Kessenich Lotharstr.,50.717762,7.100787
+751,45645,Bonn Kessenich Lotharstr.,50.71797,7.100131
+752,143727,Bonn Kessenich Luisenstr.,50.720963,7.097517
+753,419941,Bonn Kessenich Luisenstr.,50.72145,7.098029
+754,93563,Bonn Kessenich Luisenstr.,50.72102,7.098191
+755,174686,Bonn Kessenich Markusplatz,50.716225,7.111028
+756,316432,Bonn Kessenich Markusplatz,50.716045,7.111082
+757,228908,Bonn Kessenich Pützstr.,50.712837,7.108504
+758,281277,Bonn Kessenich Pützstr.,50.712875,7.108486
+759,294272,Bonn Kessenich Pützstr.,50.712536,7.108701
+760,318668,Bonn Kessenich Pützstr.,50.71256,7.108692
+761,12071,Bonn Kessenich Wichernstr.,50.71293,7.113049
+762,318459,Bonn Kessenich Wichernstr.,50.71287,7.112896
+763,197254,Bonn Königstr.,50.727962,7.101101
+764,294709,Bonn Königstr.,50.728355,7.101838
+765,84118,Bonn Königstr.,50.727985,7.101191
+766,197931,Bonn Lannesdorf Antoniterstr.,50.66302,7.178851
+767,92709,Bonn Lannesdorf Antoniterstr.,50.663544,7.177719
+768,206504,Bonn Lannesdorf Drachenburgstr.,50.667484,7.179632
+769,381229,Bonn Lannesdorf Drachenburgstr.,50.667194,7.178662
+770,272568,Bonn Lannesdorf Ellesdorfer Str.,50.66583,7.174314
+771,400122,Bonn Lannesdorf Ellesdorfer Str.,50.66626,7.175967
+772,63747,Bonn Lannesdorf Ellesdorfer Str.,50.66482,7.175518
+773,216911,Bonn Lannesdorf Im Apfelgarten,50.66851,7.166723
+774,86617,Bonn Lannesdorf Im Apfelgarten,50.66871,7.166562
+775,142250,Bonn Lannesdorf Kortrijker Str.,50.67081,7.172482
+776,399210,Bonn Lannesdorf Kortrijker Str.,50.670845,7.172769
+777,105363,Bonn Lannesdorf Lannesdorfer Str.,50.661335,7.174117
+778,178479,Bonn Lannesdorf Lannesdorfer Str.,50.66106,7.173928
+779,160392,Bonn Lannesdorf Ließemer Str.,50.6592,7.170937
+780,338011,Bonn Lannesdorf Ließemer Str.,50.65913,7.170766
+781,257214,Bonn Lannesdorf Mehlem Bf,50.668514,7.181321
+782,322485,Bonn Lannesdorf Mehlem Bf,50.669174,7.183055
+783,378092,Bonn Lannesdorf Mehlem Bf,50.6691,7.182983
+784,55912,Bonn Lannesdorf Mehlem Bf,50.669193,7.182884
+785,72608,Bonn Lannesdorf Mehlem Bf,50.66807,7.181231
+786,210080,Bonn Lannesdorf Mitte,50.66469,7.171188
+787,389232,Bonn Lannesdorf Mitte,50.665405,7.170649
+788,144883,Bonn Lengsdorf An Der Ziegelei,50.708176,7.065358
+789,91651,Bonn Lengsdorf An Der Ziegelei,50.70814,7.063741
+790,32728,Bonn Lengsdorf Bach,50.7181,7.071664
+791,393451,Bonn Lengsdorf Bach,50.717854,7.071475
+792,329344,Bonn Lengsdorf Friedhof,50.707108,7.068232
+793,50658,Bonn Lengsdorf Friedhof,50.7068,7.068268
+794,114726,Bonn Lengsdorf In Der Grächt,50.711,7.06436
+795,428785,Bonn Lengsdorf In Der Grächt,50.71086,7.064711
+796,149757,Bonn Lengsdorf Kirche,50.71048,7.067585
+797,50404,Bonn Lengsdorf Kirche,50.710526,7.068933
+798,106525,Bonn Lengsdorf Mühlenhof,50.715096,7.071358
+799,92289,Bonn Lengsdorf Mühlenhof,50.715195,7.071385
+800,434001,Bonn Lengsdorf Provinzialstr.,50.710026,7.067109
+801,318527,Bonn Lengsdorf Vereinshaus,50.712982,7.071241
+802,400205,Bonn Lengsdorf Vereinshaus,50.713108,7.071367
+803,19056,Bonn Lessenich/Meßdorf Alter Heerweg,50.71986,7.042567
+804,419071,Bonn Lessenich/Meßdorf Alter Heerweg,50.719852,7.042424
+805,444208,Bonn Lessenich/Meßdorf Bonner Logsweg,50.723206,7.045711
+806,650,Bonn Lessenich/Meßdorf Bonner Logsweg,50.72322,7.045873
+807,362975,Bonn Lessenich/Meßdorf Ermlandstr.,50.725006,7.042819
+808,41478,Bonn Lessenich/Meßdorf Ermlandstr.,50.725143,7.042998
+809,168067,Bonn Lessenich/Meßdorf Gielsdorfer Str.,50.72806,7.0444
+810,234268,Bonn Lessenich/Meßdorf Gielsdorfer Str.,50.72814,7.044445
+811,103813,Bonn Lessenich/Meßdorf Lessenich Kapelle,50.722713,7.040061
+812,393003,Bonn Lessenich/Meßdorf Lessenich Kapelle,50.723198,7.040528
+813,345151,Bonn Lessenich/Meßdorf Lessenich Sportplatz,50.723843,7.050769
+814,23337,Bonn Lessenich/Meßdorf Malgisostr.,50.722736,7.047544
+815,49703,Bonn Lessenich/Meßdorf Malgisostr.,50.72256,7.047849
+816,28528,Bonn Lessenich/Meßdorf Martin-Legros-Str.,50.731335,7.046161
+817,50939,Bonn Lessenich/Meßdorf Martin-Legros-Str.,50.731415,7.046349
+818,189099,Bonn Lessenich/Meßdorf Roncallistr.,50.72181,7.04466
+819,9912,Bonn Lessenich/Meßdorf Roncallistr.,50.72234,7.044678
+820,187127,Bonn Limperich,50.729034,7.135974
+821,97033,Bonn Limperich,50.72905,7.136351
+822,159067,Bonn Limperich Küdinghoven,50.727566,7.142137
+823,48107,Bonn Limperich Küdinghoven,50.727695,7.141624
+824,159504,Bonn Limperich Nord,50.730614,7.131932
+825,405115,Bonn Limperich Nord,50.730766,7.131959
+826,60935,Bonn Limperich Nord,50.730843,7.131941
+827,161804,Bonn Lvr-Klinik,50.74553,7.092316
+828,209142,Bonn Lvr-Klinik,50.745766,7.093017
+829,323279,Bonn Lvr-Klinik,50.745796,7.093062
+830,179016,Bonn Markt,50.734715,7.102674
+831,17140,Bonn Maxstr.,50.73893,7.091103
+832,154501,Bonn Medinghoven Briandstr.,50.71113,7.030467
+833,444363,Bonn Medinghoven Briandstr.,50.710815,7.031311
+834,131489,Bonn Medinghoven Burg,50.711647,7.035489
+835,211772,Bonn Medinghoven Burg,50.711937,7.036117
+836,209076,Bonn Medinghoven Derlestr.,50.709934,7.040816
+837,367655,Bonn Medinghoven Derlestr.,50.710373,7.041121
+838,49221,Bonn Medinghoven Henri-Spaak-Str.,50.712215,7.029847
+839,114171,Bonn Medinghoven Kannheideweg,50.70675,7.039091
+840,312590,Bonn Medinghoven Kannheideweg,50.706436,7.038022
+841,421891,Bonn Medinghoven Malteser-Krankenhaus,50.70668,7.033881
+842,120735,Bonn Medinghoven Mitte,50.710617,7.035551
+843,143110,Bonn Medinghoven Mitte,50.71049,7.035749
+844,111497,Bonn Medinghoven Tüv,50.712196,7.03097
+845,21730,Bonn Medinghoven Wesselheideweg,50.711464,7.039252
+846,262687,Bonn Medinghoven Wesselheideweg,50.71125,7.039702
+847,102651,Bonn Mehlem An Der Nesselburg,50.662086,7.180863
+848,256309,Bonn Mehlem Brunhildstr.,50.667217,7.186495
+849,63801,Bonn Mehlem Brunhildstr.,50.66658,7.18698
+850,160555,Bonn Mehlem Deichmanns Aue,50.671024,7.17983
+851,317472,Bonn Mehlem Deichmanns Aue,50.671093,7.179776
+852,116804,Bonn Mehlem Dreholzstr.,50.663338,7.19008
+853,360627,Bonn Mehlem Dreholzstr.,50.66269,7.190556
+854,454647,Bonn Mehlem Etzelstr.,50.653606,7.193349
+855,92442,Bonn Mehlem Etzelstr.,50.653355,7.193826
+856,220210,Bonn Mehlem Friedhof,50.662697,7.184726
+857,43537,Bonn Mehlem Friedhof,50.662525,7.18557
+858,99450,Bonn Mehlem Fähre,50.670097,7.185965
+859,16706,Bonn Mehlem Giselherstr.,50.656452,7.191867
+860,291047,Bonn Mehlem Gunterstr.,50.657894,7.194409
+861,356634,Bonn Mehlem Gunterstr.,50.657917,7.194392
+862,268636,Bonn Mehlem Hagenstr.,50.656273,7.187448
+863,438843,Bonn Mehlem Hagenstr.,50.656643,7.187421
+864,287864,Bonn Mehlem Haus Steinbach,50.66879,7.186639
+865,218172,Bonn Mehlem Im Rosenberg,50.650696,7.197248
+866,243858,Bonn Mehlem Im Rosenberg,50.650463,7.197293
+867,128473,Bonn Mehlem Kapelle,50.65749,7.186935
+868,203811,Bonn Mehlem Kapelle,50.658455,7.186109
+869,226129,Bonn Mehlem Langenbergsweg,50.66041,7.183791
+870,280290,Bonn Mehlem Langenbergsweg,50.6596,7.184061
+871,370052,Bonn Mehlem Langenbergsweg,50.66078,7.182417
+872,376,Bonn Mehlem Meitnerstr.,50.673157,7.173506
+873,406711,Bonn Mehlem Meitnerstr.,50.673122,7.173389
+874,302752,Bonn Mehlem Oberaustr.,50.65632,7.189586
+875,38865,Bonn Mehlem Oberaustr.,50.656715,7.190843
+876,442611,Bonn Mehlem Oberaustr.,50.655556,7.191095
+877,108946,Bonn Mehlem Ort,50.660187,7.192685
+878,255139,Bonn Mehlem Ort,50.65997,7.192837
+879,116675,Bonn Mozartstr.,50.73424,7.088157
+880,137811,Bonn Mozartstr.,50.734196,7.088381
+881,334449,Bonn Muffendorf Goldbergweg,50.671326,7.15235
+882,240859,Bonn Muffendorf Hopmannstr.,50.673237,7.156725
+883,334310,Bonn Muffendorf Hopmannstr.,50.673416,7.156447
+884,30593,Bonn Muffendorf Kirche,50.67019,7.158746
+885,453774,Bonn Muffendorf Kirche,50.670246,7.158674
+886,189936,Bonn Muffendorf Klosterbergstr.,50.671078,7.154452
+887,60711,Bonn Muffendorf Klosterbergstr.,50.67118,7.154318
+888,236060,Bonn Muffendorf Kommende,50.670433,7.160866
+889,328740,Bonn Muffendorf Kommende,50.670273,7.160606
+890,195643,Bonn Muffendorf Muffendorfer Str.,50.674965,7.156716
+891,20805,Bonn Muffendorf Muffendorfer Str.,50.675,7.155234
+892,343042,Bonn Museum Koenig,50.722256,7.114199
+893,90973,Bonn Museum Koenig,50.7216,7.114558
+894,233322,Bonn Nassestr./Arithmeum,50.728653,7.10429
+895,29633,Bonn Nassestr./Arithmeum,50.7287,7.104192
+896,208284,Bonn Niederholtorf Am Waldrand,50.734333,7.175769
+897,437099,Bonn Niederholtorf Am Waldrand,50.734337,7.176093
+898,172582,Bonn Niederholtorf Kirche,50.730488,7.185435
+899,447696,Bonn Niederholtorf Kirche,50.730312,7.185588
+900,455233,Bonn Niederholtorf Kirche,50.73035,7.186253
+901,166110,Bonn Nonnstr.,50.74207,7.08451
+902,282229,Bonn Nonnstr.,50.74216,7.084204
+903,212272,Bonn Nordstadt Am Neuen Lindenhof,50.749424,7.080548
+904,180189,Bonn Nordstr.,50.745422,7.099826
+905,436841,Bonn Nordstr.,50.745743,7.099592
+906,176406,Bonn Oberkassel Am Kriegersgraben,50.71063,7.17894
+907,53347,Bonn Oberkassel Am Kriegersgraben,50.71065,7.17886
+908,205902,Bonn Oberkassel Heinrich-Konen-Str.,50.72002,7.156851
+909,87614,Bonn Oberkassel Heinrich-Konen-Str.,50.720623,7.156195
+910,232904,Bonn Oberkassel Humbroichsweg,50.71139,7.183935
+911,258237,Bonn Oberkassel Humbroichsweg,50.711384,7.183648
+912,149268,Bonn Oberkassel Im Mohrenfeld,50.709667,7.1702
+913,275285,Bonn Oberkassel Im Mohrenfeld,50.70927,7.170766
+914,17183,Bonn Oberkassel Konrad-Zuse-Platz,50.71794,7.154219
+915,204171,Bonn Oberkassel Konrad-Zuse-Platz,50.71803,7.154084
+916,214074,Bonn Oberkassel Mitte,50.712357,7.171386
+917,405464,Bonn Oberkassel Mitte,50.71342,7.169751
+918,409822,Bonn Oberkassel Mitte,50.712772,7.16631
+919,69546,Bonn Oberkassel Mitte,50.71349,7.16967
+920,311569,Bonn Oberkassel Nord,50.716072,7.165601
+921,395918,Bonn Oberkassel Nord,50.71621,7.16154
+922,423554,Bonn Oberkassel Nord,50.716534,7.165178
+923,70531,Bonn Oberkassel Nord,50.71621,7.165421
+924,131245,Bonn Oberkassel Süd/Römlinghoven,50.70977,7.174242
+925,140381,Bonn Oberkassel Süd/Römlinghoven,50.710175,7.174682
+926,40964,Bonn Oberkassel Süd/Römlinghoven,50.710083,7.174566
+927,453702,Bonn Oberkassel Süd/Römlinghoven,50.709553,7.174395
+928,58069,Bonn Oberkassel Süd/Römlinghoven,50.709965,7.174233
+929,28834,Bonn Oberkassel Theresienau,50.70717,7.173039
+930,382461,Bonn Oberkassel Theresienau,50.70725,7.173012
+931,252842,Bonn Opernhaus,50.736725,7.105764
+932,111912,Bonn Pennenfeld Albertus-Magnus-Str.,50.67124,7.164406
+933,305174,Bonn Pennenfeld Albertus-Magnus-Str.,50.67107,7.164271
+934,138091,Bonn Pennenfeld Galileistr.,50.675575,7.169068
+935,156026,Bonn Pennenfeld Galileistr.,50.67548,7.168825
+936,385621,Bonn Pennenfeld Hans-Böckler-Allee,50.67744,7.163606
+937,55638,Bonn Pennenfeld Hans-Böckler-Allee,50.677574,7.163489
+938,136751,Bonn Pennenfeld Johanneskirche,50.67421,7.166768
+939,17051,Bonn Pennenfeld Johanneskirche,50.674686,7.166894
+940,284559,Bonn Pennenfeld Johanneskirche,50.67478,7.166939
+941,51923,Bonn Pennenfeld Johanneskirche,50.674667,7.166822
+942,41786,Bonn Pennenfeld Konrad-Adenauer-Gymnasium,50.67115,7.170002
+943,438872,Bonn Pennenfeld Konrad-Adenauer-Gymnasium,50.671215,7.170101
+944,186682,Bonn Pennenfeld Miramonti,50.673244,7.162681
+945,346969,Bonn Pennenfeld Miramonti,50.67381,7.162133
+946,133937,Bonn Pennenfeld Theodor-Heuss-Str.,50.678898,7.1611
+947,349908,Bonn Pennenfeld Theodor-Heuss-Str.,50.678596,7.159564
+948,392853,Bonn Pennenfeld Theodor-Heuss-Str.,50.67903,7.160498
+949,135808,Bonn Plittersdorf Ahrstr./Deutsches Museum Bonn,50.70088,7.149197
+950,326227,Bonn Plittersdorf Ahrstr./Deutsches Museum Bonn,50.701004,7.149602
+951,113136,Bonn Plittersdorf Danziger Str./Deutsches Museum B,50.698982,7.156626
+952,434103,Bonn Plittersdorf Danziger Str./Deutsches Museum B,50.70002,7.155494
+953,125296,Bonn Plittersdorf Deutsche Forschungsgemeinschaft,50.6995,7.145981
+954,154443,Bonn Plittersdorf Deutsche Forschungsgemeinschaft,50.69954,7.147338
+955,254373,Bonn Plittersdorf Deutsche Forschungsgemeinschaft,50.698914,7.145981
+956,292321,Bonn Plittersdorf Gotenstr.,50.69565,7.151488
+957,7943,Bonn Plittersdorf Gotenstr.,50.69562,7.151731
+958,137170,Bonn Plittersdorf Hochkreuz/Deutsches Museum Bonn,50.69714,7.142056
+959,257124,Bonn Plittersdorf Hochkreuz/Deutsches Museum Bonn,50.696396,7.141759
+960,282904,Bonn Plittersdorf Hochkreuz/Deutsches Museum Bonn,50.697647,7.143214
+961,359582,Bonn Plittersdorf Hochkreuz/Deutsches Museum Bonn,50.697174,7.143035
+962,411217,Bonn Plittersdorf Hochkreuz/Deutsches Museum Bonn,50.696537,7.14193
+963,432735,Bonn Plittersdorf Hochkreuz/Deutsches Museum Bonn,50.696667,7.141337
+964,7868,Bonn Plittersdorf Hochkreuz/Deutsches Museum Bonn,50.69649,7.141831
+965,107668,Bonn Plittersdorf Kanalstr.,50.70227,7.162636
+966,71088,Bonn Plittersdorf Kanalstr.,50.702087,7.162717
+967,108106,Bonn Plittersdorf Kennedyallee,50.702827,7.151757
+968,130428,Bonn Plittersdorf Kennedyallee,50.702168,7.151506
+969,131076,Bonn Plittersdorf Kennedyallee,50.702526,7.152683
+970,273716,Bonn Plittersdorf Kennedyallee,50.702,7.152566
+971,168748,Bonn Plittersdorf Martin-Luther-Allee,50.69624,7.138983
+972,264120,Bonn Plittersdorf Martin-Luther-Allee,50.696007,7.138265
+973,23228,Bonn Plittersdorf Mittelstr.,50.69636,7.159564
+974,222227,Bonn Plittersdorf Nicolaus-Cusanus-Gymnasium,50.69552,7.154776
+975,69269,Bonn Plittersdorf Nicolaus-Cusanus-Gymnasium,50.695545,7.154551
+976,290209,Bonn Plittersdorf Saarstr.,50.697754,7.158576
+977,29912,Bonn Plittersdorf Saarstr.,50.6973,7.159133
+978,325754,Bonn Plittersdorf Saarstr.,50.696228,7.157606
+979,140186,Bonn Plittersdorf Steubenring,50.703377,7.156626
+980,307732,Bonn Plittersdorf Steubenring,50.70352,7.157956
+981,165542,Bonn Plittersdorf Wurzerstr.,50.692196,7.147203
+982,171180,Bonn Plittersdorf Wurzerstr.,50.691597,7.14785
+983,176746,Bonn Plittersdorf Wurzerstr.,50.690987,7.147302
+984,33542,Bonn Plittersdorf Wurzerstr.,50.690884,7.14723
+985,125381,Bonn Poppelsdorf Albert-Schweitzer-Str.,50.722816,7.081788
+986,16212,Bonn Poppelsdorf Albert-Schweitzer-Str.,50.722958,7.081294
+987,22066,Bonn Poppelsdorf Am Botanischen Garten,50.724445,7.090052
+988,444592,Bonn Poppelsdorf Am Botanischen Garten,50.723965,7.089855
+989,101229,Bonn Poppelsdorf Carl-Troll-Str.,50.722267,7.085255
+990,81834,Bonn Poppelsdorf Carl-Troll-Str.,50.722424,7.08477
+991,253827,Bonn Poppelsdorf Clemens-August-Platz,50.719337,7.086225
+992,326658,Bonn Poppelsdorf Clemens-August-Platz,50.719826,7.086791
+993,215434,Bonn Poppelsdorf Friedrichsruh,50.715622,7.090951
+994,443882,Bonn Poppelsdorf Friedrichsruh,50.71563,7.091606
+995,389874,Bonn Poppelsdorf Im Wingert,50.718346,7.08636
+996,183169,Bonn Poppelsdorf Kirschallee,50.720867,7.091543
+997,316675,Bonn Poppelsdorf Kirschallee,50.72094,7.091633
+998,140443,Bonn Poppelsdorf Marienhospital,50.717686,7.091669
+999,52186,Bonn Poppelsdorf Marienhospital,50.71752,7.091058
+1000,291383,Bonn Poppelsdorf Melbbad,50.7156,7.086791
+1001,44992,Bonn Poppelsdorf Melbbad,50.716167,7.08645
+1002,33351,Bonn Poppelsdorf Nussallee,50.7269,7.088741
+1003,349114,Bonn Poppelsdorf Nussallee,50.726753,7.088956
+1004,132612,Bonn Poppelsdorf Poppelsdorfer Platz,50.72182,7.089352
+1005,14879,Bonn Poppelsdorf Poppelsdorfer Platz,50.721725,7.088471
+1006,180217,Bonn Poppelsdorf Poppelsdorfer Platz,50.721886,7.088804
+1007,242211,Bonn Poppelsdorf Poppelsdorfer Platz,50.7216,7.088121
+1008,76823,Bonn Poppelsdorf Poppelsdorfer Platz,50.721172,7.08795
+1009,144577,Bonn Poppelsdorfer Allee,50.73038,7.10005
+1010,292570,Bonn Poppelsdorfer Allee,50.730396,7.09838
+1011,359399,Bonn Poppelsdorfer Allee,50.73051,7.099511
+1012,3676,Bonn Poppelsdorfer Allee,50.730534,7.099925
+1013,38817,Bonn Poppelsdorfer Allee,50.730427,7.099997
+1014,78606,Bonn Poppelsdorfer Allee,50.73054,7.099988
+1015,93986,Bonn Potsdamer Platz,50.7428,7.080252
+1016,103791,Bonn Propsthof Nord,50.739517,7.073047
+1017,268878,Bonn Propsthof Nord,50.739178,7.073442
+1018,377601,Bonn Propsthof Nord,50.73901,7.07382
+1019,457728,Bonn Propsthof Nord,50.73918,7.073963
+1020,301516,Bonn Pädagogische Fakultät,50.751873,7.09599
+1021,423857,Bonn Pädagogische Fakultät,50.751396,7.096278
+1022,321857,Bonn Pützchen Ennertbad,50.739323,7.154345
+1023,352245,Bonn Pützchen Holtorfer Str.,50.74135,7.151138
+1024,66615,Bonn Pützchen Holtorfer Str.,50.74166,7.150635
+1025,135681,Bonn Pützchen Im Thelenpfand,50.741013,7.147733
+1026,356750,Bonn Pützchen Im Thelenpfand,50.74093,7.147374
+1027,132177,Bonn Pützchen Kirche,50.743355,7.15112
+1028,451414,Bonn Pützchen Kirche,50.743263,7.150877
+1029,159190,Bonn Pützchen Kloster,50.742577,7.14705
+1030,180757,Bonn Pützchen Kloster,50.742622,7.14679
+1031,261760,Bonn Pützchen Schule,50.744434,7.153464
+1032,348907,Bonn Pützchen Schule,50.745167,7.153824
+1033,363977,Bonn Pützchen Schule,50.745094,7.153967
+1034,400306,Bonn Pützchen Schule,50.74526,7.153886
+1035,66243,Bonn Pützchen Schule,50.74465,7.153761
+1036,163500,Bonn Pützchen Zur Autobahn,50.745796,7.144122
+1037,270024,Bonn Pützchen Zur Autobahn,50.745804,7.143134
+1038,110636,Bonn Ramersdorf,50.7224,7.155162
+1039,2261,Bonn Ramersdorf,50.722397,7.15518
+1040,232366,Bonn Ramersdorf,50.722435,7.155333
+1041,298718,Bonn Ramersdorf,50.722466,7.155054
+1042,363664,Bonn Ramersdorf,50.722324,7.155162
+1043,36601,Bonn Ramersdorf,50.72226,7.155054
+1044,51351,Bonn Ramersdorf,50.722202,7.155342
+1045,54114,Bonn Ramersdorf,50.722286,7.154938
+1046,154748,Bonn Ramersdorf Bonner Bogen,50.720684,7.151784
+1047,377909,Bonn Ramersdorf Bonner Bogen,50.720566,7.152
+1048,107497,Bonn Ramersdorf Broichstr.,50.734722,7.14272
+1049,182773,Bonn Ramersdorf Broichstr.,50.735306,7.142208
+1050,209558,Bonn Ramersdorf Forstweg,50.733456,7.145523
+1051,24135,Bonn Ramersdorf Forstweg,50.733223,7.145739
+1052,179054,Bonn Ramersdorf Gemeinnützige Werkstatt,50.73897,7.142451
+1053,299422,Bonn Ramersdorf Gemeinnützige Werkstatt,50.738876,7.142235
+1054,153533,Bonn Ramersdorf Küdinghoven Kirche,50.730427,7.148604
+1055,331332,Bonn Ramersdorf Küdinghoven Kirche,50.730293,7.148874
+1056,295789,Bonn Ramersdorf Maarstr.,50.737103,7.139927
+1057,412244,Bonn Ramersdorf Maarstr.,50.736954,7.139981
+1058,28931,Bonn Ramersdorf Mehlemstr.,50.723988,7.153006
+1059,244300,Bonn Ramersdorf Samansstr.,50.725964,7.150733
+1060,57635,Bonn Ramersdorf Samansstr.,50.726074,7.150832
+1061,146112,Bonn Ramersdorf Schießbergweg,50.725517,7.146898
+1062,357380,Bonn Ramersdorf Schießbergweg,50.725723,7.146565
+1063,408960,Bonn Ramersdorf Schießbergweg,50.72572,7.146673
+1064,125964,Bonn Rittershausstr.,50.722107,7.104255
+1065,177522,Bonn Rittershausstr.,50.722073,7.10403
+1066,299347,Bonn Rittershausstr.,50.72192,7.104174
+1067,121542,Bonn Rosental,50.741966,7.095622
+1068,141059,Bonn Rosental,50.74203,7.09573
+1069,227583,Bonn Rosental,50.741745,7.096502
+1070,327039,Bonn Röttgen Abzw.,50.68665,7.077179
+1071,438999,Bonn Röttgen Abzw.,50.68657,7.077242
+1072,111694,Bonn Röttgen Am Hölder,50.683292,7.068259
+1073,231004,Bonn Röttgen Am Kottenforst,50.672432,7.06746
+1074,301300,Bonn Röttgen Am Kottenforst,50.672432,7.06746
+1075,278463,Bonn Röttgen Auf Der Heide,50.680126,7.068259
+1076,44776,Bonn Röttgen Auf Der Heide,50.680126,7.068259
+1077,184038,Bonn Röttgen Hobsweg,50.683384,7.07567
+1078,270811,Bonn Röttgen Hobsweg,50.68329,7.075499
+1079,11644,Bonn Röttgen In Der Wehrhecke,50.672306,7.073424
+1080,273912,Bonn Röttgen Kurfürstenplatz,50.6819,7.074224
+1081,92489,Bonn Röttgen Kurfürstenplatz,50.680977,7.073478
+1082,101506,Bonn Röttgen Lindenweg,50.670097,7.070945
+1083,61155,Bonn Röttgen Lindenweg,50.670097,7.070945
+1084,278021,Bonn Röttgen Merler Allee,50.673607,7.066723
+1085,54571,Bonn Röttgen Merler Allee,50.674187,7.067424
+1086,293279,Bonn Röttgen Professorenweg,50.655666,7.050347
+1087,60266,Bonn Röttgen Professorenweg,50.655914,7.050733
+1088,152119,Bonn Röttgen Schleife,50.672363,7.065223
+1089,455643,Bonn Röttgen Schleife,50.672394,7.065591
+1090,117811,Bonn Röttgen Schloßplatz,50.678123,7.0709
+1091,286353,Bonn Röttgen Schloßplatz,50.677948,7.07081
+1092,323518,Bonn Rüngsdorf Gutenbergallee,50.679516,7.173155
+1093,378799,Bonn Rüngsdorf Gutenbergallee,50.679558,7.17294
+1094,103943,Bonn Rüngsdorf Kapellenweg,50.67833,7.168331
+1095,131995,Bonn Rüngsdorf Kapellenweg,50.67833,7.168331
+1096,114005,Bonn Rüngsdorf Römerplatz,50.683792,7.16967
+1097,449588,Bonn Rüngsdorf Römerplatz,50.683727,7.169832
+1098,140563,Bonn Rüngsdorf Tannenallee/Kfw Bankengruppe,50.674374,7.17744
+1099,272699,Bonn Rüngsdorf Tannenallee/Kfw Bankengruppe,50.674873,7.176919
+1100,180751,Bonn Rüngsdorf Telemannstr.,50.680836,7.164442
+1101,422658,Bonn Rüngsdorf Telemannstr.,50.680836,7.164442
+1102,459261,Bonn Rüngsdorf Wendelstadtallee,50.677013,7.175042
+1103,84675,Bonn Rüngsdorf Wendelstadtallee,50.677174,7.175024
+1104,183879,Bonn Sachsenweg,50.741306,7.087016
+1105,48150,Bonn Sandkaule/Bertha-Von-Suttner-Platz,50.737984,7.103302
+1106,236053,Bonn Sankt Petrus-Krankenhaus,50.728806,7.098371
+1107,322356,Bonn Sankt Petrus-Krankenhaus,50.728676,7.098694
+1108,10400,Bonn Schedestr.,50.722088,7.110651
+1109,385151,Bonn Schedestr.,50.72174,7.111118
+1110,423627,Bonn Schwarzrheindorf Kirche,50.751,7.117352
+1111,91974,Bonn Schwarzrheindorf Kirche,50.751163,7.117271
+1112,128660,Bonn Schwarzrheindorf Schule,50.74814,7.117451
+1113,20091,Bonn Schwarzrheindorf Schule,50.74803,7.117172
+1114,141926,Bonn Schwarzrheindorf Siegaue,50.763184,7.111594
+1115,92360,Bonn Schwarzrheindorf Siegaue,50.763035,7.111729
+1116,230589,Bonn Schwarzrheindorf Stiftsstr.,50.75192,7.119688
+1117,298055,Bonn Schwarzrheindorf Stiftsstr.,50.751896,7.119544
+1118,268702,Bonn Schweinheim Schloß Rheinblick,50.68397,7.14467
+1119,73677,Bonn Schweinheim Schloß Rheinblick,50.683846,7.144562
+1120,236757,Bonn Schweinheim Stadtwald/Ev. Krankenhaus,50.68291,7.126955
+1121,254291,Bonn Schweinheim Stadtwald/Ev. Krankenhaus,50.68293,7.126632
+1122,192832,Bonn Schweinheim Venner Str.,50.682716,7.138992
+1123,391089,Bonn Schweinheim Venner Str.,50.6826,7.138831
+1124,170270,Bonn Schweinheim Viktorshöhe,50.68413,7.133809
+1125,239736,Bonn Schweinheim Viktorshöhe,50.68443,7.133019
+1126,240593,Bonn Schweinheim Waldburgstr.,50.680824,7.141777
+1127,259601,Bonn Schweinheim Waldburgstr.,50.680923,7.141723
+1128,262983,Bonn Schweinheim Waldstr.,50.682156,7.137214
+1129,298865,Bonn Schweinheim Waldstr.,50.6821,7.13725
+1130,404172,Bonn Schweinheim Wichterichstr.,50.685383,7.144221
+1131,84202,Bonn Schweinheim Wichterichstr.,50.68545,7.143942
+1132,1911,Bonn Schweinheim Winterstr.,50.683537,7.146457
+1133,428723,Bonn Schweinheim Winterstr.,50.68359,7.146601
+1134,210712,Bonn Sportpark Nord,50.748173,7.081392
+1135,277610,Bonn Sportpark Nord,50.74766,7.08212
+1136,110262,Bonn Stadthaus,50.736816,7.095226
+1137,146218,Bonn Stadthaus,50.736553,7.095191
+1138,162236,Bonn Stadthaus,50.73662,7.09511
+1139,172790,Bonn Stadthaus,50.736504,7.09599
+1140,179640,Bonn Stadthaus,50.73602,7.094912
+1141,450806,Bonn Stadthaus,50.73634,7.095559
+1142,107813,Bonn Stiftsplatz,50.739147,7.101757
+1143,227034,Bonn Stiftsplatz,50.739075,7.101272
+1144,157584,Bonn Tannenbusch Agnetendorfer Str.,50.752983,7.044085
+1145,227642,Bonn Tannenbusch Agnetendorfer Str.,50.75297,7.044391
+1146,49518,Bonn Tannenbusch Agnetendorfer Str.,50.75301,7.044112
+1147,358339,Bonn Tannenbusch Am Ringwall,50.744328,7.053158
+1148,81970,Bonn Tannenbusch Am Ringwall,50.74419,7.053338
+1149,171867,Bonn Tannenbusch Chemnitzer Weg,50.74877,7.048837
+1150,184779,Bonn Tannenbusch Chemnitzer Weg,50.74938,7.048846
+1151,175223,Bonn Tannenbusch Gustav-Heinemann-Haus,50.753143,7.042181
+1152,70067,Bonn Tannenbusch Gustav-Heinemann-Haus,50.753193,7.041777
+1153,129646,Bonn Tannenbusch Hirschberger Str.,50.74981,7.039953
+1154,397142,Bonn Tannenbusch Hirschberger Str.,50.749924,7.04007
+1155,207656,Bonn Tannenbusch Im Tannenbusch,50.742104,7.062456
+1156,249242,Bonn Tannenbusch Im Tannenbusch,50.74213,7.062258
+1157,159732,Bonn Tannenbusch Magdeburger Str.,50.746723,7.065816
+1158,231646,Bonn Tannenbusch Magdeburger Str.,50.746918,7.066543
+1159,185970,Bonn Tannenbusch Mitte,50.749977,7.045208
+1160,198527,Bonn Tannenbusch Mitte,50.751,7.046646
+1161,20257,Bonn Tannenbusch Mitte,50.75094,7.046529
+1162,238713,Bonn Tannenbusch Mitte,50.749794,7.045666
+1163,30989,Bonn Tannenbusch Paulusplatz,50.745792,7.065726
+1164,452646,Bonn Tannenbusch Paulusplatz,50.745564,7.065753
+1165,366980,Bonn Tannenbusch Posener Weg,50.748943,7.051784
+1166,397350,Bonn Tannenbusch Posener Weg,50.749107,7.051461
+1167,271011,Bonn Tannenbusch Riesengebirgsstr.,50.74677,7.050203
+1168,312245,Bonn Tannenbusch Riesengebirgsstr.,50.74707,7.051389
+1169,425491,Bonn Tannenbusch Riesengebirgsstr.,50.746628,7.050769
+1170,356961,Bonn Tannenbusch Schlesienstr.,50.745872,7.050966
+1171,62953,Bonn Tannenbusch Schlesienstr.,50.745296,7.049745
+1172,63511,Bonn Tannenbusch Schlesienstr.,50.745255,7.049224
+1173,261792,Bonn Tannenbusch Schneidemühler Str.,50.747425,7.061315
+1174,80389,Bonn Tannenbusch Schneidemühler Str.,50.747448,7.060578
+1175,306047,Bonn Tannenbusch Stolpstr.,50.748623,7.053078
+1176,423337,Bonn Tannenbusch Stolpstr.,50.748474,7.053221
+1177,145281,Bonn Tannenbusch Süd,50.74216,7.056123
+1178,247576,Bonn Tannenbusch Süd,50.74243,7.055395
+1179,325420,Bonn Tannenbusch Süd,50.743065,7.056069
+1180,376275,Bonn Tannenbusch Süd,50.74348,7.055287
+1181,162444,Bonn Tannenbusch Waldenburger Ring,50.74862,7.042468
+1182,261968,Bonn Tannenbusch Waldenburger Ring,50.748333,7.042316
+1183,257762,Bonn Tannenbusch West,50.74644,7.042675
+1184,84988,Bonn Tannenbusch West,50.74615,7.044867
+1185,128206,Bonn Thomas-Mann-Str.,50.733997,7.094966
+1186,166089,Bonn Thomas-Mann-Str.,50.73361,7.094777
+1187,428316,Bonn Thomas-Mann-Str.,50.734024,7.094948
+1188,96649,Bonn Thomas-Mann-Str.,50.73351,7.094759
+1189,28717,Bonn UN Campus (Museumsmeile),50.71267,7.120409
+1190,283184,Bonn Universität/Markt,50.733223,7.103662
+1191,424715,Bonn Universität/Markt,50.732826,7.102844
+1192,230218,Bonn Venusberg Casselsruhe,50.705048,7.097966
+1193,242835,Bonn Venusberg Casselsruhe,50.704998,7.097841
+1194,247029,Bonn Venusberg Casselsruhe,50.705463,7.098928
+1195,398966,Bonn Venusberg Casselsruhe,50.705402,7.099574
+1196,157420,Bonn Venusberg Don-Bosco-Str.,50.69987,7.099664
+1197,123048,Bonn Venusberg Haus Venusberg,50.70051,7.094059
+1198,132778,Bonn Venusberg Jugendherberge,50.69875,7.092927
+1199,140549,Bonn Venusberg Jugendherberge,50.699234,7.09316
+1200,182382,Bonn Venusberg Kiefernweg,50.70086,7.100545
+1201,305995,Bonn Venusberg Kiefernweg,50.70073,7.100571
+1202,305738,Bonn Venusberg Sertürnerstr.,50.70315,7.097059
+1203,45353,Bonn Venusberg Sertürnerstr.,50.703148,7.097364
+1204,236401,Bonn Venusberg Uniklinikum Hauptpforte,50.699757,7.10368
+1205,403577,Bonn Venusberg Uniklinikum Hauptpforte,50.700455,7.104371
+1206,170734,Bonn Venusberg Uniklinikum Nord,50.702637,7.100203
+1207,310092,Bonn Venusberg Uniklinikum Nord,50.702885,7.09935
+1208,338520,Bonn Venusberg Uniklinikum Nord,50.702488,7.099979
+1209,3777,Bonn Venusberg Uniklinikum Süd,50.697594,7.10421
+1210,414700,Bonn Venusberg Uniklinikum Süd,50.697254,7.105018
+1211,450599,Bonn Venusberg Waldau,50.69116,7.094391
+1212,267509,Bonn Venusberg Waldschule,50.69956,7.097939
+1213,205176,Bonn Verdistr.,50.730038,7.078545
+1214,457169,Bonn Verdistr.,50.72987,7.078554
+1215,276040,Bonn Vilich-Müldorf,50.75435,7.147374
+1216,319363,Bonn Vilich-Müldorf,50.7544,7.148056
+1217,331530,Bonn Vilich-Müldorf,50.754326,7.146457
+1218,39462,Bonn Vilich-Müldorf,50.75435,7.146601
+1219,121755,Bonn Vilich-Müldorf Kirche,50.75564,7.145155
+1220,288518,Bonn Vilich-Müldorf Kirche,50.75594,7.145712
+1221,404641,Bonn Vilich-Müldorf Kirche,50.755978,7.14555
+1222,136943,Bonn Vilich-Rheindorf Adelheidisschule,50.753597,7.126641
+1223,185894,Bonn Vilich-Rheindorf Adelheidisstr.,50.74737,7.125356
+1224,354298,Bonn Vilich-Rheindorf Adelheidisstr.,50.747784,7.125877
+1225,206065,Bonn Vilich-Rheindorf Am Ledenhof,50.75184,7.123622
+1226,300107,Bonn Vilich-Rheindorf Am Ledenhof,50.751827,7.122868
+1227,182512,Bonn Vilich-Rheindorf An Der Wolfsburg,50.74584,7.116508
+1228,379876,Bonn Vilich-Rheindorf An Der Wolfsburg,50.745296,7.116552
+1229,251733,Bonn Vilich-Rheindorf Vilich,50.751045,7.129425
+1230,278945,Bonn Vilich-Rheindorf Vilich,50.750835,7.129165
+1231,165818,Bonn Vilich-Rheindorf Vilich Kloster,50.75238,7.126856
+1232,63952,Bonn Vilich-Rheindorf Vilich Kloster,50.752266,7.127431
+1233,103819,Bonn Weberstr.,50.72545,7.1005
+1234,117789,Bonn Weberstr.,50.725063,7.10235
+1235,349288,Bonn Weberstr.,50.725227,7.102224
+1236,36770,Bonn Weberstr.,50.725586,7.102045
+1237,421249,Bonn Weberstr.,50.725502,7.100814
+1238,90759,Bonn Weberstr.,50.72565,7.101964
+1239,101800,Bonn West,50.736366,7.082057
+1240,70725,Bonn West,50.736668,7.081096
+1241,237836,Bonn Wilhelm-Levison-Str.,50.724297,7.098954
+1242,264511,Bonn Wilhelm-Levison-Str.,50.724472,7.099107
+1243,203597,Bonn Wilhelmsplatz,50.73995,7.09944
+1244,222947,Bonn Wilhelmsplatz,50.74008,7.098829
+1245,282022,Bonn Wilhelmsplatz,50.74021,7.099017
+1246,129480,Bonn Zeisigweg,50.742615,7.073685
+1247,201976,Bonn Zeisigweg,50.742752,7.075544
+1248,445542,Bonn Zeisigweg,50.742683,7.073532
+1249,153211,Bonn Ückesdorf An Den Kreuzen,50.6959,7.06878
+1250,6901,Bonn Ückesdorf An Den Kreuzen,50.6959,7.06878
+1251,125714,Bonn Ückesdorf Friedhof,50.687332,7.064531
+1252,112145,Bonn Ückesdorf Gymnasium,50.693474,7.069786
+1253,227079,Bonn Ückesdorf Gymnasium,50.693497,7.069696
+1254,233408,Bonn Ückesdorf Gymnasium,50.68869,7.068205
+1255,262461,Bonn Ückesdorf Gymnasium,50.68869,7.068205
+1256,296543,Bonn Ückesdorf Gymnasium,50.693436,7.069804
+1257,420322,Bonn Ückesdorf Gymnasium,50.693447,7.069786
+1258,330470,Bonn Ückesdorf Mitte,50.6923,7.064639
+1259,354614,Bonn Ückesdorf Mitte,50.692047,7.064765
+1260,285628,Bonn Ückesdorf Reichsstr.,50.69467,7.071331
+1261,81116,Bonn Ückesdorf Reichsstr.,50.694366,7.071215
+1262,415063,Bonn Ückesdorf Zum Wingertsberg,50.697186,7.070523
+1263,80639,Bonn Ückesdorf Zum Wingertsberg,50.697372,7.070101

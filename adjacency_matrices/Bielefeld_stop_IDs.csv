@@ -1,0 +1,1562 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,168660,"Bi-Altenhagen, (Stadtbahn)",52.057556,8.627097
+1,352112,"Bi-Altenhagen, (Stadtbahn)",52.0576,8.62715
+2,313388,"Bi-Altenhagen, Am Franzhof",52.047955,8.636259
+3,330000,"Bi-Altenhagen, Am Franzhof",52.047974,8.636197
+4,355286,"Bi-Altenhagen, Buschbachtal",52.0567,8.617628
+5,431058,"Bi-Altenhagen, Buschbachtal",52.056793,8.617646
+6,239295,"Bi-Altenhagen, Fortmann",52.049667,8.658618
+7,308106,"Bi-Altenhagen, Fortmann",52.049713,8.658565
+8,126602,"Bi-Altenhagen, Friedhof",52.055397,8.627725
+9,308757,"Bi-Altenhagen, Friedhof",52.055424,8.627582
+10,327011,"Bi-Altenhagen, Grundschule",52.04695,8.640068
+11,383719,"Bi-Altenhagen, Grundschule",52.04695,8.640041
+12,131990,"Bi-Altenhagen, Horst",52.058517,8.654369
+13,207445,"Bi-Altenhagen, Horst",52.058506,8.654351
+14,121688,"Bi-Altenhagen, Kirche",52.04766,8.646985
+15,242916,"Bi-Altenhagen, Kirche",52.047657,8.64703
+16,244625,"Bi-Altenhagen, Milser Feld",52.06037,8.629378
+17,360422,"Bi-Altenhagen, Milser Feld",52.060406,8.629396
+18,260810,"Bi-Altenhagen, Moenkamp",52.055534,8.623027
+19,307303,"Bi-Altenhagen, Moenkamp",52.055416,8.62397
+20,327937,"Bi-Altenhagen, Nadigstraße",52.048252,8.652537
+21,83806,"Bi-Altenhagen, Nadigstraße",52.048275,8.6526
+22,409331,"Bi-Altenhagen, Pausenweg",52.045338,8.643832
+23,450857,"Bi-Altenhagen, Pausenweg",52.045353,8.643886
+24,155328,"Bi-Altenhagen, Römerstraße",52.057743,8.633259
+25,119684,"Bi-Altenhagen, Siedlung",52.042545,8.624033
+26,157446,"Bi-Altenhagen, Siedlung",52.04261,8.624267
+27,245351,"Bi-Altenhagen, Siedlung",52.042652,8.624366
+28,157196,"Bi-Altenhagen, Starke",52.05572,8.638074
+29,240119,"Bi-Altenhagen, Starke",52.055733,8.637966
+30,440085,"Bi-Altenhagen, Starke",52.055744,8.637939
+31,205320,"Bi-Altenhagen, Stenner",52.053623,8.659391
+32,5194,"Bi-Altenhagen, Stenner",52.05357,8.659409
+33,101181,"Bi-Altenhagen, Vinner Straße",52.057533,8.643338
+34,318093,"Bi-Altenhagen, Vinner Straße",52.057545,8.643302
+35,357891,"Bi-Altenhagen, Zum Heller",52.05611,8.632244
+36,179116,Bi-Babenhausen Süd (Stadtbahn),52.05513,8.518158
+37,205082,Bi-Babenhausen Süd (Stadtbahn),52.055237,8.518724
+38,256043,Bi-Babenhausen Süd (Stadtbahn),52.055325,8.518454
+39,35902,Bi-Babenhausen Süd (Stadtbahn),52.055397,8.518517
+40,438674,Bi-Babenhausen Süd (Stadtbahn),52.055267,8.518158
+41,154398,"Bi-Babenhausen, Bültmannskrug",52.059044,8.513576
+42,50381,"Bi-Babenhausen, Bültmannskrug",52.059025,8.513594
+43,185503,"Bi-Babenhausen, Haferstraße",52.057877,8.482683
+44,309448,"Bi-Babenhausen, Haferstraße",52.057877,8.48263
+45,153493,"Bi-Babenhausen, Hainteich",52.059296,8.503443
+46,51662,"Bi-Babenhausen, Hainteich",52.059307,8.503426
+47,197349,"Bi-Babenhausen, Höfeweg",52.052326,8.467044
+48,298937,"Bi-Babenhausen, Höfeweg",52.052326,8.467062
+49,443837,"Bi-Babenhausen, Niemeyer",52.0596,8.48536
+50,82562,"Bi-Babenhausen, Niemeyer",52.059628,8.485333
+51,137342,"Bi-Babenhausen, Pottkamp",52.059765,8.495583
+52,332888,"Bi-Babenhausen, Pottkamp",52.05989,8.494424
+53,408180,"Bi-Babenhausen, Pottkamp",52.060223,8.495323
+54,84465,"Bi-Babenhausen, Pottkamp",52.05987,8.495386
+55,162086,"Bi-Babenhausen, Union",52.055916,8.473404
+56,385354,"Bi-Babenhausen, Union",52.055893,8.473386
+57,54286,Bi-Brackw. Altenheim Rosenhöhe,51.983097,8.530815
+58,191069,"Bi-Brackwede, Am Langen Grund",51.993874,8.494146
+59,450183,"Bi-Brackwede, Am Langen Grund",51.993847,8.49411
+60,134306,"Bi-Brackwede, Am Wißbrock",51.984432,8.506938
+61,264407,"Bi-Brackwede, AquaWede",51.98166,8.497928
+62,282850,"Bi-Brackwede, AquaWede",51.9815,8.496868
+63,322091,"Bi-Brackwede, AquaWede",51.981174,8.497569
+64,115150,"Bi-Brackwede, Asholts Hof",51.96332,8.48236
+65,367040,"Bi-Brackwede, Asholts Hof",51.96335,8.482315
+66,151121,"Bi-Brackwede, Bahnhof",51.998596,8.502554
+67,187461,"Bi-Brackwede, Bahnhof",51.9987,8.502707
+68,204260,"Bi-Brackwede, Bahnhof",51.99874,8.502455
+69,219667,"Bi-Brackwede, Bahnhof",51.99745,8.50224
+70,30606,"Bi-Brackwede, Bahnhof",51.997643,8.501072
+71,429023,"Bi-Brackwede, Bahnhof",51.99863,8.502482
+72,61575,"Bi-Brackwede, Baumgarte",51.97507,8.500353
+73,87388,"Bi-Brackwede, Baumgarte",51.975124,8.500371
+74,253764,"Bi-Brackwede, Beckumer Str",51.984802,8.502285
+75,370676,"Bi-Brackwede, Beckumer Str",51.984814,8.502285
+76,186138,"Bi-Brackwede, Bezirksamt",51.99048,8.506992
+77,360134,"Bi-Brackwede, Bezirksamt",51.990463,8.506947
+78,368858,"Bi-Brackwede, Braakstraße",51.96703,8.494263
+79,430482,"Bi-Brackwede, Brackweder Hof",51.981426,8.479485
+80,452537,"Bi-Brackwede, Brackweder Hof",51.981426,8.479476
+81,250042,"Bi-Brackwede, Brocker Schule",51.98488,8.484264
+82,60670,"Bi-Brackwede, Brocker Schule",51.98492,8.484175
+83,228203,"Bi-Brackwede, Dresdener Str.",51.984188,8.51505
+84,200549,"Bi-Brackwede, Düsseldorfer Str",51.981113,8.509399
+85,445578,"Bi-Brackwede, Düsseldorfer Str",51.981068,8.509372
+86,144606,"Bi-Brackwede, Ferdinandstraße",51.99659,8.496104
+87,261187,"Bi-Brackwede, Ferdinandstraße",51.99659,8.496113
+88,124177,"Bi-Brackwede, Friedhof",51.98255,8.518122
+89,454943,"Bi-Brackwede, Friedhof",51.982616,8.518131
+90,142179,"Bi-Brackwede, Gaswerkstraße",51.994045,8.506624
+91,149068,"Bi-Brackwede, Gaswerkstraße",51.9939,8.506875
+92,27889,"Bi-Brackwede, Gaswerkstraße",51.994053,8.506624
+93,319047,"Bi-Brackwede, Gaswerkstraße",51.99408,8.506615
+94,125124,"Bi-Brackwede, Germanenstraße",51.98957,8.505528
+95,315459,"Bi-Brackwede, Germanenstraße",51.989594,8.505537
+96,161290,"Bi-Brackwede, Goldstein",51.977024,8.518266
+97,22732,"Bi-Brackwede, Goldstein",51.97705,8.518167
+98,300594,"Bi-Brackwede, Gotenstraße",51.99601,8.499033
+99,46131,"Bi-Brackwede, Gotenstraße",51.996044,8.499015
+100,271455,"Bi-Brackwede, Graphiastraße",51.98936,8.493823
+101,36975,"Bi-Brackwede, Graphiastraße",51.98935,8.493769
+102,349874,"Bi-Brackwede, Gymnasium",51.984077,8.502222
+103,82743,"Bi-Brackwede, Gymnasium",51.984093,8.502222
+104,452280,"Bi-Brackwede, Hagener Straße",51.98689,8.49791
+105,51937,"Bi-Brackwede, Hagener Straße",51.9868,8.497829
+106,158164,"Bi-Brackwede, Hegelstraße",51.987404,8.487525
+107,186974,"Bi-Brackwede, Hegelstraße",51.98742,8.487516
+108,361510,"Bi-Brackwede, IKEA",51.980465,8.492017
+109,366636,"Bi-Brackwede, Im Brocke",51.979836,8.479288
+110,119047,"Bi-Brackwede, Im Horst",51.96558,8.490966
+111,172961,"Bi-Brackwede, Im Horst",51.96558,8.490939
+112,100803,"Bi-Brackwede, Kirche",51.988216,8.513864
+113,13431,"Bi-Brackwede, Kirche",51.98798,8.51434
+114,220294,"Bi-Brackwede, Kirche",51.987415,8.514574
+115,328764,"Bi-Brackwede, Kirche",51.987442,8.514268
+116,399031,"Bi-Brackwede, Kirche",51.988167,8.513801
+117,92780,"Bi-Brackwede, Kirche",51.98811,8.514089
+118,366135,"Bi-Brackwede, Krh. Rosenhöhe",51.982735,8.53245
+119,161671,"Bi-Brackwede, Kulbrocksiedlung",51.987827,8.494362
+120,246708,"Bi-Brackwede, Kulbrocksiedlung",51.987846,8.494379
+121,194248,"Bi-Brackwede, Kupferhammer",51.990253,8.491217
+122,281467,"Bi-Brackwede, Kupferhammer",51.990185,8.49119
+123,179510,"Bi-Brackwede, Kölner Straße",51.983097,8.504099
+124,286598,"Bi-Brackwede, Kölner Straße",51.983086,8.504054
+125,250091,"Bi-Brackwede, Linzer Straße",51.985535,8.478758
+126,382145,"Bi-Brackwede, Linzer Straße",51.985535,8.478668
+127,298160,"Bi-Brackwede, Möller-Werke",51.987934,8.486025
+128,69203,"Bi-Brackwede, Möller-Werke",51.988,8.486106
+129,171741,"Bi-Brackwede, Normannenstraße",51.990765,8.510792
+130,176699,"Bi-Brackwede, Normannenstraße",51.991104,8.510432
+131,302831,"Bi-Brackwede, Normannenstraße",51.99097,8.510513
+132,440673,"Bi-Brackwede, Normannenstraße",51.991066,8.510459
+133,144185,"Bi-Brackwede, Rosenhöhe",51.98358,8.525964
+134,236532,"Bi-Brackwede, Rosenhöhe",51.98271,8.526692
+135,301389,"Bi-Brackwede, Rosenhöhe",51.983524,8.526144
+136,37836,"Bi-Brackwede, Rosenhöhe",51.984203,8.524778
+137,165739,"Bi-Brackwede, Rostocker Straße",51.978367,8.509372
+138,405021,"Bi-Brackwede, Rostocker Straße",51.978348,8.509345
+139,370471,"Bi-Brackwede, Sennefriedhof W",51.972656,8.518589
+140,378827,"Bi-Brackwede, Sennefriedhof W",51.972626,8.518607
+141,97984,"Bi-Brackwede, Sennefriedhof W",51.972656,8.518571
+142,218958,"Bi-Brackwede, Südheide",51.964504,8.487624
+143,418765,"Bi-Brackwede, Südheide",51.964466,8.487543
+144,355019,"Bi-Brackwede, Südwestfeld",51.966225,8.485684
+145,119524,"Bi-Brackwede, Uthmannstraße",51.98775,8.502285
+146,268721,"Bi-Brackwede, Uthmannstraße",51.987705,8.502312
+147,184414,"Bi-Brackwede, Wikingerstraße",51.988,8.508205
+148,192203,"Bi-Brackwede, Wikingerstraße",51.98802,8.508232
+149,415039,"Bi-Brackwede, Wilh-Thielke-Str",51.979816,8.504872
+150,132664,"Bi-Brackwede, Windelsbl. Str",51.98544,8.518993
+151,133589,"Bi-Brackwede, Windelsbl. Str",51.98554,8.518715
+152,333421,"Bi-Brackwede, Windelsbl. Str",51.98558,8.518382
+153,414715,"Bi-Brackwede, Windelsbl. Str",51.985542,8.517565
+154,444917,"Bi-Brackwede, Windelsbl. Str",51.985554,8.518347
+155,124427,"Bi-Brackwede, Windfang",51.990566,8.517754
+156,434691,"Bi-Brackwede, Windfang",51.99054,8.517799
+157,316660,"Bi-Brackwede, Winterberger Str",51.983913,8.510801
+158,71116,"Bi-Brackwede, Winterberger Str",51.983883,8.510783
+159,162332,"Bi-Brake, AWO-Haus",52.073658,8.595099
+160,87136,"Bi-Brake, AWO-Haus",52.07367,8.595054
+161,256212,"Bi-Brake, Am Bohnenkamp",52.07554,8.600444
+162,97191,"Bi-Brake, Am Bohnenkamp",52.07554,8.60039
+163,215618,"Bi-Brake, Bahnhof",52.069386,8.607163
+164,323138,"Bi-Brake, Bahnhof",52.069374,8.607253
+165,190392,"Bi-Brake, Brakhofstraße",52.074497,8.607208
+166,88588,"Bi-Brake, Brakhofstraße",52.074516,8.607271
+167,236057,"Bi-Brake, Elmshorner Straße",52.080383,8.605959
+168,33137,"Bi-Brake, Elmshorner Straße",52.080345,8.605977
+169,357259,"Bi-Brake, Fehmarnstraße",52.072086,8.579755
+170,435375,"Bi-Brake, Fehmarnstraße",52.07214,8.580267
+171,80234,"Bi-Brake, Fehmarnstraße",52.07158,8.579899
+172,302409,"Bi-Brake, Friedhof",52.06606,8.579064
+173,394073,"Bi-Brake, Friedhof",52.06606,8.578875
+174,383139,"Bi-Brake, Glückstädter Straße",52.078827,8.600866
+175,456607,"Bi-Brake, Glückstädter Straße",52.07884,8.600929
+176,198413,"Bi-Brake, Grafenheide",52.062046,8.574419
+177,92908,"Bi-Brake, Grafenheide",52.062035,8.574509
+178,183720,"Bi-Brake, Grafenheider Straße",52.067116,8.59014
+179,394912,"Bi-Brake, Grafenheider Straße",52.067062,8.590077
+180,146193,"Bi-Brake, Kerksiekweg",52.07093,8.598827
+181,442261,"Bi-Brake, Kerksiekweg",52.07094,8.598782
+182,251885,"Bi-Brake, Kirche",52.07116,8.594461
+183,56068,"Bi-Brake, Kirche",52.071297,8.59332
+184,74623,"Bi-Brake, Kirche",52.071487,8.593985
+185,34988,"Bi-Brake, Klinkerweg",52.07673,8.606893
+186,448792,"Bi-Brake, Klinkerweg",52.076763,8.606938
+187,171099,"Bi-Brake, Klippenweg",52.077877,8.592871
+188,314306,"Bi-Brake, Klippenweg",52.077854,8.593006
+189,177404,"Bi-Brake, Korallenweg",52.077446,8.588173
+190,254521,"Bi-Brake, Korallenweg",52.077435,8.588191
+191,404291,"Bi-Brake, Ladestraße",52.070534,8.601917
+192,436045,"Bi-Brake, Ladestraße",52.070534,8.601953
+193,121081,"Bi-Brake, Langeoogweg",52.072437,8.585747
+194,304059,"Bi-Brake, Langeoogweg",52.07245,8.585747
+195,208279,"Bi-Brake, Lämmkenstatt",52.07653,8.607513
+196,67102,"Bi-Brake, Lämmkenstatt",52.07654,8.60745
+197,130404,"Bi-Brake, Marktplatz",52.071495,8.604154
+198,333980,"Bi-Brake, Marktplatz",52.07148,8.60419
+199,125795,"Bi-Brake, Meerwiese",52.063354,8.607567
+200,90535,"Bi-Brake, Meerwiese",52.063393,8.607711
+201,146654,"Bi-Brake, Spiekeroogstraße",52.06931,8.594811
+202,238201,"Bi-Brake, Spiekeroogstraße",52.06942,8.594802
+203,115093,"Bi-Brake, Tödtheide",52.07543,8.58281
+204,77196,"Bi-Brake, Tödtheide",52.07543,8.582774
+205,291401,"Bi-Brake, Wefelshof",52.071938,8.606265
+206,80223,"Bi-Brake, Wefelshof",52.07191,8.606265
+207,116231,"Bi-Brake, Welscher",52.067856,8.612418
+208,197665,"Bi-Brake, Welscher",52.067795,8.61231
+209,215821,"Bi-Brake, Welscher",52.06782,8.612328
+210,8073,"Bi-Brake, Werkstraße",52.066967,8.583034
+211,319822,"Bi-Brönninghsn, Bastertsiedlg",52.03715,8.6397
+212,42502,"Bi-Brönninghsn, Bastertsiedlg",52.037163,8.639727
+213,337020,"Bi-Brönninghsn, Bentrup",52.026184,8.628372
+214,349170,"Bi-Brönninghsn, Bentrup",52.026173,8.628435
+215,106754,"Bi-Brönninghsn, Kusenweg",52.031948,8.627788
+216,261812,"Bi-Brönninghsn, Kusenweg",52.03194,8.627788
+217,439293,"Bi-Brönninghsn, Mitte",52.01216,8.635397
+218,87990,"Bi-Brönninghsn, Mitte",52.012146,8.635415
+219,411549,"Bi-Brönninghsn, Niewaldstr",52.04108,8.645862
+220,431132,"Bi-Brönninghsn, Niewaldstr",52.04109,8.645898
+221,290298,"Bi-Brönninghsn, Runkelkrug",52.024696,8.637292
+222,399093,"Bi-Brönninghsn, Runkelkrug",52.0247,8.63723
+223,118607,"Bi-Brönninghsn, Schwedenklei",52.043777,8.654738
+224,376525,"Bi-Brönninghsn, Schwedenklei",52.04379,8.654792
+225,271036,Bi-Dalbke,51.931614,8.609588
+226,350770,Bi-Dalbke,51.931625,8.60966
+227,220932,"Bi-Dalbke, Am Sprungfeld",51.933758,8.602635
+228,227551,"Bi-Dalbke, Am Sprungfeld",51.93378,8.602609
+229,28966,"Bi-Dalbke, Dalbker Allee",51.930107,8.605223
+230,316911,"Bi-Dalbke, Dalbker Allee",51.930164,8.605294
+231,180917,"Bi-Dalbke, Gildemeister",51.929012,8.599752
+232,343137,"Bi-Dalbke, Gildemeister",51.928978,8.599824
+233,26322,"Bi-Dalbke, Morsestraße",51.92806,8.599051
+234,292026,"Bi-Dalbke, Morsestraße",51.928116,8.599033
+235,291567,"Bi-Dalbke, Schopketalweg",51.93129,8.608259
+236,440467,"Bi-Dalbke, Schopketalweg",51.93126,8.608259
+237,415879,"Bi-Deppendorf, Schlingkrug",52.07147,8.464942
+238,98966,"Bi-Deppendorf, Schlingkrug",52.07148,8.464942
+239,304121,"Bi-Dornberg, Sportplatz",52.046513,8.444307
+240,4331,"Bi-Dornberg, Sportplatz",52.0465,8.444307
+241,210413,"Bi-Eckardtsh, Freizeitzentrum",51.932247,8.556112
+242,31734,"Bi-Eckardtsh, Freizeitzentrum",51.93222,8.556094
+243,14220,"Bi-Eckardtsh, P-Gerhardt-Weg",51.93441,8.561223
+244,5661,"Bi-Eckardtsh, P-Gerhardt-Weg",51.934383,8.561268
+245,202801,"Bi-Eckardtsh, Semmelweisweg",51.928955,8.560504
+246,263746,"Bi-Eckardtsh, Semmelweisweg",51.928932,8.560504
+247,310789,"Bi-Eckardtsh., Friedrichshütte",51.92197,8.552968
+248,96929,"Bi-Eckardtsh., Friedrichshütte",51.921886,8.553031
+249,384815,"Bi-Eckardtsheim, Eckardtsh.Str",51.931866,8.55728
+250,38706,"Bi-Eckardtsheim, Eckardtsh.Str",51.931866,8.55728
+251,377659,"Bi-Eckardtsheim, Eichhof",51.93447,8.543697
+252,92863,"Bi-Eckardtsheim, Eichhof",51.934402,8.54367
+253,442372,"Bi-Eckardtsheim, Haus Elim",51.932507,8.559292
+254,81886,"Bi-Eckardtsheim, Haus Elim",51.932503,8.559364
+255,308308,"Bi-Eckardtsheim, Heidegrundweg",51.93433,8.544461
+256,341433,"Bi-Eckardtsheim, Heidegrundweg",51.934353,8.544461
+257,403888,"Bi-Eckardtsheim, Kuhloweg",51.936184,8.563909
+258,411128,"Bi-Eckardtsheim, Kuhloweg",51.936157,8.564035
+259,221286,"Bi-Eckardtsheim, Neu Eckehardt",51.935966,8.551997
+260,76671,"Bi-Eckardtsheim, Neu Eckehardt",51.93598,8.551997
+261,19943,"Bi-Eckardtsheim, Pontus",51.927372,8.556013
+262,327629,"Bi-Eckardtsheim, Pontus",51.927425,8.556067
+263,28391,"Bi-Eckardtsheim, Tannenwald",51.92574,8.563298
+264,451051,"Bi-Eckardtsheim, Tannenwald",51.925728,8.563163
+265,123030,"Bi-Eckardtsheim, Wilhelmsdorf",51.927094,8.553498
+266,242069,"Bi-Eckardtsheim, Wilhelmsdorf",51.927094,8.553498
+267,12938,"Bi-Gadderbaum, Abendlicht",52.007683,8.532962
+268,411261,"Bi-Gadderbaum, Abendlicht",52.007652,8.532863
+269,328857,"Bi-Gadderbaum, Am Lauksberg",52.00922,8.506929
+270,365344,"Bi-Gadderbaum, Am Lauksberg",52.00922,8.506929
+271,348702,"Bi-Gadderbaum, Am Wittenbrink",52.00056,8.515211
+272,79966,"Bi-Gadderbaum, Am Wittenbrink",52.000584,8.515158
+273,168050,"Bi-Gadderbaum, An der Rehwiese",52.00436,8.525425
+274,444778,"Bi-Gadderbaum, An der Rehwiese",52.00432,8.525632
+275,205517,"Bi-Gadderbaum, Bauernhausmus.",52.022453,8.506138
+276,276891,"Bi-Gadderbaum, Bauernhausmus.",52.022453,8.506543
+277,149281,"Bi-Gadderbaum, Bethel",52.01333,8.521248
+278,170234,"Bi-Gadderbaum, Bethel",52.01339,8.521473
+279,182547,"Bi-Gadderbaum, Bethel",52.013313,8.521356
+280,248420,"Bi-Gadderbaum, Bethel",52.012836,8.520341
+281,389488,"Bi-Gadderbaum, Bethel",52.01292,8.521949
+282,448210,"Bi-Gadderbaum, Bethel",52.01211,8.520386
+283,216743,"Bi-Gadderbaum, Bethelplatz",52.010258,8.523718
+284,337194,"Bi-Gadderbaum, Bethelplatz",52.010265,8.523692
+285,188932,"Bi-Gadderbaum, Dankort",52.00947,8.52079
+286,250638,"Bi-Gadderbaum, Dankort",52.00944,8.520718
+287,7851,"Bi-Gadderbaum, Dreesgen",51.997692,8.519236
+288,7883,"Bi-Gadderbaum, Dreesgen",51.99771,8.5192
+289,206019,"Bi-Gadderbaum, Ebenezer",52.005234,8.53095
+290,135483,"Bi-Gadderbaum, Eggeweg",52.00518,8.509489
+291,173420,"Bi-Gadderbaum, Eggeweg",52.005802,8.510558
+292,324579,"Bi-Gadderbaum, Eggeweg",52.00512,8.509678
+293,412997,"Bi-Gadderbaum, Eggeweg",52.00576,8.510639
+294,34693,"Bi-Gadderbaum, Freudental",52.010223,8.533348
+295,388185,"Bi-Gadderbaum, Freudental",52.01024,8.533375
+296,138679,"Bi-Gadderbaum, Friedr-List-Str",52.00978,8.517179
+297,171906,"Bi-Gadderbaum, Friedr-List-Str",52.009945,8.518481
+298,208795,"Bi-Gadderbaum, Friedr-List-Str",52.009865,8.517089
+299,338198,"Bi-Gadderbaum, Friedr-List-Str",52.009808,8.517107
+300,60017,"Bi-Gadderbaum, Friedr-List-Str",52.00994,8.518481
+301,69728,"Bi-Gadderbaum, Friedr-List-Str",52.00976,8.517331
+302,190483,"Bi-Gadderbaum, Gilead I/II",52.012375,8.52706
+303,421904,"Bi-Gadderbaum, Gilead I/II",52.01239,8.527195
+304,135837,"Bi-Gadderbaum, Gilead IV",52.000706,8.537526
+305,421548,"Bi-Gadderbaum, Gilead IV",52.000793,8.537409
+306,109778,"Bi-Gadderbaum, Grünenwalde",51.993923,8.527213
+307,213208,"Bi-Gadderbaum, Grünenwalde",51.99327,8.526925
+308,408004,"Bi-Gadderbaum, Grünenwalde",51.993332,8.527626
+309,51641,"Bi-Gadderbaum, Grünenwalde",51.993713,8.527186
+310,398013,"Bi-Gadderbaum, Habichtshöhe",51.993134,8.546015
+311,430285,"Bi-Gadderbaum, Habichtshöhe",51.99315,8.546042
+312,49839,"Bi-Gadderbaum, Handwerkerstr.",52.00747,8.521751
+313,83912,"Bi-Gadderbaum, Handwerkerstr.",52.007496,8.521769
+314,358367,"Bi-Gadderbaum, Haus Salem",51.993233,8.535037
+315,6998,"Bi-Gadderbaum, Haus Salem",51.993217,8.534965
+316,334819,"Bi-Gadderbaum, Hohenzollernstr",52.009956,8.509597
+317,60765,"Bi-Gadderbaum, Hohenzollernstr",52.009968,8.50957
+318,372874,"Bi-Gadderbaum, Jabbok",52.0025,8.534956
+319,80789,"Bi-Gadderbaum, Jabbok",52.00241,8.534983
+320,106526,"Bi-Gadderbaum, Johannisfriedhf",52.01671,8.516514
+321,434259,"Bi-Gadderbaum, Johannisfriedhf",52.01638,8.517107
+322,165267,"Bi-Gadderbaum, Kinderklinik",52.012352,8.530591
+323,182764,"Bi-Gadderbaum, Kinderklinik",52.01233,8.530591
+324,205649,"Bi-Gadderbaum, Kirchl Hochsch",52.003452,8.537175
+325,370179,"Bi-Gadderbaum, Kirchl Hochsch",52.003452,8.537292
+326,280606,"Bi-Gadderbaum, Kükenshove",52.006214,8.519218
+327,45924,"Bi-Gadderbaum, Kükenshove",52.006218,8.519218
+328,287596,"Bi-Gadderbaum, Langenhagen",52.012295,8.514205
+329,400140,"Bi-Gadderbaum, Langenhagen",52.012314,8.514169
+330,197809,"Bi-Gadderbaum, Lindenhof",51.998936,8.533582
+331,392712,"Bi-Gadderbaum, Lindenhof",51.99889,8.533465
+332,131946,"Bi-Gadderbaum, Mara",52.006573,8.526584
+333,275558,"Bi-Gadderbaum, Mara",52.0067,8.526485
+334,360654,"Bi-Gadderbaum, Martiniweg",52.01069,8.521607
+335,408368,"Bi-Gadderbaum, Martiniweg",52.01069,8.521634
+336,330370,"Bi-Gadderbaum, Neue Schmiede",52.009056,8.522874
+337,368433,"Bi-Gadderbaum, Neue Schmiede",52.00904,8.522856
+338,197970,"Bi-Gadderbaum, Pella-Friedhof",52.002686,8.517385
+339,324368,"Bi-Gadderbaum, Pella-Friedhof",52.002674,8.51743
+340,25151,"Bi-Gadderbaum, Quellenhof",52.001286,8.529782
+341,425903,"Bi-Gadderbaum, Quellenhof",52.001358,8.52971
+342,322523,"Bi-Gadderbaum, Quellenhofweg",52.008327,8.519128
+343,336111,"Bi-Gadderbaum, Quellenhofweg",52.008286,8.519182
+344,40961,"Bi-Gadderbaum, Quellenhofweg",52.00859,8.520691
+345,215142,"Bi-Gadderbaum, Randweg",51.99622,8.521616
+346,351122,"Bi-Gadderbaum, Randweg",51.99621,8.521643
+347,112792,"Bi-Gadderbaum, Remterweg",51.99678,8.536367
+348,90886,"Bi-Gadderbaum, Remterweg",51.996834,8.536268
+349,2826,"Bi-Gadderbaum, Schildhof",52.009243,8.505456
+350,344855,"Bi-Gadderbaum, Schildhof",52.00927,8.505456
+351,367433,"Bi-Gadderbaum, Schildhof Kehre",52.00923,8.503812
+352,224920,"Bi-Gadderbaum, Talblick",52.003906,8.518365
+353,64064,"Bi-Gadderbaum, Talblick",52.003883,8.518373
+354,365827,"Bi-Gadderbaum, Tierpark",52.02203,8.500102
+355,80344,"Bi-Gadderbaum, Tierpark",52.022076,8.500308
+356,193177,"Bi-Gadderbaum, Uhlandstraße",52.018692,8.513945
+357,68791,"Bi-Gadderbaum, Uhlandstraße",52.01854,8.513981
+358,343713,"Bi-Gellersh., G.-Hauptmann-Str",52.040276,8.512939
+359,369701,"Bi-Gellersh., G.-Hauptmann-Str",52.040264,8.512912
+360,159560,"Bi-Gellershagen, Altdorferstr",52.045628,8.502887
+361,49426,"Bi-Gellershagen, Altdorferstr",52.045574,8.502851
+362,200139,"Bi-Gellershagen, Am Brodhagen",52.046017,8.507845
+363,272043,"Bi-Gellershagen, Am Brodhagen",52.04598,8.507863
+364,384585,"Bi-Gellershagen, Am Feuerholz",52.044125,8.53183
+365,404078,"Bi-Gellershagen, Am Feuerholz",52.04411,8.531803
+366,273018,"Bi-Gellershagen, Am Rehwinkel",52.041332,8.502348
+367,412360,"Bi-Gellershagen, Am Rehwinkel",52.041332,8.502536
+368,409073,"Bi-Gellershagen, Auf der Hufe",52.04131,8.52309
+369,436910,"Bi-Gellershagen, Auf der Hufe",52.0414,8.522991
+370,148266,"Bi-Gellershagen, Barlachstraße",52.057003,8.511061
+371,392844,"Bi-Gellershagen, Barlachstraße",52.05698,8.511061
+372,356210,"Bi-Gellershagen, Bünder Str",52.03927,8.532711
+373,378672,"Bi-Gellershagen, Bünder Str",52.039303,8.532711
+374,289181,"Bi-Gellershagen, Daimlerstraße",52.057713,8.522757
+375,266963,"Bi-Gellershagen, Drögestraße",52.037098,8.516604
+376,421449,"Bi-Gellershagen, Drögestraße",52.037064,8.516604
+377,377889,"Bi-Gellershagen, Dürerstraße",52.051723,8.507827
+378,409792,"Bi-Gellershagen, Dürerstraße",52.051758,8.507854
+379,226945,"Bi-Gellershagen, Flehmannshof",52.043457,8.513343
+380,298476,"Bi-Gellershagen, Flehmannshof",52.043457,8.513325
+381,410375,"Bi-Gellershagen, Hainteichstr",52.0507,8.511322
+382,417984,"Bi-Gellershagen, Hainteichstr",52.051235,8.511861
+383,89002,"Bi-Gellershagen, Hainteichstr",52.051167,8.511726
+384,313505,"Bi-Gellershagen, Henriettenstr",52.04078,8.52768
+385,426335,"Bi-Gellershagen, Henriettenstr",52.04078,8.527653
+386,456747,"Bi-Gellershagen, Henschelstr",52.054707,8.523674
+387,7035,"Bi-Gellershagen, Henschelstr",52.054707,8.523584
+388,115172,"Bi-Gellershagen, Horstheid.Weg",52.05704,8.52715
+389,45261,"Bi-Gellershagen, Horstheid.Weg",52.057312,8.528264
+390,92681,"Bi-Gellershagen, Horstheid.Weg",52.05709,8.527105
+391,227850,"Bi-Gellershagen, Hägerweg",52.048183,8.508133
+392,352367,"Bi-Gellershagen, Hägerweg",52.048374,8.508357
+393,310717,"Bi-Gellershagen, J-Kaiser-Str",52.0387,8.512723
+394,446772,"Bi-Gellershagen, J-Kaiser-Str",52.038715,8.512732
+395,107589,"Bi-Gellershagen, Klarhorststr",52.041714,8.532243
+396,452514,"Bi-Gellershagen, Klarhorststr",52.04169,8.532261
+397,244769,"Bi-Gellershagen, Koblenzer Str",52.049393,8.521643
+398,359656,"Bi-Gellershagen, Koblenzer Str",52.04879,8.521895
+399,87450,"Bi-Gellershagen, Koblenzer Str",52.049522,8.521688
+400,398551,"Bi-Gellershagen, Lange Straße",52.044464,8.52273
+401,61551,"Bi-Gellershagen, Lange Straße",52.0449,8.522614
+402,215613,"Bi-Gellershagen, Leiblstraße",52.049522,8.50268
+403,245418,"Bi-Gellershagen, Leiblstraße",52.049534,8.502752
+404,18648,"Bi-Gellershagen, Mainzer Str",52.053696,8.51743
+405,134222,"Bi-Gellershagen, Meierteich",52.044975,8.52927
+406,398138,"Bi-Gellershagen, Meierteich",52.044975,8.529243
+407,129860,"Bi-Gellershagen, Schneiderstr",52.044846,8.505016
+408,269012,"Bi-Gellershagen, Schneiderstr",52.044872,8.505034
+409,415203,"Bi-Gellershagen, Schongauerstr",52.050823,8.505465
+410,457187,"Bi-Gellershagen, Schongauerstr",52.050823,8.505429
+411,264432,"Bi-Gellershagen, Stennerstr",52.05392,8.509031
+412,426665,"Bi-Gellershagen, Stennerstr",52.05392,8.509058
+413,269449,"Bi-Gellershagen, Storchsbrede",52.05626,8.514735
+414,433188,"Bi-Gellershagen, Storchsbrede",52.056507,8.51505
+415,130058,"Bi-Gellershagen, Torfstichweg",52.048214,8.527518
+416,297986,"Bi-Gellershagen, Torfstichweg",52.048214,8.527527
+417,187292,"Bi-Gellershagen, Voltmannstr",52.05296,8.519496
+418,296394,"Bi-Gellershagen, Voltmannstr",52.052868,8.519577
+419,374672,"Bi-Gellershagen, Voltmannstr",52.05297,8.519407
+420,337771,"Bi-Gellershagen, Westerfeldstr",52.058517,8.51726
+421,415268,"Bi-Gellershagen, Westerfeldstr",52.058517,8.517188
+422,130479,"Bi-Gellershg, Mergenthalerweg",52.052456,8.527545
+423,364473,"Bi-Gellershg, Mergenthalerweg",52.052467,8.527527
+424,101621,"Bi-Großdornberg, Auf der Egge",52.03779,8.482216
+425,317300,"Bi-Großdornberg, Auf der Egge",52.037754,8.482144
+426,167478,"Bi-Großdornberg, Bürgerz.",52.04874,8.45595
+427,328359,"Bi-Großdornberg, Bürgerz.",52.04932,8.455177
+428,433784,"Bi-Großdornberg, Bürgerz.",52.04874,8.455932
+429,129574,"Bi-Großdornberg, Deppendf. Str",52.051468,8.459884
+430,171796,"Bi-Großdornberg, Deppendf. Str",52.051456,8.459866
+431,178215,"Bi-Großdornberg, Freibad",52.043053,8.469083
+432,25696,"Bi-Großdornberg, Freibad",52.043015,8.469361
+433,270284,"Bi-Großdornberg, Freibad",52.043015,8.469451
+434,427301,"Bi-Großdornberg, Freibad",52.042934,8.470242
+435,28670,"Bi-Großdornberg, Großer Kamp",52.048138,8.451296
+436,37320,"Bi-Großdornberg, Großer Kamp",52.048103,8.451242
+437,197051,"Bi-Großdornberg, Kladower Weg",52.042557,8.477222
+438,291209,"Bi-Großdornberg, Kladower Weg",52.04254,8.477204
+439,195956,"Bi-Großdornberg, Lohmannshof",52.045265,8.485513
+440,221082,"Bi-Großdornberg, Lohmannshof",52.04522,8.485351
+441,292292,"Bi-Großdornberg, Lohmannshof",52.045414,8.484956
+442,421870,"Bi-Großdornberg, Lohmannshof",52.04508,8.485369
+443,155443,"Bi-Großdornberg, Pappelkrug",52.040066,8.477563
+444,245866,"Bi-Großdornberg, Pappelkrug",52.04081,8.476359
+445,317368,"Bi-Großdornberg, Pappelkrug",52.04079,8.477725
+446,114738,"Bi-Großdornberg, Pichelsd. Weg",52.044983,8.476234
+447,46916,"Bi-Großdornberg, Pichelsd. Weg",52.044987,8.476126
+448,13608,"Bi-Großdornberg, Spand. Allee",52.043133,8.482333
+449,181278,"Bi-Großdornberg, Spand. Allee",52.04307,8.482162
+450,173358,"Bi-Großdornberg, Twellbachtal",52.043846,8.465481
+451,303862,"Bi-Großdornberg, Twellbachtal",52.043873,8.465121
+452,172489,"Bi-Großdornberg, Vulsiekshof",52.049786,8.460648
+453,409206,"Bi-Großdornberg, Vulsiekshof",52.049763,8.460666
+454,106242,"Bi-Großdornberg, Wellensiek",52.042606,8.489924
+455,172644,"Bi-Großdornberg, Wellensiek",52.04253,8.489762
+456,266132,"Bi-Großdornberg, Wellensiek",52.04258,8.489924
+457,339755,"Bi-Großdornberg, Wellensiek",52.042595,8.489933
+458,325241,"Bi-Großdornbg, Wellensiek Süd",52.036655,8.486079
+459,79112,"Bi-Großdornbg, Wellensiek Süd",52.036682,8.485944
+460,138954,"Bi-Heepen, Alter Postweg",52.02884,8.603893
+461,206302,"Bi-Heepen, Alter Postweg",52.02876,8.603579
+462,325536,"Bi-Heepen, Alter Postweg",52.029102,8.604621
+463,163182,"Bi-Heepen, Am Alten Bauhof",52.034733,8.611313
+464,354637,"Bi-Heepen, Am Alten Bauhof",52.034878,8.611717
+465,426242,"Bi-Heepen, Am Alten Bauhof",52.03457,8.611205
+466,430208,"Bi-Heepen, Am Büscherhof",52.02833,8.601863
+467,448337,"Bi-Heepen, Am Büscherhof",52.02836,8.601728
+468,79083,"Bi-Heepen, Am Büscherhof",52.028427,8.601513
+469,189006,"Bi-Heepen, Am Dreierfeld",52.019417,8.598863
+470,266274,"Bi-Heepen, Am Dreierfeld",52.01948,8.598889
+471,159613,"Bi-Heepen, Am Großen Wiel",52.044365,8.597273
+472,50085,"Bi-Heepen, Am Großen Wiel",52.044327,8.597228
+473,281084,"Bi-Heepen, Am Kuhlenbrink",52.021126,8.610298
+474,411282,"Bi-Heepen, Am Kuhlenbrink",52.02113,8.610298
+475,388134,"Bi-Heepen, Am Vollbruch",52.01669,8.597821
+476,46615,"Bi-Heepen, Am Vollbruch",52.016697,8.597838
+477,278853,"Bi-Heepen, Am Wellbach",52.038815,8.591002
+478,98517,"Bi-Heepen, Am Wellbach",52.038837,8.591083
+479,368799,"Bi-Heepen, Baumheide",52.04973,8.596177
+480,433248,"Bi-Heepen, Baumheide",52.04995,8.595934
+481,62279,"Bi-Heepen, Baumheide",52.049713,8.596033
+482,64885,"Bi-Heepen, Baumheide",52.049664,8.596365
+483,92180,"Bi-Heepen, Baumheide",52.049953,8.595925
+484,359018,"Bi-Heepen, Bentruperheider W",52.026764,8.624788
+485,455287,"Bi-Heepen, Bentruperheider W",52.02678,8.624788
+486,17791,"Bi-Heepen, Bisch.-Meinwerk-Str",52.03323,8.609597
+487,86165,"Bi-Heepen, Bisch.-Meinwerk-Str",52.03323,8.609597
+488,326256,"Bi-Heepen, Fohlenwiese",52.03651,8.60215
+489,386276,"Bi-Heepen, Fohlenwiese",52.036472,8.60215
+490,124376,"Bi-Heepen, Frehe",52.049603,8.585037
+491,407310,"Bi-Heepen, Frehe",52.0498,8.586196
+492,437182,"Bi-Heepen, Frehe",52.049564,8.586466
+493,71009,"Bi-Heepen, Frehe",52.049706,8.58502
+494,172871,"Bi-Heepen, Gustav-Bastert-Str",52.02572,8.609561
+495,367570,"Bi-Heepen, Gustav-Bastert-Str",52.02566,8.609517
+496,157041,"Bi-Heepen, Hagenkamp",52.040867,8.597668
+497,434950,"Bi-Heepen, Hagenkamp",52.040882,8.597623
+498,160060,"Bi-Heepen, Halhof",52.052795,8.574213
+499,371549,"Bi-Heepen, Halhof",52.052822,8.574213
+500,364057,"Bi-Heepen, Hassebrock",52.030075,8.607531
+501,5288,"Bi-Heepen, Hassebrock",52.030117,8.607558
+502,296829,"Bi-Heepen, Heeperh./Hilleg.Str",52.02166,8.611259
+503,115324,"Bi-Heepen, Heeperholz",52.02065,8.604881
+504,237056,"Bi-Heepen, Heeperholz",52.02065,8.604845
+505,238976,"Bi-Heepen, Heinr-Horstmann-Weg",52.026237,8.602501
+506,30389,"Bi-Heepen, Heinr-Horstmann-Weg",52.026264,8.602519
+507,270866,"Bi-Heepen, Huttelweg",52.020214,8.600731
+508,384437,"Bi-Heepen, Huttelweg",52.020218,8.600668
+509,296924,"Bi-Heepen, Lübrasser Krug",52.023445,8.610541
+510,33906,"Bi-Heepen, Lübrasser Krug",52.023342,8.610541
+511,324963,"Bi-Heepen, Meyer zu Heepen",52.030975,8.592224
+512,342560,"Bi-Heepen, Meyer zu Heepen",52.03095,8.592143
+513,155297,"Bi-Heepen, Muerfeldstraße",52.031128,8.594766
+514,86500,"Bi-Heepen, Muerfeldstraße",52.03121,8.594658
+515,125040,"Bi-Heepen, Plöner Straße",52.023014,8.600794
+516,353865,"Bi-Heepen, Plöner Straße",52.023014,8.600776
+517,181172,"Bi-Heepen, Rabenhof",52.053375,8.592943
+518,87100,"Bi-Heepen, Rabenhof",52.053387,8.592934
+519,106767,"Bi-Heepen, Rüggesiek",52.032284,8.609597
+520,68012,"Bi-Heepen, Rüggesiek",52.032295,8.609615
+521,379219,"Bi-Heepen, Salzufler Straße",52.029213,8.610038
+522,452315,"Bi-Heepen, Salzufler Straße",52.02826,8.611735
+523,23374,"Bi-Heepen, Seidenstickerstraße",52.048134,8.591155
+524,77385,"Bi-Heepen, Seidenstickerstraße",52.04793,8.590463
+525,333952,"Bi-Heepen, Theodor-Heuss-Str",52.028786,8.607055
+526,354800,"Bi-Heepen, Theodor-Heuss-Str",52.028763,8.607091
+527,19478,"Bi-Heepen, Tieplatz",52.03275,8.605007
+528,331659,"Bi-Heepen, Tieplatz",52.03274,8.60498
+529,303643,"Bi-Heepen, Tieplatz/Kirche",52.03248,8.602043
+530,320095,"Bi-Heepen, Tieplatz/Kirche",52.032753,8.605052
+531,232010,"Bi-Heepen, Wacholderweg",52.05186,8.59323
+532,87365,"Bi-Heepen, Wacholderweg",52.051884,8.593185
+533,237437,"Bi-Heepen, Werning",52.028343,8.614565
+534,3147,"Bi-Heepen, Werning",52.02826,8.615463
+535,347726,Bi-Heideblümchen,51.92068,8.583403
+536,389582,Bi-Heideblümchen,51.92067,8.583394
+537,10634,"Bi-Heideblümchen, Farnweg",51.92316,8.581741
+538,134591,"Bi-Heideblümchen, Farnweg",51.923233,8.58175
+539,318800,"Bi-Heideblümchen, Farnweg",51.923187,8.581669
+540,23260,"Bi-Heideblümchen, Ginsterweg",51.92232,8.576647
+541,90840,"Bi-Heideblümchen, Ginsterweg",51.922348,8.576719
+542,154580,"Bi-Heideblümchen, Hülsenweg",51.926193,8.589484
+543,38433,"Bi-Heideblümchen, Hülsenweg",51.92622,8.589502
+544,115885,"Bi-Heideblümchen, Schule",51.924946,8.581956
+545,11747,"Bi-Heideblümchen, Schule",51.92541,8.58175
+546,430684,"Bi-Heideblümchen, Schule",51.924946,8.582046
+547,431484,"Bi-Heideblümchen, Schule",51.925354,8.581696
+548,64211,"Bi-Heideblümchen, Schule",51.924946,8.582136
+549,34351,"Bi-Heideblümchen, Strothbachst",51.929234,8.582711
+550,383630,"Bi-Heideblümchen, Strothbachst",51.92925,8.582675
+551,335804,Bi-Hilleg Gustav-Winkler-Str.,51.992455,8.621464
+552,383711,Bi-Hilleg Gustav-Winkler-Str.,51.992447,8.621482
+553,195787,"Bi-Hilleg, Walter-Werning-Str.",51.990753,8.618293
+554,359751,"Bi-Hilleg, Walter-Werning-Str.",51.990753,8.618365
+555,119011,"Bi-Hillegossen, A d Wesebreede",51.988945,8.620242
+556,171490,"Bi-Hillegossen, A d Wesebreede",51.988983,8.620242
+557,405810,"Bi-Hillegossen, Auf dem Busch",52.00221,8.626099
+558,450032,"Bi-Hillegossen, Auf dem Busch",52.002388,8.62574
+559,103051,"Bi-Hillegossen, Freibad",51.991096,8.607109
+560,185456,"Bi-Hillegossen, Freibad",51.992077,8.607495
+561,415731,"Bi-Hillegossen, Freibad",51.991096,8.607037
+562,68834,"Bi-Hillegossen, Freibad",51.99076,8.607423
+563,297291,"Bi-Hillegossen, Hörster Straße",51.998947,8.627698
+564,298153,"Bi-Hillegossen, Hörster Straße",51.998947,8.6276
+565,456282,"Bi-Hillegossen, Hörster Straße",51.998962,8.627672
+566,259556,"Bi-Hillegossen, Nesselstraße",51.990265,8.615095
+567,263912,"Bi-Hillegossen, Nesselstraße",51.990284,8.615095
+568,103838,"Bi-Hillegossen, Oerlinghsr.Str",51.993244,8.60648
+569,175010,"Bi-Hillegossen, Oerlinghsr.Str",51.99319,8.606346
+570,39087,"Bi-Hillegossen, Schule",51.992443,8.611098
+571,410648,"Bi-Hillegossen, Schule",51.992397,8.611169
+572,18139,"Bi-Hillegossen, Veltheimer Str",51.998386,8.624051
+573,192944,"Bi-Hillegossen, Veltheimer Str",51.99838,8.623988
+574,36230,"Bi-Hillegossen, Veltheimer Str",51.99836,8.624006
+575,244816,"Bi-Hob/Uerent, Kreiensiekshd",52.03486,8.462211
+576,448993,"Bi-Hob/Uerent, Kreiensiekshd",52.034878,8.462238
+577,159905,"Bi-Hob/Uerent., A.d.Wolfskuhle",52.022522,8.489295
+578,223108,"Bi-Hob/Uerent., A.d.Wolfskuhle",52.022713,8.488981
+579,42992,"Bi-Hob/Uerent., Bergstraße",52.023674,8.468724
+580,92899,"Bi-Hob/Uerent., Bergstraße",52.023254,8.468769
+581,177781,"Bi-Hob/Uerent., Kerkebrink",52.027737,8.466388
+582,63938,"Bi-Hob/Uerent., Kerkebrink",52.02792,8.466379
+583,129954,"Bi-Hob/Uerent., Krebsbachtal",52.034275,8.455725
+584,322048,"Bi-Hob/Uerent., Krebsbachtal",52.034294,8.456156
+585,161465,"Bi-Hob/Uerent., Mönkebergstr",52.02196,8.48042
+586,355035,"Bi-Hob/Uerent., Mönkebergstr",52.02198,8.48033
+587,358908,"Bi-Hob/Uerent., Poetenweg",52.0378,8.46416
+588,47055,"Bi-Hob/Uerent., Poetenweg",52.03776,8.464016
+589,162043,"Bi-Hob/Uerent., Twellbach",52.03189,8.46195
+590,315914,"Bi-Hob/Uerent., Twellbach",52.032143,8.46169
+591,110468,"Bi-Holtkamp, Baumann",51.9632,8.41769
+592,244825,"Bi-Holtkamp, Baumann",51.96317,8.417798
+593,264869,"Bi-Holtkamp, Emsweg",51.96017,8.406758
+594,91352,"Bi-Holtkamp, Emsweg",51.960106,8.406731
+595,64636,"Bi-Holtkamp, Holtkampstraße",51.958233,8.399383
+596,344467,"Bi-Holtkamp, Uppenbrink",51.967735,8.432108
+597,907,"Bi-Holtkamp, Uppenbrink",51.967735,8.432036
+598,13022,"Bi-Jöllenbeck, Adlerdenkmal",52.096626,8.521733
+599,162564,"Bi-Jöllenbeck, Adlerdenkmal",52.09578,8.521284
+600,53261,"Bi-Jöllenbeck, Adlerdenkmal",52.096474,8.520071
+601,19664,"Bi-Jöllenbeck, Am Pfarrholz",52.09771,8.50966
+602,269255,"Bi-Jöllenbeck, Am Pfarrholz",52.097656,8.50966
+603,341740,"Bi-Jöllenbeck, Am Waldschlößch",52.09181,8.52697
+604,348870,"Bi-Jöllenbeck, Am Waldschlößch",52.09181,8.526979
+605,40951,"Bi-Jöllenbeck, Antaresstraße",52.098038,8.530231
+606,64628,"Bi-Jöllenbeck, Antaresstraße",52.097992,8.530258
+607,76010,"Bi-Jöllenbeck, Antaresstraße",52.097996,8.530321
+608,196741,"Bi-Jöllenbeck, BST Internation",52.08512,8.510756
+609,339860,"Bi-Jöllenbeck, BST Internation",52.085106,8.510774
+610,100980,"Bi-Jöllenbeck, Boge",52.10286,8.535998
+611,70618,"Bi-Jöllenbeck, Boge",52.102863,8.536061
+612,331720,"Bi-Jöllenbeck, Böckmannsfeld",52.09925,8.512499
+613,426935,"Bi-Jöllenbeck, Böckmannsfeld",52.099213,8.512516
+614,124394,"Bi-Jöllenbeck, Deliusstraße",52.088383,8.51522
+615,234023,"Bi-Jöllenbeck, Detmers",52.098553,8.53634
+616,25367,"Bi-Jöllenbeck, Detmers",52.09854,8.536385
+617,184640,"Bi-Jöllenbeck, Dorf",52.09676,8.51372
+618,54575,"Bi-Jöllenbeck, Dorf",52.096733,8.513711
+619,250414,"Bi-Jöllenbeck, Dorfstraße",52.097466,8.513891
+620,70992,"Bi-Jöllenbeck, Dorfstraße",52.097458,8.513882
+621,183978,"Bi-Jöllenbeck, Dreeker Schule",52.09845,8.500281
+622,336671,"Bi-Jöllenbeck, Dreeker Schule",52.098328,8.500326
+623,283889,"Bi-Jöllenbeck, Dreekmann",52.090076,8.492789
+624,413836,"Bi-Jöllenbeck, Dreekmann",52.090088,8.492798
+625,119566,"Bi-Jöllenbeck, Hasenpatt",52.099583,8.552815
+626,18166,"Bi-Jöllenbeck, Hasenpatt",52.09956,8.55286
+627,289950,"Bi-Jöllenbeck, HeidsiekerHeide",52.083027,8.504989
+628,387260,"Bi-Jöllenbeck, HeidsiekerHeide",52.083027,8.504989
+629,271889,"Bi-Jöllenbeck, Heimathaus",52.0951,8.515858
+630,63506,"Bi-Jöllenbeck, Heimathaus",52.0954,8.516514
+631,110789,"Bi-Jöllenbeck, Hemighold",52.10422,8.506444
+632,97486,"Bi-Jöllenbeck, Hemighold",52.104156,8.506336
+633,59930,"Bi-Jöllenbeck, Im Langen Siek",52.09269,8.514412
+634,230205,"Bi-Jöllenbeck, Jürgingsmühle",52.08716,8.53802
+635,81594,"Bi-Jöllenbeck, Jürgingsmühle",52.08716,8.53802
+636,370917,"Bi-Jöllenbeck, Köhlerstraße",52.096672,8.502132
+637,78863,"Bi-Jöllenbeck, Köhlerstraße",52.0967,8.502231
+638,342791,"Bi-Jöllenbeck, Nagelsholz",52.101086,8.496329
+639,407907,"Bi-Jöllenbeck, Nagelsholz",52.10096,8.496329
+640,196817,"Bi-Jöllenbeck, Oberlohmannshof",52.099834,8.533025
+641,203923,"Bi-Jöllenbeck, Oberlohmannshof",52.09986,8.533142
+642,142420,"Bi-Jöllenbeck, Oerkenkrug",52.089603,8.533932
+643,406733,"Bi-Jöllenbeck, Oerkenkrug",52.08962,8.53395
+644,377685,"Bi-Jöllenbeck, Rachheide",52.09898,8.566173
+645,68281,"Bi-Jöllenbeck, Rachheide",52.099003,8.566146
+646,203449,"Bi-Jöllenbeck, Schlottk/Sp S",52.106853,8.504306
+647,298193,"Bi-Jöllenbeck, Schlottk/Sp S",52.106853,8.504737
+648,377143,"Bi-Jöllenbeck, Schlottk/Sp S",52.106853,8.504216
+649,93684,"Bi-Jöllenbeck, Schlottk/Sp S",52.10684,8.504477
+650,21230,"Bi-Jöllenbeck, Schlottkamp",52.10347,8.496868
+651,420406,"Bi-Jöllenbeck, Schlottkamp",52.10345,8.49685
+652,120567,"Bi-Jöllenbeck, Schnatsweg",52.081676,8.512184
+653,4032,"Bi-Jöllenbeck, Schnatsweg",52.081676,8.512229
+654,286333,"Bi-Jöllenbeck, Tiesloh",52.094116,8.497353
+655,334272,"Bi-Jöllenbeck, Tiesloh",52.094105,8.497398
+656,228115,"Bi-Jöllenbeck, Wörheider Weg",52.082935,8.517817
+657,353985,"Bi-Jöllenbeck, Wörheider Weg",52.08294,8.517817
+658,130317,Bi-Kirchdornberg,52.044468,8.439906
+659,242341,Bi-Kirchdornberg,52.044518,8.439987
+660,248464,"Bi-Kirchdornberg, Auf dem Kley",52.041313,8.44658
+661,55334,"Bi-Kirchdornberg, Auf dem Kley",52.040855,8.447074
+662,254656,"Bi-Kirchdornberg, Wiesengrund",52.037025,8.453093
+663,81433,"Bi-Kirchdornberg, Wiesengrund",52.03699,8.453183
+664,363289,"Bi-Kirchdornberg,Am Petersberg",52.044353,8.432513
+665,13477,"Bi-Lämershagen, Eisgrund",51.97122,8.60021
+666,419288,"Bi-Lämershagen, Eisgrund",51.971245,8.600147
+667,173569,"Bi-Lämershagen, Friedhof",51.97472,8.629513
+668,303610,"Bi-Lämershagen, Friedhof",51.97472,8.629621
+669,236178,"Bi-Lämershagen, Gräfinghagen",51.96785,8.639296
+670,34623,"Bi-Lämershagen, Gräfinghagen",51.967426,8.640922
+671,138398,"Bi-Lämershagen, Hermannsweg",51.97172,8.61125
+672,442303,"Bi-Lämershagen, Hermannsweg",51.97172,8.61125
+673,252116,"Bi-Lämershagen, Weißer Weg",51.983868,8.609517
+674,74284,"Bi-Lämershagen, Weißer Weg",51.982494,8.611682
+675,125901,"Bi-Lämershagen, Wrachtrup",51.971577,8.618697
+676,154028,"Bi-Lämershagen, Wrachtrup",51.971565,8.618697
+677,157467,"Bi-Lämershagen, Wrachtrupstr",51.97829,8.618706
+678,196047,"Bi-Lämershagen, Wrachtrupstr",51.97829,8.618625
+679,108849,Bi-Milse (Stadtbahn),52.057213,8.610487
+680,14859,Bi-Milse (Stadtbahn),52.05719,8.610621
+681,240658,Bi-Milse (Stadtbahn),52.057816,8.610002
+682,285637,Bi-Milse (Stadtbahn),52.05814,8.610172
+683,317520,Bi-Milse (Stadtbahn),52.0579,8.610316
+684,130194,"Bi-Milse, Banater Weg",52.05,8.60162
+685,321196,"Bi-Milse, Büscherweg",52.05492,8.600524
+686,344031,"Bi-Milse, Büscherweg",52.05492,8.600614
+687,412808,"Bi-Milse, Donauschwabenstraße",52.050865,8.597183
+688,26284,"Bi-Milse, Engadinstraße",52.060703,8.621078
+689,65518,"Bi-Milse, Engadinstraße",52.06069,8.62106
+690,164102,"Bi-Milse, Fischerheide",52.052155,8.603174
+691,221946,"Bi-Milse, Fischerheide",52.052097,8.603246
+692,322466,"Bi-Milse, Grundschule",52.05847,8.615005
+693,188161,"Bi-Milse, Hebridenstraße",52.061543,8.617197
+694,223638,"Bi-Milse, Hebridenstraße",52.061543,8.617224
+695,290621,"Bi-Milse, Heidenheimer Straße",52.05557,8.60348
+696,403271,"Bi-Milse, Heidenheimer Straße",52.055637,8.60348
+697,38255,"Bi-Milse, Mehlstraße",52.06006,8.613828
+698,405870,"Bi-Milse, Mehlstraße",52.05923,8.613658
+699,68625,"Bi-Milse, Mehlstraße",52.059444,8.61399
+700,149978,"Bi-Milse, Milser Krug",52.059654,8.602546
+701,44932,"Bi-Milse, Milser Krug",52.059624,8.602582
+702,45312,"Bi-Milse, Milser Krug",52.0593,8.60198
+703,455550,"Bi-Milse, Milser Krug",52.059345,8.601782
+704,195495,"Bi-Milse, Murmelweg",52.061615,8.625668
+705,441362,"Bi-Milse, Murmelweg",52.061615,8.625551
+706,10925,"Bi-Milse, Sandbrink",52.05776,8.606346
+707,441760,"Bi-Milse, Sandbrink",52.05778,8.606408
+708,348743,"Bi-Milse, Schelpmilser Weg",52.05302,8.602528
+709,412506,"Bi-Milse, Schelpmilser Weg",52.053093,8.602573
+710,16141,"Bi-Milse, Stauferstraße",52.053116,8.595584
+711,21086,"Bi-Milse, Stauferstraße",52.053116,8.595674
+712,357713,"Bi-Milse, Wasserwerkstraße",52.062553,8.623485
+713,99126,"Bi-Milse, Wasserwerkstraße",52.06259,8.623467
+714,405474,"Bi-Niederdornberg, Arroder Weg",52.0616,8.462049
+715,410866,"Bi-Niederdornberg, Arroder Weg",52.061604,8.462049
+716,388642,"Bi-Niederdornberg, Hageresch",52.07228,8.485801
+717,396694,"Bi-Niederdornberg, Hageresch",52.07228,8.48581
+718,45459,"Bi-Oldentrup, Am Strebkamp",52.018063,8.581291
+719,91140,"Bi-Oldentrup, Am Strebkamp",52.018066,8.581238
+720,147438,"Bi-Oldentrup, Bahnhof",52.01031,8.591775
+721,305681,"Bi-Oldentrup, Bahnhof",52.010544,8.592206
+722,280581,"Bi-Oldentrup, Bentruper Heide",52.012733,8.624357
+723,301838,"Bi-Oldentrup, Bentruper Heide",52.012856,8.624563
+724,305928,"Bi-Oldentrup, Bentruper Heide",52.01292,8.625228
+725,292295,"Bi-Oldentrup, Dürk.Adler Kehre",52.00608,8.603597
+726,229027,"Bi-Oldentrup, Dürkopp Adler",52.00775,8.605115
+727,338737,"Bi-Oldentrup, Dürkopp Adler",52.007862,8.604926
+728,230244,"Bi-Oldentrup, Fr-Hagem-S/Mitte",52.01564,8.588703
+729,417887,"Bi-Oldentrup, Fr-Hagem-S/Mitte",52.015625,8.588756
+730,46992,"Bi-Oldentrup, JAB Anstoetz",52.010654,8.599644
+731,75416,"Bi-Oldentrup, JAB Anstoetz",52.010628,8.599608
+732,257776,"Bi-Oldentrup, Kiso",52.012108,8.601441
+733,361869,"Bi-Oldentrup, Kiso",52.01195,8.59933
+734,237095,"Bi-Oldentrup, L.-Erhard-Allee",52.00966,8.622515
+735,55778,"Bi-Oldentrup, L.-Erhard-Allee",52.00967,8.622542
+736,123671,"Bi-Oldentrup, Lüneburger Str",52.012383,8.606678
+737,184797,"Bi-Oldentrup, Lüneburger Str",52.012394,8.606615
+738,259508,"Bi-Oldentrup, Mühle",52.009914,8.587993
+739,454670,"Bi-Oldentrup, Mühle",52.009895,8.588038
+740,260264,"Bi-Oldentrup, Niedernholz",52.005714,8.614493
+741,385305,"Bi-Oldentrup, Niedernholz",52.005753,8.614493
+742,369257,"Bi-Oldentrup, Obermeier",52.012882,8.609975
+743,375148,"Bi-Oldentrup, Obermeier",52.012886,8.609678
+744,249984,"Bi-Oldentrup, Ostring",52.00565,8.610882
+745,432214,"Bi-Oldentrup, Ostring",52.00566,8.610882
+746,152131,"Bi-Oldentrup, Postfrachtztrum",52.005623,8.619272
+747,269355,"Bi-Oldentrup, Postfrachtztrum",52.005627,8.619155
+748,668,"Bi-Oldentrup, Postfrachtztrum",52.00493,8.61814
+749,129034,"Bi-Oldentrup, Schule",52.011223,8.607603
+750,417796,"Bi-Oldentrup, Schule",52.01123,8.607531
+751,109215,"Bi-Oldentrup, Soltauer Straße",52.01564,8.610262
+752,276559,"Bi-Oldentrup, Soltauer Straße",52.01565,8.610253
+753,392052,"Bi-Oldentrup, Spannbrink",52.0138,8.598306
+754,417119,"Bi-Oldentrup, Spannbrink",52.014854,8.598054
+755,19296,"Bi-Oldentrup, Speckenheide",52.01515,8.596347
+756,436662,"Bi-Oldentrup, Speckenheide",52.015163,8.596338
+757,136732,"Bi-Oldentrup, Striegauer Str.",52.011814,8.596752
+758,30834,"Bi-Oldentrup, Striegauer Str.",52.011837,8.597138
+759,251268,"Bi-Oldentrup, Uelzener Straße",52.013027,8.608151
+760,430250,"Bi-Oldentrup, Uelzener Straße",52.013573,8.609085
+761,331873,"Bi-Oldentrup,Am Niedermeyers F",52.013412,8.61814
+762,442733,"Bi-Oldentrup,Am Niedermeyers F",52.013397,8.618131
+763,136681,"Bi-Quelle, Albertstraße",51.99651,8.474644
+764,312393,"Bi-Quelle, Albertstraße",51.99653,8.476054
+765,91481,"Bi-Quelle, Albertstraße",51.99595,8.475191
+766,126395,"Bi-Quelle, Azaleenstraße",52.006092,8.476449
+767,409051,"Bi-Quelle, Azaleenstraße",52.006107,8.476566
+768,245790,"Bi-Quelle, Bahnhof",52.000267,8.462058
+769,394444,"Bi-Quelle, Bahnhof",52.000275,8.462058
+770,111515,"Bi-Quelle, Berner Straße",51.99163,8.472631
+771,69533,"Bi-Quelle, Berner Straße",51.991634,8.472604
+772,132378,"Bi-Quelle, Cafe Sport",52.00003,8.492053
+773,368291,"Bi-Quelle, Cafe Sport",52.00009,8.491936
+774,240683,"Bi-Quelle, Einschlingen",52.00645,8.477788
+775,261897,"Bi-Quelle, Einschlingen",52.00646,8.477761
+776,243211,"Bi-Quelle, Eisenstraße",51.9848,8.46319
+777,368716,"Bi-Quelle, Eisenstraße",51.9848,8.46319
+778,420420,"Bi-Quelle, Fortunastraße",52.010315,8.46063
+779,98844,"Bi-Quelle, Fortunastraße",52.010315,8.460675
+780,138552,"Bi-Quelle, Friedhof",52.000767,8.474895
+781,58027,"Bi-Quelle, Friedhof",52.000854,8.474868
+782,318727,"Bi-Quelle, Hedwigstraße",51.997192,8.473889
+783,412617,"Bi-Quelle, Hedwigstraße",51.997128,8.473889
+784,250070,"Bi-Quelle, Heidekamp",51.981422,8.468023
+785,74759,"Bi-Quelle, Heidekamp",51.981396,8.468149
+786,199646,"Bi-Quelle, Hengstweg",51.99955,8.476674
+787,295821,"Bi-Quelle, Hengstweg",51.999603,8.476755
+788,325523,"Bi-Quelle, Kirche",51.99773,8.48687
+789,403387,"Bi-Quelle, Kirche",51.99772,8.486825
+790,121697,"Bi-Quelle, Klemensstraße",51.99528,8.485854
+791,302937,"Bi-Quelle, Klemensstraße",51.99528,8.485854
+792,200739,"Bi-Quelle, Kupferheide (Bus)",51.991913,8.478551
+793,259656,"Bi-Quelle, Kupferheide (Bus)",51.991943,8.478596
+794,286807,"Bi-Quelle, Kupferheide (Bus)",51.991917,8.478785
+795,291678,"Bi-Quelle, Kupferheide (Bus)",51.991917,8.478695
+796,230808,"Bi-Quelle, Kupferstraße",51.992676,8.468966
+797,452701,"Bi-Quelle, Kupferstraße",51.992725,8.469083
+798,135976,"Bi-Quelle, Leopoldstraße",51.993553,8.482243
+799,183027,"Bi-Quelle, Leopoldstraße",51.99345,8.482351
+800,181646,"Bi-Quelle, Lunastraße",52.0116,8.461295
+801,365011,"Bi-Quelle, Lunastraße",52.01156,8.461366
+802,18112,"Bi-Quelle, Marienfelder Straße",51.998726,8.491065
+803,455865,"Bi-Quelle, Marienfelder Straße",51.998657,8.49102
+804,11493,"Bi-Quelle, Ottostraße",51.996967,8.478875
+805,117884,"Bi-Quelle, Ottostraße",51.996956,8.479908
+806,30112,"Bi-Quelle, Ottostraße",51.997585,8.479036
+807,234351,"Bi-Quelle, Schürhornweg",51.98956,8.465535
+808,275282,"Bi-Quelle, Schürhornweg",51.98956,8.465553
+809,126786,"Bi-Quelle, Sewöster",51.98378,8.47441
+810,224657,"Bi-Quelle, Sewöster",51.983856,8.474266
+811,106213,"Bi-Quelle, Steiler Weg",51.999634,8.495062
+812,408758,"Bi-Quelle, Steiler Weg",51.999763,8.49499
+813,17831,"Bi-Quelle, Zweischlingen",52.00897,8.469981
+814,311990,"Bi-Quelle, Zweischlingen",52.008926,8.469864
+815,157793,Bi-Schildesche (Stadtbahn),52.055416,8.544973
+816,235818,Bi-Schildesche (Stadtbahn),52.055916,8.545548
+817,310695,Bi-Schildesche (Stadtbahn),52.055916,8.545458
+818,331363,Bi-Schildesche (Stadtbahn),52.05546,8.545601
+819,373340,Bi-Schildesche (Stadtbahn),52.05589,8.545305
+820,69913,Bi-Schildesche (Stadtbahn),52.055843,8.54535
+821,249630,"Bi-Schildesche, A.d.Feldbrede",52.05596,8.557333
+822,267450,"Bi-Schildesche, A.d.Feldbrede",52.05598,8.557351
+823,403811,"Bi-Schildesche, Altes Freibad",52.057583,8.53475
+824,409725,"Bi-Schildesche, Altes Freibad",52.057583,8.534723
+825,161429,"Bi-Schildesche, Am Balgenstück",52.05518,8.563972
+826,419308,"Bi-Schildesche, Am Balgenstück",52.055176,8.563999
+827,120722,"Bi-Schildesche, Am Pfarracker",52.052856,8.559903
+828,217734,"Bi-Schildesche, Am Pfarracker",52.052845,8.559876
+829,214826,"Bi-Schildesche, Am Steinsiek",52.048836,8.558879
+830,411259,"Bi-Schildesche, Am Steinsiek",52.04882,8.558905
+831,266655,"Bi-Schildesche, Am Vorwerk",52.04677,8.559427
+832,385501,"Bi-Schildesche, Am Vorwerk",52.04677,8.559364
+833,389027,"Bi-Schildesche, An der Reegt",52.056103,8.547362
+834,57788,"Bi-Schildesche, An der Reegt",52.0561,8.547425
+835,255473,"Bi-Schildesche, Bultkamp",52.050766,8.540643
+836,25838,"Bi-Schildesche, Bultkamp",52.050728,8.540616
+837,184646,"Bi-Schildesche, Deciusstraße",52.046177,8.543895
+838,234882,"Bi-Schildesche, Deciusstraße",52.046204,8.544002
+839,64281,"Bi-Schildesche, Deciusstraße",52.046867,8.543679
+840,43350,"Bi-Schildesche, Engersche Str",52.062943,8.565787
+841,59068,"Bi-Schildesche, Engersche Str",52.062973,8.565814
+842,254613,"Bi-Schildesche, Heidegärten",52.052357,8.545089
+843,409327,"Bi-Schildesche, Heidegärten",52.052883,8.545161
+844,445064,"Bi-Schildesche, Heidegärten",52.052517,8.545449
+845,79823,"Bi-Schildesche, Heidegärten",52.05253,8.545386
+846,114601,"Bi-Schildesche, Hohes Feld",52.045788,8.534211
+847,351485,"Bi-Schildesche, Hohes Feld",52.0458,8.534184
+848,179292,"Bi-Schildesche, Im Stift",52.05758,8.548755
+849,77779,"Bi-Schildesche, Im Stift",52.057568,8.548764
+850,120796,"Bi-Schildesche, Johannesstift",52.041027,8.543347
+851,142456,"Bi-Schildesche, Johannesstift",52.040867,8.543347
+852,456137,"Bi-Schildesche, Johannesstift",52.041027,8.543517
+853,353972,"Bi-Schildesche, Kattenkamp",52.049553,8.544011
+854,412639,"Bi-Schildesche, Kattenkamp",52.04958,8.543922
+855,127729,"Bi-Schildesche, Kleine Heide",52.053097,8.542493
+856,201758,"Bi-Schildesche, Kleine Heide",52.053116,8.542475
+857,17249,"Bi-Schildesche, Liethstück",52.05101,8.557001
+858,403505,"Bi-Schildesche, Liethstück",52.051037,8.557037
+859,102675,"Bi-Schildesche, Murnaustraße",52.047768,8.536942
+860,109432,"Bi-Schildesche, Murnaustraße",52.047768,8.537032
+861,421377,"Bi-Schildesche, Murnaustraße",52.047752,8.536834
+862,446737,"Bi-Schildesche, Murnaustraße",52.047768,8.536834
+863,189196,"Bi-Schildesche, Obersee",52.058716,8.554091
+864,260694,"Bi-Schildesche, Obersee",52.058716,8.554091
+865,268419,"Bi-Schildesche, Plaßstraße",52.049805,8.554423
+866,437147,"Bi-Schildesche, Plaßstraße",52.049786,8.554369
+867,110988,"Bi-Schildesche, R-Steiner-Sch.",52.058372,8.550228
+868,272908,"Bi-Schildesche, Rappoldstraße",52.045265,8.5563
+869,94867,"Bi-Schildesche, Rappoldstraße",52.045265,8.556264
+870,157747,"Bi-Schildesche, Schürkamp",52.05538,8.539466
+871,372845,"Bi-Schildesche, Schürkamp",52.05539,8.539511
+872,109975,"Bi-Schildesche, Sieboldstraße",52.049774,8.54597
+873,244444,"Bi-Schildesche, Sieboldstraße",52.049755,8.545925
+874,41526,"Bi-Schildesche, Sieboldstraße",52.049778,8.54588
+875,378619,"Bi-Schildesche, Stapelbrede",52.055916,8.536448
+876,55987,"Bi-Schildesche, Stapelbrede",52.0559,8.536448
+877,272929,"Bi-Schildesche, Talbrückenstr",52.055058,8.56169
+878,399381,"Bi-Schildesche, Talbrückenstr",52.055126,8.561699
+879,199477,"Bi-Schildesche, Wiesenbach",52.048862,8.538415
+880,45643,"Bi-Schildesche, Wiesenbach",52.048904,8.538352
+881,254262,"Bi-Schildesche,Schmalenbachstr",52.045094,8.549967
+882,59100,"Bi-Schildesche,Schmalenbachstr",52.04506,8.549949
+883,117925,"Bi-Schröttinghsn, Campingplatz",52.07836,8.47114
+884,210701,"Bi-Schröttinghsn, Campingplatz",52.078354,8.471158
+885,286476,"Bi-Schröttinghsn, Im Sirwinkel",52.084442,8.461941
+886,345869,"Bi-Schröttinghsn, Im Sirwinkel",52.084442,8.462103
+887,119238,"Bi-Schröttinghsn, Kampheide",52.067425,8.46257
+888,124210,"Bi-Schröttinghsn, Kampheide",52.067425,8.46257
+889,184881,"Bi-Schröttinghsn, Kralemann",52.07678,8.476512
+890,357307,"Bi-Schröttinghsn, Kralemann",52.076767,8.476512
+891,267489,"Bi-Schröttinghsn, Voß",52.078243,8.461636
+892,436125,"Bi-Schröttinghsn, Voß",52.07823,8.461618
+893,152540,Bi-Senne (Stadtbahn),51.978798,8.535154
+894,216643,Bi-Senne (Stadtbahn),51.979065,8.535127
+895,283325,Bi-Senne (Stadtbahn),51.979343,8.535253
+896,423492,Bi-Senne (Stadtbahn),51.978992,8.533501
+897,61173,Bi-Senne (Stadtbahn),51.979275,8.535208
+898,360077,"Bi-Senne, Adlerweg",51.97477,8.532567
+899,67500,"Bi-Senne, Adlerweg",51.97475,8.532621
+900,127674,"Bi-Senne, Am Wahlbrink",51.95893,8.535873
+901,28330,"Bi-Senne, Am Wahlbrink",51.958977,8.535927
+902,139148,"Bi-Senne, Am Waldbad",51.963444,8.530878
+903,413743,"Bi-Senne, Am Waldbad",51.963486,8.530788
+904,198228,"Bi-Senne, Augsburger Straße",51.957928,8.537032
+905,384937,"Bi-Senne, Augsburger Straße",51.957985,8.537076
+906,127454,"Bi-Senne, Bahnhof",51.965317,8.519766
+907,235579,"Bi-Senne, Bahnhof",51.963985,8.518921
+908,337019,"Bi-Senne, Bahnhof",51.964024,8.518859
+909,359324,"Bi-Senne, Bahnhof",51.96451,8.519694
+910,20020,"Bi-Senne, Breipohls Hof",51.963627,8.515732
+911,412999,"Bi-Senne, Breipohls Hof",51.96363,8.515705
+912,319948,"Bi-Senne, Bretonische Straße",51.97098,8.537265
+913,384347,"Bi-Senne, Bretonische Straße",51.97091,8.53722
+914,227388,"Bi-Senne, Buschkamp",51.965694,8.558124
+915,364003,"Bi-Senne, Buschkamp",51.966576,8.556669
+916,411509,"Bi-Senne, Buschkampstraße",51.9644,8.558286
+917,450890,"Bi-Senne, Buschkampstraße",51.964394,8.558196
+918,69763,"Bi-Senne, Buschkampstraße",51.9644,8.558196
+919,109864,"Bi-Senne, Dalbkeweg",51.94506,8.530537
+920,131553,"Bi-Senne, Dalbkeweg",51.945087,8.530537
+921,295804,"Bi-Senne, Diskusweg",51.954525,8.523745
+922,37846,"Bi-Senne, Diskusweg",51.95454,8.523745
+923,214299,"Bi-Senne, Duisburger Str",51.969326,8.502069
+924,423261,"Bi-Senne, Duisburger Str",51.969276,8.501997
+925,123604,"Bi-Senne, Essener Straße",51.97075,8.506516
+926,331369,"Bi-Senne, Essener Straße",51.97076,8.506534
+927,102623,"Bi-Senne, Fabrikstraße",51.966057,8.503704
+928,367551,"Bi-Senne, Fabrikstraße",51.9661,8.503677
+929,312846,"Bi-Senne, Flugplatz",51.96979,8.551333
+930,420248,"Bi-Senne, Flugplatz",51.969303,8.551899
+931,263367,"Bi-Senne, Friedhofstraße",51.97903,8.534013
+932,64325,"Bi-Senne, Friedhofstraße",51.978855,8.535073
+933,65175,"Bi-Senne, Friedhofstraße",51.978916,8.534938
+934,215292,"Bi-Senne, Hafnerweg",51.96734,8.549913
+935,414927,"Bi-Senne, Hafnerweg",51.9673,8.549815
+936,173235,"Bi-Senne, Kamphof",51.959263,8.565176
+937,435625,"Bi-Senne, Kamphof",51.958965,8.565176
+938,412736,"Bi-Senne, Kampstraße",51.96239,8.551881
+939,97633,"Bi-Senne, Kampstraße",51.962357,8.5518
+940,184481,"Bi-Senne, Kürschnerweg",51.969894,8.54173
+941,214660,"Bi-Senne, Kürschnerweg",51.969894,8.541739
+942,114312,"Bi-Senne, Landshuter Weg",51.95508,8.545817
+943,187349,"Bi-Senne, Landshuter Weg",51.95508,8.545718
+944,287246,"Bi-Senne, Max-Planck-Straße",51.96885,8.544425
+945,365176,"Bi-Senne, Max-Planck-Straße",51.968933,8.544416
+946,192307,"Bi-Senne, Meersburger Straße",51.958965,8.553704
+947,58798,"Bi-Senne, Meersburger Straße",51.958958,8.55374
+948,165567,"Bi-Senne, Museum Osthusschule",51.95518,8.500129
+949,61974,"Bi-Senne, Museum Osthusschule",51.955143,8.500147
+950,335347,"Bi-Senne, Nordfeldweg",51.95907,8.512346
+951,400579,"Bi-Senne, Nordfeldweg",51.95909,8.512274
+952,417053,"Bi-Senne, Offenburger Straße",51.955727,8.550848
+953,52082,"Bi-Senne, Offenburger Straße",51.95575,8.550857
+954,377440,"Bi-Senne, Okapiweg",51.962723,8.503066
+955,8444,"Bi-Senne, Okapiweg",51.96277,8.503102
+956,183248,"Bi-Senne, Pörtner",51.941845,8.53342
+957,355672,"Bi-Senne, Pörtner",51.941837,8.533312
+958,116876,"Bi-Senne, Regensburger Weg",51.95611,8.54226
+959,282596,"Bi-Senne, Regensburger Weg",51.956062,8.542314
+960,29169,"Bi-Senne, Rottweiler Straße",51.9574,8.550057
+961,370486,"Bi-Senne, Schillingshof",51.956795,8.554046
+962,447712,"Bi-Senne, Schillingshof",51.95681,8.554091
+963,125690,"Bi-Senne, Segelweg",51.96838,8.520377
+964,122445,"Bi-Senne, Senne Schulzentrum",51.962482,8.52671
+965,145238,"Bi-Senne, Senne-Center",51.97289,8.544631
+966,227046,"Bi-Senne, Senne-Center",51.972866,8.54517
+967,257396,"Bi-Senne, Sennefriedhof",51.980457,8.530483
+968,354792,"Bi-Senne, Sennefriedhof",51.981506,8.529019
+969,459199,"Bi-Senne, Sennefriedhof",51.981033,8.529872
+970,298876,"Bi-Senne, Sennefriedhof Süd",51.971424,8.531498
+971,91895,"Bi-Senne, Sennefriedhof Süd",51.971462,8.531552
+972,414275,"Bi-Senne, Sennehof",51.975513,8.541299
+973,49591,"Bi-Senne, Sennehof",51.975945,8.540849
+974,134833,"Bi-Senne, Spelenkampweg",51.963615,8.56001
+975,369469,"Bi-Senne, Spelenkampweg",51.96299,8.560334
+976,279928,"Bi-Senne, Spielpark",51.96954,8.537409
+977,285965,"Bi-Senne, Spielpark",51.96954,8.537346
+978,13827,"Bi-Senne, Stellmacherweg",51.963814,8.552276
+979,360075,"Bi-Senne, Stellmacherweg",51.963795,8.552276
+980,322474,"Bi-Senne, V-Plettenberg-Stift",51.960518,8.553417
+981,324870,"Bi-Senne, V-Plettenberg-Stift",51.96053,8.553417
+982,198641,"Bi-Senne, Vendreestraße",51.960808,8.51664
+983,315534,"Bi-Senne, Vendreestraße",51.96074,8.516667
+984,211498,"Bi-Senne, Vennkamp",51.958576,8.536996
+985,60131,"Bi-Senne, Vennkamp",51.958603,8.537067
+986,415880,"Bi-Senne, Zeppelinstraße",51.971573,8.544416
+987,73183,"Bi-Senne, Zeppelinstraße",51.97161,8.544389
+988,268356,"Bi-Sennest, Bleicherfeld/Brück",51.94334,8.583582
+989,34139,"Bi-Sennest, Bleicherfeld/Brück",51.943344,8.583627
+990,292434,"Bi-Sennestadt, Alsterweg",51.956505,8.599366
+991,344037,"Bi-Sennestadt, Alsterweg",51.95637,8.599833
+992,56144,"Bi-Sennestadt, Altmühlstraße",51.945534,8.580609
+993,65318,"Bi-Sennestadt, Altmühlstraße",51.94578,8.580627
+994,359966,"Bi-Sennestadt, Am Stadion",51.953358,8.597452
+995,101884,"Bi-Sennestadt, Andersen-Schule",51.9496,8.57812
+996,449327,"Bi-Sennestadt, Andersen-Schule",51.94963,8.57812
+997,161315,"Bi-Sennestadt, Bahnhof",51.94041,8.567242
+998,177333,"Bi-Sennestadt, Bahnhof",51.940426,8.567314
+999,253925,"Bi-Sennestadt, Bahnhof",51.94041,8.567224
+1000,314338,"Bi-Sennestadt, Bleicherfeldstraße",51.942513,8.584786
+1001,411468,"Bi-Sennestadt, Bleicherfeldstraße",51.942455,8.584876
+1002,113050,"Bi-Sennestadt, Br-Grimm-Schule",51.953346,8.601926
+1003,151077,"Bi-Sennestadt, Br-Grimm-Schule",51.953335,8.60189
+1004,12519,"Bi-Sennestadt, Bullerbachweg",51.94809,8.581408
+1005,162513,"Bi-Sennestadt, Bullerbachweg",51.948097,8.581354
+1006,27582,"Bi-Sennestadt, Bullerbachweg",51.948112,8.581408
+1007,293646,"Bi-Sennestadt, Dachsweg",51.94183,8.583178
+1008,444660,"Bi-Sennestadt, Dachsweg",51.941833,8.583178
+1009,352434,"Bi-Sennestadt, Donauallee",51.942352,8.575147
+1010,404814,"Bi-Sennestadt, Donauallee",51.942383,8.57512
+1011,156807,"Bi-Sennestadt, Ehrenbergplatz",51.947132,8.588191
+1012,436822,"Bi-Sennestadt, Ehrenbergplatz",51.947117,8.588164
+1013,218271,"Bi-Sennestadt, Erftweg",51.95698,8.589502
+1014,442624,"Bi-Sennestadt, Erftweg",51.956882,8.589322
+1015,145163,"Bi-Sennestadt, Esselhofer Weg",51.93639,8.593688
+1016,189457,"Bi-Sennestadt, Esselhofer Weg",51.936363,8.593715
+1017,213975,"Bi-Sennestadt, Feuerwehr",51.94395,8.579046
+1018,298788,"Bi-Sennestadt, Feuerwehr",51.94396,8.579019
+1019,31735,"Bi-Sennestadt, Fuggerstr.",51.942413,8.571581
+1020,312052,"Bi-Sennestadt, Innstr.",51.94376,8.573755
+1021,417571,"Bi-Sennestadt, Innstr.",51.943745,8.573737
+1022,108407,"Bi-Sennestadt, Jadeweg",51.945423,8.582334
+1023,41911,"Bi-Sennestadt, Jadeweg",51.945477,8.582468
+1024,402027,"Bi-Sennestadt, Keilerweg",51.940083,8.587921
+1025,407396,"Bi-Sennestadt, Keilerweg",51.9401,8.587948
+1026,14219,"Bi-Sennestadt, Krackser Straße",51.93904,8.568751
+1027,225006,"Bi-Sennestadt, Krackser Straße",51.939053,8.568652
+1028,25017,"Bi-Sennestadt, Luheweg",51.956696,8.595566
+1029,378304,"Bi-Sennestadt, Luheweg",51.956627,8.59553
+1030,331167,"Bi-Sennestadt, Lämershagen.Str",51.95161,8.575902
+1031,23266,"Bi-Sennestadt, Matth-Claud-Weg",51.94908,8.592242
+1032,426123,"Bi-Sennestadt, Matth-Claud-Weg",51.949078,8.592089
+1033,131366,"Bi-Sennestadt, Rheinallee",51.953934,8.587131
+1034,452232,"Bi-Sennestadt, Rheinallee",51.95394,8.586978
+1035,193521,"Bi-Sennestadt, Ruhrweg",51.960403,8.587993
+1036,455696,"Bi-Sennestadt, Ruhrweg",51.959854,8.588469
+1037,133896,"Bi-Sennestadt, Sennestadthaus",51.94562,8.585918
+1038,356729,"Bi-Sennestadt, Sennestadthaus",51.94562,8.585972
+1039,389290,"Bi-Sennestadt, Sennestadthaus",51.94557,8.585909
+1040,154833,"Bi-Sennestadt, Sennestadtring",51.944553,8.58484
+1041,27130,"Bi-Sennestadt, Sennestadtring",51.94457,8.584831
+1042,190405,"Bi-Sennestadt, Sportzentrum",51.953495,8.590436
+1043,20509,"Bi-Sennestadt, Sportzentrum",51.953445,8.590427
+1044,204904,"Bi-Sennestadt, Travestraße",51.95085,8.594667
+1045,451941,"Bi-Sennestadt, Travestraße",51.950848,8.594631
+1046,390039,"Bi-Sennestadt, Vennhofallee",51.94858,8.57759
+1047,445277,"Bi-Sennestadt, Vennhofallee",51.94843,8.577474
+1048,53014,"Bi-Sennestadt, Werraweg",51.952034,8.584121
+1049,86233,"Bi-Sennestadt, Werraweg",51.95212,8.583942
+1050,12301,"Bi-Sennestadt, Wiesenfeld",51.934708,8.580744
+1051,20373,"Bi-Sennestadt, Wiesenfeld",51.934635,8.58069
+1052,407965,"Bi-Sennestadt, Wintersheide",51.938877,8.579118
+1053,66022,"Bi-Sennestadt, Wintersheide",51.93888,8.579091
+1054,280479,"Bi-Sennestadt, Württembg Allee",51.954163,8.60754
+1055,448992,"Bi-Sennestadt, Württembg Allee",51.954353,8.607998
+1056,112531,Bi-Sieker,52.004852,8.558061
+1057,264263,Bi-Sieker,52.00539,8.558034
+1058,337193,Bi-Sieker,52.005154,8.558052
+1059,52671,Bi-Sieker,52.004944,8.558142
+1060,204620,Bi-Sieker Mitte (Stadtbahn),52.012283,8.562373
+1061,223549,Bi-Sieker Mitte (Stadtbahn),52.012527,8.56293
+1062,249241,Bi-Sieker Mitte (Stadtbahn),52.012512,8.563298
+1063,298873,Bi-Sieker Mitte (Stadtbahn),52.012344,8.562463
+1064,117203,"Bi-Sieker, Amundsenstraße",51.9983,8.569236
+1065,222302,"Bi-Sieker, Amundsenstraße",51.998306,8.569263
+1066,144113,"Bi-Sieker, Butterkamp",52.00972,8.571114
+1067,64883,"Bi-Sieker, Butterkamp",52.00973,8.571194
+1068,325182,"Bi-Sieker, Dompfaffweg",52.015514,8.566038
+1069,427830,"Bi-Sieker, Dompfaffweg",52.015526,8.566047
+1070,194468,"Bi-Sieker, Greifswalder Straße",52.00256,8.56743
+1071,383786,"Bi-Sieker, Greifswalder Straße",52.002293,8.567853
+1072,346765,"Bi-Sieker, Großmarkt",52.01112,8.572865
+1073,96992,"Bi-Sieker, Großmarkt",52.011135,8.572847
+1074,439229,"Bi-Sieker, Herderstraße",52.001526,8.571751
+1075,73856,"Bi-Sieker, Herderstraße",52.001408,8.571689
+1076,120239,"Bi-Sieker, Luther-Kirche",52.010094,8.561556
+1077,288866,"Bi-Sieker, Luther-Kirche",52.009434,8.563155
+1078,446447,"Bi-Sieker, Luther-Kirche",52.009327,8.561187
+1079,53882,"Bi-Sieker, Luther-Kirche",52.009476,8.562894
+1080,181019,"Bi-Sieker, Martin-Luther-Platz",52.018208,8.566694
+1081,215141,"Bi-Sieker, Martin-Luther-Platz",52.01826,8.566622
+1082,14669,"Bi-Sieker, Osningschule",52.00212,8.560325
+1083,260535,"Bi-Sieker, Osningschule",52.00212,8.560343
+1084,239615,"Bi-Sieker, Otto-Brenner-Str",52.012707,8.56461
+1085,375927,"Bi-Sieker, Otto-Brenner-Str",52.012993,8.564682
+1086,223972,"Bi-Sieker, Prießallee",52.006565,8.548314
+1087,291613,"Bi-Sieker, Prießallee",52.006588,8.548323
+1088,406501,"Bi-Sieker, Prießallee",52.00639,8.548701
+1089,436117,"Bi-Sieker, Prießallee",52.006306,8.549177
+1090,252618,"Bi-Sieker, Roggenkamp",52.00747,8.57079
+1091,291193,"Bi-Sieker, Roggenkamp",52.00745,8.570907
+1092,237926,"Bi-Sieker, Rütli",51.985825,8.569775
+1093,434389,"Bi-Sieker, Stralsunder Straße",52.008083,8.565742
+1094,9803,"Bi-Sieker, Stralsunder Straße",52.00807,8.565805
+1095,385037,"Bi-Sieker, Stückenstraße",51.99533,8.55118
+1096,404372,"Bi-Sieker, Stückenstraße",51.995335,8.55118
+1097,123560,"Bi-Sieker, Sven-Hedin-Straße",51.999676,8.56523
+1098,74400,"Bi-Sieker, Sven-Hedin-Straße",51.999577,8.565373
+1099,119744,"Bi-Sieker, Waldkrug",51.997143,8.555887
+1100,244024,"Bi-Sieker, Waldkrug",51.997154,8.556004
+1101,415003,"Bi-Stieghorst, A.Alten Dreisch",51.992626,8.583879
+1102,57833,"Bi-Stieghorst, A.Alten Dreisch",51.99267,8.583555
+1103,180219,"Bi-Stieghorst, AllensteinerStr",52.001984,8.589718
+1104,326853,"Bi-Stieghorst, AllensteinerStr",52.001965,8.589628
+1105,258397,"Bi-Stieghorst, Am Niederfeld",51.992012,8.593365
+1106,59900,"Bi-Stieghorst, Am Niederfeld",51.992023,8.593293
+1107,22314,"Bi-Stieghorst, Am Schiffberge",51.995457,8.574024
+1108,365249,"Bi-Stieghorst, Am Schiffberge",51.99541,8.574096
+1109,14980,"Bi-Stieghorst, Am Wortkamp",51.99847,8.584427
+1110,218776,"Bi-Stieghorst, Am Wortkamp",51.998325,8.584391
+1111,247980,"Bi-Stieghorst, An den Gehren",51.991734,8.601513
+1112,46591,"Bi-Stieghorst, An den Gehren",51.9917,8.601557
+1113,348544,"Bi-Stieghorst, Breslauer Str",51.997017,8.598351
+1114,68607,"Bi-Stieghorst, Breslauer Str",51.99693,8.598611
+1115,26845,"Bi-Stieghorst, Elbinger Straße",51.99712,8.58926
+1116,334767,"Bi-Stieghorst, Elbinger Straße",51.99728,8.589439
+1117,68807,"Bi-Stieghorst, Elpke",52.005035,8.576692
+1118,92088,"Bi-Stieghorst, Elpke",52.004593,8.57795
+1119,325783,"Bi-Stieghorst, Flensburger Str",52.003876,8.575659
+1120,384665,"Bi-Stieghorst, Flensburger Str",52.003895,8.575659
+1121,278250,"Bi-Stieghorst, Friedhof",52.001858,8.596814
+1122,65474,"Bi-Stieghorst, Friedhof",52.001846,8.596877
+1123,186887,"Bi-Stieghorst, Gesamtschule",52.002117,8.584696
+1124,62135,"Bi-Stieghorst, Gesamtschule",52.00205,8.584795
+1125,132940,"Bi-Stieghorst, Glatzer Straße",51.99998,8.601378
+1126,256266,"Bi-Stieghorst, Glatzer Straße",52.000042,8.601351
+1127,352018,"Bi-Stieghorst, Gumbinner Str",52.0004,8.586843
+1128,384881,"Bi-Stieghorst, Gumbinner Str",52.000412,8.586861
+1129,148242,"Bi-Stieghorst, Löllmannshof",51.995876,8.596159
+1130,166838,"Bi-Stieghorst, Löllmannshof",51.99567,8.596042
+1131,17495,"Bi-Stieghorst, Masurenweg",51.99848,8.588235
+1132,341569,"Bi-Stieghorst, Masurenweg",51.998466,8.588235
+1133,169436,"Bi-Stieghorst, Memeler Straße",52.003685,8.588864
+1134,222830,"Bi-Stieghorst, Memeler Straße",52.00367,8.5889
+1135,201406,"Bi-Stieghorst, Reichenberg.Str",52.006756,8.589376
+1136,394442,"Bi-Stieghorst, Reichenberg.Str",52.006744,8.58926
+1137,7739,"Bi-Stieghorst, SonderburgerStr",51.999966,8.577447
+1138,92515,"Bi-Stieghorst, SonderburgerStr",52.00009,8.57759
+1139,160004,"Bi-Stieghorst, WaldenburgerStr",51.994747,8.599967
+1140,228266,"Bi-Stieghorst, WaldenburgerStr",51.99473,8.599985
+1141,336512,"Bi-Stieghorst, Wohnstift Salzb",52.00545,8.58387
+1142,76147,"Bi-Stieghorst, Wohnstift Salzb",52.00545,8.58387
+1143,154712,"Bi-Stieghorst, Zentrum",52.00117,8.588756
+1144,20831,"Bi-Stieghorst, Zentrum",52.00119,8.589215
+1145,275171,"Bi-Stieghorst, Zentrum",52.001125,8.588819
+1146,285296,"Bi-Stieghorst, Zentrum",52.001095,8.589394
+1147,312674,"Bi-Stieghorst, Zentrum",52.00196,8.589879
+1148,413649,"Bi-Stieghorst, Zentrum",52.00179,8.590212
+1149,452263,"Bi-Stieghorst, Zentrum",52.00075,8.589143
+1150,458439,"Bi-Stieghorst, Zentrum",52.00056,8.589071
+1151,79770,"Bi-Stieghorst, Zentrum",52.000797,8.589385
+1152,253835,"Bi-Theesen, Homannsweg",52.073753,8.514601
+1153,300465,"Bi-Theesen, Homannsweg",52.0739,8.514556
+1154,114235,"Bi-Theesen, Horstheide",52.080433,8.515337
+1155,120679,"Bi-Theesen, Horstheide",52.080185,8.516092
+1156,227916,"Bi-Theesen, Kahler Krug",52.071064,8.516873
+1157,295204,"Bi-Theesen, Kahler Krug",52.07108,8.516945
+1158,227526,"Bi-Theesen, Kobusch",52.06497,8.53192
+1159,269384,"Bi-Theesen, Kobusch",52.06497,8.531893
+1160,144426,"Bi-Theesen, Sportplatz",52.06905,8.522892
+1161,193413,"Bi-Theesen, Sportplatz",52.06906,8.522865
+1162,149166,"Bi-Ubbedissen, Alte Schule",51.997692,8.644838
+1163,300427,"Bi-Ubbedissen, Alte Schule",51.997623,8.645287
+1164,300895,"Bi-Ubbedissen, Alte Schule",51.99768,8.644793
+1165,311287,"Bi-Ubbedissen, Alte Schule",51.998055,8.645153
+1166,129890,"Bi-Ubbedissen, Altes Dorf",51.9837,8.641667
+1167,288063,"Bi-Ubbedissen, Altes Dorf",51.983696,8.641685
+1168,377374,"Bi-Ubbedissen, Am Bollholz",51.987225,8.647057
+1169,431761,"Bi-Ubbedissen, Am Bollholz",51.987213,8.647066
+1170,413698,"Bi-Ubbedissen, Bahnhof",51.988255,8.636565
+1171,48330,"Bi-Ubbedissen, Bahnhof",51.9884,8.637122
+1172,140345,"Bi-Ubbedissen, Berkenkamp",51.994682,8.645889
+1173,384459,"Bi-Ubbedissen, Berkenkamp",51.99468,8.645844
+1174,107152,"Bi-Ubbedissen, Bollstr/Linnens",51.99393,8.644892
+1175,58530,"Bi-Ubbedissen, Bollstr/Linnens",51.99393,8.644892
+1176,334239,"Bi-Ubbedissen, Bollstraße",51.981964,8.640706
+1177,9445,"Bi-Ubbedissen, Bollstraße",51.98198,8.640679
+1178,136821,"Bi-Ubbedissen, Dingerdissen",51.999504,8.636358
+1179,158841,"Bi-Ubbedissen, Dingerdissen",51.999535,8.636313
+1180,146915,"Bi-Ubbedissen, Frordisser Bach",52.002228,8.632495
+1181,306200,"Bi-Ubbedissen, Frordisser Bach",52.00219,8.632406
+1182,251254,"Bi-Ubbedissen, GS (B66)",51.992496,8.612804
+1183,112004,"Bi-Ubbedissen, Höxterstraße",51.99297,8.63873
+1184,374063,"Bi-Ubbedissen, Höxterstraße",51.992977,8.63873
+1185,212040,"Bi-Ubbedissen, Kirche",51.985714,8.633331
+1186,423822,"Bi-Ubbedissen, Kirche",51.985714,8.633196
+1187,25741,"Bi-Ubbedissen, Laßheide",52.00597,8.651818
+1188,298551,"Bi-Ubbedissen, Laßheide",52.00597,8.651818
+1189,384845,"Bi-Ubbedissen, Laßheider Weg",52.002155,8.645252
+1190,59228,"Bi-Ubbedissen, Laßheider Weg",52.002098,8.645252
+1191,378129,"Bi-Ubbedissen, Linnenstraße",51.987522,8.625947
+1192,380408,"Bi-Ubbedissen, Linnenstraße",51.987545,8.625947
+1193,228717,"Bi-Ubbedissen, Meerkotten",52.00701,8.643132
+1194,372186,"Bi-Ubbedissen, Meerkotten",52.00701,8.643158
+1195,380226,"Bi-Ubbedissen, Niedernkamp",51.98834,8.646743
+1196,83237,"Bi-Ubbedissen, Niedernkamp",51.988354,8.646725
+1197,52491,"Bi-Ubbedissen, Pyrmonter Str",51.98642,8.635676
+1198,62119,"Bi-Ubbedissen, Pyrmonter Str",51.98641,8.635667
+1199,129921,"Bi-Ubbedissen, Rollkrug",51.978905,8.651064
+1200,136484,"Bi-Ubbedissen, Rollkrug",51.978992,8.651019
+1201,312045,"Bi-Ubbedissen, Rollkrugsiedlg",51.977676,8.651701
+1202,441556,"Bi-Ubbedissen, Rollkrugsiedlg",51.977665,8.651746
+1203,199429,"Bi-Ubbedissen, Sternstraße",51.990604,8.64527
+1204,279273,"Bi-Ubbedissen, Sternstraße",51.990616,8.645278
+1205,206380,"Bi-Ubbedissen, Sternwarte",51.986717,8.629109
+1206,270211,"Bi-Ubbedissen, Sternwarte",51.986717,8.629181
+1207,14402,"Bi-Ubbedissen,Carolinen Quelle",51.980675,8.645072
+1208,212727,"Bi-Ubbedissen,Carolinen Quelle",51.980633,8.645117
+1209,252722,"Bi-Ummeln, Ahornstraße",51.968773,8.453084
+1210,419282,"Bi-Ummeln, Ahornstraße",51.968796,8.45312
+1211,132485,"Bi-Ummeln, Akazienstr.",51.966103,8.455788
+1212,171765,"Bi-Ummeln, Akazienstr.",51.96606,8.455734
+1213,171624,"Bi-Ummeln, Am Meilenstein",51.968,8.460845
+1214,48004,"Bi-Ummeln, Bahnhof",51.95838,8.467277
+1215,73537,"Bi-Ummeln, Bahnhof",51.9584,8.467322
+1216,308264,"Bi-Ummeln, Bleiche",51.96959,8.440669
+1217,406521,"Bi-Ummeln, Bleiche",51.969646,8.440966
+1218,285602,"Bi-Ummeln, Bohlenweg",51.961594,8.462202
+1219,90240,"Bi-Ummeln, Bohlenweg",51.961582,8.462148
+1220,241805,"Bi-Ummeln, Christinenbrunnen",51.975887,8.457549
+1221,307384,"Bi-Ummeln, Christinenbrunnen",51.975883,8.457549
+1222,120658,"Bi-Ummeln, Fichten",51.953106,8.440543
+1223,401553,"Bi-Ummeln, Fichten",51.953106,8.44057
+1224,378654,"Bi-Ummeln, Goldbeck",51.964577,8.457611
+1225,400685,"Bi-Ummeln, Goldbeck",51.964577,8.457611
+1226,281610,"Bi-Ummeln, Grenzlandstraße",51.963203,8.471787
+1227,42964,"Bi-Ummeln, Grenzlandstraße",51.963192,8.47176
+1228,158549,"Bi-Ummeln, Kastanienstraße",51.97429,8.458438
+1229,349869,"Bi-Ummeln, Kastanienstraße",51.974277,8.458501
+1230,222132,"Bi-Ummeln, Kreuzung Quelle",51.979706,8.462759
+1231,88524,"Bi-Ummeln, Kreuzung Quelle",51.979694,8.462597
+1232,54506,"Bi-Ummeln, Listerstraße",51.969288,8.449859
+1233,279537,"Bi-Ummeln, Magnolienweg",51.971245,8.460441
+1234,334036,"Bi-Ummeln, Magnolienweg",51.971233,8.460423
+1235,129624,"Bi-Ummeln, Niederummeln",51.959743,8.449221
+1236,138057,"Bi-Ummeln, Niederummeln",51.959656,8.449176
+1237,184432,"Bi-Ummeln, Ostlandstraße",51.96299,8.468292
+1238,68567,"Bi-Ummeln, Ostlandstraße",51.96299,8.468265
+1239,199372,"Bi-Ummeln, Stiftung Ummeln",51.972973,8.453039
+1240,435380,"Bi-Ummeln, Stiftung Ummeln",51.972965,8.453102
+1241,213661,"Bi-Ummeln, Stämme",51.98074,8.461564
+1242,424026,"Bi-Ummeln, Stämme",51.980762,8.461582
+1243,247163,"Bi-Ummeln, Umlostraße",51.97498,8.456408
+1244,346435,"Bi-Ummeln, Umlostraße",51.974964,8.456408
+1245,221171,"Bi-Ummeln, Veerhoffstraße",51.970974,8.4502
+1246,150414,"Bi-Ummeln, Zur Mühle",51.970345,8.465822
+1247,346452,"Bi-Ummeln, Zur Mühle",51.970417,8.46575
+1248,405604,"Bi-Vilsendorf, Am Blackenhof",52.07501,8.559409
+1249,457559,"Bi-Vilsendorf, Am Blackenhof",52.07504,8.559427
+1250,76548,"Bi-Vilsendorf, Berkensiek",52.07537,8.565849
+1251,97960,"Bi-Vilsendorf, Berkensiek",52.07537,8.565849
+1252,112826,"Bi-Vilsendorf, Heidbrede",52.071842,8.5556
+1253,184291,"Bi-Vilsendorf, Laarer Straße",52.078556,8.548099
+1254,299454,"Bi-Vilsendorf, Laarer Straße",52.078568,8.548117
+1255,75072,"Bi-Vilsendorf, Limbrede",52.071484,8.554746
+1256,7665,"Bi-Vilsendorf, Limbrede",52.071487,8.554746
+1257,176248,"Bi-Vilsendorf, Orchideenstraße",52.075764,8.551162
+1258,94254,"Bi-Vilsendorf, Orchideenstraße",52.075787,8.551099
+1259,52516,Bi-Windelsbleiche Bahnhof,51.95613,8.533411
+1260,264204,"Bi-Windelsbleiche, Bahnhofschule",51.957836,8.53581
+1261,317735,"Bi-Windelsbleiche, Busbahnhof",51.95362,8.52317
+1262,87876,"Bi-Windelsbleiche, Busbahnhof",51.95366,8.523153
+1263,288631,"Bi-Windelsbleiche, Fechterweg",51.967796,8.519209
+1264,437263,"Bi-Windelsbleiche, Fechterweg",51.967815,8.519164
+1265,167213,"Bi-Windelsbleiche, Kampeter",51.962303,8.520188
+1266,325101,"Bi-Windelsbleiche, Kampeter",51.96234,8.520152
+1267,3516,"Bi-Windelsbleiche, Kampeter",51.962357,8.520323
+1268,96112,"Bi-Windelsbleiche, Kampeter",51.962357,8.520413
+1269,358498,"Bi-Windelsbleiche, Kirche",51.955387,8.532082
+1270,71002,"Bi-Windelsbleiche, Kirche",51.955387,8.532109
+1271,394923,"Bi-Windelsbleiche, Klashofstr",51.962513,8.525246
+1272,405633,"Bi-Windelsbleiche, Klashofstr",51.962513,8.525129
+1273,314435,"Bi-Windelsbleiche, Lohmannsweg",51.946373,8.519092
+1274,404070,"Bi-Windelsbleiche, Lohmannsweg",51.94631,8.519056
+1275,163022,"Bi-Windelsbleiche, Senne Bezirksamt",51.95851,8.520808
+1276,69286,"Bi-Windelsbleiche, Senne Bezirksamt",51.95851,8.520808
+1277,167305,"Bi-Windelsbleiche, Zur Spitze",51.96195,8.520853
+1278,39973,"Bi-Windelsbleiche, Zur Spitze",51.96202,8.520889
+1279,192013,"Bi-Windflöte, Grundheide",51.94094,8.509822
+1280,235316,"Bi-Windflöte, Grundheide",51.940968,8.509893
+1281,403609,"Bi-Windflöte, Kornblumenweg",51.94421,8.501189
+1282,73692,"Bi-Windflöte, Kornblumenweg",51.944283,8.501054
+1283,23966,"Bi-Windflöte, Nelkenweg",51.945034,8.497101
+1284,326022,"Bi-Windflöte, Nelkenweg",51.94478,8.497676
+1285,404296,"Bi-Windflöte, Nelkenweg",51.945328,8.497191
+1286,162025,"Bi-Windflöte, Postheide",51.94427,8.505707
+1287,423873,"Bi-Windflöte, Postheide",51.94418,8.505734
+1288,171580,"Bi-Windflöte, Vormbrock",51.94892,8.498161
+1289,210407,"Bi-Windflöte, Vormbrock",51.94911,8.498206
+1290,272951,"Bi-Windflöte, Vormbrock",51.949398,8.498143
+1291,314380,"Bi-Windflöte, Vormbrock",51.94911,8.498296
+1292,427667,Bielefeld Brackwede train station,51.997974,8.499713
+1293,100573,Bielefeld Hbf,52.02879,8.534678
+1294,118631,Bielefeld Hbf,52.028393,8.532971
+1295,129498,Bielefeld Hbf,52.028526,8.534876
+1296,234871,Bielefeld Hbf,52.028454,8.532513
+1297,318870,Bielefeld Hbf,52.028812,8.534804
+1298,373657,Bielefeld Hbf,52.02887,8.534498
+1299,399672,Bielefeld Hbf,52.028538,8.533052
+1300,456428,Bielefeld Hbf,52.028614,8.533744
+1301,50074,Bielefeld Hbf,52.02869,8.532702
+1302,87463,Bielefeld Hbf,52.028294,8.53272
+1303,21790,"Bielefeld, Adenauerplatz",52.017323,8.525569
+1304,416265,"Bielefeld, Adenauerplatz",52.017227,8.525335
+1305,429686,"Bielefeld, Adenauerplatz",52.017315,8.525308
+1306,416131,"Bielefeld, Am Großen Holz",52.027172,8.563289
+1307,432688,"Bielefeld, Am Großen Holz",52.027172,8.563316
+1308,196273,"Bielefeld, Am Lenkwerk",52.02883,8.554261
+1309,197694,"Bielefeld, Am Lenkwerk",52.028893,8.554261
+1310,251384,"Bielefeld, Am Stauteich",52.02214,8.567538
+1311,30094,"Bielefeld, Am Stauteich",52.022163,8.567448
+1312,361559,"Bielefeld, Am Wiehagen",52.010902,8.579701
+1313,158344,"Bielefeld, Angelstraße",52.017796,8.563729
+1314,175397,"Bielefeld, Angelstraße",52.017853,8.56364
+1315,407173,"Bielefeld, Arbeitsamt",52.025105,8.541739
+1316,429837,"Bielefeld, Arbeitsamt",52.025093,8.541676
+1317,342034,"Bielefeld, August-Bebel-Straße",52.0128,8.536412
+1318,352943,"Bielefeld, August-Bebel-Straße",52.012936,8.535945
+1319,5524,"Bielefeld, August-Bebel-Straße",52.012688,8.536681
+1320,88129,"Bielefeld, August-Bebel-Straße",52.012802,8.536555
+1321,106053,"Bielefeld, Bachstelzenweg",52.02121,8.574473
+1322,446205,"Bielefeld, Bachstelzenweg",52.022408,8.576414
+1323,168969,"Bielefeld, Baderbach",52.02228,8.584768
+1324,401915,"Bielefeld, Baderbach",52.02227,8.584687
+1325,281347,"Bielefeld, Bahnhofstraße",52.02738,8.532118
+1326,386212,"Bielefeld, Bahnhofstraße",52.02738,8.532118
+1327,105062,"Bielefeld, Beckhausstraße",52.033253,8.542664
+1328,202003,"Bielefeld, Beckhausstraße",52.033367,8.543571
+1329,259597,"Bielefeld, Beckhausstraße",52.033485,8.543553
+1330,420738,"Bielefeld, Beckhausstraße",52.033356,8.543005
+1331,216874,"Bielefeld, Brökerstraße",52.03149,8.539744
+1332,299870,"Bielefeld, Brökerstraße",52.03152,8.539717
+1333,280427,"Bielefeld, Böttcherstraße",52.038574,8.58281
+1334,281645,"Bielefeld, Böttcherstraße",52.038574,8.582864
+1335,187424,"Bielefeld, Bültmannshof",52.03585,8.504827
+1336,314506,"Bielefeld, Bültmannshof",52.03588,8.504512
+1337,396874,"Bielefeld, Bültmannshof",52.035583,8.504917
+1338,413157,"Bielefeld, Bültmannshof",52.03585,8.504396
+1339,142489,"Bielefeld, C-Severing-Schulen",52.021973,8.551665
+1340,270109,"Bielefeld, C-Severing-Schulen",52.022015,8.551979
+1341,236835,"Bielefeld, Crüwellstraße",52.020596,8.522245
+1342,81499,"Bielefeld, Crüwellstraße",52.020573,8.522299
+1343,153413,"Bielefeld, Drosselstraße",52.022285,8.571446
+1344,162131,"Bielefeld, Drosselstraße",52.023663,8.572326
+1345,326399,"Bielefeld, Dürkopp Tor 6",52.01975,8.540831
+1346,394166,"Bielefeld, Dürkopp Tor 6",52.01975,8.540831
+1347,259258,"Bielefeld, Elsa-Brändström-Str",52.02457,8.528767
+1348,314702,"Bielefeld, Elsa-Brändström-Str",52.02457,8.52874
+1349,197222,"Bielefeld, Europa Platz/HBF",52.02955,8.532055
+1350,90479,"Bielefeld, Europa Platz/HBF",52.029583,8.53201
+1351,187852,"Bielefeld, Fachhochschule",52.044357,8.491523
+1352,451256,"Bielefeld, Fachhochschule",52.044357,8.491523
+1353,118335,"Bielefeld, Feldstraße",52.028515,8.565355
+1354,199645,"Bielefeld, Finkenstraße",52.038048,8.563783
+1355,274549,"Bielefeld, Finkenstraße",52.038174,8.563936
+1356,37072,"Bielefeld, Finkenstraße",52.037975,8.564098
+1357,87761,"Bielefeld, Finkenstraße",52.038036,8.563981
+1358,110017,"Bielefeld, Flachsstraße",52.024124,8.554046
+1359,81972,"Bielefeld, Flachsstraße",52.02415,8.554082
+1360,240482,"Bielefeld, Franziskus-Hospital",52.02456,8.523458
+1361,273315,"Bielefeld, Franziskus-Hospital",52.024048,8.523647
+1362,20767,"Bielefeld, Friedrich-Schultz-Straße",52.033722,8.568733
+1363,436866,"Bielefeld, Friedrich-Schultz-Straße",52.033737,8.568778
+1364,217807,"Bielefeld, Friedrichstraße",52.027924,8.525111
+1365,6364,"Bielefeld, Friedrichstraße",52.027912,8.52512
+1366,133900,"Bielefeld, Grf-v-Stauff-Str",52.03287,8.509022
+1367,275858,"Bielefeld, Grf-v-Stauff-Str",52.032986,8.508995
+1368,321359,"Bielefeld, Grf-v-Stauff-Str",52.03265,8.509103
+1369,92379,"Bielefeld, Grf-v-Stauff-Str",52.03296,8.50904
+1370,2227,"Bielefeld, Hakenort",52.025993,8.559418
+1371,357919,"Bielefeld, Hakenort",52.025864,8.558968
+1372,210250,"Bielefeld, Hartlager Weg",52.013264,8.557315
+1373,241366,"Bielefeld, Hartlager Weg",52.013317,8.557414
+1374,78022,"Bielefeld, Hartlager Weg",52.013336,8.55657
+1375,451898,"Bielefeld, Heidsiekstraße",52.024315,8.57857
+1376,49741,"Bielefeld, Heidsiekstraße",52.02429,8.578615
+1377,114857,"Bielefeld, Hofstraße",52.026257,8.578183
+1378,8366,"Bielefeld, Hofstraße",52.026226,8.578201
+1379,284025,"Bielefeld, Hudeweg",52.026123,8.570709
+1380,31129,"Bielefeld, Hudeweg",52.025864,8.570027
+1381,144301,"Bielefeld, Jahnplatz",52.02402,8.534256
+1382,218280,"Bielefeld, Jahnplatz",52.02295,8.533277
+1383,328314,"Bielefeld, Jahnplatz",52.023407,8.533483
+1384,338509,"Bielefeld, Jahnplatz",52.022343,8.533681
+1385,350020,"Bielefeld, Jahnplatz",52.023537,8.533753
+1386,351353,"Bielefeld, Jahnplatz",52.02406,8.534094
+1387,36591,"Bielefeld, Jahnplatz",52.02386,8.534022
+1388,411582,"Bielefeld, Jahnplatz",52.023125,8.532127
+1389,441173,"Bielefeld, Jahnplatz",52.023422,8.533735
+1390,210674,"Bielefeld, Jahnplatz Nord",52.02477,8.535891
+1391,120213,"Bielefeld, Kesselbrink",52.023598,8.539852
+1392,212936,"Bielefeld, Kesselbrink",52.023735,8.539888
+1393,307762,"Bielefeld, Kesselbrink",52.024746,8.537714
+1394,311658,"Bielefeld, Kesselbrink",52.024155,8.537085
+1395,96900,"Bielefeld, Kesselbrink",52.024513,8.537175
+1396,134212,"Bielefeld, Kiskerstraße",52.021843,8.520422
+1397,23644,"Bielefeld, Kiskerstraße",52.02181,8.520431
+1398,22157,"Bielefeld, Kleine Howe",52.01699,8.559498
+1399,88720,"Bielefeld, Kleine Howe",52.01699,8.559561
+1400,103460,"Bielefeld, Klosterstraße",52.022472,8.528219
+1401,128312,"Bielefeld, Klosterstraße",52.021633,8.527033
+1402,46956,"Bielefeld, Klosterstraße",52.022453,8.528839
+1403,176100,"Bielefeld, Krankenhaus Mitte",52.015556,8.546024
+1404,272634,"Bielefeld, Krankenhaus Mitte",52.015724,8.545655
+1405,299557,"Bielefeld, Krankenhaus Mitte",52.015785,8.545215
+1406,413793,"Bielefeld, Krankenhaus Mitte",52.015747,8.545467
+1407,273729,"Bielefeld, Kunsthalle",52.018272,8.525722
+1408,5956,"Bielefeld, Kunsthalle",52.018406,8.525255
+1409,424474,"Bielefeld, Kurt-Schumacher-Str",52.037613,8.5018
+1410,430736,"Bielefeld, Kurt-Schumacher-Str",52.03859,8.501818
+1411,354820,"Bielefeld, Lampingstr.",52.027267,8.510926
+1412,103933,"Bielefeld, Landgericht",52.017548,8.533447
+1413,207477,"Bielefeld, Landgericht",52.017693,8.533339
+1414,445059,"Bielefeld, Landgericht",52.017567,8.533312
+1415,192289,"Bielefeld, Lina-Oetker-Str.",52.024364,8.515705
+1416,61907,"Bielefeld, Lina-Oetker-Str.",52.02433,8.515813
+1417,198419,"Bielefeld, Lohbreite",52.02411,8.564915
+1418,287185,"Bielefeld, Lohbreite",52.02474,8.565212
+1419,374200,"Bielefeld, Lohbreite",52.02478,8.565194
+1420,439834,"Bielefeld, Lohbreite",52.024033,8.565095
+1421,393731,"Bielefeld, Marktstraße",52.019024,8.539771
+1422,79023,"Bielefeld, Marktstraße",52.01904,8.539735
+1423,81777,"Bielefeld, Marktstraße",52.01902,8.539691
+1424,85192,"Bielefeld, Marktstraße",52.01898,8.539843
+1425,376612,"Bielefeld, Meinolfstraße",52.03034,8.569784
+1426,429535,"Bielefeld, Meinolfstraße",52.03037,8.569802
+1427,345648,"Bielefeld, Meisenstraße",52.02078,8.566703
+1428,380565,"Bielefeld, Meisenstraße",52.020832,8.566685
+1429,305807,"Bielefeld, Melanchthonstraße",52.032703,8.521284
+1430,9097,"Bielefeld, Melanchthonstraße",52.03276,8.52123
+1431,32075,"Bielefeld, Meller Straße",52.037888,8.533744
+1432,454231,"Bielefeld, Meller Straße",52.037888,8.533807
+1433,175072,"Bielefeld, Mindener Straße",52.02885,8.529063
+1434,277582,"Bielefeld, Mindener Straße",52.028664,8.529297
+1435,80297,"Bielefeld, Mindener Straße",52.028786,8.529414
+1436,31902,"Bielefeld, Mozartstraße",52.008316,8.54385
+1437,348452,"Bielefeld, Mozartstraße",52.00832,8.543823
+1438,353743,"Bielefeld, Mozartstraße",52.008358,8.543975
+1439,410253,"Bielefeld, Mozartstraße",52.008537,8.543329
+1440,184918,"Bielefeld, Märkische Straße",52.02914,8.539735
+1441,215712,"Bielefeld, Märkische Straße",52.029102,8.539735
+1442,371226,"Bielefeld, Nachtigallstraße",52.02455,8.568976
+1443,277313,"Bielefeld, Nahariyastraße",52.02966,8.536807
+1444,105551,"Bielefeld, Nikol.-Dürkopp-Str",52.019737,8.535477
+1445,43446,"Bielefeld, Nikol.-Dürkopp-Str",52.019722,8.535576
+1446,236862,"Bielefeld, Nordpark",52.03712,8.523701
+1447,241984,"Bielefeld, Nordpark",52.037148,8.523521
+1448,268921,"Bielefeld, Nordpark",52.037285,8.523647
+1449,277986,"Bielefeld, Nordpark",52.0369,8.523359
+1450,98764,"Bielefeld, Nordpark",52.037296,8.523467
+1451,134,"Bielefeld, Ostbahnhof",52.022602,8.560262
+1452,454344,"Bielefeld, Ostbahnhof",52.022594,8.560145
+1453,159695,"Bielefeld, Oststraße",52.01424,8.551342
+1454,361989,"Bielefeld, Oststraße",52.014233,8.551414
+1455,381035,"Bielefeld, Oststraße",52.014137,8.551449
+1456,104440,"Bielefeld, Pauluskirche",52.027157,8.539789
+1457,346465,"Bielefeld, Pauluskirche",52.02712,8.539798
+1458,38114,"Bielefeld, Paulusstraße",52.026394,8.538002
+1459,296071,"Bielefeld, Petrikirche",52.032772,8.565257
+1460,92095,"Bielefeld, Petrikirche",52.032776,8.565301
+1461,170815,"Bielefeld, Petristraße",52.03414,8.572533
+1462,42603,"Bielefeld, Petristraße",52.034206,8.57256
+1463,121211,"Bielefeld, Polizeipräsidium",52.029724,8.511106
+1464,259207,"Bielefeld, Polizeipräsidium",52.030907,8.510971
+1465,305825,"Bielefeld, Polizeipräsidium",52.030273,8.509651
+1466,158303,"Bielefeld, Radrennb./Ziegelstr",52.02897,8.575893
+1467,352232,"Bielefeld, Radrennb./Ziegelstr",52.029503,8.575848
+1468,290772,"Bielefeld, Radrennbahn",52.028366,8.575803
+1469,76990,"Bielefeld, Radrennbahn",52.02836,8.575758
+1470,113494,"Bielefeld, Rathaus",52.020374,8.534408
+1471,324235,"Bielefeld, Rathaus",52.02049,8.534534
+1472,324477,"Bielefeld, Rathaus",52.020615,8.534597
+1473,229312,"Bielefeld, Ravensberger Park",52.021313,8.546203
+1474,360403,"Bielefeld, Ravensberger Park",52.02126,8.546024
+1475,207156,"Bielefeld, Roonstraße",52.023224,8.518329
+1476,302347,"Bielefeld, Roonstraße",52.02323,8.518221
+1477,141967,"Bielefeld, Rudolf-Oetker-Halle",52.02893,8.513702
+1478,238169,"Bielefeld, Rudolf-Oetker-Halle",52.028885,8.514241
+1479,32017,"Bielefeld, Rudolf-Oetker-Halle",52.028885,8.514331
+1480,346661,"Bielefeld, Rudolf-Oetker-Halle",52.028664,8.514915
+1481,402947,"Bielefeld, Rudolf-Oetker-Halle",52.02881,8.513639
+1482,417942,"Bielefeld, Rudolf-Oetker-Halle",52.028885,8.514744
+1483,195830,"Bielefeld, Schillerstraße",52.036938,8.559462
+1484,324801,"Bielefeld, Schillerstraße",52.037003,8.559301
+1485,445286,"Bielefeld, Schillerstraße",52.037174,8.559274
+1486,64558,"Bielefeld, Schillerstraße",52.037075,8.559238
+1487,240583,"Bielefeld, Schüco",52.04311,8.576683
+1488,315803,"Bielefeld, Schüco",52.042973,8.57618
+1489,336324,"Bielefeld, Schüco",52.04327,8.577123
+1490,388803,"Bielefeld, Schüco",52.043205,8.577204
+1491,200948,"Bielefeld, Seidenstickerhalle",52.02539,8.551665
+1492,395584,"Bielefeld, Seidenstickerhalle",52.025364,8.551638
+1493,176954,"Bielefeld, Sieben Hügel",52.030888,8.505222
+1494,443688,"Bielefeld, Sieben Hügel",52.030804,8.505267
+1495,23752,"Bielefeld, Siegfriedplatz",52.028034,8.522569
+1496,359232,"Bielefeld, Siegfriedplatz",52.02796,8.522335
+1497,18775,"Bielefeld, Siegfriedstraße",52.030594,8.523889
+1498,421988,"Bielefeld, Siegfriedstraße",52.030598,8.523862
+1499,152136,"Bielefeld, Sparrenstraße",52.015396,8.532351
+1500,322403,"Bielefeld, Spindelstraße",52.01704,8.55312
+1501,86427,"Bielefeld, Spindelstraße",52.01705,8.553057
+1502,287231,"Bielefeld, Stadtheider Straße",52.03604,8.555106
+1503,335427,"Bielefeld, Stadtheider Straße",52.035877,8.554836
+1504,433547,"Bielefeld, Stadtheider Straße",52.03614,8.554764
+1505,53776,"Bielefeld, Stadtheider Straße",52.036102,8.555097
+1506,180259,"Bielefeld, Stadtwerke",52.034275,8.538352
+1507,414646,"Bielefeld, Stadtwerke",52.034325,8.538325
+1508,273115,"Bielefeld, Starenweg",52.02236,8.571275
+1509,118226,"Bielefeld, Stieglitzweg",52.02386,8.582522
+1510,166921,"Bielefeld, Stieglitzweg",52.023876,8.582576
+1511,20060,"Bielefeld, Sudbrackstraße",52.036114,8.53837
+1512,213042,"Bielefeld, Sudbrackstraße",52.03624,8.539026
+1513,421402,"Bielefeld, Sudbrackstraße",52.036186,8.538118
+1514,49939,"Bielefeld, Sudbrackstraße",52.0362,8.538945
+1515,183620,"Bielefeld, Technologiezentrum",52.011826,8.568796
+1516,453902,"Bielefeld, Technologiezentrum",52.011826,8.568796
+1517,10905,"Bielefeld, Teutoburger Straße",52.010277,8.540427
+1518,232708,"Bielefeld, Teutoburger Straße",52.01084,8.53925
+1519,242445,"Bielefeld, Teutoburger Straße",52.010597,8.539664
+1520,459309,"Bielefeld, Teutoburger Straße",52.01061,8.539664
+1521,367015,"Bielefeld, Turnerstraße",52.02158,8.536888
+1522,95011,"Bielefeld, Turnerstraße",52.02158,8.536888
+1523,4117,"Bielefeld, Uni/Stud.-Wohnheim",52.032997,8.497982
+1524,76972,"Bielefeld, Uni/Stud.-Wohnheim",52.032944,8.498745
+1525,353059,"Bielefeld, Uni/Zentrum",52.03854,8.495978
+1526,11164,"Bielefeld, Universität",52.03934,8.496868
+1527,132579,"Bielefeld, Universität",52.03911,8.497047
+1528,356710,"Bielefeld, Universität",52.039425,8.496877
+1529,268845,"Bielefeld, Volkshochschule",52.02139,8.541775
+1530,62980,"Bielefeld, Volkshochschule",52.021408,8.541703
+1531,267439,"Bielefeld, Walkenweg",52.038353,8.576216
+1532,377942,"Bielefeld, Walkenweg",52.03838,8.576234
+1533,352868,"Bielefeld, Westfalen-Kolleg",52.02013,8.577635
+1534,452197,"Bielefeld, Westfalen-Kolleg",52.020096,8.577546
+1535,355519,"Bielefeld, Weststraße",52.0269,8.519981
+1536,385376,"Bielefeld, Weststraße",52.027122,8.519658
+1537,389475,"Bielefeld, Wiesenbad",52.025284,8.547829
+1538,92352,"Bielefeld, Wiesenbad",52.025265,8.547793
+1539,156694,"Bielefeld, Windmühlenweg",52.00064,8.557783
+1540,201122,"Bielefeld, Windmühlenweg",52.00064,8.55781
+1541,129328,"Bielefeld, Wittekindstraße",52.032566,8.525982
+1542,181326,"Bielefeld, Wittekindstraße",52.032803,8.52583
+1543,305785,"Bielefeld, Wittekindstraße",52.03247,8.526351
+1544,428846,"Bielefeld, Wittekindstraße",52.032555,8.526045
+1545,114849,"Bielefeld, Ziegelstr/Bleichstr",52.0317,8.573045
+1546,333053,"Bielefeld, Ziegelstr/Bleichstr",52.03172,8.573036
+1547,129203,"Bielefeld, Ziegelstraße",52.0392,8.569056
+1548,15828,"Bielefeld, Ziegelstraße",52.039246,8.569065
+1549,168530,"Bielefeld, Ziegelstraße",52.03929,8.56894
+1550,56892,"Bielefeld, Ziegelstraße",52.039352,8.569074
+1551,379988,"Bielefeld, Zur Alten Gärtnerei",52.03086,8.559462
+1552,82249,"Bielefeld, Zur Alten Gärtnerei",52.03087,8.559498
+1553,276603,"Brackwede, Kammerich-Werke",51.975353,8.50913
+1554,365549,"Brackwede, Kammerich-Werke",51.975307,8.509139
+1555,219045,"Hf-Stedefreund, Am Vogelholz",52.08294,8.607612
+1556,106655,"Hf-Stedefreund, Friedhof",52.077293,8.618095
+1557,230946,"Hoberge-Uerentrup, Schäferdreesch",52.02296,8.485262
+1558,45781,"Hoberge-Uerentrup, Schäferdreesch",52.02305,8.485738
+1559,290906,"S.H-Sende, Friedhof",51.920315,8.582262
+1560,226741,"Steinhagen, JVA Brackwede",51.987354,8.442592

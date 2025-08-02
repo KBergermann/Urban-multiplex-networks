@@ -1,0 +1,902 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,446076,Albrecht-Dürer-Straße,48.387646,10.905817
+1,66720,Albrecht-Dürer-Straße,48.38803,10.905269
+2,379548,Alpenstraße,48.356255,10.898972
+3,276654,Am Alten Hessenbach,48.371246,10.875068
+4,318547,Am Alten Hessenbach,48.370342,10.875131
+5,245827,Augsburg (Augsburg P+R Nord),48.40172,10.877042
+6,95451,Augsburg Aindlinger Straße,48.39461,10.93159
+7,413020,Augsburg Alpenhof,48.398293,10.881536
+8,418697,Augsburg Alpenhof,48.397793,10.88167
+9,272884,Augsburg Berliner Allee,48.374374,10.912402
+10,402167,Augsburg Berliner Allee,48.37453,10.912375
+11,268220,Augsburg Berufsschule,48.348667,10.90402
+12,332495,Augsburg Blaue Kappe,48.373493,10.887411
+13,430902,Augsburg Blaue Kappe,48.37351,10.887653
+14,329665,Augsburg Brixener Straße,48.380814,10.930521
+15,206245,"Augsburg Bärenwirt/DRvS,Augsburg",48.385586,10.881652
+16,403878,"Augsburg Bärenwirt/DRvS,Augsburg",48.38583,10.881661
+17,263861,Augsburg Derchinger Straße,48.388283,10.936683
+18,277253,Augsburg Dieselbrücke,48.38492,10.887887
+19,337984,Augsburg Dieselbrücke,48.38478,10.88777
+20,101439,Augsburg Eschenhof,48.39317,10.881715
+21,44638,Augsburg Eschenhof,48.393112,10.881715
+22,421189,Augsburg Fachoberschule,48.343098,10.900185
+23,262053,Augsburg Flughafen Abzw.,48.42019,10.919786
+24,286384,Augsburg Flughafen Abzw.,48.421852,10.920064
+25,60754,Augsburg Fuggerei,48.37027,10.905027
+26,448701,Augsburg Haindl,48.38039,10.896969
+27,320870,Augsburg Haunstetterstraße,48.355286,10.900985
+28,100586,Augsburg Hbf,48.36547,10.887743
+29,181733,Augsburg Hbf,48.36544,10.88557
+30,311385,Augsburg Hbf,48.36552,10.887222
+31,82308,Augsburg Hbf,48.365364,10.88856
+32,334217,Augsburg Jakobertor,48.37061,10.909518
+33,40582,Augsburg Jakobertor,48.37082,10.909743
+34,264696,Augsburg Karlstraße,48.370502,10.897157
+35,322038,Augsburg Karlstraße,48.370293,10.897175
+36,290416,Augsburg Lechh.Industriegebiet,48.39182,10.933701
+37,371173,Augsburg Lechhausen Schlößle,48.380802,10.915725
+38,61648,Augsburg Lechhausen Schlößle,48.38079,10.915842
+39,242855,Augsburg MAN,48.381977,10.894606
+40,298696,Augsburg MAN,48.38283,10.89307
+41,422077,Augsburg MAN,48.382168,10.893025
+42,169401,Augsburg Medienzentrum,48.396675,10.922355
+43,247881,Augsburg Ottostraße,48.38016,10.890662
+44,382843,Augsburg Ottostraße,48.37975,10.890429
+45,228181,Augsburg Pilgerhausstraße,48.370483,10.902287
+46,288533,Augsburg Pilgerhausstraße,48.370686,10.901388
+47,196801,Augsburg Rud.-Diesel-Gym.,48.355225,10.951496
+48,40289,"Augsburg Senkelbach,Augsburg",48.377,10.888668
+49,73494,"Augsburg Senkelbach,Augsburg",48.37696,10.88856
+50,109409,Augsburg Staatstheater,48.368843,10.892989
+51,172613,Augsburg Staatstheater,48.36932,10.8921
+52,47085,Augsburg Staatstheater,48.368908,10.893286
+53,75975,Augsburg Staatstheater,48.36975,10.89192
+54,443008,Augsburg Steinerne Furt,48.391064,10.915411
+55,60501,Augsburg Steinerne Furt,48.390675,10.915133
+56,180387,Augsburg Sterzinger Straße,48.383934,10.936962
+57,207889,Augsburg Stätzlinger Straße,48.376392,10.928697
+58,431090,Augsburg Ulrichsbrücke,48.378128,10.914414
+59,7841,Augsburg Ulrichsbrücke,48.377865,10.914234
+60,220449,Augsburg Volkhartstraße,48.371044,10.890474
+61,327562,Augsburg Zollernstraße,48.38874,10.881392
+62,43407,Augsburg Zollernstraße,48.38827,10.881347
+63,170660,"Augsburg, Ablaßweg",48.352764,10.921636
+64,357492,"Augsburg, Ablaßweg",48.352943,10.921699
+65,47982,"Augsburg, Afrabrücke",48.35509,10.937968
+66,73800,"Augsburg, Afrabrücke",48.355175,10.937923
+67,173886,"Augsburg, Aindlinger Straße",48.393593,10.932192
+68,69644,"Augsburg, Aindlinger Straße",48.39461,10.93159
+69,198649,"Augsburg, Alpenhof",48.397793,10.88167
+70,236883,"Augsburg, Alpenhof",48.39779,10.881668
+71,87906,"Augsburg, Alpenhof",48.398293,10.881535
+72,99116,"Augsburg, Alpenhof",48.398293,10.881536
+73,190335,"Augsburg, Alter Ostfriedhof",48.37912,10.925706
+74,246365,"Augsburg, Alter Ostfriedhof",48.378845,10.9262
+75,305643,"Augsburg, Alter Ostfriedhof",48.37884,10.9262
+76,410777,"Augsburg, Alter Ostfriedhof",48.379116,10.925708
+77,227754,"Augsburg, Am Eiskanal",48.35525,10.932659
+78,289453,"Augsburg, Am Eiskanal",48.355183,10.932659
+79,209170,"Augsburg, Am Eulenhorst",48.393337,10.848749
+80,280138,"Augsburg, Am Eulenhorst",48.39322,10.848738
+81,332346,"Augsburg, Am Eulenhorst",48.393223,10.848738
+82,338247,"Augsburg, Am Eulenhorst",48.393333,10.848747
+83,90413,"Augsburg, Am Eulenhorst",48.393333,10.848747
+84,186874,"Augsburg, Am Grünland",48.391617,10.901703
+85,359489,"Augsburg, Am Grünland",48.391396,10.902062
+86,292979,"Augsburg, Am Mittleren Moos",48.39679,10.93441
+87,210112,"Augsburg, Am Roggenfeld",48.403187,10.852026
+88,81606,"Augsburg, Am Roggenfeld",48.403324,10.851235
+89,40279,"Augsburg, Am Wachtelschlag",48.394497,10.847822
+90,117529,"Augsburg, Auerstraße",48.390396,10.868637
+91,15517,"Augsburg, Auerstraße",48.389984,10.867657
+92,161246,"Augsburg, Auerstraße",48.389683,10.869193
+93,236318,"Augsburg, Auerstraße",48.389984,10.867657
+94,360673,"Augsburg, Auerstraße",48.389572,10.868267
+95,419711,"Augsburg, Auerstraße",48.389683,10.869193
+96,55773,"Augsburg, Auerstraße",48.389683,10.869193
+97,171438,"Augsburg, Augsb.Str./Herz-Jesu",48.36303,10.87151
+98,25096,"Augsburg, Augsb.Str./Herz-Jesu",48.36303,10.87151
+99,252670,"Augsburg, Augsb.Str./Herz-Jesu",48.363,10.87107
+100,300231,"Augsburg, BBW/Inst. für Physik",48.330193,10.898954
+101,304965,"Augsburg, BBW/Inst. für Physik",48.330105,10.898837
+102,133013,"Augsburg, Beim Dürren Ast",48.33389,10.90773
+103,431504,"Augsburg, Beim Dürren Ast",48.334026,10.907802
+104,152640,"Augsburg, Berliner Allee",48.374374,10.912402
+105,345693,"Augsburg, Berliner Allee",48.37453,10.912375
+106,394156,"Augsburg, Berliner Allee",48.37453,10.912373
+107,425306,"Augsburg, Berliner Allee",48.37438,10.912403
+108,393269,"Augsburg, Berufsschule",48.348763,10.903841
+109,395615,"Augsburg, Berufsschule",48.3489,10.903868
+110,104869,"Augsburg, Bgm.-Bohl-Straße",48.362366,10.863821
+111,327521,"Augsburg, Bgm.-Bohl-Straße",48.362995,10.864261
+112,244032,"Augsburg, Biberbachstraße",48.400684,10.875732
+113,147527,"Augsburg, Bismarckbrücke",48.35639,10.896555
+114,446881,"Augsburg, Bismarckbrücke",48.35718,10.897076
+115,186461,"Augsburg, Blaue Kappe",48.37349,10.88741
+116,287833,"Augsburg, Blaue Kappe",48.373512,10.887653
+117,14503,"Augsburg, Brixener Straße",48.380814,10.930521
+118,162307,"Augsburg, Brixener Straße",48.381023,10.931338
+119,266011,"Augsburg, Brunnenstraße",48.383606,10.918178
+120,285762,"Augsburg, Brunnenstraße",48.38343,10.918438
+121,114811,"Augsburg, Bukowina-Institut/PCI",48.338177,10.898981
+122,153550,"Augsburg, Bukowina-Institut/PCI",48.338104,10.899134
+123,202705,"Augsburg, Bukowina-Institut/PCI",48.338135,10.899223
+124,220471,"Augsburg, Bukowina-Institut/PCI",48.33805,10.899152
+125,254573,"Augsburg, Burgfrieden",48.353157,10.880997
+126,330987,"Augsburg, Burgfrieden",48.353157,10.880998
+127,40504,"Augsburg, Burgfrieden",48.35307,10.880835
+128,412231,"Augsburg, Burgfrieden",48.353065,10.880838
+129,161883,"Augsburg, Bärenbergl",48.39045,10.864126
+130,302291,"Augsburg, Bärenbergl",48.390274,10.864387
+131,166509,"Augsburg, Bärenkeller Nord",48.39973,10.855143
+132,244787,"Augsburg, Bärenkeller Nord",48.399097,10.855547
+133,377595,"Augsburg, Bärenkeller Nord",48.399097,10.855547
+134,9061,"Augsburg, Bärenkeller Nord",48.39973,10.855141
+135,173042,"Augsburg, Bärenkeller Ost",48.393414,10.86637
+136,400729,"Augsburg, Bärenkeller Ost",48.3934,10.866613
+137,309397,"Augsburg, Bärenkeller Schule",48.39551,10.857892
+138,34102,"Augsburg, Bärenkeller Schule",48.39531,10.857425
+139,244078,"Augsburg, Bärenkeller Süd",48.394802,10.847525
+140,343550,"Augsburg, Bärenkeller Süd",48.394794,10.847274
+141,103177,"Augsburg, Bärenwirt/DRvS",48.385723,10.879974
+142,143672,"Augsburg, Bärenwirt/DRvS",48.385586,10.881651
+143,204538,"Augsburg, Bärenwirt/DRvS",48.385723,10.879919
+144,224533,"Augsburg, Bärenwirt/DRvS",48.385826,10.88166
+145,257916,"Augsburg, Bärenwirt/DRvS",48.385723,10.879973
+146,320432,"Augsburg, Bärenwirt/DRvS",48.385353,10.880673
+147,36556,"Augsburg, Bärenwirt/DRvS",48.385723,10.879973
+148,381724,"Augsburg, Bärenwirt/DRvS",48.385353,10.880673
+149,383064,"Augsburg, Bärenwirt/DRvS",48.38527,10.880655
+150,45766,"Augsburg, Bärenwirt/DRvS",48.38527,10.880655
+151,101185,"Augsburg, Chemnitzer Straße",48.358025,10.864537
+152,101869,"Augsburg, Chemnitzer Straße",48.358047,10.864737
+153,130206,"Augsburg, Chemnitzer Straße",48.35802,10.864539
+154,211534,"Augsburg, Chemnitzer Straße",48.358047,10.864737
+155,215475,"Augsburg, Chemnitzer Straße",48.358044,10.864739
+156,390692,"Augsburg, Chemnitzer Straße",48.358143,10.865249
+157,431708,"Augsburg, Chemnitzer Straße",48.35802,10.864539
+158,251966,"Augsburg, Christian-Dierig-Haus",48.366085,10.872337
+159,28215,"Augsburg, Christian-Dierig-Haus",48.36623,10.873765
+160,230586,"Augsburg, Curt-Frenzel-Stadion",48.373547,10.885789
+161,395083,"Augsburg, Curt-Frenzel-Stadion",48.373447,10.884806
+162,417479,"Augsburg, Curtiusstraße",48.371807,10.931275
+163,448937,"Augsburg, Curtiusstraße",48.37209,10.931078
+164,17109,"Augsburg, Dayton Ring",48.373455,10.857164
+165,172822,"Augsburg, Dayton Ring",48.373383,10.855107
+166,435654,"Augsburg, Derchinger Straße",48.388283,10.936683
+167,83226,"Augsburg, Derchinger Straße",48.38842,10.936674
+168,129254,"Augsburg, Diakonissenhaus",48.369076,10.888111
+169,50753,"Augsburg, Diakonissenhaus",48.369072,10.888114
+170,171301,"Augsburg, Dieselbrücke",48.38478,10.887772
+171,204238,"Augsburg, Dieselbrücke",48.38478,10.88777
+172,302743,"Augsburg, Dieselbrücke",48.38492,10.88789
+173,50696,"Augsburg, Dieselbrücke",48.38492,10.887887
+174,182735,"Augsburg, Dom/Stadtwerke",48.3716,10.897544
+175,232763,"Augsburg, Dom/Stadtwerke",48.371613,10.897732
+176,265058,"Augsburg, Donaustraße",48.377377,10.931252
+177,309259,"Augsburg, Donaustraße",48.377262,10.93132
+178,40553,"Augsburg, Donaustraße",48.377262,10.931322
+179,434681,"Augsburg, Donaustraße",48.377377,10.931248
+180,194048,"Augsburg, Drentwettstraße",48.38205,10.880476
+181,429872,"Augsburg, Drentwettstraße",48.38199,10.880646
+182,183759,"Augsburg, Eberlestraße",48.364487,10.87522
+183,229530,"Augsburg, Eberlestraße",48.36401,10.875184
+184,65897,"Augsburg, Eberlestraße",48.364025,10.874798
+185,431461,"Augsburg, Eibseestraße",48.362297,10.939055
+186,458202,"Augsburg, Eibseestraße",48.362278,10.938758
+187,30738,"Augsburg, Eichleitnerstraße",48.348503,10.885849
+188,361829,"Augsburg, Eichleitnerstraße",48.3485,10.885847
+189,393552,"Augsburg, Eichleitnerstraße",48.348816,10.886072
+190,440418,"Augsburg, Eichleitnerstraße",48.34882,10.886072
+191,110378,"Augsburg, Eppaner Straße",48.37923,10.943295
+192,115170,"Augsburg, Eppaner Straße",48.37908,10.942504
+193,133033,"Augsburg, Eppaner Straße",48.37908,10.942502
+194,139450,"Augsburg, Eppaner Straße",48.379234,10.943296
+195,203313,"Augsburg, Eschenhof",48.393112,10.881716
+196,301939,"Augsburg, Eschenhof",48.39317,10.881715
+197,455024,"Augsburg, Eschenhof",48.393166,10.881715
+198,91574,"Augsburg, Eschenhof",48.393112,10.881715
+199,411900,"Augsburg, Fa. Karstadt",48.390633,10.939806
+200,66985,"Augsburg, Fa. Karstadt",48.39093,10.940096
+201,444875,"Augsburg, Fachoberschule",48.343334,10.900571
+202,449205,"Augsburg, Fachoberschule",48.343227,10.900517
+203,197912,"Augsburg, Falkenweg",48.391533,10.857039
+204,314639,"Augsburg, Falkenweg",48.39145,10.856814
+205,332892,"Augsburg, Falkenweg",48.39145,10.856814
+206,417422,"Augsburg, Falkenweg",48.391445,10.856812
+207,6354,"Augsburg, Falkenweg",48.391533,10.85704
+208,99065,"Augsburg, Falkenweg",48.391533,10.857039
+209,135695,"Augsburg, Fichtelbachstraße",48.367973,10.913785
+210,396824,"Augsburg, Fichtelbachstraße",48.368053,10.913641
+211,197131,"Augsburg, Firnhaberau",48.407787,10.894292
+212,220069,"Augsburg, Firnhaberau",48.406315,10.893555
+213,143553,"Augsburg, Fischertor",48.377262,10.893339
+214,320064,"Augsburg, Fischertor",48.37716,10.894121
+215,418849,"Augsburg, Flandernstraße",48.371204,10.870019
+216,180876,"Augsburg, Forggenseestraße",48.36497,10.941516
+217,185366,"Augsburg, Forggenseestraße",48.364964,10.941274
+218,128983,"Augsburg, Fraunhoferstraße",48.379787,10.910219
+219,416012,"Augsburg, Fraunhoferstraße",48.380127,10.909931
+220,11153,"Augsburg, Fritz-Koelle-Straße",48.362003,10.922193
+221,375284,"Augsburg, Fritz-Koelle-Straße",48.36212,10.92222
+222,124315,"Augsburg, Frohsinnstraße",48.36196,10.891872
+223,175420,"Augsburg, Frohsinnstraße",48.36182,10.891551
+224,376447,"Augsburg, Frohsinnstraße",48.361824,10.891552
+225,54456,"Augsburg, Frohsinnstraße",48.36196,10.891875
+226,127802,"Augsburg, Fuggerei",48.37027,10.905027
+227,285871,"Augsburg, Fuggerei",48.37027,10.905027
+228,333862,"Augsburg, Fuggerei",48.36989,10.905224
+229,31940,"Augsburg, Gaswerk",48.386303,10.865016
+230,334089,"Augsburg, Gaswerk",48.38619,10.865007
+231,214492,"Augsburg, General-Cramer-Weg",48.357456,10.854559
+232,335548,"Augsburg, General-Cramer-Weg",48.357407,10.854981
+233,165389,"Augsburg, Gieseckestraße",48.37903,10.850598
+234,313019,"Augsburg, Gieseckestraße",48.378956,10.850423
+235,420982,"Augsburg, Gieseckestraße",48.378956,10.850427
+236,319365,"Augsburg, Glaspalast",48.36803,10.918654
+237,46745,"Augsburg, Glaspalast",48.367912,10.919786
+238,116154,"Augsburg, Goethestraße",48.3525,10.917298
+239,198617,"Augsburg, Goethestraße",48.35216,10.916516
+240,26431,"Augsburg, Goethestraße",48.35216,10.916516
+241,91088,"Augsburg, Goethestraße",48.3525,10.917298
+242,193263,"Augsburg, Goldregenweg",48.404404,10.905754
+243,58498,"Augsburg, Goldregenweg",48.404346,10.905754
+244,408779,"Augsburg, Gymn. St. Anna",48.3545,10.887513
+245,148640,"Augsburg, Gärtnerstraße",48.360996,10.909195
+246,447390,"Augsburg, Gärtnerstraße",48.360912,10.908503
+247,209809,"Augsburg, Haindl",48.38039,10.896969
+248,405318,"Augsburg, Haindl",48.378834,10.900149
+249,433236,"Augsburg, Haindl",48.37869,10.900176
+250,164687,"Augsburg, Hammerschmiede",48.402084,10.911261
+251,271215,"Augsburg, Hammerschmiede",48.40245,10.910848
+252,360330,"Augsburg, Hammerschmiede",48.40216,10.910937
+253,358405,"Augsburg, Hammerschmiede Süd",48.396496,10.914791
+254,390726,"Augsburg, Hammerschmiede Süd",48.39656,10.914809
+255,179024,"Augsburg, Hammerschmiedweg",48.402275,10.893438
+256,187984,"Augsburg, Hammerschmiedweg",48.402245,10.89333
+257,72092,"Augsburg, Hammerschmiedweg",48.402836,10.893061
+258,41845,"Augsburg, Hans-Adlhoch-Straße",48.35838,10.869875
+259,71694,"Augsburg, Hans-Adlhoch-Straße",48.358326,10.870873
+260,104715,"Augsburg, Hauptbahnhof",48.366383,10.887015
+261,122185,"Augsburg, Hauptbahnhof",48.365788,10.887932
+262,151473,"Augsburg, Hauptbahnhof",48.365353,10.888372
+263,274769,"Augsburg, Hauptbahnhof",48.365913,10.887977
+264,444226,"Augsburg, Hauptbahnhof",48.365788,10.887932
+265,100058,"Augsburg, Hbf",48.36547,10.887747
+266,19398,"Augsburg, Hbf",48.365364,10.888559
+267,198790,"Augsburg, Hbf",48.365574,10.886989
+268,227189,"Augsburg, Hbf",48.366978,10.887255
+269,351225,"Augsburg, Hbf",48.36613,10.889797
+270,436912,"Augsburg, Hbf",48.365547,10.887111
+271,71733,"Augsburg, Hbf",48.366894,10.887
+272,312428,"Augsburg, Heimgarten",48.380676,10.864306
+273,346749,"Augsburg, Heimgarten",48.380676,10.864303
+274,411620,"Augsburg, Heimgarten",48.38072,10.864073
+275,434703,"Augsburg, Heimgarten",48.38072,10.864072
+276,410557,"Augsburg, Hennchstraße",48.34936,10.89722
+277,61326,"Augsburg, Hennchstraße",48.34913,10.896466
+278,166168,"Augsburg, Herrenbach Schule",48.35895,10.929847
+279,349634,"Augsburg, Herrenbach Schule",48.359074,10.930018
+280,237584,"Augsburg, Herzogstandstraße",48.359455,10.940923
+281,320456,"Augsburg, Herzogstandstraße",48.35914,10.941471
+282,422902,"Augsburg, Hessenbachstraße",48.36747,10.876613
+283,80809,"Augsburg, Hessenbachstraße",48.36726,10.875858
+284,406830,"Augsburg, Hochfeld",48.344517,10.896124
+285,412097,"Augsburg, Hochfeld",48.343826,10.894076
+286,260882,"Augsburg, Hochfeldstraße",48.35226,10.89802
+287,370210,"Augsburg, Hochfeldstraße",48.352142,10.897903
+288,184905,"Augsburg, Hochzoll Bahnhof",48.35265,10.944894
+289,243081,"Augsburg, Hochzoll Bahnhof",48.352646,10.94475
+290,253964,"Augsburg, Hochzoll Kuhsee",48.339256,10.943977
+291,402969,"Augsburg, Hochzoll Kuhsee",48.338577,10.94466
+292,208447,"Augsburg, Hochzoll Mitte",48.354824,10.944552
+293,225997,"Augsburg, Hochzoll Mitte",48.355026,10.945253
+294,229623,"Augsburg, Hochzoll Mitte",48.355385,10.94413
+295,45442,"Augsburg, Hochzoll Mitte",48.355152,10.945226
+296,203878,"Augsburg, Hochzoll Süd",48.341938,10.949897
+297,213627,"Augsburg, Hochzoll Süd",48.341377,10.9497
+298,138333,"Augsburg, Höfatsstraße",48.348583,10.943025
+299,217570,"Augsburg, Höfatsstraße",48.348495,10.942917
+300,251098,"Augsburg, Innsbrucker Straße",48.343376,10.949134
+301,382646,"Augsburg, Innsbrucker Straße",48.34407,10.949017
+302,120447,"Augsburg, Jakobertor",48.370716,10.909401
+303,190481,"Augsburg, Jakobertor",48.37061,10.909514
+304,352694,"Augsburg, Jakobertor",48.37061,10.909518
+305,36191,"Augsburg, Jakobertor",48.37082,10.909743
+306,437512,"Augsburg, Jakobertor",48.37082,10.909739
+307,190068,"Augsburg, Josefinum",48.38606,10.875912
+308,240506,"Augsburg, Josefinum",48.38566,10.87726
+309,20194,"Augsburg, Kammgarn",48.36196,10.916848
+310,339155,"Augsburg, Kammgarn",48.362106,10.91648
+311,148879,"Augsburg, Karlstraße",48.370293,10.897171
+312,152941,"Augsburg, Karlstraße",48.370293,10.897175
+313,446056,"Augsburg, Karlstraße",48.370502,10.897157
+314,139580,"Augsburg, Kernriedstraße",48.384552,10.863461
+315,140448,"Augsburg, Kernriedstraße",48.384247,10.86444
+316,246814,"Augsburg, Kinderklinik",48.385223,10.844058
+317,433140,"Augsburg, Kinderklinik",48.385094,10.843804
+318,212061,"Augsburg, Kirschenweg",48.39798,10.89598
+319,421353,"Augsburg, Kirschenweg",48.397606,10.896313
+320,274226,"Augsburg, Klausstraße",48.38493,10.922966
+321,450159,"Augsburg, Klausstraße",48.38533,10.923487
+322,345892,"Augsburg, Kleesiedlung",48.388847,10.920909
+323,451498,"Augsburg, Kleesiedlung",48.389297,10.920603
+324,298221,"Augsburg, Klinik Vincentinum",48.373493,10.90137
+325,323963,"Augsburg, Klinik Vincentinum",48.373432,10.901559
+326,23466,"Augsburg, Klinkertor",48.37136,10.889629
+327,364226,"Augsburg, Klinkertor",48.371433,10.889558
+328,124194,"Augsburg, Kobelweg",48.385586,10.851719
+329,182248,"Augsburg, Kobelweg",48.385674,10.852203
+330,222410,"Augsburg, Kolbergstraße",48.38369,10.908817
+331,394839,"Augsburg, Kolbergstraße",48.38444,10.908287
+332,305715,"Augsburg, Kollmannstraße",48.346043,10.89448
+333,350644,"Augsburg, Kollmannstraße",48.346375,10.895864
+334,191040,"Augsburg, Kongress am Park",48.35808,10.887719
+335,369950,"Augsburg, Kongress am Park",48.358128,10.887866
+336,139584,"Augsburg, Kriegshaber",48.380127,10.854388
+337,147966,"Augsburg, Kriegshaber",48.37993,10.854397
+338,332926,"Augsburg, Kriegshaber",48.379936,10.855977
+339,391653,"Augsburg, Kriegshaber",48.380116,10.855053
+340,230220,"Augsburg, Kriegshaberstraße",48.37452,10.850184
+341,354926,"Augsburg, Kriegshaberstraße",48.37395,10.849726
+342,338499,"Augsburg, Kulturstraße",48.37673,10.925582
+343,385191,"Augsburg, Kulturstraße",48.37673,10.92558
+344,402133,"Augsburg, Kulturstraße",48.37645,10.926061
+345,407969,"Augsburg, Kulturstraße",48.37673,10.92558
+346,160937,"Augsburg, Königsplatz",48.364998,10.893371
+347,38088,"Augsburg, Königsplatz",48.36672,10.892781
+348,416744,"Augsburg, Landvogtstraße",48.378845,10.870118
+349,72345,"Augsburg, Landvogtstraße",48.37845,10.870262
+350,384762,"Augsburg, Lange Gewanne",48.3972,10.847489
+351,404911,"Augsburg, Lange Gewanne",48.398,10.847445
+352,294910,"Augsburg, Lech. Industriegebiet",48.391106,10.934366
+353,317400,"Augsburg, Lech. Industriegebiet",48.39182,10.933701
+354,189558,"Augsburg, Lechhausen N. Ostfr.",48.36585,10.936773
+355,423202,"Augsburg, Lechhausen N. Ostfr.",48.36578,10.936638
+356,18978,"Augsburg, Lechhausen Schlößle",48.380802,10.915723
+357,201919,"Augsburg, Lechhausen Schlößle",48.38079,10.915842
+358,203423,"Augsburg, Lechhausen Schlößle",48.380787,10.915845
+359,389375,"Augsburg, Lechhausen Schlößle",48.380802,10.915725
+360,246924,"Augsburg, Linke Brandstraße",48.38818,10.915941
+361,418931,"Augsburg, Linke Brandstraße",48.38783,10.916678
+362,100786,"Augsburg, Localbahn",48.35583,10.915878
+363,189821,"Augsburg, Localbahn",48.35618,10.914603
+364,316349,"Augsburg, Luitpoldbrücke",48.365093,10.878454
+365,325547,"Augsburg, Luitpoldbrücke",48.36486,10.878652
+366,284931,"Augsburg, Lukassiedlung",48.405823,10.896142
+367,113399,"Augsburg, MAN",48.381977,10.894606
+368,376581,"Augsburg, MAN",48.382828,10.893066
+369,416388,"Augsburg, MAN",48.38283,10.89307
+370,441922,"Augsburg, MAN",48.38217,10.893026
+371,438443,"Augsburg, Magdeburger Straße",48.39615,10.910452
+372,82074,"Augsburg, Magdeburger Straße",48.396996,10.91038
+373,159098,"Augsburg, Margaret",48.36205,10.903553
+374,45307,"Augsburg, Margaret",48.36257,10.904622
+375,4691,"Augsburg, Margaret",48.362625,10.904892
+376,70134,"Augsburg, Margaret",48.36217,10.903463
+377,185129,"Augsburg, Markgrafenstraße",48.376743,10.849825
+378,432816,"Augsburg, Markgrafenstraße",48.37712,10.850301
+379,69645,"Augsburg, Markgrafenstraße",48.376747,10.849825
+380,86020,"Augsburg, Medienzentrum",48.396324,10.923047
+381,141109,"Augsburg, Memminger Straße",48.353092,10.888003
+382,398970,"Augsburg, Memminger Straße",48.3532,10.887959
+383,295917,"Augsburg, Messe DB",48.337723,10.886216
+384,83528,"Augsburg, Messe DB",48.337868,10.886108
+385,145357,"Augsburg, Messe Nord",48.34241,10.893627
+386,227417,"Augsburg, Messe Nord",48.342464,10.893627
+387,129088,"Augsburg, Messe Süd",48.337677,10.895091
+388,338005,"Augsburg, Messe Süd",48.337975,10.895289
+389,139397,"Augsburg, Messezentrum",48.341537,10.895684
+390,17494,"Augsburg, Messezentrum",48.34028,10.894974
+391,265965,"Augsburg, Mittelberger Straße",48.360004,10.946933
+392,94946,"Augsburg, Mittelberger Straße",48.360027,10.946834
+393,395674,"Augsburg, Moritzplatz",48.36737,10.898083
+394,427526,"Augsburg, Moritzplatz",48.367416,10.897975
+395,145049,"Augsburg, Mozarthaus/Kolping",48.374554,10.895989
+396,374781,"Augsburg, Mozarthaus/Kolping",48.374966,10.895567
+397,321274,"Augsburg, Murnauer Weg",48.3425,10.943465
+398,47229,"Augsburg, Murnauer Weg",48.341663,10.943852
+399,196761,"Augsburg, Mühlmahdweg",48.38724,10.931086
+400,297607,"Augsburg, Mühlmahdweg",48.387154,10.931237
+401,172672,"Augsburg, Münchner Straße",48.344463,10.944301
+402,405458,"Augsburg, Münchner Straße",48.344555,10.944984
+403,6057,"Augsburg, Münchner Straße",48.345528,10.944481
+404,75607,"Augsburg, Münchner Straße",48.34481,10.944831
+405,178501,"Augsburg, Neuschwansteinstraße",48.356434,10.948074
+406,398394,"Augsburg, Neuschwansteinstraße",48.35635,10.947948
+407,106869,"Augsburg, Neusässer Straße",48.379593,10.850301
+408,453909,"Augsburg, Neusässer Straße",48.379738,10.850419
+409,131277,"Augsburg, Nordfriedhof",48.38879,10.873397
+410,142372,"Augsburg, Nordfriedhof",48.388786,10.873399
+411,14894,"Augsburg, Nordfriedhof",48.38824,10.873765
+412,23827,"Augsburg, Nordfriedhof",48.38824,10.873765
+413,314895,"Augsburg, Nordfriedhof",48.38824,10.873762
+414,387389,"Augsburg, Nordfriedhof",48.38879,10.873397
+415,102708,"Augsburg, Oberhausen Bf",48.38138,10.873616
+416,217110,"Augsburg, Oberhausen Bf",48.38131,10.873024
+417,257712,"Augsburg, Oberhausen Bf",48.381397,10.873575
+418,359746,"Augsburg, Oberhausen Bf",48.381435,10.873116
+419,238940,"Augsburg, Oberhausen Nord P+R",48.403267,10.879144
+420,265155,"Augsburg, Oberhausen Nord P+R",48.402756,10.879222
+421,392949,"Augsburg, Oberhausen Nord P+R",48.40278,10.878628
+422,8708,"Augsburg, Oberhausen Nord P+R",48.40267,10.878981
+423,275153,"Augsburg, Oberländer Straße",48.345806,10.940591
+424,406413,"Augsburg, Oberländer Straße",48.344597,10.940735
+425,114582,"Augsburg, Osram",48.365246,10.928428
+426,120804,"Augsburg, Osram",48.36537,10.92814
+427,135510,"Augsburg, Ottostraße",48.38016,10.890667
+428,18525,"Augsburg, Ottostraße",48.379753,10.890433
+429,115142,"Augsburg, Pfersee",48.36235,10.868071
+430,327904,"Augsburg, Pfersee",48.362007,10.868223
+431,348263,"Augsburg, Pfersee",48.362617,10.867971
+432,365396,"Augsburg, Pfersee",48.36235,10.86807
+433,396967,"Augsburg, Pfersee",48.362007,10.868223
+434,439494,"Augsburg, Pfersee",48.362007,10.868227
+435,70363,"Augsburg, Pfersee",48.36235,10.86807
+436,12866,"Augsburg, Pfersee Süd",48.35465,10.859015
+437,177927,"Augsburg, Pfersee Süd",48.35459,10.859284
+438,38292,"Augsburg, Pfersee Süd",48.35465,10.859015
+439,415232,"Augsburg, Pfersee Süd",48.35459,10.859284
+440,177916,"Augsburg, Pfersee/Süd",48.354652,10.859012
+441,33116,"Augsburg, Pfersee/Süd",48.35459,10.859283
+442,125289,"Augsburg, Pilgerhausstraße",48.370686,10.901387
+443,145285,"Augsburg, Pilgerhausstraße",48.370487,10.902282
+444,324064,"Augsburg, Polizeipräsidium",48.35558,10.885749
+445,399731,"Augsburg, Polizeipräsidium",48.35547,10.885549
+446,430196,"Augsburg, Polizeipräsidium",48.35558,10.885749
+447,66965,"Augsburg, Polizeipräsidium",48.35547,10.885551
+448,232280,"Augsburg, Preßburger Straße",48.356388,10.862375
+449,71110,"Augsburg, Preßburger Straße",48.356064,10.862141
+450,249621,"Augsburg, Prinz-Karl-Viertel",48.353577,10.898316
+451,80688,"Augsburg, Prinz-Karl-Viertel",48.353504,10.898074
+452,186832,"Augsburg, Prinzregentenstraße",48.367363,10.888605
+453,363655,"Augsburg, Proviantbachquartier",48.36697,10.924143
+454,365239,"Augsburg, Proviantbachquartier",48.366863,10.924322
+455,192113,"Augsburg, Pröllstraße",48.359886,10.854532
+456,454750,"Augsburg, Pröllstraße",48.359615,10.854667
+457,193761,"Augsburg, Radegundis",48.340256,10.833269
+458,421332,"Augsburg, Radegundis",48.3401,10.833224
+459,433684,"Augsburg, Radetzkystraße",48.375694,10.920513
+460,457965,"Augsburg, Radetzkystraße",48.375862,10.920792
+461,108038,"Augsburg, Rathausplatz",48.36883,10.898163
+462,431520,"Augsburg, Rathausplatz",48.36863,10.898181
+463,349892,"Augsburg, Reichenberger Straße",48.362747,10.927969
+464,445519,"Augsburg, Reichenberger Straße",48.36288,10.928113
+465,103399,"Augsburg, Reinöhlstraße",48.371803,10.87125
+466,114266,"Augsburg, Reinöhlstraße",48.372547,10.869813
+467,167658,"Augsburg, Reinöhlstraße",48.371944,10.869139
+468,252889,"Augsburg, Reinöhlstraße",48.371944,10.869141
+469,258336,"Augsburg, Reinöhlstraße",48.371803,10.871249
+470,68434,"Augsburg, Reinöhlstraße",48.37307,10.870064
+471,219754,"Augsburg, Rosenaustraße",48.36568,10.881329
+472,78298,"Augsburg, Rosenaustraße",48.365932,10.881976
+473,199672,"Augsburg, Rotes Tor",48.35822,10.902341
+474,305826,"Augsburg, Rotes Tor",48.35919,10.90243
+475,330895,"Augsburg, Rotes Tor",48.359215,10.902107
+476,105914,"Augsburg, Rudolf-Diesel-Gymn.",48.35525,10.950796
+477,169683,"Augsburg, Rudolf-Diesel-Gymn.",48.355385,10.95085
+478,400350,"Augsburg, Schackstraße",48.374977,10.924448
+479,426015,"Augsburg, Schackstraße",48.375114,10.924538
+480,210723,"Augsburg, Schillcafe",48.395184,10.897957
+481,74106,"Augsburg, Schillcafe",48.395233,10.898101
+482,396721,"Augsburg, Schillerstraße",48.351654,10.924745
+483,91134,"Augsburg, Schillerstraße",48.351646,10.925068
+484,251157,"Augsburg, Schleiermacherstraße",48.38035,10.920768
+485,315455,"Augsburg, Schleiermacherstraße",48.380222,10.92019
+486,13962,"Augsburg, Schwaben Center",48.355724,10.927457
+487,176130,"Augsburg, Schwaben Center",48.35563,10.927089
+488,270698,"Augsburg, Schwaben Center",48.35563,10.927089
+489,73335,"Augsburg, Schwaben Center",48.355324,10.927305
+490,85219,"Augsburg, Schwaben Center",48.355724,10.927457
+491,174575,"Augsburg, Schwaben Center West",48.355057,10.92169
+492,207124,"Augsburg, Schwaben Center West",48.355183,10.921403
+493,414082,"Augsburg, Schärtlstraße",48.380474,10.860147
+494,429087,"Augsburg, Schärtlstraße",48.380432,10.860533
+495,170719,"Augsburg, Senkelbach",48.377716,10.888875
+496,213287,"Augsburg, Senkelbach",48.376957,10.888563
+497,303994,"Augsburg, Senkelbach",48.377853,10.888165
+498,50018,"Augsburg, Senkelbach",48.377003,10.88867
+499,344762,"Augsburg, Siebenbrunn",48.321194,10.934626
+500,280013,"Augsburg, Siebenbrunn Schule",48.322727,10.926568
+501,419607,"Augsburg, Siebenbrunn Schule",48.322495,10.927413
+502,419289,"Augsburg, Siebenbrunn Süd",48.318283,10.923128
+503,47951,"Augsburg, Siebenbrunn Süd",48.31825,10.923262
+504,247481,"Augsburg, Speckbacherstraße",48.372845,10.933304
+505,352538,"Augsburg, Speckbacherstraße",48.372646,10.93401
+506,402863,"Augsburg, Spickel",48.355103,10.930718
+507,184040,"Augsburg, St. Thaddäus",48.381058,10.869103
+508,315786,"Augsburg, St. Thaddäus",48.38112,10.86957
+509,20823,"Augsburg, St.-Anton-Siedlung",48.380257,10.952143
+510,185872,"Augsburg, St.-Lukas-Straße",48.403378,10.898262
+511,94527,"Augsburg, St.-Lukas-Straße",48.403336,10.898415
+512,105537,"Augsburg, St.Anton Siedlung",48.38121,10.955985
+513,11903,"Augsburg, St.Anton Siedlung",48.38026,10.952144
+514,184840,"Augsburg, Staatstheater",48.368843,10.892991
+515,26947,"Augsburg, Staatstheater",48.36932,10.892103
+516,40480,"Augsburg, Staatstheater",48.369747,10.891919
+517,452965,"Augsburg, Staatstheater",48.368656,10.89344
+518,313566,"Augsburg, Steinerne Furt",48.391064,10.915411
+519,370445,"Augsburg, Steinerne Furt",48.390675,10.915133
+520,259901,"Augsburg, Stenglinstraße",48.382446,10.845567
+521,278729,"Augsburg, Stenglinstraße",48.382393,10.845648
+522,294567,"Augsburg, Stenglinstraße",48.382977,10.846053
+523,346928,"Augsburg, Stenglinstraße",48.382748,10.846504
+524,354769,"Augsburg, Stephingerberg",48.377,10.900822
+525,72328,"Augsburg, Stephingerberg",48.377617,10.900697
+526,336889,"Augsburg, Sterzinger Straße",48.383934,10.936962
+527,343379,"Augsburg, Sterzinger Straße",48.383858,10.937141
+528,226752,"Augsburg, Stuttgarter Straße",48.39877,10.873568
+529,371648,"Augsburg, Stätzlinger Straße",48.37672,10.929191
+530,78048,"Augsburg, Stätzlinger Straße",48.376392,10.928697
+531,350268,"Augsburg, Syr. Orth. Kirche",48.375237,10.937007
+532,443364,"Augsburg, Syr. Orth. Kirche",48.375217,10.936886
+533,259780,"Augsburg, Tannheimer Straße",48.362656,10.94457
+534,372665,"Augsburg, Tannheimer Straße",48.362278,10.944741
+535,447129,"Augsburg, Textilmuseum",48.36109,10.913578
+536,48864,"Augsburg, Textilmuseum",48.36102,10.914001
+537,224334,"Augsburg, Toblacher Straße",48.379887,10.948574
+538,230686,"Augsburg, Toblacher Straße",48.37999,10.948167
+539,297220,"Augsburg, Toblacher Straße",48.37999,10.948164
+540,96796,"Augsburg, Toblacher Straße",48.379883,10.948577
+541,156763,"Augsburg, Trettachstraße",48.34939,10.944597
+542,18861,"Augsburg, Trettachstraße",48.348835,10.946232
+543,304788,"Augsburg, Trettachstraße",48.34871,10.945334
+544,67084,"Augsburg, Trettachstraße",48.349007,10.944418
+545,374394,"Augsburg, Täfertinger Weg",48.401653,10.848828
+546,376634,"Augsburg, Täfertinger Weg",48.40178,10.848747
+547,310475,"Augsburg, Uhlandstraße",48.35697,10.86966
+548,327786,"Augsburg, Uhlandstraße",48.356876,10.869678
+549,344476,"Augsburg, Ulrichsbrücke",48.378128,10.914416
+550,413456,"Augsburg, Ulrichsbrücke",48.377865,10.914233
+551,147973,"Augsburg, Ulrichsplatz",48.362587,10.900131
+552,65236,"Augsburg, Ulrichsplatz",48.36337,10.900247
+553,374768,"Augsburg, Uniklinik BKH",48.383453,10.838941
+554,28937,"Augsburg, Universität",48.334003,10.8989
+555,60359,"Augsburg, Universität",48.333664,10.898828
+556,77427,"Augsburg, Volkhartstraße",48.371048,10.890473
+557,267703,"Augsburg, Volkssiedlung",48.32707,10.908081
+558,380406,"Augsburg, Volkssiedlung",48.327404,10.908278
+559,318378,"Augsburg, Von-Parseval-Straße",48.34841,10.900607
+560,82239,"Augsburg, Von-Parseval-Straße",48.34814,10.900589
+561,137529,"Augsburg, Weißenseestraße",48.351147,10.949053
+562,300727,"Augsburg, Weißenseestraße",48.351982,10.94864
+563,148237,"Augsburg, Wellenburg",48.334755,10.827286
+564,100865,"Augsburg, Weltbild Verlag",48.39423,10.927305
+565,276265,"Augsburg, Wertachbrücke",48.37911,10.881536
+566,290493,"Augsburg, Wertachbrücke",48.378628,10.882317
+567,216456,"Augsburg, Wertinger Straße",48.39677,10.858709
+568,244688,"Augsburg, Wertinger Straße",48.397022,10.85862
+569,260493,"Augsburg, Westfriedhof",48.365387,10.860012
+570,72500,"Augsburg, Westfriedhof",48.36545,10.860308
+571,137763,"Augsburg, Zollernstraße",48.38827,10.88135
+572,234202,"Augsburg, Zollernstraße",48.38874,10.881392
+573,347401,"Augsburg, Zollernstraße",48.38827,10.881347
+574,409124,"Augsburg, Zollernstraße",48.38874,10.881393
+575,258711,"Augsburg, Zoo/Bot. Garten",48.349777,10.916013
+576,387711,"Augsburg, Zoo/Botan. Garten",48.349777,10.916013
+577,258657,"Augsburg, Zusamstraße",48.37805,10.934815
+578,312702,"Augsburg, Zusamstraße",48.37805,10.934815
+579,40300,"Augsburg, Zusamstraße",48.377934,10.934993
+580,95479,"Augsburg, Zusamstraße",48.377937,10.934994
+581,297628,Augsburg-Hochzoll,48.352978,10.943376
+582,414077,Augsburg-Oberhausen,48.38077,10.872533
+583,174772,Barfüßerbr/Brecht-Haus,48.369606,10.901218
+584,30772,Barfüßerbr/Brecht-Haus,48.36934,10.901442
+585,74217,Barfüßerbr/Brecht-Haus,48.369606,10.901559
+586,420068,Bergheim,48.31388,10.816767
+587,65436,"Bergheim (Augsburg), Bergheim",48.31388,10.816767
+588,189992,"Bergheim (Augsburg), Bergheim Baggersee",48.323723,10.832829
+589,444846,"Bergheim (Augsburg), Bergheim Baggersee",48.32422,10.833206
+590,276019,"Bergheim (Augsburg), Bergheim Kirche",48.31698,10.821088
+591,61445,"Bergheim (Augsburg), Bergheim Kirche",48.31744,10.82116
+592,120463,"Bergheim (Augsburg), Bergheim Nord",48.31951,10.821528
+593,447100,"Bergheim (Augsburg), Bergheim Nord",48.319466,10.821816
+594,105271,"Bergheim (Augsburg), Bergheim Süd",48.314655,10.820549
+595,351545,"Bergheim (Augsburg), Bergheim Süd",48.3149,10.820612
+596,320508,"Bergheim (Augsburg), Jakob-Krause-Straße",48.321556,10.827619
+597,60556,"Bergheim (Augsburg), Jakob-Krause-Straße",48.32146,10.827277
+598,124781,"Bergheim (Augsburg), Neubergheim Ost",48.328327,10.841219
+599,318919,"Bergheim (Augsburg), Neubergheim Ost",48.32821,10.840752
+600,180950,"Bergheim (Augsburg), Neubergheim West",48.327427,10.836395
+601,286833,"Bergheim (Augsburg), Neubergheim West",48.32748,10.836207
+602,357387,"Bergheim, Baggersee",48.32422,10.833206
+603,93101,"Bergheim, Baggersee",48.323723,10.832829
+604,138692,"Bergheim, Jakob-Krause-Straße",48.321556,10.827619
+605,277299,"Bergheim, Jakob-Krause-Straße",48.32146,10.827277
+606,116020,"Bergheim, Kirche",48.31744,10.82116
+607,166739,"Bergheim, Kirche",48.31698,10.821088
+608,353393,"Bergheim, Neubergheim Ost",48.32821,10.840752
+609,91752,"Bergheim, Neubergheim Ost",48.328327,10.841219
+610,35952,"Bergheim, Neubergheim West",48.327427,10.836395
+611,61016,"Bergheim, Neubergheim West",48.32748,10.836207
+612,137631,"Bergheim, Nord",48.319466,10.821816
+613,260662,"Bergheim, Nord",48.31951,10.821528
+614,168459,"Bergheim, Süd",48.3149,10.820612
+615,442299,"Bergheim, Süd",48.314655,10.820549
+616,266377,Bgm.-Ackermann-Straße,48.372864,10.863569
+617,63750,Bgm.-Ackermann-Straße,48.372585,10.862797
+618,297164,City-Galerie / VHS,48.36464,10.904497
+619,361640,City-Galerie / VHS,48.36583,10.904362
+620,368840,City-Galerie / VHS,48.365314,10.903958
+621,369380,City-Galerie / VHS,48.365932,10.904281
+622,18232,Curt-Frenzel-Stadion,48.373623,10.88521
+623,279554,Curt-Frenzel-Stadion,48.37375,10.885066
+624,40332,Dr.-Schmelzing-Straße,48.398964,10.914135
+625,48502,Dr.-Schmelzing-Straße,48.399036,10.914171
+626,220966,Endorferstraße,48.39986,10.927969
+627,459254,Friedberg Meringer Straße Süd,48.35465,10.952592
+628,267265,Friedberg West Bayer.Wirt,48.34892,10.95341
+629,124011,"Friedberg, Bayerischer Wirt",48.34892,10.953407
+630,419593,"Friedberg, Meringer Straße Süd",48.35465,10.952588
+631,52969,"Friedberg, Meringer Straße Süd",48.354607,10.952751
+632,108489,Friedr.-Deffner-Straße,48.338314,10.948945
+633,275639,Friedr.-Deffner-Straße,48.33822,10.948712
+634,160469,Fujitsu/Bischofsackerweg,48.322556,10.89651
+635,89720,Fujitsu/Bischofsackerweg,48.32256,10.896376
+636,121533,Gabelsberger Straße,48.350388,10.873639
+637,215928,Gabelsberger Straße,48.35049,10.873666
+638,175842,General-Cramer-Weg,48.357407,10.854981
+639,424157,General-Cramer-Weg,48.357456,10.854559
+640,183927,"Gersthofen, IKEA",48.403923,10.869875
+641,60410,"Gersthofen, IKEA",48.40391,10.870136
+642,14885,"Göggingen (Augsburg), Am Bühl",48.341198,10.85181
+643,391938,"Göggingen (Augsburg), Bergiusstraße",48.337666,10.881176
+644,86734,"Göggingen (Augsburg), Bergiusstraße",48.337803,10.881131
+645,133720,"Göggingen (Augsburg), Bergstraße",48.350048,10.877358
+646,160858,"Göggingen (Augsburg), Bergstraße",48.35001,10.878113
+647,366443,"Göggingen (Augsburg), Bergstraße",48.348213,10.87849
+648,67346,"Göggingen (Augsburg), Bergstraße",48.34983,10.877646
+649,72296,"Göggingen (Augsburg), Bergstraße",48.350155,10.878365
+650,146461,"Göggingen (Augsburg), Brandweg",48.332767,10.848927
+651,350930,"Göggingen (Augsburg), Brandweg",48.33248,10.849026
+652,138156,"Göggingen (Augsburg), G.-Stresemann-Straße",48.332596,10.874879
+653,452775,"Göggingen (Augsburg), G.-Stresemann-Straße",48.332565,10.875193
+654,127694,"Göggingen (Augsburg), Göggingen",48.33828,10.867711
+655,2152,"Göggingen (Augsburg), Göggingen Rathaus",48.34038,10.868169
+656,282063,"Göggingen (Augsburg), Göggingen Rathaus",48.341988,10.867648
+657,440015,"Göggingen (Augsburg), Göggingen Rathaus",48.341377,10.868303
+658,129888,"Göggingen (Augsburg), Klausenberg",48.34336,10.874277
+659,416295,"Göggingen (Augsburg), Klausenberg",48.343666,10.874663
+660,180528,"Göggingen (Augsburg), Lindauer Straße",48.323765,10.863479
+661,50284,"Göggingen (Augsburg), Lindauer Straße",48.32385,10.863659
+662,309185,"Göggingen (Augsburg), Maria Stern",48.346764,10.876164
+663,88412,"Göggingen (Augsburg), Maria Stern",48.34662,10.876146
+664,27713,"Göggingen (Augsburg), Mühlstraße",48.334614,10.867243
+665,438127,"Göggingen (Augsburg), Mühlstraße",48.33509,10.86692
+666,324581,"Göggingen (Augsburg), Olof-Palme-Straße",48.33505,10.877673
+667,88218,"Göggingen (Augsburg), Olof-Palme-Straße",48.33505,10.877466
+668,345996,"Göggingen (Augsburg), Radaustraße",48.33768,10.857299
+669,389773,"Göggingen (Augsburg), Radaustraße",48.337364,10.856958
+670,244375,"Göggingen (Augsburg), Schwabenweg",48.342075,10.878005
+671,339172,"Göggingen (Augsburg), Schwabenweg",48.342255,10.877906
+672,291939,"Göggingen (Augsburg), Welfenstraße",48.337975,10.875885
+673,411853,"Göggingen (Augsburg), Welfenstraße",48.338207,10.876155
+674,262916,"Göggingen (Augsburg), Widdersteinweg",48.333706,10.871654
+675,399351,"Göggingen (Augsburg), Widdersteinweg",48.334187,10.872229
+676,130449,Göggingen Gabelsbergerstraße,48.35049,10.873666
+677,196018,Göggingen Gabelsbergerstraße,48.350388,10.873639
+678,51576,"Göggingen, Am Bühl",48.341198,10.85181
+679,192243,"Göggingen, Bergstraße",48.35001,10.878112
+680,268700,"Göggingen, Bergstraße",48.350048,10.877358
+681,293820,"Göggingen, Bergstraße",48.350155,10.878365
+682,337451,"Göggingen, Bergstraße",48.34983,10.877646
+683,147417,"Göggingen, Brandweg",48.33248,10.849026
+684,397020,"Göggingen, Brandweg",48.332767,10.848927
+685,129040,"Göggingen, Hessing-Kliniken",48.33867,10.864153
+686,210206,"Göggingen, Hessing-Kliniken",48.341015,10.864926
+687,228062,"Göggingen, Hessing-Kliniken",48.34108,10.863632
+688,23457,"Göggingen, Isegrimstraße",48.342033,10.847355
+689,247494,"Göggingen, Isegrimstraße",48.34218,10.847405
+690,105874,"Göggingen, Lindauer Straße",48.32377,10.863476
+691,21564,"Göggingen, Lindauer Straße",48.323765,10.863479
+692,414420,"Göggingen, Lindauer Straße",48.32385,10.863659
+693,457039,"Göggingen, Lindauer Straße",48.32385,10.863663
+694,107675,"Göggingen, Maria Stern",48.34662,10.87615
+695,235533,"Göggingen, Maria Stern",48.345203,10.875142
+696,100603,"Göggingen, Mühlstraße",48.334614,10.867243
+697,158881,"Göggingen, Mühlstraße",48.33509,10.86692
+698,200911,"Göggingen, Mühlstraße",48.335087,10.866921
+699,90330,"Göggingen, Mühlstraße",48.334614,10.867241
+700,161121,"Göggingen, Olof-Palme-Straße",48.33505,10.877466
+701,180754,"Göggingen, Radaustraße",48.337364,10.856956
+702,295185,"Göggingen, Radaustraße",48.33768,10.857299
+703,335155,"Göggingen, Radaustraße",48.337364,10.856958
+704,456564,"Göggingen, Radaustraße",48.33768,10.8573
+705,106064,"Göggingen, Rathaus",48.341606,10.868636
+706,191944,"Göggingen, Rathaus",48.341377,10.868306
+707,213720,"Göggingen, Rathaus",48.341377,10.868303
+708,332706,"Göggingen, Rathaus",48.341988,10.867648
+709,446163,"Göggingen, Rathaus",48.34038,10.868169
+710,85227,"Göggingen, Rathaus",48.340378,10.868166
+711,94364,"Göggingen, Seniorenheim",48.348602,10.87461
+712,308804,"Göggingen, Welfenstraße",48.337975,10.875885
+713,377311,"Göggingen,G.-Stresemann-Straße",48.332565,10.875193
+714,198815,Hammerschmiede P+R,48.394604,10.915402
+715,50775,Hammerschmiede P+R,48.394684,10.915088
+716,256107,Haunstetten West P+R,48.310097,10.893007
+717,324844,Haunstetten West P+R,48.30986,10.893717
+718,345167,Haunstetten West P+R,48.310356,10.893286
+719,120871,"Haunstetten, Hotel Gregor",48.308723,10.905508
+720,125809,"Haunstetten, Hotel Gregor",48.30905,10.906053
+721,193006,"Haunstetten, Nord",48.31928,10.907143
+722,232341,"Haunstetten, Nord",48.319366,10.907559
+723,43715,"Haunstetten, Nord",48.31928,10.907147
+724,399123,"Haunstetten, Offenbach Karree",48.300766,10.901917
+725,432616,"Haunstetten, Offenbach Karree",48.30115,10.90172
+726,255114,"Haunstetten, Seniorenwohnheim",48.304714,10.903652
+727,8406,"Haunstetten, Seniorenwohnheim",48.30479,10.903341
+728,261449,"Haunstetten, West P+R",48.310352,10.893286
+729,195717,"Haunstetten/Augsburg, Adelheidstraße",48.308628,10.898945
+730,414239,"Haunstetten/Augsburg, Adelheidstraße",48.308926,10.897373
+731,376494,"Haunstetten/Augsburg, Auf dem Nol",48.311405,10.889962
+732,89383,"Haunstetten/Augsburg, Auf dem Nol",48.31188,10.890204
+733,149409,"Haunstetten/Augsburg, Baugenossenschaft",48.323742,10.908413
+734,92594,"Haunstetten/Augsburg, Baugenossenschaft",48.32406,10.908377
+735,165044,"Haunstetten/Augsburg, Bgm.-Rieger-Straße",48.30007,10.899762
+736,328739,"Haunstetten/Augsburg, Bgm.-Rieger-Straße",48.30024,10.899448
+737,182730,"Haunstetten/Augsburg, Dr.-Troeltsch-Straße",48.304268,10.908449
+738,234014,"Haunstetten/Augsburg, Dr.-Troeltsch-Straße",48.30344,10.907641
+739,250705,"Haunstetten/Augsburg, Flachsstraße",48.313725,10.902835
+740,453684,"Haunstetten/Augsburg, Flachsstraße",48.313526,10.902628
+741,193441,"Haunstetten/Augsburg, Georg-Käß-Platz",48.30843,10.910327
+742,338433,"Haunstetten/Augsburg, Georg-Käß-Platz",48.309177,10.90985
+743,419398,"Haunstetten/Augsburg, Georg-Käß-Platz",48.3081,10.910884
+744,335248,"Haunstetten/Augsburg, Haunstetten Nord",48.319363,10.90756
+745,346151,"Haunstetten/Augsburg, Haunstetten Nord",48.31947,10.908323
+746,400824,"Haunstetten/Augsburg, Haunstetten Süd",48.295982,10.89422
+747,328233,"Haunstetten/Augsburg, Hirsestraße",48.30413,10.897867
+748,414594,"Haunstetten/Augsburg, Hirsestraße",48.304134,10.897669
+749,20328,"Haunstetten/Augsburg, Hofackerstraße",48.314095,10.894355
+750,224007,"Haunstetten/Augsburg, Hofackerstraße",48.313717,10.893816
+751,317840,"Haunstetten/Augsburg, Hofackerstraße",48.31403,10.89422
+752,61722,"Haunstetten/Augsburg, Hofackerstraße",48.313595,10.893771
+753,208250,"Haunstetten/Augsburg, Joh.-Strauß-Straße",48.3023,10.898891
+754,291637,"Haunstetten/Augsburg, Joh.-Strauß-Straße",48.30218,10.898945
+755,353474,"Haunstetten/Augsburg, Jägerhaus",48.313416,10.910695
+756,440211,"Haunstetten/Augsburg, Jägerhaus",48.3137,10.910461
+757,227844,"Haunstetten/Augsburg, Klinikum Süd",48.307644,10.916462
+758,350225,"Haunstetten/Augsburg, Kopernikusstraße",48.317684,10.895567
+759,400704,"Haunstetten/Augsburg, Kopernikusstraße",48.317738,10.895702
+760,101731,"Haunstetten/Augsburg, Lavendelstraße",48.298206,10.902332
+761,67378,"Haunstetten/Augsburg, Lavendelstraße",48.29801,10.903454
+762,345339,"Haunstetten/Augsburg, Leharstraße",48.29767,10.898666
+763,40790,"Haunstetten/Augsburg, Leharstraße",48.297184,10.898666
+764,184625,"Haunstetten/Augsburg, Marienburger Straße",48.31262,10.898172
+765,96962,"Haunstetten/Augsburg, Marienburger Straße",48.312405,10.899008
+766,137197,"Haunstetten/Augsburg, Messerschmitt",48.321407,10.908593
+767,141642,"Haunstetten/Augsburg, Messerschmitt",48.321384,10.908611
+768,370893,"Haunstetten/Augsburg, Olympiastraße",48.316414,10.903419
+769,9799,"Haunstetten/Augsburg, Olympiastraße",48.316444,10.903553
+770,12754,"Haunstetten/Augsburg, Rentmeisterstraße",48.30019,10.905745
+771,83298,"Haunstetten/Augsburg, Rentmeisterstraße",48.30031,10.905646
+772,253663,"Haunstetten/Augsburg, Roggenstraße",48.30466,10.902008
+773,98396,"Haunstetten/Augsburg, Roggenstraße",48.304935,10.902161
+774,444915,"Haunstetten/Augsburg, Sportplatzstraße",48.313694,10.890357
+775,98333,"Haunstetten/Augsburg, Sportplatzstraße",48.31344,10.890438
+776,153592,"Haunstetten/Augsburg, Taubenstraße",48.312256,10.901478
+777,232513,"Haunstetten/Augsburg, Taubenstraße",48.31216,10.901361
+778,286527,"Haunstetten/Augsburg, Via-Claudia-Straße",48.308414,10.902026
+779,438560,"Haunstetten/Augsburg, Via-Claudia-Straße",48.30775,10.902305
+780,330002,Haunstetter Straße Bf,48.354763,10.901999
+781,390054,Haunstetter Straße Bf,48.35468,10.901918
+782,303526,Hessing-Kliniken,48.339073,10.865402
+783,322636,Hessing-Kliniken,48.341015,10.864926
+784,46297,Hessing-Kliniken,48.34108,10.863632
+785,101051,Hochschule Augsburg,48.358803,10.905368
+786,161111,Hochschule Augsburg,48.359596,10.906185
+787,191992,Hochschule Augsburg,48.35882,10.905287
+788,3389,Hochschule Augsburg,48.35931,10.906554
+789,182237,Inningen,48.314907,10.845468
+790,196363,Inningen Fuchssiedlung,48.32087,10.844408
+791,252875,"Inningen, Ferrozell",48.315655,10.861207
+792,315051,"Inningen, Ferrozell",48.31575,10.861243
+793,325960,"Inningen, Ferrozell",48.31575,10.861243
+794,364688,"Inningen, Ferrozell",48.315655,10.861207
+795,328344,"Inningen, Inningen",48.314907,10.845468
+796,265026,"Inningen, Inningen Ost",48.31157,10.863965
+797,82877,"Inningen, Inningen Ost",48.31165,10.863938
+798,125654,"Inningen, Inningen Waage",48.31325,10.85667
+799,768,"Inningen, Inningen Waage",48.31329,10.856967
+800,149345,"Inningen, Kohlstattsiedlung",48.314747,10.849088
+801,283289,"Inningen, Kohlstattsiedlung",48.31457,10.849322
+802,290055,"Inningen, Kohlstattsiedlung",48.314747,10.849088
+803,81799,"Inningen, Kohlstattsiedlung",48.31457,10.849322
+804,132281,"Inningen, Nord",48.315742,10.85961
+805,56599,"Inningen, Nord",48.31704,10.860471
+806,112642,"Inningen, Ost",48.31157,10.863965
+807,228724,"Inningen, Ost",48.31165,10.863938
+808,341446,"Inningen, Tiberiusstraße",48.313526,10.853041
+809,359959,"Inningen, Tiberiusstraße",48.31351,10.852772
+810,421952,"Inningen, Tiberiusstraße",48.313526,10.853041
+811,79566,"Inningen, Tiberiusstraße",48.31351,10.852772
+812,1913,"Inningen, Waage",48.31329,10.856968
+813,200867,"Inningen, Waage",48.31325,10.856672
+814,306662,"Inningen, Waage",48.31329,10.856967
+815,436896,"Inningen, Waage",48.31325,10.85667
+816,101909,"Inningen, Wasserturmstraße",48.314377,10.863956
+817,187800,"Inningen, Wasserturmstraße",48.314377,10.863956
+818,251006,"Inningen, Wasserturmstraße",48.31455,10.864126
+819,27006,"Inningen, Wasserturmstraße",48.31455,10.864126
+820,128826,Innovationspark/LfU,48.32637,10.897993
+821,184912,Innovationspark/LfU,48.326496,10.898092
+822,25627,Josefinum,48.38566,10.87726
+823,385773,Josefinum,48.38606,10.875912
+824,452162,Josefinum,48.385204,10.876406
+825,265746,KUKA/Partnachweg,48.36842,10.934168
+826,294030,KUKA/Partnachweg,48.368153,10.934374
+827,297025,Kongress am Park,48.35808,10.887716
+828,38828,Kongress am Park,48.358124,10.887869
+829,225863,Kulturhaus abraxas,48.375706,10.870163
+830,291166,Kulturhaus abraxas,48.374905,10.869965
+831,257667,Kurt-Schumacher-Straße,48.39226,10.919804
+832,177845,Königsplatz,48.365547,10.894534
+833,180886,Königsplatz,48.365532,10.894453
+834,198562,Königsplatz,48.365204,10.89439
+835,210390,Königsplatz,48.36546,10.893932
+836,21294,Königsplatz,48.365273,10.894175
+837,240341,Königsplatz,48.365437,10.894022
+838,277750,Königsplatz,48.36578,10.894364
+839,357222,Königsplatz,48.36525,10.894337
+840,359108,Königsplatz,48.365818,10.894283
+841,413898,Königsplatz,48.365288,10.894283
+842,141669,Ludwigshafener Straße,48.36904,10.871771
+843,73679,Ludwigshafener Straße,48.36952,10.871546
+844,169230,Neusässer Straße,48.3795,10.84801
+845,301704,Neusässer Straße,48.3795,10.847292
+846,310458,Neusässer Straße,48.37959,10.850301
+847,418192,Neusässer Straße,48.379738,10.850418
+848,120091,Oberh Bf / H-Haller-Pl,48.38131,10.87302
+849,243064,Oberh Bf / H-Haller-Pl,48.38144,10.873118
+850,352142,Oberh Bf / H-Haller-Pl,48.381397,10.873577
+851,142129,Oberhausen Nord P+R,48.403267,10.879146
+852,355267,Oberhausen Nord P+R,48.40277,10.878733
+853,360427,Oberhausen Nord P+R,48.402843,10.878643
+854,99906,Oberhausen Nord P+R,48.402676,10.878984
+855,100905,"Oberhausen, Nord P+R",48.40278,10.878625
+856,242254,"Oberhausen, Nord P+R",48.402843,10.878643
+857,364454,"Oberhausen, Nord P+R",48.40271,10.878993
+858,176738,Pilgerhausstraße,48.370483,10.902287
+859,184794,Pilgerhausstraße,48.370384,10.900966
+860,44253,Pilgerhausstraße,48.370686,10.901388
+861,59510,Pilgerhausstraße,48.37116,10.901137
+862,107600,Plärrer P+R,48.375313,10.883162
+863,56994,Plärrer P+R,48.375908,10.883377
+864,183172,Preßburger Straße,48.356388,10.862375
+865,311649,Preßburger Straße,48.356064,10.862141
+866,365486,Pröllstraße,48.359886,10.854532
+867,382110,Pröllstraße,48.359615,10.854667
+868,285127,Schertlinstraße,48.351963,10.902359
+869,34511,Schertlinstraße,48.35167,10.901811
+870,378614,Schertlinstraße,48.351658,10.901927
+871,88669,Schertlinstraße,48.351627,10.902529
+872,155858,Schleiermacherstraße,48.380318,10.92046
+873,191729,Schleiermacherstraße,48.380356,10.920271
+874,329123,Schleiermacherstraße,48.380222,10.92019
+875,214915,Schwabhof,48.338448,10.955952
+876,323270,Seniorenzentrum Servatius,48.35145,10.890249
+877,326087,Siedlerweg,48.40324,10.89581
+878,291726,Sportanlage Süd P+R,48.340614,10.906608
+879,359015,Sportanlage Süd P+R,48.340466,10.906599
+880,116130,Staatstheater,48.36936,10.892243
+881,314680,Staatstheater,48.369793,10.892217
+882,372478,Staatstheater,48.37012,10.891696
+883,432951,Staatstheater,48.368984,10.89333
+884,51973,Staatstheater,48.368973,10.892854
+885,347228,Th.-Heuss-Platz/IHK,48.360176,10.897481
+886,373337,Th.-Heuss-Platz/IHK,48.36008,10.897499
+887,393666,Th.-Heuss-Platz/IHK,48.360394,10.897373
+888,377277,Th.-Wiedemann-Straße,48.357815,10.909958
+889,418470,Th.-Wiedemann-Straße,48.357677,10.910542
+890,258258,Ulrichsbrücke,48.378033,10.913632
+891,387330,Ulrichsbrücke,48.378128,10.914414
+892,403001,Ulrichsbrücke,48.377865,10.914234
+893,6486,Umweltzentrum,48.400455,10.932416
+894,182081,Uniklinik BKH,48.383026,10.838587
+895,190034,Uniklinik BKH,48.383457,10.838937
+896,220732,Uniklinik BKH,48.383087,10.838461
+897,192621,Wilhelm-Hauff-Straße,48.35808,10.922086
+898,23296,Wilhelm-Hauff-Straße,48.35801,10.921951
+899,298236,Windprechtstraße,48.353218,10.892315
+900,453137,Windprechtstraße,48.353397,10.892324

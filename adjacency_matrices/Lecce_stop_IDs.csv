@@ -1,0 +1,355 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,1,City Moda,40.347479,18.203844
+1,2,Merine - Fronte Autocarrozzeri,40.345522,18.199212
+2,3,Merine - Angolo Via Micelli,40.345259,18.194566
+3,4,Lecce Vernole - Fronte Distrib,40.346663,18.188775
+4,5,Merine - Fronte Istituto Fermi,40.347505,18.186148
+5,6,Rossini - Fronte Bar Antille,40.347365,18.184225
+6,7,Torre Del Parco (dir. centro),40.346851,18.18097
+7,8,"Don Minzoni  - Fronte Ex Inam,",40.347821,18.177915
+8,9,"Otranto, 69",40.349277,18.174614
+9,10,Gallipoli  - Intendenza Di Fin,40.347338,18.168849
+10,12,Xxv Luglio - Prefettura,40.35526,18.173727
+11,13,XXV Luglio-BPP,40.35215,18.173854
+12,14,Italia - Fronte Bar Haiti,40.349251,18.173219
+13,15,"Don Minzoni  -  Ex Inam, 8",40.347694,18.177821
+14,16,Torre Del Parco (dir. City M.),40.346672,18.180837
+15,17,"Rossini, 76 (ag. immobiliare)",40.34693,18.184285
+16,18,Merine - Istituto Fermi,40.347338,18.185937
+17,21,"Gentile, 60",40.351988,18.189796
+18,22,Pitagora - Mercati Generali - ,40.354918,18.191328
+19,23,Moro - Mercato Multietnico,40.355545,18.192245
+20,24,Abba,40.355234,18.194578
+21,25,"Lodi, 32",40.35226,18.195049
+22,26,"Della Cavalleria, 48",40.351325,18.196194
+23,27,Alberto Sordi - Complesso Agav,40.35172,18.203387
+24,30,Lo Re'  -  Porta S. Biagio,40.349286,18.172921
+25,31,"Otranto  - Bar Otranto, 11",40.347058,18.171617
+26,32,Otranto - Piazza Italia,40.348378,18.173386
+27,33,Palazzo di Giustizia,40.358655,18.173335
+28,34,De Pietro - Fronte Palazzo Di ,40.358756,18.172888
+29,35,De Pietro,40.360291,18.171467
+30,36,De Pietro,40.359848,18.171858
+31,37,95° Regg. Fant.  - Fronte Civi,40.351593,18.176925
+32,40,"Imperatore  Adriano , 4B",40.355396,18.176857
+33,41,Imperatore  Adriano - Chiesa D,40.355387,18.179628
+34,42,"Imperatore Adriano, 60",40.355492,18.179811
+35,43,"Del Mare - Edicola, 18",40.356435,18.183825
+36,44,Del Mare   - Fronte Edicola,40.35647,18.183454
+37,45,Leuca  - Istituto Magistrale,40.347856,18.173493
+38,47,"Leuca  - Albergo Delle Palme, ",40.342943,18.17557
+39,53,V.Le Marche-fronte INPS,40.343768,18.172809
+40,54,Quarta O. - Stazione,40.346233,18.166369
+41,55,Gallipoli  - Intendenza Di Fin,40.347338,18.168849
+42,56,Gallipoli  - Museo S. Castrome,40.346544,18.170352
+43,57,Marche - Ex Onmi,40.345961,18.17107
+44,58,Marche - Inps,40.343869,18.172539
+45,59,Marche - fronte ex ONMI,40.345996,18.171234
+46,60,Marche -  Clinica Villa Bianca,40.342676,18.174977
+47,61,Marche - Fronte Villa Bianca,40.342531,18.175104
+48,63,Rossini - Ex Galateo,40.343277,18.17841
+49,64,Rossini - Fronte Ex Galateo,40.343404,18.178338
+50,69,Japigia - Fronte Enel,40.351242,18.185754
+51,70,Japigia  - Dopo Incrocio Via B,40.352593,18.185967
+52,71,Japigia  - Incrocio Via Lupiae,40.355448,18.184871
+53,72,"Japigia ,2D ( Vobis)",40.354694,18.185116
+54,73,Leopardi - Prima Della Rotator,40.358168,18.183299
+55,74,Leopardi - Subito Dopo Rotator,40.357874,18.183315
+56,75,Leopardi  - Poco Prima Incroci,40.360611,18.180729
+57,76,"Leopardi - Bar Yvonne, 84",40.36133,18.179822
+58,77,Leopardi - Dopo Incrocio Via D,40.36223,18.177021
+59,78,Foscolo  - Marozzi,40.36266,18.17594
+60,79,Foscolo  -  Lato Chiesa,40.36266,18.172611
+61,80,Foscolo  - Fronte Chiesa,40.362528,18.172657
+62,81,Foscolo  - Fronte Api,40.361322,18.17054
+63,82,"Foscolo  - Lato Api, 2",40.361116,18.170543
+64,83,Calasso - Lato C. Pranzo,40.359501,18.169049
+65,84,Calasso - Fronte C. Pranzo,40.35983,18.169055
+66,85,Parcheggio C.Pranzo,40.357181,18.167588
+67,86,Porta Napoli -  Lato Cimitero,40.357585,18.167687
+68,87,Dell'Universita'  - Fronte Lic,40.354799,18.165827
+69,88,Dell'Universita'  - Liceo Palm,40.354602,18.166093
+70,90,Dell'Universita'  - Porta Rudi,40.351532,18.164205
+71,91,Dell'Universita' - Fronte Port,40.351685,18.163915
+72,92,Gallipoli - Bar Rosso E Nero,40.350496,18.163604
+73,93,Gallipoli - Fronte Bar Rosso E,40.35065,18.163741
+74,94,"Gallipoli - Case Incis, 9",40.348764,18.166452
+75,95,"Gallipoli, 16",40.348873,18.166623
+76,96,Leuca - Fronte Fontanina Acque,40.340211,18.176486
+77,97,"Leuca - Fontanina Acquedotto, ",40.340167,18.176748
+78,98,"Leuca, 210",40.338145,18.177596
+79,99,"Leuca, 241",40.338083,18.177389
+80,108,"Gentile, 26",40.351018,18.186547
+81,109,"Gentile, 29",40.351317,18.186521
+82,110,"Gentile, 47",40.352321,18.190029
+83,111,Pitagora - Fronte Capolinea Su,40.355089,18.191185
+84,112,Moro - Fronte Mercato Multietn,40.355791,18.192123
+85,113,Moro - Clinica Petrucciani,40.355834,18.195417
+86,114,Moro - Fronte Clinica Petrucci,40.355997,18.195023
+87,115,Potenza - Palazzo Regione,40.356067,18.199107
+88,116,Moro - Subito Dopo Uscita Da V,40.356229,18.198179
+89,117,Potenza - Oltre Civ. 12,40.356321,18.20169
+90,118,"Benevento , 15",40.357001,18.204315
+91,119,Benevento  - Fronte Civ. 13 (F,40.356905,18.204004
+92,120,Avellino  - dir. Via Torino,40.35905,18.20396
+93,121,Avellino - dir. Piazza Napoli,40.359229,18.203796
+94,122,Cagliari,40.35958,18.206025
+95,123,Torino - Fermata 223,40.360471,18.204881
+96,124,Torino - Fermata 224,40.360282,18.204794
+97,125,Venezia (Fermata 225),40.360892,18.20195
+98,126,Venezia,40.360694,18.201778
+99,127,Machiavelli  - Lato Edicola,40.360782,18.199798
+100,128,Machiavelli - Lato Benzina,40.360857,18.199345
+101,129,Verona - Lato Cgil,40.359238,18.199081
+102,130,Verona - Fronte Cgil,40.359339,18.198706
+103,131,Potenza - Fronte Civ. 14,40.356519,18.201968
+104,132,"Bari - Complesso Staffa, 32",40.35862,18.196946
+105,133,Bari - Fronte Civ. 32,40.358387,18.196811
+106,134,Bari - Liceo Classico,40.358278,18.194269
+107,135,"Bari - Fronte Liceo Classico, ",40.35862,18.194362
+108,136,Lupiae - Lato Benzina Api,40.358466,18.193088
+109,137,"Della Liberta' , 77",40.357085,18.186478
+110,138,Della Liberta' - Fronte Bar L',40.357299,18.18637
+111,139,Della Liberta'  - Vicino Tabac,40.357611,18.188185
+112,140,Della Liberta'  - Fronte Tabac,40.357677,18.187623
+113,141,Della Liberta'  - Fronte Super,40.358655,18.191172
+114,142,Della Liberta'  - Super Mac,40.358422,18.191275
+115,143,Della Liberta'  - Fronte Farma,40.359015,18.193035
+116,144,Della Liberta'  - Dopo Semafor,40.359615,18.195237
+117,145,Palio - Rotatoria Da S. Catald,40.35994,18.19388
+118,146,Palio  - Ist. Tecnico G. Galil,40.360344,18.194131
+119,147,Palio - Liceo Scientifico Banz,40.361396,18.192523
+120,148,Alessandria - Lato Palazzetto ,40.362896,18.193167
+121,149,Alessandria - Fronte Palazzett,40.363028,18.193476
+122,150,"Agrigento , 2",40.363642,18.194283
+123,151,"Siracusa, 34",40.362247,18.196582
+124,152,Siracusa  - Fronte Fermata 251,40.36248,18.196776
+125,153,Siracusa - Lato Scuola,40.362984,18.199947
+126,154,Siracusa  - Fronte Scuola,40.362831,18.199751
+127,155,Siracusa  - Lato Ex Asilo Cent,40.363839,18.201673
+128,156,Siracusa  - Fronte Ex Asilo Ce,40.363971,18.20191
+129,157,Carrara - Scuola Elementare,40.364774,18.199889
+130,158,Carrara - Fronte Scuola Elemen,40.364853,18.199673
+131,159,Pistoia (Fronte chiesa),40.366454,18.200975
+132,162,Lucca - Fronte Autolavaggio,40.366471,18.203931
+133,164,Lucca - Poco Oltre Fronte Edic,40.36841,18.203772
+134,165,V.le G. Paolo II° (dopo Rot.),40.365831,18.199335
+135,166,Giovanni Paolo II - Pensilina ,40.365743,18.196847
+136,167,Giovanni Paolo II  - Fronte P.,40.365511,18.196841
+137,168,V.le G. Paolo II° (vivaio),40.363765,18.19127
+138,169,Giovanni Paolo II- Prima Del ,40.363524,18.191513
+139,170,"Giovanni Paolo II, 65",40.361962,18.188646
+140,171,"Giovanni Paolo II, 21",40.36083,18.186762
+141,172,"Giovanni Paolo II, 20",40.360874,18.18739
+142,173,"Giovanni Paolo II, 2",40.359085,18.184224
+143,174,Giovanni Paolo II - Citta' Mer,40.359624,18.184633
+144,175,"S. Domenico Savio, 66",40.362133,18.181309
+145,177,"Dei Salesiani - Fronte Cinema,",40.362896,18.183021
+146,180,Dei Palumbo - Fronte Campi Di ,40.363927,18.18489
+147,181,D'Andrea - Pressi Edicola,40.365787,18.186913
+148,182,Biasco - Fronte Civ. 33,40.366541,18.186241
+149,183,Biasco - Fronte Civ. 43,40.368006,18.183902
+150,186,"V. Frigole, (dopo c.le latte)",40.366164,18.18128
+151,187,"V, Frigole, .. ",40.36319,18.178123
+152,188,"Giammatteo, 35",40.364046,18.17678
+153,189,Giammatteo - Fronte Civ. 35 (F,40.364269,18.176592
+154,190,Giammatteo - Fronte Scuola Sma,40.367397,18.177086
+155,191,Giammatteo - Scuola Smaldone,40.36737,18.176842
+156,192,Giammatteo - Dopo Via Tanagro,40.370371,18.17786
+157,193,Giammatteo - Dopo V. Tanagro ,40.370414,18.177658
+158,197,Adriatica - Lato Scuola,40.363813,18.169829
+159,198,"Fontana , 8",40.363506,18.170161
+160,199,Po - Lato Chiesa,40.362822,18.171979
+161,200,Po - Fronte Chiesa,40.362905,18.171787
+162,201,Indipendenza - Macelleria,40.364151,18.172672
+163,202,Indipendenza - Fronte Maceller,40.363901,18.172757
+164,203,"Indipendenza, 24",40.365204,18.173538
+165,204,Indipendenza - Fronte Dx Fonta,40.365392,18.174064
+166,207,Basento - Fronte Fermata 308,40.364432,18.175711
+167,208,"Basento, 1",40.36398,18.176015
+168,209,"Adriatica, 123",40.365572,18.169159
+169,210,Adriatica - Fronte Fermata 309,40.365752,18.169432
+170,211,Adriatica - Fronte Caffetteria,40.368634,18.168509
+171,212,Adriatica - Caffetteria Fuori ,40.369129,18.168703
+172,213,"Adriatica - Lato Carrozzeria, ",40.373244,18.169158
+173,214,Adriatica - Fronte  Carrozzeri,40.37345,18.169427
+174,215,"Adriatica, 178",40.376064,18.169557
+175,216,"Adriatica, 229",40.376226,18.169329
+176,217,"Adriatica, 273",40.382854,18.168606
+177,218,Adriatica - Fronte Fermata 317,40.382692,18.168894
+178,219,Adriatica - Outline,40.385424,18.168808
+179,220,Fitto S. - Motorizzazione Civi,40.390284,18.166572
+180,221,Fitto S. - Fine V. S.Fitto Fer,40.391451,18.167529
+181,222,"Taranto, 5",40.357164,18.166707
+182,223,"Taranto, 77 (fronte posta)",40.358962,18.161815
+183,224,"Taranto, 159",40.360567,18.157309
+184,225,"Taranto - Fronte Corriere Dhl,",40.36205,18.153101
+185,226,"Taranto - Anas, 267A",40.363344,18.149505
+186,227,Taranto - Fronte Motel,40.364182,18.146639
+187,228,"Gidiuli, 1",40.362537,18.148978
+188,229,"Dorso, 8",40.361124,18.149046
+189,230,Extrafallaces - Prossimita' Fr,40.361037,18.151759
+190,231,Gidiuli - Dopo Via Extrafallac,40.361072,18.152682
+191,232,Gidiuli  - Incrocio Viale Dell,40.359142,18.155548
+192,233,S. Michele Arc. (case Magno),40.357299,18.155723
+193,234,"Toma, 69",40.354532,18.157329
+194,235,Toma - Case Popolari Di Fronte,40.353462,18.160333
+195,236,Delle Anime - Prima Di Svolta ,40.354808,18.159692
+196,237,Pappacoda - Fronte Edicola - P,40.356058,18.161193
+197,238,Pozzuolo - Fronte Civ. 19,40.354593,18.164634
+198,239,Pitagora - Fronte Civ. 26,40.357146,18.191211
+199,240,De Jacobis - Chiesa Dell'Idria,40.349251,18.161725
+200,241,Rudiae - Dopo Sottopasso Verso,40.347913,18.159917
+201,242,Rudiae - Prima Sottopasso Vers,40.347812,18.159688
+202,243,Grassi  - Prima Di Rotatoria P,40.351659,18.151359
+203,244,Gemito - Prima Della Rotatoria,40.352304,18.149922
+204,245,Pellegrino - Prima Del Negozio,40.353966,18.147635
+205,246,Pellegrino - Fermata 346,40.35383,18.14735
+206,247,Gemito - Fronte Fermata 344,40.352483,18.14984
+207,248,Pellegrino - 100 Metri Prima D,40.354488,18.144471
+208,249,Pellegrino - Fermata 349,40.354264,18.144327
+209,250,"Lecce - Villa Convento, 7",40.355422,18.137186
+210,251,Lecce - Villa Convento - Direz,40.355637,18.136712
+211,252,Lecce - Villa Convento (352),40.358234,18.118656
+212,253,Lecce - Villa Convento (353),40.358133,18.11825
+213,254,Lecce - Villa Convento (354),40.359221,18.112393
+214,255,Lecce - Villa Convento (355),40.358922,18.11249
+215,256,Lecce - Villa Convento (356),40.360019,18.106897
+216,257,Lecce - Villa Convento (357),40.359751,18.107026
+217,260,Lecce - Novoli - Ingresso Vill,40.36373,18.081081
+218,261,Lecce - Novoli  Ingresso Villa,40.363541,18.081018
+219,262,Lecce - Novoli - Prima Di Via ,40.364133,18.078227
+220,263,Lecce - Novoli - Fermata 363,40.363936,18.078066
+221,264,Lecce - Novoli - Prima Di Trav,40.364791,18.074186
+222,265,Lecce - Novoli - Ristorante Ve,40.364502,18.074119
+223,266,"Lecce - Novoli, 132",40.365304,18.070104
+224,267,"Lecce - Novoli, 195",40.364989,18.071157
+225,268,Della Repubblica - Parco Gioch,40.355655,18.152622
+226,269,Birago D.  - Dopo Bivio Via Fi,40.353308,18.153998
+227,270,"Birago D. , 32",40.351839,18.160627
+228,271,"Diaz, 38",40.348799,18.162479
+229,273,Massaglia - Incrocio Via Vanvi,40.34836,18.157183
+230,274,"Massaglia, 56",40.348251,18.157247
+231,275,Monteroni (inc. V. Maccagnani),40.347119,18.15329
+232,276,Monteroni - Acquedotto,40.346851,18.153004
+233,277,Monteroni,40.346158,18.150576
+234,278,Monteroni - Fronte Fermata 377,40.345987,18.150471
+235,279,Monteroni - Fronte Caserma Nac,40.345198,18.147769
+236,280,Monteroni - Caserma Nacci ,40.345145,18.147967
+237,281,Monteroni - Villa Verde (381),40.343132,18.141603
+238,282,Monteroni - Villa Verde (382),40.342636,18.140983
+239,283,Arnesano - Clinica Citta' Di L,40.339496,18.130499
+240,284,Arnesano - Centro Tecnologico,40.339127,18.127449
+241,285,Arnesano - Fronte Centro Villa,40.339575,18.13238
+242,286,Monteroni - Dopo Incrocio Via ,40.339465,18.135005
+243,287,Monteroni - Prima Incrocio Via,40.339325,18.135003
+244,288,Monteroni - Carcere Minorile,40.335074,18.12711
+245,289,Monteroni - Fronte Istituto Su,40.333995,18.125134
+246,290,"Ducas, 14",40.347058,18.160584
+247,291,S. Pietro In Lama (Euronics),40.343733,18.157609
+248,292,S. Pietro In Lama -Fermata 392,40.341325,18.155415
+249,293,S. Pietro In Lama -Fermata 393,40.339456,18.153616
+250,294,"S. Pietro In Lama, 81",40.338101,18.152454
+251,295,"Nocco, 2",40.337114,18.152981
+252,296,"Indraccolo, 15",40.337877,18.153603
+253,297,"Bruni, 8",40.340474,18.156309
+254,298,"Lequile, 177",40.336465,18.155458
+255,299,"Lequile, 182",40.336592,18.15573
+256,300,Muratore - Fronte Ospedale - S,40.331938,18.158459
+257,301,Muratore - Lato Ospedale,40.331526,18.158549
+258,302,Lequile (Fermata 402),40.339882,18.157476
+259,303,Lequile,40.341974,18.158706
+260,306,"Lequile, 68 (bowling)",40.34386,18.159657
+261,307,"Lequile, 12",40.346527,18.161056
+262,308,"Realino B., 5",40.34572,18.170365
+263,310,Realino B. - Fronte Incrocio V,40.343921,18.170077
+264,311,Massari O. - Fronte Case Popol,40.34357,18.168252
+265,312,"Grassi, 124",40.341176,18.162198
+266,313,Grassi - Concessionaria Renaul,40.33839,18.166928
+267,314,S. Cesario - Vicinanze Stazion,40.336864,18.167698
+268,315,S. Cesario - Fronte Stazione S,40.337013,18.167952
+269,316,"S. Cesario - Fronte Farmacia,",40.33457,18.16704
+270,317,"S. Cesario - Farmacia, 112",40.334421,18.167272
+271,320,Moscati - Fronte Oncologico,40.330574,18.161785
+272,321,Moscati - Oncologico,40.330285,18.161802
+273,322,"S. Cesario, 22",40.341219,18.169237
+274,323,V.le P. d'Europa-Hotel Tiziano,40.362015,18.168429
+275,324,Le-Br  - City Terminal,40.362133,18.16858
+276,325,Lecce - T. Chianca (Ferm. 425),40.460004,18.194747
+277,326,Lecce - T. Chianca (Ferm. 426),40.459784,18.195162
+278,327,Lecce - T. Chianca (Ferm. 427),40.463908,18.19503
+279,328,Lecce - T. Chianca (Ferm. 428),40.463219,18.195151
+280,329,Lecce - T. Chianca (bar Simone,40.465798,18.195273
+281,330,Lecce - T. Chianca - Lido Circ,40.467702,18.192743
+282,340,Torre Rinalda (Torre),40.480286,18.158898
+283,341,Lecce Frigole S.Cataldo (441),40.47979,18.159428
+284,342,Lecce Frigole S.Cataldo (442),40.465166,18.180346
+285,343,Lecce Frigole S.Cataldo (443),40.464969,18.180196
+286,344,Lecce Frigole S.Cataldo - Nuov,40.470684,18.176129
+287,345,Lecce Frigole S.Cataldo (445),40.470833,18.175637
+288,346,Lecce Frigole S.Cataldo (446),40.475904,18.172057
+289,347,Lecce Frigole S.Cataldo (447),40.475685,18.172057
+290,348,Lungomare Attilio Mori - Lido ,40.427905,18.254481
+291,349,Lungomare Attilio Mori - Front,40.430006,18.252837
+292,350,Lungomare Attilio Mori - Vicin,40.431932,18.250967
+293,351,Lungomare Attilio Mori - Idrov,40.426405,18.255542
+294,352,Frigole - Rosticceria,40.425506,18.239492
+295,353,Frigole - Stazione Api,40.426585,18.240226
+296,354,Giammatteo - Prima Di Entrare ,40.423918,18.237017
+297,355,Giammatteo - Fronte Fermata 45,40.424058,18.236759
+298,356,Piave - Lato Caserma,40.415803,18.217504
+299,357,Piave - Lato Chiesa,40.41611,18.217576
+300,358,Colombo C. - Ingresso Da Lecce,40.388012,18.298306
+301,359,Vespucci A. - Dopo Il Semaforo,40.388938,18.303256
+302,360,Vespucci A. - Fronte Lido York,40.387196,18.30387
+303,362,Vespucci A. - Fronte Ostello D,40.384174,18.305022
+304,367,Verrazzano G. - Dopo Svolta A ,40.387626,18.304497
+305,368,Caboto - 50 Mt. Prima Del Taba,40.390552,18.305667
+306,369,Lungomare Marinai D'Italia - L,40.393806,18.301377
+307,370,Gioia F. - Dopo Darsena,40.394416,18.297868
+308,371,Gioia F. - Fronte Civ. 12,40.391675,18.296167
+309,372,"Ca' Da Mosto, 7",40.390267,18.296019
+310,373,"Ca' Da Mosto, 31",40.388209,18.297127
+311,376,Case Simini,40.452889,18.209278
+312,377,Zona Sau,40.407408,18.213871
+313,378,"S. Nicola, 79",40.369892,18.15976
+314,379,S. Nicola - Fronte Civ. 60,40.372542,18.159768
+315,380,S. Nicola - Casa Circondariale,40.376647,18.156877
+316,383,Calore -  Cooperativa,40.369463,18.156039
+317,384,Granito - Chiesa,40.369515,18.157642
+318,386,Lecce - Frigole (Zona Sau),40.412075,18.202168
+319,387,Outline,40.385503,18.168521
+320,393,sp Le-San Cataldo,40.360866,18.199062
+321,395,Ecotekne Economia,40.335408,18.119475
+322,397,san cataldo,40.384722,18.286164
+323,398,via lamia,40.384051,18.274265
+324,399,via cartier,40.387411,18.272115
+325,400,via cartier sn,40.385819,18.268406
+326,401,via malaspina,40.383411,18.26923
+327,402,villaggio del sole,40.377779,18.25996
+328,403,sovrapasso dir lecce,40.360857,18.198729
+329,404,Sesia (fronte carrozziere),40.375147,18.17047
+330,405,Pagano,40.371814,18.17721
+331,406,Vallese (IPERCCOP),40.376226,18.148061
+332,407,S.Nicola (fronte V. De Roma),40.367269,18.162947
+333,408,S. Nicola (fronte ex macello),40.363642,18.166465
+334,410,Litoranra S. Cataldo-Frigole,40.394227,18.271845
+335,411,Via V. Frigole (ang Cartier) ,40.387995,18.272203
+336,412,via v. Cuoco,40.366274,18.169587
+337,413,Via Tevere (fr. fermata 303),40.36505,18.173496
+338,414,Via Sesia (carrozziere),40.375301,18.170322
+339,415,Via C. De Giorgi (Giorgilorio),40.384876,18.147636
+340,416,Via F.Vallese (lato Brico),40.375722,18.148125
+341,417,Via S.Nicola (ang. V. De Roma),40.367449,18.16296
+342,418,Via S.Nicola (fr. Via Sinni),40.369669,18.160007
+343,420,Via Calore (fr. cooperativa),40.369256,18.156659
+344,421,Via Calore (fr. Chiesa),40.369406,18.157825
+345,422,Via Sinni,40.369353,18.159933
+346,423,"fr. Ist. Agrario ""G. Presta""",40.332758,18.145319
+347,424,"Ist. Tec.  Agrario ""G. Presta""",40.332614,18.145303
+348,425,Via del Cervone (Frigole),40.421914,18.20878
+349,426,Via Ungaro (scuola media),40.363804,18.170621
+350,427,V. della Vedova (fr. frigg.),40.426326,18.239456
+351,428,Villaggio Gelsi,40.45085,18.189636
+352,429,Solicara,40.439555,18.18329
+353,431,P.za madre Teresa di Calcutta,40.361216,18.207123

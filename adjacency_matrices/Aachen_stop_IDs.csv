@@ -1,0 +1,1114 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,62422,ASEAG lw -> Gewerbe,50.784943,6.130715
+1,281061,ASEAG lw -> Schule,50.785706,6.131094
+2,358898,ASEAG sw,50.78503,6.130284
+3,48583,AVANTIS Doc Morris ->AC,50.837273,6.019161
+4,37574,AVANTIS Honold,50.832607,6.018606
+5,165197,Aachen Bushof,50.7774,6.09029
+6,21166,Aachen Bushof H1,50.77759,6.090817
+7,204735,Aachen Bushof H10,50.776836,6.090112
+8,62109,Aachen Bushof H11,50.777176,6.090658
+9,295427,Aachen Bushof H12,50.77692,6.09066
+10,261895,Aachen Bushof H13,50.777267,6.09122
+11,173092,Aachen Bushof H14,50.777157,6.089283
+12,362993,Aachen Bushof H15,50.77739,6.088758
+13,267782,Aachen Bushof H2,50.77731,6.09038
+14,17743,Aachen Bushof H3,50.777096,6.090053
+15,9346,Aachen Bushof H4,50.777653,6.090742
+16,74602,Aachen Bushof H7,50.777695,6.090668
+17,434134,Aachen Diepenbenden lw,50.745964,6.087902
+18,446707,Aachen Diepenbenden sw -> Eupener Str.,50.74641,6.087831
+19,227942,Aachen Diepenbenden sw -> Wendeschleife,50.746147,6.087678
+20,250673,Aachen Eisenbahnweg lw,50.772556,6.125359
+21,130714,Aachen Eisenbahnweg sw,50.77262,6.125355
+22,387028,Aachen Elsa-Brändström-Straße lw,50.785175,6.090175
+23,216177,Aachen Elsa-Brändström-Straße sw,50.785324,6.090024
+24,250709,Aachen Goethestraße (Hangeweiher) lw,50.7618,6.073005
+25,447463,Aachen Goethestraße (Hangeweiher) sw,50.761192,6.073838
+26,175989,Aachen Goethestraße (Hangeweiher) sw Li.30,50.762066,6.074549
+27,398786,Aachen Hauptbahnhof H1,50.7687,6.090617
+28,227224,Aachen Hauptbahnhof H2,50.76882,6.090453
+29,414084,Aachen Hauptbahnhof H3,50.768623,6.09004
+30,97774,Aachen Hbf,50.7678,6.091499
+31,179830,Aachen Hüls (Wilmersdorfer Straße),50.785763,6.137175
+32,47867,Aachen Kaiserplatz H1 ->SEIB,50.77451,6.095619
+33,386423,Aachen Kaiserplatz H2 Li.4 (Beeckstr.),50.774532,6.095107
+34,333133,Aachen Kaiserplatz H3 ->WIBR (Li.47),50.774643,6.095199
+35,171640,Aachen Kaiserplatz H4 Li.4 (Denkmal),50.77551,6.095259
+36,97809,Aachen Kaiserplatz H5 ->AUGU,50.775566,6.095411
+37,180956,Aachen Kaiserplatz H6 ->HPL,50.77574,6.095656
+38,322801,Aachen Ludwig Forum,50.7815,6.10309
+39,88947,Aachen Ludwig Forum,50.7814,6.10321
+40,130042,Aachen Prager Ring,50.7916,6.11837
+41,175387,Aachen Prager Ring,50.7922,6.11952
+42,449165,Aachen Prager Ring,50.79159,6.119069
+43,412328,Aachen Schillerstraße lw,50.762928,6.078197
+44,181965,Aachen Schillerstraße sw,50.76281,6.078076
+45,313399,Aachen Schwarzer Weg -> GRWI,50.794563,6.111278
+46,141423,Aachen Schwarzer Weg -> PRRI,50.795055,6.112028
+47,306056,Aachen Schöntal lw,50.7475,6.114674
+48,188799,Aachen Schöntal sw,50.747547,6.114727
+49,159234,Aachen Siegel (Li.30),50.752342,6.096893
+50,266865,Aachen Siegel lw,50.752098,6.098283
+51,360301,Aachen Siegel sw,50.75266,6.098022
+52,32805,Aachen Theater lw,50.77189,6.088688
+53,59122,Aachen Theater sw,50.77224,6.088269
+54,73658,Aachen Vogelsang lw,50.757114,6.106566
+55,200385,Aachen Vogelsang sw,50.757523,6.108044
+56,156105,Aachen Waldfriedhof (Parkplatz) lw,50.745735,6.107977
+57,273123,Aachen Waldfriedhof sw,50.74491,6.107787
+58,385395,Aachen Waldschenke lw,50.74508,6.061601
+59,294959,Aachen Waldschenke sw,50.745487,6.061703
+60,95304,Aachen Westbahnhof lw (Li.33) H2,50.78053,6.071963
+61,205972,Aachen Westbahnhof lw (Li.7) H4,50.781532,6.072127
+62,331770,Aachen Westbahnhof sw (Li.33) H1,50.78093,6.072576
+63,296249,Aachen Westbahnhof sw (Li.7) H3,50.78163,6.071809
+64,308502,Aachen Weststraße sw,50.77122,6.060317
+65,458678,Aachen station west (Henricistraße),50.783516,6.072513
+66,117805,"Aachen, Adenauerallee, Mast 1",50.7658,6.127476
+67,440880,"Aachen, Adenauerallee, Mast 2",50.76591,6.127242
+68,361638,"Aachen, Alter Posthof, Mast 1",50.77179,6.084595
+69,339777,"Aachen, Alter Posthof, Mast 2",50.772522,6.085925
+70,156278,"Aachen, Bahnhof Rothe Erde, Mast 1",50.770306,6.117171
+71,79131,"Aachen, Bahnhof Rothe Erde, Mast 2",50.770325,6.117269
+72,373107,"Aachen, Bayernallee, Mast 1",50.755466,6.095324
+73,279463,"Aachen, Bayernallee, Mast 2",50.755512,6.095292
+74,32807,"Aachen, Brand Eckenerstraße, Mast 1",50.753986,6.15412
+75,285785,"Aachen, Brand Eckenerstraße, Mast 2",50.75427,6.153507
+76,19972,"Aachen, Brand Ringstraße, Mast 1",50.751514,6.159672
+77,105875,"Aachen, Brand Ringstraße, Mast 2",50.751846,6.158943
+78,84699,"Aachen, Brand Schulzentrum, Mast 3",50.74997,6.154605
+79,451526,"Aachen, Brand, Mast 1",50.749313,6.164626
+80,32395,"Aachen, Brand, Mast 2",50.749355,6.16451
+81,32563,"Aachen, Burtscheid, Mast 1",50.760567,6.093433
+82,214076,"Aachen, Burtscheid, Mast 2",50.760998,6.093393
+83,269356,"Aachen, Bushof H.2",50.777096,6.090092
+84,364202,"Aachen, Bushof, Mast 5",50.777447,6.090443
+85,300001,"Aachen, Elisenbrunnen",50.774155,6.087468
+86,65088,"Aachen, Elisenbrunnen",50.774166,6.087425
+87,198167,"Aachen, Elisenbrunnen, Mast 2",50.773876,6.087132
+88,458937,"Aachen, Elisenbrunnen, Mast 4",50.774353,6.087486
+89,348144,"Aachen, Elsassstraße, Mast 1",50.771973,6.113408
+90,24612,"Aachen, Elsassstraße, Mast 2",50.772057,6.113488
+91,337744,"Aachen, Friesenrath, Mast 1",50.698643,6.181962
+92,18411,"Aachen, Friesenrath, Mast 2",50.698166,6.182344
+93,19227,"Aachen, Gillesbachtal, Mast 1",50.764473,6.098921
+94,368571,"Aachen, Gillesbachtal, Mast 2",50.76461,6.099083
+95,454673,"Aachen, Hahn Kirche, Mast 1",50.711388,6.197616
+96,21623,"Aachen, Hahn Kirche, Mast 2",50.71139,6.1978
+97,145017,"Aachen, Hahn Steinbruch, Mast 1",50.708866,6.191179
+98,440937,"Aachen, Hahn Steinbruch, Mast 2",50.70896,6.190579
+99,399708,"Aachen, Hansemannplatz, Mast 1",50.77814,6.093379
+100,25109,"Aachen, Hansemannplatz, Mast 2",50.77792,6.094187
+101,8589,"Aachen, Hauptbahnhof",50.768604,6.089921
+102,414497,"Aachen, Hauptbahnhof, Mast 1",50.768757,6.09077
+103,402960,"Aachen, Hauptbahnhof, Mast 2",50.768707,6.090262
+104,31588,"Aachen, Heißberg, Mast 1",50.75893,6.094584
+105,79637,"Aachen, Heißberg, Mast 2",50.75903,6.094564
+106,356205,"Aachen, Iternberg, Mast 1",50.72105,6.186582
+107,326136,"Aachen, Iternberg, Mast 2",50.72116,6.186547
+108,253113,"Aachen, Josefskirche, Mast 1",50.774326,6.107135
+109,405184,"Aachen, Josefskirche, Mast 2",50.774433,6.107057
+110,415234,"Aachen, K'münster Napoleonsberg, Mast 1",50.72963,6.179407
+111,335747,"Aachen, K'münster Napoleonsberg, Mast 2",50.729687,6.179404
+112,339242,"Aachen, K'münster Schulberg, Mast 1",50.728657,6.177481
+113,239351,"Aachen, K'münster Venwegener Str., Mast 1",50.726738,6.18841
+114,47479,"Aachen, K'münster Venwegener Str., Mast 2",50.727505,6.187754
+115,210026,"Aachen, Kaiserplatz, Mast 1",50.774555,6.095715
+116,374665,"Aachen, Kaiserplatz, Mast 6",50.774887,6.097468
+117,421512,"Aachen, Kornelimünster Klause, Mast 1",50.73391,6.173778
+118,89008,"Aachen, Kornelimünster Klause, Mast 2",50.73457,6.173837
+119,264660,"Aachen, Kornelimünster, Mast 1",50.728054,6.183725
+120,208678,"Aachen, Kornelimünster, Mast 2",50.728165,6.184158
+121,20643,"Aachen, Königsberger Straße, Mast 1",50.757072,6.147154
+122,307512,"Aachen, Königsberger Straße, Mast 2",50.75753,6.146091
+123,291638,"Aachen, Lichtenbusch",50.713055,6.123173
+124,101953,"Aachen, Lichtenbusch Broichhausen",50.700596,6.131109
+125,134783,"Aachen, Lichtenbusch Broichhausen",50.700787,6.130756
+126,257300,"Aachen, Lichtenbusch Kirche",50.71195,6.124232
+127,457924,"Aachen, Lichtenbusch Kirche",50.711735,6.124486
+128,438280,"Aachen, Marienhospital, Mast 1",50.76251,6.096717
+129,421821,"Aachen, Marienhospital, Mast 2",50.76259,6.096925
+130,414726,"Aachen, Misereor, Mast 1",50.768616,6.083942
+131,95106,"Aachen, Misereor, Mast 2",50.76878,6.084087
+132,50445,"Aachen, Normaluhr, Mast 1",50.768032,6.094829
+133,407023,"Aachen, Normaluhr, Mast 2",50.768555,6.094527
+134,323864,"Aachen, Oberf. Gewerbegebiet, Mast 1",50.711163,6.137293
+135,246474,"Aachen, Oberf. Gewerbegebiet, Mast 2",50.71071,6.137831
+136,235287,"Aachen, Oberforstbach Laschet, Mast 1",50.716106,6.131636
+137,28324,"Aachen, Oberforstbach Laschet, Mast 2",50.715553,6.132152
+138,45818,"Aachen, Relais Königsberg, Mast 1",50.682095,6.180957
+139,248330,"Aachen, Relais Königsberg, Mast 2",50.68285,6.180643
+140,36980,"Aachen, Reutershag",50.769886,6.039814
+141,378177,"Aachen, Reutershag",50.769695,6.039769
+142,313070,"Aachen, Rollefbachweg, Mast 1",50.739304,6.174998
+143,176959,"Aachen, Rollefbachweg, Mast 2",50.73889,6.175136
+144,189429,"Aachen, Rosenquelle, Mast 1",50.766575,6.095855
+145,372309,"Aachen, Rosenquelle, Mast 2",50.76622,6.097182
+146,14678,"Aachen, Schanz",50.76893,6.074404
+147,150402,"Aachen, Schanz",50.770706,6.073324
+148,453025,"Aachen, Scheibenstraße, Mast 1",50.774517,6.100938
+149,200278,"Aachen, Scheibenstraße, Mast 2",50.774494,6.10145
+150,81619,"Aachen, Schmithof Ardennenstraße [H.2]",50.695133,6.164014
+151,359891,"Aachen, Schmithof Kirche [H.1]",50.69343,6.161941
+152,271273,"Aachen, Schmithof Schmithofer Straße [H.1]",50.691402,6.159203
+153,195670,"Aachen, Schmithof Schmithofer Straße [H.2]",50.691402,6.159203
+154,184987,"Aachen, Schmithof Schule [H.1]",50.688595,6.168165
+155,347748,"Aachen, Schmithof Schule [H.2]",50.688595,6.168165
+156,345819,"Aachen, Schmithof Vennbahn [H.1]",50.690792,6.164253
+157,220425,"Aachen, Schmithof Vennbahn [H.2]",50.690792,6.164253
+158,293899,"Aachen, Schmithofer Straße, Mast 1",50.69132,6.159248
+159,317778,"Aachen, Schmithofer Straße, Mast 2",50.691692,6.159168
+160,249829,"Aachen, Schönforst, Mast 1",50.762646,6.134576
+161,408351,"Aachen, Schönforst, Mast 2",50.76279,6.134255
+162,363179,"Aachen, Sief Abzweigung",50.6961,6.133616
+163,375762,"Aachen, Sief Abzweigung",50.695984,6.133884
+164,137033,"Aachen, Sief Baumgartsweg",50.69652,6.142972
+165,409771,"Aachen, Sief Baumgartsweg",50.69624,6.143368
+166,63904,"Aachen, Sief Magelspfad [H.1]",50.68633,6.147229
+167,55845,"Aachen, Sief Pfeiferweg [H.1]",50.69134,6.150202
+168,296325,"Aachen, Sief Radermacher [H.3]",50.691856,6.155964
+169,415017,"Aachen, Sief Wilbank [H.1]",50.687984,6.146654
+170,337518,"Aachen, Siegel, Mast 1",50.75202,6.09843
+171,449063,"Aachen, Siegel, Mast 2",50.752495,6.098046
+172,17603,"Aachen, Steinebrück, Mast 1",50.743477,6.173556
+173,193813,"Aachen, Steinebrück, Mast 2",50.742424,6.173917
+174,239403,"Aachen, Trierer Platz, Mast 1",50.760284,6.139882
+175,98597,"Aachen, Trierer Platz, Mast 2",50.760925,6.138496
+176,442059,"Aachen, Walheim Eisenhütte (Hospiz am Iterbach)",50.700104,6.15408
+177,146634,"Aachen, Walheim Freizeitgelände, Mast 1",50.704906,6.181317
+178,199108,"Aachen, Walheim Freizeitgelände, Mast 2",50.704796,6.181252
+179,307868,"Aachen, Walheim Mütschenpfuhl [H.1]",50.701668,6.17151
+180,62263,"Aachen, Walheim Mütschenpfuhl [H.2]",50.701668,6.17151
+181,215246,"Aachen, Walheim Schmittchen, Mast 1",50.71265,6.185442
+182,136615,"Aachen, Walheim Schmittchen, Mast 2",50.712433,6.185328
+183,385978,"Aachen, Walheim, Mast 1",50.707382,6.182641
+184,193058,"Aachen, Walheim, Mast 2",50.707485,6.182692
+185,424208,"Aachen, Zeppelinstraße, Mast 1",50.768024,6.122432
+186,153826,"Aachen, Zeppelinstraße, Mast 2",50.768406,6.121557
+187,315095,Aachen-Rothe Erde,50.770203,6.116475
+188,194045,Abzweigung Orsbach lw,50.80074,6.048755
+189,42213,Abzweigung Orsbach sw,50.800682,6.048616
+190,383833,Adele-Weidtman-Straße lw,50.799114,6.067352
+191,177569,Adele-Weidtman-Straße sw,50.7989,6.066684
+192,359193,Adenauerallee lw -> 5er,50.765465,6.128049
+193,185215,Adenauerallee lw -> Li.70,50.765728,6.126388
+194,432958,Adenauerallee sw -> 5er,50.76595,6.127381
+195,55743,Adenauerallee sw -> Li.70,50.76535,6.126454
+196,344794,Albert-Einstein-Straße lw -> Hasbach,50.70456,6.175275
+197,3072,Albert-Einstein-Straße lw -> Schmith.,50.703835,6.174554
+198,159222,Albert-Einstein-Straße sw -> Walh.,50.70382,6.174753
+199,130904,Alter Posthof lw -> Annastr.,50.772198,6.083733
+200,101694,Alter Posthof lw -> Misereor,50.77178,6.084567
+201,93669,Alter Posthof sw,50.77244,6.085987
+202,172497,Alter Tivoli lw,50.79067,6.097143
+203,102442,Alter Tivoli sw,50.789806,6.095905
+204,371494,Am Backes lw,50.764236,6.055465
+205,12724,Am Backes sw,50.763824,6.055221
+206,227208,Am Beulardstein lw,50.80455,6.067181
+207,442034,Am Friedrich lw,50.76345,6.052763
+208,293123,Am Friedrich sw,50.76338,6.052171
+209,185156,Am Gut Wolf lw,50.788918,6.10463
+210,143231,Am Gut Wolf sw,50.78869,6.104077
+211,382325,Am Haarberg lw,50.80172,6.132327
+212,135517,Am Haarberg sw,50.801743,6.132197
+213,312552,Am Hügel lw,50.774937,6.061985
+214,194795,Am Hügel sw,50.775036,6.062844
+215,27636,Am Neuenhof lw,50.766182,6.059881
+216,377508,Am Neuenhof sw,50.76613,6.059842
+217,323373,Am Rott lw,50.778847,6.124619
+218,110288,Am Rott sw,50.778957,6.124754
+219,257868,"Am Tiergarten lw (Li.27,37)",50.755833,6.168954
+220,60479,"Am Tiergarten sw (Li.27,37)",50.75594,6.169713
+221,124021,Am Weißenberg lw,50.776,6.067536
+222,105560,Am Weißenberg sw,50.77576,6.066856
+223,415607,Annastraße (Hans-Stercken-Platz) lw,50.77258,6.080006
+224,79739,Annastraße (Hans-Stercken-Platz) sw,50.772438,6.080072
+225,46285,Apolloniaweg lw,50.77938,6.168184
+226,162684,Apolloniaweg sw,50.77956,6.168486
+227,295808,Ardennenstraße lw ( -> Sief),50.69525,6.164165
+228,269050,Ardennenstraße sw ( -> Walh.),50.695133,6.164014
+229,304046,Ardennenstraße sw ( -> Walh.),50.69467,6.163605
+230,141108,Audimax lw,50.78026,6.0752
+231,104483,Audimax sw,50.780174,6.075475
+232,328593,Auf dem Bahnes -> Pascalstraße,50.71356,6.144344
+233,317016,Auf dem Bahnes -> Schleckheim,50.713333,6.144089
+234,154876,Auf der Hörn lw,50.780975,6.055462
+235,413842,Auf der Hörn sw,50.78141,6.0544
+236,397719,Augustastraße - KPL,50.773132,6.095903
+237,188523,Augustastraße - NUH,50.772396,6.095665
+238,356221,Augustinerweg lw,50.724915,6.089661
+239,54836,Augustinerweg sw,50.72497,6.089785
+240,2085,Bahnhof Rothe Erde H1 (sw),50.77031,6.117412
+241,200375,Bahnhof Rothe Erde H2 (lw),50.769936,6.117832
+242,265758,Bahnhof Rothe Erde H3 (lw Li.7),50.770763,6.116036
+243,101267,Barbarakirche lw,50.77691,6.136144
+244,166959,Barbarakirche sw,50.777008,6.136195
+245,252950,Barbarossaplatz lw,50.7643,6.075104
+246,381105,Barbarossaplatz sw,50.764507,6.076609
+247,414140,Bastei lw,50.782646,6.089325
+248,216158,Baumgartsweg lw,50.696243,6.143371
+249,329339,Baumgartsweg sw,50.69652,6.142972
+250,435394,Bayerhaus lw,50.778004,6.180312
+251,204204,Bayerhaus sw,50.777958,6.179279
+252,451774,Bayernallee lw,50.755466,6.095295
+253,171508,Bayernallee sw,50.755505,6.095378
+254,64156,Bendplatz lw,50.78453,6.073997
+255,331886,Bendplatz sw,50.784367,6.073908
+256,161437,Berensberg lw (Li.57 über Soers) -> H´rath,50.81037,6.091278
+257,440947,Berensberg sw (Li.57 über Soers) -> AC,50.810467,6.090989
+258,262182,Beverau lw,50.759373,6.112411
+259,442230,Beverau lw >Li.30 Ronheider Weg,50.758682,6.111405
+260,64585,Beverau sw,50.759415,6.112523
+261,92416,Beverau sw >Li.30 Birkenweg,50.75857,6.111312
+262,249820,Bildchen Grenze (Wasserwerk) lw,50.7265,6.03384
+263,144328,Bildchen Grenze (Wasserwerk) sw,50.726562,6.034091
+264,184471,Bildchen Zollamt lw,50.730614,6.040595
+265,66037,Bildchen Zollamt sw,50.73083,6.041049
+266,172828,Bismarckturm lw,50.74735,6.103355
+267,416210,Bismarckturm sw,50.74826,6.102746
+268,12112,Blücherplatz,50.7804,6.10129
+269,196569,Blücherplatz,50.7799,6.09998
+270,279870,Blücherplatz lw,50.780354,6.101286
+271,47534,Blücherplatz sw,50.77986,6.099983
+272,243932,Brahmsstraße lw -> Ringstr.,50.756744,6.163539
+273,358602,Brahmsstraße sw -> Eil.,50.75681,6.163705
+274,77018,Brand Eilendorfer Straße lw,50.75187,6.176992
+275,280474,Brand Eilendorfer Straße sw,50.751915,6.176933
+276,398510,Brand Hochstraße sw (Li.45),50.746384,6.162577
+277,358563,Brand Kollenbruch lw,50.742695,6.162432
+278,374372,Brand Kollenbruch sw,50.74257,6.162426
+279,153300,Brand Kolpingstraße lw,50.750668,6.171535
+280,3675,Brand Kolpingstraße sw,50.75079,6.171768
+281,456837,"Brand Richard-Wagner-Straße (Columbarium) lw (Li.27,37)",50.75406,6.164028
+282,112331,"Brand Richard-Wagner-Straße (Columbarium) sw (Li.27,37)",50.754196,6.163013
+283,49211,Brand Ringstraße -> Li.34 Nordstraße,50.751953,6.160029
+284,204273,Brand Ringstraße lw,50.7514,6.159864
+285,12488,Brand Ringstraße sw,50.751965,6.15895
+286,68787,Brand Schulzentrum H.3 (Wende),50.749893,6.154439
+287,299043,Brand Schulzentrum H.4 (Rombachstr. lw),50.75056,6.154484
+288,186478,Brand Schulzentrum H.5 (Rombachstr. sw),50.750298,6.155166
+289,231955,Brand Schulzentrum lw -> Li.45,50.749218,6.153672
+290,60099,Brand Schulzentrum sw -> Li.45,50.74945,6.154027
+291,43267,Brand Schwimmhalle lw,50.746555,6.157832
+292,155864,Brand Schwimmhalle sw -> Brand (Li.55),50.747253,6.158711
+293,402351,Brand Schwimmhalle sw -> Schulz. (Li.45),50.747395,6.157526
+294,209994,Brand Steinebrück lw,50.743465,6.173542
+295,235828,Brand Steinebrück sw,50.742435,6.174002
+296,139172,Brand Vennbahnbogen lw,50.74275,6.153243
+297,281101,Brand Vennbahnbogen sw,50.74263,6.15359
+298,204832,Brand Wolferskaul lw,50.743904,6.15941
+299,91342,Brand Wolferskaul sw (Li. 45),50.74436,6.159595
+300,45801,Brand Wolferskaul sw (Li. 55/65),50.74379,6.159445
+301,60911,Brand lw -> Büsbach,50.74942,6.165712
+302,125624,Brand lw -> Niederforstbach,50.749367,6.164297
+303,310046,Brand sw,50.749645,6.164209
+304,11624,Brander Feld lw,50.746746,6.148194
+305,433566,Brander Feld sw,50.74652,6.147881
+306,188842,Brander Heide (Nordstraße) -> Eilendf.,50.760033,6.166276
+307,129380,Brander Heide (Nordstraße) -> Ringstr.,50.759953,6.166053
+308,124553,Breitbenden sw + lw,50.77491,6.163432
+309,342568,Broichhausen lw,50.70079,6.130758
+310,443330,Broichhausen sw,50.700603,6.13111
+311,357484,Brüsseler Ring lw,50.753967,6.070148
+312,406803,Brüsseler Ring sw,50.753788,6.070925
+313,361557,Burtscheid Hauptstraße lw,50.76582,6.089902
+314,20907,Burtscheid Hauptstraße sw,50.765495,6.089511
+315,301631,Burtscheid Sebastianstraße lw,50.761597,6.086803
+316,179235,Burtscheid Sebastianstraße sw,50.76217,6.087264
+317,120642,Burtscheid lw,50.760548,6.093463
+318,330171,Burtscheid sw,50.761127,6.093867
+319,42831,Buschhausen lw,50.753506,6.103939
+320,234986,Buschhausen sw,50.753708,6.10377
+321,444818,Campus Melaten (Physikzentrum) lw,50.782463,6.050517
+322,35865,Campus Melaten (Physikzentrum) sw,50.782665,6.050773
+323,223969,Carolus Thermen lw,50.78425,6.097739
+324,52481,Carolus Thermen sw,50.784176,6.097673
+325,72428,Colynshof (Jugendherberge) sw,50.752377,6.073438
+326,301949,Continental lw,50.776688,6.131589
+327,14149,Continental sw,50.77653,6.130833
+328,230171,Couven-Gymnasium lw,50.763214,6.071953
+329,453006,Couven-Gymnasium sw,50.763306,6.072457
+330,94065,Danziger Straße lw,50.75478,6.142785
+331,374277,Danziger Straße sw,50.75497,6.143198
+332,408626,Debyestraße lw,50.76148,6.154403
+333,385566,Debyestraße sw,50.761395,6.154706
+334,217563,Dellstraße lw,50.818054,6.060073
+335,370713,Dellstraße sw,50.818176,6.060292
+336,237999,Dresdener Straße lw,50.78038,6.122368
+337,63049,Dresdener Straße sw,50.780514,6.122246
+338,132844,Driescher Gässchen (Technische Hochschule) lw 7er,50.779667,6.08131
+339,42568,Driescher Gässchen (Technische Hochschule) lw Li.4,50.77888,6.080862
+340,249469,Driescher Gässchen (Technische Hochschule) sw,50.779022,6.081492
+341,288926,Drimborn lw,50.762817,6.120652
+342,113279,Drimborn sw,50.762997,6.120641
+343,376001,Drosselweg lw,50.7645,6.131612
+344,364415,Drosselweg sw,50.7646,6.131577
+345,184560,Düserhofstraße lw,50.796074,5.998479
+346,31772,Düserhofstraße sw,50.79615,5.998276
+347,408472,Eckenerstraße lw,50.75396,6.154108
+348,96425,Eckenerstraße sw,50.754185,6.153824
+349,156550,Ehrenmal/Lousberg - KPL,50.782024,6.083589
+350,300663,Eich -> NIFO,50.732548,6.142934
+351,222093,Eich <- NIFO,50.732574,6.142932
+352,238011,Eich lw,50.730473,6.140566
+353,98070,Eich sw,50.730442,6.140667
+354,456845,Eilendorf,50.78556,6.154367
+355,272420,Eilendorf Bahnhof lw,50.785538,6.152175
+356,136024,Eilendorf Bahnhof sw,50.7855,6.15205
+357,85055,Eilendorf Freunder Straße -> Brand,50.777256,6.168511
+358,49627,Eilendorf Freunder Straße -> Eilendorf,50.777054,6.168694
+359,380278,Eilendorf Josefstraße lw,50.779064,6.144865
+360,366356,Eilendorf Josefstraße sw,50.778683,6.144406
+361,451394,Eilendorf Kaiserstraße lw,50.781425,6.147715
+362,256160,Eilendorf Kaiserstraße sw,50.78148,6.147669
+363,159957,Eilendorf Karlstraße lw,50.77704,6.146677
+364,307375,Eilendorf Karlstraße sw,50.77732,6.146035
+365,318563,Eilendorf Kirchfeld lw,50.7761,6.152791
+366,393751,Eilendorf Kirchfeld sw,50.776203,6.152189
+367,201139,Eilendorf Linde lw,50.77733,6.157384
+368,51155,Eilendorf Linde sw,50.77739,6.157296
+369,251717,Eilendorf Markt lw,50.77946,6.163767
+370,175339,Eilendorf Markt sw,50.779648,6.163202
+371,418314,Eilendorf Markusstraße lw,50.783466,6.154203
+372,256377,Eilendorf Markusstraße sw,50.783207,6.154275
+373,77399,Eilendorf Nirm Am Tunnel sw,50.787464,6.161409
+374,377603,Eilendorf Rathaus lw,50.78068,6.153705
+375,189034,Eilendorf Rathaus sw,50.780903,6.153847
+376,453924,Eilendorf Schlackstraße -> Brand,50.774197,6.169193
+377,370175,Eilendorf Schlackstraße -> Eilendorf,50.77396,6.169136
+378,363761,Eilendorf Schubertstraße lw,50.781734,6.174015
+379,302383,Eilendorf Schubertstraße sw,50.781624,6.173511
+380,442888,Eilendorf Stapperstraße lw,50.783775,6.152126
+381,50092,Eilendorf Stapperstraße sw,50.78397,6.152356
+382,290873,Eisenhütte (Hospiz am Iterbach),50.700104,6.154085
+383,282268,Elisenbrunnen H1,50.774734,6.087987
+384,49438,Elisenbrunnen H2,50.77401,6.087493
+385,186601,Elisenbrunnen H3,50.773716,6.086943
+386,402182,Elisenbrunnen H4,50.77437,6.087428
+387,71612,Elsassstraße lw -> 2er,50.77237,6.113682
+388,332895,Elsassstraße lw -> 5er,50.77186,6.113529
+389,172555,Elsassstraße sw,50.772053,6.113616
+390,231979,Entenpfuhler Weg lw,50.73819,6.048155
+391,109300,Entenpfuhler Weg sw,50.738087,6.048317
+392,169531,Erberichshofstraße lw,50.75787,6.172433
+393,338121,Erberichshofstraße sw,50.7577,6.172613
+394,379512,Erlenpütz lw ( -> Laschet),50.7149,6.129868
+395,215854,Erlenpütz sw ( -> LICH),50.714954,6.12985
+396,184923,Eulershof lw (Li.34),50.79909,6.104668
+397,236504,Eulershof lw (Li.51),50.79938,6.106169
+398,439529,Eulershof sw (Li.34),50.799072,6.103789
+399,74227,Eulershof sw (Li.51),50.798374,6.104755
+400,138362,Eulersweg lw,50.79924,6.098314
+401,42319,Eulersweg sw,50.799175,6.098886
+402,343055,Eurogress - KPL,50.780785,6.090065
+403,359216,Eurogress - PON,50.780735,6.091303
+404,181854,Europadorf lw,50.78711,6.063165
+405,220886,Europadorf sw,50.786842,6.063395
+406,42928,Europaplatz lw,50.778336,6.110193
+407,436314,Europaplatz sw,50.779,6.109712
+408,52410,Feldchen lw,50.79718,6.106901
+409,289485,Feldchen sw,50.79747,6.107025
+410,336620,Ferberberg lw,50.80919,6.083884
+411,248367,Ferberberg sw,50.809113,6.083037
+412,370098,Floriansdorf lw,50.787815,6.047384
+413,369672,Floriansdorf sw,50.787746,6.04824
+414,287435,Forckenbeckstraße lw,50.78533,6.050534
+415,279299,Forckenbeckstraße sw,50.78569,6.050767
+416,294638,Forster Linde lw,50.760605,6.131339
+417,292052,Forster Linde sw,50.76005,6.132224
+418,176526,Forster Weg lw,50.757233,6.100816
+419,2154,Forster Weg sw,50.757362,6.100907
+420,159692,Forsterheide Kreuz lw,50.828373,6.057663
+421,336167,Forsterheide Kreuz sw,50.82831,6.05788
+422,340554,Forsterheide lw,50.827374,6.051108
+423,377723,Forsterheide sw -> Bank,50.827126,6.051649
+424,195350,Forsterheide sw -> Richterich,50.826767,6.051345
+425,168276,Frankenberg lw,50.766693,6.109025
+426,82089,Frankenberg sw,50.766937,6.109364
+427,362958,Franziskushospital lw,50.76473,6.070255
+428,427269,Franziskushospital sw,50.764862,6.070587
+429,228515,Freund lw,50.753098,6.182689
+430,393970,Freund sw,50.75352,6.18462
+431,144317,Friesenrath sw,50.69822,6.182355
+432,53390,Fringsgraben lw,50.77667,6.140017
+433,243108,Fringsgraben sw,50.776756,6.139203
+434,264659,Fuchserde (Waldfriedhof Nord) lw,50.750862,6.10976
+435,122666,Fuchserde (Waldfriedhof Nord) sw,50.750854,6.110143
+436,2656,Gartenstraße lw,50.770412,6.069574
+437,61126,Gartenstraße sw,50.770382,6.068739
+438,314333,Gaßmühle -> Lemiers,50.78169,6.008156
+439,125728,Gaßmühle -> Seffent,50.781612,6.008345
+440,247844,Geschwister-Scholl-Gymnasium lw,50.77584,6.119526
+441,31755,Geschwister-Scholl-Gymnasium lw (Nachtexpress),50.776157,6.119634
+442,216982,Geschwister-Scholl-Gymnasium sw,50.775883,6.119438
+443,230266,Geschwister-Scholl-Gymnasium sw (Nachtexpress),50.776382,6.120656
+444,426055,Gewerbegebiet Schlottfeld lw,50.790596,6.0592
+445,134318,Gewerbegebiet Schlottfeld sw,50.79046,6.059053
+446,141196,Gierstraße lw,50.81727,6.054315
+447,46913,Gierstraße sw,50.817352,6.055105
+448,272853,Gillesbachtal lw,50.764324,6.098718
+449,62820,Gillesbachtal sw,50.76453,6.099116
+450,142482,Giselastraße lw,50.75444,6.087971
+451,441535,Giselastraße sw,50.755634,6.08723
+452,48456,Glatzer Straße lw,50.7518,6.138968
+453,98893,Glatzer Straße sw,50.752144,6.139401
+454,197756,Goerdelerstraße lw,50.770943,6.112791
+455,129843,Goerdelerstraße sw,50.77099,6.112419
+456,192248,Goertzbrunnstraße lw,50.75262,6.180421
+457,310251,Goertzbrunnstraße sw,50.75249,6.179507
+458,225537,Goldbachstraße lw,50.753044,6.085732
+459,105459,Goldbachstraße sw,50.75322,6.085934
+460,363490,Großheidstraße lw,50.794273,6.163338
+461,394572,Grundhaus lw,50.75446,6.059794
+462,300942,Grundhaus sw,50.75423,6.059936
+463,399160,Grüne Eiche lw,50.731194,6.115648
+464,45597,Grüne Eiche sw,50.731247,6.115758
+465,201542,Grünenthal Karl-Friedrich-Straße ALT sw,50.809998,6.048041
+466,262695,Grüner Winkel lw,50.795643,6.107976
+467,206648,Grüner Winkel sw,50.795452,6.107945
+468,41448,Gut Grauenhof lw,50.748646,6.137629
+469,379005,Gut Grauenhof sw,50.748302,6.137962
+470,321209,Gut Neuenhof lw,50.759007,6.153092
+471,346040,Gut Neuenhof sw,50.758953,6.15311
+472,217751,Gut Nonnenhof lw,50.796104,6.00177
+473,245817,Gut Nonnenhof sw,50.796104,6.00177
+474,392559,Gut Orth lw,50.800453,6.018369
+475,425422,Gut Orth sw,50.80041,6.018797
+476,429290,Gut Weide lw,50.763695,6.150907
+477,274199,Gut Weide sw,50.763386,6.151536
+478,74361,Gut-Knapp-Straße -> AC Kr,50.798412,6.153294
+479,401749,Gut-Knapp-Straße -> V'hd,50.798325,6.153129
+480,229401,Haaren Birkenweg sw,50.797993,6.129546
+481,41616,Haaren Denkmal lw,50.7983,6.126873
+482,280384,Haaren Denkmal sw,50.798904,6.127531
+483,328524,Haaren Markt lw,50.79504,6.125966
+484,138261,Haaren Markt sw,50.795025,6.125626
+485,226039,Habsburgerallee lw,50.763264,6.08219
+486,1172,Habsburgerallee sw,50.76354,6.082031
+487,248777,Hahn Kirche lw,50.711338,6.197747
+488,13037,Hahn Kirche sw,50.71139,6.1978
+489,314315,Hahn Steinbruch lw,50.70884,6.191195
+490,25747,Hahn Steinbruch sw,50.709026,6.19066
+491,317185,Hahnweg lw,50.78299,6.158999
+492,336783,Hahnweg sw,50.782875,6.159502
+493,420784,Hainbuchenstraße lw,50.778107,6.062595
+494,204288,Hainbuchenstraße sw,50.778187,6.063554
+495,347658,Halifaxstraße lw (23),50.779686,6.058807
+496,324381,Halifaxstraße lw (33),50.779392,6.058286
+497,338144,Halifaxstraße sw (23),50.779797,6.058956
+498,458911,Halifaxstraße sw (33),50.779743,6.057526
+499,308636,Hanbruch Schwimmhalle West (Ulla-Klinger-Halle) lw,50.768078,6.055748
+500,147631,Hanbruch Schwimmhalle West (Ulla-Klinger-Halle) lw P,50.767906,6.055163
+501,123759,Hanbruch Schwimmhalle West (Ulla-Klinger-Halle) sw,50.768074,6.055635
+502,371099,Hander Weg lw,50.813126,6.059744
+503,155294,Hander Weg sw,50.81251,6.059711
+504,165459,Hansemannplatz,50.778484,6.095867
+505,311344,Hansemannplatz,50.7782,6.09343
+506,397166,Hansemannplatz ->BLÜP H4,50.778477,6.095969
+507,135578,Hansemannplatz ->EUGR H5,50.778683,6.094126
+508,24775,Hansemannplatz ->KPL H2,50.77767,6.094359
+509,247487,Hansemannplatz 1er->BF H1,50.77817,6.09342
+510,365621,Hansemannplatz 5er->BF H3,50.77804,6.094378
+511,324768,Hansmannstraße (Eilendorf Bf.) lw,50.78447,6.154738
+512,282886,Hansmannstraße (Eilendorf Bf.) sw,50.784504,6.154778
+513,256299,Hasencleverstraße lw,50.766205,6.11877
+514,324154,Hasencleverstraße sw,50.76606,6.118623
+515,245498,Hasenwaldstraße lw,50.809944,6.06991
+516,211586,Heidbenden lw,50.753937,6.130783
+517,376906,Heidbenden sw,50.7533,6.130496
+518,249515,Heißberg lw,50.759064,6.094505
+519,361114,Heißberg sw,50.759247,6.094565
+520,365585,Hermann-Löns-Straße lw,50.761738,6.169477
+521,143455,Hermann-Löns-Straße sw,50.761784,6.169559
+522,86498,Heussstraße lw,50.751587,6.155329
+523,328326,Hickelweg lw -> FRIN,50.768444,6.130675
+524,243989,Hickelweg sw - ADEN,50.76931,6.131615
+525,372142,Hitfeld lw,50.735863,6.132555
+526,225143,Hitfeld sw,50.736065,6.132316
+527,84496,Hochgrundhaus lw,50.75019,6.06026
+528,431028,Hochgrundhaus sw,50.75024,6.060385
+529,188508,Hohenzollernplatz lw -> 23,50.7763,6.112546
+530,117110,Hohenzollernplatz lw -> 41,50.77516,6.112446
+531,66660,Hohenzollernplatz sw -> 23,50.776405,6.112483
+532,231681,Hohenzollernplatz sw -> 41,50.775986,6.112381
+533,2375,Horbach (Wendeschleife),50.836132,6.041137
+534,15711,Horbach Kirche lw,50.833042,6.045253
+535,219627,Horbach Kirche sw,50.833122,6.04485
+536,35102,Horbach Linde lw,50.831448,6.048238
+537,315313,Horbach Linde sw,50.8312,6.048381
+538,57845,Horbach lw,50.83597,6.041133
+539,434528,Horbach sw,50.835903,6.041052
+540,434678,Hörn Brücke lw,50.78735,6.051287
+541,74768,Hörn Brücke sw,50.787086,6.051545
+542,286684,Hörn Kastanienweg lw,50.785484,6.054753
+543,48880,Hörn Kastanienweg sw,50.7856,6.054391
+544,136959,Hörnstieg lw,50.78433,6.057522
+545,410183,Hörnstieg sw,50.784115,6.057834
+546,95024,Hüls Ausstieg Linie 30,50.785534,6.13468
+547,395706,Hüls Elleter Feld lw (Ausstieg),50.790077,6.138134
+548,317753,Hüls Elleter Feld sw,50.78976,6.138409
+549,164930,Hüls Friedhof lw,50.786243,6.139021
+550,170029,Hüls Friedhof sw,50.78645,6.139108
+551,155801,Hüls Gewerbegebiet lw,50.7816,6.135048
+552,88092,Hüls Gewerbegebiet lw (Ausstieg),50.7816,6.135048
+553,39191,Hüls Gewerbegebiet sw,50.78127,6.135352
+554,343142,Hüls Gewerbegebiet sw - Li.30,50.781517,6.135195
+555,359579,Hüls Schulzentrum (Ausstieg),50.79028,6.124044
+556,153607,Hüls Schulzentrum sw,50.789463,6.124818
+557,392591,Hüls Schulzentrum sw (Ausstieg),50.789463,6.124818
+558,105513,Hüls lw -> Friedhof,50.785713,6.13508
+559,300081,Hüls lw -> Gewerbe,50.7853,6.134439
+560,334485,Hüls sw,50.7858,6.133912
+561,318056,Im Brockenfeld lw,50.758835,6.078806
+562,381433,Im Brockenfeld sw -> GOET,50.757854,6.079165
+563,443902,Im Reichswald lw,50.793495,6.166068
+564,117548,Im Reichswald sw,50.79316,6.165875
+565,232462,Iternberg lw,50.720764,6.186529
+566,42865,Iternberg sw,50.721134,6.186662
+567,259847,Jahnplatz lw,50.749958,6.086846
+568,25658,Jahnplatz sw -> 7er St. Vither Str.,50.750072,6.087448
+569,68464,Jahnplatz sw -> Li. 14 Eupener Str.,50.749264,6.087101
+570,243387,Jakobsplatz lw (4),50.770725,6.075214
+571,209297,Jakobsplatz sw (4),50.770737,6.075369
+572,444078,Josefskirche (Justizzentrum) lw -> 23,50.77466,6.107427
+573,393551,Josefskirche (Justizzentrum) lw -> 5er,50.7743,6.107137
+574,83201,Josefskirche (Justizzentrum) sw -> 23,50.774624,6.106634
+575,163902,Josefskirche (Justizzentrum) sw -> 5er,50.77441,6.107513
+576,173047,Jupp-Müller-Straße lw,50.787205,6.0699
+577,89902,Jupp-Müller-Straße sw,50.786373,6.070845
+578,160662,Juttastraße lw -> SIEG,50.75972,6.105611
+579,205316,Juttastraße sw -> VOGE,50.759518,6.10551
+580,325710,Jüdischer Friedhof lw,50.767082,6.072406
+581,447035,Jüdischer Friedhof sw,50.766777,6.07234
+582,387255,Kackertstraße -> L'berg,50.790913,6.062019
+583,174703,Kackertstraße -> Uniklinik,50.790913,6.061664
+584,213669,Kaiser-Friedrich-Park lw,50.75895,6.075169
+585,248959,Kaiser-Friedrich-Park sw,50.75954,6.075146
+586,217317,Kannegießerbach lw,50.75784,6.062205
+587,429832,Kannegießerbach sw,50.757835,6.062347
+588,416891,Kapitelstraße lw,50.767513,6.093598
+589,16043,Kapitelstraße sw,50.76739,6.093663
+590,47923,Karlsgraben lw HÖ,50.772858,6.076641
+591,19799,Karlsgraben lw KE,50.77247,6.07702
+592,383806,Karlsgraben sw ELI,50.772938,6.076693
+593,226751,Karlsgraben sw MA,50.772575,6.077241
+594,134056,Karolingerstraße lw,50.78592,6.092102
+595,380766,Karolingerstraße sw,50.787216,6.093369
+596,190979,Kellershaustraße lw,50.765602,6.163443
+597,40679,Kellershaustraße sw,50.766376,6.16463
+598,128489,Kelmesbergweg sw,50.792217,6.163747
+599,406465,Keltenstraße lw,50.769043,6.027602
+600,361610,Keltenstraße sw,50.768833,6.028537
+601,129249,Kennedypark lw,50.773785,6.116347
+602,200694,Kennedypark sw,50.77367,6.11624
+603,208542,Kesselstraße lw,50.712326,6.131966
+604,175355,Kesselstraße sw,50.71225,6.132127
+605,150994,Kiefernweg sw,50.71725,6.141286
+606,1068,Kirschbäumchen lw,50.800552,6.027844
+607,454966,Kirschbäumchen sw,50.80051,6.028046
+608,57581,Kohlshof lw,50.720467,6.126439
+609,218122,Kohlshof sw,50.71953,6.126326
+610,167580,Kornelimünster Auf der Gallich lw,50.731808,6.170134
+611,322376,Kornelimünster Auf der Gallich sw,50.731686,6.170595
+612,222252,Kornelimünster Klause lw,50.73391,6.17375
+613,24491,Kornelimünster Klause sw,50.734562,6.173937
+614,67700,Kornelimünster Meischenfeld lw,50.726612,6.17358
+615,251514,Kornelimünster Meischenfeld sw,50.72602,6.172538
+616,270452,Kornelimünster Schulberg lw,50.729134,6.177439
+617,101302,Kornelimünster Schulberg lw (Li.S -> KORN),50.729416,6.178966
+618,314821,Kornelimünster Schulberg sw,50.728622,6.177526
+619,31390,Kornelimünster Steinkaulplatz Ri. Walh.,50.72936,6.178941
+620,129421,Kornelimünster Steinkaulweid lw,50.730774,6.173131
+621,138631,Kornelimünster Steinkaulweid sw,50.73072,6.173573
+622,122719,Kornelimünster lw,50.72803,6.183967
+623,270312,Kornelimünster sw,50.728058,6.183866
+624,240504,Krauthausen Siedlung lw,50.743954,6.191106
+625,45244,Krauthausen Siedlung sw,50.743935,6.190994
+626,16384,Krauthausen lw,50.74079,6.186816
+627,308657,Krauthausen sw,50.740234,6.186368
+628,197429,Kreuzerdriesch lw -> HITF,50.74287,6.124854
+629,455162,Kreuzerdriesch lw -> LIFR,50.742695,6.123957
+630,376994,Kreuzerdriesch sw -> LINT,50.742035,6.126039
+631,3760,Kroitzheider Weg lw ( -> SKAP),50.721245,6.149686
+632,37663,Kroitzheider Weg sw ( -> OBFO),50.72147,6.148978
+633,267231,Kronenberg lw,50.76588,6.052893
+634,3016,Kronenberg sw,50.765774,6.052531
+635,432467,Kuckelkorn lw,50.770004,6.062691
+636,322272,Kuckelkorn sw,50.769722,6.061829
+637,198960,Kuckelkorn sw Schleife,50.769722,6.061829
+638,224948,Kullen -> Reutershag,50.773346,6.035117
+639,224251,Kullen -> Uniklinik,50.77358,6.0354
+640,190662,Kármán-Auditorium lw,50.777134,6.080021
+641,115728,Kármán-Auditorium sw,50.77706,6.080408
+642,21576,Königsberger Straße (Polizeipräsidium) lw,50.756947,6.147205
+643,158997,Königsberger Straße (Polizeipräsidium) sw,50.757565,6.146302
+644,366630,Königstraße lw (Li. 23),50.775005,6.075855
+645,413652,Königstraße lw (Li.13 -> TURM),50.775497,6.075483
+646,282858,Königstraße sw (Li. 23),50.775234,6.075642
+647,358168,Königstraße sw (Li.13 -> TEHO),50.77544,6.075303
+648,46636,Köpfchen Altes Zollamt lw,50.723003,6.089922
+649,28614,Köpfchen Altes Zollamt sw,50.72351,6.090018
+650,360555,Landgraben lw,50.80757,6.068511
+651,111866,Landgraben sw,50.80765,6.068847
+652,216837,Laschet lw -> Oberf.,50.716076,6.13263
+653,440740,Laschet lw -> Roetgen,50.716606,6.131166
+654,447897,Laschet sw -> Grüne Eiche,50.71523,6.132511
+655,219544,Laschet sw -> Lichtenb.,50.716206,6.132792
+656,121876,Laurensberg Haus Linde lw,50.80496,6.060853
+657,378851,Laurensberg Haus Linde sw,50.8034,6.060738
+658,407072,Laurensberg Kirche lw,50.801514,6.051644
+659,43292,Laurensberg Kirche sw,50.801453,6.051634
+660,169087,Laurensberg Rahe Im Ring sw,50.803257,6.067149
+661,40538,Laurensberg Rahe sw (Wende),50.80106,6.067826
+662,172122,Laurensberg Rathaus lw,50.797825,6.060719
+663,249595,Laurensberg Rathaus sw,50.797997,6.059445
+664,416162,Laurensberg Schulzentrum (Parkplatz H3),50.804195,6.0498
+665,95356,Laurensberg Schulzentrum (Parkplatz H4),50.80402,6.049683
+666,455197,Laurensberg Schulzentrum lw,50.803734,6.047643
+667,177798,Laurensberg Schulzentrum sw,50.80467,6.04757
+668,106378,Laurensberg Viadukt lw,50.79459,6.056352
+669,77648,Laurensberg Viadukt sw,50.79468,6.056318
+670,179294,Laurensberg lw,50.796635,6.063604
+671,63258,Laurensberg sw,50.796997,6.063241
+672,451182,Laurentiusstraße lw,50.80281,6.054174
+673,367416,Laurentiusstraße sw,50.802593,6.053393
+674,422728,Lemiers (S),50.786915,5.998712
+675,165419,Lemiers Weiher lw,50.78952,5.996232
+676,166176,Lemiers Weiher sw,50.78949,5.99629
+677,315433,Lemiers sw,50.786983,5.998636
+678,277738,Lennéstraße sw,50.770184,6.059829
+679,453838,Lichtenbusch Broich lw,50.71529,6.12191
+680,359316,Lichtenbusch Broich sw,50.71546,6.12197
+681,73770,Lichtenbusch Kirche lw,50.711956,6.124239
+682,29698,Lichtenbusch Kirche sw,50.71174,6.124493
+683,90594,Lichtenbusch lw ( -> Laschet/Li.11),50.712917,6.123854
+684,158955,Lichtenbusch sw ( <- Broichh./Li.46),50.713062,6.12318
+685,22855,Lichtenbusch sw ( <- Laschet/Li.11),50.712967,6.123597
+686,335657,Lichtenbusch sw ( <- Laschet/Li.11),50.71285,6.123342
+687,422079,Lichtenbuscher Weg lw -> Raerener Straße,50.711216,6.126353
+688,117025,Lichtenbuscher Weg sw -> Monschauer Str,50.711143,6.126287
+689,26620,Liebigstraße,50.7894,6.11603
+690,320539,Liebigstraße,50.7887,6.11488
+691,457197,Liebigstraße lw,50.78937,6.116026
+692,398612,Liebigstraße sw,50.78866,6.114878
+693,338319,Lintert Friedhof sw,50.74742,6.125241
+694,313893,Lintert Schießstand lw,50.75111,6.129269
+695,314426,Lintert Schießstand sw,50.75105,6.129343
+696,110022,Lintert lw,50.746655,6.126196
+697,458316,Lintert sw,50.746647,6.126324
+698,96716,Linzenshäuschen lw,50.737114,6.090875
+699,251327,Linzenshäuschen sw,50.736588,6.090979
+700,310486,Lochnerstraße - PON,50.77271,6.072508
+701,298987,Lochnerstraße - SANZ,50.772484,6.072522
+702,51479,Locht Zollmuseum lw,50.84539,6.01995
+703,373245,Locht Zollmuseum sw,50.844822,6.021038
+704,226802,Lombardenstraße lw,50.784454,6.099089
+705,376737,Lombardenstraße sw,50.784515,6.098986
+706,203286,Ludwig Forum lw,50.781372,6.103195
+707,320173,Ludwig Forum sw,50.781452,6.103091
+708,243590,Luisenhospital - HBF,50.768387,6.077672
+709,209717,Luisenhospital - SANZ,50.768456,6.077313
+710,266276,Lukasstraße lw,50.79184,6.108196
+711,376572,Lukasstraße sw,50.791965,6.10816
+712,366079,Löwenstein-Kaserne lw,50.75196,6.106828
+713,420658,Löwenstein-Kaserne sw,50.752026,6.106951
+714,361085,Maria-Lipp-Straße lw,50.786385,6.043827
+715,52553,Maria-Lipp-Straße sw,50.786884,6.044349
+716,47907,Maria-Theresia-Allee sw,50.75567,6.07665
+717,149162,Marienhospital - Li.30 -> Haaren,50.76258,6.097719
+718,119581,Marienhospital lw,50.762573,6.096755
+719,335816,Marienhospital sw,50.76258,6.096968
+720,438145,Markt (Judengasse) lw,50.77554,6.081326
+721,283359,Markt (Judengasse) sw,50.77518,6.08105
+722,408787,Mataréstraße lw,50.77127,6.120161
+723,411988,Mataréstraße sw,50.77116,6.120083
+724,77161,Meisenweg lw,50.767563,6.137722
+725,291972,Meisenweg sw,50.76802,6.137623
+726,361468,Melatener Straße lw,50.77669,6.05881
+727,246456,Melatener Straße sw,50.77702,6.058761
+728,205037,Mies-van-der-Rohe-Straße lw,50.78054,6.068458
+729,167925,Mies-van-der-Rohe-Straße sw,50.780502,6.068418
+730,150777,Minoritenstraße lw,50.778496,6.08588
+731,268400,Minoritenstraße sw,50.77846,6.085272
+732,404028,Misereor - HBF,50.768555,6.083293
+733,180667,Misereor - SANZ,50.76874,6.082926
+734,421281,Misereor lw,50.76905,6.084198
+735,201477,Misereor sw,50.769135,6.084604
+736,459286,Montzener Straße sw,50.73795,6.042543
+737,369986,Muffet lw,50.774704,6.05746
+738,233630,Muffet sw,50.77478,6.057327
+739,434378,Mütschenpfuhl lw ( -> Schmith.),50.70122,6.170816
+740,401772,Mütschenpfuhl sw ( -> Walh.),50.701942,6.171155
+741,447664,Napoleonsberg (Eifelsteig) lw,50.730076,6.179253
+742,35946,Napoleonsberg (Eifelsteig) sw,50.72988,6.179378
+743,191858,Nerscheider Weg -> Pascalstraße,50.717373,6.149468
+744,6471,Nerscheider Weg -> SCHUMAG,50.717648,6.1505
+745,308344,Neu-Linzenshäuschen lw,50.74016,6.088673
+746,100826,Neu-Linzenshäuschen sw,50.739727,6.089551
+747,13532,Neuhaus lw,50.756073,6.132099
+748,219826,Neuhaus sw,50.75605,6.132185
+749,161076,Niederforstbach Bau lw,50.73407,6.164031
+750,444268,Niederforstbach Bau sw,50.7341,6.164185
+751,31036,Niederforstbach Pützgasse lw,50.736267,6.161191
+752,28237,Niederforstbach Pützgasse sw,50.736477,6.161291
+753,378591,Niederforstbach lw,50.741512,6.157811
+754,105797,Niederforstbach sw,50.74134,6.157907
+755,399582,Niersteiner Höfe lw,50.810333,6.044274
+756,327116,Niersteiner Höfe sw,50.810455,6.044167
+757,369229,Nirmer Platz lw,50.787613,6.154603
+758,237681,Nirmer Platz sw,50.787655,6.154402
+759,392164,Normaluhr H.1 (Kurbrunnenstraße),50.76806,6.09487
+760,90857,Normaluhr H.2 (Römerstraße),50.7685,6.094544
+761,240741,Normaluhr H.3 (Dunantstraße),50.76873,6.09409
+762,52856,Normaluhr H.4 (Theaterstraße),50.769997,6.093955
+763,75448,Normaluhr H.5 (Wilhelmstraße),50.769844,6.095397
+764,42769,Normaluhr H.6 (Zollernstraße),50.76895,6.096077
+765,256114,Nütheim Hundskaulweg sw,50.716064,6.164793
+766,409528,Nütheim lw,50.716732,6.165716
+767,358763,Nütheim sw,50.716953,6.165476
+768,430414,Oberforstbach Gewerbegebiet -> AC Li.36,50.711044,6.137952
+769,382275,Oberforstbach Gewerbegebiet -> AC Li.SB63,50.710552,6.138053
+770,46920,Oberforstbach Gewerbegebiet lw,50.711376,6.136883
+771,326673,Oberforstbach Pascalstraße -> Lichtenbusch,50.712147,6.140421
+772,363527,Oberforstbach Pascalstraße -> SCHUMAG,50.71247,6.14152
+773,5711,Oberforstbach Schule (Wendeschl.),50.722313,6.141955
+774,255746,Oberforstbach Schule lw ( -> OBFO),50.721832,6.141744
+775,114258,Oberforstbach Schule sw ( -> LICH),50.721893,6.141627
+776,44785,Oberforstbach lw ( -> Schleckh.),50.724243,6.145834
+777,185889,Oberforstbach sw ( -> Hitfeld),50.724392,6.146023
+778,344314,Ochsenstock lw,50.800396,6.010906
+779,178696,Ochsenstock sw,50.800377,6.011149
+780,68703,Orsbach Schule lw,50.797092,5.995802
+781,388201,Orsbach Schule sw,50.79705,5.995848
+782,141100,Otto-Blumenthal-Straße lw,50.780285,6.050568
+783,281630,Otto-Blumenthal-Straße sw,50.780437,6.050786
+784,97811,Pannhauser Straße lw,50.799023,6.054498
+785,345050,Pannhauser Straße sw,50.799057,6.054027
+786,400127,Paulusstraße lw,50.774097,6.078791
+787,232989,Paulusstraße sw,50.77406,6.078992
+788,408456,Pfalzgrafenstraße lw,50.81762,6.05212
+789,306240,Pfalzgrafenstraße sw,50.817856,6.051537
+790,168129,Pfeiferweg,50.69135,6.150211
+791,252006,Philipp-Neri-Weg (Reutershag) lw (Ri. VAGR),50.77062,6.038949
+792,193290,Philipp-Neri-Weg (Reutershag) sw (Ri. KLI),50.770786,6.039123
+793,291844,Philips lw,50.7745,6.130517
+794,399935,Philips sw,50.774048,6.130048
+795,457242,Pius-Gymnasium lw,50.75452,6.085797
+796,262291,Pongs lw,50.772564,6.128536
+797,298369,Pongs sw,50.77264,6.128773
+798,115839,Ponttor H.1 (Malteserstr.),50.78086,6.077972
+799,223866,Ponttor H.2 (Pontstr.),50.78122,6.078744
+800,417617,Ponttor H.3 (Malteserstr.-3/13),50.78114,6.077969
+801,381705,Ponttor H.4 (Pontwall),50.781574,6.077105
+802,405114,Ponttor H.5 (Saarstraße),50.78171,6.078231
+803,353637,Prager Ring -> EULE,50.792145,6.118622
+804,265726,Prager Ring lw,50.79223,6.119511
+805,192633,Prager Ring lw -> EW,50.79146,6.119204
+806,345377,Prager Ring sw,50.791553,6.118361
+807,418843,Preuswald,50.73934,6.043164
+808,254629,Preusweg lw (4),50.760918,6.065813
+809,32656,Preusweg lw (Endhst. 43),50.76095,6.067003
+810,131938,Preusweg lw (N7),50.76092,6.064849
+811,350167,Preusweg sw (4),50.76153,6.066682
+812,439649,Preusweg sw (43),50.76082,6.066883
+813,38256,Preusweg sw (N7) / lw (43),50.761086,6.065051
+814,231059,Pumpstation lw,50.733746,6.043856
+815,429650,Pumpstation sw,50.733696,6.043973
+816,272482,Purweider Weg lw,50.790688,6.085675
+817,102032,Purweider Weg sw,50.79057,6.085711
+818,66952,Püngelerstraße lw,50.76906,6.024721
+819,321216,Rabentalweg (Mensa Vita) lw,50.780216,6.047466
+820,166604,Rabentalweg (Mensa Vita) sw,50.78002,6.048272
+821,419134,Rasthaus Lichtenbusch lw,50.71727,6.121958
+822,389754,Rasthaus Lichtenbusch sw,50.717575,6.122634
+823,2138,Rathenauallee lw (Li.21),50.757366,6.097929
+824,324139,Rathenauallee sw (Li.21),50.757412,6.097869
+825,269800,Reimser Straße lw,50.739597,6.04723
+826,349546,Reimser Straße sw,50.73845,6.045956
+827,435517,Relais Königsberg sw,50.68304,6.180688
+828,427980,Reumontstraße lw,50.76579,6.08138
+829,295659,Reumontstraße sw,50.76605,6.08203
+830,160406,Reutershag lw,50.769863,6.039635
+831,376623,Reutershag sw,50.769737,6.039643
+832,168405,Rheingold lw,50.77708,6.171217
+833,343377,Rheingold sw,50.77711,6.171045
+834,219573,Richterich Berensberger Straße lw,50.80871,6.060717
+835,421101,Richterich Berensberger Straße sw,50.8088,6.060541
+836,334760,Richterich Grünenthal ALT sw/lw,50.81166,6.051272
+837,188831,Richterich Hubertuskapelle ALT lw,50.815357,6.055487
+838,444240,Richterich Hubertuskapelle ALT sw,50.815132,6.055492
+839,144877,Richterich Kirche ALT lw,50.815052,6.058351
+840,28094,Richterich Kirche ALT sw,50.815086,6.058704
+841,32386,Richterich Kirche lw,50.81503,6.058573
+842,294088,Richterich Kirche sw,50.814976,6.058506
+843,269049,Richterich Lütterbüschgen lw,50.81837,6.048779
+844,869,Richterich Lütterbüschgen sw,50.81852,6.0485
+845,296372,Richterich Parkstraße lw,50.8083,6.065285
+846,18618,Richterich Parkstraße sw,50.808674,6.063984
+847,120444,Richterich Rathaus lw,50.81101,6.060686
+848,183206,Richterich Rathaus sw,50.81174,6.060399
+849,104943,Richterich Roder Weg sw,50.817394,6.065326
+850,294357,Richterich Schönauer Friede -> Roder Weg,50.81658,6.06522
+851,384121,Richterich Schönauer Friede lw,50.816235,6.066392
+852,10443,Richterich Schönauer Friede sw,50.815956,6.065742
+853,203752,Richterich Siebweg -> Laurensb.,50.807713,6.073457
+854,326598,Richterich Siebweg -> Soers,50.807617,6.073548
+855,35042,Richterich Siedlung Schönau sw,50.810814,6.068705
+856,299570,Ritterstraße sw,50.7883,6.065134
+857,408000,Rolandstraße lw,50.78702,6.095992
+858,189556,Rolandstraße sw,50.78659,6.096331
+859,320773,Rollefbachweg (Jugendbildungsstätte) lw,50.739292,6.174942
+860,208550,Rollefbachweg (Jugendbildungsstätte) sw Li. 15,50.73913,6.17525
+861,208616,Rollefbachweg (Jugendbildungsstätte) sw Li. 35,50.73889,6.175165
+862,244630,Rollefer Berg lw,50.745274,6.165395
+863,61808,Rollefer Berg sw,50.74527,6.165594
+864,17974,Ronheide (Jugendherberge) lw (Ronheider Berg),50.750587,6.071805
+865,219311,Ronheide (Jugendherberge) sw (Brüsseler Ring),50.75099,6.071709
+866,316006,Ronheide (Jugendherberge) sw (Maria-Theresia-Allee),50.750996,6.072276
+867,406612,Ronheider Berg lw,50.74887,6.068495
+868,345295,Ronheider Berg sw,50.748806,6.068542
+869,127667,Ronheider Weg -> Li.30 Weißhausstr.,50.75766,6.084339
+870,400474,"Ronheider Weg lw -> 7er, Salierallee",50.757366,6.08518
+871,67935,"Ronheider Weg lw -> Li.14, Eupener Str.",50.757057,6.084774
+872,121347,Ronheider Weg sw,50.758167,6.085215
+873,387616,Rosenhügel lw,50.800648,6.061734
+874,232561,Rosenhügel sw,50.800255,6.061957
+875,208534,Rosenquelle lw,50.766544,6.095843
+876,250533,Rosenquelle sw,50.76628,6.097207
+877,191201,Rottstraße lw -> CONT,50.77754,6.128132
+878,300315,Rottstraße sw -> HÜLS,50.777363,6.127959
+879,59182,Rödgerbach lw,50.768833,6.142254
+880,458532,Rödgerbach sw,50.768833,6.142495
+881,98867,SCHUMAG -> Pascalstraße,50.71908,6.154352
+882,305415,SCHUMAG -> Schleckheim,50.719044,6.154553
+883,11038,STAWAG lw,50.783047,6.100055
+884,205191,STAWAG sw,50.78319,6.099962
+885,304817,Schagenstraße lw,50.74831,6.150792
+886,90766,Schagenstraße sw,50.74817,6.150163
+887,370566,Schanz - HBF (13) H2,50.76891,6.074491
+888,226545,Schanz - PON (13) H3,50.769215,6.074471
+889,439260,Schanz lw (4) H4,50.769424,6.07426
+890,332898,Schanz lw (5er) H6,50.770676,6.073302
+891,116967,Schanz sw (4) H1,50.76883,6.073942
+892,399209,Schanz sw (5er) H5,50.77073,6.074278
+893,225878,Scheibenstraße lw,50.774414,6.101512
+894,225857,Scheibenstraße sw,50.774494,6.10145
+895,90968,Schleckheim Aachener Straße lw,50.72034,6.158045
+896,149689,Schleckheim Aachener Straße sw,50.720425,6.158139
+897,273398,Schleckheim Kapelle lw ( -> Nüth.),50.720238,6.154863
+898,158857,Schleckheim Kapelle sw ( -> OBFO),50.720436,6.15383
+899,18826,Schleckheimer Straße lw,50.723618,6.165102
+900,247913,Schleckheimer Straße sw,50.72355,6.164907
+901,133924,Schloss-Rahe-Straße lw (-> Soers),50.800297,6.072146
+902,175475,Schloss-Rahe-Straße sw (-> L'berg),50.800434,6.071995
+903,360568,Schloss-Schönau-Straße lw,50.813507,6.062346
+904,199051,Schloss-Schönau-Straße sw,50.81366,6.062351
+905,448745,Schlossstraße lw,50.76938,6.101284
+906,56142,Schlossstraße sw,50.76959,6.101058
+907,139407,Schlossweiherstraße lw,50.800323,6.068568
+908,455867,Schlossweiherstraße sw,50.80038,6.068365
+909,411008,Schmiedgasse lw,50.76866,6.033867
+910,156255,Schmiedgasse sw,50.768806,6.034553
+911,194322,Schmithof Kirche lw ( -> Sief),50.693512,6.161877
+912,458675,Schmithof Kirche lw ( -> Sief),50.69343,6.161941
+913,218791,Schmithof Kirche sw ( -> Walh.),50.693222,6.162092
+914,345775,Schmithof Schule lw ( -> Sief),50.688633,6.168359
+915,381108,Schmithof Schule sw ( -> Walh.),50.688618,6.169889
+916,317095,Schmithofer Straße lw ( -> Sief),50.691216,6.159197
+917,337760,Schmithofer Straße sw ( -> SCSC),50.691578,6.159274
+918,347837,Schwalbenweg lw,50.766445,6.135024
+919,360649,Schwalbenweg sw,50.76643,6.134458
+920,123673,Schwester-Zita-Weg lw,50.793903,6.156932
+921,325463,Schwester-Zita-Weg sw,50.79356,6.157236
+922,46076,Schönauer Hang lw,50.811916,6.068196
+923,321005,Schönebergstraße lw,50.78893,6.140702
+924,387319,Schönebergstraße sw,50.788994,6.140442
+925,47162,Schönforst lw,50.7626,6.134522
+926,150096,Schönforst sw,50.762848,6.134308
+927,407101,Seffent -> L'berg,50.78868,6.039596
+928,169654,Seffent -> Lemiers,50.789265,6.040339
+929,138682,Seffenter Weg lw (Li.23),50.782,6.064408
+930,123216,Seffenter Weg sw (Li.23),50.78175,6.06431
+931,316781,Seffenter Weg sw (Li.3),50.781967,6.064367
+932,379312,Seffenter Weg sw (Li.S),50.78135,6.063739
+933,121566,Senserbachweg -> Lemiers,50.77959,6.015072
+934,445500,Senserbachweg -> Seffent,50.779503,6.015176
+935,69927,Sief Abzweigung lw,50.696102,6.133622
+936,161005,Sief Abzweigung sw,50.695984,6.133884
+937,424862,Sief Magelspfad,50.68628,6.147134
+938,137192,Sief Radermacher lw -> Walh. Li.46,50.692375,6.155035
+939,447202,Sief Radermacher sw -> Schule,50.69256,6.154797
+940,102956,Sief Radermacher sw -> Walh. Li.70,50.691734,6.155739
+941,131780,Sief Radermacher sw -> Walh. Li.70,50.691856,6.155964
+942,135830,Sief Schule -> Broichhausen,50.69468,6.146901
+943,59990,Sief Schule -> Broichhausen,50.69484,6.147266
+944,251864,Sief Schule -> Pfeiferweg,50.694466,6.147105
+945,209595,Sief Schule -> Radermacher,50.694878,6.14749
+946,223512,Sief Wilbank,50.68801,6.14659
+947,86109,Sittarder Straße sw,50.756382,6.139539
+948,425140,Soers Kloster lw,50.792328,6.084438
+949,200158,Soers Kloster sw,50.791977,6.084076
+950,385804,Soers Schule lw,50.80125,6.081526
+951,38693,Soers Schule sw,50.801285,6.081453
+952,222581,Soers lw,50.79789,6.083751
+953,410687,Soers sw,50.79794,6.083606
+954,362148,Soerser Au lw,50.78871,6.089488
+955,322494,Soerser Au sw,50.78911,6.089179
+956,74845,Soerser Winkel lw,50.792793,6.090057
+957,79756,Soerser Winkel sw,50.792763,6.089945
+958,357239,Sonnenweg lw,50.801193,6.095752
+959,120647,Sonnenweg sw,50.801155,6.095641
+960,74200,"Sportpark Soers H.10 (Krefelder lw, Li.51)",50.793854,6.100465
+961,209853,"Sportpark Soers H.5 (Krefelder sw, Li. 51)",50.79336,6.099474
+962,59209,Sportpark Soers H.9 (Albert-Servais),50.7945,6.099715
+963,3338,Sportplatz Rhenania ALT lw,50.81471,6.052366
+964,95966,Sportplatz Rhenania ALT sw,50.814754,6.052689
+965,1729,St. Severin lw,50.77991,6.151936
+966,290848,St. Severin sw,50.780064,6.151955
+967,441897,St. Vither Straße lw,50.75281,6.090157
+968,275396,St. Vither Straße sw,50.75293,6.090518
+969,233713,Staudenweg lw,50.762882,6.127655
+970,442560,Staudenweg sw,50.762676,6.12805
+971,382533,Steinbergweg -> Reutershag,50.774525,6.038319
+972,356046,Steinbergweg -> Uniklinik,50.77541,6.038434
+973,259236,Steppenberg lw,50.76968,6.042753
+974,45356,Steppenberg sw,50.769466,6.043859
+975,347045,Stollenweg lw,50.78226,6.155737
+976,1186,Stollenweg sw,50.7822,6.156465
+977,305699,Strangenhäuschen lw,50.80352,6.110157
+978,387978,Strangenhäuschen sw,50.80365,6.109937
+979,91786,Süsterau lw,50.789307,6.060856
+980,124490,Süsterau sw,50.7886,6.061341
+981,443350,Süsterfeld lw,50.784573,6.067212
+982,115252,Süsterfeld sw,50.784065,6.068024
+983,173481,Talbot,50.7846,6.10911
+984,278752,Talbot,50.7846,6.10932
+985,229331,Talbot lw,50.784573,6.109312
+986,407924,Talbot sw,50.784615,6.109111
+987,65277,Tannenallee lw ( -> OBFO),50.718414,6.138112
+988,65114,Tannenallee sw ( -> LICH),50.718075,6.13741
+989,31195,Technische Hochschule - PON,50.777466,6.078212
+990,359306,Technische Hochschule - SANZ,50.7773,6.077783
+991,83638,Teichwinkel lw,50.79544,6.063296
+992,221644,Teichwinkel sw,50.795433,6.063012
+993,139626,Tierpark lw,50.764145,6.116599
+994,172192,Tierpark sw,50.764202,6.116681
+995,314699,Tilsiter Straße lw,50.757507,6.141328
+996,112952,Tittardshang lw,50.80207,6.065392
+997,407502,Tittardshang sw,50.801926,6.06533
+998,415181,Tonbrennerstraße lw,50.79591,6.130128
+999,271184,Tonbrennerstraße sw,50.79588,6.130683
+1000,365655,"Trierer Platz lw -> Li.15,25...",50.760223,6.139872
+1001,383286,"Trierer Platz lw -> Li.5,45",50.76031,6.138746
+1002,108855,Trierer Platz sw,50.760944,6.13858
+1003,69206,Turmstraße - PON,50.77473,6.072411
+1004,260341,Turmstraße - SANZ,50.774776,6.072124
+1005,424211,Turmstraße lw,50.775208,6.071785
+1006,410270,Turmstraße sw,50.775135,6.071761
+1007,66826,Uersfeld lw,50.81992,6.07204
+1008,219791,Uersfeld sw,50.82045,6.072603
+1009,442779,Ungarnplatz (Carolus Thermen) lw,50.78193,6.098124
+1010,297252,Ungarnplatz (Carolus Thermen) sw,50.781784,6.097991
+1011,112866,Uniklinik H1,50.77564,6.04425
+1012,25281,Uniklinik H2,50.77558,6.044523
+1013,340124,Uniklinik H3,50.775635,6.043442
+1014,274374,Uniklinik H4,50.77555,6.043575
+1015,454038,Uniklinik H5,50.776028,6.041516
+1016,223566,Unterer Backertsweg (Maria im Tann) lw,50.73996,6.051956
+1017,261713,Unterer Backertsweg (Maria im Tann) sw,50.73963,6.051367
+1018,289828,Vaals Grenze lw (Püngelerstr.),50.77069,6.025596
+1019,55098,Vaals Grenze sw,50.77061,6.026595
+1020,412241,Vennbahn lw ( -> Sief),50.69084,6.164176
+1021,50183,Vennbahn sw ( -> Walh.),50.690765,6.164365
+1022,197225,Vennblick lw,50.74206,6.166468
+1023,109453,Vennblick sw,50.742004,6.166599
+1024,422800,Venskyhäuschen lw,50.768955,6.055991
+1025,103106,Venskyhäuschen sw,50.768787,6.056512
+1026,187181,Venwegener Straße lw,50.726852,6.188304
+1027,277578,Venwegener Straße sw,50.727566,6.187751
+1028,393565,Verlautenheide Endstraße lw -> AC Kr (Li.16),50.79725,6.154983
+1029,320313,Verlautenheide Endstraße lw -> Atsch (Li.1),50.796543,6.155338
+1030,173256,Verlautenheide Endstraße sw -> Haaren,50.79654,6.155083
+1031,234866,Verlautenheide Endstraße sw <- AC Kr (Li.1),50.797092,6.154978
+1032,411202,Verlautenheide Forsthaus lw,50.790997,6.175003
+1033,219068,Verlautenheide Forsthaus sw,50.791073,6.175084
+1034,380743,Verlautenheide Quinx lw,50.794777,6.164755
+1035,113383,Verlautenheide Quinx sw,50.795017,6.164187
+1036,101606,Verlautenheide Waldstraße (Großheidstr.),50.793907,6.161586
+1037,186730,Verlautenheide Waldstraße (Waldstr.),50.793747,6.160858
+1038,61117,Vetschau Bocholtzer Straße lw,50.814358,6.042699
+1039,87601,Vetschau Bocholtzer Straße sw,50.814266,6.042606
+1040,54339,Vetschau Schmiede lw,50.818375,6.040699
+1041,136956,Vetschau Schmiede sw,50.81837,6.040628
+1042,280423,Vetschau lw,50.81618,6.041902
+1043,195720,Vetschau sw,50.81623,6.0417
+1044,380370,Vetschauer Berg lw,50.80715,6.045866
+1045,52581,Vetschauer Berg sw,50.807026,6.04586
+1046,71525,Vetschauer Weg lw -> Bank,50.81746,6.056419
+1047,446746,Vetschauer Weg lw -> Horbach,50.81805,6.056992
+1048,370635,Vetschauer Weg sw -> Kirche,50.81732,6.057336
+1049,110969,Vetschauer Weg sw -> Vetschau,50.817734,6.057381
+1050,298240,Viktoriaallee lw (Li.33),50.77008,6.107738
+1051,383223,Viktoriaallee lw (Li.7),50.7703,6.108306
+1052,66873,Viktoriaallee sw,50.770393,6.107364
+1053,94561,Vinzenzplatz lw,50.75487,6.102082
+1054,235687,Vinzenzplatz sw,50.75473,6.102544
+1055,340925,Walheim -> Breinig,50.707558,6.182688
+1056,320351,Walheim -> K´münster,50.70778,6.183
+1057,172073,Walheim -> Nütheim,50.70748,6.181842
+1058,366411,Walheim -> Sief,50.706753,6.182226
+1059,408583,Walheim Freizeitgelände sw,50.704796,6.181337
+1060,397488,Walheim Friedhof lw,50.710217,6.175884
+1061,189315,Walheim Friedhof sw,50.71027,6.175867
+1062,245621,Walheim Hasbach lw (-> Schmith.),50.703945,6.169806
+1063,278016,Walheim Hasbach lw (-> Schmith.),50.70367,6.169776
+1064,134545,Walheim Hasbach sw (-> Walhm.),50.703945,6.169806
+1065,173765,Walheim Hasbach sw (-> Walhm.),50.703907,6.170243
+1066,211696,Walheim Hasbach sw (Hasbach),50.70429,6.169696
+1067,141900,Walheim Hochhausring lw,50.709484,6.177996
+1068,366971,Walheim Hochhausring sw,50.70973,6.177712
+1069,315517,Walheim Kirchberg,50.706463,6.177724
+1070,329178,Walheim Prämienstraße lw ( -> Schmith.),50.704838,6.177836
+1071,430530,Walheim Prämienstraße sw ( -> WALH),50.704773,6.177783
+1072,114812,Walheim Schmittchen lw,50.712605,6.18536
+1073,59214,Walheim Schmittchen sw,50.712143,6.185345
+1074,215625,Walhorner Straße lw,50.74021,6.04593
+1075,410108,Wallstraße lw,50.770893,6.091289
+1076,365987,Wallstraße sw,50.771164,6.090989
+1077,378515,Welkenrather Straße sw,50.772156,6.064443
+1078,12521,Wendlingweg lw,50.777313,6.050429
+1079,17812,Wendlingweg sw,50.777237,6.051314
+1080,426667,Westfriedhof lw,50.769257,6.049745
+1081,233791,Westfriedhof sw,50.769184,6.049097
+1082,378656,Wiesental lw,50.781803,6.106021
+1083,331607,Wiesental sw,50.782173,6.105771
+1084,314372,Wildbach lw,50.79346,6.066414
+1085,126749,Wildbach sw,50.793392,6.066305
+1086,136241,Wilfried-König-Straße lw,50.78279,6.04438
+1087,7550,Wilfried-König-Straße sw,50.783607,6.049607
+1088,244694,Wilhelm-Pitz-Weg lw -> SIEG,50.7616,6.100957
+1089,343816,Wilhelm-Pitz-Weg sw -> VOGE,50.761646,6.100628
+1090,261665,Willy-Brandt-Platz lw,50.775787,6.091326
+1091,362709,Willy-Brandt-Platz sw,50.775833,6.09243
+1092,221175,Wilmersdorfer Straße lw,50.786278,6.137132
+1093,277343,Wilmersdorfer Straße sw,50.786327,6.137044
+1094,179319,Worringer Weg lw,50.77591,6.047851
+1095,164152,Worringer Weg sw,50.775803,6.047914
+1096,168745,Yorckstraße lw,50.75694,6.07355
+1097,295350,Yorckstraße sw,50.757954,6.074281
+1098,450151,Zentis lw,50.763897,6.160695
+1099,377793,Zentis sw,50.763733,6.160223
+1100,21942,Zeppelinstraße lw -> 5er,50.767746,6.122846
+1101,336417,Zeppelinstraße lw -> Li.41,50.767895,6.121276
+1102,416589,Zeppelinstraße sw,50.76858,6.121419
+1103,231485,Zieglerstraße lw,50.76619,6.14738
+1104,159176,Zieglerstraße sw,50.765854,6.147996
+1105,169203,Zollhaus lw,50.800686,6.041675
+1106,120212,Zollhaus sw,50.80063,6.042218
+1107,393291,Zum alten Friedrich ALT lw,50.81092,6.049457
+1108,185589,Zum alten Friedrich ALT sw,50.810776,6.049723
+1109,31652,Zwanzigmorgen lw,50.763077,6.110794
+1110,423997,Zwanzigmorgen sw,50.763027,6.110938
+1111,120971,Zweiweiherweg lw,50.74337,6.086631
+1112,376695,Zweiweiherweg sw,50.7432,6.086599

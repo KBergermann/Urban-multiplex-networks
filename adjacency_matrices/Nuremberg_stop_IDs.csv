@@ -1,0 +1,1431 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,354323,Almoshof,49.490067,11.062313
+1,374514,Almoshof,49.490223,11.06198
+2,251526,Almoshof Schule,49.48865,11.066346
+3,309237,Almoshof Schule,49.48857,11.066337
+4,403535,Buch Nord,49.50347,11.044472
+5,69951,Buch Nord,49.502975,11.04458
+6,249736,Buch Seeweg,49.49189,11.040124
+7,451752,Buch Seeweg,49.49201,11.040142
+8,245706,Flughafen Nürnberg,49.49386,11.078931
+9,56627,Fürth Stadtgrenze,49.465183,11.012092
+10,119248,Fürth Süd,49.437542,10.995029
+11,125383,Fürth Süd,49.437504,10.995137
+12,270800,Fürth Süd,49.437214,10.994744
+13,349246,Fürth Süd,49.43755,10.99504
+14,389398,Fürth Süd,49.437355,10.993596
+15,40549,Fürth Süd,49.436996,10.994459
+16,427496,Fürth Süd,49.437294,10.993639
+17,145007,Höfles Ost,49.4904,11.03239
+18,231518,Höfles Ost,49.490685,11.033899
+19,325384,Höfles West,49.48891,11.030153
+20,354766,Höfles West,49.489,11.030063
+21,448361,"Katzwang Mitte,Almoshof",49.351357,11.056339
+22,293224,Nuremberg central bus station (Willy-Brandt-Platz),49.447716,11.0855
+23,102901,Nürnb. Langwasser Mitte,49.404118,11.132612
+24,131298,Nürnb. Langwasser Mitte,49.40443,11.132731
+25,139476,Nürnb. Langwasser Mitte,49.404785,11.131774
+26,147456,Nürnb. Langwasser Mitte,49.404438,11.13251
+27,23186,Nürnb. Langwasser Mitte,49.40408,11.132517
+28,47040,Nürnb. Langwasser Mitte,49.404434,11.131876
+29,5979,Nürnb. Langwasser Mitte,49.40443,11.132552
+30,60574,Nürnb. Langwasser Mitte,49.404648,11.132879
+31,8568,Nürnb. Langwasser Mitte,49.404568,11.132701
+32,248050,Nürnberg Akademie d.b.K.,49.44698,11.136132
+33,30659,Nürnberg Akademie d.b.K.,49.446747,11.136315
+34,263618,Nürnberg Akeleiweg,49.41909,11.061519
+35,436702,Nürnberg Aldringenstr.,49.37439,11.020798
+36,217337,Nürnberg Alemannenstr.,49.43154,11.067017
+37,230216,Nürnberg Alemannenstr.,49.43094,11.066918
+38,291942,Nürnberg Alemannenstr.,49.4316,11.067181
+39,359846,Nürnberg Alemannenstr.,49.431515,11.068244
+40,373010,Nürnberg Alemannenstr.,49.43154,11.066962
+41,241775,Nürnberg Almoshof,49.490227,11.061983
+42,290997,Nürnberg Almoshof,49.490067,11.062317
+43,351821,Nürnberg Almoshof Schule,49.48857,11.066334
+44,42665,Nürnberg Almoshof Schule,49.48865,11.066347
+45,373891,Nürnberg Alpenrosenweg,49.416332,11.059587
+46,346287,Nürnberg Alte Wallensteinstr.,49.434937,11.023785
+47,457006,Nürnberg Alte Wallensteinstr.,49.435143,11.023767
+48,207513,Nürnberg Altenfurter Straße,49.411068,11.170786
+49,288228,Nürnberg Altenfurter Straße,49.4109,11.171064
+50,413792,Nürnberg Altenfurter Straße,49.411186,11.171321
+51,326225,Nürnberg Altmühlweg,49.386566,11.037332
+52,391813,Nürnberg Altmühlweg,49.386562,11.037112
+53,458536,Nürnberg Am Bauernfeld,49.424183,11.192123
+54,81735,Nürnberg Am Bauernfeld,49.424503,11.192559
+55,230477,Nürnberg Am Bäumling,49.486965,11.075904
+56,26972,Nürnberg Am Bäumling,49.486954,11.075516
+57,368091,Nürnberg Am Bäumling,49.486965,11.075902
+58,438328,Nürnberg Am Bäumling,49.486954,11.075518
+59,127839,Nürnberg Am Hartgraben,49.417957,11.182481
+60,331425,Nürnberg Am Hartgraben,49.41727,11.181831
+61,441064,Nürnberg Am Kressenstein,49.51258,11.046766
+62,455077,Nürnberg Am Kressenstein,49.512413,11.047142
+63,160163,Nürnberg Am Ludwigskanal,49.412083,11.076674
+64,37137,Nürnberg Am Ludwigskanal,49.412025,11.076248
+65,237500,Nürnberg Am Rangierbahnhof,49.41982,11.083131
+66,309113,Nürnberg Am Rangierbahnhof,49.420174,11.083234
+67,3385,Nürnberg Am Rangierbahnhof,49.419655,11.082555
+68,68840,Nürnberg Am Rangierbahnhof,49.42024,11.083495
+69,436371,Nürnberg Am Schlag,49.4272,11.187304
+70,440479,Nürnberg Am Schlag,49.426067,11.186027
+71,286354,Nürnberg Am Steig,49.524597,11.00772
+72,320645,Nürnberg Am Steig,49.52476,11.008048
+73,375858,Nürnberg Am Steig,49.52476,11.008045
+74,85713,Nürnberg Am Steig,49.524597,11.007722
+75,205429,Nürnberg Am Tillypark,49.433865,11.034215
+76,39691,Nürnberg Am Tillypark,49.43376,11.033969
+77,108578,Nürnberg Am Wegfeld,49.49227,11.053565
+78,161709,Nürnberg Am Wegfeld,49.493145,11.054059
+79,172685,Nürnberg Am Wegfeld,49.492123,11.054134
+80,194702,Nürnberg Am Wegfeld,49.493145,11.054057
+81,202634,Nürnberg Am Wegfeld,49.49237,11.054018
+82,255084,Nürnberg Am Wegfeld,49.492405,11.053976
+83,315814,Nürnberg Am Wegfeld,49.49227,11.053565
+84,321308,Nürnberg Am Wegfeld,49.492367,11.053453
+85,344436,Nürnberg Am Wegfeld,49.492588,11.053932
+86,367468,Nürnberg Am Wegfeld,49.49199,11.053689
+87,417306,Nürnberg Am Wegfeld,49.49252,11.05345
+88,6860,Nürnberg Am Wegfeld,49.49237,11.054012
+89,99353,Nürnberg Am Wegfeld,49.492523,11.054029
+90,242768,Nürnberg Am Weiher,49.51816,11.024975
+91,426124,Nürnberg Am Weiher,49.518295,11.025069
+92,404638,Nürnberg Am Zollhaus,49.39359,11.127773
+93,54619,Nürnberg Am Zollhaus,49.393764,11.127863
+94,25293,Nürnberg An der Bergleite,49.353237,11.060721
+95,82519,Nürnberg An der Bergleite,49.353123,11.060806
+96,231493,Nürnberg An der Marterlach,49.418945,11.058407
+97,350471,Nürnberg Annette-Kolb-Str.,49.412216,11.133669
+98,418454,Nürnberg Annette-Kolb-Str.,49.41188,11.133385
+99,336876,Nürnberg Anzengruberstr.,49.41883,11.185251
+100,52288,Nürnberg Anzengruberstr.,49.41875,11.18652
+101,263072,Nürnberg Appelstr.,49.365868,11.048323
+102,343636,Nürnberg Appelstr.,49.36545,11.048841
+103,344981,Nürnberg Arminiusstr.,49.451565,11.108013
+104,432724,Nürnberg Arminiusstr.,49.451595,11.108357
+105,288617,Nürnberg Arno-Hamburger-Str.,49.4747,11.102004
+106,81997,Nürnberg Arno-Hamburger-Str.,49.474556,11.100972
+107,163266,Nürnberg Auf der Schanz,49.374935,11.021599
+108,141607,Nürnberg Aufseßplatz,49.440285,11.080791
+109,153490,Nürnberg Aufseßplatz,49.440304,11.081163
+110,171819,Nürnberg Aufseßplatz,49.440746,11.080328
+111,244399,Nürnberg Aufseßplatz,49.440727,11.080204
+112,432698,Nürnberg August-Meier-Heim,49.430363,11.136079
+113,64550,Nürnberg August-Meier-Heim,49.430233,11.135902
+114,327371,Nürnberg Ayrerstr.,49.439335,11.127483
+115,49517,Nürnberg Ayrerstr.,49.439762,11.126924
+116,301083,Nürnberg Balthas.-Neumann-Str.,49.456425,11.133194
+117,30121,Nürnberg Balthas.-Neumann-Str.,49.45647,11.133276
+118,428608,Nürnberg Balthas.-Neumann-Str.,49.45651,11.133413
+119,431764,Nürnberg Balthas.-Neumann-Str.,49.456497,11.133316
+120,103966,Nürnberg Bamberger Str.,49.484615,11.058833
+121,125912,Nürnberg Bamberger Str.,49.483826,11.059013
+122,219529,Nürnberg Bamberger Str.,49.4842,11.059751
+123,37402,Nürnberg Bamberger Str.,49.484608,11.058695
+124,53509,Nürnberg Bamberger Str.,49.484142,11.057945
+125,332360,Nürnberg Baststraße,49.498577,11.044097
+126,45471,Nürnberg Baststraße,49.49834,11.043922
+127,161097,Nürnberg Bauernfeindstr.,49.417564,11.10878
+128,334050,Nürnberg Bauernfeindstr.,49.417534,11.108243
+129,34600,Nürnberg Bauernfeindstr.,49.417217,11.107794
+130,376643,Nürnberg Bauernfeindstr.,49.417004,11.108074
+131,241041,Nürnberg Bauernfeindstraße,49.417946,11.1081
+132,243236,Nürnberg Bauernfeindstraße,49.417538,11.108243
+133,156913,Nürnberg Bauvereinstr.,49.454414,11.098375
+134,282342,Nürnberg Bauvereinstr.,49.454693,11.098163
+135,236453,Nürnberg Bayernlinie,49.38306,11.105617
+136,370460,Nürnberg Bayernlinie,49.38304,11.105906
+137,139165,Nürnberg Bayernstr.,49.43174,11.103326
+138,169961,Nürnberg Bayernstr.,49.4313,11.103568
+139,430579,Nürnberg Bayernstr.,49.431564,11.102557
+140,445114,Nürnberg Bayernstr.,49.430874,11.102928
+141,148713,Nürnberg Ben-Gurion-Ring,49.440414,11.119714
+142,373109,Nürnberg Ben-Gurion-Ring,49.44051,11.120182
+143,110996,Nürnberg Bennostr.,49.477917,11.116876
+144,234497,Nürnberg Bennostr.,49.47787,11.116698
+145,191929,Nürnberg Berufsförderungswerk,49.476067,11.046743
+146,287629,Nürnberg Berufsförderungswerk,49.47623,11.047402
+147,183076,Nürnberg Bessemerstr.,49.47486,11.104113
+148,320849,Nürnberg Bessemerstr.,49.474182,11.103504
+149,13697,Nürnberg Bestelmeyerstr.,49.445145,11.107922
+150,367191,Nürnberg Bestelmeyerstr.,49.44549,11.107364
+151,336025,Nürnberg Beuthener Str.,49.4268,11.132213
+152,33666,Nürnberg Beuthener Str.,49.42681,11.132833
+153,151440,Nürnberg Bibertstr.,49.429237,11.005122
+154,66405,Nürnberg Bibertstr.,49.429005,11.005154
+155,174024,Nürnberg Bienweg,49.464527,11.047477
+156,28844,Nürnberg Bienweg,49.464855,11.046919
+157,114806,Nürnberg Bingstr.,49.44525,11.128674
+158,403494,Nürnberg Bingstr.,49.444775,11.127676
+159,410233,Nürnberg Bingstr.,49.44556,11.128255
+160,340107,Nürnberg Binzenweg,49.518707,11.046108
+161,358030,Nürnberg Binzenweg,49.51849,11.045933
+162,146602,Nürnberg Bismarckschule,49.46448,11.102743
+163,6864,Nürnberg Bismarckschule,49.463837,11.103182
+164,198627,Nürnberg Bochumer Str.,49.394882,11.051166
+165,444560,Nürnberg Bochumer Str.,49.394653,11.050895
+166,132452,Nürnberg Boxbergweg,49.514893,11.014848
+167,454697,Nürnberg Boxbergweg,49.515175,11.015436
+168,188218,Nürnberg Boxdorf,49.51444,11.033735
+169,348636,Nürnberg Boxdorf,49.51446,11.032119
+170,359484,Nürnberg Boxdorf,49.515255,11.033234
+171,382414,Nürnberg Boxdorf,49.51421,11.032759
+172,388072,Nürnberg Boxdorf,49.515255,11.033236
+173,421081,Nürnberg Boxdorf,49.51444,11.033737
+174,443528,Nürnberg Boxdorf,49.51446,11.032119
+175,60120,Nürnberg Boxdorf,49.51421,11.032759
+176,222478,Nürnberg Boxdorf Nord,49.52347,11.032794
+177,372362,Nürnberg Boxdorf Nord,49.52337,11.032703
+178,425470,Nürnberg Boxdorf Nord,49.522972,11.032642
+179,446723,Nürnberg Boxdorf Nord,49.522945,11.032551
+180,289830,Nürnberg Brandstr.,49.466667,11.161529
+181,292033,Nürnberg Brandstr.,49.466236,11.162861
+182,191905,Nürnberg Brehmstr.,49.435337,11.068117
+183,192784,Nürnberg Brehmstr.,49.43517,11.067251
+184,368740,Nürnberg Brehmstr.,49.43477,11.068086
+185,81568,Nürnberg Brehmstr.,49.435127,11.06768
+186,208907,Nürnberg Bremer Str.,49.40567,11.063042
+187,76257,Nürnberg Bremer Str.,49.405807,11.062571
+188,328287,Nürnberg Bremer Str. Wende,49.394016,11.059972
+189,133228,Nürnberg Brettergartenstr.,49.467762,11.034529
+190,244551,Nürnberg Brettergartenstr.,49.4676,11.034435
+191,10440,Nürnberg Brieger Str.,49.414772,11.147309
+192,422158,Nürnberg Brieger Str.,49.414658,11.147435
+193,411548,Nürnberg Brunn Mitte,49.435905,11.251617
+194,49197,Nürnberg Brunn Mitte,49.43603,11.251725
+195,24349,Nürnberg Brunn Ost,49.435356,11.255651
+196,396894,Nürnberg Brunn Ost,49.43536,11.255182
+197,45791,Nürnberg Brunn Schleife,49.434883,11.258898
+198,223956,Nürnberg Buch Mitte,49.49683,11.045153
+199,383448,Nürnberg Buch Mitte,49.496803,11.045319
+200,197092,Nürnberg Buch Nord,49.50255,11.044793
+201,265114,Nürnberg Buch Nord,49.503117,11.045141
+202,298914,Nürnberg Buch Nord,49.503002,11.04466
+203,326762,Nürnberg Buch Nord,49.503002,11.04466
+204,39723,Nürnberg Buch Nord,49.50347,11.044471
+205,97620,Nürnberg Buch Nord,49.50347,11.044471
+206,139736,Nürnberg Buch Süd,49.49626,11.047014
+207,429382,Nürnberg Buch Süd,49.49658,11.046179
+208,148003,Nürnberg Buchenbühler Weg,49.49292,11.109512
+209,167955,Nürnberg Bucher Str./Nordring,49.46902,11.068237
+210,337733,Nürnberg Bucher Str./Nordring,49.46937,11.06721
+211,81030,Nürnberg Bucher Str./Nordring,49.469284,11.068701
+212,97545,Nürnberg Bucher Str./Nordring,49.46901,11.068168
+213,352600,Nürnberg Burgerstr.,49.44618,11.105311
+214,442204,Nürnberg Burgerstr.,49.446358,11.105294
+215,455218,Nürnberg Burgstr.,49.45576,11.077564
+216,584,Nürnberg Burgstr.,49.45565,11.07758
+217,346779,Nürnberg Burkhardtstr.,49.378624,11.074532
+218,148876,Nürnberg Business Tower,49.4556,11.117967
+219,33554,Nürnberg Business Tower,49.456062,11.118469
+220,377433,Nürnberg Business Tower,49.45553,11.118037
+221,381342,Nürnberg Business Tower,49.455395,11.118508
+222,156271,Nürnberg Bärenbühlgraben,49.42636,11.193314
+223,30633,Nürnberg Bärenbühlgraben,49.425907,11.193101
+224,396427,Nürnberg Bärenschanze,49.452698,11.050134
+225,83840,Nürnberg Bärenschanze,49.45275,11.050229
+226,281557,Nürnberg Cadolzburger Str.,49.43456,10.997721
+227,326338,Nürnberg Cadolzburger Str.,49.43465,10.99787
+228,110392,Nürnberg Cargo-Zentrum,49.492886,11.083106
+229,226515,Nürnberg Cargo-Zentrum,49.49229,11.083048
+230,280914,Nürnberg Carl-von-Linde-Str.,49.467594,11.102714
+231,318073,Nürnberg Carl-von-Linde-Str.,49.468136,11.102966
+232,108956,Nürnberg Castellstr.,49.405647,11.035154
+233,62296,Nürnberg Castellstr.,49.405132,11.034985
+234,436277,Nürnberg Celtisplatz,49.443333,11.080955
+235,71016,Nürnberg Celtisplatz,49.443317,11.080955
+236,215065,Nürnberg Charkovstr.,49.420254,11.039899
+237,266440,Nürnberg Charkovstr.,49.42011,11.039888
+238,311179,Nürnberg Christuskirche,49.43945,11.075264
+239,337273,Nürnberg Christuskirche,49.439484,11.074877
+240,1298,Nürnberg Clarsbacher Str.,49.441093,11.015196
+241,261398,Nürnberg Clarsbacher Str.,49.44124,11.015193
+242,374319,Nürnberg Clarsbacher Str.,49.44124,11.015193
+243,451584,Nürnberg Clarsbacher Str.,49.441093,11.015196
+244,269889,Nürnberg Cramergasse,49.446144,11.101188
+245,95312,Nürnberg Cramergasse,49.44605,11.101424
+246,245032,Nürnberg Cuxhavener Str.,49.477287,11.062326
+247,434504,Nürnberg Cuxhavener Str.,49.47728,11.062299
+248,367581,Nürnberg Deichslerstr.,49.459614,11.100845
+249,72842,Nürnberg Deichslerstr.,49.459656,11.102031
+250,269625,Nürnberg Deutschherrnstr.,49.454254,11.057
+251,329952,Nürnberg Deutschherrnstr.,49.45423,11.057276
+252,116030,Nürnberg Dianaplatz,49.427956,11.066078
+253,146109,Nürnberg Dianaplatz,49.42831,11.065534
+254,198119,Nürnberg Dianaplatz,49.42813,11.064628
+255,292765,Nürnberg Dianaplatz,49.427746,11.065476
+256,60585,Nürnberg Dianaplatz,49.428257,11.065618
+257,75254,Nürnberg Dianaplatz,49.428276,11.065452
+258,155636,Nürnberg Diebacher Straße,49.438206,11.001259
+259,340540,Nürnberg Diebacher Straße,49.438507,11.001173
+260,425193,Nürnberg Diebacher Straße,49.4382,11.001254
+261,5632,Nürnberg Diebacher Straße,49.438427,11.000855
+262,16287,Nürnberg Dieselstr.,49.430935,11.040021
+263,317481,Nürnberg Dieselstr.,49.43008,11.041306
+264,100945,Nürnberg Doku-Zentrum,49.43392,11.111159
+265,17533,Nürnberg Doku-Zentrum,49.433376,11.109169
+266,300412,Nürnberg Doku-Zentrum,49.433933,11.111669
+267,370499,Nürnberg Doku-Zentrum,49.433876,11.111215
+268,228312,Nürnberg Doku-Zentrum Nord,49.435055,11.112393
+269,129087,Nürnberg Donaustr.,49.410816,11.054842
+270,411544,Nürnberg Donaustr.,49.410873,11.055378
+271,124443,Nürnberg Dorffeldstr.,49.485924,11.07283
+272,228239,Nürnberg Dorffeldstr.,49.485966,11.072484
+273,320702,Nürnberg Dorfäckerstr.,49.467907,11.038941
+274,220918,Nürnberg Dortmunder Str.,49.46718,11.049523
+275,236076,Nürnberg Dortmunder Str.,49.467426,11.049091
+276,394391,Nürnberg Dr. Erler Kliniken,49.45316,11.067379
+277,102217,Nürnberg Dr.-Luppe-Platz,49.43614,11.063979
+278,311401,Nürnberg Dr.-Luppe-Platz,49.436222,11.064171
+279,262448,Nürnberg Dr.C-Schmid-Str.,49.462948,11.120567
+280,436128,Nürnberg Dr.C-Schmid-Str.,49.462868,11.120623
+281,51177,Nürnberg Drahtzieherstr.,49.377144,11.022258
+282,89140,Nürnberg Drahtzieherstr.,49.37768,11.021985
+283,252771,Nürnberg Dresdener Str.,49.47184,11.116034
+284,261950,Nürnberg Dresdener Str.,49.472412,11.116865
+285,433362,Nürnberg Dresdener Str.,49.471973,11.116914
+286,162831,Nürnberg Duisburger Str.,49.403633,11.053671
+287,376772,Nürnberg Duisburger Str.,49.403343,11.053442
+288,24989,Nürnberg Dunantstr.,49.43879,11.035373
+289,138493,Nürnberg Dutzendteich,49.435715,11.116035
+290,358150,Nürnberg Dutzendteich,49.435642,11.116381
+291,393632,Nürnberg Dutzendteich,49.435745,11.115869
+292,5778,Nürnberg Dutzendteich,49.435623,11.115898
+293,334628,Nürnberg Dutzendteich Bf,49.43773,11.117419
+294,342460,Nürnberg Dutzendteich Bf,49.43819,11.118127
+295,444687,Nürnberg Dutzendteich Bf,49.437614,11.117848
+296,249030,Nürnberg Dürrenhof,49.448692,11.096825
+297,291711,Nürnberg Dürrenhof,49.448185,11.097358
+298,324657,Nürnberg Dürrenhof,49.44831,11.097659
+299,415590,Nürnberg Dürrenhof,49.44871,11.096797
+300,354981,Nürnberg Eberhardshof,49.45804,11.033699
+301,414265,Nürnberg Eberhardshof,49.458126,11.033739
+302,459061,Nürnberg Eckenstr.,49.448696,11.125731
+303,75643,Nürnberg Eckenstr.,49.448677,11.126379
+304,135108,Nürnberg Edisonstr.,49.433704,11.022954
+305,194869,Nürnberg Edisonstr.,49.433903,11.022937
+306,21793,Nürnberg Egidienplatz,49.45577,11.082047
+307,325575,Nürnberg Egidienplatz,49.455853,11.081231
+308,15507,Nürnberg Eibach Bahnhof,49.409946,11.047389
+309,23442,Nürnberg Eibach Bf / Hafenstr.,49.408398,11.04837
+310,31203,Nürnberg Eibach Bf / Hafenstr.,49.408127,11.046681
+311,35734,Nürnberg Eibach Mitte,49.40246,11.035644
+312,438941,Nürnberg Eibach Mitte,49.40262,11.035351
+313,275950,Nürnberg Eichstätter Platz,49.3829,11.037486
+314,280590,Nürnberg Einsteinring,49.39151,11.033764
+315,68808,Nürnberg Einsteinring,49.391464,11.033985
+316,68276,Nürnberg Ellingstr.,49.416904,11.036491
+317,74679,Nürnberg Ellingstr.,49.41648,11.036251
+318,289126,Nürnberg Erich-Ollenhauer-Str.,49.516422,11.025576
+319,56258,Nürnberg Erich-Ollenhauer-Str.,49.51648,11.024884
+320,10000,Nürnberg Erich-Ollenhauer-Straße,49.51622,11.025
+321,336033,Nürnberg Erich-Ollenhauer-Straße,49.516422,11.025576
+322,272786,Nürnberg Erlenstegen,49.472473,11.137205
+323,336035,Nürnberg Erlenstegen,49.472424,11.137268
+324,41163,Nürnberg Erlenstegen,49.47232,11.13679
+325,294370,Nürnberg Ernst-Heinkel-Weg,49.484253,11.096903
+326,72214,Nürnberg Ernst-Heinkel-Weg,49.484188,11.096628
+327,355245,Nürnberg Falkenheim,49.40001,11.086393
+328,430041,Nürnberg Falkenheim,49.399506,11.086071
+329,295563,Nürnberg Fallrohrstr.,49.449394,11.129883
+330,96877,Nürnberg Fallrohrstr.,49.449062,11.130124
+331,109978,Nürnberg Feuchtwanger Str.,49.42335,11.027584
+332,441616,Nürnberg Feuchtwanger Str.,49.42369,11.027316
+333,111298,Nürnberg Finkenbrunn,49.41427,11.079334
+334,137412,Nürnberg Finkenbrunn,49.415424,11.079891
+335,147779,Nürnberg Finkenbrunn,49.414246,11.079513
+336,256311,Nürnberg Finkenbrunn,49.414246,11.079651
+337,429233,Nürnberg Finkenbrunn,49.41523,11.078875
+338,441097,Nürnberg Finkenbrunn,49.414318,11.078685
+339,98252,Nürnberg Finkenbrunn,49.414005,11.078829
+340,450942,Nürnberg Fischbach Bf,49.413437,11.175211
+341,452215,Nürnberg Fischbach Bf,49.41348,11.174907
+342,279627,Nürnberg Fischbach Bf Wende,49.41404,11.174016
+343,51142,Nürnberg Flachslander Str.,49.444332,11.012359
+344,125764,Nürnberg Flachsröste,49.426586,11.181925
+345,259857,Nürnberg Flataustr.,49.47719,11.105216
+346,364775,Nürnberg Flataustr.,49.47784,11.105728
+347,37737,Nürnberg Flataustr.,49.47732,11.10622
+348,459069,Nürnberg Fliegerstr.,49.43877,11.113691
+349,84111,Nürnberg Fliegerstr.,49.43877,11.113815
+350,223923,Nürnberg Flughafen,49.493877,11.079071
+351,296496,Nürnberg Flughafen,49.494064,11.077839
+352,392221,Nürnberg Flughafen,49.493793,11.079749
+353,71551,Nürnberg Flughafen,49.49386,11.078933
+354,185895,Nürnberg Flughafenstr.,49.485172,11.082312
+355,199900,Nürnberg Flughafenstr.,49.485928,11.082132
+356,372299,Nürnberg Flughafenstraße,49.485928,11.082129
+357,93687,Nürnberg Flughafenstraße,49.485554,11.081725
+358,455274,Nürnberg Forchheimer Str.,49.472576,11.053323
+359,411586,Nürnberg Fr.-Ebert-Platz West,49.462444,11.071204
+360,109214,Nürnberg Frankenstadion,49.428947,11.129735
+361,48623,Nürnberg Frankenstadion,49.428577,11.131051
+362,158360,Nürnberg Frankenstr.,49.429115,11.08628
+363,17832,Nürnberg Frankenstr.,49.42961,11.087566
+364,191513,Nürnberg Frankenstr.,49.42932,11.086345
+365,198121,Nürnberg Frankenstr.,49.42872,11.086191
+366,216401,Nürnberg Frankenstr.,49.42855,11.086263
+367,219085,Nürnberg Frankenstr.,49.42957,11.086726
+368,339384,Nürnberg Frankenstr.,49.429363,11.086799
+369,430951,Nürnberg Frankenstr.,49.42912,11.086955
+370,450247,Nürnberg Frankenstr.,49.42959,11.087153
+371,312242,Nürnberg Frauentaler Weg,49.46889,11.030878
+372,39899,Nürnberg Frauentaler Weg,49.468987,11.031138
+373,171935,Nürnberg Freilandsiedlung,49.469376,11.180826
+374,62688,Nürnberg Freilandsiedlung,49.469242,11.180856
+375,315684,Nürnberg Freystädter Str.,49.411236,11.166621
+376,355177,Nürnberg Freystädter Str.,49.41093,11.166613
+377,192657,Nürnberg Friedenstr.,49.466286,11.088555
+378,333872,Nürnberg Friedenstr.,49.46608,11.088449
+379,358357,Nürnberg Friedenstr.,49.465942,11.088286
+380,63653,Nürnberg Friedenstr.,49.46621,11.088846
+381,138965,Nürnberg Friedrich-Ebert-Pl.,49.462784,11.071114
+382,156665,Nürnberg Friedrich-Ebert-Pl.,49.46215,11.071706
+383,157439,Nürnberg Friedrich-Ebert-Pl.,49.462376,11.07166
+384,297567,Nürnberg Friedrich-Ebert-Pl.,49.462482,11.071686
+385,69343,Nürnberg Friedrich-Ebert-Pl.,49.46223,11.071704
+386,415888,Nürnberg Frühlingstr.,49.44886,11.036375
+387,422203,Nürnberg Frühlingstr.,49.448753,11.036529
+388,193619,Nürnberg Furtenbachstr.,49.38171,11.030761
+389,213421,Nürnberg Furtenbachstr.,49.3815,11.030476
+390,318162,Nürnberg Furtenbachstr.,49.38156,11.030282
+391,138375,Nürnberg Föhrenbuck,49.390827,11.081549
+392,245551,Nürnberg Föhrenbuck,49.39088,11.081217
+393,384342,Nürnberg Fürth Süd,49.437576,10.994975
+394,6844,Nürnberg Fürth Süd,49.437286,10.993663
+395,377961,Nürnberg G.Ledebour/Gleiw.Str.,49.404537,11.15443
+396,66788,Nürnberg G.Ledebour/Gleiw.Str.,49.404285,11.154421
+397,18584,Nürnberg G.Ledebour/Liegn.Str.,49.40061,11.150998
+398,273271,Nürnberg G.Ledebour/Liegn.Str.,49.400608,11.150544
+399,237636,Nürnberg GNF-Am Tower,49.389103,11.177354
+400,197814,Nürnberg Gaulnhofen,49.36498,11.076027
+401,372670,Nürnberg Gaulnhofen,49.365562,11.07581
+402,237329,Nürnberg Geisseestr.,49.434795,11.038264
+403,277103,Nürnberg Geisseestr.,49.43438,11.03801
+404,328577,Nürnberg Geisseestr.,49.434345,11.038424
+405,457320,Nürnberg Geisseestr.,49.43424,11.038413
+406,242761,Nürnberg Geisseestr. Mitte,49.434975,11.042645
+407,394835,Nürnberg Geisseestr. Mitte,49.434975,11.042645
+408,294220,Nürnberg Gemeinschaftshaus,49.40151,11.135965
+409,399272,Nürnberg Gemeinschaftshaus,49.40151,11.135965
+410,400712,Nürnberg Georg-Ledebour-Schule,49.400906,11.150718
+411,123308,Nürnberg Geraer Str.,49.420036,11.036829
+412,452851,Nürnberg Geraer Str.,49.420235,11.03677
+413,118164,Nürnberg Gibitzenhof,49.425392,11.064983
+414,213126,Nürnberg Gibitzenhof,49.42494,11.065474
+415,220828,Nürnberg Gibitzenhof,49.425735,11.064811
+416,448718,Nürnberg Gibitzenhof,49.425137,11.065594
+417,10185,Nürnberg Glafeystr.,49.42529,11.008069
+418,328478,Nürnberg Glafeystr.,49.425743,11.00777
+419,127309,Nürnberg Glasgowstr.,49.416794,11.041413
+420,49744,Nürnberg Glasgowstr.,49.41691,11.041273
+421,115454,Nürnberg Gleiw./Liegnitz.Str.,49.402958,11.156056
+422,224652,Nürnberg Gleiw./Liegnitz.Str.,49.403072,11.155654
+423,319947,Nürnberg Gleiw./Liegnitz.Str.,49.403103,11.156108
+424,378840,Nürnberg Gleiw./Liegnitz.Str.,49.403248,11.156078
+425,123178,Nürnberg Gleißhammer Bf,49.444443,11.112499
+426,344831,Nürnberg Gleißhammer Bf,49.444267,11.112778
+427,205923,Nürnberg Gleißhammerstr.,49.452312,11.122163
+428,257554,Nürnberg Gleißhammerstr.,49.452396,11.121514
+429,140929,Nürnberg Goldhammer,49.463223,11.127087
+430,215238,Nürnberg Goldhammer,49.463387,11.126284
+431,351166,Nürnberg Goldhammer,49.46313,11.127061
+432,164794,Nürnberg Gostenhof,49.450348,11.057309
+433,318009,Nürnberg Gostenhof,49.450428,11.057349
+434,234304,Nürnberg Gostenhof Ost,49.449833,11.058423
+435,29709,Nürnberg Gostenhof Ost,49.450283,11.058345
+436,159294,Nürnberg Gostenhof West,49.450935,11.055574
+437,411693,Nürnberg Gostenhof West,49.451115,11.055736
+438,11636,Nürnberg Greuth,49.34585,11.078092
+439,369634,Nürnberg Greuth,49.345715,11.077833
+440,351861,Nürnberg Groß-Strehlitz. Str.,49.40856,11.13806
+441,353875,Nürnberg Groß-Strehlitz. Str.,49.40865,11.137907
+442,362675,Nürnberg Großgründl. Hauptstr.,49.529022,11.011014
+443,263450,Nürnberg Großgründlach Hauptstraße,49.529022,11.010965
+444,83468,Nürnberg Großgründlach Hauptstraße,49.529022,11.011014
+445,22511,Nürnberg Großgründlach Mitte,49.5272,11.011234
+446,299794,Nürnberg Großgründlach Mitte,49.5272,11.011231
+447,379964,Nürnberg Großgründlach Mitte,49.5272,11.011231
+448,402173,Nürnberg Großgründlach Mitte,49.527103,11.011001
+449,435731,Nürnberg Großgründlach Mitte,49.527107,11.010998
+450,455113,Nürnberg Großgründlach Mitte,49.527107,11.010998
+451,218272,Nürnberg Großgründlach Nord,49.53137,11.018385
+452,332142,Nürnberg Großgründlach Nord,49.531082,11.018612
+453,402584,Nürnberg Großgründlach Nord,49.531082,11.018612
+454,65493,Nürnberg Großgründlach Nord,49.531082,11.01861
+455,83400,Nürnberg Großgründlach Nord,49.53137,11.018385
+456,22156,Nürnberg Großgründlach Schule,49.530403,11.013795
+457,240361,Nürnberg Großgründlach Schule,49.530403,11.013791
+458,77119,Nürnberg Großgründlach Schule,49.530403,11.013791
+459,159479,Nürnberg Großkraftwerk,49.42273,11.013661
+460,53276,Nürnberg Großkraftwerk,49.422703,11.013552
+461,362795,Nürnberg Großmarkt,49.452965,11.02282
+462,407080,Nürnberg Großmarkt,49.453384,11.021557
+463,212799,Nürnberg Großreuth b. Schweinau,49.439266,11.024705
+464,79926,Nürnberg Großreuth b. Schweinau,49.439323,11.02367
+465,300968,Nürnberg Großreuth h. d. V.,49.473385,11.089196
+466,450751,Nürnberg Großreuth h. d. V.,49.473557,11.089304
+467,133962,Nürnberg Großweidenmühlstr.,49.457115,11.059166
+468,253554,Nürnberg Großweidenmühlstr.,49.4575,11.059062
+469,104731,Nürnberg Grünreuther Str.,49.46627,11.157673
+470,406895,Nürnberg Grünreuther Str.,49.466267,11.158446
+471,158588,Nürnberg Gustav-Adolf-Str.,49.438904,11.037025
+472,259209,Nürnberg Gustav-Adolf-Str.,49.438915,11.036322
+473,320954,Nürnberg Gustav-Adolf-Str.,49.438713,11.036671
+474,334432,Nürnberg Gustav-Adolf-Str.,49.439278,11.037528
+475,351297,Nürnberg Gustav-Adolf-Str.,49.43913,11.036083
+476,413231,Nürnberg Gustav-Adolf-Str.,49.438847,11.036847
+477,440716,Nürnberg Gustav-Adolf-Str.,49.439068,11.036126
+478,53076,Nürnberg Gustav-Adolf-Str.,49.438877,11.036943
+479,266711,Nürnberg Habermannstr.,49.369865,11.096204
+480,83040,Nürnberg Habermannstr.,49.37008,11.094671
+481,101038,Nürnberg Haeselerstr.,49.44152,11.031638
+482,90581,Nürnberg Haeselerstr.,49.440975,11.034034
+483,248398,Nürnberg Hallerstr.,49.458454,11.065085
+484,323956,Nürnberg Hallerstr.,49.45851,11.06514
+485,17113,Nürnberg Hallertor,49.455406,11.070412
+486,217571,Nürnberg Hallertor,49.455406,11.070302
+487,335220,Nürnberg Hallertor,49.45501,11.070503
+488,96905,Nürnberg Hallertor,49.455128,11.070542
+489,144760,Nürnberg Hamburger Str.,49.406258,11.053854
+490,156855,Nürnberg Hamburger Str.,49.406185,11.053856
+491,384478,Nürnberg Hamburger Str.,49.406853,11.053884
+492,429235,Nürnberg Hamburger Str.,49.406673,11.054081
+493,219104,Nürnberg Hammer,49.46745,11.167655
+494,279795,Nürnberg Hammer,49.467484,11.167324
+495,148100,Nürnberg Hans-Fallada-Str.,49.41769,11.136067
+496,374947,Nürnberg Hans-Fallada-Str.,49.41766,11.136343
+497,249565,Nürnberg Hans-Kalb-Str.,49.43258,11.132111
+498,332575,Nürnberg Hans-Kalb-Str.,49.432148,11.132036
+499,363231,Nürnberg Hansastr.,49.427258,11.039969
+500,453315,Nürnberg Hansastr.,49.427692,11.040236
+501,215835,Nürnberg Hansengarten,49.526787,11.019817
+502,280415,Nürnberg Hansengarten,49.526787,11.019817
+503,71587,Nürnberg Hansengarten,49.526783,11.019813
+504,19584,Nürnberg Happurger Str.,49.465225,11.152573
+505,276569,Nürnberg Happurger Str.,49.46515,11.151774
+506,161513,Nürnberg Harmoniestr.,49.45552,11.091348
+507,450877,Nürnberg Harmoniestr.,49.455345,11.091241
+508,278391,Nürnberg Harnischschlag,49.403526,11.11653
+509,283878,Nürnberg Harnischschlag,49.40454,11.114968
+510,359619,Nürnberg Harnischschlag,49.405712,11.1143
+511,410264,Nürnberg Harnischschlag,49.40329,11.116065
+512,171570,Nürnberg Harsdörfferplatz,49.443016,11.094309
+513,300897,Nürnberg Harsdörfferplatz,49.44288,11.093788
+514,352025,Nürnberg Hasenbuck,49.42435,11.090007
+515,88464,Nürnberg Hasenbuck,49.424236,11.090051
+516,103957,Nürnberg Hauptbahnhof,49.446445,11.081904
+517,115001,Nürnberg Hauptbahnhof,49.44639,11.081656
+518,258920,Nürnberg Hauptbahnhof,49.447575,11.0826
+519,263298,Nürnberg Hauptbahnhof,49.44728,11.083074
+520,335087,Nürnberg Hauptbahnhof,49.447594,11.082723
+521,444225,Nürnberg Hauptbahnhof,49.447372,11.082024
+522,66697,Nürnberg Hauptbahnhof,49.447067,11.082223
+523,98897,Nürnberg Hauptbahnhof,49.446915,11.082322
+524,186338,Nürnberg Hauptmarkt,49.454323,11.076653
+525,229316,Nürnberg Hauptmarkt,49.45448,11.076099
+526,100783,Nürnberg Hbf,49.445618,11.082989
+527,221198,Nürnberg Hbf (Nelson-Mandela-Platz/Südausgang),49.44404,11.082203
+528,272647,Nürnberg Hbf/ZOB,49.447426,11.085678
+529,454221,Nürnberg Hbf/ZOB,49.447426,11.085678
+530,118759,Nürnberg Heidestr.,49.40775,11.040597
+531,212412,Nürnberg Heidestr.,49.4076,11.040876
+532,314425,Nürnberg Heilig-Geist-Spital,49.453278,11.078507
+533,163405,Nürnberg Heinemannbrücke,49.459934,11.114675
+534,169643,Nürnberg Heinemannbrücke,49.45997,11.114481
+535,219043,Nürnberg Heinemannbrücke,49.459976,11.114316
+536,270366,Nürnberg Heinemannbrücke,49.45938,11.114078
+537,322571,Nürnberg Heinemannbrücke,49.459476,11.114559
+538,283872,Nürnberg Heistersteg,49.424446,11.063292
+539,6352,Nürnberg Heistersteg,49.424503,11.063677
+540,305627,Nürnberg Henfenf. Str. Wende,49.468124,11.175246
+541,375455,Nürnberg Henfenfelder Str.,49.469006,11.174334
+542,196167,Nürnberg Herderstr.,49.470196,11.01809
+543,382201,Nürnberg Herderstr.,49.46985,11.017297
+544,101474,Nürnberg Herderstraße,49.470024,11.017774
+545,321147,Nürnberg Herderstraße,49.470024,11.017774
+546,10983,Nürnberg Hermann-Kolb-Str.,49.400124,11.177032
+547,190957,Nürnberg Hermann-Kolb-Str.,49.401176,11.176987
+548,180875,Nürnberg Hermann-Löns-Str.,49.499943,11.110489
+549,296591,Nürnberg Heroldsberger Weg,49.48538,11.108641
+550,42169,Nürnberg Heroldsberger Weg,49.48531,11.108794
+551,351969,Nürnberg Herpersdorf,49.37137,11.078111
+552,420923,Nürnberg Herpersdorf,49.371235,11.078223
+553,399687,Nürnberg Herpersdorfer Str.,49.407913,11.099984
+554,44474,Nürnberg Herpersdorfer Str.,49.40778,11.100193
+555,189810,Nürnberg Herrnhütte,49.479282,11.110863
+556,280991,Nürnberg Herrnhütte,49.47837,11.109472
+557,424345,Nürnberg Herrnhütte,49.478985,11.110642
+558,455337,Nürnberg Herrnhütte,49.479332,11.110911
+559,83059,Nürnberg Herrnhütte,49.47829,11.10957
+560,86542,Nürnberg Herrnhütte,49.478283,11.109611
+561,146441,Nürnberg Herzogstr.,49.43599,11.118084
+562,348716,Nürnberg Herzogstr.,49.435944,11.118181
+563,237473,Nürnberg Heynestr.,49.439056,11.072169
+564,299170,Nürnberg Heynestr.,49.4391,11.070955
+565,319151,Nürnberg Hiltpoltsteiner Str,49.481552,11.11587
+566,59012,Nürnberg Hiltpoltsteiner Str,49.481476,11.115394
+567,61364,Nürnberg Hiltpoltsteiner Str.,49.48155,11.115873
+568,97095,Nürnberg Hiltpoltsteiner Str.,49.481476,11.115391
+569,337839,Nürnberg Hintermayrstr.,49.470314,11.095269
+570,401666,Nürnberg Hintermayrstr.,49.470394,11.094329
+571,102076,Nürnberg Hiroshimaplatz,49.43115,11.098029
+572,32772,Nürnberg Hiroshimaplatz,49.431187,11.095726
+573,2338,Nürnberg Hirschberger Str.,49.409546,11.148088
+574,394080,Nürnberg Hirschberger Str.,49.40915,11.148026
+575,66530,Nürnberg Hofer Str.,49.487846,11.113606
+576,94670,Nürnberg Hofer Str.,49.487328,11.112898
+577,209238,Nürnberg Hohe Marter,49.429043,11.043891
+578,432463,Nürnberg Hohe Marter,49.42901,11.044029
+579,154034,Nürnberg Hohe Marter Nord,49.429947,11.044535
+580,213317,Nürnberg Hohe Marter Nord,49.429695,11.04454
+581,228023,Nürnberg Hohe Marter Nord,49.42986,11.044978
+582,350854,Nürnberg Hohe Marter Süd,49.427345,11.042876
+583,456777,Nürnberg Hohe Marter Süd,49.42696,11.04196
+584,399215,Nürnberg Hohenecker Weg,49.431572,11.001697
+585,414826,Nürnberg Hohenecker Weg,49.43167,11.001846
+586,267138,Nürnberg Holzgartenstr.,49.43758,11.096891
+587,343985,Nürnberg Holzgartenstr.,49.437653,11.097248
+588,203567,Nürnberg Holzheim,49.37412,11.026146
+589,416654,Nürnberg Holzheim,49.373848,11.026055
+590,104463,Nürnberg Holzheim Schleife,49.3741,11.025912
+591,110420,Nürnberg Holzstatt,49.419624,11.199724
+592,18614,Nürnberg Holzstatt,49.41947,11.199974
+593,438491,Nürnberg Holzstatt,49.41959,11.199738
+594,18697,Nürnberg Hordlerstr.,49.37974,11.071316
+595,46831,Nürnberg Hordlerstr.,49.380104,11.071915
+596,149914,Nürnberg Hubertusstr.,49.47431,11.12758
+597,179560,Nürnberg Hubertusstr.,49.474392,11.127744
+598,116851,Nürnberg Hugo-Wolf-Str.,49.347725,11.058335
+599,371338,Nürnberg Hugo-Wolf-Str.,49.34763,11.058777
+600,375174,Nürnberg Hugo-Wolf-Str.,49.347687,11.058969
+601,378395,Nürnberg Hugo-Wolf-Str.,49.348,11.059073
+602,128110,Nürnberg Humboldtstr.,49.43674,11.07475
+603,86,Nürnberg Humboldtstr.,49.436867,11.075037
+604,25512,Nürnberg Hummelsteiner Weg,49.44099,11.086073
+605,311635,Nürnberg Hummelsteiner Weg,49.44097,11.085894
+606,153621,Nürnberg Hutbergstr.,49.418686,11.196459
+607,246695,Nürnberg Hutbergstr.,49.419495,11.195343
+608,261161,Nürnberg Höfener Spange,49.450188,11.003248
+609,290115,Nürnberg Höfener Spange,49.450245,11.003536
+610,181671,Nürnberg Höfles Ost,49.490395,11.032386
+611,21837,Nürnberg Höfles Ost,49.490685,11.033899
+612,174038,Nürnberg Höfles West,49.48891,11.030152
+613,196367,Nürnberg Höfles West,49.489,11.030067
+614,319129,Nürnberg Hügelstr.,49.424202,11.010489
+615,51237,Nürnberg Hügelstr.,49.42404,11.010492
+616,326793,Nürnberg Hüttenbacher Str.,49.464027,11.147489
+617,80348,Nürnberg Hüttenbacher Str.,49.464153,11.147432
+618,290165,Nürnberg Imbuschstr.,49.398712,11.147173
+619,67808,Nürnberg Imbuschstr.,49.3987,11.146733
+620,238509,Nürnberg Immelmannstr.,49.44007,11.110951
+621,451318,Nürnberg Immelmannstr.,49.440144,11.110977
+622,112400,Nürnberg Industriestr.,49.42946,11.056427
+623,301762,Nürnberg Industriestr.,49.42907,11.057179
+624,215607,Nürnberg Innerer Laufer Platz,49.45641,11.084449
+625,258688,Nürnberg Innerer Laufer Platz,49.456444,11.0842
+626,163138,Nürnberg Insinger Str.,49.42166,11.032263
+627,223128,Nürnberg Jaeckelstr.,49.42969,11.052977
+628,26980,Nürnberg Jaeckelstr.,49.43009,11.052087
+629,45895,Nürnberg Jauerstr.,49.407013,11.151136
+630,54867,Nürnberg Jauerstr.,49.40687,11.151111
+631,364814,Nürnberg Johann-Sperl-Str.,49.49218,11.057887
+632,62392,Nürnberg Johann-Sperl-Str.,49.491814,11.060282
+633,145359,Nürnberg Johann-Sperl-Straße,49.492176,11.057884
+634,354365,Nürnberg Johann-Sperl-Straße,49.49181,11.060282
+635,23944,Nürnberg Julienstr.,49.460766,11.055068
+636,26696,Nürnberg Julienstr.,49.460667,11.05507
+637,248805,Nürnberg Juvenellstr.,49.46592,11.0694
+638,333837,Nürnberg Juvenellstr.,49.466118,11.069396
+639,258991,Nürnberg Jägerstr.,49.4134,11.034382
+640,367492,Nürnberg Jägerstr.,49.41387,11.035131
+641,372473,Nürnberg Jägerstr.,49.413757,11.034072
+642,421050,Nürnberg Kafkastr.,49.414585,11.138051
+643,53288,Nürnberg Kafkastr.,49.414722,11.138296
+644,127279,Nürnberg Kammersteiner Str.,49.42417,11.038692
+645,446627,Nürnberg Kammersteiner Str.,49.4242,11.038554
+646,313869,Nürnberg Karl-Martell-Str.,49.45901,11.010768
+647,181791,Nürnberg Karl-Martell-Straße,49.458427,11.010597
+648,330712,Nürnberg Katzwang Hallenbad,49.355576,11.053037
+649,96733,Nürnberg Katzwang Hallenbad,49.356663,11.052741
+650,289509,Nürnberg Katzwang Mitte,49.3512,11.056548
+651,372313,Nürnberg Katzwang Mitte,49.35146,11.056502
+652,235494,Nürnberg Katzwang Süd,49.34599,11.060597
+653,402280,Nürnberg Katzwang Süd,49.345905,11.060434
+654,121394,Nürnberg Katzwang Süd Wende,49.346413,11.061938
+655,453242,Nürnberg Katzwang Süd Wende,49.3456,11.060453
+656,208105,Nürnberg Kaulbachplatz,49.463284,11.078527
+657,21491,Nürnberg Kaulbachplatz,49.463356,11.078498
+658,295031,Nürnberg Kellerstr.,49.36824,11.045992
+659,425222,Nürnberg Kellerstr.,49.36828,11.046074
+660,328967,Nürnberg Kieler Str.,49.47861,11.055608
+661,58206,Nürnberg Kieler Str.,49.478703,11.055703
+662,126614,Nürnberg Kilianstr.,49.473984,11.077333
+663,164098,Nürnberg Kilianstr.,49.473827,11.077874
+664,164059,Nürnberg Kirchhoffstr.,49.431946,11.028559
+665,211814,Nürnberg Kirchhoffstr.,49.43183,11.028699
+666,183339,Nürnberg Kleinreuth b. Schw.,49.44073,11.009495
+667,321041,Nürnberg Kleinreuth b. Schw.,49.440987,11.010096
+668,168988,Nürnberg Kleinreuth h.d.V.,49.475353,11.071167
+669,54212,Nürnberg Kleinreuth h.d.V.,49.474632,11.071608
+670,204008,Nürnberg Kleinreuther Weg,49.473873,11.07125
+671,321948,Nürnberg Kleinreuther Weg,49.473797,11.071996
+672,299848,Nürnberg Klingenhof,49.477432,11.113573
+673,336668,Nürnberg Klingenhof,49.47725,11.114267
+674,211014,Nürnberg Klinikum Nord,49.463963,11.064512
+675,248158,Nürnberg Klinikum Nord,49.461643,11.064583
+676,283884,Nürnberg Klinikum Nord,49.46166,11.065052
+677,393216,Nürnberg Klinikum Nord,49.46402,11.064524
+678,128801,Nürnberg Klinikum Süd,49.41401,11.14881
+679,379967,Nürnberg Klinikum Süd,49.41401,11.14881
+680,183308,Nürnberg Koblenzer Str.,49.390373,11.0496
+681,244588,Nürnberg Koblenzer Str.,49.391167,11.050025
+682,26293,Nürnberg Kohlenhof,49.445213,11.068757
+683,74581,Nürnberg Kohlenhof,49.44526,11.068798
+684,322818,Nürnberg Komotauer Str.,49.443676,11.117822
+685,99226,Nürnberg Komotauer Str.,49.44354,11.117797
+686,184245,Nürnberg Koperstr.,49.402534,11.062358
+687,371402,Nürnberg Koperstr.,49.402477,11.062084
+688,18127,Nürnberg Koppenhof,49.387844,11.033257
+689,197341,Nürnberg Koppenhof,49.387695,11.032503
+690,334928,Nürnberg Koppenhof,49.388256,11.032864
+691,56769,Nürnberg Koppenhof Wende,49.388107,11.032219
+692,108519,Nürnberg Kornburg Mitte,49.356274,11.0986
+693,134026,Nürnberg Kornburg Mitte,49.356148,11.098657
+694,384255,Nürnberg Kornburg Nord,49.36093,11.097661
+695,395053,Nürnberg Kornburg Nord,49.36096,11.097427
+696,311133,Nürnberg Kornburg Schleife,49.35086,11.099938
+697,254133,Nürnberg Kornburg Süd,49.352844,11.099571
+698,316108,Nürnberg Kornburg Süd,49.352856,11.099819
+699,210281,Nürnberg Kornburger Str.,49.404743,11.112333
+700,448048,Nürnberg Kornburger Str.,49.40517,11.111622
+701,139309,Nürnberg Kraftshof,49.511196,11.049334
+702,289153,Nürnberg Kraftshof,49.511215,11.049168
+703,245097,Nürnberg Kraftshof Süd,49.507507,11.04761
+704,361614,Nürnberg Kraftshof Süd,49.507496,11.047431
+705,207305,Nürnberg Kranichstr.,49.471207,11.023644
+706,212079,Nürnberg Kranichstr.,49.470833,11.024203
+707,318824,Nürnberg Krematorium,49.466175,11.041334
+708,402180,Nürnberg Krematorium,49.466396,11.040971
+709,285537,Nürnberg Kreutzerstr.,49.435566,11.046618
+710,452330,Nürnberg Kreutzerstr.,49.435577,11.046659
+711,5108,Nürnberg Kriegerdenkmal,49.51682,11.048465
+712,78426,Nürnberg Kriegerdenkmal,49.517143,11.048417
+713,251724,Nürnberg Kriegsopfersiedlung,49.473763,11.031541
+714,143648,Nürnberg Krottenbach Mitte,49.381573,11.012639
+715,283441,Nürnberg Krottenbach Mitte,49.381287,11.012466
+716,314884,Nürnberg Krottenbach Nord,49.383766,11.015598
+717,412978,Nürnberg Krottenbach Nord,49.383755,11.015392
+718,103520,Nürnberg Kuglerstr.,49.421932,11.015125
+719,10455,Nürnberg Kuglerstr.,49.42205,11.015246
+720,133489,Nürnberg Kurzer Steig,49.473648,11.085963
+721,383359,Nürnberg Kurzer Steig,49.47347,11.086214
+722,122813,Nürnberg Köhnstr.,49.44611,11.089619
+723,70550,Nürnberg Köhnstr.,49.4462,11.088969
+724,182415,Nürnberg Königshof,49.38513,11.073019
+725,235976,Nürnberg Königshof,49.384663,11.073083
+726,4865,Nürnberg Königshof,49.38505,11.073117
+727,155508,Nürnberg Königshofer Weg,49.395447,11.03804
+728,75827,Nürnberg Königshofer Weg,49.394928,11.038298
+729,457985,Nürnberg Landesgewerbeanstalt,49.435497,11.032722
+730,60858,Nürnberg Landesgewerbeanstalt,49.435677,11.032828
+731,320608,Nürnberg Landgrabenstr.,49.439915,11.067341
+732,451795,Nürnberg Landgrabenstr.,49.439922,11.067258
+733,343945,Nürnberg Lange Zeile,49.46078,11.067911
+734,107199,Nürnberg Langer Steig,49.47385,11.080923
+735,28398,Nürnberg Langer Steig,49.473904,11.082025
+736,60420,Nürnberg Langer Steig,49.473568,11.081576
+737,205510,Nürnberg Langwasser Bad,49.412373,11.143643
+738,247979,Nürnberg Langwasser Bad,49.41231,11.143934
+739,354131,Nürnberg Langwasser Bad,49.413013,11.144128
+740,44174,Nürnberg Langwasser Bad,49.412857,11.143828
+741,135113,Nürnberg Langwasser Mitte U,49.40448,11.131896
+742,285952,Nürnberg Langwasser Mitte U,49.40468,11.132902
+743,210974,Nürnberg Langwasser Nord,49.412556,11.121384
+744,254783,Nürnberg Langwasser Nord,49.412376,11.121456
+745,158155,Nürnberg Langwasser Süd,49.398136,11.142113
+746,283962,Nürnberg Langwasser Süd,49.398563,11.140618
+747,55522,Nürnberg Langwasser Süd,49.399227,11.139987
+748,289968,Nürnberg Laufer Tor,49.457626,11.088564
+749,345351,Nürnberg Laufer Tor,49.457478,11.088001
+750,337083,Nürnberg Lausitzer Str.,49.36047,11.051043
+751,370919,Nürnberg Lausitzer Str.,49.360664,11.050709
+752,181409,Nürnberg Lechnerstr.,49.457684,11.124688
+753,54824,Nürnberg Lechnerstr.,49.457672,11.124895
+754,261614,Nürnberg Lechstr.,49.406357,11.058165
+755,368069,Nürnberg Lechstr.,49.406155,11.058417
+756,333160,Nürnberg Lehrberger Str.,49.441467,11.024317
+757,364381,Nürnberg Lehrberger Str.,49.44133,11.024099
+758,293115,Nürnberg Leipziger Platz,49.47181,11.103754
+759,155634,Nürnberg Leipziger Str.,49.470135,11.114243
+760,76584,Nürnberg Leipziger Str.,49.470337,11.114667
+761,110995,Nürnberg Lenkersheimer Str.,49.44916,11.012207
+762,35179,Nürnberg Lenkersheimer Str.,49.44948,11.012725
+763,168455,Nürnberg Lerchenbühlstr.,49.467064,11.061086
+764,178363,Nürnberg Lerchenbühlstr.,49.46686,11.061697
+765,241761,Nürnberg Leyh Kirche,49.45381,11.015645
+766,326388,Nürnberg Leyh Kirche,49.45359,11.016242
+767,402749,Nürnberg Leyh Kirche,49.453526,11.015692
+768,163445,Nürnberg Linzer Str.,49.386177,11.062201
+769,291751,Nürnberg Linzer Str.,49.386013,11.062962
+770,122644,Nürnberg Loeschweg,49.493313,11.103238
+771,102748,Nürnberg Lohe,49.48787,11.071896
+772,169691,Nürnberg Lohe,49.487984,11.07159
+773,218976,Nürnberg Lohe,49.48787,11.071898
+774,388290,Nürnberg Lohe,49.487984,11.071592
+775,174847,Nürnberg Loher Moos,49.480804,11.105688
+776,452866,Nürnberg Loher Moos,49.480114,11.105756
+777,337297,Nürnberg Lohestr.,49.48458,11.072193
+778,353525,Nürnberg Lohestr.,49.484665,11.072854
+779,396054,Nürnberg Lohhof,49.388744,11.023598
+780,450733,Nürnberg Lohhof,49.38862,11.023559
+781,161464,Nürnberg Lorenzkirche,49.451042,11.077722
+782,225150,Nürnberg Lorenzkirche,49.450985,11.077585
+783,270303,Nürnberg Lothringer Str.,49.431408,11.080723
+784,323992,Nürnberg Lothringer Str.,49.430843,11.081023
+785,384495,Nürnberg Lothringer Str.,49.430435,11.080589
+786,441307,Nürnberg Lothringer Str.,49.43032,11.080812
+787,116382,Nürnberg Luftamt Nordbayern,49.49371,11.071261
+788,164276,Nürnberg Luftamt Nordbayern,49.493626,11.071249
+789,179971,Nürnberg Luitpoldhain,49.43635,11.109226
+790,373236,Nürnberg Luitpoldhain,49.436672,11.108613
+791,57416,Nürnberg Luitpoldhain,49.436554,11.108547
+792,156741,Nürnberg Löffelholzstr.,49.42574,11.071938
+793,384658,Nürnberg Löffelholzstr.,49.425312,11.071711
+794,200412,Nürnberg Löwenberger Str.,49.409496,11.168346
+795,32995,Nürnberg Löwenberger Str.,49.409664,11.168329
+796,75421,Nürnberg Löwenberger Str.,49.409615,11.168564
+797,273631,Nürnberg Maffeiplatz,49.436123,11.083406
+798,277932,Nürnberg Maffeiplatz,49.43662,11.083231
+799,202255,Nürnberg Maiach,49.409702,11.065102
+800,431977,Nürnberg Maiach,49.41017,11.06501
+801,247681,Nürnberg Marburger Straße,49.519962,11.006401
+802,305690,Nürnberg Marburger Straße,49.520176,11.006294
+803,333706,Nürnberg Marburger Straße,49.519962,11.006405
+804,384221,Nürnberg Marburger Straße,49.52018,11.00629
+805,245199,Nürnberg Marconistr.,49.43659,11.027916
+806,358122,Nürnberg Marconistr.,49.43635,11.02759
+807,196579,Nürnberg Marienbader Str.,49.442825,11.121036
+808,31324,Nürnberg Marienbader Str.,49.44314,11.121665
+809,359787,Nürnberg Marienbader Str.,49.442486,11.12107
+810,89475,Nürnberg Marienbader Str.,49.443066,11.120701
+811,46739,Nürnberg Marienbuck,49.474277,11.096507
+812,87159,Nürnberg Marienbuck,49.474373,11.095594
+813,307245,Nürnberg Marientor,49.450333,11.083665
+814,382213,Nürnberg Marientor,49.45016,11.083462
+815,431655,Nürnberg Marientunnel,49.447475,11.088297
+816,435839,Nürnberg Marientunnel,49.447517,11.0882
+817,5929,Nürnberg Marientunnel,49.447533,11.088737
+818,407812,Nürnberg Markgrafenstr.,49.43074,11.076792
+819,416911,Nürnberg Markgrafenstr.,49.43052,11.076094
+820,330318,Nürnberg Martha-Maria-Krkhs.,49.48227,11.135111
+821,269164,Nürnberg Marthastr.,49.45385,11.113792
+822,302521,Nürnberg Marthastr.,49.453876,11.113777
+823,215016,Nürnberg Martin-Albert-Str.,49.465076,11.127564
+824,223836,Nürnberg Martin-Albert-Str.,49.46507,11.127468
+825,204491,Nürnberg Martinskirche,49.466084,11.082213
+826,54425,Nürnberg Martinskirche,49.465984,11.082284
+827,374844,Nürnberg Max-Grundig-Platz,49.424747,11.133021
+828,443853,Nürnberg Max-Grundig-Platz,49.424984,11.133527
+829,248875,Nürnberg Maxfeld,49.46336,11.084637
+830,282046,Nürnberg Maxfeld,49.46316,11.085482
+831,283047,Nürnberg Maxfeld,49.463287,11.084638
+832,67765,Nürnberg Maxfeld,49.463142,11.085317
+833,126012,Nürnberg Maxfeldstr.,49.46092,11.083896
+834,394443,Nürnberg Maxfeldstr.,49.46075,11.082216
+835,117100,Nürnberg Maximilianstr.,49.45544,11.041502
+836,124301,Nürnberg Maximilianstr.,49.45591,11.04163
+837,3357,Nürnberg Maximilianstr.,49.45552,11.041541
+838,53624,Nürnberg Maximilianstr.,49.455482,11.040963
+839,66029,Nürnberg Maximilianstr.,49.456074,11.041889
+840,40527,Nürnberg Maxtor,49.458416,11.081432
+841,85461,Nürnberg Maxtor,49.458492,11.081762
+842,128860,Nürnberg Maybachstr.,49.428303,11.061233
+843,262593,Nürnberg Maybachstr.,49.42828,11.062681
+844,422494,Nürnberg Maybachstr.,49.428707,11.061101
+845,222966,Nürnberg Meistersingerhalle,49.437664,11.106707
+846,268180,Nürnberg Meistersingerhalle,49.4385,11.105674
+847,358842,Nürnberg Meistersingerhalle,49.43834,11.105564
+848,401652,Nürnberg Meistersingerhalle,49.43825,11.106144
+849,444351,Nürnberg Meistersingerhalle,49.4381,11.106037
+850,987,Nürnberg Meistersingerhalle,49.43842,11.105755
+851,396656,Nürnberg Memminger Str.,49.368214,11.075994
+852,455609,Nürnberg Memminger Str.,49.367947,11.076123
+853,252155,Nürnberg Merianstr.,49.471386,11.098933
+854,5716,Nürnberg Merianstr.,49.471367,11.098961
+855,243232,Nürnberg Messe,49.416,11.114487
+856,409091,Nürnberg Messe,49.4159,11.114654
+857,13522,Nürnberg Michaelstr.,49.47386,11.067649
+858,347828,Nürnberg Michaelstr.,49.473724,11.068465
+859,28694,Nürnberg Minervaplatz,49.41929,11.07177
+860,31673,Nürnberg Minervaplatz,49.418858,11.072701
+861,406814,Nürnberg Moorenbrunn,49.39663,11.17388
+862,63279,Nürnberg Moorenbrunn,49.396637,11.173605
+863,390686,Nürnberg Moorenbrunnfeld,49.398964,11.160739
+864,40743,Nürnberg Moorenbrunnfeld,49.399082,11.160916
+865,175305,Nürnberg Moosäckerstr.,49.518684,11.033651
+866,19160,Nürnberg Moosäckerstr.,49.51867,11.034011
+867,61588,Nürnberg Moosäckerstr.,49.518738,11.03365
+868,105846,Nürnberg Moosäckerstraße,49.518738,11.033647
+869,90115,Nürnberg Moosäckerstraße,49.518665,11.034007
+870,121096,Nürnberg Muggenhof,49.461853,11.022395
+871,237595,Nürnberg Muggenhof,49.46166,11.022771
+872,139045,Nürnberg Mögeldorf Bahnhof,49.459946,11.131656
+873,148130,Nürnberg Mögeldorf Bahnhof,49.45901,11.131603
+874,315643,Nürnberg Mögeldorf Bahnhof,49.459667,11.131564
+875,78949,Nürnberg Mögeldorf Bahnhof,49.459614,11.131606
+876,83035,Nürnberg Mögeldorf Bahnhof,49.459568,11.131483
+877,21363,Nürnberg Mühlfeldstr.,49.399586,11.037257
+878,43014,Nürnberg Mühlfeldstr.,49.399216,11.03714
+879,56772,Nürnberg Mühlhof,49.376045,11.025695
+880,83626,Nürnberg Mühlhof,49.376663,11.025338
+881,165402,Nürnberg Mülheimer Str.,49.40017,11.052442
+882,224227,Nürnberg Mülheimer Str.,49.400524,11.052835
+883,131150,Nürnberg Neulandsiedlung,49.39863,11.122679
+884,303885,Nürnberg Neulandsiedlung,49.397476,11.123883
+885,332427,Nürnberg Neulandsiedlung,49.39861,11.122652
+886,348066,Nürnberg Neulandsiedlung,49.39827,11.124105
+887,101658,Nürnberg Neumeyerstr.,49.48433,11.123289
+888,275263,Nürnberg Neumeyerstr.,49.484295,11.123234
+889,250490,Nürnberg Neunhof,49.519966,11.051677
+890,361191,Nürnberg Neunhof,49.519684,11.05113
+891,282460,Nürnberg Neunhof Schule,49.516346,11.03675
+892,386789,Nürnberg Neunhof Schule,49.516266,11.036903
+893,132017,Nürnberg Nordostbf,49.47272,11.104303
+894,15720,Nürnberg Nordostbf,49.472317,11.104435
+895,231181,Nürnberg Nordostbf,49.472553,11.104555
+896,353780,Nürnberg Nordostbf,49.47234,11.104711
+897,361367,Nürnberg Nordostbf,49.47195,11.104414
+898,426856,Nürnberg Nordostbf,49.47206,11.104826
+899,188419,Nürnberg Nordostpark,49.488945,11.127237
+900,201772,Nürnberg Nordostpark,49.48896,11.12718
+901,299159,Nürnberg Nordostpark,49.488945,11.127234
+902,51786,Nürnberg Nordostpark,49.488964,11.127181
+903,11704,Nürnberg Nordostpark Mitte,49.48646,11.12441
+904,400690,Nürnberg Nordostpark Mitte,49.486443,11.124493
+905,281834,Nürnberg Nordostpark Ost,49.487167,11.127462
+906,323958,Nürnberg Nordostpark Ost,49.487095,11.127394
+907,196390,Nürnberg Nordwestring,49.465363,11.054042
+908,316361,Nürnberg Nordwestring,49.465714,11.05507
+909,387874,Nürnberg Nordwestring,49.46571,11.054821
+910,73282,Nürnberg Nordwestring,49.465694,11.055208
+911,86938,Nürnberg Nordwestring,49.46585,11.054184
+912,260019,Nürnberg Nuschelbergweg,49.506878,11.105075
+913,271572,Nürnberg Nötteleinweg,49.400547,11.119683
+914,275903,Nürnberg Nötteleinweg,49.401062,11.119784
+915,243656,Nürnberg Nürnberg Clarsbacher Straße,49.441154,11.015124
+916,89688,Nürnberg Nürnberg Clarsbacher Straße,49.44127,11.015052
+917,251016,Nürnberg Nürnberg Rothenburger Straße,49.44398,11.054991
+918,66729,Nürnberg Nürnberg Rothenburger Straße,49.443996,11.054228
+919,228847,Nürnberg Nürnberg Rothenburger-/Sigmundstraße,49.44017,11.005512
+920,331405,Nürnberg Nürnberg Rothenburger-/Sigmundstraße,49.44009,11.00544
+921,355783,Nürnberg Nürnberg Rothenburger-/Von-der-Tann-Str.,49.441044,11.034833
+922,356756,Nürnberg Nürnberg Rothenburger-/Von-der-Tann-Str.,49.44074,11.036342
+923,203410,Nürnberg Nürnberg Züricher Straße,49.44153,11.027772
+924,354498,Nürnberg Nürnberg Züricher Straße,49.441597,11.026587
+925,264532,Nürnberg Obere Turnstr.,49.450954,11.066718
+926,275571,Nürnberg Obere Turnstr.,49.450798,11.066431
+927,283532,Nürnberg Obere Turnstr.,49.450962,11.066676
+928,444659,Nürnberg Obere Turnstr.,49.450977,11.066662
+929,157935,Nürnberg Oelser Str.,49.406998,11.163923
+930,247407,Nürnberg Oelser Str.,49.406876,11.16325
+931,383641,Nürnberg Ohrwaschelweg,49.505585,11.103027
+932,162883,Nürnberg Opernhaus,49.446934,11.074696
+933,246607,Nürnberg Opernhaus,49.44686,11.074683
+934,299706,Nürnberg Oskar-v.-Miller-Str.,49.42711,11.104196
+935,4901,Nürnberg Oskar-v.-Miller-Str.,49.426945,11.104075
+936,344087,Nürnberg Ostbahnhof,49.465267,11.120594
+937,419647,Nürnberg Ostbahnhof,49.465157,11.120196
+938,199755,Nürnberg Ostring,49.454613,11.119681
+939,295751,Nürnberg Ostring,49.45443,11.119353
+940,128101,Nürnberg Oststr.,49.454063,11.009585
+941,372839,Nürnberg Oststr.,49.45445,11.009343
+942,115786,Nürnberg Passauer Str.,49.44899,11.122388
+943,244443,Nürnberg Passauer Str.,49.44838,11.122675
+944,384155,Nürnberg Paul-Moor-Schule,49.47893,11.117866
+945,431964,Nürnberg Paul-Moor-Schule,49.47896,11.118017
+946,196351,Nürnberg Paulusstein,49.502846,11.110519
+947,210968,Nürnberg Pellerschloss,49.421562,11.192731
+948,440375,Nürnberg Pellerschloss,49.42174,11.192467
+949,10667,Nürnberg Peterskirche,49.443035,11.099149
+950,183953,Nürnberg Peterskirche,49.442616,11.100522
+951,262433,Nürnberg Peterskirche,49.44309,11.098748
+952,47835,Nürnberg Peterskirche,49.44276,11.099692
+953,288999,Nürnberg Piccoloministr.,49.37368,11.022134
+954,97882,Nürnberg Pillenreuth,49.38077,11.075236
+955,135099,Nürnberg Platenstr.,49.423332,11.069157
+956,187983,Nürnberg Platenstr.,49.423462,11.068397
+957,329725,Nürnberg Platnersberg,49.469006,11.129785
+958,86367,Nürnberg Platnersberg,49.469826,11.131205
+959,169294,Nürnberg Platz d. Opfer d. F.,49.43856,11.10385
+960,224604,Nürnberg Platz d. Opfer d. F.,49.438725,11.101737
+961,346748,Nürnberg Platz d. Opfer d. F.,49.438717,11.101986
+962,441858,Nürnberg Platz d. Opfer d. F.,49.439137,11.103053
+963,154476,Nürnberg Plärrer,49.448326,11.064271
+964,162229,Nürnberg Plärrer,49.44831,11.06441
+965,172891,Nürnberg Plärrer,49.44819,11.06517
+966,184461,Nürnberg Plärrer,49.448326,11.064271
+967,291902,Nürnberg Plärrer,49.448433,11.064393
+968,367494,Nürnberg Plärrer,49.447968,11.065423
+969,373923,Nürnberg Plärrer,49.448475,11.064972
+970,380445,Nürnberg Plärrer,49.448444,11.06431
+971,405955,Nürnberg Plärrer,49.4484,11.064615
+972,111361,Nürnberg Pommernstr./BBW,49.413494,11.043572
+973,366694,Nürnberg Pommernstr./BBW,49.413494,11.043807
+974,120729,Nürnberg Poststr.,49.42114,11.131706
+975,30361,Nürnberg Poststr.,49.421467,11.132141
+976,179476,Nürnberg Prager Str.,49.419033,11.042459
+977,391794,Nürnberg Prager Str.,49.418697,11.042355
+978,299446,Nürnberg Preßburger Str.,49.386814,11.055343
+979,314508,Nürnberg Preßburger Str.,49.38662,11.055981
+980,117246,Nürnberg Propsteistr.,49.379257,11.067166
+981,182600,Nürnberg Propsteistr.,49.37909,11.067349
+982,348561,Nürnberg Propsteistr.,49.37971,11.067722
+983,61222,Nürnberg Propsteistr.,49.379494,11.06763
+984,100666,Nürnberg Prutzstr.,49.462883,11.140695
+985,176592,Nürnberg Prutzstr.,49.46265,11.140754
+986,189845,Nürnberg Püttlachweg,49.427082,11.012747
+987,8956,Nürnberg Püttlachweg,49.426796,11.010906
+988,377548,Nürnberg Quellweg,49.52714,11.013995
+989,429782,Nürnberg Quellweg,49.52714,11.013992
+990,447592,Nürnberg Quellweg,49.52714,11.013995
+991,117737,Nürnberg Rangaustr.,49.42005,11.018222
+992,338338,Nürnberg Rangaustr.,49.42042,11.018325
+993,377019,Nürnberg Rangaustr.,49.419914,11.018128
+994,38533,Nürnberg Rangaustr.,49.42038,11.018615
+995,257579,Nürnberg Rathaus,49.455837,11.079259
+996,96391,Nürnberg Rathaus,49.455734,11.078751
+997,112544,Nürnberg Rathenauplatz,49.45684,11.08913
+998,134654,Nürnberg Rathenauplatz,49.456863,11.089544
+999,253772,Nürnberg Rathenauplatz,49.456913,11.089143
+1000,32408,Nürnberg Rathenauplatz,49.457138,11.089097
+1001,416596,Nürnberg Rathenauplatz,49.45686,11.08942
+1002,442757,Nürnberg Rathenauplatz,49.457058,11.089195
+1003,198920,Nürnberg Rathenauplatz U,49.45739,11.088966
+1004,76449,Nürnberg Rathenauplatz U,49.456886,11.089442
+1005,345112,Nürnberg Raudtener Str.,49.414974,11.166186
+1006,345856,Nürnberg Raudtener Str.,49.41465,11.166274
+1007,172819,Nürnberg Regelsbacher Str.,49.440994,11.020534
+1008,303569,Nürnberg Regelsbacher Str.,49.44112,11.020297
+1009,137496,Nürnberg Reichelsd. Hauptstr.,49.384655,11.031488
+1010,446479,Nürnberg Reichelsd. Hauptstr.,49.38439,11.031218
+1011,230773,Nürnberg Reichelsdorf Bf,49.382538,11.037342
+1012,422019,Nürnberg Reichelsdorf Bf,49.382507,11.039271
+1013,451433,Nürnberg Reichelsdorf Bf,49.381744,11.037302
+1014,326412,Nürnberg Reichelsdorf Süd,49.37912,11.029559
+1015,53269,Nürnberg Reichelsdorf Süd,49.37908,11.029298
+1016,272847,Nürnberg Rennweg,49.46091,11.093221
+1017,304155,Nürnberg Rennweg,49.460957,11.093193
+1018,225711,Nürnberg Reutles,49.533875,11.024251
+1019,24928,Nürnberg Reutles,49.533794,11.024512
+1020,323239,Nürnberg Reutles,49.53387,11.024248
+1021,50007,Nürnberg Reutles,49.533794,11.024511
+1022,161116,Nürnberg Reutleser Str.,49.530914,11.033079
+1023,454781,Nürnberg Reutleser Str.,49.531467,11.033261
+1024,107041,Nürnberg Reutleser Straße,49.532085,11.032372
+1025,184317,Nürnberg Reutleser Straße,49.531467,11.033261
+1026,52926,Nürnberg Reutleser Straße,49.53205,11.032366
+1027,69471,Nürnberg Reutleser Straße,49.532097,11.031967
+1028,420834,Nürnberg Rezatweg,49.429676,11.016417
+1029,426210,Nürnberg Rezatweg,49.429783,11.01625
+1030,216737,Nürnberg Rheinstr.,49.41203,11.06022
+1031,453215,Nürnberg Rheinstr.,49.41224,11.060589
+1032,187327,Nürnberg Richard-Wagner-Str.,49.46372,11.011322
+1033,221800,Nürnberg Rollnerstr./Nordring,49.469406,11.081792
+1034,265496,Nürnberg Rollnerstr./Nordring,49.469223,11.081451
+1035,390001,Nürnberg Rollnerstr./Nordring,49.46972,11.081483
+1036,409027,Nürnberg Rollnerstr./Nordring,49.469547,11.081238
+1037,115237,Nürnberg Roter Bühl,49.359158,11.069047
+1038,31555,Nürnberg Roter Bühl,49.359135,11.069268
+1039,422447,Nürnberg Rotfuchsstr.,49.521263,11.022621
+1040,68833,Nürnberg Rotfuchsstr.,49.521107,11.022472
+1041,341856,Nürnberg Rothenb./Sigmundstr.,49.440037,11.005358
+1042,358275,Nürnberg Rothenb./Sigmundstr.,49.44018,11.005314
+1043,58631,Nürnberg Rothenb./Sigmundstr.,49.44018,11.005314
+1044,67668,Nürnberg Rothenb./Sigmundstr.,49.440037,11.005358
+1045,215136,Nürnberg Rothenb./Sigmundstraße,49.4404,11.004731
+1046,428807,Nürnberg Rothenb./Sigmundstraße,49.440468,11.004991
+1047,282900,Nürnberg Rothenburger Str.,49.44399,11.055004
+1048,59780,Nürnberg Rothenburger Str.,49.444546,11.0552
+1049,62818,Nürnberg Rothenburger Str.,49.444504,11.055312
+1050,125979,Nürnberg Rothenburger/V.d.Tann-Str.,49.44054,11.035863
+1051,256317,Nürnberg Rothenburger/V.d.Tann-Str.,49.440765,11.036217
+1052,345229,Nürnberg Rothenburger/V.d.Tann-Str.,49.440968,11.035372
+1053,401939,Nürnberg Rothenburger/V.d.Tann-Str.,49.440968,11.035372
+1054,433102,Nürnberg Rothenburger/V.d.Tann-Str.,49.440605,11.036027
+1055,107701,Nürnberg Rotterdamer Str.,49.406055,11.066452
+1056,169346,Nürnberg Rotterdamer Str.,49.405994,11.067639
+1057,132046,Nürnberg Röhrichtweg,49.515396,11.01923
+1058,377411,Nürnberg Röhrichtweg,49.51554,11.019268
+1059,171091,Nürnberg Röthenb. Hauptstr.,49.41803,11.032114
+1060,326864,Nürnberg Röthenb. Hauptstr.,49.418167,11.032332
+1061,210482,Nürnberg Röthenbach,49.42018,11.032678
+1062,349555,Nürnberg Röthenbach,49.421074,11.032674
+1063,351991,Nürnberg Röthenbach,49.42106,11.032247
+1064,35374,Nürnberg Röthenbach,49.42085,11.0317
+1065,396331,Nürnberg Röthenbach,49.42143,11.03235
+1066,442539,Nürnberg Röthenbach,49.42094,11.031671
+1067,452243,Nürnberg Röthenbach,49.421333,11.032435
+1068,452487,Nürnberg Röthenbach,49.420807,11.031866
+1069,67318,Nürnberg Röthenbach,49.421307,11.032021
+1070,82742,Nürnberg Röthenbach,49.421078,11.032012
+1071,181094,Nürnberg Röthensteig,49.469578,11.07518
+1072,331017,Nürnberg Röthensteig,49.469444,11.074134
+1073,17026,Nürnberg Röthestr.,49.371613,11.081645
+1074,446700,Nürnberg Röthestr.,49.371338,11.083247
+1075,319870,Nürnberg Saarbrückener Str.,49.406204,11.087545
+1076,444611,Nürnberg Saarbrückener Str.,49.405796,11.088077
+1077,50735,Nürnberg Saarbrückener Str.,49.405937,11.087729
+1078,84995,Nürnberg Saarbrückener Str.,49.406094,11.087065
+1079,19699,Nürnberg Saganer Str.,49.413963,11.158224
+1080,19938,Nürnberg Saganer Str.,49.414085,11.158084
+1081,122180,Nürnberg Sandreuthstr.,49.4351,11.059849
+1082,148108,Nürnberg Sandreuthstr.,49.43505,11.059409
+1083,229660,Nürnberg Schafhofstr.,49.480896,11.117292
+1084,284224,Nürnberg Schafhofstr.,49.480907,11.117789
+1085,131655,Nürnberg Scharfreiterring,49.408527,11.126403
+1086,136427,Nürnberg Scharfreiterring,49.408665,11.126621
+1087,326802,Nürnberg Scharfreiterring,49.408558,11.126485
+1088,331903,Nürnberg Scharfreiterring,49.408234,11.126477
+1089,336484,Nürnberg Scharfreiterring,49.40862,11.126566
+1090,64215,Nürnberg Scharfreiterring,49.40851,11.127202
+1091,207898,Nürnberg Scharrerstr.,49.442764,11.104904
+1092,429165,Nürnberg Scharrerstr.,49.443027,11.103837
+1093,215078,Nürnberg Schedelstr.,49.439423,11.121635
+1094,365309,Nürnberg Schedelstr.,49.439564,11.122019
+1095,86582,Nürnberg Scheinfelder Str.,49.450127,11.029813
+1096,90723,Nürnberg Scheinfelder Str.,49.450405,11.029546
+1097,134327,Nürnberg Schenkendorfstr.,49.35788,11.097057
+1098,194202,Nürnberg Schenkendorfstr.,49.35809,11.0973
+1099,186661,Nürnberg Scheurlstr.,49.444233,11.088867
+1100,233125,Nürnberg Scheurlstr.,49.445133,11.089168
+1101,298610,Nürnberg Schieräckerstr.,49.45706,11.009842
+1102,364870,Nürnberg Schieräckerstr.,49.45699,11.009995
+1103,454134,Nürnberg Schieräckerstraße,49.45699,11.009995
+1104,54858,Nürnberg Schieräckerstraße,49.45706,11.009842
+1105,100776,Nürnberg Schillerplatz,49.464283,11.086509
+1106,82137,Nürnberg Schillerplatz,49.464317,11.086191
+1107,253140,Nürnberg Schleifweg,49.470894,11.081985
+1108,263608,Nürnberg Schleifweg,49.470776,11.081974
+1109,160686,Nürnberg Schleswiger Str.,49.48046,11.060775
+1110,233854,Nürnberg Schleswiger Str.,49.480244,11.062008
+1111,356019,Nürnberg Schleswiger Str.,49.48008,11.061611
+1112,58526,Nürnberg Schleswiger Str.,49.480442,11.060679
+1113,161394,Nürnberg Schmalau,49.517193,11.006074
+1114,240976,Nürnberg Schmalau,49.516544,11.005979
+1115,290546,Nürnberg Schmalau,49.516544,11.005977
+1116,411885,Nürnberg Schmalau,49.517193,11.006078
+1117,45152,Nürnberg Schmalau,49.516754,11.005404
+1118,160320,Nürnberg Schnelldorfer Str.,49.420563,11.02735
+1119,5820,Nürnberg Schnelldorfer Str.,49.420494,11.02782
+1120,127672,Nürnberg Schnelldorfer Straße,49.42057,11.027377
+1121,85023,Nürnberg Schnelldorfer Straße,49.420483,11.027997
+1122,307263,Nürnberg Schnepfenreuth,49.485626,11.052768
+1123,424965,Nürnberg Schnepfenreuth,49.485786,11.05329
+1124,223425,Nürnberg Schniegling,49.46964,11.028683
+1125,72091,Nürnberg Schniegling,49.46936,11.028634
+1126,96278,Nürnberg Schniegling,49.46967,11.028227
+1127,215232,Nürnberg Schopenhauerstr.,49.470726,11.088335
+1128,234251,Nürnberg Schopenhauerstr.,49.47035,11.088232
+1129,50920,Nürnberg Schopenhauerstr.,49.47077,11.088596
+1130,93771,Nürnberg Schopenhauerstr.,49.47022,11.089048
+1131,136683,Nürnberg Schoppershof,49.464897,11.100583
+1132,214818,Nürnberg Schoppershof,49.464905,11.100528
+1133,367260,Nürnberg Schoppershof,49.464966,11.101079
+1134,392940,Nürnberg Schoppershof,49.46517,11.101337
+1135,303551,Nürnberg Schuckertstr.,49.434334,11.07638
+1136,65053,Nürnberg Schuckertstr.,49.43434,11.076394
+1137,107005,Nürnberg Schulzentr. Südwest,49.411823,11.042778
+1138,162125,Nürnberg Schulzentr. Südwest,49.41118,11.04297
+1139,332462,Nürnberg Schulzentr. Südwest,49.411766,11.043289
+1140,446637,Nürnberg Schulzentr. Südwest,49.411392,11.043021
+1141,264577,Nürnberg Schußleitenweg,49.408516,11.035374
+1142,355454,Nürnberg Schußleitenweg,49.4079,11.036088
+1143,36434,Nürnberg Schußleitenweg,49.409107,11.034935
+1144,187355,Nürnberg Schwander Str.,49.407154,11.1089
+1145,79845,Nürnberg Schwander Str.,49.406876,11.109001
+1146,101724,Nürnberg Schweiggerstr.,49.441303,11.090176
+1147,256196,Nürnberg Schweiggerstr.,49.44142,11.089443
+1148,38677,Nürnberg Schweiggerstr.,49.441673,11.090611
+1149,44887,Nürnberg Schweiggerstr.,49.441875,11.089573
+1150,246866,Nürnberg Schweinau,49.434322,11.048434
+1151,406727,Nürnberg Schweinau,49.43445,11.048528
+1152,444018,Nürnberg Schweinau,49.43486,11.049458
+1153,89174,Nürnberg Schweinau,49.43435,11.04831
+1154,164938,Nürnberg Schwendengarten,49.489674,11.103787
+1155,58365,Nürnberg Schwendengarten,49.48925,11.103712
+1156,88157,Nürnberg Schweriner Str.,49.478565,11.071271
+1157,99924,Nürnberg Schweriner Str.,49.478878,11.071072
+1158,192847,Nürnberg Sebastianspital,49.459618,11.108432
+1159,73734,Nürnberg Sebastianspital,49.459587,11.109274
+1160,10316,Nürnberg Sieboldstr.,49.481987,11.122558
+1161,212045,Nürnberg Sieboldstr.,49.482468,11.122936
+1162,407744,Nürnberg Sieboldstr.,49.482483,11.122825
+1163,421414,Nürnberg Sieboldstr.,49.482113,11.122694
+1164,218590,Nürnberg Sieboldstr. Schleife,49.48032,11.126783
+1165,105306,Nürnberg Siedlerstr.,49.453915,11.135472
+1166,260125,Nürnberg Siedlerstr.,49.453987,11.135388
+1167,377572,Nürnberg Siedlerstr.,49.453716,11.135572
+1168,381772,Nürnberg Siedlerstr.,49.453743,11.135544
+1169,380451,Nürnberg Siedlungswerk,49.50527,11.108556
+1170,223155,Nürnberg Siemensstr.,49.4326,11.078784
+1171,429299,Nürnberg Siemensstr.,49.43281,11.078518
+1172,374910,Nürnberg Sigmund-Freud-Str.,49.371536,11.073164
+1173,418546,Nürnberg Sigmund-Freud-Str.,49.37136,11.073319
+1174,24588,Nürnberg Sinbronner Str.,49.42325,11.019771
+1175,322883,Nürnberg Sinbronner Str.,49.42311,11.019388
+1176,275447,Nürnberg Skopjestr.,49.415684,11.042827
+1177,60778,Nürnberg Skopjestr.,49.415607,11.042649
+1178,313943,Nürnberg Solnhofener Str.,49.382664,11.035163
+1179,322370,Nürnberg Solnhofener Str.,49.382717,11.035011
+1180,181803,Nürnberg Sonntagsweg,49.49222,11.06327
+1181,254992,Nürnberg Sonntagsweg,49.49219,11.062994
+1182,261649,Nürnberg Spessartstr.,49.523823,11.014103
+1183,31791,Nürnberg Spessartstr.,49.52387,11.014198
+1184,140063,Nürnberg Spitalhof,49.4749,11.122381
+1185,253753,Nürnberg Spitalhof,49.474735,11.122011
+1186,139448,Nürnberg Sportanlage FCN,49.43443,11.133043
+1187,212614,Nürnberg Sportanlage FCN,49.434444,11.132767
+1188,342058,Nürnberg Sportanlage Fischbach,49.42002,11.206292
+1189,390712,Nürnberg Sportanlage Fischbach,49.42009,11.205767
+1190,351808,Nürnberg Sportplatz Süd,49.420662,11.061393
+1191,374517,Nürnberg Sportplatz Süd,49.420643,11.061131
+1192,207871,Nürnberg Sprottauer Str.,49.41575,11.161391
+1193,408581,Nürnberg Sprottauer Str.,49.415695,11.161474
+1194,111488,Nürnberg St. Johannisfriedhof,49.459743,11.060661
+1195,245103,Nürnberg St. Johannisfriedhof,49.45957,11.060843
+1196,247132,Nürnberg St. Johannisfriedhof,49.459778,11.060563
+1197,440182,Nürnberg St. Johannisfriedhof,49.459705,11.05953
+1198,175834,Nürnberg St. Leonhard,49.438892,11.050028
+1199,300524,Nürnberg St. Leonhard,49.438904,11.049918
+1200,250080,Nürnberg Stein Schloss,49.418198,11.021994
+1201,295420,Nürnberg Stein Schloss,49.418407,11.021687
+1202,391262,Nürnberg Stein Schloss,49.418407,11.021691
+1203,394489,Nürnberg Stein Schloss,49.418194,11.021709
+1204,117007,Nürnberg Steinacher Straße,49.51274,11.006078
+1205,225758,Nürnberg Steinacher Straße,49.51286,11.006213
+1206,296696,Nürnberg Steinacher Straße,49.51286,11.006217
+1207,413198,Nürnberg Steinacher Straße,49.51274,11.006081
+1208,259588,Nürnberg Steinbühl Bahnhof,49.442738,11.068363
+1209,38418,Nürnberg Steinbühl Bahnhof,49.442738,11.068308
+1210,34695,Nürnberg Steinplattenweg,49.46938,11.121293
+1211,48497,Nürnberg Steinplattenweg,49.469307,11.121143
+1212,148461,Nürnberg Stephanstr.,49.44609,11.097604
+1213,213937,Nürnberg Stephanstr.,49.445904,11.096462
+1214,458182,Nürnberg Stephanstr.,49.445866,11.09889
+1215,47222,Nürnberg Stephanstr.,49.445576,11.097379
+1216,249977,Nürnberg Stirnerstr.,49.47408,11.092757
+1217,8020,Nürnberg Stirnerstr.,49.473858,11.092044
+1218,359842,Nürnberg Stockweiher,49.372913,11.064133
+1219,94596,Nürnberg Stockweiher,49.37277,11.063984
+1220,109130,Nürnberg Strawinskystr.,49.348312,11.063416
+1221,338831,Nürnberg Stresemannplatz,49.458588,11.095236
+1222,449821,Nürnberg Stresemannplatz,49.458546,11.095458
+1223,228013,Nürnberg Streubuck,49.396057,11.168972
+1224,442007,Nürnberg Streubuck,49.396088,11.170583
+1225,204777,Nürnberg Sylter Str.,49.480183,11.066508
+1226,262473,Nürnberg Sylter Str.,49.48027,11.066271
+1227,192970,Nürnberg Südfriedhof,49.410763,11.082789
+1228,204387,Nürnberg Südfriedhof,49.410244,11.083006
+1229,387713,Nürnberg Südfriedhof,49.410954,11.082993
+1230,54643,Nürnberg Südfriedhof,49.41079,11.082844
+1231,418970,Nürnberg Südwestpark,49.42789,11.018162
+1232,76865,Nürnberg Südwestpark,49.428143,11.018143
+1233,300086,Nürnberg Sündersbühl,49.441864,11.043793
+1234,65347,Nürnberg Sündersbühl,49.441936,11.043737
+1235,332557,Nürnberg Tafelhalle,49.46162,11.110575
+1236,339378,Nürnberg Tafelhalle,49.46163,11.110975
+1237,306558,Nürnberg Tattersall,49.478165,11.131748
+1238,323905,Nürnberg Tattersall,49.478134,11.131596
+1239,196202,Nürnberg Tauberstr.,49.42499,11.023885
+1240,58678,Nürnberg Tauberstr.,49.4251,11.02369
+1241,274730,Nürnberg Tauroggenstr.,49.460777,11.106452
+1242,278680,Nürnberg Tauroggenstr.,49.460945,11.105746
+1243,311534,Nürnberg Tauroggenstr.,49.46075,11.106246
+1244,344509,Nürnberg Tauroggenstr.,49.46036,11.105936
+1245,170253,Nürnberg Technische Hochschule,49.451267,11.09755
+1246,396204,Nürnberg Technische Hochschule,49.4507,11.097036
+1247,19978,Nürnberg Tellstr.,49.467846,11.089161
+1248,422648,Nürnberg Tellstr.,49.467884,11.08934
+1249,144775,Nürnberg Teutoburger Str.,49.46823,11.111118
+1250,401894,Nürnberg Teutoburger Str.,49.468204,11.112029
+1251,151031,Nürnberg Theresienkrankenhaus,49.469475,11.108888
+1252,56196,Nürnberg Theresienkrankenhaus,49.469566,11.108955
+1253,30452,Nürnberg Thomas-Mann-Str.,49.415195,11.140176
+1254,415627,Nürnberg Thomas-Mann-Str.,49.41505,11.140096
+1255,182722,Nürnberg Thon,49.47321,11.064626
+1256,22672,Nürnberg Thon,49.473713,11.063912
+1257,350426,Nürnberg Thon,49.473244,11.064694
+1258,7065,Nürnberg Thon,49.47348,11.064055
+1259,188924,Nürnberg Thuisbrunner Str.,49.488766,11.116447
+1260,251913,Nürnberg Thuisbrunner Str.,49.488686,11.116669
+1261,239294,Nürnberg Thumenberger Weg,49.46706,11.125915
+1262,351500,Nürnberg Thumenberger Weg,49.46728,11.125221
+1263,395414,Nürnberg Thumenberger Weg,49.46713,11.125196
+1264,43234,Nürnberg Thumenberger Weg,49.46674,11.125162
+1265,140500,Nürnberg Tiergarten,49.45032,11.138266
+1266,419824,Nürnberg Tiergarten,49.449875,11.137584
+1267,434058,Nürnberg Tiergarten,49.45071,11.137639
+1268,171604,Nürnberg Tiergärtnertor,49.458115,11.072968
+1269,300077,Nürnberg Tiergärtnertor,49.458134,11.073078
+1270,208412,Nürnberg Tillystr.,49.437714,11.032375
+1271,9217,Nürnberg Tillystr.,49.437775,11.032029
+1272,325600,Nürnberg Tiroler Str.,49.430332,11.093357
+1273,386511,Nürnberg Tiroler Str.,49.43039,11.092984
+1274,177856,Nürnberg Trafowerk,49.423634,11.085527
+1275,274248,Nürnberg Trafowerk,49.42366,11.085251
+1276,396697,Nürnberg Trafowerk,49.423027,11.084946
+1277,80728,Nürnberg Trafowerk,49.423794,11.085372
+1278,119792,Nürnberg Triester Str. Nord,49.402805,11.058027
+1279,18108,Nürnberg Triester Str. Nord,49.402714,11.058001
+1280,303704,Nürnberg Triester Str. Süd,49.397404,11.060486
+1281,391130,Nürnberg Triester Str. Süd,49.397346,11.060459
+1282,321228,Nürnberg Tristanstraße,49.433937,11.094642
+1283,441861,Nürnberg Tristanstraße,49.433857,11.094685
+1284,13733,Nürnberg Tuchenbacher Str.,49.451576,11.026723
+1285,398756,Nürnberg Tuchenbacher Str.,49.451157,11.027173
+1286,208861,Nürnberg Tucherhof,49.48462,11.090782
+1287,304764,Nürnberg Tucherhof,49.484753,11.090504
+1288,109985,Nürnberg Tucholskystr.,49.413475,11.135907
+1289,155823,Nürnberg Tucholskystr.,49.413326,11.135661
+1290,343503,Nürnberg Tullnaupark,49.45065,11.10323
+1291,435867,Nürnberg Tullnaupark,49.45071,11.103036
+1292,169063,Nürnberg Uffenheimer Str.,49.432102,11.019705
+1293,48400,Nürnberg Uffenheimer Str.,49.432198,11.020199
+1294,17659,Nürnberg Untere Baustr.,49.44614,11.093562
+1295,268409,Nürnberg Untere Baustr.,49.446335,11.0932
+1296,330443,Nürnberg Valznerweiher,49.437916,11.131245
+1297,430669,Nürnberg Valznerweiher,49.43813,11.131117
+1298,216744,Nürnberg Vershofenstraße,49.44864,11.005198
+1299,435346,Nürnberg Vershofenstraße,49.44891,11.005162
+1300,287269,Nürnberg Virnsberg.Str. Wende,49.445656,11.009037
+1301,3427,Nürnberg Virnsberger Str.,49.445744,11.007946
+1302,439358,Nürnberg Virnsberger Str.,49.446075,11.008904
+1303,22045,Nürnberg Virnsberger Straße,49.445747,11.007955
+1304,389713,Nürnberg Virnsberger Straße,49.446293,11.008063
+1305,300425,Nürnberg Vogelweiherstr.,49.429386,11.071717
+1306,314853,Nürnberg Vogelweiherstr.,49.429726,11.071352
+1307,36899,Nürnberg Vogelweiherstr.,49.42946,11.070627
+1308,5408,Nürnberg Vogelweiherstr.,49.42928,11.071719
+1309,193130,Nürnberg Volksfestplatz,49.432766,11.108009
+1310,46566,Nürnberg Von-Soden-Str.,49.405792,11.171109
+1311,260290,Nürnberg Vorjurastr.,49.374367,11.04104
+1312,323804,Nürnberg Vorjurastr.,49.374397,11.04126
+1313,14244,Nürnberg Wacholderweg,49.416676,11.062103
+1314,85139,Nürnberg Waldarbeitsschule,49.50256,11.101412
+1315,136420,Nürnberg Waldaustr.,49.434162,11.054324
+1316,182093,Nürnberg Waldaustr.,49.43425,11.054047
+1317,73709,Nürnberg Waldemar-Klink-Str.,49.47304,11.057537
+1318,80927,Nürnberg Waldemar-Klink-Str.,49.473034,11.056571
+1319,327967,Nürnberg Waldlust,49.43719,11.120062
+1320,32992,Nürnberg Waldlust,49.43719,11.120062
+1321,255769,Nürnberg Waldstr.,49.46186,11.137471
+1322,38328,Nürnberg Waldstr.,49.4618,11.136354
+1323,421617,Nürnberg Waldstromerstr.,49.382744,11.037173
+1324,143488,Nürnberg Walter-Braun-Str.,49.483395,11.053529
+1325,183095,Nürnberg Walter-Braun-Str.,49.483433,11.053721
+1326,121057,Nürnberg Wehrenreuthweg,49.491917,11.044238
+1327,14200,Nürnberg Wehrenreuthweg,49.491917,11.044238
+1328,116116,Nürnberg Weiherhaus,49.375656,11.066573
+1329,277853,Nürnberg Weiherhaus,49.37576,11.066971
+1330,285264,Nürnberg Weiherhauser Str.,49.353973,11.054926
+1331,4462,Nürnberg Weiherhauser Str.,49.35364,11.054987
+1332,189785,Nürnberg Weintraubengasse,49.45422,11.073773
+1333,262414,Nürnberg Weintraubengasse,49.45439,11.073728
+1334,132875,Nürnberg Weißer Turm,49.450283,11.070592
+1335,13457,Nürnberg Weißer Turm,49.450344,11.070411
+1336,169747,Nürnberg Weißer Weg,49.463547,11.123618
+1337,92531,Nürnberg Weißer Weg,49.46348,11.123495
+1338,370587,Nürnberg Welfenstr.,49.403763,11.172879
+1339,98495,Nürnberg Welfenstr.,49.404533,11.174933
+1340,281335,Nürnberg Werkvolksiedlung,49.400055,11.126506
+1341,416447,Nürnberg Werkvolksiedlung,49.40016,11.126634
+1342,47035,Nürnberg Werkvolksiedlung,49.399933,11.126722
+1343,72065,Nürnberg Werkvolksiedlung,49.399944,11.126679
+1344,411287,Nürnberg Wertachstr.,49.4097,11.050068
+1345,93822,Nürnberg Wertachstr.,49.40963,11.050248
+1346,170823,Nürnberg Wertheimer Straße,49.532448,11.020451
+1347,436505,Nürnberg Wertheimer Straße,49.532448,11.02045
+1348,438171,Nürnberg Wertheimer Straße,49.53251,11.020283
+1349,438739,Nürnberg Wertheimer Straße,49.53251,11.02028
+1350,242120,Nürnberg Westfriedh. Kreuzung,49.463535,11.051856
+1351,294943,Nürnberg Westfriedh. Kreuzung,49.46317,11.051104
+1352,354436,Nürnberg Westfriedh. Kreuzung,49.463432,11.051071
+1353,20130,Nürnberg Westfriedhof,49.461773,11.049407
+1354,24408,Nürnberg Westfriedhof,49.461708,11.050291
+1355,6071,Nürnberg Westfriedhof,49.46136,11.049498
+1356,60977,Nürnberg Westfriedhof,49.46133,11.049319
+1357,136230,Nürnberg Westpark,49.44506,11.035857
+1358,207169,Nürnberg Westpark,49.44518,11.035744
+1359,296166,Nürnberg Wetzendorf Ost,49.46936,11.043659
+1360,409475,Nürnberg Wetzendorf Ost,49.46944,11.043616
+1361,418975,Nürnberg Wetzendorf West,49.471195,11.037304
+1362,77195,Nürnberg Wetzendorf West,49.47104,11.037169
+1363,147093,Nürnberg Wetzlarer Straße,49.516674,11.002179
+1364,361103,Nürnberg Wetzlarer Straße,49.5166,11.002179
+1365,227612,Nürnberg Widhalmstr.,49.445515,11.086182
+1366,194342,Nürnberg Wilhelmshavener Str.,49.480946,11.071792
+1367,40618,Nürnberg Wilhelmshavener Str.,49.48074,11.071962
+1368,244958,Nürnberg Willstätterstr.,49.42599,11.014575
+1369,447214,Nürnberg Willstätterstr.,49.42596,11.015003
+1370,19397,Nürnberg Wodanstr.,49.436672,11.091241
+1371,329550,Nürnberg Wodanstr.,49.436684,11.091392
+1372,272047,Nürnberg Wohnanl.Regensb.Str.,49.42951,11.138672
+1373,424660,Nürnberg Wohnanl.Regensb.Str.,49.429268,11.138786
+1374,356510,Nürnberg Wohnstift a. T.,49.44589,11.132373
+1375,394425,Nürnberg Wohnstift a. T.,49.445976,11.132095
+1376,226048,Nürnberg Worzeld. Feuerwehrh.,49.37219,11.098736
+1377,22970,Nürnberg Worzeld. Feuerwehrh.,49.372166,11.098957
+1378,85294,Nürnberg Worzeld. Feuerwehrh.,49.372166,11.098957
+1379,275760,Nürnberg Worzeldorf Hauptstr.,49.372814,11.099647
+1380,429944,Nürnberg Worzeldorf Hauptstr.,49.373047,11.099436
+1381,107638,Nürnberg Worzeldorf Schule,49.370525,11.087242
+1382,138460,Nürnberg Worzeldorf Schule,49.370422,11.08672
+1383,11063,Nürnberg Worzeldorfer Str.,49.406853,11.09423
+1384,305765,Nürnberg Worzeldorfer Str.,49.406982,11.094724
+1385,383619,Nürnberg Worzeldorfer Str.,49.406567,11.094304
+1386,356212,Nürnberg Wöhrd,49.45404,11.095706
+1387,449792,Nürnberg Wöhrd,49.45412,11.095346
+1388,196212,Nürnberg Wöhrder Wiese,49.45331,11.086851
+1389,25814,Nürnberg Wöhrder Wiese,49.45256,11.08692
+1390,3618,Nürnberg Wöhrder Wiese,49.452766,11.086461
+1391,72026,Nürnberg Wöhrder Wiese,49.45258,11.086823
+1392,132850,Nürnberg Zeppelinstr.,49.43395,11.121788
+1393,75261,Nürnberg Zeppelinstr.,49.43395,11.121664
+1394,160851,Nürnberg Zerzabelshof Mitte,49.442543,11.123896
+1395,204377,Nürnberg Zerzabelshof Mitte,49.442303,11.123942
+1396,296064,Nürnberg Zerzabelshof Mitte,49.44149,11.123901
+1397,298928,Nürnberg Zerzabelshof Mitte,49.441647,11.124008
+1398,324784,Nürnberg Zerzabelshof Ost,49.428413,11.141255
+1399,211218,Nürnberg Ziegelstein,49.485344,11.105122
+1400,214186,Nürnberg Ziegelstein,49.485325,11.10504
+1401,149145,Nürnberg Ziegelstein Nord,49.485855,11.10503
+1402,7153,Nürnberg Ziegelstein Nord,49.485817,11.104824
+1403,19386,Nürnberg Ziegelstein Süd,49.484276,11.105445
+1404,27475,Nürnberg Ziegelstein Süd,49.484352,11.105057
+1405,359946,Nürnberg Ziegelstein Süd,49.484276,11.105459
+1406,71550,Nürnberg Ziegelstein Süd,49.48402,11.105036
+1407,296968,Nürnberg Ziegenstr.,49.461254,11.132308
+1408,304765,Nürnberg Ziegenstr.,49.461254,11.132308
+1409,233246,Nürnberg Zollamt-Hafen,49.39856,11.052225
+1410,452010,Nürnberg Zollamt-Hafen,49.398098,11.051862
+1411,115665,Nürnberg Zollhaus-Gaststätte,49.39057,11.129381
+1412,187246,Nürnberg Zollhaus-Gaststätte,49.39049,11.12948
+1413,220166,Nürnberg Zuckmayerweg,49.41052,11.128862
+1414,448117,Nürnberg Zuckmayerweg,49.41043,11.128408
+1415,177098,Nürnberg Zum Felsenkeller,49.500324,11.101771
+1416,294389,Nürnberg Zum Schüsselstein,49.420353,11.193206
+1417,441717,Nürnberg Zum Schüsselstein,49.420208,11.19314
+1418,337845,Nürnberg Zwieselbachweg,49.414043,11.031806
+1419,364122,Nürnberg Zwieselbachweg,49.414177,11.031583
+1420,130132,Nürnberg Züricher Str.,49.44163,11.026906
+1421,237826,Nürnberg Züricher Str.,49.441547,11.027294
+1422,389974,Nürnberg Züricher Str.,49.441547,11.027294
+1423,425314,Nürnberg Züricher Str.,49.44163,11.026906
+1424,223887,Nürnberg Äußere Buttendorfer Str.,49.442535,11.00517
+1425,256891,Nürnberg Äußere Buttendorfer Str.,49.442413,11.005324
+1426,23813,Nürnberg Äußere Buttendorfer Straße,49.442535,11.005171
+1427,243455,Nürnberg Äußere Buttendorfer Straße,49.442413,11.005323
+1428,251493,Nürnberg-Flughafen Cargo-Zentrum,49.492287,11.083046
+1429,77883,Nürnberg-Flughafen Cargo-Zentrum,49.49288,11.083109

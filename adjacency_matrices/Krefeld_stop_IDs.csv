@@ -1,0 +1,800 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,234008,Krefeld Adlerstraße,51.324444,6.55568
+1,276384,Krefeld Adlerstraße,51.324432,6.555698
+2,168293,Krefeld Adolf-Dembach-Str.,51.36924,6.643841
+3,18487,Krefeld Adolf-Dembach-Str.,51.369286,6.644236
+4,300559,Krefeld Alexanderplatz,51.325684,6.562148
+5,341827,Krefeld Alexanderplatz,51.32569,6.561888
+6,119223,Krefeld Alte Gladbacher Str.,51.32097,6.553021
+7,44983,Krefeld Alte Gladbacher Str.,51.320942,6.552949
+8,218602,Krefeld Alte Neusser Straße,51.297745,6.59482
+9,82011,Krefeld Alte Neusser Straße,51.29797,6.594631
+10,84856,Krefeld Am Baumhof,51.379715,6.513325
+11,240351,Krefeld Am Brustert,51.379314,6.510432
+12,352627,Krefeld Am Fischerhof,51.29492,6.591173
+13,77904,Krefeld Am Fischerhof,51.295017,6.591164
+14,379651,Krefeld Am Flohbusch,51.358257,6.572182
+15,446538,Krefeld Am Flohbusch,51.357872,6.572425
+16,223941,Krefeld Am Hagelkreuz,51.38312,6.504827
+17,81198,Krefeld Am Hagelkreuz,51.382095,6.505402
+18,203175,Krefeld Am Herbertzhof,51.32261,6.603704
+19,32651,Krefeld Am Herbertzhof,51.322643,6.603695
+20,133344,Krefeld Am Hohen Haus,51.33769,6.572739
+21,211691,Krefeld Am Hohen Haus,51.337803,6.572937
+22,410436,Krefeld Am Königshof,51.31678,6.575919
+23,426221,Krefeld Am Königshof,51.31636,6.576351
+24,421587,Krefeld Am Mariengraben,51.37416,6.497371
+25,48844,Krefeld Am Mariengraben,51.373962,6.497362
+26,131843,Krefeld Am Obertor,51.351116,6.650812
+27,155727,Krefeld Am Obertor,51.35118,6.650659
+28,216191,Krefeld Am Obertor,51.351116,6.650812
+29,169056,Krefeld Am Oelvebach,51.326767,6.666038
+30,368529,Krefeld Am Plänksken,51.345192,6.64553
+31,451600,Krefeld Am Plänksken,51.344597,6.647641
+32,458058,Krefeld Am Plänksken,51.34519,6.645736
+33,48940,Krefeld Am Plänksken,51.34415,6.647048
+34,443965,Krefeld Am Porthspick,51.381313,6.509282
+35,116057,Krefeld Am Röttgen,51.353672,6.647326
+36,116636,Krefeld Am Röttgen,51.354103,6.647326
+37,186626,Krefeld Am Röttgen,51.353832,6.646329
+38,198812,Krefeld Am Röttgen,51.35378,6.646662
+39,252624,Krefeld Am Röttgen,51.35376,6.646635
+40,323431,Krefeld Am Röttgen,51.35376,6.646635
+41,341318,Krefeld Am Röttgen,51.35376,6.646635
+42,368651,Krefeld Am Röttgen,51.353832,6.646284
+43,396162,Krefeld Am Röttgen,51.353832,6.646284
+44,420382,Krefeld Am Röttgen,51.353672,6.647326
+45,78924,Krefeld Am Röttgen,51.353878,6.6473
+46,87577,Krefeld Am Röttgen,51.353065,6.647407
+47,97409,Krefeld Am Röttgen,51.354053,6.647335
+48,127830,Krefeld Am Schützenhof,51.36387,6.518742
+49,209998,Krefeld Am Schützenhof,51.36455,6.518095
+50,150314,Krefeld Am Steinacker,51.337627,6.650623
+51,234930,Krefeld Am Steinacker,51.337246,6.649617
+52,236622,Krefeld Am Steinacker,51.337494,6.650426
+53,349652,Krefeld Am Steinacker,51.337578,6.650929
+54,147735,Krefeld Am Strathhof,51.37939,6.507207
+55,244739,Krefeld Am Strathhof,51.379272,6.505581
+56,346167,Krefeld Am Strathhof,51.379272,6.505581
+57,319880,Krefeld Am Verschubbahnhof,51.330067,6.593598
+58,355452,Krefeld Am Verschubbahnhof,51.32998,6.594038
+59,108901,Krefeld Am Waldsee,51.380356,6.652734
+60,119358,Krefeld Am Waldsee,51.380356,6.652734
+61,383670,Krefeld Am Waldsee,51.380417,6.652689
+62,67203,Krefeld Am Waldwinkel,51.400463,6.546131
+63,282930,Krefeld Am Wallgarten,51.350838,6.649635
+64,361817,Krefeld Am Wallgarten,51.351223,6.649671
+65,72584,Krefeld Am Wallgarten,51.351223,6.649671
+66,170667,Krefeld Amts- und Landgericht,51.335163,6.552869
+67,417604,Krefeld Amts- und Landgericht,51.335087,6.55241
+68,175682,Krefeld An Maria Waldrast,51.296856,6.506704
+69,253372,Krefeld An der Römerschanze,51.32797,6.69827
+70,257672,Krefeld An der Römerschanze,51.32772,6.698117
+71,25304,Krefeld Anrather Straße,51.295013,6.554647
+72,433649,Krefeld Anrather Straße,51.2965,6.554719
+73,114295,Krefeld Appellweg,51.351414,6.575039
+74,24842,Krefeld Appellweg,51.35136,6.575003
+75,155060,Krefeld Arndtstraße,51.35651,6.637409
+76,18314,Krefeld Arndtstraße,51.356598,6.637247
+77,155047,Krefeld Augustastr.,51.35226,6.645206
+78,219106,Krefeld Augustastr.,51.352425,6.645144
+79,449883,Krefeld Augustastr.,51.352425,6.645144
+80,9862,Krefeld Augustastr.,51.352425,6.645144
+81,36397,Krefeld Bacherhofstraße,51.32222,6.616901
+82,53448,Krefeld Bacherhofstraße,51.322205,6.616847
+83,110196,Krefeld Badezentrum,51.350933,6.61558
+84,189255,Krefeld Badezentrum,51.35104,6.615607
+85,153805,Krefeld Bahnstraße,51.330944,6.579081
+86,192387,Krefeld Bahnstraße,51.33073,6.578776
+87,176718,Krefeld Bataverstraße,51.341164,6.680196
+88,86329,Krefeld Bataverstraße,51.34099,6.680447
+89,104467,Krefeld Behringstraße,51.365444,6.642709
+90,376045,Krefeld Behringstraße,51.365707,6.642413
+91,29225,Krefeld Bellenweg,51.30101,6.504243
+92,145055,Krefeld Benrad,51.306145,6.524662
+93,29579,Krefeld Benrad,51.30638,6.524976
+94,211727,Krefeld Benrader Straße,51.34928,6.52574
+95,357806,Krefeld Benrader Straße,51.349148,6.525236
+96,177209,Krefeld Bergheimer Straße,51.303085,6.580141
+97,190200,Krefeld Bergheimer Straße,51.30259,6.58077
+98,224235,Krefeld Bergstiege,51.378662,6.593158
+99,240077,Krefeld Bergstiege,51.37873,6.593239
+100,209175,Krefeld Bergstraße,51.357754,6.634454
+101,280139,Krefeld Bergstraße,51.357906,6.634409
+102,261914,Krefeld Bischofstraße,51.326702,6.615553
+103,451877,Krefeld Bischofstraße,51.326584,6.615769
+104,316022,Krefeld Bismarckplatz,51.33946,6.575309
+105,342733,Krefeld Bismarckplatz,51.34,6.575946
+106,227379,Krefeld Bleichpfad,51.335804,6.569658
+107,403171,Krefeld Bleichpfad,51.33556,6.569416
+108,446692,Krefeld Bockum Friedhof,51.35453,6.615859
+109,52774,Krefeld Bockum Friedhof,51.355225,6.615284
+110,241430,Krefeld Bockumer Platz,51.345936,6.618347
+111,300552,Krefeld Bockumer Platz,51.346333,6.618598
+112,385261,Krefeld Bockumer Platz,51.34574,6.618059
+113,391062,Krefeld Bockumer Platz,51.344997,6.618428
+114,202388,Krefeld Botanischer Garten,51.333347,6.599096
+115,90279,Krefeld Botanischer Garten,51.333473,6.598512
+116,326610,Krefeld Brandenburger Straße,51.33983,6.61717
+117,249049,Krefeld Brauerei,51.31565,6.57026
+118,66365,Krefeld Brauerei,51.31554,6.570395
+119,332154,Krefeld Breiten Dyk,51.346653,6.565427
+120,4319,Krefeld Breiten Dyk,51.346783,6.565571
+121,265221,Krefeld Breuershofstraße,51.29867,6.567053
+122,57491,Krefeld Bruchfeld,51.34315,6.628507
+123,298030,Krefeld Bruchweg,51.37568,6.628552
+124,389654,Krefeld Bruchweg,51.375687,6.628902
+125,221465,Krefeld Bruderschaftsweg,51.300827,6.586502
+126,239954,Krefeld Bruderschaftsweg,51.30063,6.586717
+127,196277,Krefeld Buddestraße,51.334103,6.611636
+128,30046,Krefeld Buddestraße,51.333694,6.610271
+129,100388,Krefeld Burg Linn,51.33709,6.637427
+130,106727,Krefeld Burg Linn,51.33717,6.63758
+131,271398,Krefeld Burg Linn,51.33527,6.635298
+132,382347,Krefeld Burg Linn,51.33546,6.635532
+133,19110,Krefeld Buscher Holzweg,51.375584,6.591873
+134,198670,Krefeld Buscher Holzweg,51.376232,6.590167
+135,22926,Krefeld Buscher Holzweg,51.376404,6.588199
+136,286808,Krefeld Buscher Holzweg,51.3766,6.588586
+137,160614,Krefeld Buschstraße,51.34825,6.608726
+138,20293,Krefeld Buschstraße,51.347767,6.609705
+139,388638,Krefeld Buschstraße,51.347595,6.608762
+140,456500,Krefeld Buschstraße,51.348194,6.608861
+141,447653,Krefeld Busenpfad,51.36958,6.574159
+142,80452,Krefeld Busenpfad,51.369583,6.574356
+143,372082,Krefeld Bäkerpfad,51.32159,6.576449
+144,46204,Krefeld Bäkerpfad,51.32167,6.576683
+145,298860,Krefeld Bückerfeldstraße,51.34259,6.52768
+146,363791,Krefeld Bückerfeldstraße,51.342464,6.527788
+147,308343,Krefeld Büdericher Weg,51.2947,6.594676
+148,69418,Krefeld Büdericher Weg,51.29475,6.594829
+149,263185,Krefeld CHEMPARK Ausbildung,51.372032,6.650228
+150,284975,Krefeld CHEMPARK Ausbildung,51.371502,6.649941
+151,41150,Krefeld CHEMPARK Ausbildung,51.372032,6.650228
+152,10575,Krefeld CHEMPARK Tor 15,51.37519,6.651144
+153,309924,Krefeld CHEMPARK Tor 15,51.374645,6.651046
+154,357082,Krefeld CHEMPARK Tor 15,51.374645,6.651046
+155,154991,Krefeld CHEMPARK Tor 2,51.371284,6.664583
+156,366704,Krefeld CHEMPARK Tor 2,51.37211,6.665356
+157,252272,Krefeld CHEMPARK Tor 4,51.369453,6.664098
+158,303234,Krefeld CHEMPARK Tor 4,51.369354,6.663748
+159,313515,Krefeld Carl-Sonnensch.-Str.,51.341576,6.643059
+160,70530,Krefeld Carl-Sonnensch.-Str.,51.34188,6.6435
+161,100997,Krefeld Cerestar,51.33891,6.663083
+162,219744,Krefeld Cerestar,51.338673,6.663424
+163,154413,Krefeld Clemensstraße,51.30347,6.58925
+164,421096,Krefeld Clemensstraße,51.303253,6.589547
+165,113337,Krefeld Corneliusplatz,51.325703,6.557216
+166,359682,Krefeld Corneliusplatz,51.325695,6.557666
+167,321144,Krefeld Crön,51.3323,6.611915
+168,258461,Krefeld Dahlerdyk,51.34172,6.561151
+169,320156,Krefeld Dahlerdyk,51.341496,6.56169
+170,351692,Krefeld Dakerstraße,51.327892,6.674186
+171,403388,Krefeld Dakerstraße,51.327946,6.674492
+172,436161,Krefeld Dakerstraße,51.327892,6.674186
+173,136191,Krefeld Danziger Platz,51.336613,6.642476
+174,158718,Krefeld Danziger Platz,51.336708,6.642404
+175,351372,Krefeld Danziger Platz,51.33667,6.64288
+176,373313,Krefeld Danziger Platz,51.336792,6.642503
+177,157930,Krefeld De-Greiff-Straße,51.339245,6.536519
+178,252833,Krefeld De-Greiff-Straße,51.339165,6.536474
+179,132659,Krefeld Dieselstraße,51.345608,6.524015
+180,15866,Krefeld Dieselstraße,51.345985,6.523916
+181,347314,Krefeld Dießem,51.326324,6.580204
+182,428158,Krefeld Dießem,51.326744,6.579468
+183,307633,Krefeld Dießemer Bruch,51.330254,6.590742
+184,427046,Krefeld Dießemer Bruch,51.33023,6.590562
+185,16243,Krefeld Donksiedlung,51.316696,6.602258
+186,264017,Krefeld Donksiedlung,51.316593,6.602366
+187,134777,Krefeld Dreikönigenstr.,51.330147,6.567143
+188,143315,Krefeld Dreikönigenstr.,51.330444,6.56743
+189,292245,Krefeld Dreikönigenstr.,51.330685,6.567305
+190,295178,Krefeld Dreikönigenstr.,51.33049,6.567197
+191,448651,Krefeld Dreikönigenstr.,51.33049,6.567197
+192,454505,Krefeld Dreikönigenstr.,51.330513,6.566954
+193,103046,Krefeld Drießendorfer Str.,51.34029,6.558663
+194,62235,Krefeld Drießendorfer Str.,51.34039,6.558537
+195,203709,Krefeld Dujardinstr.,51.359173,6.650812
+196,228918,Krefeld Dujardinstr.,51.35909,6.650641
+197,120398,Krefeld Edelstahlwerk Tor 3,51.299397,6.554468
+198,370193,Krefeld Edelstahlwerk Tor 3,51.29915,6.554441
+199,58557,Krefeld Edelstahlwerk Tor 3,51.298832,6.554593
+200,63169,Krefeld Edelstahlwerk Tor 3,51.300083,6.554701
+201,124285,Krefeld Eichhornstraße,51.300743,6.592574
+202,440408,Krefeld Eichhornstraße,51.300728,6.592969
+203,117115,Krefeld Elfrather Mühle,51.37286,6.614718
+204,307401,Krefeld Elfrather Mühle,51.372635,6.614978
+205,453726,Krefeld Elfrather Mühle,51.372696,6.615185
+206,38130,Krefeld Elfrather See,51.375175,6.634912
+207,8114,Krefeld Elfrather See,51.376083,6.633268
+208,156061,Krefeld Elfrather Weg,51.385754,6.600695
+209,90306,Krefeld Elfrather Weg,51.38603,6.600848
+210,189638,Krefeld Elsternweg,51.297443,6.499015
+211,133995,Krefeld Engerstraße,51.351116,6.598764
+212,339321,Krefeld Engerstraße,51.351067,6.598296
+213,221475,Krefeld Europark Ficht.,51.2955,6.55807
+214,387992,Krefeld Europark Ficht.,51.29538,6.557908
+215,328824,Krefeld Europark Süd I,51.293373,6.559301
+216,353606,Krefeld Europark Süd I,51.29335,6.559372
+217,133081,Krefeld Europark Süd II,51.291042,6.558842
+218,13984,Krefeld Fasanenstraße,51.34919,6.626782
+219,294536,Krefeld Fasanenstraße,51.349144,6.626414
+220,311688,Krefeld Fegeteschstr.,51.324608,6.676549
+221,154992,Krefeld Feldblumenstraße,51.371956,6.504108
+222,384579,Krefeld Feldblumenstraße,51.371944,6.504216
+223,18229,Krefeld Feldstraße,51.319588,6.573099
+224,190328,Krefeld Feldstraße,51.320015,6.57273
+225,415652,Krefeld Fichtenhain,51.28957,6.554692
+226,433182,Krefeld Fichtenhain,51.29028,6.55471
+227,214767,Krefeld Fischeln,51.304173,6.598458
+228,305798,Krefeld Fischeln,51.305485,6.597479
+229,6360,Krefeld Fischeln Friedhof,51.300568,6.597344
+230,77727,Krefeld Fischeln Friedhof,51.300602,6.597075
+231,11252,Krefeld Fischeln Rathaus,51.305527,6.587238
+232,279280,Krefeld Fischeln Rathaus,51.30563,6.58705
+233,59732,Krefeld Fischeln Rathaus,51.305706,6.587391
+234,344915,Krefeld Fischerheim,51.387665,6.557639
+235,360528,Krefeld Fischerheim,51.38777,6.557684
+236,63916,Krefeld Florastraße,51.3324,6.582657
+237,92957,Krefeld Florastraße,51.33229,6.582315
+238,279045,Krefeld Flünnertzdyk,51.36834,6.566361
+239,303984,Krefeld Flünnertzdyk,51.367935,6.566658
+240,382343,Krefeld Flünnertzdyk,51.368248,6.566909
+241,37304,Krefeld Forsthaus,51.300816,6.514493
+242,284509,Krefeld Frachtpostzentrum,51.292896,6.52874
+243,65217,Krefeld Frachtpostzentrum,51.29297,6.528641
+244,208845,Krefeld Frankenring,51.327953,6.551512
+245,376820,Krefeld Frankenring,51.327896,6.551333
+246,213178,Krefeld Freibad Neptun,51.30876,6.574527
+247,224918,Krefeld Freibad Neptun,51.308704,6.574644
+248,19901,Krefeld Freiheitsstraße,51.31846,6.535783
+249,2089,Krefeld Freiheitsstraße,51.318287,6.535774
+250,104022,Krefeld Friedensstr,51.3701,6.649509
+251,411927,Krefeld Friedensstr,51.36933,6.649375
+252,145805,Krefeld Friedhöfe,51.314854,6.553794
+253,73441,Krefeld Friedhöfe,51.31502,6.553632
+254,204079,Krefeld Friedrichsplatz,51.33678,6.561124
+255,276833,Krefeld Friedrichsplatz,51.33682,6.561277
+256,284610,Krefeld Friedrichsplatz,51.33682,6.561277
+257,335549,Krefeld Friedrichsplatz,51.336826,6.561241
+258,360548,Krefeld Friedrichsplatz,51.336826,6.561241
+259,423617,Krefeld Friedrichsplatz,51.336853,6.561609
+260,434534,Krefeld Friedrichsplatz,51.337265,6.560118
+261,282457,Krefeld Friedrichstraße,51.33374,6.561627
+262,358747,Krefeld Friedrichstraße,51.333874,6.562022
+263,201646,Krefeld Gatherhofstraße,51.32345,6.527752
+264,186960,Krefeld Geismühle,51.309925,6.628165
+265,336098,Krefeld Geismühle,51.309925,6.628165
+266,389906,Krefeld Geismühle,51.310066,6.628228
+267,438266,Krefeld Geismühle,51.310066,6.628228
+268,164441,Krefeld Gellep Kirche,51.329906,6.671994
+269,411778,Krefeld Gelleper Str.,51.33288,6.670826
+270,352435,Krefeld Gerberstraße,51.325695,6.565283
+271,440871,Krefeld Gerberstraße,51.32569,6.565337
+272,17313,Krefeld Gertrudisstraße,51.34815,6.622039
+273,399087,Krefeld Gertrudisstraße,51.348095,6.621608
+274,333783,Krefeld Gesch.-Scholl-Schule,51.32066,6.612391
+275,374295,Krefeld Gesch.-Scholl-Schule,51.32061,6.612265
+276,298827,Krefeld Ginsterpfad,51.30801,6.516199
+277,285950,Krefeld Girmesgath,51.33996,6.543679
+278,348346,Krefeld Girmesgath,51.339138,6.543311
+279,408503,Krefeld Girmesgath,51.33946,6.542556
+280,35742,Krefeld Glindholzstraße,51.334377,6.617008
+281,91883,Krefeld Glindholzstraße,51.334373,6.615616
+282,143400,Krefeld Glockenspitz,51.334064,6.594515
+283,377208,Krefeld Glockenspitz,51.33415,6.594191
+284,106108,Krefeld Grabeskirche/Kapuzinerkloster,51.354137,6.533717
+285,170754,Krefeld Grabeskirche/Kapuzinerkloster,51.35407,6.533797
+286,204215,Krefeld Grabeskirche/Kapuzinerkloster,51.354046,6.533896
+287,221108,Krefeld Grabeskirche/Kapuzinerkloster,51.354652,6.533088
+288,237226,Krefeld Grabeskirche/Kapuzinerkloster,51.35381,6.533456
+289,242252,Krefeld Grabeskirche/Kapuzinerkloster,51.35407,6.533797
+290,387100,Krefeld Grabeskirche/Kapuzinerkloster,51.35352,6.534543
+291,448227,Krefeld Grabeskirche/Kapuzinerkloster,51.354355,6.534256
+292,91374,Krefeld Grabeskirche/Kapuzinerkloster,51.35407,6.533797
+293,242014,Krefeld Grafschaftsplatz,51.34805,6.574913
+294,5806,Krefeld Grafschaftsplatz,51.34812,6.574994
+295,215681,Krefeld Greiffenhorst,51.337337,6.655825
+296,77831,Krefeld Greiffenhorst,51.337578,6.656373
+297,168278,Krefeld Grenzstraße,51.34191,6.583807
+298,5541,Krefeld Grenzstraße,51.341667,6.583097
+299,169985,Krefeld Grevenbroicher Str.,51.30511,6.577617
+300,295685,Krefeld Grevenbroicher Str.,51.305225,6.577518
+301,249554,Krefeld Gripswaldstraße,51.322014,6.539403
+302,315049,Krefeld Gripswaldstraße,51.32122,6.538541
+303,14367,Krefeld Grotenburg/Zoo,51.34131,6.599096
+304,82952,Krefeld Grotenburg/Zoo,51.34119,6.598746
+305,135511,Krefeld Grotenburgstraße,51.345562,6.596644
+306,350784,Krefeld Grotenburgstraße,51.345474,6.595961
+307,107721,Krefeld Großmarkt,51.333828,6.588514
+308,328919,Krefeld Großmarkt,51.33374,6.587966
+309,113404,Krefeld Grundend,51.300068,6.601405
+310,155686,Krefeld Grundend,51.299683,6.601962
+311,351104,Krefeld Grundend,51.30017,6.601656
+312,754,Krefeld Grundend,51.3001,6.601459
+313,119837,Krefeld Grüner Dyk,51.34046,6.566855
+314,563,Krefeld Grüner Dyk,51.340755,6.565391
+315,265486,Krefeld Gubener Straße,51.3669,6.619874
+316,294408,Krefeld Gubener Straße,51.366825,6.619416
+317,254354,Krefeld Gutenbergstraße,51.330433,6.54446
+318,48252,Krefeld Gutenbergstraße,51.330647,6.54561
+319,217302,Krefeld H.-G.-Sohl-Str. 2,51.289783,6.546742
+320,333757,Krefeld H.-G.-Sohl-Str. 6,51.29243,6.546392
+321,79211,Krefeld HPZ Uerdingen,51.36981,6.639502
+322,12376,Krefeld Haberlandstraße,51.369488,6.636421
+323,325210,Krefeld Haberlandstraße,51.36913,6.636475
+324,214817,Krefeld Hafelsstraße,51.313984,6.593059
+325,263137,Krefeld Hafelsstraße,51.31402,6.593113
+326,8901,Krefeld Hafelsstraße,51.31322,6.592925
+327,107715,Krefeld Hasenheide,51.375034,6.598826
+328,166895,Krefeld Hasenheide,51.374775,6.598844
+329,24965,Krefeld Hauptbahnhof Süd,51.324608,6.570269
+330,432565,Krefeld Hauptbahnhof Süd,51.324646,6.570098
+331,10600,Krefeld Haus Lange,51.347492,6.583034
+332,36203,Krefeld Haus Lange,51.347546,6.583187
+333,125796,Krefeld Hbf,51.325634,6.568302
+334,131568,Krefeld Hbf,51.325363,6.567637
+335,147877,Krefeld Hbf,51.32586,6.56849
+336,220553,Krefeld Hbf,51.326706,6.569595
+337,241440,Krefeld Hbf,51.325623,6.568194
+338,300515,Krefeld Hbf,51.325916,6.568463
+339,343542,Krefeld Hbf,51.326706,6.569595
+340,396573,Krefeld Hbf,51.32678,6.570071
+341,399700,Krefeld Hbf,51.32678,6.570071
+342,424255,Krefeld Hbf,51.325634,6.567682
+343,63934,Krefeld Hbf,51.32522,6.567125
+344,7273,Krefeld Hbf,51.325596,6.567906
+345,25353,Krefeld Heckschenstraße,51.322906,6.617862
+346,381202,Krefeld Heckschenstraße,51.322124,6.61841
+347,104445,Krefeld Heidbergsweg,51.326805,6.672039
+348,203224,Krefeld Heidbergsweg,51.32669,6.672084
+349,273832,Krefeld Heidbergsweg,51.32669,6.672084
+350,197619,Krefeld Heideckstraße,51.316757,6.551503
+351,374935,Krefeld Heideckstraße,51.316853,6.551449
+352,128508,Krefeld Heidedyk,51.361458,6.57618
+353,413712,Krefeld Heidedyk,51.361378,6.576548
+354,170755,Krefeld Heimatplan,51.321453,6.532252
+355,385525,Krefeld Heimatplan,51.321465,6.532082
+356,11543,Krefeld Hentrichstraße,51.34412,6.668922
+357,390449,Krefeld Hentrichstraße,51.343914,6.669299
+358,234674,Krefeld Herm.-Schumacher-Str.,51.295216,6.503443
+359,263564,Krefeld Heyenbaumstraße,51.361504,6.571715
+360,321502,Krefeld Heyenbaumstraße,51.36114,6.570736
+361,322839,Krefeld Heyenbaumstraße,51.361473,6.571455
+362,325051,Krefeld Heyenbaumstraße,51.361233,6.570628
+363,132275,Krefeld Hinter Flur,51.32862,6.603031
+364,247836,Krefeld Hinter Flur,51.328766,6.603156
+365,33070,Krefeld Hinterorbroich,51.396996,6.496526
+366,420335,Krefeld Hinterorbroich,51.397827,6.497011
+367,235335,Krefeld Hochstraße,51.32786,6.565562
+368,375649,Krefeld Hochstraße,51.327923,6.564789
+369,286922,Krefeld Hohe Linden,51.354572,6.574213
+370,431726,Krefeld Hohe Linden,51.354263,6.574338
+371,358368,Krefeld Holterhöfe,51.291862,6.51761
+372,66733,Krefeld Holterhöfe,51.291885,6.519164
+373,23222,Krefeld Holunderpfad,51.30648,6.509013
+374,66351,Krefeld Horkesgath,51.339283,6.533483
+375,91440,Krefeld Horkesgath,51.33922,6.533654
+376,236336,Krefeld Hubertusstraße,51.335648,6.55542
+377,407700,Krefeld Hubertusstraße,51.335552,6.554647
+378,156348,Krefeld Höffgeshofweg,51.30164,6.566559
+379,294798,Krefeld Hückelsmay Denkmal,51.29833,6.531345
+380,90752,Krefeld Hückelsmay Denkmal,51.29945,6.531552
+381,190820,Krefeld Hückelsmaystraße,51.30494,6.522685
+382,384659,Krefeld Hückelsmaystraße,51.304905,6.522559
+383,144614,Krefeld Hüls Betriebshof,51.370033,6.512435
+384,295787,Krefeld Hüls Betriebshof,51.36926,6.513037
+385,387716,Krefeld Hüls Friedhof,51.37834,6.503362
+386,424803,Krefeld Hüls Friedhof,51.3783,6.503246
+387,229486,Krefeld Hüls Krankenhaus,51.37624,6.513837
+388,123191,Krefeld Hülser Berg,51.3964,6.534121
+389,383307,Krefeld Hülser Markt,51.37252,6.509004
+390,402568,Krefeld Hülser Markt,51.372395,6.509121
+391,44509,Krefeld Hülser Markt,51.372482,6.509076
+392,71179,Krefeld Hülser Markt,51.372303,6.510783
+393,74028,Krefeld Hülser Markt,51.373028,6.510576
+394,74917,Krefeld Hülser Markt,51.372482,6.509076
+395,92918,Krefeld Ibelskathweg,51.32223,6.52609
+396,441594,Krefeld Idastraße,51.338135,6.628525
+397,322757,Krefeld Im Benrader Feld,51.304214,6.540148
+398,257700,Krefeld Inrath Siedlung,51.356934,6.529351
+399,303358,Krefeld Inrath Siedlung,51.357136,6.529135
+400,371242,Krefeld Insterburger Platz,51.363667,6.613819
+401,416031,Krefeld Insterburger Platz,51.363407,6.613792
+402,438370,Krefeld Johannes-Blum-Straße,51.312176,6.586259
+403,181518,Krefeld Kaiser Wilhelm Museum,51.3298,6.55913
+404,33733,Krefeld Kaiser Wilhelm Museum,51.329884,6.559633
+405,122139,Krefeld Kaiser-Wilhelm-Park,51.335503,6.549841
+406,199824,Krefeld Kaiser-Wilhelm-Park,51.335552,6.549796
+407,23481,Krefeld Kaiserplatz,51.343983,6.590867
+408,87851,Krefeld Kaiserplatz,51.343884,6.5904
+409,369018,Krefeld Kaiserstraße,51.33975,6.592242
+410,38010,Krefeld Kaiserstraße,51.3396,6.591739
+411,186401,Krefeld Kaiserswerther Str.,51.32666,6.669677
+412,24344,Krefeld Kaldenkirchener Str.,51.32122,6.529054
+413,341325,Krefeld Kaldenkirchener Str.,51.321228,6.529144
+414,194191,Krefeld Kampstraße,51.3597,6.630447
+415,375998,Krefeld Kampstraße,51.359924,6.629585
+416,435907,Krefeld Kastanienstr.,51.363323,6.648387
+417,437007,Krefeld Kastanienstr.,51.363323,6.648387
+418,450286,Krefeld Kastanienstr.,51.363426,6.648297
+419,453494,Krefeld Kastanienstr.,51.363426,6.648297
+420,161094,Krefeld Kemmerhofstraße,51.37246,6.600964
+421,384847,Krefeld Kemmerhofstraße,51.372456,6.600623
+422,11841,Krefeld Kempener Feld,51.350243,6.528973
+423,333808,Krefeld Kempener Feld,51.34999,6.528399
+424,252797,Krefeld Kempener Platte,51.3266,6.524509
+425,293265,Krefeld Kempener Platte,51.326477,6.524141
+426,317572,Krefeld Kimplerstraße,51.30738,6.577069
+427,47579,Krefeld Kimplerstraße,51.306538,6.577384
+428,457881,Krefeld Klever Str.,51.381035,6.505698
+429,42905,Krefeld Kliedbruchstraße,51.352165,6.567323
+430,8753,Krefeld Kliedbruchstraße,51.352116,6.567556
+431,236653,Krefeld Klinikum,51.32241,6.570242
+432,353842,Krefeld Klinikum,51.322144,6.570565
+433,24843,Krefeld Korekamp,51.327766,6.614134
+434,417071,Krefeld Korekamp,51.327763,6.614071
+435,14275,Krefeld Krematorium,51.308727,6.548772
+436,284522,Krefeld Krematorium,51.30865,6.54915
+437,444575,Krefeld Krumme Str.,51.331776,6.673494
+438,160812,Krefeld Krüllsdyk,51.348392,6.561924
+439,214402,Krefeld Krüllsdyk,51.34891,6.560522
+440,196600,Krefeld Kuhleshütte,51.330166,6.604755
+441,250924,Krefeld Königshof,51.31592,6.589322
+442,326202,Krefeld Königshof,51.31545,6.589646
+443,227014,Krefeld Körnerstraße,51.36277,6.646841
+444,58071,Krefeld Körnerstraße,51.362724,6.646509
+445,258469,Krefeld Kützhofweg,51.359753,6.524976
+446,271044,Krefeld Kützhofweg,51.36084,6.523476
+447,371270,Krefeld Kützhofweg,51.360424,6.523763
+448,380262,Krefeld Kützhofweg,51.360043,6.524536
+449,65399,Krefeld Kützhofweg,51.360043,6.524536
+450,8557,Krefeld Kützhofweg,51.35992,6.524751
+451,110542,Krefeld Lange Straße,51.351864,6.639529
+452,97405,Krefeld Lange Straße,51.351624,6.638685
+453,399817,Krefeld Langen Donk,51.3184,6.599401
+454,402942,Krefeld Langen Donk,51.31824,6.59897
+455,442980,Krefeld Langen Donk,51.31833,6.599482
+456,457245,Krefeld Langen Donk,51.318314,6.599087
+457,430694,Krefeld Laschenhütte,51.30455,6.5055
+458,115577,Krefeld Latumer Str.,51.32384,6.683681
+459,189604,Krefeld Latumer Str.,51.323822,6.68413
+460,336353,Krefeld Lehmheide,51.316208,6.559417
+461,444541,Krefeld Lehmheide,51.316364,6.55948
+462,395997,Krefeld Lerchenstraße,51.376762,6.496724
+463,405819,Krefeld Lerchenstraße,51.376694,6.496598
+464,372425,Krefeld Leydelstraße,51.363754,6.569128
+465,441903,Krefeld Leydelstraße,51.3642,6.568895
+466,343836,Krefeld Limbourgplatz,51.308556,6.557468
+467,410665,Krefeld Limbourgplatz,51.308537,6.557216
+468,138111,Krefeld Lindental Ev. Kirche,51.320873,6.53581
+469,410742,Krefeld Lindental Ev. Kirche,51.320778,6.535953
+470,119219,Krefeld Linn Bf,51.33499,6.631983
+471,181447,Krefeld Linn Bf,51.33504,6.631615
+472,439532,Krefeld Linn Bf,51.335148,6.630303
+473,253436,Krefeld Linn Friedhof,51.339523,6.640526
+474,439738,Krefeld Linn Friedhof,51.339603,6.640571
+475,416371,Krefeld Linner Straße,51.34762,6.647821
+476,81802,Krefeld Linner Straße,51.347786,6.647794
+477,186505,Krefeld Lousbilldyk,51.383476,6.55745
+478,324142,Krefeld Lousbilldyk,51.38401,6.557441
+479,236568,Krefeld Lüschdonk,51.31843,6.60683
+480,420992,Krefeld Lüschdonk,51.31851,6.607028
+481,227971,Krefeld Magdeburger Str.,51.36046,6.615823
+482,249616,Krefeld Magdeburger Str.,51.359985,6.615535
+483,274744,Krefeld Maria-Sohmann-Straße,51.37277,6.580249
+484,60048,Krefeld Maria-Sohmann-Straße,51.373234,6.580851
+485,396420,"Krefeld Markthalle real,-",51.322025,6.600866
+486,415756,Krefeld Martinstraße,51.320496,6.562256
+487,424140,Krefeld Martinstraße,51.320686,6.562337
+488,160114,Krefeld Mengshofstraße,51.31451,6.558276
+489,205542,Krefeld Mengshofstraße,51.314075,6.557953
+490,40887,Krefeld Mevissenstraße,51.346546,6.532657
+491,22175,Krefeld Minkweg,51.35518,6.569874
+492,376602,Krefeld Minkweg,51.35444,6.569901
+493,127999,Krefeld Moerser Platz,51.341747,6.569802
+494,61130,Krefeld Moerser Platz,51.342487,6.570826
+495,157009,Krefeld Molenaarstraße,51.392693,6.539466
+496,317124,Krefeld Molenaarstraße,51.39284,6.539331
+497,357338,Krefeld Moltkestraße,51.33709,6.580752
+498,365033,Krefeld Moltkestraße,51.33704,6.580384
+499,212147,Krefeld Moritzplatz,51.344852,6.548826
+500,285643,Krefeld Moritzplatz,51.344616,6.549239
+501,311064,Krefeld Moritzplatz,51.344734,6.54879
+502,348396,Krefeld Moritzplatz,51.344616,6.549239
+503,363149,Krefeld Moritzplatz,51.344852,6.548826
+504,417331,Krefeld Moritzplatz,51.34446,6.547775
+505,434620,Krefeld Moritzplatz,51.344734,6.54879
+506,4606,Krefeld Moritzplatz,51.344833,6.548853
+507,66886,Krefeld Moritzplatz,51.344593,6.549275
+508,76869,Krefeld Moritzplatz,51.34448,6.54817
+509,185529,Krefeld Mündelheimer Str.,51.35265,6.643383
+510,342947,Krefeld Mündelheimer Str.,51.35253,6.642907
+511,165645,Krefeld Nauenweg,51.326836,6.546922
+512,329362,Krefeld Nauenweg,51.327114,6.547964
+513,202507,Krefeld Neißestraße,51.361305,6.623521
+514,428427,Krefeld Neißestraße,51.36139,6.623359
+515,345552,Krefeld Neuburgshof,51.29751,6.590167
+516,426181,Krefeld Neuburgshof,51.297867,6.58961
+517,312304,Krefeld Neuer Weg,51.337887,6.546059
+518,413838,Krefeld Neuer Weg,51.337753,6.546212
+519,249919,Krefeld Neukirchener Straße,51.370743,6.61858
+520,261396,Krefeld Neukirchener Straße,51.370544,6.615688
+521,308185,Krefeld Neukirchener Straße,51.370556,6.615643
+522,71139,Krefeld Neukirchener Straße,51.37024,6.617547
+523,161868,Krefeld Niederbruch,51.316006,6.591317
+524,207312,Krefeld Niederbruch,51.31631,6.590984
+525,33445,Krefeld Nirostastr.,51.290855,6.550856
+526,111857,Krefeld Nordwall,51.337063,6.563936
+527,319335,Krefeld Nordwall,51.33665,6.564107
+528,143866,Krefeld Oberbenrad,51.324673,6.516217
+529,434944,Krefeld Oberbenrad,51.324482,6.514933
+530,122677,Krefeld Oberend,51.319477,6.625695
+531,21396,Krefeld Oberend,51.31862,6.627177
+532,314752,Krefeld Oberend Wendeschleife,51.31809,6.627662
+533,11911,Krefeld Obergath,51.314335,6.567924
+534,190598,Krefeld Obergath,51.31381,6.568347
+535,40478,Krefeld Obergplatz,51.328907,6.536753
+536,94688,Krefeld Obergplatz,51.328953,6.537184
+537,120532,Krefeld Oberschlesienstraße,51.311066,6.554288
+538,142509,Krefeld Oberschlesienstraße,51.3112,6.554836
+539,23433,Krefeld Oberschlesienstraße,51.311745,6.55551
+540,291601,Krefeld Oberschlesienstraße,51.311314,6.555159
+541,112914,Krefeld Oldenburger Weg,51.35045,6.632711
+542,197576,Krefeld Oldenburger Weg,51.35043,6.632738
+543,434366,Krefeld Oldenburger Weg,51.350174,6.631516
+544,453107,Krefeld Oldenburger Weg,51.35027,6.631858
+545,57919,Krefeld Oppum Bf,51.32885,6.612858
+546,410502,Krefeld Oppum Bf Nord,51.33011,6.610505
+547,89190,Krefeld Oppum Bökendonk,51.325253,6.608438
+548,363742,Krefeld Oranierring,51.341618,6.556013
+549,451947,Krefeld Oranierring,51.34156,6.556201
+550,74659,Krefeld Oranierring,51.341797,6.5556
+551,85595,Krefeld Oranierring,51.34156,6.556201
+552,165987,Krefeld Papendyk,51.38057,6.559094
+553,331101,Krefeld Papendyk,51.38045,6.559193
+554,144180,Krefeld Pappelstraße,51.36616,6.615993
+555,249342,Krefeld Pappelstraße,51.366077,6.615409
+556,354256,Krefeld Pappelstraße,51.36634,6.616092
+557,383302,Krefeld Pappelstraße,51.3667,6.616065
+558,408005,Krefeld Pestalozzistraße,51.35278,6.538262
+559,406550,Krefeld Philadelphiastr.,51.33503,6.571599
+560,74244,Krefeld Philadelphiastr.,51.334885,6.571095
+561,194634,Krefeld Philipp-Reis-Str.,51.309826,6.590014
+562,103986,Krefeld Preußenring,51.331123,6.54817
+563,26568,Krefeld Preußenring,51.33133,6.549051
+564,217986,Krefeld Querstraße,51.35521,6.641604
+565,231449,Krefeld Querstraße,51.355534,6.640436
+566,110794,Krefeld Randstraße,51.314728,6.533708
+567,317919,Krefeld Randstraße,51.31484,6.533806
+568,306455,Krefeld Rather Straße,51.37436,6.584741
+569,82446,Krefeld Rather Straße,51.374912,6.585711
+570,362775,Krefeld Reepenweg,51.371742,6.498503
+571,40169,Krefeld Reepenweg,51.371506,6.498485
+572,166926,Krefeld Reepenweg S`zentrum,51.37032,6.497092
+573,19116,Krefeld Reitstall Hubertus,51.363476,6.590292
+574,366260,Krefeld Reitstall Hubertus,51.36376,6.591281
+575,161483,Krefeld Rektoratsstraße,51.373875,6.513684
+576,164265,Krefeld Rektoratsstraße,51.374065,6.514376
+577,157776,Krefeld Rembertstraße,51.33578,6.627447
+578,182614,Krefeld Rembertstraße,51.33488,6.624761
+579,22309,Krefeld Rembertstraße,51.334984,6.625057
+580,33678,Krefeld Remscheider Straße,51.309547,6.565203
+581,829,Krefeld Remscheider Straße,51.309452,6.56434
+582,102689,Krefeld Rheinbrücke,51.346764,6.655546
+583,358000,Krefeld Rheinbrücke,51.347034,6.655447
+584,411121,Krefeld Rheinbrücke,51.34741,6.654684
+585,416999,Krefeld Rheinbrücke,51.347034,6.655447
+586,208135,Krefeld Rheinhafen,51.34166,6.65878
+587,220992,Krefeld Rheinhafen,51.341423,6.660226
+588,260320,Krefeld Rheinhafen,51.342518,6.659876
+589,28038,Krefeld Rheinhafen,51.34159,6.659768
+590,381167,Krefeld Rheinhafen,51.342495,6.659768
+591,128298,Krefeld Rheinstraße,51.333157,6.565885
+592,152174,Krefeld Rheinstraße,51.3325,6.566083
+593,188215,Krefeld Rheinstraße,51.332886,6.565804
+594,21669,Krefeld Rheinstraße,51.3325,6.566083
+595,332972,Krefeld Rheinstraße,51.333157,6.565885
+596,356617,Krefeld Rheinstraße,51.333473,6.565993
+597,402707,Krefeld Rheinstraße,51.3334,6.565912
+598,419586,Krefeld Rheinstraße,51.33262,6.565885
+599,63415,Krefeld Rheinstraße,51.333004,6.566227
+600,66672,Krefeld Rheinstraße,51.3334,6.565912
+601,129847,Krefeld Ricarda-Huch-Schule,51.339474,6.566334
+602,300730,Krefeld Ricarda-Huch-Schule,51.339027,6.565804
+603,138225,Krefeld Richard-Wagner-Str.,51.34346,6.576252
+604,50054,Krefeld Richard-Wagner-Str.,51.34374,6.57565
+605,358580,Krefeld Rickenweg,51.290733,6.507764
+606,64076,Krefeld Rickenweg,51.29076,6.508133
+607,132879,Krefeld Ritterstraße,51.327232,6.580519
+608,82215,Krefeld Ritterstraße,51.32735,6.580654
+609,212348,Krefeld Ritzhütte,51.32211,6.585334
+610,28077,Krefeld Ritzhütte,51.322227,6.585406
+611,399959,Krefeld Rosenstraße,51.303383,6.584606
+612,53998,Krefeld Rosenstraße,51.30343,6.583798
+613,97183,Krefeld Rosenstraße,51.30357,6.584256
+614,118452,Krefeld Roßstraße,51.32879,6.555186
+615,121871,Krefeld Roßstraße,51.328644,6.554504
+616,15797,Krefeld Rumelner Straße,51.369305,6.618904
+617,209943,Krefeld Sachsenweg,51.309025,6.56134
+618,247472,Krefeld Sachsenweg,51.308964,6.560882
+619,142125,Krefeld Sandberg,51.331802,6.604854
+620,174062,Krefeld Sandberg,51.33169,6.604612
+621,223920,Krefeld Scharfstraße,51.322678,6.555366
+622,3360,Krefeld Scharfstraße,51.32257,6.555213
+623,248824,Krefeld Scheiblerstraße,51.34643,6.602554
+624,99993,Krefeld Scheiblerstraße,51.346596,6.60357
+625,256699,Krefeld Schicks,51.327744,6.530393
+626,445354,Krefeld Schicks,51.327766,6.530878
+627,105025,Krefeld Schlehdornweg,51.308216,6.51222
+628,173952,Krefeld Schroersdyk,51.349133,6.541352
+629,302313,Krefeld Schroersdyk,51.35042,6.539466
+630,332255,Krefeld Schroersdyk,51.34954,6.54102
+631,338162,Krefeld Schroersdyk,51.350136,6.539951
+632,360853,Krefeld Schroersdyk,51.35036,6.539592
+633,407919,Krefeld Schroersdyk,51.35036,6.539592
+634,417074,Krefeld Schroersdyk,51.350136,6.539951
+635,212696,Krefeld Schulstr.,51.36854,6.512031
+636,338954,Krefeld Schulz. Horkesgath,51.33629,6.530851
+637,155110,Krefeld Schweersweg,51.351635,6.554468
+638,291860,Krefeld Schweersweg,51.35154,6.554584
+639,202969,Krefeld Schöddungstraße,51.39355,6.599123
+640,236250,Krefeld Schöddungstraße,51.3938,6.599204
+641,191968,Krefeld Schöneberger Straße,51.31591,6.596437
+642,267140,Krefeld Schöneberger Straße,51.31564,6.596006
+643,159472,Krefeld Schönwasserstraße,51.350002,6.591918
+644,433540,Krefeld Schönwasserstraße,51.349953,6.591775
+645,125135,Krefeld Schütenhofstraße,51.34792,6.613307
+646,88035,Krefeld Schütenhofstraße,51.34741,6.612813
+647,186404,Krefeld Schützenstraße,51.363594,6.644299
+648,215389,Krefeld Schützenstraße,51.363728,6.6442
+649,62108,Krefeld Seniorenzentrum,51.35003,6.553228
+650,67718,Krefeld Seniorenzentrum,51.3499,6.55339
+651,124560,Krefeld Siemens AG,51.365803,6.648189
+652,244855,Krefeld Siemens AG,51.365803,6.648189
+653,357965,Krefeld Siemens AG,51.366085,6.648342
+654,406800,Krefeld Siemens AG,51.366085,6.648342
+655,107160,Krefeld Siemesdyk,51.319004,6.588334
+656,443284,Krefeld Siemesdyk,51.3188,6.588514
+657,240739,Krefeld Siempelkampstraße,51.349445,6.529297
+658,339035,Krefeld Sollbrüggenstraße,51.344715,6.614026
+659,92162,Krefeld Sollbrüggenstraße,51.344593,6.613649
+660,147883,Krefeld Sonnenhof,51.342487,6.604333
+661,319778,Krefeld Sonnenhof,51.34255,6.604728
+662,270504,Krefeld Spey,51.332756,6.698261
+663,435546,Krefeld Spey,51.332657,6.69862
+664,434108,Krefeld Sporth. Glockenspitz,51.337383,6.611583
+665,372699,Krefeld Sprödentalplatz,51.338196,6.585576
+666,6099,Krefeld Sprödentalplatz,51.338425,6.586304
+667,32396,Krefeld Stadtgarten,51.332253,6.55374
+668,98127,Krefeld Stadtgarten,51.332325,6.554288
+669,268159,Krefeld Stadtpark Fischeln,51.308834,6.583905
+670,303035,Krefeld Stadtpark Fischeln,51.31,6.583411
+671,314768,Krefeld Stadtpark Fischeln,51.309036,6.583654
+672,425161,Krefeld Stadtpark Fischeln,51.31007,6.5836
+673,146642,Krefeld Stadtwald,51.348763,6.57777
+674,205938,Krefeld Stadtwald,51.348766,6.577905
+675,170246,Krefeld Steeger Dyk,51.365967,6.514933
+676,191393,Krefeld Steeger Dyk,51.365967,6.514933
+677,342576,Krefeld Steeger Dyk,51.367123,6.515436
+678,357507,Krefeld Steeger Dyk,51.367283,6.515175
+679,368002,Krefeld Steeger Dyk,51.367252,6.515211
+680,404402,Krefeld Steeger Dyk,51.367283,6.515175
+681,74864,Krefeld Steeger Dyk,51.36718,6.515292
+682,352208,Krefeld Sterkenhofweg,51.299294,6.566523
+683,24548,Krefeld Stettiner Straße,51.363987,6.623925
+684,246209,Krefeld Stettiner Straße,51.363586,6.623782
+685,12527,Krefeld Stockerhof,51.323265,6.617547
+686,65799,Krefeld Stockerhof,51.324078,6.617053
+687,288983,Krefeld Stockweg,51.300983,6.498664
+688,110822,Krefeld Stratum,51.32921,6.669335
+689,169903,Krefeld Stratum,51.329205,6.66929
+690,420229,Krefeld Stratum,51.329338,6.670548
+691,425195,Krefeld Stratum,51.3293,6.670548
+692,181706,Krefeld Südwall,51.32749,6.562427
+693,397173,Krefeld Südwall,51.327858,6.562283
+694,398836,Krefeld Tackheide,51.307526,6.546176
+695,81899,Krefeld Tackheide,51.307465,6.546527
+696,152688,Krefeld ThyssenKrupp Nirosta,51.30368,6.554432
+697,159310,Krefeld ThyssenKrupp Nirosta,51.30337,6.554405
+698,269545,Krefeld ThyssenKrupp Nirosta,51.304012,6.554701
+699,275757,Krefeld ThyssenKrupp Nirosta,51.302834,6.554647
+700,368124,Krefeld Thyssenstraße,51.30757,6.554468
+701,404446,Krefeld Thyssenstraße,51.307285,6.554441
+702,271607,Krefeld Tiroler Weg,51.31115,6.570386
+703,291178,Krefeld Tiroler Weg,51.311344,6.570242
+704,429119,Krefeld Tiroler Weg,51.310234,6.570305
+705,95514,Krefeld Tiroler Weg,51.310223,6.57
+706,128845,Krefeld Topsstraße,51.36581,6.637804
+707,264629,Krefeld Topsstraße,51.365337,6.638334
+708,378920,Krefeld Traar Rathaus,51.381012,6.598404
+709,422482,Krefeld Traar Rathaus,51.38067,6.597704
+710,278771,Krefeld Traarer Straße,51.36319,6.616541
+711,344215,Krefeld Traarer Straße,51.36258,6.616442
+712,181716,Krefeld Trautstraße,51.379173,6.59933
+713,310006,Krefeld Trautstraße,51.378796,6.599392
+714,287360,Krefeld Trift,51.32683,6.59694
+715,56569,Krefeld Trift,51.327183,6.596679
+716,349008,Krefeld Türkenbruch,51.34346,6.641523
+717,443854,Krefeld Türkenbruch,51.343292,6.641829
+718,102111,Krefeld Uerdingen Bf,51.356586,6.646195
+719,128227,Krefeld Uerdingen Bf,51.357643,6.647273
+720,148083,Krefeld Uerdingen Bf,51.357643,6.647273
+721,195247,Krefeld Uerdingen Bf,51.356594,6.646401
+722,292530,Krefeld Uerdingen Bf,51.356594,6.646401
+723,295144,Krefeld Uerdingen Bf,51.356594,6.646401
+724,428562,Krefeld Uerdingen Bf,51.356594,6.646401
+725,71086,Krefeld Uerdingen Bf,51.357643,6.647273
+726,155026,Krefeld Verberger Straße,51.348232,6.618032
+727,185657,Krefeld Verberger Straße,51.3482,6.618149
+728,172761,Krefeld Viktoriastraße,51.3361,6.576342
+729,350791,Krefeld Viktoriastraße,51.336212,6.576782
+730,29953,Krefeld Virchowstraße,51.324856,6.575964
+731,60223,Krefeld Virchowstraße,51.324364,6.576063
+732,350773,Krefeld Vluyner Platz,51.34465,6.571527
+733,415897,Krefeld Vluyner Platz,51.3448,6.57159
+734,125818,Krefeld Voltastraße,51.328526,6.574886
+735,327245,Krefeld Voltastraße,51.3288,6.575228
+736,150885,Krefeld Von-Ketteler-Straße,51.312996,6.579737
+737,296648,Krefeld Von-Ketteler-Straße,51.312817,6.578839
+738,342273,Krefeld Von-Ketteler-Straße,51.313244,6.579459
+739,84429,Krefeld Von-Ketteler-Straße,51.312912,6.579037
+740,145347,Krefeld Vorderorbroich,51.388374,6.501422
+741,149148,Krefeld Vorderorbroich,51.388374,6.501422
+742,133528,Krefeld Vorster Straße,51.319263,6.550614
+743,354018,Krefeld Vorster Straße,51.319405,6.551063
+744,143075,Krefeld Waldesheimer Weg,51.37085,6.56487
+745,426080,Krefeld Waldesheimer Weg,51.371284,6.564655
+746,248318,Krefeld Wallenburgdyk,51.349686,6.558268
+747,411521,Krefeld Wallenburgdyk,51.3498,6.558016
+748,179827,Krefeld Wallerhof,51.365494,6.603992
+749,319437,Krefeld Wallerhof,51.36544,6.604495
+750,188019,Krefeld Wallerspfad,51.365467,6.599267
+751,94794,Krefeld Wallerspfad,51.36545,6.598485
+752,194215,Krefeld Weeserweg,51.325302,6.542799
+753,395893,Krefeld Weeserweg,51.32519,6.542745
+754,244727,Krefeld Weetekamp,51.326263,6.609894
+755,28164,Krefeld Weetekamp,51.326324,6.610073
+756,353987,Krefeld Weiden,51.327244,6.599851
+757,405207,Krefeld Weiden,51.327255,6.599958
+758,67523,Krefeld Weidenbruchweg,51.33714,6.660056
+759,103495,Krefeld Werner-Voß-Str.,51.357964,6.613873
+760,204896,Krefeld Werner-Voß-Str.,51.357918,6.613873
+761,162846,Krefeld Westpark,51.34031,6.530617
+762,17213,Krefeld Westpark,51.34101,6.529584
+763,187095,Krefeld Westpreußenstraße,51.339684,6.654495
+764,62390,Krefeld Westpreußenstraße,51.34008,6.655151
+765,120728,Krefeld Westwall/Rathaus,51.333244,6.558842
+766,191847,Krefeld Westwall/Rathaus,51.33302,6.558061
+767,424381,Krefeld Weyerhofstraße,51.3465,6.545718
+768,427875,Krefeld Weyerhofstraße,51.34664,6.545368
+769,123849,Krefeld Wiesenstraße,51.349983,6.604243
+770,400210,Krefeld Wiesenstraße,51.350147,6.60392
+771,111682,Krefeld Wilhelmshofallee,51.346336,6.577905
+772,170767,Krefeld Wilhelmshofallee,51.34611,6.576836
+773,315131,Krefeld Wilmendyk,51.34835,6.551916
+774,55752,Krefeld Wilmendyk,51.3481,6.55171
+775,404772,Krefeld Winkelsweg,51.389095,6.599752
+776,91644,Krefeld Winkelsweg,51.389,6.599833
+777,173077,Krefeld YAYLA ARENA,51.340843,6.538702
+778,7306,Krefeld YAYLA ARENA,51.340744,6.538936
+779,207043,Krefeld Yachthafen,51.335705,6.689772
+780,270477,Krefeld Yachthafen,51.335495,6.690212
+781,117519,Krefeld Zum Römer,51.33525,6.667089
+782,131586,Krefeld Zum Römer,51.33525,6.667089
+783,45123,Krefeld Zum Römer,51.33503,6.667179
+784,167516,Krefeld Zur Alten Schmiede,51.311516,6.531884
+785,422451,Krefeld Zur Alten Schmiede,51.311684,6.531974
+786,205302,Krefeld Zwingenbergstraße,51.361294,6.586025
+787,373073,Krefeld Zwingenbergstraße,51.361423,6.586564
+788,240089,Krefeld central bus station,51.32466,6.569686
+789,1488,"Krefeld, Am Königspark",51.37562,6.516774
+790,246350,"Krefeld, Am Königspark",51.375668,6.516936
+791,217747,"Krefeld, Campus Fichtenhain",51.290707,6.56469
+792,331760,"Krefeld, Ennsstraße",51.320904,6.601467
+793,74002,"Krefeld, Ennsstraße",51.320896,6.601378
+794,227632,"Krefeld, Fichtenhainer Allee",51.29434,6.563406
+795,277220,"Krefeld, Fichtenhainer Allee",51.294304,6.563702
+796,179352,Krefeld-Oppum,51.32975,6.61009
+797,219956,Krkh. Maria Hilf,51.32547,6.583196
+798,434400,Krkh. Maria Hilf,51.325733,6.582827

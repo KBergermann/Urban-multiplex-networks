@@ -1,0 +1,2119 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,153310,F Achenbachstraße NBurnitzstraße,50.097466,8.676643
+1,276546,F Achenbachstraße NHolbein-Schule,50.097466,8.676643
+2,135371,F Adalbert-/Schloßstr. Bus NBockenh. W,50.119045,8.643569
+3,68590,F Adalbert-/Schloßstr. Bus VBockenh. W.,50.119045,8.643569
+4,395953,F Adalbert-/Schloßstr. Bus VKurfNWebf,50.119045,8.643569
+5,104755,F Adalbert-/Schloßstr. Strab NGinnh/West,50.119045,8.643569
+6,251377,F Adalbert-/Schloßstr. Strab NMesse/West,50.119045,8.643569
+7,423907,F Adam-Opel-Straße Bus NC.-Benz-Str.,50.12381,8.755474
+8,188865,F Adam-Opel-Straße Bus NH.-Junkers-S,50.12381,8.755474
+9,128153,F Adlerflychtplatz Bus NBornwiesenwg,50.12414,8.681428
+10,8573,F Adlerflychtplatz Bus NHynspergstr.,50.12414,8.681428
+11,236263,F Adolph-Prior-Straße Bus NH-Hopf-Str,50.12801,8.579871
+12,230862,F Adolph-Prior-Straße Bus NW-Fay-Str.N.,50.12801,8.579871
+13,175781,F Affentorplatz Bus NElisabethens,50.104668,8.689846
+14,388822,F Affentorplatz Bus NLokalbahnhof,50.104668,8.689846
+15,129882,F Alemannenweg Engelsruhe,50.11368,8.54029
+16,323609,F Alemannenweg Rugierstraße,50.11368,8.54029
+17,153171,F Alkmenestraße Strab NGravenst.P,50.151775,8.699854
+18,243931,F Alkmenestraße Strab VGravenst.P,50.151775,8.699854
+19,182381,F Alleehaus Gotenstraße,50.11264,8.538273
+20,212425,F Alleehaus Königsteiner Str.,50.11264,8.538273
+21,419569,"F Allerheiligentor Strab NBörne,hGei",50.113316,8.693663
+22,70145,F Allerheiligentor Strab NOstendstr.,50.113316,8.693663
+23,151940,F Allerheiligentor nBus NKonstablerw,50.113316,8.693663
+24,200171,F Allerheiligentor nBus NOstend/Zoo,50.113316,8.693663
+25,86850,F Allesinastraße NFarbenstr/Friedh,50.078217,8.512199
+26,170795,F Allesinastraße NWestenbergerstr,50.078217,8.512199
+27,24361,F Alt-Bonames Bus NBonam. Hains,50.180634,8.664029
+28,132646,F Alt-Bonames Bus NNordpark,50.180634,8.664029
+29,187486,F Alt-Fechenheim Bus NJakobsbrunne,50.12831,8.767492
+30,260504,F Alt-Fechenheim Bus NMainkur Bf.,50.12831,8.767492
+31,178881,F Alt-Fechenheim Strab NDaimlerstr,50.12831,8.767492
+32,110810,F Alt-Fechenheim Strab NSchießhütt,50.12831,8.767492
+33,44556,F Alt-Niederursel NUrseler Ldstr.,50.165367,8.622525
+34,169288,F Alt-Praunh./Krankenh. Nordw. Heerstraße,50.1494,8.619475
+35,241828,F Alt-Rödelheim NLorscher Straße,50.124622,8.6117
+36,88456,F Alt-Rödelheim NParkweg,50.124622,8.6117
+37,255086,F Alt-Schwanheim Martinskirchstr,50.087204,8.582491
+38,193550,F Alte Falterstraße Alte Falterstraße,50.091164,8.607107
+39,436699,F Alte Gasse Bus Bleichstraße,50.118153,8.687228
+40,407591,F Alte Oper Bock.Anl.>Taunus,50.115376,8.67093
+41,237818,F Alte Oper Bock.Anl>BremPl,50.115376,8.67093
+42,98030,F Alte Oper Bock.Ldstr>Taunus,50.115376,8.67093
+43,306510,F Alte Oper U-Bahn,50.115376,8.67093
+44,317613,F Alte Oper U-Bahn,50.115376,8.67093
+45,414744,F Altkönigstraße Bus Liebigstraße,50.120846,8.665481
+46,377261,F Am Bonifatiusbrunnen Bus NRiedberg,50.176422,8.641225
+47,434147,F Am Bonifatiusbrunnen Bus VRiedberg,50.176422,8.641225
+48,314150,F Am Bächelchen Bus F-Schubert-Rg,50.154594,8.756297
+49,425696,F Am Grünen Graben Bus Bonam. Str,50.164143,8.656558
+50,200591,F Am Grünen Graben Bus Im Uhrig,50.164143,8.656558
+51,81787,F Am Grünhof Eschersh. Ldstr.,50.13617,8.671249
+52,130471,F Am Hessen-Center A/W SEV Enkheim,50.141113,8.753861
+53,416806,F Am Hessen-Center Durchf. a. Richt.,50.141113,8.753861
+54,194912,F Am Kapellenberg Ersatz Lindensch,50.117058,8.561986
+55,399441,F Am Kapellenberg NSoss. Kirchb,50.117058,8.561986
+56,229844,F Am Kapellenberg NSossh. Bf.,50.117058,8.561986
+57,321512,F Am Klingelborn Alt-Erlenbach,50.198345,8.715711
+58,17119,F Am Martinszehnten NBonifatiusstraße,50.186813,8.650123
+59,321137,F Am Martinszehnten NH.-Lanz-Allee,50.186813,8.650123
+60,290243,F Am Mühlgewann NF.-Ebert-Siedl.,50.09658,8.610725
+61,100644,F Am Mühlgewann NGriesheim Bf.,50.09658,8.610725
+62,178278,F Am Neuenberg Busschleife,50.168304,8.688091
+63,456503,F Am Neuenberg In den Gräben,50.168304,8.688091
+64,66869,F Am Rebenborn Bus VMarkt/Landgr,50.15222,8.74853
+65,414348,F Am Riedsteg NMecklenb. Str,50.209747,8.701887
+66,169655,F Am Riedsteg NOE Holzweg,50.209747,8.701887
+67,389176,F Am Sandberg Bus Am Sandberg,50.0942,8.700339
+68,161250,F Am Weißkirchener Berg NRath. Kalbach,50.18807,8.634445
+69,164814,F Am Weißkirchener Berg NSchwalbenweg,50.18807,8.634445
+70,38136,F Am alten Schloß Bus NGraebestraße,50.151497,8.62616
+71,116332,F Am alten Schloß Bus NMithrasstr,50.151497,8.62616
+72,41035,F An den Drei Hohen Bus NDachsberg,50.158333,8.695237
+73,379093,F An den Drei Hohen Bus NGundelandstr,50.158333,8.695237
+74,159010,F An der Bornhohl Deuil-la-Barre.,50.196644,8.666731
+75,403430,F An der Bornhohl DlB NK.-Duden-Weg,50.196644,8.666731
+76,452149,F An der Bornhohl HoL NGlogauer Str,50.196644,8.666731
+77,359119,F An der Bornhohl HoL NW.-Flögel-Rg,50.196644,8.666731
+78,158853,F An der Dammheide Strab NHohenstauf,50.11726,8.631083
+79,257005,F An der Dammheide Strab NRebstockb,50.11726,8.631083
+80,107272,F An der Kreuzheck NRauenthaler Weg,50.082314,8.574723
+81,210503,F An der Kreuzheck NRheinlandstraße,50.082314,8.574723
+82,110616,F An der Wildhube Martinslirchstr.,50.086464,8.587052
+83,398890,F Andreaskirche Bus NHügelstraße,50.15085,8.669987
+84,131618,F Andreaskirche Bus NZiegenhainer,50.15085,8.669987
+85,94199,F Annabergstraße NZeilsheim Bf.,50.092102,8.502527
+86,436814,F Annabergstraße NZeilsheim Kolon.,50.092102,8.502527
+87,376257,F Anne-Frank-Siedlung Bus NLachweg,50.160538,8.659817
+88,189479,F Anne-Frank-Siedlung Bus NZehnmorgenst,50.160538,8.659817
+89,134912,F Annette-Kolb-Weg NJ.-Beyer-Weg,50.178566,8.62854
+90,172577,F Annette-Kolb-Weg NL.-Fulda-Wg/MPIn,50.178566,8.62854
+91,358915,F Anton-Burger-Weg Bus Sachs. Landwe,50.089497,8.70674
+92,144762,F Antoninusstraße Bus Antoninusstr,50.15755,8.640695
+93,291444,F Arthur-von-Weinberg-Steg Strab NDaimlerstr,50.125107,8.769857
+94,245847,F Arthur-von-Weinberg-Steg Strab NSchießhütt,50.125107,8.769857
+95,164608,F Astrid-Lindgren-Schule Bus Platenstraße,50.137848,8.663251
+96,147353,F Atzelberg West Ers Atzelbergpl.,50.14055,8.719452
+97,65689,F Atzelberg West Ers NAtzelb. Mitt,50.14055,8.719452
+98,66124,F Auerstraße Bus NZuckschwerdt,50.105827,8.55289
+99,148437,F Auerstraße Bus VZuckschwerdt,50.105827,8.55289
+100,70945,F Auf dem Schafberg Auf dem Schafberg,50.090958,8.612098
+101,199220,F Auf dem Schafberg Griesh. Stadtweg,50.090958,8.612098
+102,12496,F August-Schanz-Str./Dachsberg Bus NDachsberg,50.160046,8.689614
+103,119597,F August-Schanz-Str./Dachsberg Bus NPreungesheim,50.160046,8.689614
+104,289163,F August-Schanz-Straße Bus NKaiserkr.weg,50.1627,8.684097
+105,458744,F August-Schanz-Straße Bus NPreungesheim,50.1627,8.684097
+106,206997,F Balduinstraße Strab NLokalbahnh,50.099434,8.71494
+107,237194,F Balduinstraße Strab NLokalbahnh,50.099434,8.71494
+108,37593,F Balduinstraße Strab NOffenbach,50.099434,8.71494
+109,436557,F Balduinstraße Strab NOffenbach,50.099434,8.71494
+110,27580,F Barbarossastraße Bus Rangenbergstr,50.146404,8.761291
+111,351477,F Baseler Platz Bus Bas NHbf,50.104507,8.664784
+112,222510,F Baseler Platz Bus Karlsr. Str,50.104507,8.664784
+113,252382,F Baseler Platz Bus Karlsr. Str,50.104507,8.664784
+114,59305,F Baseler Platz Bus Stuttg. Str.,50.104507,8.664784
+115,275314,F Baseler Platz Strab NHauptbf.,50.104507,8.664784
+116,281663,F Baseler Platz Strab NStrese/Gar,50.104507,8.664784
+117,319336,F Battelle-Institut Bus NKatharinenkr,50.113464,8.627882
+118,144349,F Battelle-Institut Bus NRebstockbad,50.113464,8.627882
+119,93274,F Battelle-Institut Strab NHohenstauf,50.113464,8.627882
+120,449760,F Battelle-Institut Strab NRebstockb.,50.113464,8.627882
+121,219678,F Baumertstraße/Post Bus Alt-Fechenhei,50.12532,8.768304
+122,79265,F Baumertstraße/Post Bus Baumertstr,50.12532,8.768304
+123,221321,F Bechtenwaldstraße Lbstr. NSidl. Tb,50.09965,8.503875
+124,63296,F Bechtenwaldstraße Lbstr. V Sidl. Tb,50.09965,8.503875
+125,401491,F Behördenzentrum Gutleut NHafenstraße,50.104694,8.661009
+126,388644,F Behördenzentrum Gutleut NHbf Süds,50.104694,8.661009
+127,110515,F Ben-Gurion-Ring NBGRWest/Bern.Str,50.191666,8.661641
+128,188994,F Ben-Gurion-Ring NÄrztehaus a. Büg,50.191666,8.661641
+129,53590,F Ben-Gurion-Ring Süd NHomburger Hohl,50.184963,8.660148
+130,388684,F Ben-Gurion-Ring Süd NSeniorenwohnanl.,50.184963,8.660148
+131,29394,F Ben-Gurion-Ring West Ben-Gurion-Ring,50.190353,8.658779
+132,231639,F Ben-Gurion-Ring West Berner Straße,50.190353,8.658779
+133,84999,F Bergen Ost Bus Ausstieg,50.15727,8.767828
+134,341845,F Bergen Ost Bus NK-Wessend-St,50.15727,8.767828
+135,254804,F Bergkirche Bus Hainer Weg,50.088566,8.696769
+136,75707,F Berkersheim Bf. Bus Schleife A/W,50.17622,8.697489
+137,449551,F Berkersheim Bf. Bus Schleife Ein,50.17622,8.697489
+138,197956,F Berkersheim Mitte Bus Ausstieg,50.170635,8.696699
+139,261804,F Berkersheim Mitte Bus NI Steinbügel,50.170635,8.696699
+140,425576,F Berkersheimer Weg Bus NLachweg,50.164135,8.66364
+141,426527,F Berkersheimer Weg Bus NRotdornweg,50.164135,8.66364
+142,158801,F Bernadottestraße E.-Ollenhauer-Rg.,50.15764,8.631542
+143,210851,F Berner Str./Ben-Gurion-R. NBerner Str./BGRN,50.19299,8.662248
+144,380340,F Berner Str./Ben-Gurion-R. NGlogauer Straße,50.19299,8.662248
+145,336629,F Berner Straße Berner Straße,50.19369,8.659624
+146,317490,F Berner Straße Genfer Straße,50.19369,8.659624
+147,252715,F Bertramstraße Bus NDt. Nat.bibl,50.13216,8.677165
+148,280109,F Bertramstraße Bus NMiquel/Ad.al,50.13216,8.677165
+149,429457,F Bethmannpark Friedberger Anl.,50.117985,8.691871
+150,104243,F Bettinaplatz Bus NFesthalle/Me,50.114002,8.656805
+151,267125,F Bettinaplatz Bus NKettenhofweg,50.114002,8.656805
+152,221327,F Beuthener Straße Bus NBresl. Str.,50.091434,8.674489
+153,141567,F Beuthener Straße Bus NStresem./Mör,50.091434,8.674489
+154,130483,F Beuthener Straße Strab NStresemman,50.091434,8.674489
+155,8000,F Beuthener Straße Strab NSüdbahnhof,50.091434,8.674489
+156,428987,F Bezirkssportanlage Bus NAm Eschb.tal,50.182384,8.696568
+157,201707,F Bezirkssportanlage Bus NBerkersh. Bf,50.182384,8.696568
+158,91427,F Bingelsweg NH.-Hardt-Straße,50.100895,8.603184
+159,156785,F Bingelsweg NWaldschulstraße,50.100895,8.603184
+160,120979,F Birkenweg NKasernenstraße,50.12145,8.627499
+161,311885,F Birkenweg NSternbrücke,50.12145,8.627499
+162,56498,F Birminghamstraße Bus NLuthmerstr.,50.100098,8.579961
+163,283434,F Birminghamstraße Strab NGüterplatz,50.100098,8.579961
+164,308219,F Birminghamstraße Strab NHöchst,50.100098,8.579961
+165,242868,F Birminghamstraße nBus NJägerallee,50.100098,8.579961
+166,397143,F Birsteiner Straße Bus Bebraer Str.,50.135777,8.763918
+167,380436,F Birsteiner Straße Bus Kilianst. Str,50.135777,8.763918
+168,125276,F Bleiweißstraße Strab NLokalbahnh,50.10004,8.719702
+169,40896,F Bleiweißstraße Strab NLokalbahnh,50.10004,8.719702
+170,264564,F Bleiweißstraße Strab NOffenbach,50.10004,8.719702
+171,342883,F Bleiweißstraße Strab NOffenbach,50.10004,8.719702
+172,141800,F Bockenheimer Warte Bus BoL Ausstieg,50.119946,8.653924
+173,246201,F Bockenheimer Warte Bus BoL NAdal/Jul,50.119946,8.653924
+174,36420,F Bockenheimer Warte Bus BoL NPalmgstr,50.119946,8.653924
+175,171524,F Bockenheimer Warte Bus Gräf NDitmars,50.119946,8.653924
+176,335290,F Bockenheimer Warte Bus SeA NDitmarst,50.119946,8.653924
+177,415926,F Bockenheimer Warte Bus Zea Ausstieg,50.119946,8.653924
+178,426866,F Bockenheimer Warte Strab NAdalb/Schl,50.119946,8.653924
+179,298823,F Bockenheimer Warte Strab NGinnheim,50.119946,8.653924
+180,449102,F Bockenheimer Warte U Bahnsteig B,50.119946,8.653924
+181,84631,F Bockenheimer Warte U Bahnsteig B,50.119946,8.653924
+182,8796,F Bockenheimer Warte U Bahnsteig C,50.119946,8.653924
+183,91658,F Bockenheimer Warte U Bahnsteig C,50.119946,8.653924
+184,265796,F Bodenseestraße Bus Bodenseestr.,50.124325,8.765694
+185,267971,F Bodenseestraße Bus Konstanzer St,50.124325,8.765694
+186,30034,F Bodenweg Strab/Bus NFbg.Wa,50.142197,8.701606
+187,433037,F Bodenweg Strab/Bus NFbg.Wa,50.142197,8.701606
+188,233856,F Bodenweg Strab/Bus VFbg.Wa,50.142197,8.701606
+189,75403,F Bodenweg Strab/Bus VFbg.Wa,50.142197,8.701606
+190,15383,F Bolongaropalast Bus Bolongarostr.,50.10148,8.553056
+191,384690,F Bolongaropalast Bus Bolongarostr.,50.10148,8.553056
+192,268416,F Bolongaropalast Tram Zuckschwerdt,50.10148,8.553056
+193,100663,F Bonames Mitte Homb.Ldstr NNE,50.185284,8.66443
+194,157176,F Bonames Mitte Homb.Ldstr. NPH,50.185284,8.66443
+195,115242,F Bonames Mitte NBad Homburg,50.185284,8.66443
+196,446160,F Bonames Mitte NSüdbahnhof,50.185284,8.66443
+197,234843,F Bonameser Hainstraße Homb Ld. NBO,50.183395,8.664625
+198,239680,F Bonameser Hainstraße Homb Ld. NPH/KA,50.183395,8.664625
+199,104434,F Bonameser Hainstraße Ob. Kalbacher Weg,50.183395,8.664625
+200,457118,F Bonifatiusstraße NKalbach,50.18415,8.651753
+201,361564,F Bonifatiusstraße VKalbach,50.18415,8.651753
+202,372089,F Bornheim Mitte -> F Burgstr.,50.12636,8.70797
+203,10708,F Bornheim Mitte -> F Saalburgallee,50.126236,8.708264
+204,193432,F Bornheim Mitte Bus AW Saalb. Süd,50.126343,8.708012
+205,303495,F Bornheim Mitte Bus NPrüfling,50.126343,8.708012
+206,449766,F Bornheim Mitte Bus NSaalb.all/Au,50.126343,8.708012
+207,104864,F Bornheim Mitte U NHauptbahnhof,50.126343,8.708012
+208,198172,F Bornheim Mitte U NSeckb. Ldstr,50.126343,8.708012
+209,8060,F Bornheimer Friedhof Bus NComeniusstr.,50.1363,8.701811
+210,144471,F Bornheimer Friedhof Bus NFriedbg. W.,50.1363,8.701811
+211,409122,F Bornwiesenweg Bus NAdlerflychtp,50.121677,8.680437
+212,347629,F Bornwiesenweg Bus NEschenh. Tor,50.121677,8.680437
+213,61848,F Brauerei Bus NDa. Ld. Mi,50.09425,8.690891
+214,272102,F Brauerei Bus NSüdfriedhof,50.09425,8.690891
+215,125144,F Bremer Platz Bus Für NHolzhstr,50.12427,8.669918
+216,10254,F Bremer Platz Bus Für NUni-West,50.12427,8.669918
+217,108574,F Bremer Platz Bus Reu NBrem Str,50.12427,8.669918
+218,57390,F Bremer Platz Bus Reu NKronb St,50.12427,8.669918
+219,27217,F Bremer Straße Bus Bre NBr.Platz,50.127136,8.671507
+220,66439,F Bremer Straße Bus Bre NMiquelal,50.127136,8.671507
+221,368915,F Breslauer Straße Bus NBeuth. Str.,50.093117,8.677525
+222,439646,F Breslauer Straße Bus NOppenh. Ldst,50.093117,8.677525
+223,422757,F Breslauer Straße Strab NStresemann,50.093117,8.677525
+224,399241,F Breslauer Straße Strab NSüdbahnhof,50.093117,8.677525
+225,302437,F Briefzentrum Gutl.str. O (87),50.092747,8.634974
+226,231347,F Briefzentrum Gutl.str. W (37),50.092747,8.634974
+227,266941,F Briefzentrum Gutl.str. W (37),50.092747,8.634974
+228,217556,F Bruchfeld-/Melibocusstraße Ers. NJugenh. Str,50.086517,8.638137
+229,127239,F Bruchfeldplatz Kniebisstraße,50.086887,8.644268
+230,226182,F Brücken-/Textorstraße Strab NLokalbf.,50.101753,8.687013
+231,85701,F Brücken-/Textorstraße Strab NLokalbf.,50.101753,8.687013
+232,432420,F Brücken-/Textorstraße Strab/Bus NSüdbf.,50.101753,8.687013
+233,445407,F Brücken-/Textorstraße Strab/Bus NSüdbf.,50.101753,8.687013
+234,267908,F Brüningstraße Brüningstraße,50.097084,8.541888
+235,264184,F Brüningstraße Leu NIP T H831,50.097084,8.541888
+236,204866,F Brüningstraße Leu NIP T Ost,50.097084,8.541888
+237,418587,F Buchrainplatz Bus NBleiweißstra,50.100418,8.724368
+238,240987,F Buchrainplatz Bus NBuchrainstr.,50.100418,8.724368
+239,104193,F Buchrainplatz Bus NFlaschenburg,50.100418,8.724368
+240,62461,F Buchrainplatz Strab NLokalbahnh,50.100418,8.724368
+241,430718,F Buchrainplatz Strab NOffenbach,50.100418,8.724368
+242,28455,F Buchrainstraße Bus VBuchrainpl.,50.097263,8.724582
+243,343987,F Buchrainstraße Bus VBurgenlandwg,50.097263,8.724582
+244,114702,F Buchwaldstraße Inheidener Straße,50.13094,8.719089
+245,25166,F Budge-Altenheim Bus NVilbeler Lds,50.149025,8.737661
+246,222657,F Burgenlandweg Bus NBuchrainstr,50.094433,8.725255
+247,98471,F Burgenlandweg Bus NWaldfriedhof,50.094433,8.725255
+248,188338,F Burgholzer Straße Bus Am Lindenbaum,50.155704,8.667281
+249,279207,F Burgholzer Straße Bus Kirchhainer S,50.155704,8.667281
+250,135513,F Burgstr. -> F Prüfling (Ausstieg),50.127586,8.704592
+251,171743,F Burgunderweg Gotenstraße,50.113346,8.537483
+252,297272,F Burnitzstraße NAchenbachstraße,50.09716,8.673305
+253,134042,F Burnitzstraße NStresemannallee,50.09716,8.673305
+254,303281,F Börneplatz Bus NKonstablerw.,50.112545,8.687992
+255,426091,F Börneplatz Bus NSAussicht,50.112545,8.687992
+256,395663,F Börneplatz Strab/nBus NHbf.,50.112545,8.687992
+257,98449,F Börneplatz Strab/nBus NHbf.,50.112545,8.687992
+258,2948,F Börneplatz Strab/nBus NKW/Al,50.112545,8.687992
+259,295162,F Börneplatz Strab/nBus NKW/Al,50.112545,8.687992
+260,425485,"F Börneplatz/Stoltzestraße Strab NAtor,hlGei",50.112522,8.689152
+261,236473,F Börneplatz/Stoltzestraße Strab NBörnepl/KW,50.112568,8.689054
+262,411000,F Börneplatz/Stoltzestraße nBus NAllerh.tor,50.112576,8.689166
+263,244519,"F Börneplatz/Stoltzestraße nBus NKonst.,NKrä",50.11255,8.689208
+264,417715,F Büdinger Straße Bus Büdinger Str,50.151417,8.684115
+265,223829,F Bürgeler Straße Bus NEinbiglerweg,50.11754,8.770634
+266,319804,F Bürgeler Straße Bus NStarkenb.Str,50.11754,8.770634
+267,343512,F Bürostadt Niederrad Bus NNiederr. Bf.,50.078045,8.628212
+268,202531,F Bürostadt Niederrad Bus NRhonestraße,50.078045,8.628212
+269,4806,F Bürostadt Niederrad Strab NSchwanheim,50.078045,8.628212
+270,274807,F Bürostadt Niederrad Strab NStrese/Gar,50.078045,8.628212
+271,195179,F Camberger Straße NGutl.-/Heilbr. S,50.098846,8.651252
+272,53452,F Camberger Straße NJ.-Kirchner-AHZ,50.098846,8.651252
+273,337549,F Carl-Benz-Straße Nord Bus CB NA-Opel-St,50.12156,8.749766
+274,413230,F Carl-Benz-Straße Nord Bus CB NR-Bosch-S,50.12156,8.749766
+275,235532,F Carl-Benz-Straße Nord nBus CB NDieselst,50.12156,8.749766
+276,335448,F Carl-Benz-Straße Süd Bus NOffenbach,50.116398,8.76116
+277,413658,F Carl-Benz-Straße Süd Bus NSiemens-Werk,50.116398,8.76116
+278,142865,F Carl-Sonnenschein-Str. Bus NHaigerer Str,50.12401,8.572131
+279,21057,F Carl-Sonnenschein-Str. Bus NWesterwaldst,50.12401,8.572131
+280,252396,F Cassellastraße Bus NH-Junkers-St,50.129734,8.75971
+281,362,F Cassellastraße Bus NMainkur Bf.,50.129734,8.75971
+282,147128,F Cassellastraße Strab NDaimlerstr,50.129734,8.75971
+283,379710,F Cassellastraße Strab NSchießhütt,50.129734,8.75971
+284,190015,F Chemisches Werk Bus NLachegraben,50.090355,8.594076
+285,263630,F Chemisches Werk Bus NStaust.Gries,50.090355,8.594076
+286,283063,F Cheruskerweg Ausstieg/Warten,50.11631,8.541104
+287,32029,F Cheruskerweg Einstieg,50.11631,8.541104
+288,277540,F Cohausenstraße Bus Antoninusstr,50.159718,8.644037
+289,156002,F Comeniusstraße NFriedhof Bornhei,50.13355,8.705996
+290,145784,F Comeniusstraße NUsinger Straße,50.13355,8.705996
+291,121305,F DB-Zentrale NHaus Gallus,50.10602,8.639724
+292,327923,F DB-Zentrale NP.-Hindemith-Sch,50.10602,8.639724
+293,185266,F Dachsberg Bus NAug-Schanz-S,50.165253,8.693052
+294,325365,F Dachsberg Bus NI Steinbügel,50.165253,8.693052
+295,232754,F Daimlerstraße Strab NH-Junkers-,50.12232,8.739764
+296,141452,F Daimlerstraße Strab NRiederh/Ei,50.12232,8.739764
+297,239455,F Daimlerstraße nBus NDieselstr.,50.12232,8.739764
+298,98197,F Daimlerstraße nBus NRiederhöfe,50.12232,8.739764
+299,223764,F Darmstädter Landstr. Mitte Bus NBrauerei,50.09692,8.691014
+300,1931,F Darmstädter Landstr. Mitte Bus NWendelsplatz,50.09692,8.691014
+301,368183,F Den Haager Straße Euroall. VGüterpl,50.108818,8.650775
+302,19499,F Den Haager Straße Euroall.NGüterpla,50.108818,8.650775
+303,94405,F Deutsche Bundesbank NEuropaturm,50.136272,8.659709
+304,348270,F Deutsche Bundesbank NPlatenstraße,50.136272,8.659709
+305,404073,F Deutschherrnbrücke Bus Ausstieg,50.10527,8.70431
+306,195715,F Deutschherrnbrücke Bus NZ. Brommenhf,50.10527,8.70431
+307,275320,F Dieburger Straße Bus NStarkenb.Str,50.114964,8.763628
+308,245695,F Dieselstraße Bus CBe NWeismstr,50.12427,8.744662
+309,279690,F Dieselstraße Bus Die NDaim/HJu,50.12427,8.744662
+310,265426,F Dieselstraße Bus HLd NDaimlers,50.12427,8.744662
+311,234829,F Dieselstraße Bus HLd NHJunkers,50.12427,8.744662
+312,246873,F Dieselstraße Strab NDaimlerstr,50.12427,8.744662
+313,152601,F Dieselstraße Strab NH-Junkers-,50.12427,8.744662
+314,72726,F Ditmarstraße Bus NBockenh. W.,50.12608,8.654173
+315,442202,F Ditmarstraße Bus VBockenh. W.,50.12608,8.654173
+316,150007,F Dom/Römer U-Bahn,50.110855,8.684088
+317,88337,F Dom/Römer U-Bahn,50.110855,8.684088
+318,15883,F Dornbusch Bus Dornbusch,50.13864,8.670393
+319,403098,F Dornbusch Bus Marbachweg,50.13864,8.670393
+320,259237,F Dornbusch U NHeddernheim,50.13864,8.670393
+321,19378,F Dornbusch U NSüdbahnhof,50.13864,8.670393
+322,196007,F Dornbusch nBus NFritz-Tarno,50.13864,8.670393
+323,361005,F Draisbornstraße Bus NBudge-Heim,50.14578,8.728767
+324,243865,F Dreihäusergasse Bus NA.Gr.Graben,50.161064,8.655699
+325,325357,F Dreihäusergasse Bus NEschersh. Bf,50.161064,8.655699
+326,408910,F Dubliner Straße Euroall. VGüterpl,50.108574,8.645324
+327,141350,F Dubliner Straße Euroall.NGüterpla,50.108574,8.645324
+328,422492,F Dunantring Bus Ersatz NKapel,50.117764,8.556149
+329,234897,F Dunantring Bus Ersatz VKapel,50.117764,8.556149
+330,393159,F Dürkheimer Straße NGriesh./Schwanh.,50.09632,8.571035
+331,169262,F Dürkheimer Straße NNied Kirche,50.09632,8.571035
+332,207002,F Eckenh. Landstr./Marbachweg Bus NK-Siegmund-S,50.14196,8.683562
+333,118,F Eckenheimer Friedhof Bus NBüdinger Str,50.150284,8.686208
+334,3617,F Eckenheimer Friedhof Bus NRonneburgstr,50.150284,8.686208
+335,117651,F Eduard-Bernstein-Weg Hammarskjöldring,50.16382,8.621768
+336,195888,F Eichenstraße NElektronstr.,50.09525,8.602825
+337,448030,F Eichenstraße NGriesh. Bf./Eich,50.095177,8.602267
+338,418228,F Eifelstraße Eifelstraße,50.08639,8.579661
+339,104619,F Einbiglerweg Bus NBürgeler Str,50.119995,8.772007
+340,192122,F Einbiglerweg Bus NSchießhütten,50.119995,8.772007
+341,240263,F Eissporthalle -> F Saalburgallee,50.123737,8.716544
+342,153901,F Eissporthalle -> Warschauer Str.,50.123444,8.716965
+343,13754,F Eissporthalle Nordeingang Kettelerallee,50.124912,8.718537
+344,451045,F Eissporthalle/Festplatz Bus NKaiserlei,50.123455,8.717454
+345,176057,F Eissporthalle/Festplatz Bus NSaalb./Witte,50.123455,8.717454
+346,364554,F Eissporthalle/Festplatz Strab NDaim/Riede,50.123455,8.717454
+347,367953,F Eissporthalle/Festplatz Strab NSaalb./Wit,50.123455,8.717454
+348,38867,F Eissporthalle/Festplatz U Bahnsteig,50.123455,8.717454
+349,415563,F Eissporthalle/Festplatz U Bahnsteig,50.123455,8.717454
+350,238516,F Elektronstraße Lä NGriesh. Bf.,50.096558,8.598747
+351,57752,F Elektronstraße Lä NIdSchildwacht,50.096558,8.598747
+352,36590,F Eleonore-Sterling-Straße Bus H.d.Ulmen,50.156887,8.665874
+353,284427,F Elisabethenstraße Bus NAffentorplat,50.105873,8.688119
+354,394134,F Elisabethenstraße Bus NSchöne Aussi,50.105873,8.688119
+355,50322,F Ellerfeld NGr. Nelkenstr.,50.135365,8.625153
+356,107706,F Ellerfeld NHausen,50.135365,8.625153
+357,71174,F Eltviller Straße Bus NFrdhf/Kurmai,50.11167,8.552962
+358,333096,F Eltviller Straße Bus VFrdhf/Kurmai,50.11167,8.552962
+359,17445,F Emil-von-Behring-Straße Bus NSeb-Kneipp-S,50.170223,8.637506
+360,300278,F Emil-von-Behring-Straße Bus VSeb-Kneipp-S,50.170223,8.637506
+361,439070,F Emmerich-Josef-Straße E.-Josef-Straße,50.10163,8.548442
+362,251648,F Emser Straße Bus NFesthalle/Me,50.11414,8.641928
+363,145037,F Emser Straße Bus NP-Reis-Str,50.11414,8.641928
+364,33316,F Engelsruhe Engelsruhe,50.114765,8.536715
+365,235378,F Engelthaler Straße Bus Engelthaler S,50.14942,8.681106
+366,227651,F Enkheim U/Bus Station,50.14256,8.753896
+367,395698,F Enkheim U/Bus Station,50.14256,8.753896
+368,4126,F Enkheim U/Bus Station,50.14256,8.753896
+369,273167,F Eppenhainer Straße NSchloßborner Str,50.1049,8.626005
+370,289622,F Eppenhainer Straße NSchneidhainer St,50.1049,8.626005
+371,138450,F Eppsteiner Straße Bus Unterlindau,50.12042,8.667693
+372,1062,F Erlenhof Bus NHohe Brück,50.19521,8.705058
+373,407594,F Erlenhof Bus NLindenhof,50.19521,8.705058
+374,225106,F Erlenseer Straße Bus Erlenseer Str,50.157936,8.759261
+375,163536,F Ernst-Balser-Straße NH-Leistikow-Str,50.1778,8.616856
+376,254120,F Ernst-Balser-Straße NH-Poelzig-Straße,50.1778,8.616856
+377,214007,F Ernst-Kahn-Straße Bus NNWZ,50.154778,8.634055
+378,350417,F Ernst-Kahn-Straße Bus NRömerstadt,50.154778,8.634055
+379,445496,F Ernst-May-Platz Bus Wittelb.all.,50.126156,8.716208
+380,1550,F Ernst-May-Platz Strab Ausstieg,50.126156,8.716208
+381,294939,F Ernst-May-Platz Strab Einstieg,50.126156,8.716208
+382,157853,F Ernst-Wiss-Straße Ernst-Wiss-Straße,50.09795,8.590713
+383,7395,F Erntestraße NBriefzentrum,50.09433,8.638456
+384,116994,F Erntestraße NHalmstraße,50.09433,8.638456
+385,194908,F Erzbergerstraße Ausstieg/Warten,50.09408,8.614099
+386,345434,F Erzbergerstraße Einstieg,50.09408,8.614099
+387,21341,F Eschborner Landstraße West Ausstieg,50.1302,8.59146
+388,63794,F Eschborner Landstraße West Einstieg,50.130093,8.591489
+389,118009,F Eschenheimer Tor Bus Bleichstr.,50.117493,8.679137
+390,123392,F Eschenheimer Tor Bus ELd NGrünebur,50.117493,8.679137
+391,332363,F Eschenheimer Tor Bus ELd NHauptw.,50.117493,8.679137
+392,71563,F Eschenheimer Tor Bus Oeder Weg,50.117493,8.679137
+393,88373,F Eschenheimer Tor U NHeddernheim,50.117493,8.679137
+394,286236,F Eschenheimer Tor U NSüdbahnhof,50.117493,8.679137
+395,398526,F Eschenheimer Tor nBus Bockenh. Anl,50.117493,8.679137
+396,280009,F Eschersheim Bahnhof Bus Maybachstraße,50.159065,8.655083
+397,91177,F Eschweger Straße Bus NHufeland-H.,50.13932,8.717221
+398,161064,F Eschweger Straße Bus NSeckb. Ldstr,50.13932,8.717221
+399,402407,F Euckenstraße Gotenstraße,50.11,8.539249
+400,110133,F Euckenstraße Königsteiner Str.,50.11,8.539249
+401,93373,F Europagarten/Messe West NRömischer Ring,50.108208,8.63673
+402,148859,F Europagarten/Messe West NStephensonstraße,50.108208,8.63673
+403,98343,F Europaturm NDt. Bundesbank,50.1362,8.653527
+404,141248,F Europaturm NMarkus-Krkhs,50.1362,8.653527
+405,217427,F Europaviertel West NMaastricher Ring,50.107635,8.623859
+406,55519,F Europaviertel West NMesseparkhaus,50.107635,8.623859
+407,225398,F Falkstraße Bus NBockenh. W.,50.121323,8.650502
+408,134265,F Fallerslebenstraße Bus Fallerslebens,50.13865,8.664406
+409,115130,F Farbenstraße/Friedhof Farbenstraße,50.076694,8.510761
+410,435169,F Farbwerksbad/Ballsporthalle NHöchst Bf.,50.101334,8.529506
+411,132233,F Farbwerksbad/Ballsporthalle NSilostr. Mitte,50.101334,8.529506
+412,449936,F Feldbahnmuseum NRömerhof,50.10669,8.612488
+413,58887,F Feldbahnmuseum NSportanl.Reb,50.10669,8.612488
+414,316688,F Ferdinand-Dirichs-Weg Bus NMartinskirch,50.082787,8.587168
+415,99994,F Ferdinand-Dirichs-Weg Bus NRheinlandstr,50.082787,8.587168
+416,27766,F Ferdinand-Dirichs-Weg Strab NSchwanheim,50.082787,8.587168
+417,433903,F Ferdinand-Dirichs-Weg Strab NStrese/Gar,50.082787,8.587168
+418,352128,F Festhalle/Messe Bus NPl. d. Repub,50.11254,8.654271
+419,45925,F Festhalle/Messe Bus NPl. d. Repub,50.11254,8.654271
+420,405506,F Festhalle/Messe Bus NSenckenbganl,50.11254,8.654271
+421,40286,F Festhalle/Messe Strab NHohenstauf,50.11254,8.654271
+422,54664,F Festhalle/Messe Strab NVarrentrap,50.11254,8.654271
+423,15349,F Festhalle/Messe U Bahnsteig,50.11254,8.654271
+424,180357,F Festhalle/Messe U Bahnsteig,50.11254,8.654271
+425,85583,F Fischstein Bus NHausener W,50.129578,8.623016
+426,2256,F Fischstein Bus NIndustriehof,50.129578,8.623016
+427,414640,F Fischstein U NHeerstr,50.129578,8.623016
+428,348658,F Fischstein U NIndustriehof,50.129578,8.623016
+429,203095,F Flaschenburgstraße Strab NLokalbahnh,50.100433,8.73091
+430,91447,F Flaschenburgstraße Strab NLokalbahnh,50.100433,8.73091
+431,127247,F Flaschenburgstraße Strab NOffenbach,50.100433,8.73091
+432,353388,F Flaschenburgstraße Strab NOffenbach,50.100433,8.73091
+433,291329,F Fliederweg Bus NHagebuttenwg,50.16658,8.673238
+434,230610,F Fliederweg Bus NRotdornweg,50.16658,8.673238
+435,429482,F Florianweg Bus NTrieb/Barbar,50.148636,8.753739
+436,398998,F Flughafen Air-Base-Hotel NTor 33/Dreieich,50.03324,8.591626
+437,333999,F Flughafen Geb. 534 NGeb. 532,50.026157,8.559867
+438,371705,F Flughafen Geb. 534 NGeb. 536,50.02615,8.560258
+439,104485,F Flughafen Geb. 536 NGeb. 534,50.026657,8.562193
+440,170422,F Flughafen Geb. 536 NGeb. 543,50.026657,8.562193
+441,409551,F Flughafen Geb. 543 NGeb. 536,50.026413,8.565629
+442,157767,F Flughafen Geb. 555 NGeb. 556,50.02317,8.571672
+443,243626,F Flughafen Geb. 555 NTor 31 int.,50.02317,8.571672
+444,398831,F Flughafen Geb. 556 NGeb. 555,50.02299,8.576572
+445,141093,F Flughafen Geb. 556 NGeb. 587,50.02299,8.576572
+446,37753,F Flughafen Geb. 587 NGeb. 556,50.024887,8.58377
+447,376166,F Flughafen Geb. 587 NTor 32,50.024887,8.58377
+448,55459,F Flughafen Geb. 684 NE.-Beinh.-Str.,50.029514,8.590625
+449,131431,F Flughafen Geb. 684 NTor 32,50.029514,8.590625
+450,436754,F Flughafen Lufthansabasis Bus NLH-AviationC,50.049286,8.561387
+451,190198,F Flughafen Lufthansabasis Bus NTerminal 1,50.049286,8.561387
+452,172770,F Flughafen Terminal 1 Busbf.Nords./West,50.051075,8.571522
+453,300101,F Flughafen Terminal 1 Busbf.Nords./West,50.051075,8.571522
+454,336504,F Flughafen Terminal 1 Busbf.Nords./West,50.051075,8.571522
+455,258252,F Flughafen Terminal 2 Bus Terminal 2,50.052567,8.58846
+456,118951,F Flughafen Tor 2 NH.-Eckener-Ring,50.05237,8.593614
+457,211555,F Flughafen Tor 2 NTor 33,50.052162,8.593295
+458,165519,F Flughafen Tor 3 Bus NH-Eckener-Rg,50.053215,8.579057
+459,209231,F Flughafen Tor 3 Bus NTerminal 1,50.053215,8.579057
+460,390296,F Flughafen Tor 32 NGeb. 587,50.02611,8.586858
+461,23411,F Flughafen Tor 32 NGeb. 681,50.0255,8.587114
+462,214317,F Flughafen Tor 33 NE.-Beinh.-Str.,50.037376,8.594103
+463,19547,F Flughafen Tor 33 NTor 2,50.037403,8.594257
+464,370106,F Francois-Mitterrand-Platz Bus Mainzer Ldstr,50.110878,8.664278
+465,333298,F Frankensteiner Platz Bus Dreichstraße,50.10691,8.692459
+466,335200,F Frankensteiner Platz Strab NH.z.hl.Gei,50.10691,8.692459
+467,415321,F Frankensteiner Platz Strab NLokalbf.,50.10691,8.692459
+468,373480,F Frankfurter Berg Bus Homb. Ldstr,50.17023,8.676503
+469,84534,F Frankfurter Berg Bus Homb. Ldstr,50.17023,8.676503
+470,216521,F Franz-Werfel-Straße Bus Platenstraße,50.139122,8.659185
+471,198085,F Frauenfriedenskirche Strab NAdalb/Schl,50.128635,8.646491
+472,409351,F Frauenfriedenskirche Strab NAdalb/Schl,50.128635,8.646491
+473,102181,F Frauenfriedenskirche Strab NGinnheim,50.128635,8.646491
+474,116847,F Frauenfriedenskirche Strab NGinnheim,50.128635,8.646491
+475,383857,F Frauenhofstraße Bus Frauenhofstr.,50.08718,8.649059
+476,252401,F Frauenhofstraße Strab/Bus Bruchfe,50.08718,8.649059
+477,83922,F Frauenhofstraße Strab/Bus Bruchfe,50.08718,8.649059
+478,132110,F Freiligrathstraße Strab NSaalb./Wit,50.122215,8.710218
+479,140050,F Freiligrathstraße Strab NZoo,50.122215,8.710218
+480,146970,F Freiligrathstraße nBus NHabsb./Witt,50.122215,8.710218
+481,275426,F Freiligrathstraße nBus NSaalb./Witt,50.122215,8.710218
+482,356129,F Freßgass Neue Mainzer Str.,50.114372,8.672405
+483,429875,F Freßgass/Hauptwache Rathenauplatz,50.11398,8.676462
+484,342849,F Friedberger Anlage Friedberger Anl.,50.115738,8.695395
+485,298590,F Friedberger Anlage Seilerstraße,50.115738,8.695395
+486,174353,F Friedberger Platz Strab/Bus NKonst.,50.123325,8.691711
+487,179727,F Friedberger Platz Strab/Bus NKonst.,50.123325,8.691711
+488,270218,F Friedberger Platz Strab/Bus NRohrba,50.123325,8.691711
+489,459039,F Friedberger Platz Strab/Bus NRohrba,50.123325,8.691711
+490,132521,F Friedberger Warte Strab/Bus NBodenw,50.139545,8.698392
+491,299905,F Friedberger Warte Strab/Bus NBodenw,50.139786,8.698474
+492,169005,F Friedberger Warte Strab/Bus NWassp.,50.139545,8.698392
+493,349087,F Friedberger Warte Strab/Bus NWassp.,50.139545,8.698392
+494,330382,F Friedhof Fechenheim Bus Ausstieg,50.119953,8.772539
+495,242810,F Friedhof Fechenheim Bus NEinbiglerweg,50.119953,8.772539
+496,282444,F Friedhof Kurmainzer Straße Bus NAuerstraße,50.109715,8.551414
+497,308652,F Friedhof Kurmainzer Straße Bus NEltviller St,50.109715,8.551414
+498,70442,F Friedhof Schwanheim Bus NDürkh. Str.,50.08996,8.57351
+499,399512,F Friedhof Schwanheim Bus NGeisenh. Str,50.08996,8.57351
+500,397664,F Friedhof Westhausen Bus NHeerstraße,50.139397,8.61221
+501,239843,F Friedhof Westhausen Bus NS.-Heise-Str,50.139397,8.61221
+502,22838,F Friedhof Westhausen U NHeerstraße,50.139397,8.61221
+503,147386,F Friedhof Westhausen U NIndustriehof,50.139397,8.61221
+504,44640,F Friedrich-Ebert-Siedlung NAm Mühlgew./Auss,50.094753,8.624491
+505,28929,F Friedrich-Ebert-Siedlung NKleyer/Einst.,50.094753,8.624491
+506,1331,F Frischezentrum Ausstieg/Warten,50.194916,8.647865
+507,57000,F Frischezentrum Einstieg,50.194916,8.647865
+508,141066,F Fritz-Tarnow-Straße >Dornbusch,50.142914,8.668699
+509,55966,F Fritz-Tarnow-Straße >Heddernheim,50.142914,8.668699
+510,422421,F Fritz-Tarnow-Straße >Hügelstraße,50.142914,8.668699
+511,314030,F Fritz-Tarnow-Straße >Südbahnhof,50.142914,8.668699
+512,214845,F Fuldaer Straße Bus NMeerholzer S,50.133163,8.760993
+513,338807,F Fuldaer Straße Bus NSteinauer St,50.133163,8.760993
+514,227241,F G.-Hauptmann-Ring/Praunh. W. Gerh.-Hauptm.-Rg,50.160576,8.619596
+515,323426,F Gablonzer Str. NKarlsbader Str.,50.08474,8.672313
+516,149078,F Gablonzer Str. NLerchesbergring,50.08474,8.672313
+517,204734,F Galluspark/VHS Tram NGalluswarte,50.10029,8.637279
+518,384263,F Galluspark/VHS Tram NGalluswarte,50.10029,8.637279
+519,390019,F Galluspark/VHS Tram NRebst. Str.,50.10029,8.637279
+520,391994,F Galluspark/VHS Tram NRebst. Str.,50.10029,8.637279
+521,248802,F Galluswarte Bus Günderrodestr,50.104183,8.644378
+522,268917,F Galluswarte Bus Mz. NHGallus,50.104183,8.644378
+523,248354,F Galluswarte Strab NGüterplatz,50.104183,8.644378
+524,340360,F Galluswarte Strab NHöchst,50.104183,8.644378
+525,165456,F Galluswarte nBus Mz. NSchwalb,50.104183,8.644378
+526,200530,F Gateway Gardens Mitte Bus NGat.Ga.Nord,50.055004,8.596692
+527,117080,F Gateway Gardens Mitte Bus NT.Rasche-Str,50.055004,8.596692
+528,94500,F Gaugrafenstraße Am Seedamm,50.124184,8.596573
+529,237477,F Gaugrafenstraße Westerbachstraße,50.124184,8.596573
+530,211872,F Geiselwiesen NHausen,50.14083,8.624425
+531,264692,F Geiselwiesen NPflanzländer,50.14083,8.624425
+532,391388,F Geisenheimer Straße NA.Friedh.Schwanh,50.089138,8.575836
+533,20451,F Geisenheimer Straße NKelsterbacher Wg,50.089138,8.575836
+534,356574,F Gelastraße Bus NGwinn./Mitte,50.141357,8.734751
+535,165563,F Gelastraße Bus NLeonhardsg.,50.141357,8.734751
+536,113210,F Geleitsstraße Bus Geleitsstr,50.09977,8.694811
+537,264233,F Genfer Straße Berner Straße,50.191395,8.65761
+538,37803,F Genfer Straße Genfer Straße,50.191395,8.65761
+539,424573,F Georg-Treser-Straße Bus Balduinstraße,50.098446,8.714722
+540,338993,F Gerauer Straße Bus Ger NGünthers,50.08385,8.644822
+541,34495,F Gerauer Straße Bus Ger NMelibocu,50.08385,8.644822
+542,223489,F Gerauer Straße Bus Tr NMelibocu,50.08385,8.644822
+543,232292,F Gerauer Straße Bus Tr NTriftstr,50.08385,8.644822
+544,398347,F Gerauer Straße Strab NSchwanheim,50.08385,8.644822
+545,189148,F Gerauer Straße Strab NStrese/Gar,50.08385,8.644822
+546,133091,F Gerbermühle Bus NKaiserlei,50.105362,8.723893
+547,430403,F Gerbermühle Bus NRudererdorf,50.105362,8.723893
+548,455801,F Gerlachstraße Königsteiner Str.,50.10541,8.544451
+549,444191,F Gewerbegebiet Nd.-Eschbach Berner Straße,50.194706,8.655835
+550,420056,F Gießener Straße Bus Gi NT-Ziegler,50.14359,8.69098
+551,157733,F Gießener Straße Bus NMarbachwg/SZ,50.14359,8.69098
+552,262662,F Gießener Straße U NMarbachweg/SZ,50.14359,8.69098
+553,301200,F Gießener Straße U NPreungesheim,50.14359,8.69098
+554,234558,F Ginnheim Bus GiLd NMarkus-,50.14044,8.646222
+555,245899,F Ginnheim Bus Platenstr,50.14044,8.646222
+556,449154,F Ginnheim Bus Platenstr,50.14044,8.646222
+557,5679,F Ginnheim Bus Platenstr,50.14044,8.646222
+558,346584,F Ginnheim Strab Gl1,50.14044,8.646222
+559,120787,F Ginnheim Strab Gl2/U-B Gl3,50.14044,8.646222
+560,223626,F Ginnheim Strab Gl2/U-B Gl3,50.14044,8.646222
+561,5530,F Ginnheimer Waldgasse Bus Ginnh. Ldstr,50.141453,8.6476
+562,241326,F Glauburgstraße Bus NDt. Nat.bibl,50.126835,8.685577
+563,15486,F Glauburgstraße Bus NMusterschule,50.126835,8.685577
+564,151933,F Glauburgstraße U NEck.Ldstr/Marb,50.126835,8.685577
+565,167474,F Glauburgstraße U NKonst.wa./Rohr,50.126835,8.685577
+566,420993,F Glockengasse NH.-Becker-Str.,50.200497,8.674422
+567,133214,F Glockengasse NNieder-Eschbach,50.200497,8.674422
+568,319735,F Glogauer Straße NA. d.. Bornhohl,50.19226,8.665165
+569,454618,F Glogauer Straße NBerner Str./BGR,50.19226,8.665165
+570,321937,F Goetheturm Bus Sachs. Landwe,50.08949,8.709703
+571,164847,F Goldbergweg Bus Goldbergweg,50.09613,8.716161
+572,218676,F Goldsteinstraße NHeizkraftwerk,50.08416,8.620857
+573,165618,F Goldsteinstraße NMorgenzeile,50.08416,8.620857
+574,242691,F Graebestr./Pflegeheim Bus Alt-Praunheim,50.151207,8.622721
+575,78263,F Graebestr./Pflegeheim Bus Ohlengarten,50.151207,8.622721
+576,125139,F Graf-Vollrath-Weg NEschb.Ldstr.West,50.129116,8.595259
+577,214769,F Graf-Vollrath-Weg NW.-Heidenh.-Str.,50.129116,8.595259
+578,324466,F Gravensteiner-Platz Bus Weilbrunnstr.,50.155384,8.698446
+579,6595,F Gravensteiner-Platz Bus Weilbrunnstr.,50.155384,8.698446
+580,281442,F Gravensteiner-Platz Strab Wendeanlage,50.155384,8.698446
+581,62340,F Grazer Weg Bus Wiener Straße,50.0983,8.733102
+582,284463,F Griesheim Bahnhof Alte Falterstraße,50.093975,8.606427
+583,234663,F Griesheim Bahnhof Vorplatz,50.093975,8.606427
+584,319136,F Griesheim Bahnhof Vorplatz,50.093975,8.606427
+585,189380,F Griesheim Bf./Eichenstraße Eichenstraße,50.095238,8.6072
+586,47016,F Griesheim Bf./Eichenstraße Wa NGriesheim Bf,50.095238,8.6072
+587,152498,F Griesheim Bf./Eichenstraße Wa NPlatanenstr.,50.095238,8.6072
+588,225574,F Große Nelkenstraße Bus NEllerfeld,50.13293,8.628403
+589,456871,F Große Nelkenstraße Bus NIndustriehof,50.13293,8.628403
+590,139630,F Große Nelkenstraße U NHausen,50.13293,8.628403
+591,264910,F Große Nelkenstraße U NIndustriehof,50.13293,8.628403
+592,322170,F Großer Hasenpfad Mitte Großer Hasenpfad,50.094677,8.686235
+593,157487,F Großer Hasenpfad Süd Letzer Hasenpfad,50.091167,8.684664
+594,331254,F Grüneburgpark Bus NDitmarstraße,50.13147,8.661561
+595,400004,F Grüneburgpark Bus NMiquel/Ha.al,50.13147,8.661561
+596,279635,F Grüneburgweg NEschenheimer Tor,50.121647,8.675585
+597,19792,F Grüneburgweg NHeddernheim,50.121647,8.675585
+598,233263,F Grüneburgweg NHolzhausenstraße,50.121647,8.675585
+599,73680,F Grüneburgweg NSüdbahnhof,50.121647,8.675585
+600,96644,F Guerickestraße Bus NW-Heidenheim,50.13518,8.599152
+601,166514,F Guerickestraße Bus NZentralwerks,50.13518,8.599152
+602,418343,F Gundelandstraße Bus NA.d.drei Hoh,50.156246,8.694578
+603,245966,F Gundelandstraße Bus NGravenst.-Pl,50.156246,8.694578
+604,433888,F Gundhofstraße NGüntherstraße,50.07924,8.647189
+605,83643,F Gundhofstraße NWaldfriedstraße,50.078976,8.647526
+606,299334,F Gustavsburgplatz Rebstöcker Straße,50.1006,8.630721
+607,436173,F Gustavsburgplatz Rebstöcker Straße,50.1006,8.630721
+608,120927,F Gutleut-/Heilbronner Str. NCamberger Straße,50.099766,8.654251
+609,363439,F Gutleut-/Heilbronner Str. NHeilbronner Str,50.099766,8.654251
+610,149028,F Gwinnerstraße Bus Bor NGwinners,50.13366,8.741186
+611,283270,F Gwinnerstraße Bus Bor NLahmeyer,50.13366,8.741186
+612,91238,F Gwinnerstraße Bus Gwi NLahmeyer,50.13366,8.741186
+613,334645,F Gwinnerstraße Ers Bus NGwin. Mi,50.13366,8.741186
+614,396958,F Gwinnerstraße U NEnkheim,50.13366,8.741186
+615,89897,F Gwinnerstraße U NSchäfflestraße,50.13366,8.741186
+616,6188,F Gwinnerstraße/Mitte Bus NGelastraße,50.13872,8.737074
+617,312159,F Gwinnerstraße/Mitte Bus NGwinnerstr.,50.13872,8.737074
+618,168807,F Gymnasium Westhausen Muckermannstraße,50.14055,8.609781
+619,420546,F Günthersburgallee Bus NHöhenstraße,50.12688,8.697003
+620,184310,F Günthersburgallee Bus NNibelungenpl,50.12688,8.697003
+621,358689,F Güntherstraße NGerauer Straße,50.081425,8.64579
+622,330692,F Güntherstraße NGundhofstraße,50.081657,8.645467
+623,210433,F Güterplatz Bus Hafenstr NHbf,50.10753,8.655732
+624,435235,F Güterplatz Bus Hafenstr. NGü,50.10753,8.655732
+625,383013,F Güterplatz Strab NHbf/Hohens,50.10753,8.655732
+626,84948,F Güterplatz Strab NHbf/Hohens,50.10753,8.655732
+627,135111,F Güterplatz Strab NHöchst,50.10753,8.655732
+628,335269,F Güterplatz Strab NHöchst,50.10753,8.655732
+629,271950,F H.-Hoffmann-Str./Blutsp.dst. Bus NNiederr. Lds,50.092148,8.653062
+630,207743,F H.-Hoffmann-Str./Blutsp.dst. Strab NNieder. Ld,50.092148,8.653062
+631,357188,F H.-Hoffmann-Str./Blutsp.dst. Strab NStrese/Gar,50.092148,8.653062
+632,434522,F Haardtwaldplatz Bus NHahnstraße,50.086082,8.636547
+633,130076,F Haardtwaldplatz Bus NOdenwaldstr,50.086082,8.636547
+634,347170,F Haardtwaldplatz Strab Ausstieg,50.086082,8.636547
+635,306144,F Haardtwaldplatz Strab Einstieg,50.086082,8.636547
+636,251471,F Habelstraße Bus Hedd.Kirchstr,50.156452,8.644103
+637,327628,F Habsburger-/Wittelsb.allee Bus Ha NHabsbg.al,50.120186,8.705001
+638,53365,F Habsburger-/Wittelsb.allee Bus Ha NHöhenstr.,50.120186,8.705001
+639,281975,F Habsburger-/Wittelsb.allee Strab NSaalb./Wit,50.120186,8.705001
+640,401855,F Habsburger-/Wittelsb.allee Strab NZoo,50.120186,8.705001
+641,251304,F Habsburger-/Wittelsb.allee nBus Wi NFreiligr,50.120186,8.705001
+642,417461,F Habsburger-/Wittelsb.allee nBus Wi NWaldschm,50.120186,8.705001
+643,98483,F Habsburgerallee Bus NOstbf/Da,50.117256,8.708333
+644,164251,F Habsburgerallee U Bahnsteig,50.117256,8.708333
+645,16872,F Habsburgerallee U Bahnsteig,50.117256,8.708333
+646,40861,F Hadrianstraße Bus NE-Kahn.Str,50.15311,8.633368
+647,192452,F Hadrianstraße Bus NMithrasstr,50.15311,8.633368
+648,224733,F Hafenmühlenweg Bus NMühlenwerke,50.10931,8.724248
+649,128249,F Hafenmühlenweg Bus NStaust. Ost,50.10931,8.724248
+650,125822,F Hafenstraße Strab/Bus NHbf/Sü,50.103134,8.657273
+651,181966,F Hafenstraße Strab/Bus NHbf/Sü,50.103134,8.657273
+652,312386,F Hafenstraße Strab/Bus NHeilbr,50.103134,8.657273
+653,43679,F Hafenstraße Strab/Bus NHeilbr,50.103134,8.657273
+654,86005,F Hagebuttenweg Bus NFf-Berg/Preu,50.167133,8.677224
+655,179983,F Hagebuttenweg Bus NFliederweg,50.167133,8.677224
+656,445215,F Hahnstraße Gol NHaatdtwaldpl,50.08468,8.632925
+657,366458,F Hahnstraße Gol NHeizkraftw.,50.08468,8.632925
+658,216192,F Hahnstraße Hah NHaardtwaldpl,50.08468,8.632925
+659,52457,F Haigerer Straße Bus NC.-Sonnensch,50.12359,8.578106
+660,344636,F Haigerer Straße Bus NWesterb.sied,50.12359,8.578106
+661,131765,F Hainer Weg Bus NGravenbruch,50.08437,8.698597
+662,271626,F Hainer Weg Bus NSachs. Warte,50.08437,8.698597
+663,343122,F Hainer Weg Bus NSachs. Warte,50.08437,8.698597
+664,169670,F Haingasse Bus Marktstraße,50.15618,8.758192
+665,8535,F Halmstraße NErntestraße,50.096004,8.642105
+666,355785,F Halmstraße NJ.-Kirchner/AHZ,50.096004,8.642105
+667,96782,F Hans-Leistikow-Straße NE-Balser-Straße,50.1802,8.619553
+668,357634,F Hans-Leistikow-Straße NJ-Beyer-Weg,50.1802,8.619553
+669,409260,F Hans-Poelzig-Straße NE-Balser-Straße,50.17622,8.617246
+670,52026,F Hans-Poelzig-Straße NL-Hillebrand-Str,50.17622,8.617246
+671,174613,F Hansenweg Bus Goldbergweg,50.09618,8.718663
+672,375308,F Harheimer Weg Bus NHaus Nidda,50.18316,8.673448
+673,382470,F Harheimer Weg Bus NSpitzenstr.,50.18316,8.673448
+674,250573,F Harthweg Strab NSchwanheim,50.081024,8.594727
+675,129007,F Harthweg Strab NStrese/Gar,50.081024,8.594727
+676,119980,F Hasselhorstweg Bus Sachs. Landwe,50.088634,8.70001
+677,141643,F Hauptbahnhof Bus v. Busbf.,50.10681,8.662657
+678,256514,F Hauptbahnhof Busbahnhof,50.10681,8.662657
+679,260177,F Hauptbahnhof Busbahnhof,50.10681,8.662657
+680,458851,F Hauptbahnhof Busbahnhof,50.10681,8.662657
+681,252333,F Hauptbahnhof Strab NBaseler Pl,50.10681,8.662657
+682,219168,F Hauptbahnhof Strab NPl d Repub,50.10681,8.662657
+683,442671,F Hauptbahnhof Südseite Strab NHeilbr.,50.105717,8.664049
+684,196792,F Hauptbahnhof Südseite Strab VHeilbr,50.105717,8.664049
+685,53656,F Hauptbahnhof Südseite Strab VHeilbr,50.105717,8.664049
+686,25351,F Hauptbahnhof U NBockenh. Warte,50.10681,8.662657
+687,193526,F Hauptbahnhof U NKonstablerw.,50.10681,8.662657
+688,441445,F Hauptbahnhof U NKonstablerw.,50.10681,8.662657
+689,186290,F Hauptbahnhof nBus Hbf/Kaiserst,50.10681,8.662657
+690,330555,F Hauptbahnhof nBus v. Hauptpor.,50.10681,8.662657
+691,412834,F Hauptbahnhof/Karlstr. Bus Karlstraße,50.108692,8.66365
+692,10770,F Hauptbahnhof/Münchener Str. Strab NBörneplatz,50.10693,8.666221
+693,161592,F Hauptbahnhof/Münchener Str. Strab NBörneplatz,50.10693,8.666221
+694,7377,F Hauptbahnhof/Münchener Str. Strab NBörneplatz,50.10693,8.666221
+695,114999,F Hauptbahnhof/Münchener Str. Strab NHbf/Bas.Pl,50.10693,8.666221
+696,323375,F Hauptbahnhof/Münchener Str. Strab NHbf/Bas.Pl,50.10693,8.666221
+697,262886,F Hauptfriedhof U NEck.Ldstr/Marb,50.136288,8.684313
+698,423687,F Hauptfriedhof U NGlauburgstr,50.136288,8.684313
+699,101709,F Hauptfriedhof nBus NDt. Nat.Bib,50.136288,8.684313
+700,33104,F Hauptfriedhof nBus NNJüd.Frdhf,50.136288,8.684313
+701,376277,F Hauptwache A NSüdbahnhof (U),50.11396,8.679286
+702,197202,F Hauptwache A VSüdbahnhof (U),50.11396,8.679286
+703,401572,F Hauptwache C NKonstabler.(U),50.11396,8.679286
+704,66590,F Hauptwache C VKonstabler.(U),50.11396,8.679286
+705,348757,F Haus Gallus NDB-Zentrale,50.104866,8.643479
+706,34509,F Haus Gallus NGalluswarte,50.104866,8.643479
+707,217405,F Haus Nidda Bus NBonames,50.183315,8.667524
+708,220309,F Haus Nidda Bus NHarh. Wg,50.183315,8.667524
+709,93007,F Hausen Bus NGeiselwiesen,50.137016,8.624497
+710,131873,F Hausen Bus NGr.Nelkenstr,50.137016,8.624497
+711,20562,F Hausen U Bahnsteig,50.137016,8.624497
+712,309555,F Hausener Weg Bus NFischstein,50.13156,8.619658
+713,17531,F Hausener Weg Bus NReifenberger,50.13156,8.619658
+714,38223,F Hausener Weg U NHeerstr,50.13156,8.619658
+715,283362,F Hausener Weg U NIndustriehof,50.13156,8.619658
+716,241006,F Hausener Weg nBus NStephan-Hei,50.13156,8.619658
+717,95963,F Heddernheim Bus Schleife A.st,50.161953,8.649101
+718,153927,F Heddernheim Bus Schleife E.st,50.161953,8.649101
+719,350884,F Heddernheim Bus Schleife E.st,50.161953,8.649101
+720,163920,F Heddernheim Kirche Bus Hedd.Kirchstr,50.15961,8.646865
+721,254995,F Heddernheim U Gleis 1,50.161953,8.649101
+722,454042,F Heddernheim U Gleis 2+3,50.161953,8.649101
+723,78819,F Heddernheim U Gleis 2+3,50.161953,8.649101
+724,320794,F Heddernheim nBus NOberschelde,50.161953,8.649101
+725,372405,F Heddernheim nBus NWeißer St,50.161953,8.649101
+726,391844,F Heddernheimer Landstraße >Ginnheim,50.163696,8.634897
+727,168474,F Heddernheimer Landstraße >Südbahnhof,50.163696,8.634897
+728,452966,F Heerstraße NFriedh. WH,50.144352,8.607484
+729,170576,F Heerstraße NHofg/TFischer-Wg,50.144352,8.607484
+730,436023,F Heerstraße U Bahnsteig,50.144352,8.607484
+731,136741,F Heerstraße VFriedh. WH,50.144352,8.607484
+732,86714,F Heidenfeld Bus I.d.Römerstad,50.15534,8.641201
+733,90112,F Heilbronner Straße Bus NHafenstr,50.10174,8.654027
+734,377137,F Heilbronner Straße Strab NHbf/Südsei,50.10174,8.654027
+735,16344,F Heilbronner Straße Strab/Bus VHafens,50.10174,8.654027
+736,175319,F Heilbronner Straße Strab/Bus VHafens,50.10174,8.654027
+737,396238,F Heiligenstock Bus NParkfriedhof,50.155506,8.717994
+738,305838,F Heiligenstock Bus NUnfallklinik,50.155506,8.717994
+739,326956,F Heimatmusem Bergen-Enkheim Bus Marktstraße,50.15517,8.753048
+740,369425,F Heinrich-Becker-Straße NGlockengasse,50.201817,8.67692
+741,262576,F Heinrich-Becker-Straße NTaunusblick,50.201817,8.67692
+742,404301,F Heinrich-Bingemer-Weg Bus F-Schubert-Rg,50.154808,8.759402
+743,235526,F Heinrich-Bingemer-Weg Bus H-Bingemer-Wg,50.154808,8.759402
+744,201954,F Heinrich-Hardt-Straße NBingelsweg,50.103214,8.602578
+745,292453,F Heinrich-Hardt-Straße NLindenhag,50.103214,8.602578
+746,262173,F Heinrich-Hopf-Straße NA.-Prior-Str.,50.126373,8.587045
+747,421233,F Heinrich-Hopf-Straße NWilhelm-Fay-Str.,50.126373,8.587045
+748,9504,F Heinrich-Kromer-Schule NUrseler Ldstr.,50.1653,8.625899
+749,262759,F Heinrich-Lanz-Allee Am Martinzehnten,50.189697,8.652609
+750,35879,F Heinrich-Lanz-Allee NSportz. Kalbach,50.189697,8.652609
+751,291620,F Heinrich-Plett-Straße Bus NAm Neuenberg,50.168392,8.685039
+752,428758,F Heinrich-Plett-Straße Bus NJ-Brecht-Str,50.168392,8.685039
+753,396621,F Heister-/Seehofstraße Strab NLokalbahnh,50.10372,8.696897
+754,195571,F Heister-/Seehofstraße Strab NOffenbach,50.10372,8.696897
+755,154970,F Heister-/Siemensstraße Bus Siemensstraße,50.104076,8.695399
+756,352526,F Heizkraftwerk Niederrad NGoldsteinstraße,50.08448,8.628106
+757,281860,F Heizkraftwerk Niederrad NHahnstraße,50.08448,8.628106
+758,263683,F Henninger-Turm Bus NWendelsplatz,50.09815,8.69355
+759,349660,F Henninger-Turm Bus NWerth. Str.,50.09815,8.69355
+760,245026,F Henriette-Fürth-Straße >Rheinlandstraße,50.086384,8.592055
+761,226691,F Henriette-Fürth-Straße >Ruhestein,50.086384,8.592055
+762,441299,F Hessen-Center Bus NEnkheim,50.140347,8.748326
+763,258582,F Hessen-Center Bus NKruppstraße,50.140656,8.749765
+764,273291,F Hessen-Center U NEnkheim,50.14052,8.749066
+765,300637,F Hessen-Center U NSchäfflestraße,50.140453,8.749081
+766,95159,F Hessendenkmal Bus NFriedbg.Pl,50.119797,8.690084
+767,43467,F Hessendenkmal Bus NKonstablerw.,50.119797,8.690084
+768,92693,F Hessendenkmal Strab NFriedbg.Pl,50.119797,8.690084
+769,314655,F Hessendenkmal Strab NKonstab,50.119797,8.690084
+770,198755,F Heusingerstraße NNeumarkt,50.106056,8.580105
+771,433714,F Heusingerstraße NNidda-Kampfbahn,50.106056,8.580105
+772,248697,F Hinter den Ulmen Bus NBurgholzer S,50.155098,8.663228
+773,124968,F Hinter den Ulmen Bus NIm Wörth,50.155098,8.663228
+774,143393,F Hochfeldstraße Bus NAm Eschb.tal,50.18685,8.69822
+775,71755,F Hochfeldstraße Bus NTempelhof,50.18685,8.69822
+776,370557,F Hoechst AG Tor Nord NHöchst Bf.,50.097946,8.528323
+777,221402,F Hoechst AG Tor Nord VHöchst Bf.,50.097946,8.528323
+778,107177,F Hoechst AG Tor Ost Bus IP Tor Ost,50.097347,8.538043
+779,20777,F Hoechst AG Tor Ost Bus IP Tor Ost,50.097347,8.538043
+780,304199,F Hoechst AG Tor West HöFa NIPH Tor Nor,50.08611,8.514243
+781,338066,F Hoechst AG Tor West HöFa NPfingstborn,50.08611,8.514243
+782,359308,F Hoechst AG Tor West SiBa NPfingstborn,50.08611,8.514243
+783,311304,F Hoechst AG Tor West SiBa NSindl. Bf.,50.08611,8.514243
+784,214056,F Hofgut Bus NHeerstr [U],50.146523,8.611467
+785,418894,F Hofgut Bus NSchönb. Wg,50.146523,8.611467
+786,390051,F Hofheimer Straße NKirche Zeilsh.,50.097027,8.489744
+787,235999,F Hofheimer Straße NNeu-Zeilsheim,50.097027,8.489744
+788,169359,F Hohe Brück Ausst./NRaNErlenb,50.200115,8.707857
+789,382136,F Hohe Brück Ausst./NRaNErlenb,50.200115,8.707857
+790,4740,F Hohe Brück VRath.-NErlenb.,50.200115,8.707857
+791,131215,F Hohe Straße Bus Erlenseer Str,50.158955,8.761383
+792,80069,F Hohenstaufenstraße Strab NHauptbf,50.110844,8.657554
+793,140626,F Hohenstaufenstraße Strab NMesse,50.110844,8.657554
+794,442657,F Holzhausen-Park Bus NHolzhausenst,50.127132,8.676905
+795,412438,F Holzhausen-Park Bus NHynspergstr.,50.127132,8.676905
+796,228282,F Holzhausenstraße Bus NHolzhausenpa,50.126713,8.673831
+797,38816,F Holzhausenstraße Bus NLessing-Gymn,50.126713,8.673831
+798,309655,F Holzhausenstraße U NHeddernheim,50.126713,8.673831
+799,233840,F Holzhausenstraße U NSüdbahnhof,50.126713,8.673831
+800,172256,F Holzhausenstraße nBus NGrüneburgwg,50.126713,8.673831
+801,453284,F Holzhausenstraße nBus NMiquel-/Adi,50.126713,8.673831
+802,116341,F Homburger Hohl NB.- Gurion-R.Süd,50.18655,8.661719
+803,326854,F Homburger Hohl NÄrztehaus a. Büg,50.18655,8.661719
+804,366724,F Homburger Landstr./Marbachwe Bus>Bornheim Mitt,50.144108,8.693327
+805,311049,F Homburger Landstr./Marbachwe Bus>Dornbusch,50.144108,8.693327
+806,108164,F Homburger Landstraße/Kaserne Bus NA-Schanz-Str,50.165585,8.680789
+807,160580,F Homburger Landstraße/Kaserne Bus NFf-Berg,50.165585,8.680789
+808,415224,F Hopfenbrunnen Schl. Hopfenbr.,50.188473,8.630675
+809,66942,F Hopfenbrunnen Schl. Hopfenbr.,50.188473,8.630675
+810,127668,F Hospital zum Hl. Geist Strab NAllerh.tor,50.110634,8.692715
+811,407324,F Hospital zum Hl. Geist Strab NLokalbf.,50.110634,8.692715
+812,290679,F Hostatostraße Hostatostraße,50.10183,8.54647
+813,409380,F Hugo-Eckener-Ring HERg Ost VTor2,50.05311,8.584406
+814,39639,F Hugo-Eckener-Ring HERg West NTer2,50.05311,8.584406
+815,289902,F Hugo-Eckener-Ring HERg West NTor3,50.05311,8.584406
+816,358564,F Hugo-Junkers-Straße Bus E-Heinkel-Str,50.127583,8.753385
+817,5846,F Hugo-Junkers-Straße Bus H-Junkers-Str,50.127583,8.753385
+818,209176,F Hugo-Junkers-Straße Bus HLd NCasselas,50.127583,8.753385
+819,93633,F Hugo-Junkers-Straße Bus HLd NDieselst,50.127583,8.753385
+820,335761,F Hugo-Junkers-Straße Strab NDaimlerstr,50.127583,8.753385
+821,203319,F Hugo-Junkers-Straße Strab NSchießhütt,50.127583,8.753385
+822,356546,F Humperdinckstraße NTriftstraße,50.087936,8.661811
+823,453392,F Humperdinckstraße NWaldsp.park Loui,50.087936,8.661811
+824,235873,F Hynspergstraße Bus NAdlerflychtp,50.127823,8.681879
+825,93369,F Hynspergstraße Bus NHolzhausenp,50.127823,8.681879
+826,1798,F Höchst Bahnhof ZOB Ber. A/St.1&2,50.10221,8.542371
+827,416892,F Höchst Bahnhof ZOB Ber. B/St.3&4,50.10221,8.542371
+828,452453,F Höchst Bahnhof ZOB Ber. C/St.5&6,50.10221,8.542371
+829,299490,F Höchst Bahnhof ZOB Ber. D/St.7&8,50.10221,8.542371
+830,230938,F Höchster Friedhof Bus SoW NW-Kolb-S,50.114758,8.548347
+831,403178,F Höchster Friedhof Bus SoW VW-Kolb-S,50.114758,8.548347
+832,281383,F Höchster Friedhof Bus Wi NWindthstr,50.114758,8.548347
+833,342554,F Höchster Markt E.-Josef-Straße,50.100254,8.545464
+834,91200,F Höhenstraße Bus NGünthersburg,50.123035,8.701488
+835,432568,F Höhenstraße Bus NHabs/Witt. A,50.123035,8.701488
+836,1702,F Höhenstraße U NHauptbahnhof,50.123035,8.701488
+837,447555,F Höhenstraße U NSeckb. Ldstr.,50.123035,8.701488
+838,150270,F Hügelstraße Bus NReinhatdstr,50.14798,8.666258
+839,126933,F Hügelstraße Bus NTh-Storm-Str,50.14798,8.666258
+840,109918,F Hügelstraße U NHeddernheim,50.14798,8.666258
+841,298529,F Hügelstraße U NSüdbahnhof,50.14798,8.666258
+842,457802,F Hügelstraße nBus NF-Tarnow-St,50.14798,8.666258
+843,389855,F Hügelstraße nBus NLindenbaum,50.14798,8.666258
+844,146744,F Im Fuchsloch Im Fuchloch,50.207684,8.703763
+845,297403,F Im Fuchsloch Im Fuchloch,50.207684,8.703763
+846,296148,F Im Mainfeld NKelsterbacher St,50.09015,8.640835
+847,274772,F Im Mainfeld NSchwanheimer Str,50.090183,8.640653
+848,349015,F Im Niederfeld NHarheimer Weg,50.183807,8.684014
+849,389738,F Im Niederfeld NSpitzenstraße,50.183807,8.684014
+850,71832,F Im Steinbügel Bus NBerkersh. Mi,50.167538,8.694493
+851,262304,F Im Steinbügel Bus NDachsberg,50.167538,8.694493
+852,190171,F Im Uhrig Bus Im Uhrig,50.16606,8.655705
+853,361755,F Im Wörth Bus Im Wörth,50.158234,8.659651
+854,215765,F Im Wörth Bus Nußzeil,50.158234,8.659651
+855,444118,F In der Au NGaugrafenstraße,50.12248,8.599202
+856,432396,F In der Au NRödelheim Bf.,50.12248,8.599202
+857,50096,F In der Schildwacht NElektronstraße,50.096447,8.592865
+858,332373,F In der Schildwacht NLärchenstraße,50.096447,8.592865
+859,123283,F Industriehof/Neue Börse Bus NFschstein,50.128998,8.629384
+860,24494,F Industriehof/Neue Börse Bus NGr. Nelkenst,50.128998,8.629384
+861,63797,F Industriehof/Neue Börse Bus NSchönh./Kase,50.128998,8.629384
+862,256041,F Industriehof/Neue Börse UNHeerstr/Hausen,50.128998,8.629384
+863,444975,F Industriehof/Neue Börse UNZoo,50.128998,8.629384
+864,18694,F Industriepark Höchst H831 Bus NHöchst,50.0903,8.552615
+865,400094,F Industriepark Höchst H831 Bus NIP Tor K801,50.0903,8.552615
+866,398979,F Industriepark Höchst T. K801 Bus NIP Tor H831,50.084705,8.55113
+867,288116,F Industriepark Höchst T. K801 Bus NIP Tor Süd,50.084705,8.55113
+868,336495,F Industriepark Höchst Tor Süd Südallee,50.081154,8.544583
+869,448730,F Industriepark Höchst Tor Süd Südallee,50.081154,8.544583
+870,22575,F Inheidener Straße Inheidener Straße,50.13255,8.716799
+871,430999,F Intzestraße Bus NKaiserl.br.,50.111496,8.731686
+872,454172,F Intzestraße Bus NStaust. Ost,50.111496,8.731686
+873,374399,F Jahrhunderthalle NRabenkopfweg,50.097336,8.520083
+874,320582,F Jahrhunderthalle NSilostraße,50.097336,8.520083
+875,207697,F Jakobsbrunnenstraße Bus NAlt-Fechenh.,50.126213,8.765223
+876,405638,F Jakobsbrunnenstraße Bus NBodenseestr.,50.126213,8.765223
+877,75055,F Johann-Beyer-Weg NA.-Kolb-W/H.-Lei,50.182304,8.625388
+878,392328,F Johann-Beyer-Weg NPaul-Apel-Str.,50.182304,8.625388
+879,103872,F Johanna-Kirchner-AHZ NCamberger Str,50.097557,8.647069
+880,315179,F Johanna-Kirchner-AHZ NHalmstraße,50.097557,8.647069
+881,224566,F Johanna-Melber-Weg Bus Wendelsweg,50.097427,8.699117
+882,281820,F Johanna-Tesch-Platz Bus NEissporth.,50.127907,8.726658
+883,2035,F Johanna-Tesch-Platz Bus NSchäfflestr.,50.127907,8.726658
+884,396254,F Johanna-Tesch-Platz Strab Ausstieg,50.127907,8.726658
+885,290035,F Johanna-Tesch-Platz Strab Einstieg,50.127907,8.726658
+886,268271,F Johanna-Tesch-Platz U NEnkheim,50.127907,8.726658
+887,245320,F Johanna-Tesch-Platz U NIndustriehof,50.127907,8.726658
+888,203296,F Josef-Bautz-Straße Heinr.-Lanz-Allee,50.19557,8.641726
+889,37451,F Josef-Bautz-Straße Josef-Bautz-Str,50.19557,8.641726
+890,415329,F Jugenheimer Straße Melibocusstraße,50.083633,8.638494
+891,148111,F Julius-Brecht-Straße Bus NH-Plett-Str.,50.1678,8.681292
+892,189780,F Julius-Brecht-Straße Bus NHagebuttenwg,50.1678,8.681292
+893,148504,F Juliusstraße Bus Sop NFalkstr.,50.12503,8.646881
+894,304442,F Juliusstraße Bus Sop NSophiens,50.12503,8.646881
+895,205263,F Juliusstraße Strab FRA NAdalbS,50.12503,8.646881
+896,378855,F Juliusstraße Strab FRA NAdalbS,50.12503,8.646881
+897,272899,F Juliusstraße Strab FRA NGinnh,50.12503,8.646881
+898,446529,F Juliusstraße Strab FRA NGinnh,50.12503,8.646881
+899,231946,F Jungmannstraße Jungmannstraße,50.091007,8.605487
+900,438061,F Jägerallee Bus NE-Wiss-Str,50.10016,8.590541
+901,60421,F Jägerallee Strab NGüterplatz,50.10016,8.590541
+902,195037,F Jägerallee Strab NHöchst,50.10016,8.590541
+903,255907,F Jägerallee nBus NBirminghams,50.10016,8.590541
+904,80470,F Kaiser-Sigmund-Straße NDornbusch,50.1407,8.677849
+905,246368,F Kaiser-Sigmund-Straße NMarbachwg/SZ,50.1407,8.677849
+906,167072,F Kaiserleibrücke NIntzestr.,50.112812,8.73393
+907,236945,F Kaiserleibrücke NSchielestr. West,50.112812,8.73393
+908,265272,F Kalbach NBad Homburg,50.183064,8.658075
+909,130437,F Kalbach NSüdbahnhof,50.183064,8.658075
+910,121344,F Kalbach P+R Parkplatz,50.183064,8.658075
+911,128241,F Kalbach P+R Parkplatz,50.183064,8.658075
+912,344595,F Kalbach U.Kalb.Wg NBoname,50.183064,8.658075
+913,295718,F Kalbach U.Kalb.Wg NBonifa,50.183064,8.658075
+914,442641,F Karl-Ritscher-Anlage NJ.-Bautz-Str,50.193134,8.646674
+915,99667,F Karl-Ritscher-Anlage NX.-Fendt-Str,50.193134,8.646674
+916,305427,F Karl-Wessendorft-Straße Bus NBergen Ost,50.15661,8.761143
+917,353199,F Karl-Wessendorft-Straße Bus NMichlersbrun,50.15661,8.761143
+918,267440,F Karl-von-Drais-Straße Bus NEngelthalerS,50.149677,8.678838
+919,83178,F Karl-von-Drais-Straße Bus NReinhardstr,50.149677,8.678838
+920,224010,F Karlsbader Straße Stresemannallee,50.086834,8.67153
+921,208208,F Karmeliterkloster Bus Ber NWBrandtP,50.11008,8.677928
+922,298466,F Karmeliterkloster Strab NBörneplatz,50.11004,8.678124
+923,433338,F Karmeliterkloster Strab NBörneplatz,50.11004,8.678124
+924,133908,F Karmeliterkloster Strab NHauptbf,50.110027,8.677789
+925,32162,F Karmeliterkloster Strab NHauptbf,50.110027,8.677789
+926,334905,F Kasernenstraße NBirkenweg,50.12301,8.632493
+927,247762,F Kasernenstraße NIndustriehof,50.12301,8.632493
+928,44242,F Kelsterbacher Straße NIm Mainfeld,50.089355,8.643482
+929,37282,F Kelsterbacher Straße NSchwarzwaldstr.,50.08917,8.643399
+930,267669,F Kelsterbacher Weg NGeisenheimer Str,50.086754,8.569947
+931,101120,F Kelsterbacher Weg NRauenthaler Weg,50.086754,8.569947
+932,27974,F Kettenhofweg Bus NBettinaplatz,50.116283,8.658242
+933,429213,F Kettenhofweg Bus NSchubertstr,50.116283,8.658242
+934,261934,F Kiesschneise Strab NSchwanheim,50.076485,8.618026
+935,263812,F Kiesschneise Strab NStrese/Gar,50.076485,8.618026
+936,300364,F Kirche Zeilsheim Alt-Zeilsheim,50.095,8.492868
+937,253770,F Kirchgasse Bus NMarkt/Landgr,50.15388,8.746884
+938,439908,F Kirchgasse Bus NVilbeler Lds,50.15388,8.746884
+939,456797,F Kirchplatz Bus NSchönhof,50.125076,8.637665
+940,138661,F Kirchplatz Bus NSophienstr,50.125076,8.637665
+941,234515,F Kirchplatz U Bahnsteig,50.125095,8.637637
+942,279360,F Kirchplatz U Bahnsteig,50.125076,8.637665
+943,335831,F Kirschbaumweg Bus NRödelheim Bf,50.126247,8.605212
+944,445562,F Kirschbaumweg Bus NW-Heidenh-St,50.126247,8.605212
+945,302421,F Kleyerstraße NF.-Ebert-Siedl.,50.09711,8.629937
+946,4186,F Kleyerstraße NOrdnungsamt,50.09711,8.629937
+947,155375,F Kliniken Höchst Bus Gotenstraße,50.10735,8.544237
+948,192955,F Kliniken Höchst Bus Königst. Str.,50.10735,8.544237
+949,253610,F Kolberger Weg Kolb.Weg Ausstieg,50.09522,8.495396
+950,352062,F Kolberger Weg Kolb.Wg. Einstieg,50.09522,8.495396
+951,79901,F Konrad-Duden-Weg Bus NA.d.Bornhohl,50.19025,8.666608
+952,117447,F Konrad-Duden-Weg Bus NBonames Mitt,50.19025,8.666608
+953,271547,F Konrad-Glatt-Straße NZuckschw/Bauhof,50.106678,8.548968
+954,122522,F Konstablerwache S/U NHauptwache,50.114494,8.687895
+955,321613,F Konstablerwache S/U NOstend/Zoo,50.114494,8.687895
+956,165349,F Konstablerwache Strab/Bus NBörnep,50.114494,8.687895
+957,308032,F Konstablerwache Strab/Bus NBörnep,50.114494,8.687895
+958,281100,F Konstablerwache Strab/Bus NHessen,50.114494,8.687895
+959,44890,F Konstablerwache Strab/Bus NHessen,50.114494,8.687895
+960,307751,F Konstablerwache U NDom/Römer,50.114494,8.687895
+961,33920,F Konstablerwache U NDom/Römer,50.114494,8.687895
+962,398099,F Konstablerwache U NMerian/Muster,50.114494,8.687895
+963,298458,F Krankenhaus Nordwest Haingrabenstraße,50.150833,8.620387
+964,326588,F Kreisel Unterschweinstiege >Oberforsthaus,50.05708,8.588617
+965,376301,F Kreisel Unterschweinstiege >Terminal1,50.05708,8.588617
+966,244581,F Kreuzstraße Bus NRonneburgstr,50.15249,8.691048
+967,302667,F Kreuzstraße Bus NWeilbrunnstr,50.15249,8.691048
+968,409863,F Kriegkstraße Tram NGalluswarte,50.10131,8.639885
+969,64555,F Kriegkstraße Tram NGalluswarte,50.10131,8.639885
+970,259460,F Kriegkstraße Tram NRebst. Str.,50.10131,8.639885
+971,343765,F Kriegkstraße Tram NRebst. Str.,50.10131,8.639885
+972,382502,F Kronberger Straße Bus NAlte Oper,50.120804,8.670585
+973,341831,F Kronberger Straße Bus NBremer Platz,50.120804,8.670585
+974,387673,F Kruppstraße Bus NGwinnerstr.,50.138767,8.74555
+975,128044,F Kruppstraße Bus NHessen-C.,50.138767,8.74555
+976,429628,F Kruppstraße U NEnkheim,50.138767,8.74555
+977,196547,F Kruppstraße U NSchäfflestraße,50.138767,8.74555
+978,319124,F Kuhwaldstraße Strab NHohenstauf,50.11688,8.640579
+979,98884,F Kuhwaldstraße Strab NRebstockb.,50.11688,8.640579
+980,276636,F Kurfürstenplatz Bus Ederstraße,50.121048,8.640226
+981,30123,F Kurfürstenplatz Bus Schloßstraße,50.121048,8.640226
+982,17004,F Kurhessenstraße Bus NSchönbornstr,50.144962,8.655003
+983,275922,F Kurhessenstraße Bus NT-Storm-Str,50.144962,8.655003
+984,379882,F Kurmarkstraße NNiedereschb. Str,50.203873,8.70324
+985,81658,F Kurmarkstraße NTaunusblick,50.203873,8.70324
+986,414326,F Käthchen-Paulus-Straße NRebstockb./Eurov,50.1079,8.621439
+987,358154,F Käthchen-Paulus-Straße NRömerhof,50.1079,8.621439
+988,111495,F Käthe-Kruse-Straße Bus NBonifatiusbr,50.178288,8.637712
+989,398942,F Käthe-Kruse-Straße Bus NRiedberg [U],50.178288,8.637712
+990,205279,F Königsteiner Straße Bus Sossenh.Str.,50.111336,8.537754
+991,190256,F Königsteiner Straße Bus Wasgaustraße,50.111336,8.537754
+992,229013,F Lachgraben Bus NChem.W.,50.092304,8.578003
+993,51117,F Lachgraben Bus NDürkh.Str.,50.092304,8.578003
+994,396622,F Lachweg Bus NA Gabelacker,50.16252,8.661328
+995,389614,F Lachweg Bus NA-Frank-Sied,50.16252,8.661328
+996,160993,F Lahmeyerstraße Bus NSchlitzer St,50.13183,8.742482
+997,92645,F Lahmeyerstraße Bus VSchlitzer St,50.13183,8.742482
+998,451870,F Langenselbolder Straße Bus NLauterb. Str,50.13268,8.753303
+999,319273,F Langenselbolder Straße Bus NSteinauer St,50.13268,8.753303
+1000,49297,F Lauterbacher Straße Bus NLangenselb.S,50.132336,8.748717
+1001,275277,F Lauterbacher Straße Bus NSchlitzer St,50.132336,8.748717
+1002,111833,F Leipziger Straße NIndustriehof,50.12258,8.645696
+1003,288559,F Leipziger Straße NZoo,50.12258,8.645696
+1004,165869,F Lenzenbergstraße Anbgstr NMärsie,50.097206,8.505633
+1005,47506,F Lenzenbergstraße Anbgstr NSiedl Tb,50.097206,8.505633
+1006,416339,F Lenzenbergstraße Pfawie NHöchst,50.097206,8.505633
+1007,202811,F Lenzenbergstraße Pfawie NZeilsheim,50.097206,8.505633
+1008,116202,F Leonhardsgasse Bus Ausstieg,50.14376,8.732164
+1009,276539,F Leonhardsgasse Bus Einstieg,50.14376,8.732164
+1010,28333,F Leonhardsgasse Ers Leonhardsgass,50.14376,8.732164
+1011,425297,F Lerchesberg Busschleife Lerch,50.0831,8.681071
+1012,50256,F Lerchesberg Busschleife Lerch,50.0831,8.681071
+1013,70180,F Lerchesbergring NGablonzer Straße,50.083294,8.67896
+1014,78831,F Lerchesbergring NLerchesberg,50.083294,8.67896
+1015,199793,F Lessing-Gymnasium Bus Hansaallee,50.124947,8.673046
+1016,168481,F Lettigkautweg Strab NLokalbahnh,50.099854,8.70342
+1017,210381,F Lettigkautweg Strab NLokalbahnh,50.099854,8.70342
+1018,422617,F Lettigkautweg Strab NOffenbach,50.099854,8.70342
+1019,431665,F Lettigkautweg Strab NOffenbach,50.099854,8.70342
+1020,233021,F Leuchte Bus Leuchte,50.14279,8.757266
+1021,180426,F Leuchte/Rangenbergstraße Bus Rangenbergstr,50.143414,8.762243
+1022,235333,F Leverkuser Straße Bolongarostraße,50.098186,8.54533
+1023,95133,F Lindenbaum >Dornbusch,50.152542,8.661609
+1024,277363,F Lindenbaum >Heddernheim,50.152542,8.661609
+1025,414455,F Lindenbaum >Heddernheim,50.152542,8.661609
+1026,52396,F Lindenbaum >Südbahnhof,50.152542,8.661609
+1027,227442,F Lindenhag NH.-Hardt-Str.,50.106453,8.600915
+1028,95154,F Lindenhag NNeufeld,50.106453,8.600915
+1029,270491,F Lindenhof Bus NErlenhof,50.190765,8.70052
+1030,91868,F Lindenhof Bus NTempelhof,50.190765,8.70052
+1031,55136,F Linnegraben Bus NJägerallee,50.10021,8.596606
+1032,317706,F Linnegraben Strab NGüterplatz,50.10021,8.596606
+1033,187875,F Linnegraben Strab NHöchst,50.10021,8.596606
+1034,3504,F Linnegraben nBus NWaldschulst,50.10021,8.596606
+1035,252005,F Lohrberg Bus Berger Weg,50.15399,8.727308
+1036,72238,F Lokalbahnhof Strab Dre NH.hl.G,50.101955,8.692128
+1037,116961,F Lokalbahnhof Strab Dre NSüd/Of,50.101955,8.692128
+1038,424933,F Lokalbahnhof Strab Dre NSüd/Of,50.101955,8.692128
+1039,117404,F Lokalbahnhof Strab Hei NOffenb,50.101955,8.692128
+1040,72974,F Lokalbahnhof Strab Hei VOffenb,50.101955,8.692128
+1041,210186,F Lokalbahnhof/Darmst. Ldstr. Bus NAffentorpl.,50.102215,8.690854
+1042,322462,F Lokalbahnhof/Darmst. Ldstr. Bus NWendelsplatz,50.102215,8.690854
+1043,123115,F Lokalbahnhof/Hedderichstr. Bus Hedderichstr.,50.101727,8.690689
+1044,225865,F Lokalbahnhof/Textorstr. Strab NLokalbf.,50.102844,8.690584
+1045,422412,F Lokalbahnhof/Textorstr. Strab NLokalbf.,50.102844,8.690584
+1046,107234,F Lokalbahnhof/Textorstr. Strab/Bus NSüdbf.,50.102844,8.690584
+1047,248163,F Lokalbahnhof/Textorstr. Strab/Bus NSüdbf.,50.102844,8.690584
+1048,154410,F Lorscher Straße Alexanderstraße,50.125416,8.609442
+1049,176794,F Louisa Bahnhof Strab NNeu-Isenb.,50.083683,8.670196
+1050,342867,F Louisa Bahnhof Strab NStrese/Mör,50.083683,8.670196
+1051,304095,F Lucy-Hillebrand-Straße NH-Poelzig-Straße,50.174614,8.623825
+1052,67968,F Lucy-Hillebrand-Straße NUni-Campus Riedb,50.174614,8.623825
+1053,395325,F Ludwig-Erhard-Anlage Bus NEmser Straße,50.11419,8.649883
+1054,429122,F Ludwig-Erhard-Anlage Strab NFesth./Mes,50.11419,8.649883
+1055,364166,F Ludwig-Erhard-Anlage Strab NVarrentrap,50.11419,8.649883
+1056,46859,F Ludwig-Erhard-Schule Hunsrückstraße,50.110416,8.535023
+1057,262500,F Ludwig-Scriba-Straße Bolongarostraße,50.102688,8.556707
+1058,137873,F Ludwig-Scriba-Straße L.-Scriba-Straße,50.102688,8.556707
+1059,210611,F Ludwigshafener Straße Bus Hostatostr.,50.099895,8.541694
+1060,339305,F Lufthansa-Aviation-Center Bus NLH-Basis,50.048126,8.556609
+1061,41481,F Lufthansa-Aviation-Center Bus VLH-Basis,50.048126,8.556609
+1062,376650,F Luthmerstraße Bus NNied Kirche,50.09915,8.572869
+1063,26626,F Luthmerstraße Strab NGüterplatz,50.09915,8.572869
+1064,354682,F Luthmerstraße Strab NHöchst,50.09915,8.572869
+1065,141123,F Luthmerstraße nBus NBirminghams,50.09915,8.572869
+1066,326516,F Lyoner Straße NHahnstr/HKW,50.082867,8.629558
+1067,139903,F Lyoner Straße NRhonestraße,50.082867,8.629558
+1068,428026,F Lyoner-/Hahnstraße Ers Ly NNiederrBf,50.07907,8.634603
+1069,276893,F Lyoner-/Hahnstraße NSaonestraße,50.07976,8.634192
+1070,185453,F Lärchenstraße Lärchenstraße,50.098392,8.586768
+1071,8662,F Löwengasse Bus Inheidener St,50.127968,8.71768
+1072,68639,F Löwengasse Bus Kettelerallee,50.127968,8.71768
+1073,115897,F Lübecker Straße Bus NBremer Str,50.12926,8.669856
+1074,81180,F Maastrichter Ring NEuropav. West,50.10846,8.628438
+1075,339668,F Maastrichter Ring NRömischer Ring,50.10846,8.628438
+1076,384978,F Main-Neckar-Brücke Rotfederring,50.096996,8.654662
+1077,396693,F Mainberg Bolongarostr.,50.10001,8.54952
+1078,14105,"F Mainkur Bahnhof Bus NA-Fech, Cass",50.13448,8.768092
+1079,444646,F Mainkur Bahnhof Bus NAlt-Fechenh,50.13448,8.768092
+1080,29816,F Mainkur Bahnhof Bus NBirst.Str/HU,50.13448,8.768092
+1081,273445,F Mainkur Bahnhof Strab NDaimlerstr,50.13448,8.768092
+1082,432189,F Mainkur Bahnhof Strab NSchießhütt,50.13448,8.768092
+1083,263110,F Marbachweg/Sozialzentrum Bus NHomb./Marbwg,50.142296,8.684623
+1084,371516,F Marbachweg/Sozialzentrum Bus NK-Siegmund-S,50.142296,8.684623
+1085,195934,F Marbachweg/Sozialzentrum U NEckenh. Ldstr,50.142296,8.684623
+1086,8755,F Marbachweg/Sozialzentrum U NPreungesheim,50.142296,8.684623
+1087,402816,F Marktplatz Bergen Bus Nordring,50.158745,8.758851
+1088,454049,F Marktstraße/Landgraben Bus Lg NNordr/Lan,50.154984,8.749662
+1089,155068,F Marktstraße/Landgraben Bus Ma NHeimatmus,50.154984,8.749662
+1090,413826,F Marktstraße/Landgraben Bus Ma NKirchgass,50.154984,8.749662
+1091,24679,F Markus-Krankenhaus Bus Ausst./NUnisp,50.13666,8.645621
+1092,441807,F Markus-Krankenhaus Bus Ausst./NUnisp,50.13666,8.645621
+1093,325760,F Markus-Krankenhaus Bus NGinnh/Europa,50.13666,8.645621
+1094,97410,F Markus-Krankenhaus Strab NAdalb/Schl,50.13666,8.645621
+1095,250236,F Markus-Krankenhaus Strab NGinnheim,50.13666,8.645621
+1096,48410,F Martinskirchstraße NFerd.-Dirichs-Wg,50.085148,8.588852
+1097,336242,F Martinskirchstraße NHenr.-Fürth-Str.,50.085148,8.588852
+1098,342525,F Mathildenstraße Bus Goldbergweg,50.09681,8.721901
+1099,245572,F Mauritiusstraße Eifelstraße,50.087555,8.580126
+1100,183105,F Mauritiusstraße Martinskirchstr.,50.087555,8.580126
+1101,2903,F Max-Eyth-Straße Bus Leo-Gans-Str.,50.12435,8.761848
+1102,334043,F Max-Reger-Straße NHumperdinckstr.,50.087475,8.667026
+1103,227380,F Max-Reger-Straße NStresemannall/Mö,50.087475,8.667026
+1104,449207,F Mecklenburger Straße NARiedstreg,50.207203,8.705615
+1105,206254,F Mecklenburger Straße NN.eschb. Str,50.207203,8.705615
+1106,99107,F Meerholzer Straße Bus Bebraer Str.,50.1341,8.76387
+1107,354415,F Melanchthonplatz Bus Wiener Straße,50.097603,8.727613
+1108,199565,F Melibocusstraße Bus NGerauer Str,50.08192,8.640253
+1109,218775,F Melibocusstraße Bus NNiederr. Bf.,50.08192,8.640253
+1110,268848,F Melibocusstraße Strab NSchwanheim,50.08192,8.640253
+1111,138907,F Melibocusstraße Strab NStrese/Gar,50.08192,8.640253
+1112,57362,F Merianplatz >Konstablerwache,50.120026,8.695256
+1113,294249,F Merianplatz >Seckbach,50.120026,8.695256
+1114,136009,F Michael-Grzimek-Schule Bus NA.d.Walkmühl,50.200584,8.67141
+1115,100403,F Michael-Stumpf-Straße Gebeschusstraße,50.104725,8.542039
+1116,260741,F Michlersbrunnen Bus Marktstraße,50.1555,8.754865
+1117,111817,F Miquel-/Adickesallee Bus NBertramstr.,50.13166,8.672133
+1118,326220,F Miquel-/Adickesallee Bus NBremer Str.,50.13166,8.672133
+1119,203585,F Miquel-/Adickesallee Bus NGrüneburgpar,50.13166,8.672133
+1120,69803,F Miquel-/Adickesallee U NHeddernheim,50.13166,8.672133
+1121,415941,F Miquel-/Adickesallee U NSüdbahnhof,50.13166,8.672133
+1122,31182,F Miquel-/Adickesallee nBus NDornbusch,50.13166,8.672133
+1123,27355,F Miquel-/Hansaallee NGrüneburgpark,50.131523,8.66847
+1124,191380,F Miquel-/Hansaallee NMiquel/Ad.al,50.131523,8.66847
+1125,291118,F Mithrasstraße Bus NA.a.Schloß,50.152554,8.630462
+1126,185187,F Mithrasstraße Bus NHadrianstr,50.152554,8.630462
+1127,67407,F Mittelseestraße Bus NBodenseestr.,50.122215,8.766851
+1128,91221,F Mittelseestraße Bus NPfortenstr.,50.122215,8.766851
+1129,78276,F Morgenzeile NGoldsteinstraße,50.08461,8.617584
+1130,94202,F Morgenzeile NSonnenweg,50.08488,8.61761
+1131,218463,F Musterschule Bus NAlte Gasse,50.1217,8.686478
+1132,1783,F Musterschule Bus NGlauburgstr.,50.1217,8.686478
+1133,75718,F Musterschule U NEck.Ld./Marbwg,50.1217,8.686478
+1134,250510,F Musterschule U NHauptbahnhof,50.1217,8.686478
+1135,91273,F Märchensiedlung Anbgstr NAnbgstr.,50.09425,8.504071
+1136,110045,F Märchensiedlung Anbgstr NSiedl Tb,50.09425,8.504071
+1137,247726,F Mönchhofstraße Bus Ausstieg L34,50.100475,8.61757
+1138,381150,F Mönchhofstraße Bus NSchmidtstr,50.100475,8.61757
+1139,315450,F Mönchhofstraße Strab NGüterplatz,50.100475,8.61757
+1140,392754,F Mönchhofstraße Strab NHöchst,50.100475,8.61757
+1141,423007,F Mönchhofstraße n-Bus NWickerer S,50.100475,8.61757
+1142,313169,F Mühlberg Bus NLettigkautwe,50.101894,8.699704
+1143,399845,F Mühlberg Bus VLettigkautwe,50.101894,8.699704
+1144,61542,F Mühlberg Strab NLokalbahnh,50.101894,8.699704
+1145,10753,F Mühlberg Strab NOffenbach,50.101894,8.699704
+1146,397723,F Mühlenwerke Bus NHafenmühlenw,50.10798,8.719824
+1147,215676,F Mühlenwerke Bus NSchmickstr.,50.10798,8.719824
+1148,87488,F Mühlheimer Straße Bus Steinäckerstr,50.11865,8.773621
+1149,35849,F Münzenberger Straße Strab/Bus NNibelu,50.13272,8.695203
+1150,450858,F Münzenberger Straße Strab/Bus NNibelu,50.13272,8.695203
+1151,37434,F Münzenberger Straße Strab/Bus NWasser,50.13272,8.695203
+1152,97749,F Münzenberger Straße Strab/Bus NWasser,50.13272,8.695203
+1153,144299,F Nauheimer Straße Strab NHohenstauf,50.11669,8.644258
+1154,236370,F Nauheimer Straße Strab NRebstockb.,50.11669,8.644258
+1155,315695,F Neu-Isenburg Stadtgrenze Straßenbahn,50.059692,8.694604
+1156,338479,F Neu-Isenburg Stadtgrenze Straßenbahn,50.059692,8.694604
+1157,155161,F Neu-Zeilsheim Neu-Zeilsheim,50.097122,8.493112
+1158,377130,F Neu-Zeilsheim Pfaffenwiese,50.097122,8.493112
+1159,341957,F Neufeld NLindenhag,50.110874,8.598083
+1160,86191,F Neufeld NNeumarkt,50.110874,8.598083
+1161,47384,F Neumarkt NHeusingerstraße,50.10734,8.584511
+1162,389134,F Neumarkt NNeufeld,50.10734,8.584511
+1163,194689,F Nibelungenallee/Dt. Bibl. Bus Adi NBertrams,50.13143,8.683939
+1164,354367,F Nibelungenallee/Dt. Bibl. Bus Eck NGlauburg,50.13143,8.683939
+1165,419303,F Nibelungenallee/Dt. Bibl. Bus Eck NHauptfrd,50.13143,8.683939
+1166,255208,F Nibelungenallee/Dt. Bibl. Bus Nib NRWagnerS,50.13143,8.683939
+1167,27216,F Nibelungenallee/Dt. Bibl. U NEck.Ld/Marb.wg,50.13143,8.683939
+1168,229521,F Nibelungenallee/Dt. Bibl. U NGlauburgstr,50.13143,8.683939
+1169,109634,F Nibelungenplatz FH Bus NGünthersb.a,50.12902,8.693143
+1170,21792,F Nibelungenplatz FH Bus NRi.Wagner-S.,50.12902,8.693143
+1171,179976,F Nibelungenplatz FH Strab/Bus NMünzen,50.12902,8.693143
+1172,81381,F Nibelungenplatz FH Strab/Bus NMünzen,50.12902,8.693143
+1173,106177,F Nibelungenplatz FH Strab/Bus NRohrba,50.12902,8.693143
+1174,56816,F Nibelungenplatz FH Strab/Bus NRohrba,50.12902,8.693143
+1175,116568,F Nidda-Kampfbahn Oes NHeusingerstr,50.104565,8.57503
+1176,449400,F Nidda-Kampfbahn Oes NNied Bf./Fri,50.104565,8.57503
+1177,156576,F Niddapark >Ginnheim,50.143753,8.642197
+1178,366512,F Niddapark >Südbahnhof,50.143753,8.642197
+1179,104973,F Nied Bahnhof/Friedhof NNidda-Kampfbahn,50.103336,8.571224
+1180,88633,F Nied Bahnhof/Friedhof NNied Bf./Lotzstr,50.103336,8.571224
+1181,424722,F Nied Bahnhof/Lotzstraße NNied Bf/Friedhof,50.10213,8.568454
+1182,309656,F Nied Bahnhof/Lotzstraße NNied Brücke,50.10213,8.568454
+1183,250263,F Nied Brücke ANied NTillystr.,50.100254,8.564305
+1184,123805,F Nied Brücke Oeser NNied Bf.,50.100254,8.564305
+1185,425478,F Nied Brücke Oeser NTillystr.,50.100254,8.564305
+1186,433264,F Nied Kirche Bus Alt Nied,50.098278,8.567174
+1187,242870,F Nied Kirche Bus Mainzer Ldstr,50.098278,8.567174
+1188,204722,F Nied Kirche Strab NGüterplatz,50.098278,8.567174
+1189,18207,F Nied Kirche Strab NHöchst,50.098278,8.567174
+1190,326243,F Niedenau Bus Unterlindau,50.116802,8.667271
+1191,36723,F Nieder-Eschbach D-L-Barre NBornho,50.199253,8.670411
+1192,63871,F Nieder-Eschbach D-L-Barre VBornho,50.199253,8.670411
+1193,274857,F Nieder-Eschbach NBad Homburg,50.199253,8.670411
+1194,88584,F Nieder-Eschbach NSüdbahnhof,50.199253,8.670411
+1195,108503,F Nieder-Eschbach Prager Ausstieg/W,50.199253,8.670411
+1196,273641,F Nieder-Eschbach Prager NO-Hahn-Sc,50.199253,8.670411
+1197,64848,F Nieder-Eschbach Prager VO-Hahn-Sc,50.199253,8.670411
+1198,201280,F Niederbornstraße Bus S.-Freud-Str,50.152752,8.679251
+1199,354546,F Niedereschbacher Straße AEr NMecklenb.Str,50.205696,8.707095
+1200,438733,F Niedereschbacher Straße AEr NRath.-NErlen,50.205696,8.707095
+1201,439303,F Niedereschbacher Straße Nes NKurmarkstr.,50.205696,8.707095
+1202,346587,F Niederrad Bahnhof Bus Ausst./Warten,50.08078,8.63709
+1203,252145,F Niederrad Bahnhof Bus NBürostadt,50.08078,8.63709
+1204,245352,F Niederrad Bahnhof Bus NMelibocusstr,50.08078,8.63709
+1205,128265,F Niederrad Bahnhof Strab NSchwanheim,50.08078,8.63709
+1206,434918,F Niederrad Bahnhof Strab NStrese/Gar,50.08078,8.63709
+1207,274720,F Niederräder Landstraße Bus Niederräder L,50.088516,8.651467
+1208,328502,F Niederräder Landstraße Ers NTriftstr,50.088516,8.651467
+1209,286312,F Niederräder Landstraße Ers NVogelweidstr,50.088516,8.651467
+1210,65326,F Niederräder Landstraße Strab NStrese/Gar,50.088516,8.651467
+1211,218186,F Niederräder Landstraße Strab/Bus NTrifts,50.088516,8.651467
+1212,244463,F Niederursel >Südbahnhof,50.16919,8.622775
+1213,85429,F Niederursel Auswärts,50.16919,8.622775
+1214,87612,F Niedwiesenstraße Bus Alt-Eschersh.,50.15877,8.652832
+1215,171474,F Niersteiner Straße Letzer Hasenpfad,50.09251,8.683538
+1216,170736,F Nordpark Bus NAlt-Bonames,50.177326,8.667384
+1217,258362,F Nordpark Bus NFf-Bg. Bf.,50.177326,8.667384
+1218,396990,F Nordring/Haingasse Bus Nordring,50.158897,8.754988
+1219,257749,F Nordring/Landgraben Bus VMarkt/Landgr,50.15737,8.748419
+1220,186992,F Nordwestzentrum Bus Ausstieg/Wart,50.15876,8.634276
+1221,157413,F Nordwestzentrum Bus Einstieg/Durc,50.15876,8.634276
+1222,354353,F Nordwestzentrum U NGinneim,50.15876,8.634276
+1223,249304,F Nordwestzentrum U NSüdbahnhof,50.15876,8.634276
+1224,144555,F Oberfeldstraße NKrankenh. NW,50.15423,8.622683
+1225,268985,F Oberfeldstraße NPraunh./Schulz,50.15423,8.622683
+1226,238886,F Oberforsthaus Bus Flughafenstr.,50.078674,8.654151
+1227,152732,F Oberforsthaus Bus NRennbahn,50.078674,8.654151
+1228,9976,F Oberforsthaus Bus NStadionbad,50.078674,8.654151
+1229,112389,F Oberforsthaus Strab NStadion,50.078674,8.654151
+1230,90375,F Oberforsthaus Strab NStrese/Gar,50.078674,8.654151
+1231,198310,F Oberforsthaus Strab Schl. Ausst,50.078674,8.654151
+1232,2592,F Oberforsthaus Strab Schl. Einst,50.078674,8.654151
+1233,101752,F Oberlindau Bus NBremer Pl.,50.12408,8.668255
+1234,359252,F Oberlindau Bus NSBolivar-Anl,50.12408,8.668255
+1235,206187,F Oberschelder Weg Bus NNordwestzent,50.16188,8.64013
+1236,268244,F Oberschelder Weg Bus NZeilweg/Hedd,50.16188,8.64013
+1237,237822,F Oberschweinstiege Strab NStrese/Mör,50.070374,8.678808
+1238,406303,F Oberschweinstiege Stran NNeu-Isenb.,50.070606,8.677927
+1239,440922,F Odenwaldstraße Strab/Bus NHaardt,50.086468,8.641994
+1240,64779,F Odenwaldstraße Strab/Bus NHaardt,50.086468,8.641994
+1241,233872,F Odenwaldstraße Strab/Bus NStrese,50.086468,8.641994
+1242,94802,F Odenwaldstraße Strab/Bus NStrese,50.086468,8.641994
+1243,117040,F Opel-Rondell Bus NP-Reis-Str,50.115944,8.629932
+1244,428644,F Opel-Rondell Bus VP-Reis-Str,50.115944,8.629932
+1245,47131,F Oppenheimer Landstraße Bus Ziegelh.pl.,50.095177,8.681019
+1246,369285,F Oppenheimer Landstraße Strab/Bus NStrese,50.095177,8.681019
+1247,39608,F Oppenheimer Landstraße Strab/Bus NStrese,50.095177,8.681019
+1248,145268,F Oppenheimer Landstraße Strab/Bus NSüdbf.,50.095177,8.681019
+1249,347046,F Oppenheimer Landstraße Strab/Bus NSüdbf.,50.095177,8.681019
+1250,206642,F Ordnungsamt Kley.NGallusw.,50.09883,8.633656
+1251,378352,F Ordnungsamt Kley.NGriesh.,50.09883,8.633656
+1252,267160,F Ordnungsamt Rebst.NGüterplatz,50.09883,8.633656
+1253,250778,F Ordnungsamt Rebst.NHöchst,50.09883,8.633656
+1254,141158,F Ostbahnhof U-Bahn,50.112724,8.707759
+1255,98208,F Ostbahnhof/Danziger Platz Bus Henschelstr.,50.113667,8.707627
+1256,62369,F Ostbahnhof/Honsellstraße Bus HoB NOst/Sonn,50.111385,8.708578
+1257,107398,F Ostbahnhof/Honsellstraße Bus HoB Schmickst,50.111385,8.708578
+1258,36589,F Ostbahnhof/Honsellstraße Strab/nBus NRiede,50.111385,8.708578
+1259,409550,F Ostbahnhof/Honsellstraße Strab/nBus NRiede,50.111385,8.708578
+1260,377386,F Ostbahnhof/Honsellstraße Strab/nBus NZobel,50.111385,8.708578
+1261,451365,F Ostbahnhof/Honsellstraße Strab/nBus NZobel,50.111385,8.708578
+1262,59402,F Ostbahnhof/Sonnemannstraße Bus Ausstieg,50.111717,8.704983
+1263,272784,F Ostbahnhof/Sonnemannstraße Strab/Bus NRiedhö,50.111717,8.704983
+1264,48643,F Ostbahnhof/Sonnemannstraße Strab/Bus NRiedhö,50.111717,8.704983
+1265,234082,F Ostbahnhof/Sonnemannstraße Strab/Bus NZobels,50.111717,8.704983
+1266,387580,F Ostbahnhof/Sonnemannstraße Strab/Bus NZobels,50.111717,8.704983
+1267,126342,F Ostendstraße Bus NAtor/Zoo,50.112495,8.697009
+1268,106482,F Ostendstraße Strab NAllerh.tor,50.112495,8.697009
+1269,294677,F Ostendstraße Strab NZobel/Zoo,50.112495,8.697009
+1270,59017,F Ostendstraße nBus NZobelstr.,50.112495,8.697009
+1271,341942,F Osthafenbrücke NRudererdorf,50.10518,8.711187
+1272,346624,F Osthafenbrücke NWasserweg,50.10518,8.711187
+1273,196326,F Osthafenplatz Strab/nBus NRiede,50.11211,8.713956
+1274,274448,F Osthafenplatz Strab/nBus NRiede,50.11211,8.713956
+1275,108286,F Osthafenplatz Strab/nBus NZobel,50.11211,8.713956
+1276,139317,F Osthafenplatz Strab/nBus NZobel,50.11211,8.713956
+1277,26537,F Otto-Hahn-Platz Bus Gar NSchwei/G,50.10184,8.675411
+1278,10663,F Otto-Hahn-Platz Bus KeA NStresema,50.10184,8.675411
+1279,57441,F Otto-Hahn-Platz Strab NStrese/Gar,50.10184,8.675411
+1280,260220,F Otto-Hahn-Platz Strab NSüdbahnhof,50.10184,8.675411
+1281,126588,F Otto-Hahn-Schule NNieder-Eschbach,50.20167,8.667845
+1282,363717,F Otto-Hahn-Schule NWilh.-Flögel-Rg.,50.201584,8.667565
+1283,59442,F Palmengartenstraße Bus NBockenh. W.,50.11965,8.657282
+1284,456919,F Palmengartenstraße Bus NWestend/Schu,50.11965,8.657282
+1285,273042,F Panoramabad Bus Inheidener St,50.1313,8.716905
+1286,38681,F Panoramabad Bus Inheidener St,50.1313,8.716905
+1287,103286,F Paquetstraße Bus Raimundstraße,50.14078,8.660964
+1288,420964,F Parkfriedhof Bus NHeiligenst.,50.162018,8.723693
+1289,457807,F Parkfriedhof Bus NStadtgr./Sch,50.162018,8.723693
+1290,279309,F Parkweg NAlt-Rödelheim,50.121876,8.615092
+1291,192215,F Parkweg NSternbrücke,50.121876,8.615092
+1292,235123,F Parlamentsplatz U Bahnsteig,50.119614,8.712457
+1293,424504,F Parlamentsplatz U Bahnsteig,50.119614,8.712457
+1294,419374,F Paul-Apel-Straße Altenh.all. NUni,50.184196,8.624113
+1295,254217,F Paul-Apel-Straße Altenh.all. VUni,50.184196,8.624113
+1296,102744,F Paul-Hindemith-Schule NDB-Zentrale,50.105793,8.634931
+1297,326557,F Paul-Hindemith-Schule NSchneidhainer St,50.105793,8.634931
+1298,304307,F Peter-Bied-Straße Bus NHöchst Bf.,50.104584,8.537819
+1299,144097,F Peter-Bied-Straße Bus NWasgaustraße,50.104584,8.537819
+1300,343481,F Peterskirche Bus Bleichstraße,50.11791,8.683706
+1301,453730,F Pfaffenwiese/Kolberger Weg Kolberger Weg,50.096966,8.497697
+1302,186386,F Pfaffenwiese/Kolberger Weg NNeu-Zeilsheim,50.096966,8.497697
+1303,168620,F Pfaffenwiese/Kolberger Weg VNeu-Zeilsheim,50.096966,8.497697
+1304,318723,F Pfeiferstraße Bus Raimundstraße,50.143612,8.655124
+1305,100878,F Pferdskopfweg Lenzenbergstraße,50.1007,8.50283
+1306,6784,F Pferdskopfweg Rombergstraße,50.1007,8.50283
+1307,188090,F Pfingstbornstraße NIPH Tor West,50.08403,8.515354
+1308,214905,F Pfingstbornstraße NWestenbergerstr.,50.08403,8.515354
+1309,79698,F Pflanzländer NGeiselwiesen,50.14392,8.624359
+1310,157766,F Pflanzländer NPraunh. Brücke,50.14392,8.624359
+1311,345548,F Pfortenstraße Bus Baumertstraße,50.122158,8.769326
+1312,163555,F Pfortenstraße Bus Pfortenstraße,50.122158,8.769326
+1313,348279,F Pforzheimer Straße Straßenbahn,50.104717,8.663566
+1314,383820,F Philipp-Reis-Straße Bus NEmser Str,50.114697,8.635772
+1315,44451,F Philipp-Reis-Straße Bus NKatharinenkr,50.114697,8.635772
+1316,165849,F Platanenstraße NGriesheim Bf./Ei,50.0977,8.606327
+1317,89916,F Platanenstraße NWaldschulstraße,50.0977,8.606327
+1318,323541,F Platenstraße ESS NDornbusch,50.136402,8.664701
+1319,223157,F Platenstraße ESS NDt. Bundesba,50.136402,8.664701
+1320,40739,F Platenstraße Pla NFallersleben,50.136402,8.664701
+1321,91704,F Platz der Einheit NDen Haager Str,50.110783,8.653374
+1322,264015,F Platz der Einheit NGüterplatz,50.110783,8.653374
+1323,428019,F Platz der Republik Bus Dü NHauptbf,50.10912,8.661383
+1324,235600,F Platz der Republik Bus Dü NMesse,50.10912,8.661383
+1325,353458,F Platz der Republik Bus Mz NGüterpl,50.10912,8.661383
+1326,180713,F Platz der Republik Strab Dü NHauptbf,50.10912,8.661383
+1327,197544,F Platz der Republik Strab Dü NMesse,50.10912,8.661383
+1328,240352,F Plieningerstraße Bus NPlatenstraße,50.13377,8.668272
+1329,328400,F Postsiedlung NLdaVinci/Kath.kr,50.118774,8.623702
+1330,276007,F Postsiedlung NSternbrücke,50.118774,8.623702
+1331,261452,F Praunheimer Brücke NGraebestraße,50.148117,8.622997
+1332,203715,F Praunheimer Brücke NPflanzländer,50.148117,8.622997
+1333,424097,F Praunheimer Weg Mitte Praunheimer Weg,50.161655,8.620497
+1334,323087,F Praunheimer Weg/Schulzentrum NOberfeldstr.,50.157543,8.622069
+1335,34076,F Praunheimer Weg/Schulzentrum NPraunh./Mitte,50.157543,8.622069
+1336,186195,F Preungesheim Busbf. St. A+B,50.15852,8.687665
+1337,332472,F Preungesheim Busbf. St. A+B,50.15852,8.687665
+1338,349211,F Preungesheim GiS St. C,50.15852,8.687665
+1339,130684,F Preungesheim Gleis 1,50.15852,8.687665
+1340,304226,"F Prüfling (Austieg, Li 103) -> F Prüfling (Einstieg)",50.128723,8.706305
+1341,164685,F Prüfling (Einstieg) -> F Bornheim Mitte,50.1283,8.706951
+1342,19299,F Prüfling Bus Nee NBornh.Mi,50.128445,8.70702
+1343,376205,F Prüfling Bus Nee NWeidenbo,50.128445,8.70702
+1344,411308,F Rabenkopfweg NJahrhunderthalle,50.097027,8.510289
+1345,87934,F Rabenkopfweg NLenzenbergstr,50.097027,8.510289
+1346,134873,F Radilostraße Radilostraße,50.12508,8.610718
+1347,87562,F Rangenbergstraße/Riedschule Bus Rangenbergstr,50.15051,8.75962
+1348,271121,F Rangenbergstraße/Riedschule Bus Riedstraße,50.15051,8.75962
+1349,50976,F Rathaus Harheim Bus NAm Eschb.tal,50.182922,8.692561
+1350,197849,F Rathaus Harheim Bus NSpitzenstr.,50.182922,8.692561
+1351,114765,F Rathaus Kalbach NAm Weißk. Berg,50.189262,8.638945
+1352,328175,F Rathaus Kalbach NSchule Kalbach,50.189262,8.638945
+1353,430362,F Rathaus Nieder-Erlenbach NHBrück/Schule NE,50.203167,8.708959
+1354,220783,F Rathaus Nieder-Erlenbach NNeschb.Str.,50.203167,8.708959
+1355,331834,F Rauenthaler Weg NAn der Kreuzheck,50.084175,8.570878
+1356,25243,F Rauenthaler Weg NKelsterbacher Wg,50.084175,8.570878
+1357,77832,F Rauschenberger Straße Bus NBurgholzer S,50.1538,8.668148
+1358,303093,F Rauschenberger Straße Bus NZiegenhainer,50.1538,8.668148
+1359,54381,F Rebstockbad Bus NLdVinci-All.,50.11379,8.619407
+1360,76210,F Rebstockbad Bus NZum Rebst.bd,50.11379,8.619407
+1361,365600,F Rebstockbad NMesseparkhaus,50.11281,8.619038
+1362,308110,F Rebstockbad NRebtockbad,50.11281,8.619038
+1363,97547,F Rebstockbad Strab Bahnstg.,50.11379,8.619407
+1364,156575,F Rebstöcker Straße Strab/nBus NGüter,50.101574,8.628715
+1365,169354,F Rebstöcker Straße Strab/nBus NGüter,50.101574,8.628715
+1366,193606,F Rebstöcker Straße Strab/nBus NHöchs,50.101574,8.628715
+1367,239928,F Rebstöcker Straße Strab/nBus NHöchs,50.101574,8.628715
+1368,126599,F Rehbockschneise Bus B43 Nordseite,50.058,8.596541
+1369,316763,F Rehbockschneise Bus B43 Südseite,50.058,8.596541
+1370,199715,F Reifenbg. Str./Sozialzent. NHausener Weg,50.128384,8.615418
+1371,171273,F Reifenbg. Str./Sozialzent. NLorscher Straße,50.128384,8.615418
+1372,130024,F Reinhardstraße Bus NHügelstraße,50.14939,8.673076
+1373,303077,F Reinhardstraße Bus NK-v-Drais-St,50.14939,8.673076
+1374,87787,F Reinhardstraße Bus Reinhardstr,50.14939,8.673076
+1375,223072,F Rennbahn Strab/Bus NStadio,50.08326,8.651309
+1376,57853,F Rennbahn Strab/Bus NStadio,50.08326,8.651309
+1377,168586,F Rennbahn Strab/Bus NStrese,50.08326,8.651309
+1378,207189,F Rennbahn Strab/Bus NStrese,50.08326,8.651309
+1379,226690,F Rheinlandstraße Bus Einst. NF.-Di,50.08249,8.581107
+1380,118775,F Rheinlandstraße Bus NF.-Dirichs-W,50.08249,8.581107
+1381,303352,F Rheinlandstraße Bus NSchwanh. Wal,50.08249,8.581107
+1382,386662,F Rheinlandstraße BusN A. d. Kreuzh,50.08249,8.581107
+1383,99011,F Rheinlandstraße Straßenbahn,50.08249,8.581107
+1384,78256,F Rhonestraße NBürostadt N.rad,50.08191,8.624982
+1385,331314,F Rhonestraße NLyoner Straße,50.08191,8.624982
+1386,46262,F Richard-Wagner-Straße Bus NDt. Nat.bibl,50.130733,8.688209
+1387,455495,F Richard-Wagner-Straße Bus NNibelungenpl,50.130733,8.688209
+1388,10992,F Riedberg Bus NBonifatiusbr,50.178913,8.635537
+1389,33826,F Riedberg Bus NUni Campus R,50.178913,8.635537
+1390,296778,F Riedberg U NKalbach,50.178913,8.635537
+1391,179042,F Riedberg U NUni Campus Rie,50.178913,8.635537
+1392,220533,F Riedbergstraße NBonifatiusstraße,50.185448,8.646619
+1393,251172,F Riedbergstraße NSchule Kalbach,50.185448,8.646619
+1394,394119,F Riedbergzentrum NRiedberg [U],50.177326,8.631111
+1395,95425,F Riedbergzentrum VRiedberg [U],50.177326,8.631111
+1396,103662,F Riederhöfe Strab NDaimler/Ei,50.116962,8.727951
+1397,409735,F Riederhöfe Strab NZobelstr.,50.116962,8.727951
+1398,332886,F Riederhöfe nBus NDaimler/Of,50.116962,8.727951
+1399,241148,F Riederhöfe nBus NUnion Gel.,50.116962,8.727951
+1400,410348,F Riedwiese/Mertonviertel >Bad Homurg,50.171375,8.642985
+1401,18363,F Riedwiese/Mertonviertel >Südbahnhof,50.171375,8.642985
+1402,11079,F Robert-Bosch-Straße CBS NC-Benz-Nord,50.11994,8.754543
+1403,335946,F Robert-Bosch-Straße CBS NSiemens-Werk,50.11994,8.754543
+1404,232168,F Rohrbachstr./Friedbg. Ldstr. Strab NFriedbgPl,50.126698,8.692025
+1405,93733,F Rohrbachstr./Friedbg. Ldstr. Strab NFriedbgPl,50.126698,8.692025
+1406,166551,F Rohrbachstr./Friedbg. Ldstr. Strab VFriedbg.Pl,50.126698,8.692025
+1407,359664,F Rohrbachstr./Friedbg. Ldstr. Strab VFriedbg.Pl,50.126698,8.692025
+1408,6671,F Ronneburgstraße Bus Gi NS-Freud-S,50.150764,8.688611
+1409,71560,F Ronneburgstraße Bus Ro NFriedh. E,50.150764,8.688611
+1410,312632,F Ronneburgstraße Bus Ro NKreuzstr,50.150764,8.688611
+1411,196335,F Ronneburgstraße U NMarbachweg/SZ,50.150764,8.688611
+1412,417412,F Ronneburgstraße U NPreungesheim,50.150764,8.688611
+1413,397588,F Rotdornweg Bus NA Gabelacker,50.165985,8.669827
+1414,185789,F Rotdornweg Bus NFliederweg,50.165985,8.669827
+1415,57757,F Rotfeder-Ring Speicherstr.,50.098907,8.656856
+1416,419986,F Rottweiler Platz Hafenstraße,50.101185,8.659957
+1417,47624,F Roßkopfstraße NH-Kromer-Schule,50.16272,8.628998
+1418,449279,F Roßkopfstraße NNordwestzentrum,50.16272,8.628998
+1419,181312,F Roßmarkt Gr. Gallusstraße,50.112522,8.676024
+1420,48048,F Rudererdorf Bus NGerbermühle,50.10496,8.718192
+1421,63416,F Rudererdorf Bus NWasserweg,50.10496,8.718192
+1422,374797,F Ruhestein Am Ruhestein,50.086094,8.598877
+1423,359304,F Ruhestein SUfer NTannenkopf,50.086094,8.598877
+1424,202445,F Rödelheim Bahnhof Bus Ost,50.125057,8.606956
+1425,365966,F Rödelheim Bahnhof Bus Ost,50.125057,8.606956
+1426,186430,F Rödelheim Bahnhof Bus West südlich,50.125057,8.606956
+1427,169839,F Rödelheim Bahnhof Bus West westlich,50.125057,8.606956
+1428,320062,F Rödelheim Bahnhof Bus West westlich,50.125057,8.606956
+1429,251574,F Rödelheim Bahnhof Bus West östlich,50.125057,8.606956
+1430,378051,F Rödelheim Bahnhof Bus West östlich,50.125057,8.606956
+1431,14490,F Römer/Paulskirche Bus Ber NBörnepl.,50.110893,8.682019
+1432,439330,F Römer/Paulskirche Bus Ber NKarmklos,50.110893,8.682019
+1433,457129,F Römer/Paulskirche Strab/nBus NBörne,50.110893,8.682019
+1434,89449,F Römer/Paulskirche Strab/nBus NBörne,50.110893,8.682019
+1435,288055,F Römer/Paulskirche Strab/nBus NHbf.,50.110893,8.682019
+1436,327972,F Römer/Paulskirche Strab/nBus NHbf.,50.110893,8.682019
+1437,41669,F Römerhof NMesseparkhaus,50.10768,8.618463
+1438,318599,F Römerhof NSchmidtstraße,50.10768,8.618463
+1439,371894,F Römerstadt Bus NE-Kahn-Str,50.153435,8.638389
+1440,297687,F Römerstadt Bus NHeidenfeld,50.153435,8.638389
+1441,269432,F Römerstadt U NGinnheim,50.153435,8.638389
+1442,207112,F Römerstadt UNHeddernh. Ldstr,50.153435,8.638389
+1443,223769,F Römischer Ring NEuropagarten/Mes,50.108814,8.633146
+1444,140519,F Römischer Ring NMaastricher Ring,50.108814,8.633146
+1445,163699,F Saalburg-/Wittelsbacherallee -> F Bornheim Mitte,50.1248,8.712972
+1446,345588,F Saalburg-/Wittelsbacherallee -> F Eissporthalle,50.12493,8.711796
+1447,191666,F Saalburg-/Wittelsbacherallee Bus Sa NBornh.Mit,50.124622,8.713308
+1448,340810,F Saalburg-/Wittelsbacherallee Bus Sa VBornh.Mit,50.124622,8.713308
+1449,244368,F Saalburg-/Wittelsbacherallee Bus Wi NEMay-Pl.,50.124622,8.713308
+1450,316146,F Saalburg-/Wittelsbacherallee Bus Wi NEissporth,50.124622,8.713308
+1451,216528,F Saalburg-/Wittelsbacherallee Bus Wi NFreiligra,50.124622,8.713308
+1452,276068,F Saalburg-/Wittelsbacherallee Strab Sa VEisspor,50.124622,8.713308
+1453,300723,F Saalburg-/Wittelsbacherallee Strab Wi VEMay-Pl,50.124622,8.713308
+1454,152806,F Saalburg-/Wittelsbacherallee Strab Wi VFreilig,50.124622,8.713308
+1455,280458,F Sachsenhäuser Warte Bus Bab NSüdfrdhf,50.086834,8.691931
+1456,435030,F Sachsenhäuser Warte Bus DaL VSüdfrdhf,50.086834,8.691931
+1457,314324,F Sandelmühle Bus NS-Kneipp-S,50.166103,8.645123
+1458,158645,F Sandelmühle Bus NZeilweg,50.166103,8.645123
+1459,399679,F Sandelmühle U NBad Homburg,50.166103,8.645123
+1460,231276,F Sandelmühle U NSüdbahnhof,50.166103,8.645123
+1461,79388,F Saonestraße NHahnstraße,50.08254,8.6335
+1462,405109,F Schafheckstraße Bus Wiener Straße,50.097973,8.730728
+1463,369859,F Scheffeleck Bus Eschenh. Anl.,50.119675,8.687386
+1464,445595,F Schielestraße Ost NWeismüllerstr. O,50.11923,8.740508
+1465,384057,F Schielestraße West Schielestraße,50.11695,8.734928
+1466,191176,F Schießhüttenstraße Bus Schießh.str.,50.121437,8.773524
+1467,347426,F Schießhüttenstraße Bus Starkenb.str,50.121437,8.773524
+1468,254932,F Schießhüttenstraße Strab Ausstieg,50.121437,8.773524
+1469,365000,F Schießhüttenstraße Strab NDaimlerstr,50.121437,8.773524
+1470,10295,F Schlitzer Straße Bus NLahmeyerstr,50.132004,8.744691
+1471,320038,F Schlitzer Straße Bus NLauterb. Str,50.132004,8.744691
+1472,267492,F Schloßborner Straße Ausst./Warten/Ein,50.10453,8.622402
+1473,394526,F Schloßborner Straße Ausst./Warten/Ein,50.10453,8.622402
+1474,350775,F Schmickstraße Bus NMühlenwerke,50.107227,8.714544
+1475,25622,F Schmickstraße Bus NOstbf/Honsel,50.107227,8.714544
+1476,229360,F Schmidtstraße NMönchhofstraße,50.103752,8.618117
+1477,343757,F Schmidtstraße NRömerhof,50.103752,8.618117
+1478,175662,F Schnappbornweg Wendelsweg,50.09354,8.705821
+1479,254837,F Schneidhainer Straße NEppenhainer Str.,50.10531,8.629637
+1480,28512,F Schneidhainer Straße NP.-Hindemith-Sch,50.10531,8.629637
+1481,59040,F Schubertstraße Bus NKettenhofweg,50.118668,8.659526
+1482,86773,F Schubertstraße Bus VKettenhofweg,50.118668,8.659526
+1483,191809,F Schule Kalbach AdG NA. Riedbgstr,50.18852,8.642493
+1484,42104,"F Schule Kalbach AdG NRath. Kalb,",50.18852,8.642493
+1485,73586,F Schule Nieder-Erlenbach Alt-Erlenbach,50.202034,8.712482
+1486,112762,F Schule am Hang Bus H-Bingemer-Wg,50.152225,8.753833
+1487,189432,F Schwalbacher Straße Strab/nBus NGüter,50.102306,8.636271
+1488,60012,F Schwalbacher Straße Strab/nBus NGüter,50.102306,8.636271
+1489,10641,F Schwalbacher Straße Strab/nBus NHöchs,50.102306,8.636271
+1490,352607,F Schwalbacher Straße Strab/nBus NHöchs,50.102306,8.636271
+1491,32778,F Schwalbenweg NAm Weißk. Berg,50.18853,8.631893
+1492,382698,F Schwalbenweg NHopfenbr./P.-Ape,50.18853,8.631893
+1493,263143,F Schwanheimer Straße NHaardtwaldplatz,50.087975,8.637944
+1494,117338,F Schwanheimer Straße NIm Mainfeld,50.088093,8.638027
+1495,279048,F Schwanheimer Wald Bus NRheinlandstr,50.073887,8.577382
+1496,238591,F Schwanheimer Wald Bus NUnterschw.st,50.073887,8.577382
+1497,390228,F Schwanthalerstraße Strab NSüdbahnhof,50.100994,8.681371
+1498,423273,F Schwanthalerstraße Strab NSüdbahnhof,50.100994,8.681371
+1499,127783,F Schwanthalerstraße Strab/nBus NSt/Ga,50.100994,8.681371
+1500,317240,F Schwanthalerstraße Strab/nBus NSt/Ga,50.100994,8.681371
+1501,273812,F Schwarzbachmühle Tannenkopfweg,50.08245,8.604146
+1502,243516,F Schwarzwaldstraße Bus Schwarzwaldst,50.08679,8.646603
+1503,213593,F Schwarzwaldstraße Strab/Bus NHaardt,50.08679,8.646603
+1504,36018,F Schwarzwaldstraße Strab/Bus NHaardt,50.08679,8.646603
+1505,237850,F Schwarzwaldstraße Strab/Bus NStrese,50.08679,8.646603
+1506,245954,F Schwarzwaldstraße Strab/Bus NStrese,50.08679,8.646603
+1507,279385,F Schwedlerstraße Strab/nBus NRiede,50.113976,8.719439
+1508,344761,F Schwedlerstraße Strab/nBus NRiede,50.113976,8.719439
+1509,321554,F Schwedlerstraße Strab/nBus NZobel,50.113976,8.719439
+1510,73983,F Schwedlerstraße Strab/nBus NZobel,50.113976,8.719439
+1511,186115,F Schweinfurter Weg Bus NSüdfrdh. Ost,50.093086,8.696251
+1512,321011,F Schweinfurter Weg Bus NWerth. Str,50.093086,8.696251
+1513,144253,F Schweizer Platz U-Bahn,50.101864,8.680876
+1514,238033,F Schweizer Platz U-Bahn,50.101864,8.680876
+1515,349297,F Schweizer Str./Mörf. Ldstr. Bus NSüdbf./Schwe,50.09663,8.684014
+1516,238732,F Schweizer Str./Mörf. Ldstr. Strab Mörf.Ldstr.,50.09663,8.684014
+1517,152122,F Schweizer-/Gartenstraße Strab NSüdbahnhof,50.103333,8.679553
+1518,324853,F Schweizer-/Gartenstraße Strab NSüdbahnhof,50.103333,8.679553
+1519,103989,F Schweizer-/Gartenstraße Strab VSüdbahnhof,50.103333,8.679553
+1520,260611,F Schweizer-/Gartenstraße Strab VSüdbahnhof,50.103333,8.679553
+1521,188661,F Schwimmbad Bergen-Enkheim Bus NH.-Bingemer-,50.151722,8.762566
+1522,199695,F Schwimmbad Bergen-Enkheim Bus NRiedschule,50.151722,8.762566
+1523,20826,F Schäfflestraße Bus NGwinnerstr.,50.131153,8.734094
+1524,255502,F Schäfflestraße Bus NJ.-Tesch-,50.131153,8.734094
+1525,214954,F Schäfflestraße U NEnkheim,50.131153,8.734094
+1526,142077,F Schäfflestraße U NJ-Tesch/Seckb,50.131153,8.734094
+1527,106752,F Schöffenstraße Griesh. Stadtweg,50.091232,8.614625
+1528,217995,F Schönberger Weg Bus NAlt-Praunh.,50.147972,8.615177
+1529,454492,F Schönberger Weg Bus NHofgut,50.147972,8.615177
+1530,383760,F Schönbornstraße Bus NGinnh. Waldg,50.14163,8.652271
+1531,223854,F Schönbornstraße Bus NKurhessenstr,50.14163,8.652271
+1532,213234,F Schöne Aussicht Bus NBörneplatz,50.109993,8.687994
+1533,135237,F Schöne Aussicht Bus VBörneplatz,50.109993,8.687994
+1534,324228,F Schönhof Breitenbachbrücke,50.12415,8.635281
+1535,235409,F Schönhof Rödelheimer Str.,50.12415,8.635281
+1536,361824,F Schönhof Schloßstr,50.12415,8.635281
+1537,55131,F Sebastian-Kneipp-Straße Bus NE.-v.-Behrin,50.169857,8.641092
+1538,339822,F Sebastian-Kneipp-Straße Bus VE.-v.-Behrin,50.169857,8.641092
+1539,296377,F Seckbacher Landstraße Bus NEschweger St,50.134506,8.711879
+1540,419160,F Seckbacher Landstraße Bus NWeidenbornst,50.134506,8.711879
+1541,220605,F Seckbacher Landstraße U Bahnsteig,50.134506,8.711879
+1542,221894,F Seckbacher Landstraße U Bahnsteig,50.134506,8.711879
+1543,394163,F Seehofpark Bus Am Sandberg,50.095745,8.702439
+1544,427938,F Seilerstraße Seilerstraße,50.11691,8.689753
+1545,192461,F Senckenbergmuseum Bus NBockenh. W.,50.11727,8.652671
+1546,437595,F Senckenbergmuseum Bus VBockenh. W.,50.11727,8.652671
+1547,20003,F Seniorenwohnanlage Bügel NBGR Süd,50.18843,8.658429
+1548,123372,F Seniorenwohnanlage Bügel NH.-Lanz-Allee,50.18843,8.658429
+1549,408247,F Siedlung Frankfurter Berg Bus NFf-Berg Bf.,50.167736,8.678325
+1550,4746,F Siedlung Frankfurter Berg Bus NJ-Brecht-Str,50.167736,8.678325
+1551,242915,F Siedlung Taunusblick Lenzenbergstraße,50.100964,8.497823
+1552,49809,F Siedlung Taunusblick Lenzenbergstraße,50.100964,8.497823
+1553,113012,F Siemens-Werk Bus NC-Benz-Süd,50.118114,8.758258
+1554,351048,F Siemens-Werk Bus NR-Bosch-Str.,50.118114,8.758258
+1555,231055,F Siesmayerstraße Grüneburgweg,50.121662,8.659952
+1556,158391,F Sigmund-Freud-Straße Bus NPreungesheim,50.154922,8.686205
+1557,191792,F Sigmund-Freud-Straße U NMarbachweg/SZ,50.154922,8.686205
+1558,402195,F Sigmund-Freud-Straße U NPreungesheim,50.154922,8.686205
+1559,214194,F Silostraße Mitte NJahrhunderthalle,50.09946,8.524926
+1560,50334,F Silostraße Mitte NSilobad/Ballspor,50.09946,8.524926
+1561,171956,F Simon-Bolivar-Anlage Bus Fürstebergers,50.12352,8.664917
+1562,185423,F Simon-Bolivar-Anlage Bus Grüneburgweg,50.12352,8.664917
+1563,286785,F Sindlingen Bahnhof NIPH Tor West,50.088043,8.511582
+1564,9331,F Sindlingen Bahnhof NZeilsh. Bucht,50.088043,8.511582
+1565,251264,F Sindlingen Bahnhof NZeilsh. Fahrbahn,50.088043,8.511582
+1566,98613,F Sindlinger Friedhof Bus Wbg.Ausst/War,50.079857,8.510198
+1567,156878,F Sindlinger Friedhof Bus Westenb.Einst,50.079857,8.510198
+1568,39636,F Sonnenweg NMorgenzeile,50.08702,8.615874
+1569,290125,F Sonnenweg NTränkweg,50.08702,8.615874
+1570,452069,F Sontraer Straße Bus Salzschl. Str,50.128403,8.742403
+1571,248536,F Sophienstraße NKirchplatz,50.12774,8.641099
+1572,121307,F Sophienstraße NUniversitätsspor,50.12774,8.641099
+1573,394510,F Sossenheim Bahnhof Kur NEltviller St,50.11439,8.553314
+1574,33267,F Sossenheim Bahnhof Kur VEltviller St,50.11439,8.553314
+1575,36733,F Sossenheim Bahnhof SoW NHö. Friedhof,50.11439,8.553314
+1576,102671,F Sossenheim Volkshaus Bus NSoss.Friedh.,50.122288,8.566441
+1577,410633,F Sossenheim Volkshaus Bus VSoss.Friedh.,50.122288,8.566441
+1578,123891,F Sossenheimer Friedhof Bus NEschborn,50.125492,8.565531
+1579,350671,F Sossenheimer Friedhof Bus NSoVolkshaus,50.125492,8.565531
+1580,294721,F Sossenheimer Kirchberg NKapellenberg,50.11963,8.566535
+1581,261177,F Sossenheimer Kirchberg NWesterwaldstr,50.11963,8.566535
+1582,346075,F Sparkasse Harheim Bus NAm Römerbr.,50.184437,8.696135
+1583,108147,F Sparkasse Harheim Bus NRath/Sport H,50.184437,8.696135
+1584,12436,F Speyerer Straße Strab NGüterplatz,50.10556,8.650854
+1585,321211,F Speyerer Straße Strab NGüterplatz,50.10556,8.650854
+1586,337642,F Speyerer Straße Strab NHöchst,50.10556,8.650854
+1587,80761,F Speyerer Straße Strab NHöchst,50.10556,8.650854
+1588,362465,F Spitzenstraße Bus NHarheimer Wg,50.18499,8.688823
+1589,310730,F Spitzenstraße Bus NRaths. Harh.,50.18499,8.688823
+1590,443334,F Sportanlage Rebstock Bus NFeldbahnmuse,50.1091,8.604906
+1591,455917,F Sportanlage Rebstock Bus VFeldbahnmuse,50.1091,8.604906
+1592,324731,F Stadion/Kunsteisbahn >Flughafen,50.0689,8.651679
+1593,336318,F Stadion/Kunsteisbahn >Niederrad,50.0689,8.651679
+1594,157665,F Stadion/Schwimmbad >Flughafen,50.073086,8.652989
+1595,370846,F Stadion/Schwimmbad >Niederrad,50.073086,8.652989
+1596,33529,F Stadion/Straßenbahn Bahnsteig 1/2,50.075405,8.653238
+1597,278203,F Stadtbahnzentralwerkstatt Bus NGuerickestr,50.141052,8.596697
+1598,53020,F Stadtbahnzentralwerkstatt Bus NT-Fischer-Wg,50.141052,8.596697
+1599,101874,F Stadtbahnzentralwerkstatt Zufahrt StZw,50.141052,8.596697
+1600,414848,F Stadthalle Zeilsheim NLenzenbergstr.,50.097073,8.501512
+1601,271151,F Stadthalle Zeilsheim NPfaffenw./Kolber,50.097073,8.501512
+1602,63284,F Starkenburger Straße Bus NBürgeler Str,50.115368,8.768604
+1603,269712,F Staustufe Griesheim Bus NA.Falterstr,50.091305,8.600636
+1604,202009,F Staustufe Griesheim Bus NChem.Werk,50.091305,8.600636
+1605,40062,F Staustufe Ost Bus NHafenmühlenw,50.11012,8.726983
+1606,342352,F Staustufe Ost Bus NIntzestraße,50.11012,8.726983
+1607,108078,F Stefan-Zweig-Straße Bus Platenstraße,50.139854,8.655179
+1608,413742,F Steinauer Straße Bus NFuldaer Str.,50.13302,8.757707
+1609,175291,F Steinauer Straße Bus NLangenselb.S,50.13302,8.757707
+1610,40055,F Stephan-Heise-Straße Bus NFrdhf Westh.,50.135597,8.615724
+1611,330352,F Stephan-Heise-Straße Bus NHausener Weg,50.135597,8.615724
+1612,215598,F Stephan-Heise-Straße U NHeerstr,50.135597,8.615724
+1613,381094,F Stephan-Heise-Straße U NIndustriehof,50.135597,8.615724
+1614,150260,F Stephensonstraße NDubliner Straße,50.10846,8.642837
+1615,31666,F Stephensonstraße NEuropagarten/Mes,50.10846,8.642837
+1616,317506,F Sternbrücke NParkweg,50.12129,8.620578
+1617,327722,F Sternbrücke NPostsied/Birkenw,50.12129,8.620578
+1618,135836,F Stresemann-/Kennedyallee NOtto-Hahn-Platz,50.098648,8.671995
+1619,220388,F Stresemann-/Kennedyallee NStrese/Gartenstr,50.098648,8.671995
+1620,285805,F Stresemannall./Mörf. Ldstr. Bus MöL NBeuthene,50.08944,8.671498
+1621,110685,F Stresemannall./Mörf. Ldstr. Bus MöL NWaldsp.p,50.08944,8.671498
+1622,36642,F Stresemannall./Mörf. Ldstr. Bus Str NGabl.str,50.08944,8.671498
+1623,86089,F Stresemannall./Mörf. Ldstr. Strab NLouia Bf.,50.08944,8.671498
+1624,253855,F Stresemannall./Mörf. Ldstr. Strab VLouisa Bf.,50.08944,8.671498
+1625,289312,F Stresemannallee NKennedyallee,50.094692,8.672511
+1626,3945,F Stresemannallee NKennedyallee,50.094692,8.672511
+1627,166556,F Stresemannallee NMörfelder Ldstr.,50.094692,8.672511
+1628,28484,F Stresemannallee NMörfelder Ldstr.,50.094692,8.672511
+1629,232074,F Stresemannallee/Gartenstraße Bus Str NBaselerP,50.099323,8.668803
+1630,332678,F Stresemannallee/Gartenstraße Bus Str NStrese/K,50.099323,8.668803
+1631,389885,F Stresemannallee/Gartenstraße Bus TSK NUniv.kl.,50.099323,8.668803
+1632,313297,F Stresemannallee/Gartenstraße Strab Gartenstr.,50.099323,8.668803
+1633,163561,F Stresemannallee/Gartenstraße Strab NBaPl/OHahn,50.099323,8.668803
+1634,346594,F Stresemannallee/Gartenstraße Strab NBaPl/OHahn,50.099323,8.668803
+1635,298053,F Stresemannallee/Gartenstraße Strab NNieder,50.099323,8.668803
+1636,116248,F Stresemannallee/Gartenstraße Strab StrNord,50.099323,8.668803
+1637,111772,F Südbahnhof Bus Diesterwegpl.,50.100204,8.685486
+1638,50730,F Südbahnhof Bus Diesterwegpl.,50.099327,8.686442
+1639,55693,F Südbahnhof Bus Diesterwegpl.,50.099327,8.686442
+1640,79915,F Südbahnhof Bus Hedderichstr.,50.099327,8.686442
+1641,146043,F Südbahnhof Strab/Bus NLokalb,50.099327,8.686442
+1642,221478,F Südbahnhof Strab/Bus NLokalb,50.099327,8.686442
+1643,226854,F Südbahnhof Strab/Bus VLokalb,50.099327,8.686442
+1644,232069,F Südbahnhof Strab/Bus VLokalb,50.099327,8.686442
+1645,142346,F Südbahnhof U Bahnsteig,50.099327,8.686442
+1646,189700,F Südbahnhof U Bahnsteig,50.099327,8.686442
+1647,110546,F Südbahnhof/Mörfelder Ldstr. Gr. Hasenpfad,50.098537,8.687132
+1648,53807,F Südbahnhof/Mörfelder Ldstr. Mörfelder Ldstr.,50.098537,8.687132
+1649,11938,F Südbahnhof/Schweizer Straße Strab/Bus NStrese,50.09798,8.683781
+1650,65153,F Südbahnhof/Schweizer Straße Strab/Bus NStrese,50.09798,8.683781
+1651,231355,F Südbahnhof/Schweizer Straße Strab/Bus NSüdbf.,50.09798,8.683781
+1652,427391,F Südbahnhof/Schweizer Straße Strab/Bus NSüdbf.,50.09798,8.683781
+1653,26292,F Südfriedhof Bus NBrauerei,50.091705,8.691229
+1654,408917,F Südfriedhof Bus NSachs. Warte,50.091705,8.691229
+1655,197527,F Südfriedhof Ost Bus Hainer Weg,50.090866,8.696419
+1656,37689,F Tannenkopfweg Zur Frankenfurt,50.08614,8.604703
+1657,249314,F Taunusanlage Junghofstr(n-Bus),50.11348,8.668762
+1658,90564,F Taunusanlage Mainzer Ldstr.,50.11348,8.668762
+1659,187397,F Taunusanlage Taunusanlage,50.11348,8.668762
+1660,438605,F Taunusblick NH.-Becker-Str.,50.200237,8.695629
+1661,187232,F Taunusblick NKurmarkstraße,50.200237,8.695629
+1662,451015,F Tempelhof Bus NAm Römerbr.,50.18907,8.699425
+1663,130562,F Tempelhof Bus NLindenhof,50.18907,8.699425
+1664,233163,F Textorschule Oppenheimer Lands,50.09929,8.680069
+1665,270254,F Textorschule Textorstraße,50.09929,8.680069
+1666,360745,F Thea-Rasche-Straße Bus NGat.Ga.Mitte,50.05527,8.590517
+1667,110016,F Thea-Rasche-Straße Bus NH-Eckener-Rg,50.05527,8.590517
+1668,442780,F Theobald-Ziegler-Straße Bus Gi NRonneburg,50.147747,8.690127
+1669,289623,F Theobald-Ziegler-Straße Bus Hom NHomb/Mar,50.147747,8.690127
+1670,368022,F Theobald-Ziegler-Straße U NMarbachweg/SZ,50.147747,8.690127
+1671,68966,F Theobald-Ziegler-Straße U NPreungesheim,50.147747,8.690127
+1672,161700,F Theodor-Fischer-Weg Bus NHeerstr [U],50.1435,8.60356
+1673,408394,F Theodor-Fischer-Weg Bus NZentralwerks,50.1435,8.60356
+1674,17748,F Theodor-Storm-Straße Bus NHügelstraße,50.145977,8.657765
+1675,156384,F Theodor-Storm-Straße Bus NKurhessenstr,50.145977,8.657765
+1676,133799,F Thomas-Mann-Straße Gerh.-Hauptm.-Rg,50.16331,8.615362
+1677,275106,F Tillystraße Bus NL.-Sciba-Str,50.1014,8.5602
+1678,385796,F Tillystraße Bus NNied Brücke,50.1014,8.5602
+1679,67352,F Tillystraße Bus NNied Kirche,50.1014,8.5602
+1680,340231,F Tillystraße Strab NGüterplatz,50.1014,8.5602
+1681,148862,F Tillystraße Strab NHöchst,50.1014,8.5602
+1682,18245,F Trieb-/Barbarossastraße Bus NEnkheim [U],50.145374,8.754679
+1683,253181,F Trift-/Frauenhofstraße Ausstieg/Warten,50.086273,8.64915
+1684,190161,F Trift-/Frauenhofstraße Einstieg,50.086273,8.64915
+1685,446010,F Triftstraße Bus NHumperdincks,50.087105,8.650513
+1686,238186,F Triftstraße Bus NRennb./Gerau,50.087105,8.650513
+1687,131632,F Triftstraße Strab NStadion/Sc,50.087105,8.650513
+1688,368560,F Triftstraße Strab NStrese/Gar,50.087105,8.650513
+1689,365524,F Tränkweg NSonnenweg,50.086353,8.6092
+1690,422305,F Tränkweg NWaldau/Goldstein,50.086353,8.6092
+1691,83689,F Tucholskystraße Großer Hasenpfad,50.091995,8.685875
+1692,437092,F Unfallklinik Bus Einstieg,50.14486,8.706165
+1693,240078,F Unfallklinik Bus Wendeschleife,50.14486,8.706165
+1694,422624,F Unfallklinik/B3 Bus NFriedb. W.,50.14583,8.706173
+1695,24353,F Unfallklinik/B3 Bus NHeiligenst.,50.14583,8.706173
+1696,423490,F Uni Campus Riedberg Bus NL-Hillebrand,50.17549,8.628339
+1697,241133,F Uni Campus Riedberg Bus NRiedbgzentr,50.17549,8.628339
+1698,117029,F Uni Campus Riedberg U NNiederursel,50.17549,8.628339
+1699,407956,F Uni Campus Riedberg U NRiedberg,50.17549,8.628339
+1700,104728,F Universitätsklinikum Bus NHHoffm./Blut,50.096222,8.660034
+1701,129488,F Universitätsklinikum Strab NNieder. Ld,50.096222,8.660034
+1702,366095,F Universitätsklinikum Strab NStrese/Gar,50.096222,8.660034
+1703,377351,F Universitätssportanlagen NMarkus-Krkhs,50.13079,8.645146
+1704,211070,F Universitätssportanlagen NSophienstraße,50.13079,8.645146
+1705,144548,F Unterliederbach Markt Bus NUlb. West,50.11071,8.531987
+1706,352014,F Unterliederbach Markt Bus NWasgaustr.,50.11071,8.531987
+1707,195073,F Unterliederbach West Ibellstr.,50.111286,8.527451
+1708,67925,F Unterliederbach West L.-Hensler-Str.,50.111286,8.527451
+1709,252455,F Unterschweinstiege Bus NSchwanh.Wald,50.05874,8.584832
+1710,448220,F Unterschweinstiege Bus NTerminal 2,50.05874,8.584832
+1711,133875,F Unterweg Bus Eschenh. Anl.,50.11919,8.684411
+1712,397865,F Urseler Weg Bus Urseler Weg,50.20182,8.669903
+1713,166942,F Usinger Straße NComeniusstraße,50.131203,8.705535
+1714,429464,F Usinger Straße NPrüflig,50.131203,8.705535
+1715,408624,F Varrentrappstraße Bus Sch NAdalb/Sc,50.115307,8.647442
+1716,52795,F Varrentrappstraße Strab NHohenstauf,50.115307,8.647442
+1717,76339,"F Varrentrappstraße Strab NRebst., Ad",50.115307,8.647442
+1718,47007,F Versorgungsamt Bus NHauptfriedh,50.139427,8.684614
+1719,305554,F Versorgungsamt Bus NMarbachwg/Sz,50.139076,8.684882
+1720,165367,F Victor-Slotosch-Straße Bus V-Slotosch-St,50.1439,8.746712
+1721,336696,F Victor-Slotosch-Straße Bus V-Slotosch-St,50.1439,8.746712
+1722,332385,F Vilbeler Landstraße Bus NBudge-Heim,50.151608,8.742684
+1723,74285,F Vilbeler Landstraße Bus NKirchgasse,50.151608,8.742684
+1724,392248,F Vogelstraße NOberforsthaus,50.07685,8.649386
+1725,283311,F Vogelstraße NWaldfriedstraße,50.07694,8.650936
+1726,193477,F Vogelweidstraße Ers Kennedyallee,50.09763,8.665237
+1727,282181,F Vogelweidstraße Strab NNieder. Ld,50.09763,8.665237
+1728,103911,F Vogelweidstraße Strab NStrese/Gar,50.09763,8.665237
+1729,238168,F Waldau Strab NSchwanheim,50.076996,8.610324
+1730,85788,F Waldau Strab NStrese/Gar,50.076996,8.610324
+1731,445042,F Waldau/Goldsteinstraße Goldsteinstraße,50.08241,8.61056
+1732,266029,F Waldfriedhof Goldstein Strab NSchwanheim,50.07684,8.603215
+1733,411372,F Waldfriedhof Goldstein Strab NStrese/Gar,50.07684,8.603215
+1734,88340,F Waldfriedhof Oberrad Bus Pp Waldfrh.,50.09373,8.732107
+1735,235193,F Waldfriedstraße NGundhofstraße,50.07743,8.646909
+1736,389332,F Waldfriedstraße NVogelstraße,50.0774,8.646686
+1737,175228,F Waldschmidtstraße Strab/Bus NZoo,50.118244,8.701657
+1738,326733,F Waldschmidtstraße Strab/Bus NZoo,50.118244,8.701657
+1739,314155,F Waldschmidtstraße Strab/nBus NSa/Wi,50.118244,8.701657
+1740,80057,F Waldschmidtstraße Strab/nBus NSa/Wi,50.118244,8.701657
+1741,418868,F Waldschulstraße Bus MLd NLinnegra,50.10026,8.604447
+1742,180925,F Waldschulstraße Bus NBingelsweg,50.10026,8.604447
+1743,226736,F Waldschulstraße Bus NPlatanenstr,50.10026,8.604447
+1744,27677,F Waldschulstraße Strab NGüterplatz,50.10026,8.604447
+1745,168634,F Waldschulstraße Strab NHöchst,50.10026,8.604447
+1746,71425,F Waldschulstraße nBus NMönchhofstr,50.10026,8.604447
+1747,393346,F Walter-Kolb-Schule NHö.Friedhf,50.113476,8.542823
+1748,369853,F Walter-Kolb-Schule NKönigst.Str.,50.113476,8.542823
+1749,323191,F Walter-Kolb-Siedlung Strab NAlkmenestr,50.14672,8.703187
+1750,109796,F Walter-Kolb-Siedlung Strab NBodenweg,50.14672,8.703187
+1751,66003,F Wasgaustraße Bus NP.-Bied-Str.,50.10824,8.534974
+1752,130071,F Wasgaustraße Bus VP.-Bied-Str.,50.10824,8.534974
+1753,337233,F Wasserpark Strab/Bus NFriedW,50.13496,8.696252
+1754,67243,F Wasserpark Strab/Bus NFriedW,50.13496,8.696252
+1755,182201,F Wasserpark Strab/Bus NMünzen,50.13496,8.696252
+1756,254141,F Wasserpark Strab/Bus NMünzen,50.13496,8.696252
+1757,425643,F Wasserweg Bus Wasserweg,50.105427,8.694789
+1758,98283,F Weidenbornstraße Bus NPrüfling,50.131447,8.709813
+1759,411445,F Weidenbornstraße Bus NSeckb. Ldstr,50.131447,8.709813
+1760,14044,F Weilbrunnstraße Bus NKreuzstraße,50.154396,8.691358
+1761,328752,F Weilbrunnstraße Bus NPreungesheim,50.154396,8.691358
+1762,278763,F Weismüllerstraße Ost Daimlerstr.,50.1212,8.741323
+1763,296935,F Weismüllerstraße Ost Weismüllerstr.,50.12074,8.740416
+1764,286803,F Weismüllerstraße West Weismüllerstr.,50.11781,8.733273
+1765,277849,F Weißer Stein >Dornbusch,50.156384,8.657034
+1766,360598,F Weißer Stein >Heddernheim,50.156384,8.657034
+1767,426725,F Weißer Stein >Heddernheim,50.156384,8.657034
+1768,274228,F Weißer Stein >Südbahnhof,50.156384,8.657034
+1769,206368,F Weißer Stein Austieg/Warten 69,50.156384,8.657034
+1770,154640,F Weißer Stein Busbahnhof,50.156384,8.657034
+1771,445846,F Weißer Stein Busbahnhof,50.156384,8.657034
+1772,38579,F Weißkirchener Weg Gerh.-Hauptm.-Rg,50.166924,8.617894
+1773,184016,F Wendelsplatz Bus DaL NDal Mitt,50.100624,8.691479
+1774,366708,F Wendelsplatz Bus DaL NLokalbf,50.100624,8.691479
+1775,252120,F Wendelsplatz Bus Hainer Weg,50.100624,8.691479
+1776,385865,F Wendelsplatz Bus Mörfelder Ld,50.100624,8.691479
+1777,3435,F Wendelsplatz Bus OfL NMühlberg,50.100624,8.691479
+1778,423795,F Wertheimer Straße Bus NHenn.-Turm,50.09538,8.696041
+1779,218827,F Wertheimer Straße Bus NSchweinf.Wg,50.09538,8.696041
+1780,185510,F Weser-/Münchener Straße Strab NBörneplatz,50.107956,8.670282
+1781,287304,F Weser-/Münchener Straße Strab NBörneplatz,50.107956,8.670282
+1782,339038,F Weser-/Münchener Straße Strab/nBus NHbf.,50.107956,8.670282
+1783,45625,F Weser-/Münchener Straße Strab/nBus NHbf.,50.107956,8.670282
+1784,36633,F Weserstraße Taunusstraße,50.109913,8.668828
+1785,321907,F Westbahnhof Bus 32,50.119446,8.639455
+1786,179970,F Westbahnhof Bus Kasseler Str.,50.119446,8.639455
+1787,394302,F Westbahnhof Bus Kasseler Str.,50.119446,8.639455
+1788,436961,F Westbahnhof Bus auf Straßenb.,50.119446,8.639455
+1789,74476,F Westbahnhof Bus auf Straßenb.,50.119446,8.639455
+1790,208370,F Westenbergerstraße NAllesinastraße,50.08028,8.517152
+1791,206198,F Westenbergerstraße NPfingstbornstr.,50.08028,8.517152
+1792,56382,F Westend Bus NNiedenau/AOp,50.11813,8.662955
+1793,79613,F Westend Bus NPalmeng.str.,50.11813,8.662955
+1794,169761,F Westend U Bahnsteig,50.11813,8.662955
+1795,261803,F Westend U Bahnsteig,50.11813,8.662955
+1796,81249,F Westerbachsiedlung Bus NHaigerer Str,50.123734,8.580677
+1797,157617,F Westerbachsiedlung Bus NW.-Fay-Str.,50.123734,8.580677
+1798,451744,F Westerwaldstraße Bus NCSonnensch.S,50.122955,8.569218
+1799,350207,F Westerwaldstraße Bus NSoss. Kirchb,50.122955,8.569218
+1800,313386,F Wetzlarer Straße NFriedberger Wart,50.142605,8.696526
+1801,215384,F Wetzlarer Straße NHomb./Marbachweg,50.142605,8.696526
+1802,292391,F Wickerer Straße Strab/nBus NGüter,50.10097,8.622612
+1803,81160,F Wickerer Straße Strab/nBus NGüter,50.10097,8.622612
+1804,266429,F Wickerer Straße Strab/nBus NHöchs,50.10097,8.622612
+1805,61699,F Wickerer Straße Strab/nBus NHöchs,50.10097,8.622612
+1806,126460,F Wiener Straße Bus Wiener Straße,50.100376,8.736724
+1807,149355,F Wiener Straße Strab NLokalbahnh,50.100376,8.736724
+1808,225253,F Wiener Straße Strab NLokalbahnh,50.100376,8.736724
+1809,173740,F Wiener Straße Strab NOffenbach,50.100376,8.736724
+1810,238644,F Wiener Straße Strab NOffenbach,50.100376,8.736724
+1811,230358,F Wiesenau >Oberursel,50.166973,8.629609
+1812,67440,F Wiesenau >Südbahnhof,50.166973,8.629609
+1813,345737,F Wiesenhüttenstift Bus Gundelandstr.,50.156338,8.697656
+1814,15320,F Wilhelm-Fay-Straße Nord Bus NSossenheim,50.13181,8.576341
+1815,194051,F Wilhelm-Fay-Straße Nord Bus VSossenheim,50.13181,8.576341
+1816,379878,F Wilhelm-Fay-Straße WFa NH.-Hopf-Str.,50.123425,8.587406
+1817,341152,F Wilhelm-Fay-Straße Wba NGaugrafenstr,50.123425,8.587406
+1818,191474,F Wilhelm-Fay-Straße Wba NWestb.siedl.,50.123425,8.587406
+1819,389024,F Wilhelm-Flögel-Ring NA. d. Bornhohl,50.199955,8.665
+1820,399785,F Wilhelm-Flögel-Ring NO.-Hahn-Schule,50.199955,8.665
+1821,45811,F Willy-Brandt-Platz Bus Gallusanlage,50.10921,8.674928
+1822,264824,F Willy-Brandt-Platz Strab NBörneplatz,50.10921,8.674928
+1823,396730,F Willy-Brandt-Platz Strab NBörneplatz,50.10921,8.674928
+1824,167446,F Willy-Brandt-Platz Strab/nBus NHbf.,50.10921,8.674928
+1825,453437,F Willy-Brandt-Platz Strab/nBus NHbf.,50.10921,8.674928
+1826,422389,F Willy-Brandt-Platz U A NHeddernheim,50.10921,8.674928
+1827,229905,F Willy-Brandt-Platz U A NSüdbahnhof,50.10921,8.674928
+1828,123138,F Willy-Brandt-Platz U B NHauptbf.,50.10921,8.674928
+1829,135768,F Willy-Brandt-Platz U B NKonstablerw.,50.10921,8.674928
+1830,99594,F Willy-Brandt-Platz nBus Neue Mainzer,50.10921,8.674928
+1831,274797,F Windthorststraße NK.-Glatt-Straße,50.110153,8.548698
+1832,399443,F Wolf-Heidenheim-Straße NGuerickestr/G.Vo,50.127716,8.60141
+1833,243559,F Wolf-Heidenheim-Straße NKirschbaumweg,50.127716,8.60141
+1834,411753,F Wöhlerstraße Bus Liebigstraße,50.117104,8.665787
+1835,221512,F Xaver-Fendt-Straße Bus NHLanzAllee,50.19123,8.650581
+1836,155015,F Xaver-Fendt-Straße Bus VHLanzAllee,50.19123,8.650581
+1837,424181,F Zanderstraße Speicherstraße,50.099823,8.658932
+1838,113770,F Zanderstraße Zanderstraße,50.099823,8.658932
+1839,210212,F Zehnmorgenstraße Bus Zehnmorgenstr,50.159042,8.656539
+1840,405275,F Zeilsheim Bahnhof >Sindlingen,50.090504,8.506806
+1841,78374,F Zeilsheim Bahnhof >Zeilheim,50.090504,8.506806
+1842,83208,F Zeilsheim Bahnhof Busschleife,50.090504,8.506806
+1843,92306,F Zeilsheim Bahnhof Busschleife,50.090504,8.506806
+1844,259534,F Zeilsheim Kolonie NAnnabergstraße,50.09397,8.496052
+1845,39032,F Zeilsheim Kolonie NHofheimer Straße,50.09397,8.496052
+1846,97008,F Zeilweg NGinnh/Oberursel,50.16431,8.643219
+1847,269628,F Zeilweg NHeddernheim,50.16431,8.643219
+1848,63980,F Zeilweg NSandelmühle,50.16431,8.643219
+1849,165917,F Zeilweg NSüdbahnhof,50.16431,8.643219
+1850,352322,F Ziegenhainer Straße Bus NAndreaskirch,50.152004,8.669224
+1851,287174,F Ziegenhainer Straße Bus NRauschenberg,50.152004,8.669224
+1852,418077,F Zobelstraße Bus NOstendstraße,50.11291,8.701103
+1853,157251,F Zobelstraße Strab NOstend/Zoo,50.11291,8.701103
+1854,338073,F Zobelstraße Strab/Bus NRieder,50.11291,8.701103
+1855,86431,F Zobelstraße Strab/Bus NRieder,50.11291,8.701103
+1856,118710,F Zobelstraße nBus NOstbf/Sonne,50.11291,8.701103
+1857,29602,F Zoo Bus ABrehm-Pl.Süd,50.115513,8.69864
+1858,65030,F Zoo Bus ABrehm-Pl.Süd,50.115513,8.69864
+1859,172450,F Zoo Strab NSallb./Wit,50.115513,8.69864
+1860,67971,F Zoo Strab NZob/Ostend,50.115513,8.69864
+1861,82139,F Zoo U NEnkh./Ostbf.,50.115513,8.69864
+1862,297816,F Zoo U NIndustriehof,50.115513,8.69864
+1863,42263,F Zoo U NIndustriehof,50.115513,8.69864
+1864,365736,F Zoo nBus ABrehm-Pl.No,50.115513,8.69864
+1865,201769,F Zoo nBus Pfingstweids,50.115513,8.69864
+1866,7362,F Zuckschwerdt-/Bauhofstraße Zuckschwerdtstr.,50.103477,8.551878
+1867,321705,F Zuckschwerdtstraße Bus L.-Scriba-Str,50.103157,8.55251
+1868,317252,F Zuckschwerdtstraße Tram L.-Scriba-St,50.103157,8.55251
+1869,319918,F Zum Apothekerhof Bus NWasserweg,50.105263,8.697949
+1870,270424,F Zum Apothekerhof Bus NZ. Brommenhf,50.105263,8.697949
+1871,177882,F Zum Brommenhof Bus NDeutschherrn,50.1057,8.700295
+1872,430826,F Zum Brommenhof Bus NZ. Apotheker,50.1057,8.700295
+1873,351833,F Ärztehaus am Bügel NBGR Nord,50.18895,8.664572
+1874,272008,F Ärztehaus am Bügel NHomburger Hohl,50.18895,8.664572
+1875,235620,Ffm Adam-Opel-Straße Bus NH.-Junkers-S,50.12381,8.755474
+1876,345430,Ffm Affentorplatz NElisabethenstr.,50.104668,8.689846
+1877,422608,Ffm Affentorplatz NLokalbahnhof Bus,50.104668,8.689846
+1878,272574,Ffm Alleehaus VEuckenstraße,50.11264,8.538273
+1879,67086,Ffm Alleehaus VEuckenstraße,50.11264,8.538273
+1880,125871,Ffm Alleehaus VHansBöcklerStr,50.11264,8.538273
+1881,37404,Ffm Alleehaus VHansBöcklerStr,50.11264,8.538273
+1882,310376,Ffm Allerheiligentor Allerheilig. nBus,50.113316,8.693663
+1883,402501,Ffm Allerheiligentor Allerheilig. nBus,50.113316,8.693663
+1884,405057,Ffm Alt-Fechenheim NJakobsbrunn. Bus,50.12831,8.767492
+1885,338825,Ffm Alt-Fechenheim NMainkur Bf Bus,50.12831,8.767492
+1886,432623,Ffm Am Bächelchen NMarktstr/LandgrB,50.154594,8.756297
+1887,178048,Ffm Am Hessen-Center VEnkheim (U) Bus,50.141113,8.753861
+1888,94043,Ffm Am Rebenborn NFriedhof Enkheim,50.15222,8.74853
+1889,94384,Ffm Am Rebenborn NMarktstr/LandgrB,50.15222,8.74853
+1890,332699,Ffm Annette-Kolb-Weg NMax-Planck-Inst,50.178566,8.62854
+1891,167996,Ffm Annette-Kolb-Weg VMax-Planck-Inst,50.178566,8.62854
+1892,301321,Ffm Barbarossastraße NRiedschule Bus,50.146404,8.761291
+1893,185511,Ffm Baumertstraße/Post NAlt-Fechenheim,50.12532,8.768304
+1894,336214,Ffm Baumertstraße/Post NPfortenstraße,50.12532,8.768304
+1895,28837,Ffm Berger Warte NBad Vilbel,50.159744,8.739912
+1896,412688,Ffm Berger Warte NOffenbach,50.159744,8.739912
+1897,432298,Ffm Bernadottestraße VNHeerstraße,50.15764,8.631542
+1898,136122,Ffm Birsteiner Straße Kilianstädter Str,50.135777,8.763918
+1899,369795,Ffm Birsteiner Straße Vilbeler Ldstr.,50.135777,8.763918
+1900,76496,Ffm Brauerei NDarmstLdstrMitte,50.09425,8.690891
+1901,331374,Ffm Brauerei NSüdfriedhof,50.09425,8.690891
+1902,112416,Ffm Börneplatz/AOK/Stadtwerke nBus VKWRandl,50.112545,8.687992
+1903,314753,Ffm Bürgeler Straße NEinbiglerweg,50.11754,8.770634
+1904,382005,Ffm Bürgeler Straße NStarkenburgerStr,50.11754,8.770634
+1905,404067,Ffm Cassellastraße NDaimlerstraße,50.129734,8.75971
+1906,199838,Ffm Cassellastraße NSchießhüttentr.,50.129734,8.75971
+1907,197115,Ffm Daimlerstraße nBus NRiederhöfe,50.12232,8.739764
+1908,421146,Ffm Darmstädter Landstr. Mitte Bus NBrauerei,50.09692,8.691014
+1909,369770,Ffm Darmstädter Landstr. Mitte Bus NWendelsplatz,50.09692,8.691014
+1910,11956,Ffm Dieselstraße Bus HanauerLdstr.,50.12427,8.744662
+1911,268190,Ffm Einbiglerweg NBürgeler Str.,50.119995,8.772007
+1912,426704,Ffm Einbiglerweg NSchießhüttenstr,50.119995,8.772007
+1913,428247,Ffm Elisabethenstraße NSchöne Aussicht,50.105873,8.688119
+1914,401173,Ffm Enkheim Bus NAmHessenCent,50.14256,8.753896
+1915,254649,Ffm Enkheim Bus Vilb. Ldstr.,50.14256,8.753896
+1916,169754,Ffm Enkheim nBus NKonstablerw,50.14256,8.753896
+1917,228996,Ffm Euckenstraße NCheruskerweg,50.11,8.539249
+1918,236133,Ffm Euckenstraße NCheruskerweg,50.11,8.539249
+1919,313635,Ffm Euckenstraße NHöchstBf,50.11,8.539249
+1920,414585,Ffm Euckenstraße NHöchstBf,50.11,8.539249
+1921,99516,Ffm Florianweg NFriedhofEnkh.Bus,50.148636,8.753739
+1922,170713,Ffm Florianweg NTrieb/Barbarossa,50.148636,8.753739
+1923,373802,Ffm Flughafen A380-Halle NTor 31 intern,50.02539,8.550092
+1924,442004,Ffm Flughafen Air-Base Hotel NC-City-Süd,50.03324,8.591626
+1925,294365,Ffm Flughafen Air-Base Hotel NDreieich-Buchsch,50.03324,8.591626
+1926,171179,Ffm Flughafen CCT-Halle NFH Geb. 520,50.025578,8.552225
+1927,35387,Ffm Flughafen Geb. 532 NFH Geb. 527 Bus,50.02606,8.555863
+1928,374111,Ffm Flughafen Geb. 534 NGeb.532,50.026157,8.559867
+1929,242974,Ffm Flughafen Geb. 536 NGeb.534,50.026794,8.562206
+1930,272526,Ffm Flughafen Geb. 536 NGeb.543,50.026657,8.562193
+1931,261612,Ffm Flughafen Geb. 543 NGeb. 536,50.026413,8.565629
+1932,351282,Ffm Flughafen Geb. 555 NFH Tor 31 int,50.02317,8.571672
+1933,16863,Ffm Flughafen Geb. 556 NFH Geb. 555,50.02299,8.576572
+1934,394521,Ffm Flughafen Geb. 587 N Geb. 556,50.024887,8.58377
+1935,152506,Ffm Flughafen Gebäude 684 NTor 32,50.029514,8.590625
+1936,210751,Ffm Flughafen Gebäude 684 NTor 32,50.029514,8.590625
+1937,297523,Ffm Flughafen Lufthansabasis NKelsterbach,50.049286,8.561387
+1938,409997,Ffm Flughafen Lufthansabasis NKelsterbach,50.049286,8.561387
+1939,150967,Ffm Flughafen Lufthansabasis NTerminal 1,50.049286,8.561387
+1940,277036,Ffm Flughafen Lufthansabasis NTerminal 1,50.049286,8.561387
+1941,374409,Ffm Flughafen Terminal 1 Bussteig 17,50.051075,8.571522
+1942,76768,Ffm Flughafen Terminal 1 Bussteig 19,50.051075,8.571522
+1943,209447,Ffm Flughafen Terminal 1 Bussteig 20,50.051075,8.571522
+1944,366648,Ffm Flughafen Terminal 1 Bussteig 22,50.051075,8.571522
+1945,240396,Ffm Flughafen Terminal 1 Bussteig 24,50.051075,8.571522
+1946,357214,Ffm Flughafen Terminal 1 Haltestelle 0,50.051075,8.571522
+1947,145094,Ffm Flughafen Terminal 2 Haltestelle 0,50.052567,8.58846
+1948,387067,Ffm Flughafen Terminal 2 VNKelsterbach,50.052567,8.58846
+1949,279694,Ffm Flughafen Tor 23 NAviationC.,50.046947,8.551817
+1950,381881,Ffm Flughafen Tor 23 NAviationC.,50.046947,8.551817
+1951,332794,Ffm Flughafen Tor 23 NMörfelderStraße,50.046947,8.551817
+1952,93289,Ffm Flughafen Tor 23 NMörfelderStraße,50.046947,8.551817
+1953,295171,Ffm Flughafen Tor 25 NFH P53 Bus,50.041786,8.535462
+1954,166060,Ffm Flughafen Tor 25 NFH Tor 23 Bus,50.04545,8.545535
+1955,224056,Ffm Flughafen Tor 25 NFH Tor 25 Bus,50.04545,8.545535
+1956,337316,Ffm Flughafen Tor 25 NFH Tor 26 Bus,50.04238,8.536266
+1957,144863,Ffm Flughafen Tor 26 NFlughafenTor25,50.040577,8.532486
+1958,43247,Ffm Flughafen Tor 26 NFlughafenTor31,50.040577,8.532486
+1959,57209,Ffm Flughafen Tor 3 Haltestelle 0,50.053215,8.579057
+1960,354471,Ffm Flughafen Tor 3 NOberforsthaus,50.053215,8.579057
+1961,139238,Ffm Flughafen Tor 3 NTerminal1,50.053215,8.579057
+1962,441991,Ffm Flughafen Tor 3 NTerminal1,50.053215,8.579057
+1963,117472,Ffm Flughafen Tor 32 NFH Geb. 587,50.02611,8.586858
+1964,703,Ffm Flughafen Tor 32 NFH Geb. 587,50.02611,8.586858
+1965,360773,Ffm Friedberger Anlage NAllerheiligentor,50.115738,8.695395
+1966,38493,Ffm Friedhof Bergen-Enkheim NAm Rebenborn Bus,50.150707,8.750216
+1967,439376,Ffm Friedhof Bergen-Enkheim NFlorianweg Bus,50.150707,8.750216
+1968,70329,Ffm Fuldaer Straße NRiederwald,50.133163,8.760993
+1969,447869,Ffm Gateway Gardens Mitte Bus NGat.Ga.Nord,50.055004,8.596692
+1970,242636,Ffm Gateway Gardens Mitte Bus NT-Rasche-Str,50.055004,8.596692
+1971,272351,Ffm Gerlachstraße NHöchstBhf,50.10541,8.544451
+1972,439928,Ffm Gerlachstraße NHöchstBhf,50.10541,8.544451
+1973,313113,Ffm Glockengasse NNieder-Erlenbach,50.200497,8.674422
+1974,253752,Ffm Glockengasse NNieder-Eschbach,50.200497,8.674422
+1975,283321,Ffm Hainer Weg NGravenbruch Bus,50.08437,8.698597
+1976,277235,Ffm Hainer Weg NSachenh. Warte B,50.08437,8.698597
+1977,256905,Ffm Hans-Böckler-Straße NHöchst,50.11427,8.534455
+1978,392932,Ffm Hans-Böckler-Straße NHöchst,50.11427,8.534455
+1979,284392,Ffm Hans-Böckler-Straße VHöchst,50.11427,8.534455
+1980,366450,Ffm Hans-Böckler-Straße VHöchst,50.11427,8.534455
+1981,331054,Ffm Heiligenstock NBad Vilbel,50.155506,8.717994
+1982,264116,Ffm Heiligenstock NFrankfurt,50.155506,8.717994
+1983,420001,Ffm Heinrich-Becker-Straße NNieder-Erlenbach,50.201817,8.67692
+1984,337824,Ffm Heinrich-Becker-Straße NNieder-Eschbach,50.201817,8.67692
+1985,258854,Ffm Heinrich-Bingemer-Weg F-Schubert-Ring,50.154808,8.759402
+1986,152900,Ffm Hoechst AG Tor Ost,50.096565,8.538427
+1987,221013,Ffm Hoechst AG Tor Ost Wendeplatz,50.097347,8.538043
+1988,389594,Ffm Hoechst AG Tor Ost Wendeplatz,50.097347,8.538043
+1989,233843,Ffm Hofheimer Straße NSindlingen,50.097027,8.489744
+1990,108364,Ffm Hostatostraße Hostatostraße,50.10183,8.54647
+1991,71008,Ffm Hostatostraße Hostatostraße,50.10183,8.54647
+1992,187026,Ffm Hugo-Eckener-Ring HERg West NTer2,50.05311,8.584406
+1993,347464,Ffm Hugo-Eckener-Ring HERg West NTor3,50.05311,8.584406
+1994,405084,Ffm Hugo-Junkers-Straße BusHanauerLand,50.127583,8.753385
+1995,286686,Ffm Höchst Bahnhof ZOB A/ST. 1&2,50.10221,8.542371
+1996,300269,Ffm Höchst Bahnhof ZOB B/ST. 3&4,50.10221,8.542371
+1997,415867,Ffm Höchst Bahnhof ZOB C/ST. 5&6,50.10221,8.542371
+1998,184514,Ffm Höchster Markt NE.-Josef-Straße,50.100254,8.545464
+1999,448182,Ffm Johann-Beyer-Weg NUni Riedberg,50.182304,8.625388
+2000,304244,Ffm Johann-Beyer-Weg VUni Riedberg,50.182304,8.625388
+2001,367126,Ffm Karl-Benz-Straße nBus Adam-Opel-St,50.12156,8.749766
+2002,343695,Ffm Kliniken Höchst NEuckenstraße,50.10735,8.544237
+2003,62874,Ffm Kliniken Höchst NEuckenstraße,50.10735,8.544237
+2004,51071,Ffm Kliniken Höchst NGerlachstraße,50.10735,8.544237
+2005,55636,Ffm Kliniken Höchst NGerlachstraße,50.10735,8.544237
+2006,112856,Ffm Konstablerwache nachtBus (C&A),50.114494,8.687895
+2007,230379,Ffm Konstanzer Straße NStarkenburgerStr,50.114964,8.763628
+2008,89700,Ffm Konstanzer Straße VStarkenburgerStr,50.114964,8.763628
+2009,265217,Ffm Kreisel Unterschweinstiege NOberforsthaus,50.05708,8.588617
+2010,191726,Ffm Kreisel Unterschweinstiege NTerminal1,50.05708,8.588617
+2011,252616,Ffm Leuchte NLeuchte/RangenbB,50.14279,8.757266
+2012,427866,Ffm Lokalbahnhof/Darmst.Ldstr. NAffentorpl.,50.10236,8.690755
+2013,288157,Ffm Lokalbahnhof/Darmst.Ldstr. NWendelsplatz,50.10207,8.690855
+2014,267168,Ffm Lokalbahnhof/Hedderichstr. Hedderichstr.,50.101727,8.690689
+2015,279519,Ffm Ludwigshafener Straße NHöchstAG,50.099895,8.541694
+2016,166269,Ffm Lufthansa Aviation Center Bus NLH-Basis,50.048126,8.556609
+2017,64995,Ffm Lufthansa Aviation Center Bus NLH-Basis,50.048126,8.556609
+2018,136492,Ffm Lufthansa Aviation Center Bus VLH-Basis,50.048126,8.556609
+2019,168074,Ffm Lufthansa Aviation Center Bus VLH-Basis,50.048126,8.556609
+2020,79873,Ffm Lurgiallee NNordwestzentrum,50.170956,8.635919
+2021,304158,Ffm Lurgiallee VNordwestzentrum,50.170956,8.635919
+2022,123060,Ffm Mainkur Bahnhof NAlt-Fechenh. Bus,50.13448,8.768092
+2023,249280,Ffm Mainkur Bahnhof NBirsteinerStrBus,50.13448,8.768092
+2024,280000,Ffm Marktstraße/Landgraben NAm Rebenborn Bus,50.154984,8.749662
+2025,270134,Ffm Marktstraße/Landgraben NNordring Bus,50.154984,8.749662
+2026,391601,Ffm Marktstraße/Landgraben NVilbelerLdstrBus,50.154984,8.749662
+2027,136765,Ffm Max-Planck-Institut/FIZ Altenhöfer A Nord,50.17511,8.632668
+2028,442167,Ffm Max-Planck-Institut/FIZ Altenhöfer A Süd,50.17511,8.632668
+2029,274001,Ffm Michael-Stumpf-Straße NUnterliederbach,50.104725,8.542039
+2030,302090,Ffm Michael-Stumpf-Straße NUnterliederbach,50.104725,8.542039
+2031,192269,Ffm Neu-Isenburg Stadtgrenze BusDLNSachshW,50.059692,8.694604
+2032,206521,Ffm Neu-Isenburg Stadtgrenze BusDLNStadth,50.059692,8.694604
+2033,162979,Ffm Neu-Zeilsheim NPfaffenwiese,50.097122,8.493112
+2034,436880,Ffm Neu-Zeilsheim NSindlingen,50.097122,8.493112
+2035,194129,Ffm Nieder-Eschbach VRiedberg,50.199253,8.670411
+2036,336152,Ffm Nordring/Landgraben NMarktstr/LandgrB,50.15737,8.748419
+2037,345245,Ffm Nordring/Landgraben VMarktstr/LandgrB,50.15737,8.748419
+2038,188886,Ffm Nordring/Vilbeler Landstr. NBerger Warte,50.157196,8.745579
+2039,421790,Ffm Nordring/Vilbeler Landstr. NNordring/Landgr.,50.157196,8.745579
+2040,254399,Ffm Nordwestzentrum Busbahnhof,50.15876,8.634276
+2041,291802,Ffm Nordwestzentrum Busbahnhof,50.15876,8.634276
+2042,257271,Ffm Ostbahnhof/Honsellstraße Bus NOsthafen,50.111385,8.708578
+2043,318972,Ffm Ostbahnhof/Honsellstraße VOsth.Bus,50.111385,8.708578
+2044,218594,Ffm Ostendstraße Bus VZobelstraße,50.112495,8.697009
+2045,229262,Ffm Ostendstraße nBus NZobelstraße,50.112495,8.697009
+2046,10689,Ffm Osthafenplatz NHonsellstr.,50.11211,8.713956
+2047,179753,Ffm Osthafenplatz NSchwedlers,50.11211,8.713956
+2048,392628,Ffm Parkfriedhof NHeiligenstock,50.162018,8.723693
+2049,98043,Ffm Parkfriedhof NStadtgrenze,50.162018,8.723693
+2050,37611,Ffm Paul-Apel-Straße NUniRiedberg,50.184196,8.624113
+2051,140904,Ffm Paul-Apel-Straße VUniRiedberg,50.184196,8.624113
+2052,235096,Ffm Pfortenstraße NSchießhüttenstr.,50.122158,8.769326
+2053,84057,Ffm Rangenbergstr./Riedschule Bus Rangenbergstr,50.15051,8.75962
+2054,289123,Ffm Rehbockschneise Bus B43 Nordseite,50.058,8.596541
+2055,36632,Ffm Rehbockschneise Bus B43 Südseite,50.058,8.596541
+2056,361735,Ffm Riederhöfe Bus NOstbahnhof,50.116962,8.727951
+2057,252186,Ffm Riederhöfe Bus VOstbahnhof,50.116962,8.727951
+2058,285738,Ffm Roter Graben NMaintal Bus,50.13804,8.775978
+2059,350952,Ffm Sachsenhäuser Warte BusBaB VHainerWeg,50.086834,8.691931
+2060,426509,Ffm Sachsenhäuser Warte BusDaL NSüdfriedh,50.086834,8.691931
+2061,114488,Ffm Sachsenhäuser Warte BusDaL VSüdfriedh,50.086834,8.691931
+2062,48807,Ffm Schießhüttenstraße Bus NEinbiglerweg,50.121437,8.773524
+2063,326448,Ffm Schießhüttenstraße Bus NPfortenstr.,50.121437,8.773524
+2064,39645,Ffm Schwedlerstraße NOstbahnhof,50.113976,8.719439
+2065,15679,Ffm Schwedlerstraße VOstbahnhof,50.113976,8.719439
+2066,170797,Ffm Schwimmbad Bergen-Enkheim NH-BingemerWegBus,50.151722,8.762566
+2067,297200,Ffm Schöne Aussicht Bus NBörneplatz,50.109993,8.687994
+2068,366887,Ffm Schöne Aussicht Bus VBörneplatz,50.109993,8.687994
+2069,25355,Ffm Sindlinger Friedhof NAllesinastraße,50.079857,8.510198
+2070,87157,Ffm Sindlinger Friedhof NHattersheim Bus,50.079857,8.510198
+2071,289793,Ffm Starkenburger Straße NBürgeler Str.,50.115368,8.768604
+2072,349080,Ffm Starkenburger Straße NDieburger Str.,50.115368,8.768604
+2073,448330,Ffm Steinauer Straße NGwinnerstraße,50.13302,8.757707
+2074,435495,Ffm Südbahnhof Diesterwegplatz,50.099327,8.686442
+2075,60642,Ffm Südbahnhof/Schweizer Str NSüdbahnhof,50.09798,8.683781
+2076,316487,Ffm Südbf/Mörfelder Landstraße Mörfelder Ldstr.,50.098537,8.687132
+2077,165039,Ffm Südfriedhof NBrauerei,50.091705,8.691229
+2078,440549,Ffm Südfriedhof NSachsenh. Warte,50.091705,8.691229
+2079,332734,Ffm Thea-Rasche-Straße Bus NGat.Ga.Mitte,50.05527,8.590517
+2080,25926,Ffm Thea-Rasche-Straße Bus NH-Eckener-Rg,50.05527,8.590517
+2081,415448,Ffm Trieb-/Barbarossastraße NEnkheim (U) Bus,50.145374,8.754679
+2082,322318,Ffm Trieb-/Barbarossastraße NFlorianweg Bus,50.145374,8.754679
+2083,218498,Ffm Unfallklinik Einstieg Bus,50.14486,8.706165
+2084,300943,Ffm Unfallklinik NHeiligenstock,50.14583,8.706173
+2085,36953,Ffm Uni Niederurseler Hang NLurgiallee,50.17388,8.634567
+2086,184877,Ffm Uni Niederurseler Hang NM.Planck-I./FIZ,50.17388,8.634567
+2087,97854,Ffm Unterliederbach Bahnhof Bus NKönigstein,50.108173,8.527706
+2088,239922,Ffm Wendelsplatz DaL NDaL Mitt,50.100624,8.691479
+2089,36830,Ffm Wendelsplatz DaL NLokalbf.,50.100624,8.691479
+2090,73948,Ffm Wendelsplatz Mörfelder Ldstr.,50.100624,8.691479
+2091,401235,Ffm Zeilsheim Friedhof BusNKriftel,50.096333,8.486817
+2092,31255,Ffm Zeilsheim Friedhof BusNNeu-Zeilsheim,50.096333,8.486817
+2093,41670,Ffm Zobelstraße NOstbf/Sonne.nBus,50.11291,8.701103
+2094,402239,Ffm Zobelstraße NOstendstraße Bus,50.11291,8.701103
+2095,251495,"Frankfurt Airport (P36, Terminal 1)",50.05268,8.57749
+2096,43276,"Frankfurt Flughafen, Elly-Beinhorn-Str.",50.03324,8.591626
+2097,115688,"Frankfurt Flughafen, Terminal 1 Mast 07",50.051075,8.571522
+2098,436423,"Frankfurt Flughafen, Tor 2 Mast 01",50.05227,8.593461
+2099,325332,"Frankfurt Flughafen, Tor 3 Mast 01",50.053215,8.579057
+2100,172527,"Frankfurt Flughafen, Tor 3 Mast 02",50.053215,8.579057
+2101,122523,"Frankfurt Flughafen, Tor 33 Mast 01",50.03739,8.594173
+2102,9275,Frankfurt HBF. AREA B Mannheimer Str. (IC),50.105614,8.663441
+2103,400984,Frankfurt central train station,50.104393,8.662577
+2104,337913,Frankfurt(Main)West,50.118862,8.639335
+2105,184721,"Frankfurt, Birsteiner Straße Nenkheim",50.135777,8.763918
+2106,238183,"Frankfurt, Birsteiner Straße Nfechenheim",50.135777,8.763918
+2107,322441,"Frankfurt, Enkheim Nvilbeler landstr.",50.14256,8.753854
+2108,372926,"Frankfurt, Hessen-Center NEnkheim",50.140446,8.748969
+2109,139597,"Frankfurt, Hessen-Center NSchäfflestr",50.140446,8.748969
+2110,103568,"Frankfurt, Hugo-Eckener-Ring Mast 01",50.05311,8.584406
+2111,378324,"Frankfurt, Hugo-Eckener-Ring Mast 02",50.05311,8.584406
+2112,69365,"Frankfurt, Roter Graben NMaintal",50.138165,8.776229
+2113,192087,"Frankfurt, Roter Graben VMaintal",50.137913,8.775615
+2114,399462,"Frankfurt,Am Hessen-Center Venkheim",50.14114,8.753805
+2115,109099,Frankfurt-Rödelheim,50.124615,8.607026
+2116,401696,Sachsenhausen-Süd Neu-Isenburg Stadtgrenze Nhugenottenallee,50.059692,8.694604
+2117,276136,Sachsenhausen-Süd Neu-Isenburg Stadtgrenze Vhugenottenallee,50.059692,8.694604

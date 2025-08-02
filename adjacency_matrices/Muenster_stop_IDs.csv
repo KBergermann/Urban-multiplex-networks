@@ -1,0 +1,480 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,125829,"Münster (Westf), Mauritz-Mitte",51.967106,7.657707
+1,159263,"Münster (Westf), Mauritz-Mitte",51.967255,7.65768
+2,172776,"Münster (Westf), Pumpenhaus",51.97199,7.63612
+3,375607,"Münster (Westf), Wilhelmstraße",51.967422,7.611515
+4,395059,"Münster (Westf), Wilhelmstraße",51.967266,7.612926
+5,154248,Münster A.v.Droste Hülshoff,51.920635,7.680677
+6,182606,Münster Abzw. Wilkinghege,51.98375,7.588977
+7,360269,Münster Abzw. Wilkinghege,51.984615,7.587854
+8,269648,Münster Abzweig Angelmodde,51.932552,7.718011
+9,395614,Münster Abzweig Angelmodde,51.93284,7.717768
+10,422461,Münster Abzweig Sprakel,52.032368,7.620813
+11,328429,Münster Ackermann,51.95273,7.552047
+12,59022,Münster Ackermann,51.95271,7.551822
+13,343206,Münster Aegidiimarkt,51.960857,7.623382
+14,365613,Münster Aegidiimarkt,51.960983,7.623005
+15,137861,Münster Alba. Sendener Stiege,51.9178,7.528223
+16,222957,Münster Alba. Sendener Stiege,51.917606,7.528412
+17,121747,Münster Albachten Kirche,51.92454,7.52764
+18,232400,Münster Albachten Kirche,51.924675,7.527397
+19,179545,Münster Albertstraße,51.966606,7.654509
+20,362124,Münster Alexianer Werkstätten,51.87774,7.561758
+21,171623,Münster Alexianer-Campus,51.876728,7.566258
+22,421624,Münster Alexianer-Campus,51.876755,7.566555
+23,187286,Münster Alte Reitbahn,51.926514,7.62888
+24,279674,Münster Alte Reitbahn,51.926758,7.629032
+25,126490,Münster Alte Viehstraße,51.89896,7.522995
+26,162581,Münster Alte Viehstraße,51.898956,7.522618
+27,272671,Münster Alter Mühlenweg.,51.976254,7.704257
+28,353895,Münster Alter Mühlenweg.,51.976814,7.706449
+29,248984,Münster Alter Schützenhof,51.945908,7.623463
+30,69141,Münster Alter Schützenhof,51.946014,7.623301
+31,356125,Münster Altstadt / Bült,51.96388,7.630658
+32,60343,Münster Altstadt / Bült,51.9641,7.630335
+33,319046,Münster Alvingheide,51.931293,7.513159
+34,383266,Münster Alvingheide,51.93122,7.513329
+35,258496,Münster Am Blaukreuzwäldchen,51.915577,7.681512
+36,440432,Münster Am Blaukreuzwäldchen,51.91612,7.681207
+37,10605,Münster Am Burloh,51.993942,7.612521
+38,156020,Münster Am Burloh,51.99315,7.612099
+39,253811,Münster Am Knapp,52.007862,7.615028
+40,259796,Münster Am Knapp,52.00789,7.614848
+41,395560,Münster Am Kämpken,51.92061,7.527181
+42,42135,Münster Am Kämpken,51.919994,7.52728
+43,238109,Münster Am Tiergarten,51.917294,7.74249
+44,53985,Münster Am Tiergarten,51.917393,7.742166
+45,182701,Münster Am-Max-Klemens-Kanal,52.00377,7.614686
+46,270070,Münster Am-Max-Klemens-Kanal,52.00379,7.614857
+47,431713,Münster An der Alten Kirche,51.905273,7.635994
+48,99283,Münster An der Alten Kirche,51.905113,7.635913
+49,150902,Münster An der Hansalinie,51.925236,7.560904
+50,387085,Münster An der Hansalinie,51.925377,7.561407
+51,254755,Münster An der Kleikuhle,51.957226,7.531421
+52,81049,Münster An der Kleikuhle,51.95722,7.531394
+53,243640,Münster Apffelstaedtstr.,51.969326,7.603053
+54,291182,Münster Apffelstaedtstr.,51.96782,7.602065
+55,249366,Münster Asbeckweg,51.971405,7.568854
+56,236297,Münster Ashölterweg,52.02689,7.618576
+57,251845,Münster Ashölterweg,52.026604,7.61819
+58,101692,Münster Auenviertel,51.965874,7.565495
+59,384374,Münster Auenviertel,51.96546,7.565809
+60,19368,Münster Autobahn Nord,51.977787,7.557329
+61,369307,Münster Autobahn Nord,51.977875,7.556862
+62,191001,Münster Averhoff Rusticus,51.939404,7.707698
+63,349293,Münster Averhoff Rusticus,51.939297,7.707752
+64,70815,Münster Besselweg,51.970215,7.577712
+65,156076,Münster Boeselagerstr.,51.934566,7.599828
+66,78939,Münster Boeselagerstr.,51.934574,7.600017
+67,197425,Münster Bremer Platz,51.958946,7.63718
+68,117490,Münster Brock 260,51.94508,7.479184
+69,143735,Münster Brookweg,51.952885,7.509224
+70,289045,Münster Brookweg,51.953026,7.507149
+71,336125,Münster Brunnenweg,51.926834,7.605236
+72,79285,Münster Brunnenweg,51.926834,7.604931
+73,229777,Münster Buckstraße,51.938194,7.606323
+74,32925,Münster Buckstraße,51.938107,7.605973
+75,56845,Münster Burg Hülshoff,51.969402,7.506197
+76,74976,Münster Burg Hülshoff,51.969337,7.506969
+77,202284,Münster Cheruskerring,51.97412,7.623391
+78,389466,Münster Cheruskerring,51.97478,7.622699
+79,59943,Münster Clemenshospital,51.93314,7.615854
+80,102834,Münster DZ HYP / IHK,51.94422,7.612126
+81,382373,Münster DZ HYP / IHK,51.944164,7.612297
+82,194315,Münster Dechaneistraße,51.964935,7.650861
+83,72299,Münster Dechaneistraße,51.96487,7.65087
+84,101727,Münster Deipenfohr,51.96048,7.580595
+85,416299,Münster Deipenfohr,51.960503,7.581574
+86,211186,Münster Dieckmannstraße,51.958027,7.571747
+87,243026,Münster Dieckmannstraße,51.957855,7.57349
+88,79813,Münster Dieckmannstraße,51.95746,7.572196
+89,168267,Münster Dingbängerweg,51.926605,7.58338
+90,270271,Münster Dingbängerweg,51.92656,7.583048
+91,361228,Münster Domagkstraße,51.96093,7.60255
+92,449088,Münster Domagkstraße,51.96131,7.602325
+93,273126,Münster Domplatz,51.962013,7.626302
+94,310939,Münster Dreifaltigkeitskirche,51.97372,7.612297
+95,414879,Münster Dreifaltigkeitskirche,51.974804,7.612423
+96,16500,Münster Dreizehnerstraße,51.982594,7.611893
+97,97427,Münster Dreizehnerstraße,51.98255,7.611641
+98,345298,Münster Drostenhof,51.915398,7.727182
+99,379028,Münster Drostenhof,51.91475,7.726895
+100,114408,Münster Düesbergpark,51.9304,7.607203
+101,398112,Münster Düesbergpark,51.930397,7.606485
+102,56327,Münster Düesbergpark,51.930817,7.606745
+103,18204,Münster Düesbergweg,51.93459,7.625798
+104,73058,Münster Düesbergweg,51.934937,7.625547
+105,24656,Münster Dülmener Straße,51.924885,7.523687
+106,3903,Münster Dülmener Straße,51.92494,7.523795
+107,166889,Münster Eichendorffschule,51.9152,7.694555
+108,326571,Münster Einingweg,52.00449,7.543621
+109,71537,Münster Einingweg,52.00481,7.542983
+110,1615,Münster Eisenbahnstraße,51.960922,7.635078
+111,237404,Münster Eisenbahnstraße,51.9618,7.635383
+112,159911,Münster Elbinger Straße,51.994217,7.653368
+113,450164,Münster Elbinger Straße,51.994583,7.653332
+114,303418,Münster Emsstraße,51.968014,7.662028
+115,243748,Münster Engelenschanze,51.957188,7.631278
+116,422310,Münster Erbdrostenweg,51.93055,7.665109
+117,443947,Münster Erbdrostenweg,51.93107,7.664758
+118,10341,Münster Ermlandweg,51.988705,7.611183
+119,223739,Münster Ermlandweg,51.987896,7.611488
+120,329611,Münster Everding,51.960793,7.528232
+121,455943,Münster Everding,51.960762,7.528205
+122,172805,Münster Freibad Stapelskotten,51.945503,7.690711
+123,443089,Münster Freibad Stapelskotten,51.94577,7.690091
+124,172712,Münster Freiherr v. Stein Gymn,51.961533,7.567291
+125,52083,Münster Freiherr v. Stein Gymn,51.961166,7.567911
+126,309048,Münster Fronhof,51.91531,7.748814
+127,398050,Münster Fronhof,51.915283,7.748814
+128,348838,Münster Försterstraße,51.966625,7.60706
+129,410216,Münster Försterstraße,51.966515,7.607122
+130,327001,Münster Gartenbreie,51.95952,7.569815
+131,5997,Münster Gartenbreie,51.959064,7.570552
+132,418115,Münster Geiststraße,51.95239,7.619052
+133,96428,Münster Geiststraße,51.951862,7.618414
+134,443004,Münster Gelmer,52.030228,7.676481
+135,271881,Münster Germania-Campus,51.97688,7.61209
+136,37588,Münster Germania-Campus,51.97709,7.612297
+137,163996,Münster Gescherweg,51.971672,7.576499
+138,457031,Münster Gescherweg,51.972553,7.575457
+139,133857,Münster Getterbach,51.917747,7.599065
+140,89791,Münster Getterbach,51.917515,7.598355
+141,198430,Münster Gew. Kleimannbrücke,51.99462,7.662917
+142,362739,Münster Gew. Kleimannbrücke,51.994495,7.663007
+143,226192,Münster Gewerbeg. Uhlenkotten,51.994427,7.569537
+144,455384,Münster Gewerbeg. Uhlenkotten,51.994953,7.568675
+145,348374,Münster Gievenbeck Kaserne,51.958763,7.575394
+146,407937,Münster Gievenbeck Kaserne,51.95909,7.576391
+147,191177,Münster Goebenstraße,51.9527,7.625583
+148,262534,Münster Goebenstraße,51.95287,7.625565
+149,224475,Münster Gremmendorfer Weg,51.928864,7.667355
+150,311955,Münster Gremmendorfer Weg,51.928596,7.667337
+151,201787,Münster Grenkuhlenweg,51.922485,7.727119
+152,274025,Münster Grenkuhlenweg,51.922337,7.727209
+153,209496,Münster Gronowskistr.,51.96778,7.562916
+154,379590,Münster Gronowskistr.,51.967655,7.562916
+155,407146,Münster Görlitzer Straße,51.992504,7.643729
+156,443049,Münster Görlitzer Straße,51.992603,7.643729
+157,170054,Münster Handorf Gartenzentrum,51.97721,7.70485
+158,229587,Münster Handorf Kaserne,52.00216,7.721514
+159,127741,Münster Hangkamp,52.04402,7.622475
+160,331870,Münster Hangkamp,52.044,7.622394
+161,301250,Münster Hansa Business Park,51.89086,7.577316
+162,339732,Münster Hansa Business Park,51.89107,7.577442
+163,196198,Münster Hansa-Berufskolleg,51.956684,7.646603
+164,31243,Münster Hansa-Berufskolleg,51.955227,7.647151
+165,4697,Münster Hansa-Berufskolleg,51.956573,7.64646
+166,93204,Münster Hansa-Berufskolleg,51.955273,7.647151
+167,34545,Münster Hansaring,51.95291,7.636237
+168,45364,Münster Hansaring,51.95205,7.636138
+169,108725,Münster Hauptbahnhof,51.95736,7.63453
+170,130442,Münster Hauptbahnhof,51.957333,7.634234
+171,230095,Münster Hauptbahnhof,51.957558,7.634593
+172,233977,Münster Hauptbahnhof,51.95654,7.634009
+173,271229,Münster Hauptbahnhof,51.95721,7.634467
+174,368671,Münster Hauptbahnhof,51.95654,7.633659
+175,50982,Münster Hauptbahnhof,51.957523,7.634297
+176,56044,Münster Hauptbahnhof,51.956097,7.633129
+177,178996,Münster Haus Heidhorn,51.878487,7.651068
+178,364417,Münster Haus Heidhorn,51.878708,7.651131
+179,140888,Münster Haus Mariengrund,51.97108,7.560841
+180,49126,Münster Haus Mariengrund,51.97073,7.560787
+181,311626,Münster Haus Ruhr,51.894947,7.510455
+182,15694,Münster Haus Uhlenkotten,51.99195,7.574738
+183,458050,Münster Haus Uhlenkotten,51.99199,7.574747
+184,143438,Münster Hautklinik,51.965164,7.591186
+185,239749,Münster Hautklinik,51.9654,7.590504
+186,224876,Münster Heekweg,51.97356,7.563168
+187,343337,Münster Heidestraße,51.923885,7.672655
+188,97134,Münster Heidestraße,51.92295,7.673463
+189,177647,Münster Heilig-Geist-Kirche,51.940376,7.621001
+190,34473,Münster Hermann-Hesse-Str.,51.99532,7.553268
+191,387643,Münster Hermann-Hesse-Str.,51.995075,7.553718
+192,397743,Münster Heroldstraße,51.925007,7.573247
+193,456950,Münster Heroldstraße,51.924957,7.573328
+194,148704,Münster Herz-Jesu-Krankenhaus,51.909294,7.632895
+195,293487,Münster Herz-Jesu-Krankenhaus,51.909454,7.632733
+196,162304,Münster Heumannsweg,51.934635,7.659494
+197,301278,Münster Heumannsweg,51.93319,7.66148
+198,157843,Münster Hiltrup Hallenbad,51.901672,7.638734
+199,199626,Münster Hiltrup Hallenbad,51.901073,7.639327
+200,118286,Münster Hohe Geist,51.922928,7.526669
+201,437825,Münster Hohe Geist,51.92311,7.526732
+202,302485,Münster Hohenzollernring,51.964024,7.648077
+203,127647,Münster Holtmannsweg,51.99518,7.634728
+204,421052,Münster Holtmannsweg,51.995293,7.63444
+205,265340,Münster Holtschulte,51.91137,7.592444
+206,38280,Münster Holtschulte,51.911423,7.592255
+207,75142,Münster Hoyastraße,51.970287,7.622088
+208,363343,Münster Häger Bahnhof,52.021843,7.561677
+209,265145,Münster Hägerstraße,51.999695,7.557994
+210,409446,Münster Hägerstraße,51.999866,7.557634
+211,109777,Münster Hörstertor,51.96571,7.634737
+212,115600,Münster Hörstertor,51.96594,7.634126
+213,423039,Münster Hörstertor,51.966087,7.634341
+214,21309,Münster Hüfferstiftung,51.961277,7.607967
+215,301172,Münster Hüfferstiftung,51.96108,7.608039
+216,218760,Münster Hülshoffstraße,51.974174,7.523121
+217,361096,Münster Hülshoffstraße,51.974167,7.523112
+218,17369,Münster Im Bilskamp,51.91765,7.737091
+219,228616,Münster Im Bilskamp,51.917786,7.738268
+220,101333,Münster Inselbogen,51.939404,7.609961
+221,115608,Münster Inselbogen,51.940487,7.608955
+222,430217,Münster Inselbogen,51.940334,7.609117
+223,410825,Münster Institut der Feuerwehr,51.954,7.660087
+224,93659,Münster Institut der Feuerwehr,51.953976,7.659854
+225,210659,Münster Isolde-Kurz-Str.,51.994328,7.550053
+226,282479,Münster Isolde-Kurz-Str.,51.99351,7.548445
+227,401534,Münster Janningsweg,51.99594,7.6128
+228,94812,Münster Janningsweg,51.995655,7.612988
+229,120755,Münster Juffernkamp,51.913254,7.727551
+230,179702,Münster Juffernkamp,51.913174,7.727317
+231,417699,Münster Jungeblodtplatz,51.960133,7.603799
+232,67581,Münster Jungeblodtplatz,51.960148,7.604212
+233,136820,Münster Kannenweg,51.88449,7.570615
+234,309243,Münster Kannenweg,51.884415,7.570804
+235,386912,Münster Kanonierplatz,51.971527,7.612467
+236,425456,Münster Kanonierplatz,51.97188,7.612611
+237,354375,Münster Kapuzinerstraße,51.97059,7.610859
+238,55493,Münster Kapuzinerstraße,51.970436,7.610491
+239,180017,Münster Kerkheideweg / Brillux,51.93149,7.594465
+240,261140,Münster Kerkheideweg / Brillux,51.93193,7.595381
+241,271327,Münster Kiesekampweg,51.994656,7.638258
+242,46980,Münster Kiesekampweg,51.9946,7.638222
+243,119844,Münster Klemensstraße,51.960922,7.628987
+244,194277,Münster Kolde-Ring / LVM,51.94956,7.616761
+245,317823,Münster Kolde-Ring / LVM,51.94935,7.616276
+246,431060,Münster Kortenbrede,51.980167,7.595148
+247,70580,Münster Kortenbrede,51.980663,7.594456
+248,425928,Münster Kriegerweg,51.92256,7.603385
+249,432004,Münster Kriegerweg,51.92209,7.602873
+250,245151,Münster Krummer Timpen,51.96156,7.619654
+251,96601,Münster Krummer Timpen,51.961746,7.618792
+252,299714,Münster Kurhaus,51.916695,7.733138
+253,42384,Münster Kurhaus,51.917137,7.734935
+254,312778,Münster Königsberger Straße,51.99296,7.649056
+255,367305,Münster Königsberger Straße,51.992596,7.648265
+256,445777,Münster Königsberger Straße,51.992924,7.647376
+257,147148,Münster Königsstraße,51.957863,7.626391
+258,364064,Münster Königsweg,51.93985,7.624271
+259,80381,Münster Königsweg,51.939114,7.624613
+260,311878,Münster Körberheide,51.97813,7.715657
+261,404256,Münster Körberheide,51.978214,7.715666
+262,242086,Münster Landgericht,51.961926,7.615144
+263,268140,Münster Landgericht,51.961987,7.615432
+264,118188,Münster Langemarckstr.,51.974297,7.627496
+265,366412,Münster Leonardo-Campus,51.975296,7.603592
+266,405288,Münster Leonardo-Campus,51.97477,7.604275
+267,201774,Münster Lerschmehr,51.925022,7.724532
+268,371981,Münster Lerschmehr,51.92459,7.724865
+269,102655,Münster Liboristraße,51.95488,7.65202
+270,308685,Münster Liboristraße,51.95488,7.65114
+271,225991,Münster Loddenheide / Beresa,51.940704,7.650529
+272,59293,Münster Loddenheide / Beresa,51.941135,7.650233
+273,245022,Münster Ludgeriplatz,51.955837,7.628161
+274,436800,Münster Ludgeriplatz,51.95585,7.627936
+275,6137,Münster Ludgeriplatz,51.95605,7.626975
+276,111366,Münster Lukaskirche,51.96339,7.597439
+277,242393,Münster Lukaskirche,51.963493,7.597232
+278,20846,Münster MCC Halle Münsterland,51.948875,7.639399
+279,284143,Münster MCC Halle Münsterland,51.94945,7.63895
+280,226744,Münster Markfort,51.914356,7.75839
+281,359591,Münster Markfort,51.914307,7.758372
+282,195767,Münster Martin-Luther-King-Weg,51.936195,7.656988
+283,162926,Münster Meerhook,51.924664,7.536641
+284,456625,Münster Meerhook,51.924595,7.53656
+285,113513,Münster Merkureck,51.914158,7.63294
+286,394522,Münster Merkureck,51.914013,7.63276
+287,201067,Münster Mersmannsstiege,51.930607,7.592992
+288,47600,Münster Mersmannsstiege,51.930084,7.591977
+289,273763,Münster Metzer Straße,51.94223,7.623544
+290,363839,Münster Metzer Straße,51.942505,7.623786
+291,385995,Münster Meyerbeerstraße,51.925392,7.579805
+292,409990,Münster Meyerbeerstraße,51.925236,7.578727
+293,231951,Münster Meßkamp,51.979546,7.612126
+294,74160,Münster Meßkamp,51.979504,7.611902
+295,129998,Münster Middendorf,52.011013,7.526301
+296,53548,Münster Middendorf,52.01047,7.527541
+297,115802,Münster Mondstraße,51.949226,7.676131
+298,56703,Münster Mondstraße,51.949696,7.674721
+299,22108,Münster Möselerhook,51.92501,7.551966
+300,422439,Münster Möselerhook,51.92506,7.551373
+301,206556,Münster Münzstraße,51.966763,7.619825
+302,267665,Münster Münzstraße,51.96665,7.619672
+303,337384,Münster Neutor,51.96672,7.616204
+304,4768,Münster Neutor,51.966747,7.616151
+305,195849,Münster Nieberdingstraße,51.945312,7.645238
+306,204147,Münster Nieberdingstraße,51.94555,7.645507
+307,231555,Münster Niederort,51.905125,7.529535
+308,241897,Münster Niederort,51.905125,7.529445
+309,165068,Münster Nienberge Friedhof,51.997746,7.562656
+310,351705,Münster Nienberge Friedhof,51.997684,7.562952
+311,11341,Münster Nienberge Gewerbegeb,52.002758,7.548498
+312,361917,Münster Nienberge Gewerbegeb,52.00213,7.549945
+313,262559,Münster Nordplatz,51.972076,7.622591
+314,413949,Münster Nordplatz,51.972565,7.622987
+315,240267,Münster Nünningfeld,51.96954,7.562521
+316,261375,Münster Nünningfeld,51.9696,7.562431
+317,169755,Münster Oberschlesier Straße,51.93611,7.609045
+318,34776,Münster Oberschlesier Straße,51.936283,7.608865
+319,360822,Münster Orleans-Ring,51.972713,7.607536
+320,87259,Münster Orleans-Ring,51.97279,7.607706
+321,166464,Münster Otto-Hersing-Weg,51.92089,7.675799
+322,254906,Münster Otto-Hersing-Weg,51.92092,7.675889
+323,186021,Münster P+R Coesfelder Kreuz,51.965015,7.600008
+324,85540,Münster P+R Coesfelder Kreuz,51.964874,7.600098
+325,299540,Münster P+R Preussenstadion,51.931465,7.62676
+326,6941,Münster P+R Preussenstadion,51.93227,7.626643
+327,110764,Münster P+R Weseler Str,51.936317,7.60352
+328,81801,Münster P+R Weseler Str,51.93623,7.603026
+329,114490,Münster Pantaleonstraße,51.954063,7.532041
+330,441884,Münster Pantaleonstraße,51.95415,7.532032
+331,144957,Münster Pastorsesch,51.99907,7.613662
+332,305142,Münster Pastorsesch,51.999542,7.614004
+333,254056,Münster Paul-Engelhard-Weg,51.924873,7.671325
+334,366912,Münster Paul-Engelhard-Weg,51.925903,7.670427
+335,315630,Münster Paulinum,51.95914,7.619052
+336,410028,Münster Paulinum,51.959274,7.61898
+337,270315,Münster Picasso-Museum,51.960506,7.62614
+338,243128,Münster Pienersallee,51.95175,7.530658
+339,65787,Münster Pienersallee,51.951706,7.530829
+340,150790,Münster Pieper,52.012352,7.679572
+341,421151,Münster Pieper,52.01211,7.679769
+342,206612,Münster Piusallee,51.966446,7.63842
+343,394133,Münster Piusallee,51.96636,7.637647
+344,123045,Münster Pleistermühlenweg,51.97352,7.693154
+345,132410,Münster Pleistermühlenweg,51.97358,7.694043
+346,440993,Münster Polizeipräsidium,51.97458,7.617157
+347,23838,Münster Pommernstraße,51.919247,7.677703
+348,71934,Münster Pommernstraße,51.91847,7.678377
+349,208568,Münster Potstiege,51.965733,7.582976
+350,450096,Münster Potstiege,51.965668,7.582688
+351,375155,Münster Provinzial,51.993343,7.620489
+352,39958,Münster Provinzial,51.99328,7.620498
+353,402923,Münster Pulverschuppen,51.969337,7.669313
+354,98344,Münster Pulverschuppen,51.96922,7.668415
+355,188417,Münster Ramertsweg,51.955856,7.568145
+356,288471,Münster Ramertsweg,51.955647,7.5673
+357,158729,Münster Raphaelsklinik,51.95935,7.629482
+358,170334,Münster Rottkamp,51.925056,7.51924
+359,175307,Münster Rottkamp,51.925034,7.519734
+360,235634,Münster Roxel Alte Dorfstraße,51.955315,7.532383
+361,280323,Münster Roxel Alte Dorfstraße,51.954674,7.532401
+362,282113,Münster Roxel Hallenbad,51.954414,7.527289
+363,287917,Münster Roxel Hallenbad,51.953888,7.526669
+364,313745,Münster Roxel Hallenbad,51.953964,7.526562
+365,40247,Münster Roxel Mitte,51.95459,7.536263
+366,439647,Münster Roxel Mitte,51.95486,7.537144
+367,192462,Münster Rumphorstweg,51.977287,7.642372
+368,430337,Münster Rumphorstweg,51.977005,7.641896
+369,118461,Münster Rüschhausweg,51.974033,7.56483
+370,174256,Münster Rüschhausweg,51.972614,7.565351
+371,273574,Münster Rüschhausweg,51.97409,7.564596
+372,253930,Münster Salzmannstr.,51.993183,7.615594
+373,368868,Münster Salzmannstr.,51.993244,7.615585
+374,266127,Münster Schelmenstiege,51.955242,7.541231
+375,375467,Münster Schelmenstiege,51.955063,7.542147
+376,293411,Münster Schlossplatz,51.964554,7.617875
+377,394161,Münster Schmeddingstraße,51.96129,7.589435
+378,90268,Münster Schmeddingstraße,51.961353,7.589471
+379,319491,Münster Schonebeck,51.987717,7.542507
+380,388879,Münster Schonebeck,51.98779,7.542632
+381,380833,Münster Schreiberstraße,51.964912,7.596172
+382,404744,Münster Schreiberstraße,51.965034,7.59522
+383,398225,Münster Servatiiplatz,51.95937,7.635878
+384,415306,Münster Servatiiplatz,51.959225,7.634782
+385,252819,Münster Sibeliusstraße,51.982567,7.645993
+386,406163,Münster Sibeliusstraße,51.98269,7.646118
+387,151968,Münster Siebenbürgenweg,51.93361,7.608048
+388,340814,Münster Siebenbürgenweg,51.934025,7.607931
+389,256224,Münster Sophienstraße,51.95597,7.644304
+390,282413,Münster Sophienstraße,51.956223,7.643423
+391,243823,Münster Sprakel Nord,52.04131,7.622897
+392,55625,Münster Sprakel Nord,52.04116,7.622861
+393,244177,Münster St. Mauritz,51.9708,7.677065
+394,416203,Münster St. Mauritz,51.970535,7.67535
+395,102324,Münster St.-Antonius-Kirche,51.955265,7.621361
+396,441608,Münster St.-Antonius-Kirche,51.955254,7.62181
+397,176540,Münster St.-Gottfried-Kirche,51.931107,7.612458
+398,317359,Münster St.-Gottfried-Kirche,51.930965,7.612396
+399,273109,Münster St.-Joseph-Kirche,51.94936,7.624415
+400,77234,Münster St.-Joseph-Kirche,51.950096,7.62472
+401,124615,Münster St.-Margareta-Kirche,51.951378,7.669672
+402,390916,Münster St.-Margareta-Kirche,51.9512,7.670265
+403,108128,Münster St.-Michael-Kirche,51.967434,7.580011
+404,252088,Münster St.-Michael-Kirche,51.968025,7.57896
+405,189957,Münster St.Franziskus-Hospital,51.96061,7.647601
+406,298851,Münster St.Franziskus-Hospital,51.962135,7.647448
+407,211988,Münster Stadtwerke / Hafen,51.95027,7.637566
+408,294279,Münster Stadtwerke / Hafen,51.95033,7.637683
+409,332084,Münster Stapelskotten,51.947914,7.683255
+410,425488,Münster Stapelskotten,51.947716,7.683758
+411,106365,Münster Stefan-Zweig-Str.,51.991524,7.553268
+412,273523,Münster Stefan-Zweig-Str.,51.99133,7.552038
+413,219019,Münster Steiner See,51.885746,7.64761
+414,303316,Münster Steiner See,51.886078,7.647619
+415,32532,Münster Steinfurter Str,51.968742,7.613096
+416,63787,Münster Steinfurter Str,51.96811,7.614183
+417,183194,Münster Sternstraße,51.95764,7.64018
+418,53586,Münster Sternstraße,51.957684,7.639938
+419,206533,Münster Sudmühlenstraße,51.99884,7.669798
+420,207659,Münster Sudmühlenstraße,51.998596,7.669573
+421,239588,Münster Sültemeyer,51.91724,7.728117
+422,280221,Münster Sültemeyer,51.917843,7.728449
+423,245339,Münster Technologiepark,51.976994,7.600475
+424,279373,Münster Technologiepark,51.97704,7.600655
+425,277985,Münster Telgter Straße / L793,51.9297,7.753781
+426,344649,Münster Telgter Straße / L793,51.92947,7.754177
+427,140278,Münster Tibusstraße,51.965324,7.627056
+428,238596,Münster Tibusstraße,51.9653,7.626876
+429,100689,Münster Tiergartenheide,51.899326,7.734378
+430,61932,Münster Tiergartenheide,51.899155,7.734369
+431,119700,Münster Toppheide,51.975082,7.570381
+432,247117,Münster Toppheide,51.97539,7.569905
+433,277001,Münster Twenteweg,51.97399,7.571387
+434,415308,Münster Twenteweg,51.97335,7.572915
+435,15798,Münster Uhlenbrock,52.03502,7.553924
+436,236156,Münster Uhlenbrock,52.03497,7.553781
+437,48809,Münster Umspannwerk,51.928158,7.587925
+438,50766,Münster Umspannwerk,51.928135,7.588042
+439,449167,Münster Universitätsklinikum,51.961338,7.593082
+440,69182,Münster Universitätsklinikum,51.96179,7.594447
+441,436185,Münster Vagedesweg,51.93834,7.593854
+442,182958,Münster Venne Brücke,51.869595,7.551355
+443,207167,Münster Venne Brücke,51.869812,7.552244
+444,223364,Münster Vennheideweg,51.9213,7.631125
+445,363351,Münster Vennheideweg,51.921036,7.631404
+446,206983,Münster Verth,52.010548,7.727811
+447,273463,Münster Verth,52.010635,7.727802
+448,197652,Münster Vollmer,52.006325,7.558056
+449,213760,Münster Vollmer,52.006207,7.557823
+450,105249,Münster Von-Steuben-Straße,51.954205,7.631377
+451,396629,Münster Von-Steuben-Straße,51.95433,7.63153
+452,154648,Münster Wegegabel,51.964317,7.52507
+453,455427,Münster Wegegabel,51.96313,7.525052
+454,228179,Münster Weisses Kreuz,51.946262,7.493135
+455,380991,Münster Weisses Kreuz,51.94628,7.493072
+456,165733,Münster Weitkampweg,51.972916,7.560284
+457,91721,Münster Weitkampweg,51.97317,7.560536
+458,13354,Münster Werneweg,51.924515,7.604167
+459,388326,Münster Werneweg,51.923492,7.6037
+460,46208,Münster Westfalenstraße,51.917393,7.632168
+461,94654,Münster Westfalenstraße,51.91711,7.632185
+462,383747,Münster Wiedau,51.894047,7.578826
+463,457124,Münster Wiedau,51.89399,7.578691
+464,179816,Münster Wilkinghege Golfplatz,51.98881,7.580523
+465,189660,Münster Wilkinghege Golfplatz,51.986183,7.584889
+466,247137,Münster Willy-Brandt-Weg,51.93829,7.653763
+467,441090,Münster Willy-Brandt-Weg,51.939087,7.652847
+468,245851,Münster Wolbeck Ehrenmal,51.920135,7.72853
+469,54067,Münster Wolbeck Ehrenmal,51.919983,7.728665
+470,432123,Münster Wolbeck Markt,51.91581,7.726014
+471,54346,Münster Wolbeck Markt,51.915947,7.724937
+472,102115,Münster Wolbeck Schulzentrum,51.91604,7.717463
+473,207382,Münster Wolbeck Schulzentrum,51.916164,7.717516
+474,256150,Münster Wolbecker Windmühle,51.929195,7.7212
+475,307925,Münster Wolbecker Windmühle,51.92926,7.721442
+476,23243,Münster Zum Roten Berge,51.89912,7.640863
+477,421547,Münster Zum Roten Berge,51.898907,7.640944
+478,118606,"Senden, Inkmann",51.87608,7.546441

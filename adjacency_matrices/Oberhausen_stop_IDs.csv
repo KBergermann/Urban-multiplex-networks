@@ -1,0 +1,1061 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,222320,- Obermeiderich Bf,51.46796,6.820405
+1,327922,- Obermeiderich Bf,51.46796,6.820405
+2,71392,- Obermeiderich Bf,51.46796,6.820405
+3,199011,Anne-Frank-RS,51.467216,6.851855
+4,399994,Anne-Frank-RS,51.46712,6.851882
+5,45310,Anne-Frank-RS,51.46708,6.851801
+6,61544,Anne-Frank-RS,51.467216,6.851855
+7,66562,Anne-Frank-RS,51.46712,6.851882
+8,298169,Duisburg Biggestraße,51.464855,6.81638
+9,331867,Duisburg Biggestraße,51.464855,6.81638
+10,192757,Duisburg Brunostr.,51.506535,6.820423
+11,72669,Duisburg Brunostr.,51.506535,6.820423
+12,75136,Duisburg Brunostr.,51.506535,6.820423
+13,258358,Duisburg Sassenstr.,51.525425,6.780816
+14,317388,Lebenshilfe Königshardt,51.553608,6.854352
+15,160821,OB Bero-Zentrum,51.475983,6.8428
+16,32538,OB Bero-Zentrum,51.47613,6.841758
+17,351844,OB Bero-Zentrum,51.476048,6.842899
+18,370764,OB Bero-Zentrum,51.475983,6.8428
+19,372619,OB Bero-Zentrum,51.476048,6.842899
+20,43981,OB Bero-Zentrum,51.476048,6.842899
+21,44348,OB Bero-Zentrum,51.47613,6.841758
+22,69318,OB Bero-Zentrum,51.475983,6.8428
+23,71456,OB Bero-Zentrum,51.475983,6.8428
+24,231423,OB Buschhausen Mitte,51.502495,6.831104
+25,246779,OB Buschhausen Mitte,51.502556,6.833017
+26,411687,OB Buschhausen Mitte,51.502476,6.83131
+27,6806,OB Buschhausen Mitte,51.502476,6.83131
+28,74800,OB Buschhausen Mitte,51.502495,6.831104
+29,98787,OB Buschhausen Mitte,51.502316,6.833799
+30,292447,OB E.-Heuss-Knapp-Str.,51.51485,6.862707
+31,325699,OB E.-Heuss-Knapp-Str.,51.51485,6.862707
+32,61928,OB E.-Heuss-Knapp-Str.,51.514973,6.862347
+33,96834,OB E.-Heuss-Knapp-Str.,51.514973,6.862347
+34,363632,OB Freizeitpark Weierheide,51.520927,6.829909
+35,400288,OB Freizeitpark Weierheide,51.520897,6.829855
+36,184181,OB Fröbelplatz,51.46062,6.821537
+37,444316,OB Fröbelplatz,51.46062,6.821537
+38,446850,OB Fröbelplatz,51.460876,6.822139
+39,47906,OB Fröbelplatz,51.46062,6.821537
+40,120359,OB Hbf./Rhein. Industriemuseum,51.47497,6.849627
+41,46109,OB Hbf./Rhein. Industriemuseum,51.47486,6.849331
+42,149908,OB Heinr. Böll GS,51.544334,6.820225
+43,261074,OB Heinr. Böll GS,51.544476,6.820351
+44,80457,OB Heinr. Böll GS,51.544384,6.820315
+45,142885,OB Holten Markt,51.524105,6.788039
+46,294312,OB Holten Markt,51.524414,6.788146
+47,380926,OB Holten Markt,51.524307,6.78803
+48,65565,OB Holten Markt,51.524414,6.788146
+49,187820,OB Johanniter Krankenhaus,51.508755,6.853077
+50,338175,OB Johanniter Krankenhaus,51.509212,6.852726
+51,351791,OB Johanniter Krankenhaus,51.508755,6.853077
+52,361686,OB Johanniter Krankenhaus,51.509212,6.852726
+53,16016,OB Kleekamp/ Fernewaldstr.,51.538197,6.875103
+54,250073,OB Kleekamp/ Fernewaldstr.,51.538204,6.875076
+55,166987,OB Louise-Schroeder- Heim,51.511948,6.893267
+56,206593,OB Louise-Schroeder- Heim,51.511932,6.893222
+57,11859,OB Mercure Hotel,51.486477,6.856544
+58,220025,OB Mercure Hotel,51.48642,6.856607
+59,282644,OB Osterfeld Mitte,51.50144,6.882784
+60,33560,OB Osterfeld Mitte,51.501705,6.882308
+61,211250,OB Rathaus Sterkrade,51.513733,6.850157
+62,262767,OB Rathaus Sterkrade,51.51352,6.849627
+63,279186,OB Rathaus Sterkrade,51.51352,6.849627
+64,397253,OB Rathaus Sterkrade,51.513733,6.850157
+65,56966,OB Rathaus Sterkrade,51.513733,6.850157
+66,355835,OB Revierpark Vonderort,51.508804,6.90331
+67,368702,OB Revierpark Vonderort,51.50893,6.903876
+68,414004,OB Revierpark Vonderort,51.508804,6.90331
+69,390783,OB Schmachtendorf Mitte,51.54224,6.8193
+70,58307,OB Schmachtendorf Mitte,51.54207,6.819156
+71,344690,OB St.-Marien- Hospital,51.502747,6.890869
+72,444563,OB St.-Marien- Hospital,51.502823,6.890842
+73,118392,OB Sterkrade Bf.,51.511578,6.844731
+74,156572,OB Sterkrade Bf.,51.512005,6.844327
+75,169809,OB Sterkrade Bf.,51.511578,6.844731
+76,189629,OB Sterkrade Bf.,51.5115,6.84448
+77,210109,OB Sterkrade Bf.,51.512005,6.844327
+78,256009,OB Sterkrade Bf.,51.512005,6.844327
+79,292242,OB Sterkrade Bf.,51.511578,6.844731
+80,336265,OB Sterkrade Bf.,51.512466,6.844156
+81,355690,OB Sterkrade Bf.,51.511578,6.844731
+82,362232,OB Sterkrade Bf.,51.51201,6.84457
+83,382734,OB Sterkrade Bf.,51.512005,6.844327
+84,389303,OB Sterkrade Bf.,51.511654,6.844399
+85,400334,OB Sterkrade Bf.,51.5115,6.84448
+86,442003,OB Sterkrade Bf.,51.511578,6.844731
+87,66842,OB Sterkrade Bf.,51.511692,6.844219
+88,254330,OB Tackenbergstr.,51.525436,6.872516
+89,320898,OB Tackenbergstr.,51.525883,6.872795
+90,355552,OB Tackenbergstr.,51.525497,6.872453
+91,161413,OB Teutob./ Rothebuschstr.,51.51889,6.888614
+92,199671,OB Teutob./ Rothebuschstr.,51.518867,6.88777
+93,266776,OB Teutob./ Rothebuschstr.,51.51889,6.888614
+94,428961,OB Teutob./ Rothebuschstr.,51.518867,6.88777
+95,267522,OB. Am Leitgraben,51.538944,6.816641
+96,44061,OB. Am Leitgraben,51.538666,6.816542
+97,227773,Oberh. Sterkrade Bf. Westseite,51.51174,6.842252
+98,234692,Oberh. Sterkrade Bf. Westseite,51.51177,6.842189
+99,307993,Oberh. Sterkrade Bf. Westseite,51.51174,6.842252
+100,31475,Oberh. Sterkrade Bf. Westseite,51.51177,6.842189
+101,331506,Oberh. Sterkrade Bf. Westseite,51.51177,6.842189
+102,75339,Oberh. Sterkrade Bf. Westseite,51.51174,6.842252
+103,262289,Oberh.Friedhof Klosterh.,51.52329,6.874151
+104,437039,Oberh.Friedhof Klosterh.,51.5233,6.874151
+105,306844,Oberhausen Akazienstr.,51.460083,6.851262
+106,308701,Oberhausen Akazienstr.,51.460217,6.851424
+107,423842,Oberhausen Akazienstr.,51.460083,6.851262
+108,81978,Oberhausen Akazienstr.,51.460217,6.851424
+109,418817,Oberhausen Alleestr.,51.469727,6.844839
+110,9046,Oberhausen Alleestr.,51.469715,6.844767
+111,205584,Oberhausen Alsbachtal,51.535446,6.852906
+112,322340,Oberhausen Alsbachtal,51.535484,6.852987
+113,126360,Oberhausen Alsenstr.,51.46648,6.863012
+114,430143,Oberhausen Alsenstr.,51.466522,6.863021
+115,36573,Oberhausen Alsfeldstr.,51.531105,6.841192
+116,415357,Oberhausen Alsfeldstr.,51.531082,6.841246
+117,106090,Oberhausen Alstadener Str.,51.466206,6.837096
+118,142062,Oberhausen Alstadener Str.,51.465443,6.837069
+119,168182,Oberhausen Alstadener Str.,51.465977,6.837087
+120,349571,Oberhausen Alstadener Str.,51.466,6.837626
+121,382935,Oberhausen Alstadener Str.,51.465977,6.837087
+122,4857,Oberhausen Alstadener Str.,51.466206,6.835865
+123,198468,Oberhausen Alsterfeld,51.45752,6.831993
+124,293640,Oberhausen Alsterfeld,51.45746,6.831885
+125,150303,Oberhausen Alte Heid,51.477413,6.881383
+126,297184,Oberhausen Alte Heid,51.477413,6.881383
+127,49200,Oberhausen Alte Heid,51.477413,6.881383
+128,175978,Oberhausen Altenberger Str.,51.474346,6.846124
+129,182686,Oberhausen Altenberger Str.,51.474346,6.846124
+130,72085,Oberhausen Altenberger Str.,51.474346,6.846124
+131,171747,Oberhausen Am Dicken Stein,51.52468,6.866039
+132,204225,Oberhausen Am Dicken Stein,51.52529,6.866201
+133,216849,Oberhausen Am Dicken Stein,51.52529,6.866201
+134,278717,Oberhausen Am Dicken Stein,51.52468,6.866039
+135,335629,Oberhausen Am Mühlenbach,51.509075,6.892782
+136,85279,Oberhausen Am Mühlenbach,51.50899,6.8928
+137,124258,Oberhausen Am Sandberg,51.495937,6.824762
+138,155046,Oberhausen Am Sandberg,51.495945,6.824789
+139,256158,Oberhausen Am Sandberg,51.495937,6.824762
+140,379687,Oberhausen Am Sandberg,51.495945,6.824789
+141,270196,Oberhausen Amboßstr.,51.458824,6.830816
+142,82785,Oberhausen Amboßstr.,51.45878,6.830727
+143,384748,Oberhausen Annastr.,51.470184,6.830978
+144,8771,Oberhausen Annastr.,51.470245,6.830906
+145,201471,Oberhausen Anne-Frank-RS,51.46713,6.852511
+146,225957,Oberhausen Anne-Frank-RS,51.467216,6.851855
+147,251461,Oberhausen Anne-Frank-RS,51.467106,6.852843
+148,443836,Oberhausen Anne-Frank-RS,51.467106,6.852843
+149,58306,Oberhausen Anne-Frank-RS,51.467106,6.852843
+150,282790,Oberhausen Antoniestr.,51.515682,6.869246
+151,295026,Oberhausen Antoniestr.,51.515682,6.869246
+152,315048,Oberhausen Antoniestr.,51.515827,6.869399
+153,325796,Oberhausen Antoniestr.,51.515827,6.869399
+154,179348,Oberhausen Aquapark,51.49422,6.888964
+155,251482,Oberhausen Aquapark,51.493412,6.888084
+156,32787,Oberhausen Aquapark,51.493797,6.889009
+157,159937,Oberhausen Arminstr.,51.499493,6.890276
+158,276913,Oberhausen Arminstr.,51.499367,6.890357
+159,351871,Oberhausen Arminstr.,51.4997,6.89068
+160,84712,Oberhausen Arminstr.,51.49964,6.89077
+161,128039,Oberhausen Babcock Werk 1,51.473854,6.831598
+162,16806,Oberhausen Babcock Werk 1,51.473904,6.832164
+163,415197,Oberhausen Babcock Werk 1,51.473854,6.831598
+164,43905,Oberhausen Babcock Werk 1,51.47407,6.8322
+165,65193,Oberhausen Babcock Werk 1,51.47407,6.8322
+166,108909,Oberhausen Bachstr.,51.499817,6.831346
+167,168717,Oberhausen Bachstr.,51.499794,6.831346
+168,197175,Oberhausen Bachstr.,51.499786,6.831292
+169,372288,Oberhausen Bachstr.,51.499817,6.831275
+170,137080,Oberhausen Badenstr.,51.510334,6.834625
+171,177952,Oberhausen Badenstr.,51.510063,6.834158
+172,19454,Oberhausen Badenstr.,51.510334,6.834625
+173,354112,Oberhausen Badenstr.,51.510063,6.834158
+174,412041,Oberhausen Badenstr.,51.510334,6.834625
+175,41550,Oberhausen Badenstr.,51.510063,6.834158
+176,352515,Oberhausen Baumstr.,51.517147,6.894022
+177,48981,Oberhausen Baumstr.,51.517143,6.894067
+178,202034,Oberhausen Bebelstr.,51.470173,6.83785
+179,2579,Oberhausen Bebelstr.,51.46988,6.837042
+180,300906,Oberhausen Bebelstr.,51.469566,6.837572
+181,423840,Oberhausen Bebelstr.,51.46988,6.83803
+182,290630,Oberhausen Beckerstr.,51.473804,6.884167
+183,383682,Oberhausen Beckerstr.,51.47395,6.883592
+184,217793,Oberhausen Beeckstr.,51.50753,6.823073
+185,314168,Oberhausen Beeckstr.,51.50747,6.823118
+186,119874,Oberhausen Beethovenstr.,51.535156,6.861682
+187,309275,Oberhausen Beethovenstr.,51.53522,6.86188
+188,453700,Oberhausen Beethovenstr.,51.53547,6.861997
+189,106960,Oberhausen Bermensfeld,51.475952,6.887051
+190,157910,Oberhausen Bermensfeld,51.475937,6.887069
+191,252729,Oberhausen Bermensfeld,51.475952,6.887051
+192,33224,Oberhausen Bermensfeld,51.475937,6.887069
+193,204610,Oberhausen Bernarduskirche,51.517544,6.857038
+194,348173,Oberhausen Bernarduskirche,51.517544,6.857038
+195,366700,Oberhausen Bernarduskirche,51.517197,6.856014
+196,65290,Oberhausen Bernarduskirche,51.517197,6.856014
+197,124175,Oberhausen Bero-Zentrum-Süd,51.472958,6.843204
+198,272956,Oberhausen Bero-Zentrum-Süd,51.472958,6.843204
+199,358643,Oberhausen Bero-Zentrum-Süd,51.472954,6.84324
+200,24083,Oberhausen Bertha v.S. Gymn.,51.477703,6.870755
+201,311823,Oberhausen Bertha v.S. Gymn.,51.4777,6.870764
+202,444355,Oberhausen Bertha v.S. Gymn.,51.477703,6.870755
+203,84488,Oberhausen Bertha v.S. Gymn.,51.4777,6.870764
+204,248408,Oberhausen Bertholdstr.,51.51367,6.89006
+205,328607,Oberhausen Bertholdstr.,51.51359,6.889979
+206,203337,Oberhausen Biefangstr.,51.514454,6.825166
+207,306433,Oberhausen Biefangstr.,51.514454,6.825094
+208,103470,Oberhausen Blattstr.,51.467678,6.825786
+209,123099,Oberhausen Blattstr.,51.467678,6.825786
+210,389505,Oberhausen Blattstr.,51.467678,6.825786
+211,4238,Oberhausen Blattstr.,51.467678,6.825786
+212,117724,Oberhausen Blockstr.,51.45788,6.821276
+213,234370,Oberhausen Blockstr.,51.457764,6.82133
+214,385403,Oberhausen Blockstr.,51.457764,6.82133
+215,419310,Oberhausen Blockstr.,51.45788,6.821276
+216,185539,Oberhausen Blumenthalstr.,51.4655,6.844246
+217,235638,Oberhausen Blumenthalstr.,51.4655,6.844246
+218,298251,Oberhausen Blumenthalstr.,51.46549,6.844255
+219,416595,Oberhausen Blumenthalstr.,51.46549,6.844255
+220,283477,Oberhausen Blücherplatz,51.466827,6.857685
+221,417766,Oberhausen Blücherplatz,51.466854,6.857838
+222,105015,Oberhausen Blücherstr.,51.465298,6.864297
+223,447186,Oberhausen Blücherstr.,51.465343,6.864171
+224,185877,Oberhausen Bockmühlenstr.,51.51796,6.87266
+225,68845,Oberhausen Bockmühlenstr.,51.51798,6.872687
+226,367258,Oberhausen Breilstr.,51.498753,6.913955
+227,454991,Oberhausen Breilstr.,51.4988,6.913937
+228,352185,Oberhausen Brink Nordschacht,51.553394,6.815922
+229,401494,Oberhausen Brink Nordschacht,51.55338,6.815895
+230,40369,Oberhausen Bromberger Str.,51.53783,6.863488
+231,53257,Oberhausen Bromberger Str.,51.537815,6.86356
+232,245917,Oberhausen Bruchsteg,51.52535,6.789683
+233,407032,Oberhausen Bruchsteg,51.52535,6.789683
+234,197226,Oberhausen Brücktorstr.,51.481358,6.871429
+235,263494,Oberhausen Brücktorstr.,51.481075,6.871232
+236,29067,Oberhausen Brücktorstr.,51.481075,6.871232
+237,415247,Oberhausen Brücktorstr.,51.48117,6.871241
+238,107438,Oberhausen Brüderstr.,51.521004,6.853643
+239,220861,Oberhausen Brüderstr.,51.521004,6.853687
+240,17818,Oberhausen Buchenweg,51.553154,6.845216
+241,303323,Oberhausen Buchenweg,51.552437,6.844614
+242,355336,Oberhausen Buchenweg,51.553104,6.844965
+243,458662,Oberhausen Buchenweg,51.55233,6.844812
+244,3192,Oberhausen Burg Vondern,51.498276,6.907308
+245,75420,Oberhausen Burg Vondern,51.498283,6.907263
+246,252716,Oberhausen Bussardstr.,51.53035,6.864764
+247,373152,Oberhausen Bussardstr.,51.5306,6.864512
+248,145383,Oberhausen Bügelstr.,51.464928,6.862248
+249,424077,Oberhausen Bügelstr.,51.465,6.862195
+250,1690,Oberhausen City Forum,51.469776,6.858943
+251,391921,Oberhausen City Forum,51.469776,6.858943
+252,174669,Oberhausen City Ost,51.469734,6.865572
+253,242097,Oberhausen City Ost,51.46974,6.865518
+254,440610,Oberhausen City Ost,51.46974,6.865518
+255,73820,Oberhausen City Ost,51.469734,6.865572
+256,309433,Oberhausen Concordiaplatz,51.483006,6.830331
+257,356237,Oberhausen Concordiaplatz,51.48305,6.830313
+258,231659,Oberhausen Dieningstr.,51.473183,6.886647
+259,267377,Oberhausen Dieningstr.,51.473167,6.886593
+260,301238,Oberhausen Dieningstr.,51.473167,6.886593
+261,68462,Oberhausen Dieningstr.,51.473183,6.886647
+262,1787,Oberhausen Dienststr.,51.509117,6.819093
+263,5518,Oberhausen Dienststr.,51.50911,6.81903
+264,171389,Oberhausen Dieselstr.,51.46664,6.833466
+265,23023,Oberhausen Dieselstr.,51.466625,6.833457
+266,259815,Oberhausen Dieselstr.,51.46664,6.833466
+267,4091,Oberhausen Dieselstr.,51.466625,6.833457
+268,202939,Oberhausen Dragonerstr.,51.527718,6.852071
+269,347471,Oberhausen Dragonerstr.,51.527794,6.852097
+270,109210,Oberhausen Dreilinden,51.51472,6.85958
+271,123621,Oberhausen Dreilinden,51.51525,6.86011
+272,203079,Oberhausen Dreilinden,51.51525,6.86011
+273,245494,Oberhausen Dreilinden,51.51489,6.859392
+274,307830,Oberhausen Dreilinden,51.51502,6.859931
+275,417902,Oberhausen Dreilinden,51.51502,6.859931
+276,212827,Oberhausen Dümpten,51.472443,6.896753
+277,359583,Oberhausen Dümpten,51.472485,6.896627
+278,396555,Oberhausen Dümpten,51.47214,6.896807
+279,191939,Oberhausen Dümpterkamp,51.466843,6.87761
+280,233315,Oberhausen Dümpterkamp,51.466797,6.877547
+281,250837,Oberhausen Dümpterkamp,51.466797,6.877547
+282,254661,Oberhausen Ebereschenweg,51.547577,6.834508
+283,419557,Oberhausen Ebereschenweg,51.547585,6.834625
+284,142182,Oberhausen Eichsfeldstr.,51.54739,6.822471
+285,244169,Oberhausen Eichsfeldstr.,51.547546,6.82266
+286,410241,Oberhausen Eifeler Str.,51.511955,6.86082
+287,6084,Oberhausen Eifeler Str.,51.511936,6.860793
+288,211414,Oberhausen Einbleckstr.,51.493317,6.91144
+289,372666,Oberhausen Einbleckstr.,51.493378,6.911404
+290,17570,Oberhausen Eisenbahnbrücke,51.48852,6.902313
+291,285525,Oberhausen Eisenbahnbrücke,51.48848,6.90225
+292,166135,Oberhausen Eisenheim,51.50436,6.866488
+293,177002,Oberhausen Eisenheim,51.504345,6.866462
+294,343424,Oberhausen Eisenheim,51.50436,6.866488
+295,34800,Oberhausen Eisenheim,51.504345,6.866462
+296,137371,Oberhausen Elektrostahlwerk,51.489025,6.884347
+297,333588,Oberhausen Elektrostahlwerk,51.48883,6.884455
+298,124965,Oberhausen Elpenbachstr.,51.528706,6.870764
+299,204185,Oberhausen Elpenbachstr.,51.528522,6.869938
+300,413684,Oberhausen Elpenbachstr.,51.528595,6.869992
+301,454890,Oberhausen Elpenbachstr.,51.528706,6.870764
+302,46727,Oberhausen Elpenbachstr.,51.528152,6.870746
+303,63677,Oberhausen Elpenbachstr.,51.528152,6.870746
+304,417966,Oberhausen Emdenstr.,51.512127,6.85066
+305,434093,Oberhausen Emdenstr.,51.512127,6.85066
+306,197603,Oberhausen Emscherbrücke,51.49769,6.916641
+307,20864,Oberhausen Emscherbrücke,51.49768,6.916605
+308,166008,Oberhausen Emschertalbahn,51.500767,6.865536
+309,350751,Oberhausen Emschertalbahn,51.500816,6.865671
+310,82477,Oberhausen Emschertalbahn,51.500816,6.865671
+311,152626,Oberhausen Erlenstr.,51.519226,6.821797
+312,423949,Oberhausen Erlenstr.,51.51921,6.821725
+313,200851,Oberhausen Ev. Krankenhaus,51.473965,6.866228
+314,317597,Oberhausen Ev. Krankenhaus,51.473965,6.866228
+315,426267,Oberhausen Ev. Krankenhaus,51.473946,6.86594
+316,431167,Oberhausen Ev. Krankenhaus,51.473946,6.86594
+317,88840,Oberhausen Everslohstr.,51.547062,6.867611
+318,159936,Oberhausen Fafnerstr.,51.50168,6.827439
+319,198291,Oberhausen Fafnerstr.,51.50168,6.827439
+320,334197,Oberhausen Fafnerstr.,51.50168,6.827457
+321,399373,Oberhausen Fafnerstr.,51.50168,6.827457
+322,113626,Oberhausen Falkestr.,51.548367,6.852205
+323,32334,Oberhausen Falkestr.,51.548183,6.852214
+324,137603,Oberhausen Feldhofstr.,51.52772,6.845064
+325,369552,Oberhausen Feldhofstr.,51.52768,6.845171
+326,258378,Oberhausen Feldmannstr.,51.466072,6.866947
+327,344578,Oberhausen Feldmannstr.,51.466087,6.86692
+328,239529,Oberhausen Fernewaldstr.,51.534798,6.880224
+329,243519,Oberhausen Fernewaldstr.,51.534794,6.88026
+330,31789,Oberhausen Fernewaldstr.,51.534798,6.880224
+331,355474,Oberhausen Fernewaldstr.,51.534794,6.88026
+332,243270,Oberhausen Feuerwache,51.48081,6.864377
+333,39693,Oberhausen Feuerwache,51.48081,6.864377
+334,416840,Oberhausen Feuerwache,51.480816,6.864216
+335,431222,Oberhausen Feuerwache,51.480816,6.864216
+336,448141,Oberhausen Feuerwache,51.48081,6.864377
+337,68318,Oberhausen Feuerwache,51.480816,6.864216
+338,210189,Oberhausen Flachsstr.,51.553707,6.829406
+339,454558,Oberhausen Flachsstr.,51.553707,6.829343
+340,26417,Oberhausen Flockenfeld,51.462288,6.83441
+341,38622,Oberhausen Flockenfeld,51.462322,6.834374
+342,72644,Oberhausen Flurstr.,51.47275,6.886036
+343,116357,Oberhausen Fortstr.,51.563606,6.824447
+344,439438,Oberhausen Fortstr.,51.56354,6.824411
+345,160111,Oberhausen Franzstr.,51.535397,6.813542
+346,25319,Oberhausen Franzstr.,51.535618,6.813883
+347,297409,Oberhausen Franzstr.,51.53545,6.813434
+348,390407,Oberhausen Freitagshof,51.51079,6.872058
+349,420333,Oberhausen Freitagshof,51.510773,6.872031
+350,193844,Oberhausen Friedensdorf,51.55681,6.812697
+351,338295,Oberhausen Friedensdorf,51.55678,6.812715
+352,285798,Oberhausen Friedrich-Karl-Str.,51.46879,6.848693
+353,331060,Oberhausen Friedrich-Karl-Str.,51.46879,6.848693
+354,124262,Oberhausen Friesen-/Beerenstr.,51.507187,6.825939
+355,149791,Oberhausen Friesen-/Beerenstr.,51.50737,6.826478
+356,165983,Oberhausen Friesen-/Beerenstr.,51.507286,6.825813
+357,357558,Oberhausen Friesen-/Beerenstr.,51.50653,6.827079
+358,3765,Oberhausen Friesen-/Beerenstr.,51.50737,6.826478
+359,42621,Oberhausen Friesen-/Beerenstr.,51.507187,6.825939
+360,436923,Oberhausen Friesen-/Beerenstr.,51.507034,6.826684
+361,99375,Oberhausen Friesen-/Beerenstr.,51.50737,6.826478
+362,372795,Oberhausen Fuhlenbrockstr.,51.53326,6.879819
+363,418676,Oberhausen Fuhlenbrockstr.,51.53329,6.879739
+364,279219,Oberhausen GE-WO/Bergstr.,51.505974,6.884859
+365,308419,Oberhausen GE-WO/Bergstr.,51.505974,6.884913
+366,228696,Oberhausen GMVA,51.48516,6.840662
+367,266619,Oberhausen GMVA,51.48541,6.840213
+368,305814,Oberhausen Gabelstr.,51.548977,6.821977
+369,96136,Oberhausen Gabelstr.,51.5489,6.822049
+370,142890,Oberhausen Glasstr.,51.471268,6.826495
+371,22257,Oberhausen Glasstr.,51.471214,6.826531
+372,377709,Oberhausen Glasstr.,51.471268,6.826495
+373,412479,Oberhausen Glasstr.,51.471214,6.826531
+374,363446,Oberhausen Glückauf,51.53245,6.836889
+375,436116,Oberhausen Glückauf,51.53242,6.836808
+376,28353,Oberhausen Glückaufstr.,51.497917,6.89828
+377,50430,Oberhausen Glückaufstr.,51.49793,6.898181
+378,126683,Oberhausen Goerdelerstr.,51.512375,6.806077
+379,173880,Oberhausen Graudenzer Str.,51.532597,6.853876
+380,75236,Oberhausen Graudenzer Str.,51.53264,6.853939
+381,263091,Oberhausen Graßhofstr.,51.545116,6.783808
+382,294820,Oberhausen Graßhofstr.,51.545094,6.783682
+383,375351,Oberhausen Graßhofstr.,51.545116,6.783808
+384,64201,Oberhausen Graßhofstr.,51.545094,6.783682
+385,12265,Oberhausen Grenzwehr,51.54799,6.789144
+386,168533,Oberhausen Grenzwehr,51.547943,6.789108
+387,155445,Oberhausen Grubenstr.,51.529465,6.827008
+388,173191,Oberhausen Grubenstr.,51.52941,6.827016
+389,139871,Oberhausen Gustavstr.,51.47877,6.849223
+390,196878,Oberhausen Gustavstr.,51.47883,6.849313
+391,326779,Oberhausen Gute Str.,51.509666,6.86541
+392,8336,Oberhausen Gute Str.,51.509594,6.865384
+393,128648,Oberhausen H.-Albertz-Str.,51.46689,6.848459
+394,160348,Oberhausen H.-Albertz-Str.,51.46732,6.848666
+395,182633,Oberhausen H.-Albertz-Str.,51.46732,6.848666
+396,183749,Oberhausen H.-Albertz-Str.,51.467487,6.847884
+397,427108,Oberhausen H.-Albertz-Str.,51.467487,6.847884
+398,74750,Oberhausen H.-Albertz-Str.,51.46689,6.848459
+399,286166,Oberhausen Hagedornstr.,51.514435,6.838731
+400,443917,Oberhausen Hagedornstr.,51.514347,6.838722
+401,256965,Oberhausen Hagelkreuz,51.51961,6.846348
+402,309913,Oberhausen Hagelkreuz,51.519737,6.846645
+403,132549,Oberhausen Hagelkreuzstr.,51.490032,6.826891
+404,158571,Oberhausen Hagelkreuzstr.,51.490032,6.826891
+405,159069,Oberhausen Hagelkreuzstr.,51.489502,6.826792
+406,179985,Oberhausen Hagelkreuzstr.,51.489517,6.826594
+407,195611,Oberhausen Hagelkreuzstr.,51.489502,6.826792
+408,253277,Oberhausen Hagelkreuzstr.,51.489815,6.826702
+409,402685,Oberhausen Hagelkreuzstr.,51.489517,6.826594
+410,435820,Oberhausen Hagelkreuzstr.,51.490032,6.826891
+411,448118,Oberhausen Hagelkreuzstr.,51.489815,6.826702
+412,62585,Oberhausen Hagelkreuzstr.,51.489815,6.826702
+413,272621,Oberhausen Haldenstr.,51.451534,6.8352
+414,395049,Oberhausen Haldenstr.,51.451534,6.8352
+415,173520,Oberhausen Hamburger Str.,51.524452,6.857128
+416,261636,Oberhausen Hamburger Str.,51.524307,6.85649
+417,134376,Oberhausen Hans-Sachs-Kolleg,51.473804,6.838766
+418,177001,Oberhausen Hans-Sachs-Kolleg,51.473167,6.838102
+419,363135,Oberhausen Hans-Sachs-Kolleg,51.473328,6.839593
+420,452797,Oberhausen Hans-Sachs-Kolleg,51.473446,6.837868
+421,53531,Oberhausen Hans-Sachs-Kolleg,51.473804,6.838766
+422,382748,Oberhausen Hansastr.,51.481705,6.851325
+423,443871,Oberhausen Hansastr.,51.481647,6.851343
+424,135975,Oberhausen Harkortstr.,51.518204,6.882982
+425,144538,Oberhausen Harkortstr.,51.51751,6.881688
+426,24850,Oberhausen Harkortstr.,51.51829,6.883152
+427,349426,Oberhausen Harkortstr.,51.517773,6.882514
+428,433033,Oberhausen Harkortstr.,51.517773,6.882514
+429,86340,Oberhausen Harkortstr.,51.51751,6.881688
+430,26509,Oberhausen Hartmannschule,51.545956,6.855951
+431,451242,Oberhausen Hartmannschule,51.546032,6.855879
+432,250849,Oberhausen Hasenstr.,51.51657,6.877322
+433,412146,Oberhausen Hasenstr.,51.51661,6.877026
+434,421764,Oberhausen Hasenstr.,51.51661,6.877026
+435,447786,Oberhausen Hasenstr.,51.51657,6.877322
+436,340902,Oberhausen Haus Gottesdank,51.53976,6.864782
+437,396615,Oberhausen Haus Gottesdank,51.5397,6.864809
+438,214583,Oberhausen Haus Ripshorst,51.491623,6.898477
+439,387950,Oberhausen Haus Ripshorst,51.49165,6.898549
+440,121592,Oberhausen Hbf,51.47461,6.85428
+441,129834,Oberhausen Hbf,51.473423,6.853661
+442,134426,Oberhausen Hbf,51.47461,6.85428
+443,1526,Oberhausen Hbf,51.474342,6.854667
+444,164455,Oberhausen Hbf,51.473766,6.853858
+445,210702,Oberhausen Hbf,51.473457,6.853535
+446,216877,Oberhausen Hbf,51.473614,6.853903
+447,218604,Oberhausen Hbf,51.47461,6.85428
+448,219557,Oberhausen Hbf,51.47405,6.854208
+449,238346,Oberhausen Hbf,51.47405,6.854208
+450,239053,Oberhausen Hbf,51.473423,6.853661
+451,248273,Oberhausen Hbf,51.473118,6.85384
+452,249895,Oberhausen Hbf,51.473927,6.854244
+453,25024,Oberhausen Hbf,51.47304,6.853795
+454,252444,Oberhausen Hbf,51.473614,6.853903
+455,26811,Oberhausen Hbf,51.473614,6.853903
+456,277965,Oberhausen Hbf,51.473118,6.85384
+457,286194,Oberhausen Hbf,51.473457,6.853535
+458,302158,Oberhausen Hbf,51.47304,6.853795
+459,341922,Oberhausen Hbf,51.473614,6.853903
+460,404089,Oberhausen Hbf,51.473423,6.853661
+461,40470,Oberhausen Hbf,51.473118,6.85384
+462,438041,Oberhausen Hbf,51.47304,6.853795
+463,459113,Oberhausen Hbf,51.473118,6.85384
+464,4941,Oberhausen Hbf,51.473766,6.853858
+465,96729,Oberhausen Hbf,51.474876,6.851588
+466,268183,Oberhausen Hegerfeldstr.,51.51428,6.828642
+467,95225,Oberhausen Hegerfeldstr.,51.514206,6.828607
+468,180783,Oberhausen Heidekirche,51.507027,6.870172
+469,366988,Oberhausen Heidekirche,51.50704,6.870261
+470,160473,Oberhausen Heidestr.,51.5297,6.884904
+471,343800,Oberhausen Heidestr.,51.52965,6.884922
+472,360364,Oberhausen Heidestr.,51.52994,6.885236
+473,392752,Oberhausen Heidestr.,51.52998,6.885236
+474,230814,Oberhausen Hermannstr.,51.530857,6.792521
+475,91370,Oberhausen Hermannstr.,51.530666,6.792611
+476,362033,Oberhausen Herz-Jesu-Kirche,51.524498,6.849717
+477,380503,Oberhausen Herz-Jesu-Kirche,51.52456,6.849654
+478,109006,Oberhausen Hessenstr.,51.50648,6.835838
+479,220891,Oberhausen Hessenstr.,51.50664,6.835793
+480,252501,Oberhausen Hessenstr.,51.50664,6.835793
+481,430775,Oberhausen Hessenstr.,51.50648,6.835838
+482,136831,Oberhausen Hilgenberg,51.462517,6.863111
+483,14543,Oberhausen Hilgenberg,51.46248,6.863165
+484,187551,Oberhausen Hirsch-Center,51.516434,6.853247
+485,194402,Oberhausen Hirsch-Center,51.516808,6.851648
+486,236831,Oberhausen Hirsch-Center,51.516808,6.851648
+487,296860,Oberhausen Hirsch-Center,51.516434,6.853247
+488,339123,Oberhausen Hirsch-Center,51.516808,6.851648
+489,307015,Oberhausen Hirschkamp,51.55893,6.829397
+490,323835,Oberhausen Hirschkamp,51.559135,6.830125
+491,60753,Oberhausen Hirschkamp,51.559143,6.83008
+492,71367,Oberhausen Hirschkamp,51.558914,6.829397
+493,66563,Oberhausen Hohe Str.,51.54353,6.859976
+494,88104,Oberhausen Hohe Str.,51.543537,6.859913
+495,128338,Oberhausen Holten Bf.,51.53429,6.808808
+496,166991,Oberhausen Holten Bf.,51.53429,6.808808
+497,193772,Oberhausen Holten Bf.,51.5345,6.808502
+498,195391,Oberhausen Holten Bf.,51.534073,6.809877
+499,246400,Oberhausen Holten Bf.,51.533604,6.808628
+500,342440,Oberhausen Holten Bf.,51.53433,6.808358
+501,353417,Oberhausen Holten Bf.,51.53429,6.808808
+502,405577,Oberhausen Holten Bf.,51.53433,6.808358
+503,89034,Oberhausen Holten Bf.,51.53408,6.810173
+504,62093,Oberhausen Holtener Str.,51.522022,6.848316
+505,72655,Oberhausen Holtener Str.,51.52207,6.848244
+506,30568,Oberhausen Holtstegstr.,51.53885,6.786502
+507,320458,Oberhausen Holtstegstr.,51.53886,6.786476
+508,417017,Oberhausen Holtstegstr.,51.53885,6.786502
+509,434573,Oberhausen Holtstegstr.,51.53886,6.786476
+510,296421,Oberhausen Holzstr.,51.530266,6.800777
+511,350019,Oberhausen Holzstr.,51.530235,6.800858
+512,376053,Oberhausen Holzstr.,51.530235,6.800858
+513,428862,Oberhausen Holzstr.,51.530266,6.800777
+514,172739,Oberhausen Hugo-Rasch-Str.,51.48334,6.894965
+515,256164,Oberhausen Hugo-Rasch-Str.,51.483433,6.895127
+516,194444,Oberhausen Höfmannstr.,51.46642,6.874313
+517,381975,Oberhausen Höfmannstr.,51.46642,6.874313
+518,3654,Oberhausen Hügel-/Ziegelstr.,51.51191,6.869004
+519,419694,Oberhausen Hügel-/Ziegelstr.,51.511898,6.869013
+520,219912,Oberhausen Hühnerstr.,51.544403,6.803076
+521,240895,Oberhausen Hühnerstr.,51.544453,6.80304
+522,51460,Oberhausen Hünenbergstr.,51.564823,6.828544
+523,56386,Oberhausen Hünenbergstr.,51.564846,6.828535
+524,363317,Oberhausen Hüttestr.,51.511204,6.863425
+525,9204,Oberhausen Hüttestr.,51.51114,6.863407
+526,241554,Oberhausen Im Lekkerland,51.526394,6.809706
+527,87108,Oberhausen Im Lekkerland,51.52641,6.809688
+528,212229,Oberhausen Im Waldteich,51.52827,6.805664
+529,254720,Oberhausen Im Waldteich,51.528297,6.805708
+530,12132,Oberhausen Jacobistr.,51.5199,6.892926
+531,244473,Oberhausen Jacobistr.,51.519608,6.89192
+532,385490,Oberhausen Jacobistr.,51.519608,6.89192
+533,74963,Oberhausen Jacobistr.,51.5199,6.892926
+534,189235,Oberhausen Jakob-Plum-Str.,51.509937,6.890123
+535,454655,Oberhausen Jakob-Plum-Str.,51.509907,6.890123
+536,124068,Oberhausen Johannesschule,51.471706,6.877125
+537,228890,Oberhausen Johannesschule,51.47175,6.877187
+538,262757,Oberhausen John-Lennon-Platz,51.47813,6.858314
+539,76275,Oberhausen John-Lennon-Platz,51.478085,6.858449
+540,139505,Oberhausen Josefstr.,51.46168,6.851792
+541,172621,Oberhausen Josefstr.,51.46171,6.851774
+542,250621,Oberhausen Josefstr.,51.46171,6.851774
+543,382184,Oberhausen Josefstr.,51.46168,6.851792
+544,226596,Oberhausen Julius-Brecht-Anger,51.54523,6.828759
+545,251627,Oberhausen Julius-Brecht-Anger,51.54526,6.828741
+546,139846,Oberhausen Jägersiedlung,51.535965,6.845486
+547,20775,Oberhausen Jägersiedlung,51.535988,6.845396
+548,263377,Oberhausen Jägerstr.,51.529076,6.832478
+549,46225,Oberhausen Jägerstr.,51.52826,6.833421
+550,340090,Oberhausen Kaisersfeld,51.47068,6.889297
+551,43468,Oberhausen Kaisersfeld,51.47068,6.889297
+552,1881,Oberhausen Kampstr.,51.503265,6.884221
+553,398436,Oberhausen Kampstr.,51.503407,6.884688
+554,423835,Oberhausen Kampstr.,51.503876,6.884033
+555,127942,Oberhausen Kapellenstr.,51.505535,6.873073
+556,176354,Oberhausen Kapellenstr.,51.50551,6.873486
+557,307516,Oberhausen Kapellenstr.,51.505474,6.873522
+558,5399,Oberhausen Kapellenstr.,51.505585,6.872902
+559,309751,Oberhausen Kempkenstr.,51.542614,6.811691
+560,384543,Oberhausen Kempkenstr.,51.54253,6.811745
+561,132200,Oberhausen Kewerstr.,51.454487,6.830861
+562,16275,Oberhausen Kewerstr.,51.454445,6.830852
+563,262080,Oberhausen Kewerstr.,51.454487,6.830861
+564,349905,Oberhausen Kewerstr.,51.454445,6.830852
+565,20081,Oberhausen Kickenbergstr.,51.504066,6.895684
+566,223696,Oberhausen Kickenbergstr.,51.50411,6.89572
+567,245190,Oberhausen Kickenbergstr.,51.504066,6.895684
+568,401199,Oberhausen Kiebitzstr.,51.52092,6.818024
+569,455173,Oberhausen Kiebitzstr.,51.52094,6.817961
+570,164216,Oberhausen Kirchhellener Str.,51.53064,6.855772
+571,181586,Oberhausen Kirchhellener Str.,51.530666,6.855763
+572,388505,Oberhausen Kleekamp,51.540836,6.876972
+573,170286,Oberhausen Klosterhardter Str.,51.519756,6.876163
+574,430298,Oberhausen Klosterhardter Str.,51.5198,6.876298
+575,447985,Oberhausen Klosterhardter Str.,51.519634,6.876415
+576,67354,Oberhausen Klosterhardter Str.,51.519814,6.876262
+577,11381,Oberhausen Knappenmarkt,51.478516,6.881194
+578,195619,Oberhausen Knappenmarkt,51.478622,6.880682
+579,316625,Oberhausen Knappenmarkt,51.478622,6.880682
+580,337604,Oberhausen Knappenmarkt,51.478516,6.881194
+581,414356,Oberhausen Knappenmarkt,51.478622,6.880682
+582,65492,Oberhausen Knappenmarkt,51.478516,6.881194
+583,129516,Oberhausen Kolberger Str.,51.534164,6.841884
+584,458151,Oberhausen Kolberger Str.,51.5341,6.841758
+585,437923,Oberhausen Kolkmannstr.,51.509884,6.812904
+586,55739,Oberhausen Kolkmannstr.,51.509914,6.812931
+587,422094,Oberhausen Koppenburgstr.,51.505543,6.898262
+588,428143,Oberhausen Koppenburgstr.,51.50556,6.898217
+589,165031,Oberhausen Königsberger Str.,51.47696,6.885425
+590,19582,Oberhausen Königsberger Str.,51.4778,6.885802
+591,335353,Oberhausen Königsberger Str.,51.47696,6.885425
+592,358257,Oberhausen Königsberger Str.,51.4778,6.885802
+593,397060,Oberhausen Königsberger Str.,51.47696,6.885425
+594,427953,Oberhausen Königsberger Str.,51.4778,6.885802
+595,33084,Oberhausen Körnerstr.,51.47897,6.873522
+596,419204,Oberhausen Körnerstr.,51.47897,6.873522
+597,433198,Oberhausen Köstersfeld,51.550323,6.825669
+598,50808,Oberhausen Köstersfeld,51.55031,6.82575
+599,34108,Oberhausen Küperstr.,51.517567,6.79156
+600,357336,Oberhausen Küperstr.,51.51746,6.791587
+601,379848,Oberhausen Küppers Hof,51.48911,6.908566
+602,409740,Oberhausen Küppers Hof,51.489082,6.908521
+603,138775,Oberhausen Landwehr,51.45819,6.860964
+604,270091,Oberhausen Landwehrstadion,51.45683,6.843644
+605,342154,Oberhausen Landwehrstadion,51.456814,6.843671
+606,106168,Oberhausen Ledigenheim,51.53105,6.873998
+607,283062,Oberhausen Ledigenheim,51.53098,6.874403
+608,355998,Oberhausen Ledigenheim,51.53105,6.873998
+609,459285,Oberhausen Ledigenheim,51.53098,6.874403
+610,327226,Oberhausen Lickenberg,51.45892,6.82619
+611,443433,Oberhausen Lickenberg,51.458855,6.826262
+612,240836,Oberhausen Lickumstr.,51.556114,6.8314
+613,332876,Oberhausen Lickumstr.,51.556084,6.8314
+614,132592,Oberhausen Liebknechtstr.,51.475517,6.869974
+615,193139,Oberhausen Liebknechtstr.,51.475517,6.869974
+616,207993,Oberhausen Liebknechtstr.,51.47553,6.87001
+617,214690,Oberhausen Liebknechtstr.,51.47553,6.87001
+618,298990,Oberhausen Liebknechtstr.,51.47551,6.87001
+619,207604,Oberhausen Lindenplatz,51.537544,6.80048
+620,58014,Oberhausen Lindenplatz,51.537697,6.800399
+621,64690,Oberhausen Lindenplatz,51.537697,6.800399
+622,72971,Oberhausen Lindenplatz,51.537544,6.80048
+623,238749,Oberhausen Lindermannstr.,51.45841,6.838479
+624,341702,Oberhausen Lindermannstr.,51.458412,6.838389
+625,224102,Oberhausen Lindnerstr.,51.493195,6.839755
+626,276925,Oberhausen Lindnerstr.,51.49348,6.837671
+627,7777,Oberhausen Lindnerstr.,51.492985,6.838048
+628,130005,Oberhausen Lipperfeld,51.484333,6.872678
+629,227128,Oberhausen Lipperfeld,51.48434,6.872714
+630,257756,Oberhausen Lipperfeld,51.484333,6.872678
+631,278464,Oberhausen Lipperfeld,51.484333,6.872678
+632,313300,Oberhausen Lipperfeld,51.48434,6.872714
+633,34825,Oberhausen Lipperfeld,51.48434,6.872714
+634,420067,Oberhausen Lipperheidebaum,51.482437,6.889198
+635,456936,Oberhausen Lipperheidebaum,51.482544,6.888434
+636,250305,Oberhausen Lirich Westfriedhof,51.485714,6.82469
+637,273117,Oberhausen Lirich Westfriedhof,51.485687,6.824645
+638,291122,Oberhausen Lirich Westfriedhof,51.485687,6.824645
+639,361335,Oberhausen Lirich Westfriedhof,51.485714,6.82469
+640,365064,Oberhausen Lirich Westfriedhof,51.485714,6.82469
+641,435125,Oberhausen Lirich Westfriedhof,51.485687,6.824645
+642,146069,Oberhausen Lohstr.,51.470776,6.868779
+643,39735,Oberhausen Lohstr.,51.470787,6.868824
+644,176439,Oberhausen Ludwigshütte,51.52635,6.840168
+645,254523,Oberhausen Ludwigshütte,51.52647,6.840105
+646,122896,Oberhausen Luise-Albertz-Halle,51.471634,6.860434
+647,19552,Oberhausen Luise-Albertz-Halle,51.47171,6.860766
+648,225767,Oberhausen Luise-Albertz-Halle,51.471645,6.860407
+649,342338,Oberhausen Luise-Albertz-Halle,51.47174,6.860407
+650,345610,Oberhausen Luise-Albertz-Halle,51.471645,6.860407
+651,417915,Oberhausen Luise-Albertz-Halle,51.471634,6.860434
+652,176986,Oberhausen Lübecker Str.,51.525097,6.862545
+653,454982,Oberhausen Lübecker Str.,51.525074,6.862527
+654,137891,Oberhausen Lützowstr.,51.52585,6.790769
+655,257332,Oberhausen Lützowstr.,51.52585,6.790769
+656,288976,Oberhausen Lützowstr.,51.52583,6.790563
+657,434686,Oberhausen Lützowstr.,51.52583,6.790563
+658,103314,Oberhausen MAN TURBO,51.506855,6.856769
+659,108691,Oberhausen MAN TURBO,51.506653,6.856841
+660,122053,Oberhausen MAN TURBO,51.50701,6.856176
+661,187962,Oberhausen MAN TURBO,51.506653,6.856841
+662,278985,Oberhausen MAN TURBO,51.50677,6.856715
+663,395524,Oberhausen MAN TURBO,51.50677,6.856715
+664,409025,Oberhausen MAN TURBO,51.50701,6.856176
+665,54442,Oberhausen MAN TURBO,51.506855,6.856769
+666,131532,Oberhausen Marienburgstr.,51.4757,6.88397
+667,403889,Oberhausen Marienburgstr.,51.475723,6.88397
+668,115267,Oberhausen Marienkirche,51.477005,6.863623
+669,143953,Oberhausen Marienkirche,51.47705,6.863722
+670,363764,Oberhausen Marienkirche,51.477005,6.863623
+671,76024,Oberhausen Marienkirche,51.47705,6.863722
+672,359814,Oberhausen Marissen,51.513313,6.804253
+673,421967,Oberhausen Marissen,51.513268,6.804145
+674,109953,Oberhausen Marktstr.,51.468063,6.854882
+675,112925,Oberhausen Marktstr.,51.468338,6.854846
+676,164125,Oberhausen Marktstr.,51.468063,6.854882
+677,207623,Oberhausen Marktstr.,51.468063,6.854882
+678,291339,Oberhausen Marktstr.,51.468338,6.854846
+679,307535,Oberhausen Marktstr.,51.468063,6.854882
+680,372639,Oberhausen Marktstr.,51.468063,6.854882
+681,374654,Oberhausen Marktstr.,51.468338,6.854846
+682,379912,Oberhausen Marktstr.,51.468338,6.854846
+683,415057,Oberhausen Marktstr.,51.468338,6.854846
+684,112267,Oberhausen Markuskirche,51.47141,6.878858
+685,364479,Oberhausen Markuskirche,51.471397,6.878831
+686,276889,Oberhausen Martinstr.,51.538624,6.819758
+687,63656,Oberhausen Martinstr.,51.53863,6.819875
+688,214665,Oberhausen Mathildestr.,51.52218,6.845818
+689,268027,Oberhausen Mathildestr.,51.522243,6.846636
+690,24212,Oberhausen Matzenbergstr.,51.542347,6.863057
+691,403121,Oberhausen Matzenbergstr.,51.542282,6.863093
+692,316578,Oberhausen Max-Eyth-Str.,51.498108,6.837859
+693,362376,Oberhausen Max-Eyth-Str.,51.49807,6.837724
+694,329472,Oberhausen Mergelstr.,51.508526,6.876469
+695,443070,Oberhausen Mergelstr.,51.508533,6.876379
+696,152849,Oberhausen Michaelkirche,51.47528,6.879784
+697,222022,Oberhausen Michaelkirche,51.47527,6.879784
+698,79316,Oberhausen Michelstr.,51.5103,6.884122
+699,217297,Oberhausen Mühlenhof,51.471264,6.892863
+700,381924,Oberhausen Mühlenhof,51.47129,6.893186
+701,245704,Oberhausen Nathlandstr.,51.4772,6.891084
+702,343009,Oberhausen Nathlandstr.,51.477184,6.891084
+703,162859,Oberhausen Neue Mitte,51.48941,6.873819
+704,201213,Oberhausen Neue Mitte,51.488743,6.874591
+705,210137,Oberhausen Neue Mitte,51.488743,6.874591
+706,227650,Oberhausen Neue Mitte,51.488743,6.874591
+707,230599,Oberhausen Neue Mitte,51.48941,6.873891
+708,251005,Oberhausen Neue Mitte,51.488647,6.874555
+709,388139,Oberhausen Neue Mitte,51.48941,6.873891
+710,409216,Oberhausen Neue Mitte,51.488647,6.874555
+711,55820,Oberhausen Neue Mitte,51.48941,6.873891
+712,59865,Oberhausen Neue Mitte,51.488647,6.874555
+713,68244,Oberhausen Neue Mitte,51.48941,6.873819
+714,73644,Oberhausen Neue Mitte,51.48941,6.873819
+715,103169,Oberhausen Neumarkt,51.516796,6.845288
+716,126833,Oberhausen Neumarkt,51.516376,6.84315
+717,269760,Oberhausen Neumarkt,51.516796,6.845288
+718,48976,Oberhausen Neumarkt,51.516796,6.845288
+719,210374,Oberhausen Niederrhein-Kolleg,51.469227,6.881634
+720,285146,Oberhausen Niederrhein-Kolleg,51.46922,6.881652
+721,131684,Oberhausen Nikolaus-Groß-Str.,51.523186,6.87257
+722,369596,Oberhausen Nikolaus-Groß-Str.,51.523144,6.872615
+723,130993,Oberhausen Nohlstr.,51.464684,6.857541
+724,289835,Oberhausen Nohlstr.,51.464626,6.857748
+725,117213,Oberhausen Nordfriedhof,51.540066,6.851585
+726,123508,Oberhausen Nordfriedhof,51.540012,6.851523
+727,16236,Oberhausen Nürnberger Str.,51.507538,6.89625
+728,369939,Oberhausen Nürnberger Str.,51.507538,6.896205
+729,158502,Oberhausen OLGA-Park,51.499687,6.870441
+730,208702,Oberhausen OLGA-Park,51.499687,6.870441
+731,230547,Oberhausen OLGA-Park,51.499847,6.870378
+732,264556,Oberhausen OLGA-Park,51.499687,6.870441
+733,345975,Oberhausen OLGA-Park,51.499847,6.870378
+734,389914,Oberhausen OLGA-Park,51.499847,6.870378
+735,73552,Oberhausen OLGA-Park,51.499657,6.872157
+736,105450,Oberhausen Obere Brüderstr.,51.52231,6.8625
+737,140961,Oberhausen Obere Brüderstr.,51.52235,6.862554
+738,193017,Oberhausen Obere Brüderstr.,51.52231,6.8625
+739,315034,Oberhausen Obere Brüderstr.,51.52235,6.862554
+740,127431,Oberhausen Obere Marktstr.,51.46889,6.863973
+741,44697,Oberhausen Obere Marktstr.,51.468857,6.863973
+742,246937,Oberhausen Ohrenfeld,51.455086,6.838506
+743,287456,Oberhausen Ohrenfeld,51.455055,6.838533
+744,455099,Oberhausen Ohrenfeld,51.45509,6.838766
+745,155651,Oberhausen Oranienstr.,51.5414,6.814198
+746,189426,Oberhausen Oranienstr.,51.54163,6.814359
+747,414347,Oberhausen Oranienstr.,51.541336,6.814341
+748,42988,Oberhausen Oranienstr.,51.541553,6.814224
+749,32250,Oberhausen Osterfeld Süd Bf.,51.50045,6.885488
+750,350367,Oberhausen Osterfeld Süd Bf.,51.50045,6.885488
+751,395579,Oberhausen Osterfeld Süd Bf.,51.50047,6.885263
+752,457520,Oberhausen Osterfeld Süd Bf.,51.50047,6.885263
+753,124760,Oberhausen Ostfriedhof,51.51438,6.884239
+754,219201,Oberhausen Ostfriedhof,51.51489,6.884122
+755,141051,Oberhausen Paul-Reusch-Str.,51.469673,6.851918
+756,435759,Oberhausen Paul-Reusch-Str.,51.469673,6.851918
+757,196737,Oberhausen Pauluskirche,51.476444,6.834913
+758,282694,Oberhausen Pauluskirche,51.47608,6.835775
+759,389613,Oberhausen Pauluskirche,51.475983,6.835775
+760,429232,Oberhausen Pauluskirche,51.476444,6.835065
+761,437568,Oberhausen Pauluskirche,51.47608,6.835775
+762,442538,Oberhausen Pauluskirche,51.475983,6.835775
+763,100211,Oberhausen Pfälzer Hof,51.543163,6.851729
+764,8167,Oberhausen Pfälzer Hof,51.54307,6.851783
+765,271935,Oberhausen Pfälzer Str.,51.544727,6.864
+766,393118,Oberhausen Pfälzer Str.,51.544743,6.863901
+767,278101,Oberhausen Pollsenweg,51.538986,6.811781
+768,9867,Oberhausen Pollsenweg,51.539017,6.811709
+769,177138,Oberhausen Preußenstr.,51.51093,6.839144
+770,211752,Oberhausen Preußenstr.,51.51093,6.839144
+771,238209,Oberhausen Preußenstr.,51.51083,6.838946
+772,279676,Oberhausen Preußenstr.,51.51083,6.838946
+773,433942,Oberhausen Preußenstr.,51.51093,6.839144
+774,44083,Oberhausen Preußenstr.,51.51083,6.838946
+775,434057,Oberhausen Prinzenstr.,51.55079,6.841542
+776,47271,Oberhausen Prinzenstr.,51.550816,6.841596
+777,222343,Oberhausen Rabenstr.,51.53919,6.794488
+778,388899,Oberhausen Rabenstr.,51.539234,6.79448
+779,8973,Oberhausen Rabenstr.,51.53919,6.794488
+780,9367,Oberhausen Rabenstr.,51.539234,6.79448
+781,310816,Oberhausen Rathaus,51.473625,6.862284
+782,334826,Oberhausen Rathaus,51.473534,6.860263
+783,409819,Oberhausen Rathaus,51.473534,6.860263
+784,458597,Oberhausen Rathaus,51.473625,6.862284
+785,256360,Oberhausen Rathenauplatz,51.510952,6.811512
+786,295074,Oberhausen Rathenauplatz,51.510986,6.811628
+787,113469,Oberhausen Rechenacker,51.459534,6.844938
+788,410692,Oberhausen Rechenacker,51.459328,6.844848
+789,2240,Oberhausen Rehmer,51.45973,6.832963
+790,239302,Oberhausen Rehmer,51.459763,6.832891
+791,249746,Oberhausen Rehmer,51.45938,6.833026
+792,442615,Oberhausen Rehmer,51.45931,6.832927
+793,250613,Oberhausen Ripsdörnestr.,51.514477,6.893797
+794,44864,Oberhausen Ripsdörnestr.,51.514492,6.893725
+795,26247,Oberhausen Ripshorster Str.,51.489727,6.911674
+796,364826,Oberhausen Ripshorster Str.,51.489754,6.911719
+797,310833,Oberhausen Rolanddamm,51.463856,6.874223
+798,367754,Oberhausen Rolanddamm,51.463867,6.874286
+799,189686,Oberhausen Rolandschule,51.46818,6.867818
+800,2921,Oberhausen Rolandschule,51.468197,6.867791
+801,155919,Oberhausen Rolandstr.,51.467766,6.872777
+802,59964,Oberhausen Rolandstr.,51.467766,6.872777
+803,391840,Oberhausen Roonstr.,51.467968,6.838308
+804,449411,Oberhausen Roonstr.,51.468006,6.838263
+805,300111,Oberhausen Roßbachstr.,51.513844,6.834481
+806,305890,Oberhausen Roßbachstr.,51.51386,6.834419
+807,13005,Oberhausen Ruhrchemie,51.528896,6.795261
+808,25422,Oberhausen Ruhrchemie,51.528957,6.795162
+809,274069,Oberhausen Ruhrchemie,51.528896,6.795261
+810,32700,Oberhausen Ruhrchemie,51.528957,6.795162
+811,334145,Oberhausen Ruhrchemie,51.529037,6.794264
+812,92071,Oberhausen Ruhrchemie,51.528954,6.794075
+813,123147,Oberhausen Ruhrpark,51.453484,6.832739
+814,275377,Oberhausen Ruhrpark,51.452465,6.832757
+815,326168,Oberhausen Ruhrpark,51.453484,6.832739
+816,373729,Oberhausen Ruhrpark,51.45353,6.832927
+817,419573,Oberhausen Ruhrpark,51.45353,6.832927
+818,427088,Oberhausen Ruhrpark,51.452465,6.832757
+819,162188,Oberhausen Ruprechtstr.,51.467133,6.830152
+820,390017,Oberhausen Ruprechtstr.,51.467133,6.830152
+821,397622,Oberhausen Ruprechtstr.,51.46718,6.830044
+822,64640,Oberhausen Ruprechtstr.,51.46718,6.830044
+823,216168,Oberhausen Röttgenstr.,51.51547,6.798845
+824,92939,Oberhausen Röttgenstr.,51.515526,6.798827
+825,413102,Oberhausen Sanderstr.,51.464924,6.871285
+826,291109,Oberhausen Sandgathe,51.491386,6.917522
+827,6842,Oberhausen Sandgathe,51.491383,6.917594
+828,397681,Oberhausen Schladschule,51.4732,6.880367
+829,6452,Oberhausen Schladschule,51.473038,6.88105
+830,153428,Oberhausen Schloss Oberhausen,51.492416,6.861521
+831,279172,Oberhausen Schloss Oberhausen,51.49314,6.86188
+832,41832,Oberhausen Schloss Oberhausen,51.492577,6.861269
+833,76763,Oberhausen Schloss Oberhausen,51.492577,6.861269
+834,23134,Oberhausen Schlosserstr.,51.467667,6.843285
+835,403403,Oberhausen Schlosserstr.,51.46771,6.8428
+836,217159,Oberhausen Schloßstr.,51.497993,6.903086
+837,299592,Oberhausen Schloßstr.,51.498,6.903086
+838,23140,Oberhausen Schwarzwaldstr.,51.526386,6.877089
+839,39679,Oberhausen Schwarzwaldstr.,51.526443,6.877134
+840,293623,Oberhausen Seilerstr.,51.472977,6.873082
+841,57517,Oberhausen Seilerstr.,51.472958,6.873109
+842,312949,Oberhausen Siebenbürgenstr.,51.479416,6.832604
+843,354655,Oberhausen Siebenbürgenstr.,51.479427,6.832541
+844,384864,Oberhausen Siebenbürgenstr.,51.479416,6.832604
+845,395393,Oberhausen Siebenbürgenstr.,51.479416,6.832604
+846,435294,Oberhausen Siebenbürgenstr.,51.479427,6.832541
+847,81384,Oberhausen Siebenbürgenstr.,51.479427,6.832541
+848,246174,Oberhausen Siegesstr.,51.521374,6.787437
+849,453827,Oberhausen Siegesstr.,51.521454,6.787464
+850,104759,Oberhausen Skagerrakstr.,51.50063,6.823064
+851,173991,Oberhausen Skagerrakstr.,51.50063,6.823064
+852,205262,Oberhausen Skagerrakstr.,51.50067,6.823163
+853,257646,Oberhausen Skagerrakstr.,51.50066,6.823271
+854,292790,Oberhausen Skagerrakstr.,51.50067,6.823163
+855,353902,Oberhausen Skagerrakstr.,51.500645,6.823064
+856,408018,Oberhausen Skagerrakstr.,51.500645,6.823064
+857,435434,Oberhausen Skagerrakstr.,51.50066,6.823271
+858,442932,Oberhausen Spechtstr.,51.537086,6.884015
+859,70680,Oberhausen Spechtstr.,51.537086,6.884015
+860,121818,Oberhausen Sperberstr.,51.52958,6.866138
+861,175564,Oberhausen Sperberstr.,51.529594,6.866228
+862,330278,Oberhausen Sperberstr.,51.5296,6.866183
+863,373277,Oberhausen Sperberstr.,51.52961,6.866264
+864,21941,Oberhausen St.-Antony- Hütte,51.519535,6.87195
+865,437270,Oberhausen St.-Antony- Hütte,51.519535,6.871914
+866,270618,Oberhausen Stadtgrenze Essen,51.481766,6.89395
+867,309478,Oberhausen Stadtgrenze Essen,51.48094,6.894237
+868,321610,Oberhausen Stadtgrenze Essen,51.48175,6.89395
+869,91239,Oberhausen Stadtgrenze Essen,51.480953,6.894175
+870,127653,Oberhausen Stadtwerke,51.496292,6.84192
+871,262437,Oberhausen Steeler Str.,51.47534,6.892234
+872,273828,Oberhausen Steeler Str.,51.47536,6.892234
+873,301658,Oberhausen Steeler Str.,51.47534,6.892234
+874,71102,Oberhausen Steeler Str.,51.47536,6.892234
+875,186633,Oberhausen Stelte,51.45321,6.834985
+876,74714,Oberhausen Stelte,51.45321,6.834985
+877,442246,Oberhausen Stemmerstr.,51.51278,6.86506
+878,6735,Oberhausen Stemmerstr.,51.512825,6.865105
+879,107647,Oberhausen Sterkrade Mitte,51.517143,6.847597
+880,221709,Oberhausen Sterkrade Mitte,51.517143,6.847597
+881,401569,Oberhausen Sterkrade Mitte,51.517143,6.847597
+882,374060,Oberhausen Sternstr.,51.532356,6.8132
+883,455291,Oberhausen Sternstr.,51.532463,6.813138
+884,18484,Oberhausen TZU,51.4875,6.863084
+885,193167,Oberhausen TZU,51.4875,6.863084
+886,32165,Oberhausen TZU,51.48656,6.864333
+887,458742,Oberhausen TZU,51.48656,6.864333
+888,31719,Oberhausen Tackstr.,51.54124,6.785478
+889,349405,Oberhausen Tackstr.,51.541138,6.785487
+890,351087,Oberhausen Tackstr.,51.54124,6.785478
+891,74143,Oberhausen Tackstr.,51.541138,6.785487
+892,271843,Oberhausen Taunusstr.,51.53242,6.876406
+893,291227,Oberhausen Taunusstr.,51.53255,6.876262
+894,44610,Oberhausen Taunusstr.,51.53255,6.876262
+895,61465,Oberhausen Taunusstr.,51.53242,6.876406
+896,113252,Oberhausen Teichfeldstr.,51.454815,6.843914
+897,427039,Oberhausen Teichfeldstr.,51.454693,6.842863
+898,12609,Oberhausen Tenterstr.,51.540585,6.816928
+899,415173,Oberhausen Tenterstr.,51.540543,6.816839
+900,141296,Oberhausen Teutstr.,51.499065,6.883044
+901,339423,Oberhausen Teutstr.,51.499065,6.882928
+902,388867,Oberhausen Th.-Spiering- Platz,51.54658,6.853157
+903,53401,Oberhausen Th.-Spiering- Platz,51.546585,6.853113
+904,112853,Oberhausen Theater,51.47606,6.859374
+905,264450,Oberhausen Theater,51.476097,6.859589
+906,312347,Oberhausen Theater,51.47606,6.859374
+907,427185,Oberhausen Theater,51.476097,6.859589
+908,307178,Oberhausen Tillystr.,51.532078,6.805511
+909,372078,Oberhausen Tillystr.,51.532104,6.805322
+910,395145,Oberhausen Tillystr.,51.532104,6.805322
+911,438624,Oberhausen Tillystr.,51.532078,6.805511
+912,110195,Oberhausen Torgaustr.,51.50863,6.830727
+913,167499,Oberhausen Torgaustr.,51.508568,6.830789
+914,18654,Oberhausen Torgaustr.,51.508568,6.830789
+915,29805,Oberhausen Torgaustr.,51.508568,6.830789
+916,366121,Oberhausen Torgaustr.,51.50863,6.830727
+917,400826,Oberhausen Torgaustr.,51.50863,6.830727
+918,253353,Oberhausen Tulpenstr.,51.47856,6.821519
+919,17810,Oberhausen Turmstr.,51.52116,6.860964
+920,19786,Oberhausen Turmstr.,51.521275,6.861045
+921,21248,Oberhausen Turmstr.,51.52116,6.860964
+922,375420,Oberhausen Turmstr.,51.521275,6.861045
+923,108246,Oberhausen UMSICHT,51.48648,6.878625
+924,228913,Oberhausen UMSICHT,51.48583,6.880305
+925,254431,Oberhausen UMSICHT,51.48552,6.880628
+926,278505,Oberhausen UMSICHT,51.48648,6.878625
+927,40774,Oberhausen UMSICHT,51.48552,6.880628
+928,409200,Oberhausen UMSICHT,51.486946,6.881365
+929,415910,Oberhausen UMSICHT,51.48648,6.878625
+930,433518,Oberhausen UMSICHT,51.48552,6.880628
+931,231705,Oberhausen Uhlandplatz,51.480003,6.876127
+932,281160,Oberhausen Uhlandplatz,51.47998,6.876163
+933,298651,Oberhausen Uhlandplatz,51.47998,6.876163
+934,304932,Oberhausen Uhlandplatz,51.480003,6.876127
+935,428220,Oberhausen Uhlandplatz,51.480003,6.876127
+936,51423,Oberhausen Uhlandplatz,51.47998,6.876163
+937,221821,Oberhausen Uhlandstr.,51.47527,6.875247
+938,26009,Oberhausen Uhlandstr.,51.47522,6.875265
+939,18945,Oberhausen Ulmenstr.,51.48196,6.827313
+940,248239,Oberhausen Ulmenstr.,51.48202,6.827367
+941,287677,Oberhausen Ulmenstr.,51.48196,6.827313
+942,311463,Oberhausen Ulmenstr.,51.48202,6.827367
+943,426655,Oberhausen Ulmenstr.,51.48196,6.827313
+944,79489,Oberhausen Ulmenstr.,51.48202,6.827367
+945,303390,Oberhausen Untere Marktstr.,51.469322,6.847723
+946,444003,Oberhausen Untere Marktstr.,51.469326,6.847516
+947,249327,Oberhausen Veilchenweg,51.479725,6.82345
+948,421787,Oberhausen Venn,51.545353,6.866794
+949,152866,Oberhausen Vincenzhaus,51.465088,6.852699
+950,196623,Oberhausen Vincenzhaus,51.463783,6.852565
+951,280537,Oberhausen Vincenzhaus,51.46448,6.851828
+952,868,Oberhausen Vincenzhaus,51.463783,6.852565
+953,337243,Oberhausen Vogesenstr.,51.520554,6.883601
+954,362923,Oberhausen Vogesenstr.,51.520832,6.883925
+955,457070,Oberhausen Vogesenstr.,51.52063,6.883592
+956,6852,Oberhausen Vogesenstr.,51.520836,6.884006
+957,177401,Oberhausen Von-Ossietzky-Str.,51.51117,6.809338
+958,289969,Oberhausen Von-Ossietzky-Str.,51.5113,6.809176
+959,444053,Oberhausen Waghalsstr.,51.49945,6.886772
+960,457351,Oberhausen Waghalsstr.,51.499493,6.886943
+961,154336,Oberhausen Waldhuckstr.,51.54366,6.806104
+962,190063,Oberhausen Waldhuckstr.,51.543674,6.806256
+963,241611,Oberhausen Waldteichstr.,51.52182,6.825301
+964,453034,Oberhausen Waldteichstr.,51.52195,6.825373
+965,105671,Oberhausen Walsumermarkstr.,51.55564,6.841569
+966,226198,Oberhausen Walsumermarkstr.,51.555653,6.841596
+967,364173,Oberhausen Wehrstr.,51.470654,6.885928
+968,39516,Oberhausen Wehrstr.,51.47082,6.885721
+969,405403,Oberhausen Wehrstr.,51.47059,6.886018
+970,415828,Oberhausen Wehrstr.,51.470654,6.885928
+971,423609,Oberhausen Wehrstr.,51.47059,6.886018
+972,134422,Oberhausen Weidenstr.,51.513584,6.82054
+973,50957,Oberhausen Weidenstr.,51.513702,6.820414
+974,204123,Oberhausen Weierstr.,51.5186,6.829604
+975,309477,Oberhausen Weierstr.,51.5187,6.829631
+976,366441,Oberhausen Weierstr.,51.51866,6.829442
+977,161153,Oberhausen Weilerstr.,51.477367,6.826289
+978,264000,Oberhausen Weilerstr.,51.477413,6.826217
+979,305537,Oberhausen Weißensteinstr,51.5275,6.800022
+980,437841,Oberhausen Weißensteinstr,51.52746,6.800013
+981,265967,Oberhausen Wengestr.,51.52635,6.883826
+982,55420,Oberhausen Wengestr.,51.52578,6.882721
+983,59992,Oberhausen Wengestr.,51.52641,6.8837
+984,93390,Oberhausen Wengestr.,51.52585,6.882775
+985,173263,Oberhausen Westerwaldstr.,51.515797,6.873244
+986,310166,Oberhausen Westerwaldstr.,51.516235,6.87354
+987,335294,Oberhausen Westerwaldstr.,51.515797,6.873244
+988,35164,Oberhausen Westerwaldstr.,51.51596,6.873262
+989,368382,Oberhausen Westerwaldstr.,51.51596,6.873262
+990,45461,Oberhausen Westerwaldstr.,51.51615,6.873612
+991,367626,Oberhausen Westfälische Str.,51.50307,6.887725
+992,453175,Oberhausen Westfälische Str.,51.50305,6.887788
+993,171160,Oberhausen Westmarkstr.,51.494095,6.827987
+994,202263,Oberhausen Westmarkstr.,51.49411,6.827915
+995,209648,Oberhausen Westmarkstr.,51.49411,6.827915
+996,228184,Oberhausen Westmarkstr.,51.49411,6.827915
+997,234471,Oberhausen Westmarkstr.,51.494095,6.827987
+998,30728,Oberhausen Westmarkstr.,51.494095,6.827987
+999,282170,Oberhausen Wickstr.,51.48142,6.834347
+1000,46391,Oberhausen Wickstr.,51.481476,6.834401
+1001,109076,Oberhausen Wilmsstr.,51.480415,6.836018
+1002,122612,Oberhausen Wilmsstr.,51.48028,6.836215
+1003,313759,Oberhausen Wilmsstr.,51.48028,6.836215
+1004,420490,Oberhausen Wilmsstr.,51.480415,6.836018
+1005,76682,Oberhausen Wilmsstr.,51.480415,6.836018
+1006,105652,Oberhausen Wittekindstr.,51.499653,6.880466
+1007,123264,Oberhausen Wittekindstr.,51.499737,6.880493
+1008,316550,Oberhausen Wittekindstr.,51.499653,6.880466
+1009,42016,Oberhausen Wittekindstr.,51.499737,6.880493
+1010,101340,Oberhausen Wolfstr.,51.53074,6.832326
+1011,156881,Oberhausen Wolfstr.,51.53081,6.832209
+1012,202396,Oberhausen Wunderstr.,51.478035,6.828265
+1013,211768,Oberhausen Wunderstr.,51.478035,6.828265
+1014,36619,Oberhausen Wunderstr.,51.478012,6.828202
+1015,405589,Oberhausen Wunderstr.,51.478035,6.828265
+1016,412485,Oberhausen Wunderstr.,51.478012,6.828202
+1017,71981,Oberhausen Wunderstr.,51.478012,6.828202
+1018,280573,Oberhausen Wupperstr.,51.463177,6.818447
+1019,364503,Oberhausen Wupperstr.,51.463177,6.81842
+1020,404634,Oberhausen Wupperstr.,51.463177,6.81842
+1021,413251,Oberhausen Wupperstr.,51.463177,6.818447
+1022,139470,Oberhausen Zeche Alstaden,51.456516,6.82478
+1023,354279,Oberhausen Zeche Alstaden,51.456516,6.82478
+1024,383578,Oberhausen Zeche Alstaden,51.456547,6.824825
+1025,394233,Oberhausen Zeche Alstaden,51.456547,6.824825
+1026,330183,Oberhausen Zeche Oberhausen,51.484028,6.884113
+1027,350887,Oberhausen Zeche Oberhausen,51.48403,6.88406
+1028,185071,Oberhausen Zeche Osterfeld,51.503796,6.877466
+1029,422078,Oberhausen Zeche Osterfeld,51.503773,6.87761
+1030,155891,Oberhausen Zeche Sterkrade,51.517216,6.836458
+1031,209925,Oberhausen Zeche Sterkrade,51.517242,6.836458
+1032,21035,Oberhausen Ziegelei,51.56148,6.818258
+1033,83714,Oberhausen Ziegelei,51.561478,6.818321
+1034,320880,Oberhausen Ziesakplaza,51.48355,6.864216
+1035,321961,Oberhausen Ziesakplaza,51.48353,6.864027
+1036,74691,Oberhausen Ziesakplaza,51.48353,6.864027
+1037,79611,Oberhausen Ziesakplaza,51.48355,6.864216
+1038,15118,Oberhausen Zimmerstr.,51.465607,6.841246
+1039,33052,Oberhausen Zimmerstr.,51.465588,6.841273
+1040,439362,Oberhausen Zimmerstr.,51.465607,6.841246
+1041,89973,Oberhausen Zimmerstr.,51.465588,6.841273
+1042,265248,Oberhausen Zum Eisenhammer,51.482513,6.842809
+1043,374305,Oberhausen Zum Eisenhammer,51.48176,6.843339
+1044,104369,Oberhausen Zweigstr.,51.504154,6.860587
+1045,358534,Oberhausen Zweigstr.,51.5035,6.861449
+1046,43777,Oberhausen Zweigstr.,51.504154,6.860587
+1047,438554,Oberhausen Zweigstr.,51.5035,6.861449
+1048,227550,Oberhausen central train station (bus stop),51.47382,6.851949
+1049,182053,Oberhauser Straße,51.466354,6.817997
+1050,398422,Oberhauser Straße,51.46663,6.818357
+1051,432499,Oberhauser Straße,51.46663,6.818357
+1052,64346,Oberhauser Straße,51.466354,6.817997
+1053,312745,Oberhsn. Flöz-Röttgersb.Str.,51.533665,6.872112
+1054,364387,Oberhsn. Flöz-Röttgersb.Str.,51.533653,6.872085
+1055,2459,Oberhsn. Gewerbegebiet West 2,51.492752,6.842512
+1056,315030,Oberhsn. Gewerbegebiet West 2,51.492683,6.842602
+1057,11382,Oberhsn. Greifswalder Str.,51.52865,6.864404
+1058,278644,Oberhsn. Greifswalder Str.,51.528606,6.864297
+1059,261974,Oberhsn. Marina/Sea Life,51.493313,6.882065

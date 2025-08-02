@@ -1,0 +1,47 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,322047,"Beyendorf Anker, Richtung Dodendorf",52.057487,11.613216
+1,196663,"Beyendorf Anker, Richtung Magdeburg",52.0594,11.613241
+2,211507,"Beyendorf Engel, Richtung Dodendorf",52.068447,11.615592
+3,306115,"Beyendorf Engel, Richtung Magdeburg",52.068447,11.615592
+4,182995,"Magdeburg Freibad Süd, Richtung Calbe/Egeln",52.095257,11.620664
+5,392389,"Magdeburg Freibad Süd, Richtung Zentrum",52.09528,11.62087
+6,226276,Magdeburg Hbf ZOB,52.131355,11.624501
+7,295275,Magdeburg Herrenkrug,52.14545,11.676379
+8,399739,"Magdeburg Hertzstraße, Richtung Calbe/Egeln",52.110474,11.613848
+9,88981,"Magdeburg Hertzstraße, Richtung Zentrum",52.110474,11.613848
+10,198553,Magdeburg SKET Industriepark,52.097546,11.638277
+11,436271,"Magdeburg Siedlung Baumschule, Richtung Egeln",52.06398,11.547831
+12,203782,Magdeburg Südost,52.07019,11.669977
+13,397219,"Magdeburg Universitätsklinikum, Richtung Calbe/Egeln",52.101562,11.620465
+14,305539,"Magdeburg Universitätsklinikum, Richtung Zentrum",52.101562,11.620465
+15,323938,"Magdeburg ZOB Hst. 2, alle Richtungen",52.131298,11.624606
+16,62436,"Magdeburg ZOB, alle Richtungen",52.131298,11.624606
+17,66328,Magdeburg central bus station,52.13118,11.62435
+18,211249,"Magdeburg, Barleber See",52.21,11.667951
+19,111413,"Magdeburg, Enercon",52.19873,11.674941
+20,71870,"Magdeburg, Enercon",52.198593,11.674611
+21,157991,"Magdeburg, Hohenwarther Str.",52.18404,11.669759
+22,400812,"Magdeburg, Hohenwarther Str.",52.184322,11.669966
+23,212118,"Magdeburg, Ind.-u.Log.Centrum",52.204517,11.673826
+24,290472,"Magdeburg, Ind.-u.Log.Centrum",52.20471,11.673998
+25,397921,"Magdeburg, Jerichower Platz",52.13273,11.664599
+26,448168,"Magdeburg, Jerichower Platz",52.13254,11.664442
+27,441815,"Magdeburg, Opernhaus",52.13631,11.639218
+28,457769,"Magdeburg, Opernhaus",52.136257,11.639113
+29,116619,"Magdeburg, Rothensee",52.193615,11.672952
+30,199416,"Magdeburg, Rothensee",52.19398,11.673442
+31,32152,"Magdeburg, S-Bhf. Eichenweiler",52.165768,11.659352
+32,4375,"Magdeburg, S-Bhf. Eichenweiler",52.165516,11.659308
+33,330518,"Magdeburg, S-Bhf. Neustadt Bstg. A",52.14784,11.64104
+34,105296,"Magdeburg, ZOB",52.13161,11.625165
+35,453351,"Magdeburg, ZOB Bstg.1",52.131607,11.625209
+36,319883,"Magdeburg, Zoo",52.162567,11.645304
+37,394512,"Magdeburg, Zoo",52.16253,11.64536
+38,77703,Magdeburg-Buckau,52.109203,11.63004
+39,310245,Magdeburg-Eichenweiler,52.166447,11.657982
+40,195839,Magdeburg-Neustadt,52.14884,11.641703
+41,230169,Magdeburg-Rothensee,52.186756,11.647915
+42,295585,Magdeburg-Salbke,52.080746,11.656447
+43,21312,"Nachtweide, Magdeburg",52.15446,11.643945
+44,183012,"Opernhaus, Magdeburg",52.136692,11.639142
+45,270712,"Stendaler Str., Magdeburg",52.149857,11.654104

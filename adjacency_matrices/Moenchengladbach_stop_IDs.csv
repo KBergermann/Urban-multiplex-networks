@@ -1,0 +1,1197 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,323014,Abzw. Woof/Bau,51.151176,6.322715
+1,114063,Bozener Straße,51.203506,6.4517
+2,435990,Bozener Straße,51.203423,6.451817
+3,244874,Buchholz Wendeplatz,51.119392,6.362354
+4,81948,Buchholz Wendeplatz,51.11937,6.362156
+5,230712,Dahlener Str./Friedhof,51.16625,6.427643
+6,391664,Dahlener Str./Friedhof,51.166527,6.42756
+7,193390,Geneicken Bahnhof,51.169907,6.455558
+8,453385,Geneicken Bahnhof,51.16984,6.456001
+9,128511,Hilderather Straße,51.14677,6.359291
+10,202813,Hilderather Straße,51.147205,6.359273
+11,398723,Hilderather Straße,51.14694,6.35956
+12,437989,Hilderather Straße,51.147243,6.358931
+13,51280,Hilderather Straße,51.14698,6.359102
+14,363954,Jüchen Roggenweg,51.131863,6.468184
+15,277491,Kabelwerk,51.175606,6.455843
+16,430243,Kabelwerk,51.175148,6.455739
+17,124120,MG - Bismarckplatz,51.194206,6.443496
+18,457195,MG - Bismarckplatz,51.19425,6.443768
+19,187767,MG - Fliethstr.,51.19188,6.442643
+20,89775,MG - Fliethstr.,51.190464,6.442043
+21,410902,MG Flughafen Terminal,51.228104,6.502626
+22,16858,MG Hbf /Europaplatz,51.19741,6.444622
+23,263806,MG Hbf /Europaplatz,51.197266,6.444963
+24,289209,MG Hbf /Europaplatz,51.19753,6.444828
+25,29765,MG Hbf /Europaplatz,51.19715,6.444316
+26,298105,MG Hbf /Europaplatz,51.19746,6.44472
+27,310342,MG Hbf /Europaplatz,51.19735,6.44525
+28,327971,MG Hbf /Europaplatz,51.1971,6.444819
+29,355350,MG Hbf /Europaplatz,51.19759,6.444936
+30,362744,MG Hbf /Europaplatz,51.197258,6.444496
+31,412686,MG Hbf /Europaplatz,51.197075,6.444217
+32,417673,MG Hbf /Europaplatz,51.197197,6.444424
+33,75662,MG Hbf /Europaplatz,51.19715,6.444316
+34,84408,MG Hbf /Europaplatz,51.196983,6.444487
+35,1008,MG Neuwerk Verw.-Stelle,51.22427,6.468589
+36,135711,MG Neuwerk Verw.-Stelle,51.22459,6.468598
+37,179391,MG Neuwerk Verw.-Stelle,51.224457,6.468526
+38,43045,MG Neuwerk Verw.-Stelle,51.22454,6.468337
+39,124883,MG Odenkirchen Bf,51.136936,6.446373
+40,146172,MG Odenkirchen Bf,51.13697,6.44631
+41,283009,MG Odenkirchen Bf,51.13716,6.446391
+42,141664,MG Parkstraße,51.19734,6.43041
+43,297719,MG Parkstraße,51.197563,6.430743
+44,323629,MG Regiopark 1,51.112484,6.437759
+45,417303,MG Regiopark 1,51.113144,6.438513
+46,35221,MG Regiopark 2,51.11,6.43916
+47,412879,MG Regiopark 2,51.110188,6.438711
+48,276373,MG Rheindahlen Friedhof,51.15902,6.351727
+49,120251,MG Rheydt Hbf,51.16319,6.441316
+50,214953,MG Rheydt Hbf,51.162632,6.441253
+51,254557,MG Rheydt Hbf,51.16282,6.441451
+52,306373,MG Rheydt Hbf,51.162605,6.441037
+53,379169,MG Rheydt Hbf,51.163044,6.441504
+54,56355,MG Rheydt Hbf,51.16302,6.440957
+55,5816,MG Rheydt Hbf,51.16274,6.440858
+56,79822,MG Rheydt Hbf,51.162727,6.440615
+57,395513,"MG, Erkelenzer Straße",51.14333,6.351251
+58,47973,"MG, Erkelenzer Straße",51.14352,6.351341
+59,18720,"MG, Theater im Nordpark",51.180943,6.387767
+60,196636,MG-Hauptbahnhof/Europaplatz,51.197716,6.444659
+61,68119,MG-Hauptbahnhof/Europaplatz,51.197716,6.444659
+62,152858,Monforts Quartier,51.18227,6.450374
+63,178689,Monforts Quartier,51.18225,6.45056
+64,153207,Mön. Clemens-August-Str.,51.140675,6.460827
+65,284315,Mönch. Elisabeth-Krankenhaus,51.15873,6.421122
+66,404562,Mönch. Elisabeth-Krankenhaus,51.158203,6.421652
+67,65987,Mönchen Reinh.-Schneider-Weg,51.2009,6.382809
+68,320780,Möncheng Bahn-/Monschauer Str.,51.18287,6.413648
+69,456362,Möncheng Bahn-/Monschauer Str.,51.182655,6.413288
+70,105336,Möncheng Hanns-M.Schleyer-Str1,51.11891,6.439025
+71,311422,Möncheng Hanns-M.Schleyer-Str1,51.11897,6.438414
+72,263645,Möncheng Hanns-M.Schleyer-Str2,51.116665,6.442987
+73,430542,Möncheng Hanns-M.Schleyer-Str2,51.115894,6.442627
+74,192719,Möncheng Odenkirchen Gymnasium,51.1401,6.454835
+75,294437,Möncheng Odenkirchen Gymnasium,51.13979,6.454782
+76,100556,Möncheng OdenkirchenTiergarten,51.137478,6.453632
+77,106800,Möncheng OdenkirchenTiergarten,51.137093,6.45356
+78,162377,Möncheng Puffkohlen Sportplatz,51.16295,6.486214
+79,229079,Möncheng Trimpelshütter Straße,51.15469,6.476054
+80,88036,Möncheng Trimpelshütter Straße,51.154575,6.476045
+81,203492,Mönchengl Als-/Zeppelinstraße,51.209866,6.461223
+82,289208,Mönchengl Als-/Zeppelinstraße,51.209816,6.461097
+83,276981,Mönchengl Alsstr. Unterführung,51.206688,6.455357
+84,447577,Mönchengl Alsstr. Unterführung,51.206703,6.455383
+85,100105,Mönchengl Am Emil-Esser-Platz,51.103928,6.360809
+86,111442,Mönchengl Am Emil-Esser-Platz,51.103825,6.360611
+87,207598,Mönchengl Anton-Kreitz-Straße,51.190487,6.451458
+88,192103,Mönchengl Auf der Steinbrücke,51.099167,6.414286
+89,384368,Mönchengl Auf der Steinbrücke,51.099037,6.414187
+90,309704,Mönchengl Bebericher Straße,51.203945,6.420628
+91,57984,Mönchengl Bebericher Straße,51.204132,6.42087
+92,111268,Mönchengl Belgrader Str,51.178055,6.392942
+93,12774,Mönchengl Belgrader Str,51.17797,6.392528
+94,28217,Mönchengl Beller Mühle Sportpl,51.141205,6.450173
+95,422048,Mönchengl Beller Mühle Sportpl,51.141087,6.450182
+96,208514,Mönchengl Bertolt-Brecht-Platz,51.201103,6.385396
+97,278193,Mönchengl Bertolt-Brecht-Platz,51.201485,6.384794
+98,124295,Mönchengl Bettrath Kirche,51.22383,6.44941
+99,38139,Mönchengl Bettrath Kirche,51.223873,6.449589
+100,148493,Mönchengl Bleichgrabenstraße,51.206337,6.41592
+101,376692,Mönchengl Bleichgrabenstraße,51.20624,6.41566
+102,329046,Mönchengl Brandenberger Straße,51.182613,6.440543
+103,382490,Mönchengl Brandenberger Straße,51.1826,6.4404
+104,178704,Mönchengl Broichmühlenweg,51.228664,6.480707
+105,140228,Mönchengl Corresburger Weg,51.155884,6.518715
+106,269347,Mönchengl Corresburger Weg,51.156475,6.518517
+107,434719,Mönchengl Dahlener Str.Friedh.,51.166203,6.427635
+108,82804,Mönchengl Dahlener Str.Friedh.,51.166523,6.427275
+109,29482,Mönchengl Dorfbroicher Straße,51.167953,6.450919
+110,323306,Mönchengl Dorfbroicher Straße,51.169178,6.45223
+111,385496,Mönchengl Flughafen Halle 6,51.229034,6.499733
+112,56749,Mönchengl Flughafen Halle 6,51.229218,6.499365
+113,30147,Mönchengl Franziskanerstraße,51.202465,6.427006
+114,343392,Mönchengl Franziskanerstraße,51.20232,6.427122
+115,244784,Mönchengl Gabelsbergerstraße,51.18856,6.459938
+116,70847,Mönchengl Gabelsbergerstraße,51.188545,6.45983
+117,276129,Mönchengl Genhülsen Kapelle,51.15472,6.394514
+118,61875,Mönchengl Genhülsen Kapelle,51.154774,6.394253
+119,314686,Mönchengl Genhülsen Trafo,51.156113,6.388522
+120,410042,Mönchengl Genhülsen Trafo,51.15638,6.389258
+121,103,Mönchengl Gerkerather Mühle,51.157597,6.357764
+122,80759,Mönchengl Gerkerather Mühle,51.157787,6.35779
+123,298004,Mönchengl Giesenk. Friedhof,51.15976,6.493203
+124,407368,Mönchengl Giesenk. Friedhof,51.159904,6.493355
+125,176721,Mönchengl Giesenkirchener Str.,51.151672,6.454449
+126,227664,Mönchengl Giesenkirchener Str.,51.150654,6.455294
+127,253528,Mönchengl Giesenkirchener Str.,51.15081,6.457468
+128,119649,Mönchengl Graf-Haeseler-Straße,51.221764,6.448152
+129,97031,Mönchengl Graf-Haeseler-Straße,51.22211,6.44817
+130,362042,Mönchengl Grevenbroicher Str.,51.184807,6.456174
+131,94677,Mönchengl Grevenbroicher Str.,51.18476,6.45621
+132,18668,Mönchengl Güdderath Kreuz,51.126575,6.43934
+133,325779,Mönchengl Güdderath Kreuz,51.126705,6.43942
+134,250793,Mönchengl Güdderath Schule,51.12831,6.439555
+135,40845,Mönchengl Güdderath Schule,51.128113,6.439214
+136,370271,Mönchengl Günhoven Denkmal,51.14436,6.386339
+137,448225,Mönchengl Günhoven Denkmal,51.144276,6.386474
+138,313525,Mönchengl Hardt Verwaltungsst.,51.202934,6.34516
+139,433151,Mönchengl Hardt Verwaltungsst.,51.202774,6.34534
+140,73030,Mönchengl Hehnerh. Kahle Heide,51.182755,6.399517
+141,341240,Mönchengl Helenastraße,51.145515,6.362111
+142,357192,Mönchengl Helenastraße,51.145763,6.363414
+143,373146,Mönchengl Hermann-Löns-Straße,51.170006,6.460387
+144,435285,Mönchengl Hermann-Löns-Straße,51.169865,6.460854
+145,338277,Mönchengl Hochneukircher Weg,51.110714,6.418292
+146,351702,Mönchengl Hochneukircher Weg,51.110424,6.418337
+147,452702,Mönchengl Hugo-Junkers-Gymnas.,51.170376,6.444334
+148,61280,Mönchengl Hugo-Junkers-Gymnas.,51.170483,6.444289
+149,55825,Mönchengl Josef-Drauschke-Str.,51.18111,6.400784
+150,237423,Mönchengl Kaiser-Friedr.-Halle,51.198605,6.438612
+151,26607,Mönchengl Kaiser-Friedr.-Halle,51.198605,6.438612
+152,342794,Mönchengl Kaiser-Friedr.-Halle,51.19934,6.438163
+153,67052,Mönchengl Kaiser-Friedr.-Halle,51.19934,6.438163
+154,248179,Mönchengl Klosterhofweg 1,51.121716,6.44296
+155,405872,Mönchengl Klosterhofweg 1,51.121117,6.443822
+156,144238,Mönchengl Klosterhofweg 2,51.12089,6.449095
+157,219673,Mönchengl Klosterhofweg 2,51.121033,6.44941
+158,240420,Mönchengl Konrad-Bäumer-Straße,51.122025,6.40488
+159,427710,Mönchengl Konrad-Bäumer-Straße,51.122086,6.405195
+160,220204,Mönchengl Krankenhaus Bethesda,51.199284,6.428452
+161,41157,Mönchengl Krankenhaus Bethesda,51.199364,6.428236
+162,129948,Mönchengl Liebfrauenstraße,51.22171,6.470242
+163,17307,Mönchengl Liebfrauenstraße,51.22147,6.4707
+164,22906,Mönchengl Liebfrauenstraße,51.22179,6.470888
+165,423319,Mönchengl Liebfrauenstraße,51.22196,6.470673
+166,378479,Mönchengl Lüpertzender Straße,51.191414,6.436097
+167,98916,Mönchengl Lüpertzender Straße,51.19148,6.43642
+168,239664,Mönchengl Marie-Bernays-Ring,51.120693,6.432243
+169,73462,Mönchengl Marie-Bernays-Ring,51.12075,6.431902
+170,124921,Mönchengl Marie-Juchacz-Str.,51.12352,6.434013
+171,31821,Mönchengl Marie-Juchacz-Str.,51.12331,6.433294
+172,234338,Mönchengl Math.-Nat.-Gymnasium,51.18933,6.436761
+173,64923,Mönchengl Math.-Nat.-Gymnasium,51.188263,6.437237
+174,275780,Mönchengl Maurus-Ahn-Straße,51.196964,6.454566
+175,338296,Mönchengl Maurus-Ahn-Straße,51.196842,6.454243
+176,170726,Mönchengl Mennrathschmidt,51.14166,6.386869
+177,77375,Mönchengl Mennrathschmidt,51.14144,6.386806
+178,244863,Mönchengl Monschauer Straße,51.18385,6.412228
+179,348662,Mönchengl Monschauer Straße,51.18403,6.412453
+180,160566,Mönchengl Neersbroicher Straße,51.226486,6.476799
+181,381731,Mönchengl Neersbroicher Straße,51.226788,6.476853
+182,409604,Mönchengl Neuwerk Schulzentrum,51.220676,6.468283
+183,431774,Mönchengl Neuwerk Schulzentrum,51.22076,6.468472
+184,156043,Mönchengl Nievelsteinstr.,51.125153,6.438558
+185,79395,Mönchengl Nievelsteinstr.,51.12377,6.439681
+186,126912,Mönchengl Nordpark Impfzentrum,51.179012,6.392456
+187,417825,Mönchengl Oppelner Str. 1,51.123016,6.444352
+188,163434,Mönchengl Pescher-/Reyerh.Str.,51.19472,6.45806
+189,370111,Mönchengl Pescher-/Reyerh.Str.,51.194748,6.458051
+190,146366,Mönchengl Rhdl. Umgehungsstr.,51.14732,6.370466
+191,325835,Mönchengl Rhdl. Umgehungsstr.,51.147182,6.36981
+192,294806,Mönchengl Robert-Koch-Straße,51.200924,6.461483
+193,54848,Mönchengl Robert-Koch-Straße,51.20089,6.461366
+194,394908,Mönchengl Stefan-Zweig-Weg,51.200153,6.379745
+195,417411,Mönchengl Stoltenhoffstraße,51.130856,6.459094
+196,443730,Mönchengl Stoltenhoffstraße,51.130894,6.459094
+197,355984,Mönchengl Thomas-Mann-Str.,51.19892,6.382907
+198,120382,Mönchengl Trabrennbahn Tribüne,51.230213,6.489421
+199,19166,Mönchengl Trabrennbahn Tribüne,51.23024,6.489501
+200,117141,Mönchengl Volksgarten Restaur.,51.19149,6.462974
+201,255316,Mönchengl Volksgarten Restaur.,51.191437,6.462103
+202,259435,Mönchengl Waldnieler Straße,51.193058,6.425254
+203,388365,Mönchengl Waldnieler Straße,51.192547,6.425362
+204,48948,Mönchengl Waldnieler Straße,51.192165,6.42697
+205,6138,Mönchengl Waldnieler Straße,51.19378,6.425335
+206,160223,Mönchengl Watelerstr. Friedhof,51.171246,6.424311
+207,179913,Mönchengl Watelerstr. Friedhof,51.17128,6.42414
+208,328922,Mönchengl Wetschewell Hoven,51.13257,6.435594
+209,77950,Mönchengl Wetschewell Hoven,51.13246,6.435261
+210,308042,Mönchengl Wickrathberg Kirche,51.112106,6.4161
+211,380255,Mönchengl Wickrathberg Kirche,51.112167,6.416028
+212,30235,Mönchengl Wickrathhahn Denkmal,51.12266,6.389726
+213,399863,Mönchengl Wickrathhahn Denkmal,51.12274,6.389465
+214,114958,Mönchengl Windberger Allee,51.206146,6.420556
+215,410105,Mönchengl Windberger Allee,51.206394,6.420286
+216,315535,Mönchengl Ückelhofer Straße,51.18489,6.447442
+217,74645,Mönchengl Ückelhofer Straße,51.1848,6.446571
+218,27549,Mönchengl. Abzw. Buchholz,51.122574,6.387058
+219,64735,Mönchengl. Abzw. Buchholz,51.12269,6.387049
+220,198879,Mönchengl. Abzw. Genhülsen,51.152287,6.401817
+221,416188,Mönchengl. Abzw. Genhülsen,51.152344,6.401772
+222,19507,Mönchengl. Abzw. Schriefers,51.139164,6.344972
+223,24545,Mönchengl. Abzw. Schriefers,51.138954,6.344963
+224,373018,Mönchengl. Abzw. Schriefers,51.13891,6.344594
+225,138276,Mönchengl. Adolf-Kempken-Weg,51.139088,6.410261
+226,337585,Mönchengl. Adolf-Kempken-Weg,51.138992,6.410315
+227,442112,Mönchengl. Am Brückensteg,51.199837,6.483932
+228,454525,Mönchengl. Am Hommelsbach,51.22587,6.459462
+229,255683,Mönchengl. Am Hülserhof,51.20341,6.480357
+230,64260,Mönchengl. Am Hülserhof,51.20334,6.480545
+231,222825,Mönchengl. Am Klingelsberg,51.125843,6.409866
+232,379017,Mönchengl. Am Klingelsberg,51.12594,6.409974
+233,139204,Mönchengl. Am Nordkanal,51.2353,6.486124
+234,177355,Mönchengl. Am Nordkanal,51.235363,6.484201
+235,387942,Mönchengl. Am Sebastianspfad,51.123146,6.391926
+236,76629,Mönchengl. Am Sebastianspfad,51.1233,6.392259
+237,172293,Mönchengl. Am Sternenfeld,51.157555,6.482602
+238,192474,Mönchengl. Am Sternenfeld,51.157555,6.482602
+239,265109,Mönchengl. Am Sternenfeld,51.157307,6.482935
+240,370032,Mönchengl. Am Sternenfeld,51.15737,6.483177
+241,403077,Mönchengl. Am Sternenfeld,51.157307,6.482935
+242,413064,Mönchengl. Am Sternenfeld,51.15772,6.483177
+243,195276,Mönchengl. An der Holter Heide,51.184692,6.4002
+244,300536,Mönchengl. An der Holter Heide,51.184845,6.400029
+245,429150,Mönchengl. An der Holter Heide,51.18482,6.400487
+246,333313,Mönchengl. Beckrath Ortsmitte,51.11003,6.386824
+247,339819,Mönchengl. Beckrath Ortsmitte,51.11016,6.387112
+248,449935,Mönchengl. Beckrath Schule,51.106815,6.37758
+249,46205,Mönchengl. Beckrath Schule,51.1068,6.377994
+250,155097,Mönchengl. Beckrather Dorfstr.,51.108604,6.383931
+251,385628,Mönchengl. Beckrather Dorfstr.,51.10878,6.384255
+252,256932,Mönchengl. Bendhütter Straße,51.21753,6.469253
+253,349396,Mönchengl. Bendhütter Straße,51.217667,6.469316
+254,124599,Mönchengl. Bonnenbroich Spark.,51.181675,6.460639
+255,201666,Mönchengl. Bonnenbroich Spark.,51.1814,6.460109
+256,347998,Mönchengl. Bonnenbroich Spark.,51.181393,6.460387
+257,51945,Mönchengl. Bonnenbroich Spark.,51.181664,6.460773
+258,204513,Mönchengl. Bonnenbroicher Str.,51.179035,6.462516
+259,57040,Mönchengl. Bonnenbroicher Str.,51.178894,6.462633
+260,139654,Mönchengl. Broich Kapellchen,51.15813,6.339725
+261,4785,Mönchengl. Broich Kapellchen,51.158165,6.339528
+262,277342,Mönchengl. Buchholz Kirche,51.11804,6.357826
+263,50593,Mönchengl. Buchholz Kirche,51.118088,6.357952
+264,248935,Mönchengl. Buchholz Kreuzung,51.114006,6.352877
+265,425105,Mönchengl. Buchholz Kreuzung,51.11385,6.353011
+266,171855,Mönchengl. Burggrafenstraße,51.194378,6.4207
+267,63661,Mönchengl. Burggrafenstraße,51.194107,6.421212
+268,10734,Mönchengl. Dahl Wasserwerk,51.180904,6.427257
+269,279292,Mönchengl. Dahl Wasserwerk,51.180717,6.42706
+270,331625,Mönchengl. Donk Wendeplatz,51.23735,6.462265
+271,15899,Mönchengl. Duvenstraße,51.14793,6.450092
+272,222846,Mönchengl. Duvenstraße,51.147724,6.450101
+273,177721,Mönchengl. Flughafen RAS,51.228115,6.49552
+274,233807,Mönchengl. Flughafen RAS,51.22813,6.495951
+275,250501,Mönchengl. Franziskuskirche,51.173355,6.462866
+276,83529,Mönchengl. Franziskuskirche,51.1734,6.462974
+277,278822,Mönchengl. Freiligrathstraße,51.17158,6.45851
+278,326162,Mönchengl. Freiligrathstraße,51.17153,6.458375
+279,451042,Mönchengl. Galeria Kaufhof,51.1956,6.441451
+280,273180,Mönchengl. Geistenbeck Spark.,51.14898,6.439483
+281,302999,Mönchengl. Geistenbeck Spark.,51.149296,6.439636
+282,457087,Mönchengl. Geistenbeck Spark.,51.149036,6.439914
+283,82779,Mönchengl. Geistenbeck Spark.,51.148544,6.439753
+284,283402,Mönchengl. Geistenbecker Str.,51.148,6.445655
+285,324216,Mönchengl. Geistenbecker Str.,51.148125,6.445619
+286,275518,Mönchengl. Gerkerather Weg,51.15433,6.357341
+287,95576,Mönchengl. Gerkerather Weg,51.15429,6.357404
+288,39960,Mönchengl. Gerkerathwinkel,51.16902,6.352553
+289,453910,Mönchengl. Gerkerathwinkel,51.168903,6.352787
+290,146715,Mönchengl. Geusenstraße,51.14886,6.3676
+291,350121,Mönchengl. Geusenstraße,51.148773,6.367825
+292,136212,Mönchengl. Giesenk. Altenheim,51.154858,6.495089
+293,334397,Mönchengl. Giesenk. Altenheim,51.15479,6.495565
+294,50947,Mönchengl. Giesenk. Altenheim,51.154858,6.495089
+295,5577,Mönchengl. Giesenk. Altenheim,51.15479,6.495565
+296,180106,Mönchengl. Grenzlandstadion,51.174023,6.451655
+297,353121,Mönchengl. Grenzlandstadion,51.174,6.451413
+298,316971,Mönchengl. Hamburgring 1,51.143948,6.34896
+299,61536,Mönchengl. Hamburgring 2,51.149605,6.351619
+300,224487,Mönchengl. Hamburgring 3,51.147797,6.352454
+301,278228,Mönchengl. Hardt Gewerbegebiet,51.20977,6.338396
+302,224386,Mönchengl. Hardter Landstraße,51.199715,6.340758
+303,38695,Mönchengl. Hardter Landstraße,51.199528,6.341675
+304,39424,Mönchengl. Hardter Landstraße,51.1991,6.340282
+305,224684,Mönchengl. Hardter Waldstraße,51.203033,6.341136
+306,405881,Mönchengl. Hardter Waldstraße,51.202972,6.341154
+307,271422,Mönchengl. Hardterbroich Markt,51.187435,6.453461
+308,62435,Mönchengl. Hardterbroich Markt,51.187195,6.454791
+309,71955,Mönchengl. Hardterbroich Markt,51.186775,6.45453
+310,172348,Mönchengl. Hardterwald Klinik,51.188427,6.364124
+311,311812,Mönchengl. Hardterwald Klinik,51.188217,6.364115
+312,281114,Mönchengl. Haus am Buchenhain,51.163055,6.40992
+313,18854,Mönchengl. Hehner Str. Brücke,51.18785,6.408222
+314,210064,Mönchengl. Hehner Str. Brücke,51.187946,6.408123
+315,366723,Mönchengl. Heilstättenweg,51.19894,6.362552
+316,96085,Mönchengl. Heilstättenweg,51.19896,6.362435
+317,376288,Mönchengl. Hockstein Kirche,51.151493,6.420214
+318,422468,Mönchengl. Hockstein Kirche,51.151585,6.420259
+319,285690,Mönchengl. Holt Seniorenheim,51.182076,6.407557
+320,186340,Mönchengl. Horster Schelsen,51.15306,6.518697
+321,381137,Mönchengl. Horster Schelsen,51.15302,6.518607
+322,359895,Mönchengl. Jakobshöhe,51.214188,6.478785
+323,67750,Mönchengl. Jakobshöhe,51.214165,6.478883
+324,105538,Mönchengl. Karrenweg,51.198544,6.347119
+325,2059,Mönchengl. Karrenweg,51.198887,6.347442
+326,143688,Mönchengl. Kliniken Maria Hilf,51.21831,6.418292
+327,283191,Mönchengl. Kliniken Maria Hilf,51.218555,6.418032
+328,25178,Mönchengl. Koch Tankstelle,51.170547,6.341594
+329,300309,Mönchengl. Koch Tankstelle,51.170383,6.341675
+330,407350,Mönchengl. Kochschulstraße,51.14835,6.456443
+331,411901,Mönchengl. Kochschulstraße,51.148083,6.456327
+332,128062,Mönchengl. Konstantinplatz,51.155766,6.490588
+333,217377,Mönchengl. Konstantinplatz,51.155766,6.490588
+334,252659,Mönchengl. Konstantinplatz,51.155605,6.489969
+335,314412,Mönchengl. Konstantinplatz,51.155605,6.489969
+336,427595,Mönchengl. Kothausen,51.16172,6.373897
+337,6874,Mönchengl. Kothausen,51.16201,6.374535
+338,284742,Mönchengl. Kothausen Kapelle,51.163433,6.37228
+339,339024,Mönchengl. Kothausen Kapelle,51.16338,6.372792
+340,28154,Mönchengl. Künkelstraße,51.212124,6.448772
+341,413282,Mönchengl. Künkelstraße,51.212055,6.448655
+342,156529,Mönchengl. Landgrafenstraße,51.188114,6.422101
+343,75667,Mönchengl. Landgrafenstraße,51.18824,6.422299
+344,307982,Mönchengl. Landscheidung,51.180576,6.423574
+345,106270,Mönchengl. Laurentiuskirche,51.13203,6.45056
+346,175244,Mönchengl. Laurentiuskirche,51.13187,6.450685
+347,32568,Mönchengl. Laurentiuskirche,51.132088,6.448664
+348,378503,Mönchengl. Laurentiuskirche,51.132206,6.449158
+349,178903,Mönchengl. Laurentiusstraße,51.1164,6.3547
+350,2146,Mönchengl. Laurentiusstraße,51.11628,6.354601
+351,107952,Mönchengl. Lehmkuhlenweg,51.209213,6.468113
+352,57519,Mönchengl. Lehmkuhlenweg,51.20925,6.468122
+353,222294,Mönchengl. Lockhütte,51.23173,6.438378
+354,411133,Mönchengl. Lockhütte,51.2319,6.4381
+355,257453,Mönchengl. Louise-Gueury-Str.,51.19882,6.358105
+356,328590,Mönchengl. Louise-Gueury-Str.,51.198723,6.358123
+357,376222,Mönchengl. Louise-Gueury-Str.,51.198975,6.357826
+358,441837,Mönchengl. Louise-Gueury-Str.,51.19897,6.358464
+359,415446,Mönchengl. Lürrip Volksbadstr.,51.204105,6.475263
+360,99796,Mönchengl. Lürrip Volksbadstr.,51.20407,6.475039
+361,20910,Mönchengl. Lürriper Straße,51.203896,6.467807
+362,230868,Mönchengl. Lürriper Straße,51.203857,6.467717
+363,313501,Mönchengl. Manderscheider Str.,51.13597,6.457054
+364,389644,Mönchengl. Manderscheider Str.,51.136024,6.45736
+365,259379,Mönchengl. Matthiaskapelle,51.191307,6.34013
+366,403822,Mönchengl. Matthiaskapelle,51.191113,6.340139
+367,127865,Mönchengl. Meerkamp Kirche,51.166214,6.487283
+368,292211,Mönchengl. Meerkamp Kirche,51.16618,6.486986
+369,302343,Mönchengl. Meerkamp Kirche,51.1658,6.487363
+370,441968,Mönchengl. Mennrath Eckartz,51.13642,6.387686
+371,61517,Mönchengl. Mennrath Eckartz,51.136307,6.388001
+372,129545,Mönchengl. Mennrath Sportplatz,51.137325,6.383725
+373,249708,Mönchengl. Mennrath Sportplatz,51.137352,6.383383
+374,150745,Mönchengl. Monforts Quartier,51.182358,6.450344
+375,154670,Mönchengl. Monforts Quartier,51.18223,6.450542
+376,173173,Mönchengl. Monforts Quartier,51.183247,6.449607
+377,173494,Mönchengl. Monforts Quartier,51.183235,6.449428
+378,243091,Mönchengl. Mongshof,51.119797,6.454404
+379,379434,Mönchengl. Mongshof,51.1197,6.454368
+380,153260,Mönchengl. Museum Abteiberg,51.193993,6.434731
+381,145446,Mönchengl. Nordpark Busbahnhof,51.17592,6.39004
+382,205247,Mönchengl. Nordpark Busbahnhof,51.17584,6.390265
+383,367584,Mönchengl. Odenkirchen Post,51.136078,6.447802
+384,368796,Mönchengl. Odenkirchen Post,51.13597,6.447981
+385,34615,Mönchengl. Oppelner Str. 2,51.12294,6.447272
+386,375320,Mönchengl. Preyerstr. Friedhof,51.16831,6.418427
+387,431475,Mönchengl. Preyerstr. Friedhof,51.168427,6.418409
+388,381762,Mönchengl. Puttschen,51.16677,6.491325
+389,210815,Mönchengl. Rhein-Maas-Zentrum,51.223694,6.482584
+390,65894,Mönchengl. Rhein-Maas-Zentrum,51.223827,6.48271
+391,220336,Mönchengl. Rheind.Bahnübergang,51.15084,6.362821
+392,7730,Mönchengl. Rheind.Bahnübergang,51.15064,6.362471
+393,131703,Mönchengl. Rheindahlen Bf,51.15116,6.359434
+394,221088,Mönchengl. Rheindahlen Bf,51.151104,6.359165
+395,403526,Mönchengl. Rheindahlen Bf,51.151154,6.359012
+396,46674,Mönchengl. Rheindahlen Bf,51.15123,6.359398
+397,24977,Mönchengl. Rostocker Straße,51.12459,6.445754
+398,12485,Mönchengl. Sasserather Pfad,51.123886,6.46372
+399,222531,Mönchengl. Sasserather Pfad,51.12388,6.463639
+400,140162,Mönchengl. Schelsen Kirche,51.153915,6.516119
+401,417661,Mönchengl. Schelsen Kirche,51.154613,6.515418
+402,174897,Mönchengl. Schleestraße,51.131874,6.456758
+403,197205,Mönchengl. Schleestraße,51.131996,6.456686
+404,211729,Mönchengl. Schloss Rheydt,51.180714,6.478326
+405,82246,Mönchengl. Schloss Rheydt,51.180332,6.478677
+406,183579,Mönchengl. Schloss-Dyck-Straße,51.152985,6.507315
+407,327962,Mönchengl. Schloss-Dyck-Straße,51.153248,6.506974
+408,237716,Mönchengl. Schlossbad Ndrh.,51.12272,6.413181
+409,40542,Mönchengl. Schlossbad Ndrh.,51.122776,6.412103
+410,99752,Mönchengl. Schlossbad Ndrh.,51.122566,6.413118
+411,34508,Mönchengl. Schonskanterweg,51.21666,6.482486
+412,396584,Mönchengl. Schonskanterweg,51.21686,6.482441
+413,158131,Mönchengl. Schriefers,51.13758,6.347936
+414,312585,Mönchengl. Schriefers,51.137764,6.347559
+415,250850,Mönchengl. Schriefersmühle,51.13665,6.341486
+416,63052,Mönchengl. Schriefersmühle,51.136715,6.341567
+417,389746,Mönchengl. Schule Torfbend,51.15896,6.466352
+418,52461,Mönchengl. Schule Torfbend,51.15897,6.466199
+419,51784,Mönchengl. St.-Josef-Kirche,51.162193,6.452635
+420,157556,Mönchengl. Stiegerfeldstraße,51.18405,6.458653
+421,337091,Mönchengl. Stiegerfeldstraße,51.183937,6.459453
+422,193183,Mönchengl. Süchtelner Straße,51.214283,6.453219
+423,458862,Mönchengl. Süchtelner Straße,51.214165,6.453299
+424,239848,Mönchengl. Trabrennbahn,51.231472,6.488118
+425,55701,Mönchengl. Trabrennbahn,51.231567,6.488055
+426,345585,Mönchengl. Volksgartenstraße,51.19037,6.449625
+427,58536,Mönchengl. Volksgartenstraße,51.190014,6.450515
+428,98192,Mönchengl. Volksgartenstraße,51.188904,6.451521
+429,114656,Mönchengl. Vossenbäumchen,51.199425,6.351556
+430,300726,Mönchengl. Vossenbäumchen,51.19935,6.35205
+431,142123,Mönchengl. Waldhausen Kirche,51.19462,6.410701
+432,176610,Mönchengl. Waldhausen Kirche,51.195335,6.412965
+433,207628,Mönchengl. Waldhausen Kirche,51.194702,6.411132
+434,316421,Mönchengl. Waldhausen Kirche,51.19514,6.412228
+435,20534,Mönchengl. Waldhausener Höhe,51.19206,6.415283
+436,5468,Mönchengl. Waldhausener Höhe,51.192963,6.415777
+437,284199,Mönchengl. Webschulstraße,51.180367,6.444388
+438,328997,Mönchengl. Webschulstraße,51.180305,6.444271
+439,418136,Mönchengl. Weg n.Trimpelshütte,51.150726,6.472955
+440,444186,Mönchengl. Weg n.Trimpelshütte,51.15076,6.473251
+441,165406,Mönchengl. Weg zum Nordpark,51.183937,6.388019
+442,343909,Mönchengl. Weg zum Nordpark,51.183968,6.387776
+443,362924,Mönchengl. Weg zur Waldesruh,51.15928,6.479279
+444,446171,Mönchengl. Weg zur Waldesruh,51.159203,6.479431
+445,115810,Mönchengl. Wehresbäumchen,51.197422,6.351718
+446,47443,Mönchengl. Wehresbäumchen,51.197292,6.352302
+447,106733,Mönchengl. Wickrath Siedlung,51.126106,6.404197
+448,379088,Mönchengl. Wickrath Siedlung,51.126038,6.404117
+449,136451,Mönchengl. Wickrathhahner Str.,51.128357,6.408581
+450,168569,Mönchengl. Wickrathhahner Str.,51.12836,6.408509
+451,209593,Mönchengl. Wolfsittard Hoven,51.169144,6.376161
+452,253130,Mönchengl. Wolfsittard Hoven,51.168922,6.376377
+453,182416,Mönchengl. Zoppenbroicher Str.,51.1615,6.48413
+454,253263,Mönchengl. Zoppenbroicher Str.,51.16176,6.484192
+455,34246,"Mönchengl., Enscheder Straße",51.17632,6.396319
+456,65169,"Mönchengl., Enscheder Straße",51.176174,6.396436
+457,54945,Mönchengl.Birkenallee Friedhof,51.21245,6.422038
+458,7300,Mönchengl.Birkenallee Friedhof,51.212406,6.422146
+459,24595,Mönchengl.Graf-Haeseler-Stein,51.218945,6.436393
+460,312081,Mönchengl.Graf-Haeseler-Stein,51.218983,6.436636
+461,187959,Mönchengl.Kamphaus.Höhe Kirche,51.13816,6.46381
+462,237615,Mönchengl.Kamphaus.Höhe Kirche,51.137775,6.463459
+463,186686,Mönchengl.Theodor-Heuss-Straße,51.18825,6.443121
+464,339802,Mönchengl.Theodor-Heuss-Straße,51.187374,6.443795
+465,195682,Mönchengladb Stadt-Palandweg,51.168083,6.506947
+466,455017,Mönchengladb. Am Borussiapark,51.170574,6.390318
+467,39806,Mönchengladb. Dahlener Heide,51.169083,6.387686
+468,424251,Mönchengladb. Dahlener Heide,51.16919,6.387588
+469,140140,Mönchengladb. Elisabethkirche,51.210953,6.442331
+470,150229,Mönchengladb. Elisabethkirche,51.210773,6.442933
+471,16920,Mönchengladb. Elisabethkirche,51.210217,6.443409
+472,348107,Mönchengladb. Elisabethkirche,51.210163,6.443759
+473,108367,Mönchengladb. Lürrip S-Bf.,51.19811,6.472739
+474,435663,Mönchengladb. Lürrip S-Bf.,51.199455,6.473476
+475,56870,Mönchengladb. Lürrip S-Bf.,51.19948,6.473431
+476,67887,Mönchengladb. Lürrip S-Bf.,51.19825,6.472523
+477,140025,Mönchengladb. Stadtverwaltung,51.196167,6.431955
+478,165793,Mönchengladb. Wickrath Markt,51.128983,6.412705
+479,334250,Mönchengladb. Wickrath Markt,51.129303,6.412866
+480,353226,Mönchengladb. Wickrath Markt,51.129185,6.412821
+481,404036,Mönchengladb. Wickrath Markt,51.12909,6.412866
+482,393662,Mönchengladbach Abtshof,51.2279,6.486851
+483,441247,Mönchengladbach Abtshof,51.227974,6.486932
+484,257532,Mönchengladbach Abzw. Herdt,51.171368,6.347172
+485,39103,Mönchengladbach Abzw. Herdt,51.17151,6.346912
+486,296370,Mönchengladbach Adlerstraße,51.223972,6.463369
+487,78895,Mönchengladbach Adlerstraße,51.223938,6.462624
+488,116348,Mönchengladbach Akazienstraße,51.17368,6.427661
+489,330056,Mönchengladbach Akazienstraße,51.173656,6.427392
+490,304913,Mönchengladbach Aktienstraße,51.18186,6.430752
+491,46593,Mönchengladbach Aktienstraße,51.18182,6.430554
+492,203143,Mönchengladbach Alleestraße,51.191597,6.447586
+493,150333,Mönchengladbach Alter Markt,51.19498,6.431354
+494,135546,Mönchengladbach Altmülfort,51.151188,6.459704
+495,265002,Mönchengladbach Altmülfort,51.151367,6.459776
+496,201589,Mönchengladbach Am Baumhof,51.21512,6.472353
+497,400916,Mönchengladbach Am Baumhof,51.21497,6.472146
+498,246007,Mönchengladbach Am Birnbaum,51.11173,6.397586
+499,283370,Mönchengladbach Am Bour,51.200756,6.449455
+500,301308,Mönchengladbach Am Bour,51.200867,6.449688
+501,105325,Mönchengladbach Am Düvel,51.155083,6.505114
+502,138335,Mönchengladbach Am Düvel,51.155308,6.505114
+503,215579,Mönchengladbach Am Düvel,51.155346,6.505339
+504,451525,Mönchengladbach Am Düvel,51.15515,6.505105
+505,194618,Mönchengladbach Am Fußfall,51.153214,6.510297
+506,280356,Mönchengladbach Am Fußfall,51.15323,6.509857
+507,191092,Mönchengladbach Am Gerstacker,51.17797,6.450479
+508,398054,Mönchengladbach Am Gerstacker,51.177845,6.450568
+509,106801,Mönchengladbach Am Hasenberg,51.154366,6.424374
+510,27641,Mönchengladbach Am Hasenberg,51.1544,6.424508
+511,277981,Mönchengladbach Am Hockstein,51.153942,6.415346
+512,107176,Mönchengladbach Am Kammerhof,51.130127,6.442843
+513,141253,Mönchengladbach Am Kammerhof,51.129818,6.442277
+514,243216,Mönchengladbach Am Kauert,51.133904,6.417609
+515,370813,Mönchengladbach Am Kauert,51.134155,6.417708
+516,11203,Mönchengladbach Am Kirschbaum,51.197258,6.340076
+517,204942,Mönchengladbach Am Kirschbaum,51.197117,6.340076
+518,133459,Mönchengladbach Am Lauterkamp,51.205467,6.47971
+519,355465,Mönchengladbach Am Lauterkamp,51.20538,6.479458
+520,456695,Mönchengladbach Am Minto,51.19409,6.438172
+521,276844,Mönchengladbach Am Nordpark,51.173325,6.395062
+522,346577,Mönchengladbach Am Nordpark,51.172787,6.394217
+523,446973,Mönchengladbach Am Nordpark,51.17321,6.395241
+524,192256,Mönchengladbach Am Ringofen,51.136395,6.418957
+525,60845,Mönchengladbach Am Ringofen,51.13663,6.41919
+526,221743,Mönchengladbach Am Schomm,51.14175,6.442169
+527,296692,Mönchengladbach Am Schomm,51.14238,6.442151
+528,369935,Mönchengladbach Am Schomm,51.142223,6.44269
+529,439800,Mönchengladbach Am Torfbend,51.15838,6.467313
+530,90781,Mönchengladbach Am Torfbend,51.158524,6.467484
+531,347661,Mönchengladbach Am Woltershof,51.217552,6.450946
+532,457066,Mönchengladbach Am Woltershof,51.217197,6.450137
+533,201268,Mönchengladbach Amtsgericht,51.173103,6.443642
+534,224462,Mönchengladbach Amtsgericht,51.172947,6.443975
+535,248206,Mönchengladbach Amtsgericht,51.17247,6.44375
+536,166199,Mönchengladbach An den Fichten,51.138306,6.444433
+537,96442,Mönchengladbach An den Fichten,51.13846,6.44428
+538,380083,Mönchengladbach An der Siep,51.16619,6.481956
+539,136152,Mönchengladbach An der Wey,51.111237,6.395008
+540,356770,Mönchengladbach An der Wey,51.111225,6.394828
+541,321879,Mönchengladbach Annakirchstr.,51.203823,6.412785
+542,376838,Mönchengladbach Annakirchstr.,51.20381,6.41283
+543,63591,Mönchengladbach Annakirchstr.,51.20426,6.411977
+544,90644,Mönchengladbach Annakirchstr.,51.204075,6.412183
+545,238684,Mönchengladbach Arnoldstraße,51.155922,6.486007
+546,345605,Mönchengladbach Arnoldstraße,51.155968,6.485738
+547,143299,Mönchengladbach Asternweg,51.156773,6.486205
+548,157917,Mönchengladbach Asternweg,51.156773,6.486205
+549,184342,Mönchengladbach Asternweg,51.156784,6.486833
+550,54629,Mönchengladbach Asternweg,51.156784,6.486833
+551,194987,Mönchengladbach Auf dem Damm,51.117615,6.41292
+552,458332,Mönchengladbach Auf dem Damm,51.117462,6.41292
+553,153449,Mönchengladbach Bahner,51.162872,6.475003
+554,362110,Mönchengladbach Bahner,51.162582,6.475021
+555,250307,Mönchengladbach Bau,51.15141,6.322918
+556,375364,Mönchengladbach Baum,51.12929,6.36053
+557,354560,Mönchengladbach Beerenweg,51.171246,6.419343
+558,410202,Mönchengladbach Beerenweg,51.17127,6.419505
+559,320559,Mönchengladbach Beller Mühle,51.143166,6.456093
+560,34109,Mönchengladbach Beller Mühle,51.142338,6.45586
+561,141138,Mönchengladbach Beltinghoven,51.197803,6.381515
+562,255385,Mönchengladbach Beltinghoven,51.197803,6.381003
+563,48675,Mönchengladbach Bergstraße,51.210762,6.439034
+564,68059,Mönchengladbach Bergstraße,51.210846,6.439214
+565,399869,Mönchengladbach Berliner Str.,51.15857,6.439564
+566,415592,Mönchengladbach Berliner Str.,51.158684,6.439618
+567,224989,Mönchengladbach Bernhardstraße,51.20835,6.482584
+568,353116,Mönchengladbach Bernhardstraße,51.208286,6.482441
+569,322193,Mönchengladbach Biesel,51.16945,6.483213
+570,114987,Mönchengladbach Bismarckplatz,51.19429,6.443553
+571,165923,Mönchengladbach Bismarckplatz,51.19418,6.443678
+572,263687,Mönchengladbach Bismarckstraße,51.1954,6.442744
+573,3955,Mönchengladbach Bismarckstraße,51.196053,6.442106
+574,247052,Mönchengladbach Bleichstraße,51.190773,6.433617
+575,286975,Mönchengladbach Bleichstraße,51.19075,6.432423
+576,431819,Mönchengladbach Bockmühlstraße,51.132477,6.463396
+577,220436,Mönchengladbach Bogenstraße,51.158375,6.41389
+578,261169,Mönchengladbach Bootstraße,51.167137,6.431075
+579,316571,Mönchengladbach Bootstraße,51.16601,6.432369
+580,824,Mönchengladbach Breite Straße,51.177357,6.442214
+581,89556,Mönchengladbach Breite Straße,51.177345,6.44243
+582,118811,Mönchengladbach Breiter Graben,51.20665,6.390929
+583,53121,Mönchengladbach Breiter Graben,51.20669,6.390884
+584,63398,Mönchengladbach Breiter Graben,51.206474,6.390822
+585,442874,Mönchengladbach Broich Schule,51.16042,6.333859
+586,79218,Mönchengladbach Broich Schule,51.160515,6.333788
+587,120103,Mönchengladbach Bruchstraße,51.155083,6.460351
+588,17086,Mönchengladbach Bruchstraße,51.15508,6.460567
+589,105453,Mönchengladbach Brunnenstraße,51.183353,6.436833
+590,180553,Mönchengladbach Brunnenstraße,51.18331,6.436725
+591,125250,Mönchengladbach Brückenstraße,51.154896,6.465445
+592,233392,Mönchengladbach Brückenstraße,51.15498,6.465525
+593,323397,Mönchengladbach Buhsen,51.169933,6.333168
+594,402482,Mönchengladbach Buhsen,51.16995,6.333437
+595,149894,Mönchengladbach Bungt,51.18959,6.469972
+596,423656,Mönchengladbach Bungt,51.19,6.470107
+597,144584,Mönchengladbach Bungtstraße,51.18846,6.46716
+598,250077,Mönchengladbach Bungtstraße,51.188572,6.467448
+599,117856,Mönchengladbach Bunter Garten,51.204796,6.436734
+600,280816,Mönchengladbach Bunter Garten,51.20475,6.436537
+601,356477,Mönchengladbach Bunter Garten,51.204796,6.436734
+602,373227,Mönchengladbach Bunter Garten,51.20475,6.436537
+603,32726,Mönchengladbach Burgbongert,51.129276,6.450003
+604,258513,Mönchengladbach Burgmühle,51.13479,6.451961
+605,291160,Mönchengladbach Burgmühle,51.134666,6.452114
+606,58079,Mönchengladbach Burgmühle,51.134895,6.452823
+607,72909,Mönchengladbach Burgmühle,51.13513,6.452796
+608,237760,Mönchengladbach Bylandtstraße,51.16836,6.455294
+609,412528,Mönchengladbach Bäumchesweg,51.157555,6.431318
+610,84168,Mönchengladbach Bäumchesweg,51.157566,6.430976
+611,127246,Mönchengladbach Böcklinstraße,51.17923,6.405401
+612,158614,Mönchengladbach Böcklinstraße,51.179653,6.40621
+613,331191,Mönchengladbach Böcklinstraße,51.179474,6.405994
+614,342497,Mönchengladbach Böningstr.,51.150608,6.427931
+615,60573,Mönchengladbach Böningstr.,51.15064,6.427796
+616,262748,Mönchengladbach Cecilienstraße,51.176178,6.438989
+617,405390,Mönchengladbach Cecilienstraße,51.176376,6.438899
+618,165439,Mönchengladbach Chur,51.113922,6.393418
+619,254115,Mönchengladbach Chur,51.11407,6.393238
+620,240110,Mönchengladbach Dahler Weg,51.124443,6.399221
+621,95601,Mönchengladbach Dahler Weg,51.124405,6.399059
+622,273735,Mönchengladbach Daimlerstraße,51.141914,6.411752
+623,341046,Mönchengladbach Daimlerstraße,51.141808,6.411186
+624,271485,Mönchengladbach Dammer Straße,51.220463,6.479368
+625,47725,Mönchengladbach Dammer Straße,51.22036,6.47962
+626,157796,Mönchengladbach Dionysiusstr.,51.152874,6.485989
+627,51529,Mönchengladbach Dionysiusstr.,51.153255,6.485944
+628,328128,Mönchengladbach Dohrer Straße,51.150394,6.46275
+629,453382,Mönchengladbach Dohrer Straße,51.15039,6.462525
+630,120328,Mönchengladbach Dohrweg,51.215214,6.476772
+631,58696,Mönchengladbach Dohrweg,51.215343,6.476449
+632,352691,Mönchengladbach Dorthausen,51.166245,6.380859
+633,81515,Mönchengladbach Dorthausen,51.16599,6.379943
+634,82348,Mönchengladbach Dorthausen,51.166332,6.380338
+635,17597,Mönchengladbach Druckerstraße,51.1668,6.459974
+636,356323,Mönchengladbach Druckerstraße,51.166756,6.459821
+637,130255,Mönchengladbach Dyker Weg,51.225513,6.444442
+638,38024,Mönchengladbach Dyker Weg,51.22532,6.445197
+639,180250,Mönchengladbach Dülkener Str.,51.197544,6.417708
+640,411626,Mönchengladbach Dülkener Str.,51.197796,6.416837
+641,253274,Mönchengladbach Ebelshof,51.205994,6.410575
+642,294839,Mönchengladbach Ebelshof,51.20583,6.410683
+643,158788,Mönchengladbach Eberhardstraße,51.151997,6.48395
+644,324345,Mönchengladbach Eberhardstraße,51.152035,6.484121
+645,143224,Mönchengladbach Egerstraße,51.156097,6.441118
+646,368895,Mönchengladbach Egerstraße,51.15609,6.441217
+647,225565,Mönchengladbach Ehrenstraße,51.220024,6.45382
+648,420962,Mönchengladbach Ehrenstraße,51.220688,6.454279
+649,245296,Mönchengladbach Eibenstraße,51.154774,6.428793
+650,64250,Mönchengladbach Eibenstraße,51.154846,6.429269
+651,433423,Mönchengladbach Eicken Markt,51.20482,6.446912
+652,457988,Mönchengladbach Eicken Markt,51.205013,6.446912
+653,374218,Mönchengladbach Eickener Höhe,51.2059,6.445709
+654,412801,Mönchengladbach Eickener Höhe,51.205883,6.445556
+655,128442,Mönchengladbach Eickesmühle,51.160507,6.458608
+656,68726,Mönchengladbach Eickesmühle,51.16062,6.458429
+657,387494,Mönchengladbach Eisenbahnstr.,51.156975,6.434911
+658,82881,Mönchengladbach Eisenbahnstr.,51.1567,6.43474
+659,350153,Mönchengladbach Engelsholt,51.181293,6.41089
+660,378224,Mönchengladbach Engelsholt,51.181168,6.410495
+661,278984,Mönchengladbach Enger Weg,51.106743,6.381425
+662,308635,Mönchengladbach Enger Weg,51.106766,6.381228
+663,219206,Mönchengladbach Entenweide,51.179253,6.420277
+664,332752,Mönchengladbach Entenweide,51.179134,6.420349
+665,170321,Mönchengladbach Erftstraße,51.159073,6.504198
+666,388432,Mönchengladbach Erftstraße,51.159103,6.504054
+667,200446,Mönchengladbach Erlenstraße,51.170704,6.428236
+668,282469,Mönchengladbach Erlenstraße,51.17067,6.428209
+669,169131,Mönchengladbach Eschenhof,51.229057,6.439133
+670,314534,Mönchengladbach Eschenhof,51.229176,6.439214
+671,392563,Mönchengladbach Eselsweg,51.2043,6.389232
+672,59892,Mönchengladbach Eselsweg,51.20436,6.389205
+673,194080,Mönchengladbach Espenstraße,51.15487,6.426368
+674,458814,Mönchengladbach Espenstraße,51.15487,6.426566
+675,293238,Mönchengladbach Feldstraße,51.162918,6.429449
+676,431704,Mönchengladbach Feldstraße,51.16283,6.429422
+677,144792,Mönchengladbach Fliethstraße,51.192047,6.442663
+678,282325,Mönchengladbach Fliethstraße,51.190533,6.442034
+679,311875,Mönchengladbach Flören,51.161087,6.496922
+680,57580,Mönchengladbach Flören,51.160976,6.497308
+681,131454,Mönchengladbach Frankenstraße,51.179165,6.470754
+682,316684,Mönchengladbach Frankenstraße,51.17924,6.470682
+683,42843,Mönchengladbach Friedhof,51.215298,6.434722
+684,441349,Mönchengladbach Friedhof,51.21528,6.434489
+685,265901,Mönchengladbach Friedrichstr.,51.192383,6.440723
+686,309753,Mönchengladbach Friedrichstr.,51.192924,6.441397
+687,386817,Mönchengladbach Friesenstraße,51.15565,6.481057
+688,90462,Mönchengladbach Friesenstraße,51.155388,6.481129
+689,371621,Mönchengladbach Gartenstraße,51.173424,6.447451
+690,74859,Mönchengladbach Gartenstraße,51.1734,6.447254
+691,203207,Mönchengladbach Gasstraße,51.15893,6.446688
+692,407819,Mönchengladbach Gasstraße,51.159096,6.446832
+693,114916,Mönchengladbach Geneicken Bf,51.169956,6.455707
+694,8879,Mönchengladbach Geneicken Bf,51.16989,6.455887
+695,18148,Mönchengladbach Genhausen,51.148186,6.328865
+696,380257,Mönchengladbach Genhodder,51.16604,6.329727
+697,437978,Mönchengladbach Genhodder,51.166245,6.329583
+698,156132,Mönchengladbach Genholland,51.12766,6.356811
+699,224585,Mönchengladbach Gerkerath,51.16534,6.358662
+700,28370,Mönchengladbach Gerkerath,51.16523,6.358752
+701,313675,Mönchengladbach Gerkerath,51.16453,6.358383
+702,408418,Mönchengladbach Gerkerath,51.164745,6.358303
+703,128053,Mönchengladbach Geroplatz,51.191185,6.430392
+704,365310,Mönchengladbach Geroplatz,51.190903,6.430806
+705,407038,Mönchengladbach Geroplatz,51.190716,6.429458
+706,178335,Mönchengladbach Gotzweg,51.15232,6.439528
+707,275439,Mönchengladbach Gotzweg,51.152298,6.439555
+708,132533,Mönchengladbach Gracht,51.166485,6.447739
+709,258768,Mönchengladbach Gracht,51.166393,6.447649
+710,223691,Mönchengladbach Griesbarth,51.13715,6.380904
+711,437148,Mönchengladbach Griesbarth,51.13722,6.381102
+712,309936,Mönchengladbach Großheide,51.21545,6.420259
+713,320436,Mönchengladbach Großheide,51.215454,6.420313
+714,19803,Mönchengladbach Grunewaldstr.,51.23266,6.478021
+715,63371,Mönchengladbach Grunewaldstr.,51.232647,6.477626
+716,108264,Mönchengladbach Grünewald,51.195496,6.425631
+717,20994,Mönchengladbach Grünewald,51.19611,6.42494
+718,346108,Mönchengladbach Grünewald,51.19547,6.425685
+719,94459,Mönchengladbach Grünewald,51.195953,6.425236
+720,103026,Mönchengladbach Gutenbergstr.,51.203533,6.459983
+721,46048,Mönchengladbach Gutenbergstr.,51.203598,6.460486
+722,323004,Mönchengladbach Görlitzer Str.,51.127403,6.452123
+723,195701,Mönchengladbach Görresstraße,51.1529,6.354224
+724,221184,Mönchengladbach Görresstraße,51.152836,6.354413
+725,234536,Mönchengladbach Günhoven,51.15,6.388495
+726,330042,Mönchengladbach Günhoven,51.150764,6.388594
+727,89225,Mönchengladbach Günhoven,51.150097,6.389887
+728,26780,Mönchengladbach Habichtstraße,51.200768,6.481336
+729,365793,Mönchengladbach Hagelkreuzstr.,51.202,6.430689
+730,6865,Mönchengladbach Hagelkreuzstr.,51.20225,6.430752
+731,148301,Mönchengladbach Halbinsel,51.12543,6.416019
+732,225814,Mönchengladbach Halbinsel,51.125362,6.41592
+733,445084,Mönchengladbach Hamern,51.20032,6.401035
+734,314144,Mönchengladbach Hardt Markt,51.205635,6.341872
+735,77027,Mönchengladbach Hardt Markt,51.205505,6.342088
+736,100570,Mönchengladbach Hauptstraße,51.167583,6.440822
+737,180545,Mönchengladbach Hauptstraße,51.167595,6.440885
+738,131880,Mönchengladbach Haus Butzen,51.19831,6.366127
+739,59241,Mönchengladbach Haus Butzen,51.198242,6.366486
+740,444482,Mönchengladbach Haus Horst,51.168743,6.518858
+741,432678,Mönchengladbach Hehn Kirche,51.18105,6.371238
+742,70824,Mönchengladbach Hehn Kirche,51.1814,6.37113
+743,201917,Mönchengladbach Hehn Meurer,51.18366,6.376637
+744,456693,Mönchengladbach Hehn Meurer,51.183643,6.37635
+745,144069,Mönchengladbach Hehn Pauen,51.183556,6.372568
+746,320026,Mönchengladbach Hehn Pauen,51.183475,6.372352
+747,231775,Mönchengladbach Hehn Schrammen,51.186028,6.36769
+748,303157,Mönchengladbach Hehn Schrammen,51.185863,6.367843
+749,413461,Mönchengladbach Heidgesberg,51.189243,6.388423
+750,173958,Mönchengladbach Heiligenpesch,51.1781,6.371418
+751,333342,Mönchengladbach Heiligenpesch,51.177917,6.371454
+752,109082,Mönchengladbach Hensenweg,51.19777,6.409372
+753,385965,Mönchengladbach Hensenweg,51.197727,6.409399
+754,218141,Mönchengladbach Hephata,51.183926,6.438765
+755,261425,Mönchengladbach Hephata,51.183865,6.438522
+756,345467,Mönchengladbach Herdt,51.176807,6.344702
+757,431672,Mönchengladbach Herdt,51.176804,6.344289
+758,237518,Mönchengladbach Herdter Hof,51.181816,6.341567
+759,350901,Mönchengladbach Herdter Hof,51.1819,6.341576
+760,107335,Mönchengladbach Hermges,51.184654,6.441585
+761,48748,Mönchengladbach Hermges,51.18461,6.443382
+762,70524,Mönchengladbach Hermges,51.184372,6.444092
+763,74304,Mönchengladbach Hermges,51.184265,6.443759
+764,267600,Mönchengladbach Herrath Bf,51.104977,6.367816
+765,79852,Mönchengladbach Herrath Bf,51.10499,6.367995
+766,123199,Mönchengladbach Herrather Weg,51.105907,6.373915
+767,154584,Mönchengladbach Herrather Weg,51.105988,6.374319
+768,14572,Mönchengladbach Hilderath,51.13458,6.362183
+769,427014,Mönchengladbach Hilderath,51.13473,6.362525
+770,94164,Mönchengladbach Hilderath,51.13471,6.362336
+771,26301,Mönchengladbach Hirschweg,51.155422,6.416675
+772,364946,Mönchengladbach Hirschweg,51.155327,6.415858
+773,236807,Mönchengladbach Hochschule,51.17926,6.439447
+774,247662,Mönchengladbach Hochschule,51.179207,6.439591
+775,236654,Mönchengladbach Hohe Straße,51.15551,6.366684
+776,456859,Mönchengladbach Hohe Straße,51.15572,6.366846
+777,247720,Mönchengladbach Holt Friedhof,51.183865,6.393319
+778,283391,Mönchengladbach Holt Friedhof,51.18383,6.393094
+779,150249,Mönchengladbach Holt Kirche,51.182076,6.409507
+780,436181,Mönchengladbach Holt Kirche,51.181973,6.409345
+781,110782,Mönchengladbach Hompeschstraße,51.134457,6.403892
+782,187392,Mönchengladbach Hompeschstraße,51.13415,6.404144
+783,339718,Mönchengladbach Hompeschstraße,51.134266,6.403937
+784,222614,Mönchengladbach Horster Straße,51.158897,6.516217
+785,376037,Mönchengladbach Horster Straße,51.158764,6.515732
+786,121294,Mönchengladbach Hoven Kreuz,51.22337,6.45559
+787,99357,Mönchengladbach Hoven Kreuz,51.223507,6.455842
+788,243410,Mönchengladbach Hubertusstraße,51.160778,6.417537
+789,261698,Mönchengladbach Hubertusstraße,51.161335,6.418993
+790,381256,Mönchengladbach Hubertusstraße,51.160316,6.418912
+791,159154,Mönchengladbach Hunsrückstraße,51.169674,6.434911
+792,163366,Mönchengladbach Hunsrückstraße,51.16965,6.435091
+793,410885,Mönchengladbach Högden,51.16398,6.500093
+794,441435,Mönchengladbach Im Schlaun,51.11569,6.405419
+795,209274,Mönchengladbach Immelmannstr.,51.18383,6.405563
+796,407690,Mönchengladbach Immelmannstr.,51.183826,6.4055
+797,125374,Mönchengladbach In der Aue,51.16665,6.418103
+798,240533,Mönchengladbach In der Aue,51.16663,6.417744
+799,214133,Mönchengladbach In der Duis,51.194775,6.398897
+800,396603,Mönchengladbach In der Duis,51.194607,6.398924
+801,160865,Mönchengladbach Industriehof,51.149708,6.360521
+802,452784,Mönchengladbach Industriehof,51.149685,6.360324
+803,11773,Mönchengladbach Jahnhalle,51.191185,6.455752
+804,308784,Mönchengladbach Jahnhalle,51.19109,6.455797
+805,66355,Mönchengladbach Jenaer Straße,51.193527,6.445295
+806,78437,Mönchengladbach Jostenfeld,51.15146,6.514385
+807,8876,Mönchengladbach Jostenfeld,51.151436,6.514313
+808,193626,Mönchengladbach Kabelstraße,51.185303,6.417016
+809,457555,Mönchengladbach Kabelstraße,51.185204,6.416909
+810,290462,Mönchengladbach Kabelwerk,51.174877,6.454036
+811,324181,Mönchengladbach Kabelwerk,51.17477,6.454198
+812,161853,Mönchengladbach Kaiserstraße,51.200497,6.445709
+813,416009,Mönchengladbach Kaiserstraße,51.199898,6.445745
+814,215151,Mönchengladbach Kapuzinerplatz,51.195076,6.435243
+815,100376,Mönchengladbach Karstraße,51.186687,6.416262
+816,55561,Mönchengladbach Karstraße,51.186954,6.416648
+817,404130,Mönchengladbach Keplerstraße,51.162537,6.454862
+818,458170,Mönchengladbach Keplerstraße,51.162582,6.455123
+819,226117,Mönchengladbach Kinkelbach,51.116196,6.407135
+820,316885,Mönchengladbach Kleiststraße,51.195362,6.438369
+821,252806,Mönchengladbach Klumpenstraße,51.218666,6.477347
+822,286507,Mönchengladbach Klumpenstraße,51.21865,6.477437
+823,390201,Mönchengladbach Klusenstraße,51.153297,6.412085
+824,46327,Mönchengladbach Knoor,51.14534,6.331973
+825,382087,Mönchengladbach Koch,51.169937,6.339815
+826,427658,Mönchengladbach Koch,51.16997,6.340031
+827,140398,Mönchengladbach Kohrstraße,51.145954,6.440355
+828,165668,Mönchengladbach Kohrstraße,51.146,6.440229
+829,156066,Mönchengladbach Konstantinstr.,51.154835,6.502877
+830,167466,Mönchengladbach Konstantinstr.,51.154915,6.503156
+831,303161,Mönchengladbach Konstantinstr.,51.154835,6.502877
+832,87211,Mönchengladbach Konstantinstr.,51.154915,6.503156
+833,127519,Mönchengladbach Konzenstraße,51.20861,6.446814
+834,416252,Mönchengladbach Konzenstraße,51.208313,6.446688
+835,252669,Mönchengladbach Krefelder Str.,51.205585,6.458069
+836,50691,Mönchengladbach Krefelder Str.,51.20547,6.457908
+837,45114,Mönchengladbach Kruchenstraße,51.151005,6.478084
+838,96748,Mönchengladbach Kruchenstraße,51.150993,6.477859
+839,446733,Mönchengladbach Kärntner Str.,51.20862,6.408195
+840,50965,Mönchengladbach Kärntner Str.,51.208607,6.408114
+841,421994,Mönchengladbach Köhlersfahrt,51.181618,6.466693
+842,47668,Mönchengladbach Köhlersfahrt,51.181557,6.466235
+843,336456,Mönchengladbach Körschgenstr.,51.160446,6.476988
+844,337885,Mönchengladbach Körschgenstr.,51.160492,6.477096
+845,150032,Mönchengladbach Kühlenhof,51.214767,6.35302
+846,127261,Mönchengladbach Landgericht,51.202938,6.440759
+847,15297,Mönchengladbach Landgericht,51.203316,6.440867
+848,27591,Mönchengladbach Langer Weg,51.196194,6.480752
+849,90655,Mönchengladbach Langer Weg,51.195988,6.481336
+850,33603,Mönchengladbach Lederwerke,51.127274,6.412498
+851,80827,Mönchengladbach Lederwerke,51.127308,6.412426
+852,102654,Mönchengladbach Lehwaldstraße,51.164295,6.453695
+853,57262,Mönchengladbach Lehwaldstraße,51.163994,6.452365
+854,211293,Mönchengladbach Leostraße,51.208027,6.403856
+855,451828,Mönchengladbach Leostraße,51.20765,6.402428
+856,181347,Mönchengladbach Lilienthalstr.,51.175926,6.400218
+857,55210,Mönchengladbach Lilienthalstr.,51.175495,6.399652
+858,229835,Mönchengladbach Lindberghstr.,51.18212,6.403775
+859,205533,Mönchengladbach Lochnerallee,51.204975,6.425209
+860,364115,Mönchengladbach Lochnerallee,51.204865,6.425335
+861,271690,Mönchengladbach Luisental,51.14457,6.446634
+862,355337,Mönchengladbach Luisental,51.144405,6.446697
+863,179217,Mönchengladbach Lürrip Kirche,51.204014,6.471185
+864,352065,Mönchengladbach Lürrip Kirche,51.203983,6.470996
+865,140299,Mönchengladbach Marienplatz,51.16553,6.441648
+866,209017,Mönchengladbach Marienplatz,51.165802,6.440606
+867,224982,Mönchengladbach Marienplatz,51.16581,6.440831
+868,273249,Mönchengladbach Marienplatz,51.16594,6.44199
+869,388606,Mönchengladbach Marienplatz,51.16497,6.441954
+870,402096,Mönchengladbach Marienplatz,51.166004,6.442367
+871,432237,Mönchengladbach Marienplatz,51.165424,6.441585
+872,454760,Mönchengladbach Marienplatz,51.165787,6.440355
+873,76904,Mönchengladbach Marienplatz,51.16554,6.441513
+874,215643,Mönchengladbach Marktfeldstr.,51.20192,6.421957
+875,23823,Mönchengladbach Marktfeldstr.,51.201824,6.42237
+876,456516,Mönchengladbach Matthiasstraße,51.20263,6.444676
+877,93948,Mönchengladbach Matthiasstraße,51.20271,6.445134
+878,373125,Mönchengladbach Max-Reger-Str.,51.146378,6.3661
+879,407655,Mönchengladbach Max-Reger-Str.,51.14644,6.366971
+880,122092,Mönchengladbach Memelstraße,51.17499,6.46549
+881,166519,Mönchengladbach Memelstraße,51.174885,6.46557
+882,429480,Mönchengladbach Merodestraße,51.1344,6.464259
+883,183606,Mönchengladbach Merowingerstr.,51.176044,6.471041
+884,328617,Mönchengladbach Merowingerstr.,51.175938,6.470763
+885,111177,Mönchengladbach Merreter,51.141396,6.336581
+886,150405,Mönchengladbach Metzenweg,51.202225,6.417888
+887,266224,Mönchengladbach Metzenweg,51.202312,6.419604
+888,321525,Mönchengladbach Metzenweg,51.202183,6.417978
+889,344517,Mönchengladbach Metzenweg,51.202347,6.419172
+890,346803,Mönchengladbach Mittelstraße,51.165756,6.438306
+891,398870,Mönchengladbach Mocken,51.127422,6.453668
+892,407745,Mönchengladbach Mocken,51.12766,6.453434
+893,116456,Mönchengladbach Moosheide,51.197727,6.386824
+894,251623,Mönchengladbach Moosheide,51.19768,6.387031
+895,381188,Mönchengladbach Moosheide,51.1978,6.386806
+896,82825,Mönchengladbach Moosheide,51.19768,6.387174
+897,105222,Mönchengladbach Mühlenweg,51.211533,6.486133
+898,302901,Mönchengladbach Mühlenweg,51.211666,6.486187
+899,15759,Mönchengladbach Mülfort,51.15368,6.452087
+900,59029,Mönchengladbach Mülfort,51.154236,6.451152
+901,341953,Mönchengladbach NEW,51.156933,6.448341
+902,343070,Mönchengladbach NEW,51.15683,6.448161
+903,457334,Mönchengladbach Nakatenusstr.,51.203827,6.464394
+904,88042,Mönchengladbach Nakatenusstr.,51.203835,6.46478
+905,141732,Mönchengladbach Nelkenstraße,51.21852,6.448125
+906,437972,Mönchengladbach Nelkenstraße,51.218758,6.448197
+907,116370,Mönchengladbach Nellessenweg,51.15759,6.493813
+908,274019,Mönchengladbach Neuwerk Donk,51.234234,6.469155
+909,443413,Mönchengladbach Neuwerk Donk,51.23401,6.469101
+910,215812,Mönchengladbach Neuwerk Markt,51.22441,6.472883
+911,33567,Mönchengladbach Neuwerk Markt,51.22401,6.473476
+912,433966,Mönchengladbach Neuwerk Markt,51.22409,6.473323
+913,164873,Mönchengladbach Nicodemstraße,51.19721,6.412085
+914,208623,Mönchengladbach Nicodemstraße,51.198452,6.412471
+915,361223,Mönchengladbach Nicodemstraße,51.19806,6.413001
+916,36398,Mönchengladbach Nicodemstraße,51.197887,6.411258
+917,51070,Mönchengladbach Niersbrücke,51.1696,6.463684
+918,90099,Mönchengladbach Niersbrücke,51.169525,6.463639
+919,278690,Mönchengladbach Niersstraße,51.113735,6.410575
+920,28219,Mönchengladbach Nikolausstraße,51.209354,6.341315
+921,153961,Mönchengladbach Nonnenmühle,51.213566,6.487211
+922,39756,Mönchengladbach Nonnenmühle,51.21369,6.487202
+923,226859,Mönchengladbach Nordring,51.212513,6.463495
+924,241586,Mönchengladbach Nordring,51.21273,6.463594
+925,340543,Mönchengladbach Nordring,51.21222,6.463639
+926,405314,Mönchengladbach Nordring,51.212337,6.463226
+927,430585,Mönchengladbach Nordstraße,51.171852,6.4396
+928,96439,Mönchengladbach Nordstraße,51.171837,6.43942
+929,330321,Mönchengladbach Oberlinstraße,51.1701,6.431434
+930,394102,Mönchengladbach Oberlinstraße,51.170074,6.431632
+931,28063,Mönchengladbach Ohler,51.175564,6.428569
+932,384340,Mönchengladbach Ohler,51.175613,6.428784
+933,237717,Mönchengladbach Ohler Schule,51.174843,6.423673
+934,442873,Mönchengladbach Ohler Schule,51.17483,6.423484
+935,125852,Mönchengladbach Ohlerkamp,51.17611,6.422397
+936,176029,Mönchengladbach Ohlerkamp,51.176228,6.422352
+937,17283,Mönchengladbach Orffstraße,51.13298,6.407413
+938,314432,Mönchengladbach Orffstraße,51.133186,6.407638
+939,168221,Mönchengladbach Ostmarkstraße,51.19749,6.401979
+940,389376,Mönchengladbach Ostmarkstraße,51.19742,6.402913
+941,310886,Mönchengladbach Pferdmenges,51.154434,6.498494
+942,339432,Mönchengladbach Pferdmenges,51.154434,6.498494
+943,40449,Mönchengladbach Pferdmenges,51.154408,6.498449
+944,57257,Mönchengladbach Pferdmenges,51.154408,6.498449
+945,282171,Mönchengladbach Pilgramsweg,51.200382,6.488729
+946,449231,Mönchengladbach Pilgramsweg,51.200348,6.488927
+947,327122,Mönchengladbach Piperlohof,51.21411,6.341854
+948,108882,Mönchengladbach Poeth,51.197884,6.39216
+949,203258,Mönchengladbach Poeth,51.197857,6.392061
+950,394881,Mönchengladbach Poether Weg,51.200443,6.393867
+951,398346,Mönchengladbach Poether Weg,51.200626,6.392627
+952,36625,Mönchengladbach Polizeipräsidium,51.22177,6.480707
+953,94683,Mönchengladbach Polizeipräsidium,51.22179,6.48059
+954,458172,Mönchengladbach Pongs,51.167072,6.405213
+955,140426,Mönchengladbach Pongs Mitte,51.166157,6.412803
+956,339396,Mönchengladbach Pongs Mitte,51.166203,6.413037
+957,18473,Mönchengladbach Pongser Heide,51.164795,6.405419
+958,243156,Mönchengladbach Postillionsweg,51.11483,6.412848
+959,308337,Mönchengladbach Postillionsweg,51.114937,6.412839
+960,106361,Mönchengladbach Prinzenstraße,51.194668,6.454261
+961,372247,Mönchengladbach Prinzenstraße,51.19453,6.454314
+962,310361,Mönchengladbach Rasseln,51.2186,6.360881
+963,96202,Mönchengladbach Rasseln,51.218643,6.361015
+964,321989,Mönchengladbach Rathaus Rheydt,51.167526,6.446912
+965,93762,Mönchengladbach Rathaus Rheydt,51.16716,6.447227
+966,296355,Mönchengladbach Reinartz,51.143074,6.426395
+967,384944,Mönchengladbach Reinartz,51.143124,6.426233
+968,102138,Mönchengladbach Rembrandtstr.,51.207066,6.427122
+969,169526,Mönchengladbach Rembrandtstr.,51.207054,6.42741
+970,380857,Mönchengladbach Reststrauch,51.149826,6.432629
+971,41461,Mönchengladbach Reststrauch,51.14983,6.432746
+972,419383,Mönchengladbach Reststrauch,51.149746,6.432414
+973,67723,Mönchengladbach Reststrauch,51.149723,6.432494
+974,108472,Mönchengladbach Reyerhütte,51.191223,6.457171
+975,313907,Mönchengladbach Reyerhütte,51.191296,6.457144
+976,239138,Mönchengladbach Rheinstraße,51.18344,6.452383
+977,307155,Mönchengladbach Rheinstraße,51.18382,6.453362
+978,243402,Mönchengladbach Rheydt Markt,51.168495,6.446095
+979,338511,Mönchengladbach Rheydt Markt,51.16846,6.445843
+980,442281,Mönchengladbach Ritterstraße,51.181393,6.471005
+981,93533,Mönchengladbach Ritterstraße,51.181416,6.471005
+982,450607,Mönchengladbach Rochusstraße,51.15777,6.335566
+983,221510,Mönchengladbach Rohrend,51.197113,6.460198
+984,76423,Mönchengladbach Rohrend,51.196964,6.460091
+985,168771,Mönchengladbach Rohrplatz,51.198376,6.457827
+986,199154,Mönchengladbach Rohrplatz,51.197975,6.458563
+987,319740,Mönchengladbach Rohrplatz,51.19817,6.457953
+988,330564,Mönchengladbach Rohrplatz,51.198273,6.457764
+989,343661,Mönchengladbach Rossweide,51.131374,6.418526
+990,348667,Mönchengladbach Rossweide,51.131294,6.418328
+991,107021,Mönchengladbach Ruckes,51.164616,6.491828
+992,115253,Mönchengladbach Römerbrunnen,51.150337,6.465543
+993,443521,Mönchengladbach Römerbrunnen,51.15036,6.465355
+994,240323,Mönchengladbach Römerstraße,51.162144,6.457584
+995,325943,Mönchengladbach Römerstraße,51.162193,6.457557
+996,127758,Mönchengladbach Rönneter Ring,51.19251,6.392672
+997,137318,Mönchengladbach Rönneter Ring,51.192432,6.392951
+998,119559,Mönchengladbach Rönneterweg,51.183212,6.38174
+999,155315,Mönchengladbach Rönneterweg,51.18331,6.381434
+1000,206799,Mönchengladbach Sandgrube,51.10493,6.418822
+1001,433428,Mönchengladbach Sandgrube,51.105167,6.418831
+1002,200125,Mönchengladbach Sandstraße,51.12852,6.406407
+1003,20873,Mönchengladbach Sandstraße,51.128838,6.406551
+1004,216769,Mönchengladbach Sandstraße,51.12878,6.406578
+1005,24949,Mönchengladbach Sandstraße,51.128487,6.406371
+1006,170694,Mönchengladbach Sasserath,51.121502,6.462381
+1007,27149,Mönchengladbach Sasserath,51.121754,6.461573
+1008,312173,Mönchengladbach Sasserath,51.121624,6.4616
+1009,450350,Mönchengladbach Sasserath,51.121647,6.461528
+1010,274378,Mönchengladbach Schelsen Post,51.150433,6.518319
+1011,357148,Mönchengladbach Schelsen Post,51.150887,6.518831
+1012,324814,Mönchengladbach Schmölderpark,51.159832,6.428901
+1013,409456,Mönchengladbach Schmölderpark,51.159714,6.42891
+1014,13279,Mönchengladbach Schorchwerke,51.179817,6.453084
+1015,171965,Mönchengladbach Schorchwerke,51.179752,6.452868
+1016,340346,Mönchengladbach Schorchwerke,51.17956,6.452293
+1017,38286,Mönchengladbach Schorchwerke,51.179604,6.452347
+1018,108289,Mönchengladbach Schumannstraße,51.13441,6.409111
+1019,248002,Mönchengladbach Schumannstraße,51.134518,6.409219
+1020,284168,Mönchengladbach Schwogenstraße,51.20582,6.441891
+1021,334634,Mönchengladbach Schwogenstraße,51.20644,6.441765
+1022,293753,Mönchengladbach Schürenweg,51.20842,6.43527
+1023,313031,Mönchengladbach Schürenweg,51.20842,6.43527
+1024,336454,Mönchengladbach Schürenweg,51.208054,6.435189
+1025,352692,Mönchengladbach Schürenweg,51.208054,6.435189
+1026,334243,Mönchengladbach Schützenstraße,51.159134,6.414959
+1027,426846,Mönchengladbach Schützenstraße,51.159077,6.414519
+1028,182066,Mönchengladbach Seilerweg,51.176826,6.428757
+1029,457818,Mönchengladbach Seilerweg,51.176926,6.428668
+1030,169059,Mönchengladbach Senefelderstr.,51.231094,6.479476
+1031,311238,Mönchengladbach Senefelderstr.,51.231316,6.47927
+1032,251808,Mönchengladbach Sittard,51.136696,6.356084
+1033,290973,Mönchengladbach Sittard,51.13653,6.355823
+1034,317174,Mönchengladbach Sittard,51.136333,6.356784
+1035,154219,Mönchengladbach Sperberstr.,51.15325,6.421176
+1036,450852,Mönchengladbach Sperberstr.,51.153137,6.421086
+1037,129720,Mönchengladbach Spessartstraße,51.16969,6.438037
+1038,34245,Mönchengladbach Spielkaulenweg,51.215775,6.448377
+1039,352266,Mönchengladbach Spielkaulenweg,51.215557,6.448673
+1040,114915,Mönchengladbach Sportplatz 08,51.1769,6.472856
+1041,290118,Mönchengladbach Sportplatz 08,51.17679,6.472955
+1042,175894,Mönchengladbach Spulstraße,51.152973,6.511959
+1043,384195,Mönchengladbach Spulstraße,51.152473,6.512229
+1044,126310,Mönchengladbach Stadtwald,51.154884,6.409273
+1045,288592,Mönchengladbach Stadtwald,51.155792,6.409012
+1046,347524,Mönchengladbach Stadtwald,51.15611,6.409156
+1047,246929,Mönchengladbach Stakelberg,51.209293,6.42343
+1048,82586,Mönchengladbach Stakelberg,51.209152,6.423484
+1049,237205,Mönchengladbach Stationsweg,51.19818,6.39702
+1050,24921,Mönchengladbach Stationsweg,51.197964,6.396292
+1051,278222,Mönchengladbach Stationsweg,51.198036,6.398439
+1052,97688,Mönchengladbach Stationsweg,51.197655,6.397442
+1053,176116,Mönchengladbach Steinrathshof,51.16336,6.422838
+1054,31892,Mönchengladbach Steinrathshof,51.163326,6.423125
+1055,242253,Mönchengladbach Sternstraße,51.19685,6.421247
+1056,345210,Mönchengladbach Sternstraße,51.197124,6.4199
+1057,415067,Mönchengladbach Sternstraße,51.196384,6.42114
+1058,432125,Mönchengladbach Sternstraße,51.19602,6.421077
+1059,451209,Mönchengladbach Steubenstraße,51.176216,6.445933
+1060,77109,Mönchengladbach Steubenstraße,51.175995,6.445951
+1061,333629,Mönchengladbach Stöhr & Co.,51.133606,6.438801
+1062,9626,Mönchengladbach Stöhr & Co.,51.133705,6.439115
+1063,66981,Mönchengladbach Südwall,51.1446,6.356272
+1064,76425,Mönchengladbach Tackhütte,51.17114,6.48033
+1065,212237,Mönchengladbach Talstraße,51.1275,6.462094
+1066,87069,Mönchengladbach Talstraße,51.127483,6.462049
+1067,100284,Mönchengladbach Taunusstraße,51.155,6.435845
+1068,24713,Mönchengladbach Taunusstraße,51.155174,6.436061
+1069,330655,Mönchengladbach Theater,51.16132,6.445098
+1070,418797,Mönchengladbach Theater,51.161366,6.44517
+1071,58002,Mönchengladbach Thomassenweg,51.20367,6.397361
+1072,411531,Mönchengladbach Tierheim,51.20171,6.483887
+1073,44941,Mönchengladbach Tierheim,51.201786,6.48368
+1074,149439,Mönchengladbach Titzer Straße,51.13393,6.444146
+1075,456129,Mönchengladbach Titzer Straße,51.133835,6.444271
+1076,298657,Mönchengladbach Tomper Straße,51.20725,6.334362
+1077,438544,Mönchengladbach Tomper Straße,51.207127,6.334776
+1078,109083,Mönchengladbach Tonderner Str.,51.21169,6.467241
+1079,147895,Mönchengladbach Tonderner Str.,51.211838,6.467448
+1080,288463,Mönchengladbach Trompeterallee,51.131233,6.414654
+1081,89634,Mönchengladbach Trompeterallee,51.131756,6.414375
+1082,109267,Mönchengladbach Turmstraße,51.18976,6.425272
+1083,121388,Mönchengladbach Turmstraße,51.189983,6.426179
+1084,247866,Mönchengladbach Uedding Kirche,51.214474,6.482288
+1085,293898,Mönchengladbach Uedding Kirche,51.21458,6.482243
+1086,322860,Mönchengladbach Uedding Kirche,51.21471,6.482288
+1087,96869,Mönchengladbach Uedding Kirche,51.214497,6.48236
+1088,31942,Mönchengladbach Urftstraße,51.16516,6.429665
+1089,52032,Mönchengladbach Urftstraße,51.16535,6.429683
+1090,199928,Mönchengladbach Venn Kirche,51.202038,6.386923
+1091,261954,Mönchengladbach Venn Kirche,51.20231,6.388154
+1092,277942,Mönchengladbach Venn Kirche,51.20154,6.387803
+1093,75063,Mönchengladbach Venn Kirche,51.20212,6.386752
+1094,145656,Mönchengladbach Vitusbad,51.19779,6.450299
+1095,182175,Mönchengladbach Vitusbad,51.19788,6.450524
+1096,162675,Mönchengladbach Volksbad,51.195087,6.474015
+1097,267687,Mönchengladbach Volksbad,51.19528,6.473961
+1098,437981,Mönchengladbach Volksbad,51.195164,6.474275
+1099,244842,Mönchengladbach Voltastraße,51.202595,6.453713
+1100,260122,Mönchengladbach Voltastraße,51.202415,6.453272
+1101,255243,Mönchengladbach Voosen,51.149673,6.380985
+1102,294919,Mönchengladbach Voosen,51.14972,6.380536
+1103,178863,Mönchengladbach Vorster Straße,51.197834,6.371822
+1104,55199,Mönchengladbach Vorster Straße,51.197845,6.372226
+1105,152243,Mönchengladbach Waater Straße,51.153404,6.491029
+1106,191022,Mönchengladbach Waater Straße,51.153427,6.491109
+1107,103456,Mönchengladbach Waldesrand,51.154324,6.39967
+1108,267115,Mönchengladbach Waldesrand,51.15434,6.399472
+1109,232125,Mönchengladbach Wanlo Kirche,51.096222,6.413495
+1110,6266,Mönchengladbach Wanlo Kirche,51.09594,6.413513
+1111,237416,Mönchengladbach Wanlo Kreuz,51.101276,6.416468
+1112,254031,Mönchengladbach Wanlo Kreuz,51.101475,6.416675
+1113,53094,Mönchengladbach Wanlo Markt,51.094864,6.41327
+1114,183186,Mönchengladbach Wasserturm,51.201183,6.426907
+1115,320391,Mönchengladbach Wasserturm,51.200912,6.426323
+1116,323823,Mönchengladbach Wasserturm,51.201042,6.426952
+1117,446743,Mönchengladbach Wasserturm,51.20083,6.426601
+1118,225244,Mönchengladbach Weg nach Herdt,51.176945,6.341459
+1119,293311,Mönchengladbach Weg nach Herdt,51.17711,6.34145
+1120,391621,Mönchengladbach Weg nach Peel,51.168175,6.328272
+1121,452933,Mönchengladbach Weg nach Peel,51.16832,6.328658
+1122,318726,Mönchengladbach Weg nach Woof,51.158855,6.337129
+1123,41276,Mönchengladbach Weg nach Woof,51.158794,6.337318
+1124,136252,Mönchengladbach Weststraße,51.19042,6.421733
+1125,159462,Mönchengladbach Weststraße,51.190533,6.421912
+1126,150010,Mönchengladbach Wetschewell,51.131626,6.429611
+1127,236313,Mönchengladbach Wetschewell,51.13165,6.429207
+1128,120351,Mönchengladbach Wickrath Bf,51.13201,6.408069
+1129,295759,Mönchengladbach Wickrath Bf,51.131634,6.409803
+1130,304875,Mönchengladbach Wickrath Bf,51.1316,6.409884
+1131,314522,Mönchengladbach Wickrath Bf,51.13192,6.408015
+1132,196475,Mönchengladbach Wickrath Otten,51.135258,6.396131
+1133,325018,Mönchengladbach Wickrath Otten,51.135284,6.396562
+1134,149725,Mönchengladbach Wilhelmshöhe,51.132107,6.424472
+1135,438783,Mönchengladbach Wilhelmshöhe,51.132072,6.424751
+1136,18373,Mönchengladbach Willicher Damm,51.209957,6.474455
+1137,195675,Mönchengladbach Willicher Damm,51.210014,6.474374
+1138,158242,Mönchengladbach Wilms,51.16003,6.500766
+1139,229421,Mönchengladbach Wilms,51.159985,6.500937
+1140,214703,Mönchengladbach Windmühlenweg,51.20334,6.404395
+1141,196673,Mönchengladbach Winkeln Kreuz,51.206264,6.37211
+1142,25118,Mönchengladbach Wolfsittard,51.174118,6.373017
+1143,71668,Mönchengladbach Wolfsittard,51.174294,6.3729
+1144,357812,Mönchengladbach Woof,51.152985,6.324984
+1145,376377,Mönchengladbach Worringer Str.,51.163605,6.485261
+1146,182964,Mönchengladbach Wyenhütte,51.15449,6.349822
+1147,346175,Mönchengladbach Wyenhütte,51.15455,6.349634
+1148,345083,Mönchengladbach Zedernstraße,51.171364,6.428614
+1149,293659,Mönchengladbach Zeppelinstraße,51.208523,6.46248
+1150,436121,Mönchengladbach Zeppelinstraße,51.208096,6.461851
+1151,255317,Mönchengladbach Ziegelgrund,51.181107,6.421697
+1152,428863,Mönchengladbach Zoppenbroich,51.16653,6.470817
+1153,457698,Mönchengladbach Zoppenbroich,51.16645,6.471248
+1154,184922,Mönchengladbach Zur Schmiede,51.1902,6.413136
+1155,52102,Mönchengladbach Zur Schmiede,51.19006,6.412713
+1156,435134,"Mönchengladbach, Am Ringerberg",51.199444,6.413675
+1157,64143,"Mönchengladbach, Am Ringerberg",51.199512,6.41354
+1158,262100,"Mönchengladbach, Dammer Feld",51.22224,6.477383
+1159,384608,"Mönchengladbach, Dammer Feld",51.222214,6.477365
+1160,231413,"Mönchengladbach, Dohler Straße",51.175007,6.46628
+1161,256923,"Mönchengladbach, Dohler Straße",51.17497,6.466388
+1162,202210,"Mönchengladbach, Frankfurter Straße",51.1615,6.447972
+1163,414983,"Mönchengladbach, Frankfurter Straße",51.161427,6.447936
+1164,337278,"Mönchengladbach, Holter Sportstätten",51.19212,6.408473
+1165,54344,"Mönchengladbach, Holter Sportstätten",51.192238,6.408707
+1166,135850,"Mönchengladbach, Kronenstraße",51.166252,6.452751
+1167,334749,"Mönchengladbach, Kronenstraße",51.16647,6.452185
+1168,227364,"Mönchengladbach, Nespelerstraße",51.22213,6.463971
+1169,454060,"Mönchengladbach, Nespelerstraße",51.22213,6.464061
+1170,422205,"Mönchengladbach, Reitbahnstraße",51.16254,6.446041
+1171,278926,"Mönchengladbach, Ruwerstraße",51.166756,6.486366
+1172,243899,"Mönchengladbach, Vogtsgarten",51.15318,6.365058
+1173,368201,"Mönchengladbach, Vogtsgarten",51.153133,6.365157
+1174,16017,"Mönchengladbach, Weberstraße",51.21792,6.463971
+1175,274508,"Mönchengladbach, Weberstraße",51.21792,6.464061
+1176,172187,Rheindahlen Erkelenzer Str.,51.143276,6.351216
+1177,95940,Rheindahlen Erkelenzer Str.,51.143387,6.351041
+1178,259699,Rheindahlen Hilderather Str.,51.14706,6.359313
+1179,369947,Rheindahlen Hilderather Str.,51.146908,6.35924
+1180,160430,Rheydt Marienplatz,51.165855,6.44145
+1181,306279,Rheydt Marienplatz,51.16583,6.441564
+1182,131810,Rheydt Rathaus,51.16683,6.447364
+1183,387994,Rheydt Rathaus,51.167397,6.446912
+1184,289213,Rheydt Schützenstr.,51.15949,6.415373
+1185,373752,Rheydt Schützenstr.,51.159416,6.415473
+1186,259616,Rheydt Stadtwald,51.15561,6.408721
+1187,33957,Rheydt Stadtwald,51.155727,6.40855
+1188,196090,Schorchwerke,51.180107,6.4539
+1189,373161,Schorchwerke,51.179787,6.45321
+1190,1533,Schriefersmühle,51.136642,6.341473
+1191,368470,Schriefersmühle,51.13668,6.34173
+1192,46753,Viersen Helenabrunn Wasserw.,51.224922,6.432189
+1193,766,Viersen Helenabrunn Wasserw.,51.224823,6.431982
+1194,23873,Voosen,51.149666,6.380242
+1195,25948,Voosen,51.149654,6.380371

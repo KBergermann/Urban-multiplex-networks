@@ -1,0 +1,1866 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,161902,Altfranken Hohe Straße,51.03245,13.636219
+1,373945,Altfranken Hohe Straße,51.03245,13.636219
+2,159627,Borsberg Wendeplatz,51.012455,13.896964
+3,317407,Boxdorf Baumwiese,51.111286,13.699946
+4,337843,Boxdorf Baumwiese,51.111248,13.700197
+5,428539,Boxdorf Baumwiese,51.11114,13.700224
+6,68959,Boxdorf Baumwiese,51.11114,13.700251
+7,108423,Brabschütz Dorfplatz,51.069534,13.621757
+8,257536,Brabschütz Dorfplatz,51.06985,13.621164
+9,240458,Cossebaude,51.085045,13.632124
+10,407741,Cossebaude,51.085045,13.632124
+11,439471,Cossebaude Albertplatz,51.08237,13.611659
+12,179909,Cossebaude Alte Feuerwehr,51.08554,13.628539
+13,300279,Cossebaude Alte Feuerwehr,51.084682,13.629563
+14,159272,Cossebaude An den Winkelwiesen,51.089108,13.62296
+15,69557,Cossebaude An den Winkelwiesen,51.089153,13.621837
+16,249596,Cossebaude Bahnhof,51.085514,13.631395
+17,266045,Cossebaude Bahnhof,51.085445,13.631746
+18,390515,Cossebaude Bahnhof,51.085835,13.629446
+19,439727,Cossebaude Bahnhof,51.085583,13.631018
+20,154964,Cossebaude Erna-Berger-Straße,51.087532,13.628548
+21,389407,Cossebaude Erna-Berger-Straße,51.088085,13.628593
+22,256918,Cossebaude Friedhofsweg,51.080265,13.620301
+23,248926,Cossebaude Gewerbegebiet,51.081886,13.638968
+24,285242,Cossebaude Gewerbegebiet,51.081852,13.640154
+25,213198,Cossebaude Gohliser Weg,51.08701,13.639031
+26,294865,Cossebaude Gohliser Weg,51.08701,13.639031
+27,132442,Cossebaude Ludwigstraße,51.087337,13.635339
+28,296177,Cossebaude Ludwigstraße,51.087296,13.635833
+29,42177,Cossebaude Ludwigstraße,51.086082,13.635995
+30,136224,Cossebaude Parkweg,51.082893,13.615971
+31,111991,Cossebaude Schulstraße,51.087837,13.631773
+32,248833,Cossebaude Schulstraße,51.08795,13.631234
+33,415657,Cossebaude Sonnenleite,51.08443,13.623302
+34,335099,Cossebaude Talstraße,51.079132,13.613672
+35,201037,Cossebaude Weinbergstraße,51.0836,13.625943
+36,239037,Cossebaude Weinbergstraße,51.083607,13.625916
+37,271858,Cunnersdorf Gasthaus,51.04259,13.87792
+38,322236,Cunnersdorf Gasthaus,51.042778,13.877983
+39,139254,DD Bautzner/Rothenburger Str.,51.06292,13.75283
+40,27293,DD Bautzner/Rothenburger Str.,51.062603,13.751949
+41,432973,DD Bautzner/Rothenburger Str.,51.06297,13.752506
+42,55089,DD Bautzner/Rothenburger Str.,51.06247,13.751931
+43,271102,DD Betriebshof Waltherstraße,51.060665,13.712082
+44,272583,DD Betriebshof Waltherstraße,51.060696,13.712199
+45,116442,DD Blasewitzer/Fetscherstraße,51.052914,13.778117
+46,152620,DD Blasewitzer/Fetscherstraße,51.05278,13.776428
+47,324463,DD Blasewitzer/Fetscherstraße,51.052944,13.778162
+48,373591,DD Blasewitzer/Fetscherstraße,51.052944,13.778162
+49,375511,DD Blasewitzer/Fetscherstraße,51.052914,13.778117
+50,384373,DD Blasewitzer/Fetscherstraße,51.05236,13.777183
+51,286623,DD C-D-Friedrich-Straße,51.026707,13.75539
+52,304762,DD C-D-Friedrich-Straße,51.02671,13.755049
+53,38452,DD C-D-Friedrich-Straße,51.026672,13.754581
+54,75906,DD C-D-Friedrich-Straße,51.026566,13.756153
+55,109217,DD Cossebauder Str (Hp Cotta),51.06163,13.680533
+56,148202,DD Cossebauder Str (Hp Cotta),51.061653,13.680794
+57,156425,DD Deutsches Hygiene-Museum,51.04779,13.749686
+58,70485,DD Deutsches Hygiene-Museum,51.04755,13.750252
+59,214906,DD Fraunhofer-Institutszentrum,51.02981,13.782798
+60,252768,DD Fraunhofer-Institutszentrum,51.029774,13.78348
+61,343924,DD Fährstelle Kleinzschachwitz,51.009888,13.86193
+62,353277,DD Fährstelle Kleinzschachwitz,51.010223,13.862065
+63,65871,DD Fährstelle Niederpoyritz,51.03216,13.839364
+64,163886,DD Gewerbegebiet Airportpark,51.129124,13.739993
+65,142597,DD Gewerbegebiet Gittersee,51.00857,13.693191
+66,220173,DD Gewerbegebiet Gittersee,51.008564,13.693235
+67,104051,DD Industriepark Klotzsche,51.127884,13.792787
+68,121500,DD Industriepark Klotzsche,51.127495,13.792688
+69,231081,DD Industriepark Klotzsche,51.127884,13.792787
+70,351229,DD Industriepark Klotzsche,51.127884,13.792787
+71,367005,DD Industriepark Klotzsche,51.127674,13.792877
+72,418382,DD Industriepark Klotzsche,51.127884,13.792787
+73,20403,DD Kongresszentrum/H d Presse,51.058342,13.727883
+74,407738,DD Kongresszentrum/H d Presse,51.058228,13.727668
+75,110147,DD Krankenhaus Friedrichstadt,51.0601,13.717625
+76,115470,DD Krankenhaus Friedrichstadt,51.05995,13.717984
+77,437093,DD Landesdirektion Sachsen,51.071815,13.769682
+78,7659,DD Landesdirektion Sachsen,51.071606,13.77076
+79,132490,DD Obere Station Schwebebahn,51.054028,13.820787
+80,178870,DD Obere Station Schwebebahn,51.054523,13.820158
+81,90376,DD Obere Station Schwebebahn,51.054085,13.820859
+82,189222,DD Obere Station Standseilbahn,51.05845,13.818488
+83,435953,DD Prohlis Kaufpark Nickern,50.998333,13.800099
+84,51224,DD Prohlis Kaufpark Nickern,50.998123,13.800117
+85,125666,DD Sankt-Pauli-Friedhof,51.087486,13.737037
+86,237152,DD Sankt-Pauli-Friedhof,51.08754,13.737639
+87,243130,DD Sankt-Pauli-Friedhof,51.08711,13.737451
+88,99195,DD Sankt-Pauli-Friedhof,51.08747,13.737055
+89,255625,DD Schwimmhalle Klotzsche,51.13534,13.780668
+90,344419,DD Schwimmhalle Klotzsche,51.13534,13.780686
+91,395227,DD Wilschdorf Industriegebiet,51.127487,13.72217
+92,57544,DD Wilschdorf Industriegebiet,51.127476,13.722197
+93,170325,DD Wilschdorfer Landstraße,51.126614,13.732061
+94,201382,DD Wilschdorfer Landstraße,51.12634,13.731279
+95,68291,DD Wilschdorfer Landstraße,51.126614,13.732079
+96,93191,DD Wilschdorfer Landstraße,51.126446,13.731315
+97,367929,Dresden Aachener Straße,51.094215,13.711831
+98,43023,Dresden Aachener Straße,51.09541,13.712055
+99,274321,Dresden Abzweig nach Reick,51.016846,13.815496
+100,345859,Dresden Abzweig nach Reick,51.015812,13.815326
+101,367400,Dresden Abzweig nach Reick,51.015522,13.816978
+102,155412,Dresden Achtbeeteweg,51.016212,13.700593
+103,5249,Dresden Achtbeeteweg,51.017647,13.703216
+104,155897,Dresden Adalbert-Stifter-Weg,51.052444,13.659719
+105,132359,Dresden Agentur für Arbeit,51.039314,13.718712
+106,448176,Dresden Agentur für Arbeit,51.040363,13.719475
+107,200918,Dresden Ahlbecker Straße,51.11812,13.7674
+108,262379,Dresden Ahlbecker Straße,51.118164,13.767355
+109,29149,Dresden Ahlbecker Straße,51.11889,13.768056
+110,77756,Dresden Ahlbecker Straße,51.118923,13.768182
+111,173564,Dresden Alaunplatz,51.06986,13.75574
+112,217740,Dresden Alaunplatz,51.06993,13.755498
+113,357204,Dresden Albert-Hensel-Straße,51.094086,13.728108
+114,406462,Dresden Albert-Hensel-Straße,51.094086,13.728108
+115,201439,Dresden Albert-Wolf-Platz,51.00889,13.80415
+116,25705,Dresden Albert-Wolf-Platz,51.008247,13.803288
+117,258363,Dresden Albert-Wolf-Platz,51.009045,13.802731
+118,55502,Dresden Albert-Wolf-Platz,51.007996,13.802857
+119,241505,Dresden Alberthafen,51.063465,13.715756
+120,399811,Dresden Alberthafen,51.063133,13.715613
+121,119900,Dresden Albertplatz,51.063606,13.747655
+122,203332,Dresden Albertplatz,51.06161,13.746003
+123,381282,Dresden Albertplatz,51.063427,13.748275
+124,38769,Dresden Albertplatz,51.063164,13.746515
+125,446467,Dresden Albertplatz,51.06278,13.746065
+126,57961,Dresden Albertplatz,51.062157,13.746173
+127,171891,Dresden Alexander-Puschkin-Pl,51.071354,13.727713
+128,65568,Dresden Alexander-Puschkin-Pl,51.07067,13.728854
+129,193244,Dresden Alfred-Thiele-Straße,51.02913,13.6871
+130,314290,Dresden Alfred-Thiele-Straße,51.029125,13.6871
+131,268037,Dresden Alnpeckstraße,50.998672,13.791358
+132,88717,Dresden Alnpeckstraße,50.998287,13.791035
+133,114590,Dresden Altburgstädtel,51.053677,13.664166
+134,444014,Dresden Altburgstädtel,51.053547,13.663465
+135,131574,Dresden Altcotta,51.056026,13.687882
+136,143762,Dresden Altcotta,51.05646,13.688034
+137,190816,Dresden Altcotta,51.057415,13.6871
+138,211265,Dresden Altcotta,51.05683,13.686741
+139,425988,Dresden Altcotta,51.05691,13.687468
+140,437897,Dresden Altcotta,51.056583,13.687621
+141,220428,Dresden Altdobritz,51.01878,13.810475
+142,371094,Dresden Altdobritz,51.018772,13.810448
+143,410517,Dresden Altenberger Platz,51.035625,13.807402
+144,441416,Dresden Altenberger Platz,51.035473,13.807375
+145,14652,Dresden Altenberger Straße,51.03897,13.805992
+146,291855,Dresden Altenberger Straße,51.03884,13.805112
+147,342093,Dresden Altenberger Straße,51.03875,13.806127
+148,365094,Dresden Altenberger Straße,51.03984,13.805956
+149,433469,Dresden Altenberger Straße,51.039665,13.805264
+150,70903,Dresden Altenberger Straße,51.03927,13.806369
+151,454651,Dresden Alter Postweg,50.992153,13.789131
+152,253882,Dresden Alter Schlachthof,51.067932,13.731656
+153,403980,Dresden Alter Schlachthof,51.06821,13.731432
+154,192498,Dresden Altfranken,51.033707,13.645652
+155,362342,Dresden Altfranken,51.033707,13.645589
+156,26679,Dresden Altkaditz,51.08448,13.672655
+157,314056,Dresden Altkaditz,51.08447,13.672655
+158,277970,Dresden Altkaitz,51.014534,13.726958
+159,33274,Dresden Altkaitz,51.014313,13.726518
+160,214052,Dresden Altleuben,51.011925,13.825755
+161,435937,Dresden Altleuben,51.011562,13.827201
+162,63631,Dresden Altleuben,51.01204,13.82606
+163,97625,Dresden Altleuben,51.01188,13.825728
+164,316719,Dresden Altleubnitz,51.01527,13.768308
+165,328849,Dresden Altleubnitz,51.016262,13.768164
+166,457093,Dresden Altleubnitz,51.015717,13.766816
+167,48578,Dresden Altleubnitz,51.01575,13.767302
+168,100626,Dresden Altlockwitz,50.98983,13.811562
+169,274934,Dresden Altlockwitz,50.98976,13.811526
+170,283721,Dresden Altlockwitz,50.989727,13.811139
+171,82767,Dresden Altlockwitz,50.989655,13.811265
+172,185643,Dresden Altmarkt,51.05029,13.738151
+173,339607,Dresden Altmarkt,51.050186,13.738663
+174,374627,Dresden Altmarkt,51.050224,13.739292
+175,8284,Dresden Altmarkt,51.05003,13.739247
+176,100948,Dresden Altmockritz,51.015205,13.741116
+177,148838,Dresden Altmockritz,51.015194,13.74108
+178,134330,Dresden Altnaußlitz,51.034603,13.687046
+179,162760,Dresden Altnaußlitz,51.034603,13.687046
+180,317099,Dresden Altnickern,50.996174,13.789202
+181,334797,Dresden Altnickern,50.996174,13.789211
+182,211576,Dresden Altnossener Straße,51.04029,13.645256
+183,223269,Dresden Altnossener Straße,51.040085,13.64593
+184,42573,Dresden Altnossener Straße,51.040356,13.645059
+185,76623,Dresden Altnossener Straße,51.039986,13.645274
+186,241803,Dresden Altomsewitz,51.052925,13.660213
+187,128598,Dresden Altpieschen,51.07752,13.717283
+188,151493,Dresden Altpieschen,51.07714,13.717544
+189,177341,Dresden Altpieschen,51.07752,13.717733
+190,294358,Dresden Altpieschen,51.077343,13.717212
+191,191067,Dresden Altplauen,51.031937,13.701743
+192,347955,Dresden Altplauen,51.031937,13.701743
+193,319744,Dresden Altreick,51.013058,13.795095
+194,93548,Dresden Altreick,51.013016,13.795158
+195,111320,Dresden Alttolkewitz,51.029903,13.83216
+196,412018,Dresden Alttolkewitz,51.02993,13.832061
+197,265178,Dresden Alttrachau,51.08416,13.709621
+198,72682,Dresden Alttrachau,51.08434,13.708381
+199,62767,Dresden Altwachwitz,51.03723,13.832582
+200,73357,Dresden Altwachwitz,51.037224,13.832582
+201,246165,Dresden Altwilschdorf,51.123608,13.723733
+202,281740,Dresden Altwilschdorf,51.123413,13.723599
+203,66137,Dresden Am Altfrankener Park,51.039337,13.6515
+204,85263,Dresden Am Altfrankener Park,51.039333,13.651428
+205,216548,Dresden Am Anger,51.012108,13.788825
+206,292206,Dresden Am Anger,51.012108,13.788825
+207,108279,Dresden Am Brüchigt,50.997887,13.852704
+208,306534,Dresden Am Brüchigt,50.99785,13.852543
+209,106553,Dresden Am Festspielhaus,51.116196,13.753539
+210,120425,Dresden Am Festspielhaus,51.116207,13.753566
+211,101968,Dresden Am Galgenberg,50.98712,13.80274
+212,243897,Dresden Am Galgenberg,50.986885,13.802857
+213,396089,Dresden Am Hellerhof,51.094093,13.734693
+214,129492,Dresden Am Hellerrand,51.110268,13.763385
+215,234856,Dresden Am Hellerrand,51.110847,13.763951
+216,259913,Dresden Am Hellerrand,51.110916,13.763493
+217,405325,Dresden Am Hellerrand,51.111332,13.762909
+218,35428,Dresden Am Lehmberg,51.064213,13.673239
+219,41694,Dresden Am Lehmberg,51.0642,13.673248
+220,191277,Dresden Am Olter,51.109642,13.732483
+221,384256,Dresden Am Olter,51.109646,13.732528
+222,230678,Dresden Am Querfeld,51.05631,13.647835
+223,314106,Dresden Am Querfeld,51.05631,13.647835
+224,15394,Dresden Am Schöpsdamm,51.004818,13.886481
+225,376863,Dresden Am Schöpsdamm,51.00501,13.885897
+226,399442,Dresden Am Steinacker,51.11792,13.761319
+227,441954,Dresden Am Steinacker,51.117916,13.761337
+228,155729,Dresden Am Steinigt,51.058533,13.650197
+229,88861,Dresden Am Steinigt,51.058517,13.650125
+230,293982,Dresden Am Urnenfeld,51.08264,13.651976
+231,74697,Dresden Am Urnenfeld,51.08277,13.651778
+232,103532,Dresden Am Waldrand,50.99976,13.900764
+233,156748,Dresden Am Waldrand,50.999752,13.900773
+234,285354,Dresden Am Weißen Adler,51.061928,13.830839
+235,43394,Dresden Am Weißen Adler,51.06185,13.831549
+236,225653,Dresden Am Wiesenrand,50.999443,13.84594
+237,6914,Dresden Am Wiesenrand,50.999046,13.846228
+238,235980,Dresden Am Zschonergrundbad,51.068188,13.655389
+239,28371,Dresden Am Zschonergrundbad,51.068188,13.655362
+240,200373,Dresden Am Zwingerteich,51.054405,13.730408
+241,223676,Dresden Am Zwingerteich,51.052723,13.731917
+242,81204,Dresden Am Zwingerteich,51.05457,13.7303
+243,342170,Dresden Amalie-Dietrich-Platz,51.045322,13.67774
+244,64145,Dresden Amalie-Dietrich-Platz,51.04533,13.678144
+245,373720,Dresden Ammon-/Budapester Str.,51.043865,13.726078
+246,390246,Dresden Ammon-/Budapester Str.,51.043827,13.725952
+247,111604,Dresden Amselsteg,51.05291,13.829151
+248,220921,Dresden Amselsteg,51.053097,13.828037
+249,232855,Dresden Amselsteg,51.0531,13.828037
+250,322304,Dresden Amselsteg,51.05291,13.829151
+251,124298,Dresden An der Bartlake,51.125843,13.736983
+252,182075,Dresden An der Bartlake,51.12561,13.737298
+253,175423,Dresden An der Flutrinne,51.076828,13.699434
+254,18354,Dresden An der Flutrinne,51.07725,13.698823
+255,222382,Dresden An der Flutrinne,51.076767,13.699263
+256,378164,Dresden An der Flutrinne,51.077267,13.698464
+257,148855,Dresden An der Obstplantage,51.01904,13.855759
+258,302917,Dresden An der Obstplantage,51.01904,13.855759
+259,251144,Dresden An der Post,51.001038,13.824731
+260,60643,Dresden An der Post,51.001038,13.824731
+261,417324,Dresden An der Rennbahn,51.017586,13.80804
+262,132942,Dresden Angelikastraße,51.067116,13.783588
+263,171883,Dresden Angelikastraße,51.066906,13.784621
+264,348852,Dresden Angelikastraße,51.066883,13.784702
+265,453855,Dresden Angelikastraße,51.06706,13.784001
+266,64750,Dresden Angelikastraße,51.067036,13.782959
+267,82894,Dresden Angelikastraße,51.066982,13.785178
+268,175861,Dresden Anton-/Leipziger Str.,51.062603,13.736049
+269,21152,Dresden Anton-/Leipziger Str.,51.062943,13.73719
+270,39310,Dresden Anton-/Leipziger Str.,51.062954,13.736678
+271,94306,Dresden Anton-/Leipziger Str.,51.0627,13.737244
+272,117166,Dresden Arkonastraße,51.1224,13.791134
+273,11784,Dresden Arkonastraße,51.12348,13.791448
+274,146373,Dresden Arkonastraße,51.12269,13.791385
+275,416967,Dresden Arkonastraße,51.12348,13.79134
+276,196431,Dresden Arno-Holz-Allee,51.0711,13.765747
+277,266596,Dresden Arno-Schellenberg-Str,50.99121,13.787612
+278,238245,Dresden Arthur-Weineck-Straße,51.052444,13.67685
+279,326700,Dresden Arthur-Weineck-Straße,51.052387,13.677802
+280,15203,Dresden Auf der Höhe,51.05052,13.842796
+281,15442,Dresden Auf der Höhe,51.05053,13.843155
+282,204527,Dresden Auf der Höhe,51.05053,13.843155
+283,363626,Dresden Auf der Höhe,51.05052,13.842796
+284,143117,Dresden Augsburger Straße,51.054207,13.780606
+285,220450,Dresden Augsburger Straße,51.053455,13.781495
+286,267012,Dresden Augsburger Straße,51.053333,13.781935
+287,299086,Dresden Augsburger Straße,51.054043,13.781306
+288,347171,Dresden Augsburger Straße,51.054043,13.781306
+289,86373,Dresden Augsburger Straße,51.053333,13.781971
+290,230251,Dresden Babisnauer Straße,51.01329,13.74293
+291,314209,Dresden Babisnauer Straße,51.01329,13.74293
+292,322970,Dresden Bahnhof Klotzsche,51.11505,13.78896
+293,388603,Dresden Bahnhof Klotzsche,51.11457,13.788556
+294,442596,Dresden Bahnhof Klotzsche,51.115063,13.788879
+295,61414,Dresden Bahnhof Klotzsche,51.114864,13.788726
+296,6809,Dresden Bahnhof Klotzsche,51.114864,13.788637
+297,76886,Dresden Bahnhof Klotzsche,51.11504,13.788978
+298,11995,Dresden Bahnhof Mitte,51.05636,13.723015
+299,164824,Dresden Bahnhof Mitte,51.05542,13.723877
+300,193548,Dresden Bahnhof Mitte,51.055496,13.724048
+301,213718,Dresden Bahnhof Mitte,51.056236,13.722664
+302,423781,Dresden Bahnhof Mitte,51.055466,13.722853
+303,51131,Dresden Bahnhof Mitte,51.055702,13.722485
+304,227640,Dresden Bahnhof Neustadt,51.065723,13.741915
+305,237463,Dresden Bahnhof Neustadt,51.064777,13.741098
+306,240526,Dresden Bahnhof Neustadt,51.064697,13.741619
+307,384735,Dresden Bahnhof Neustadt,51.064613,13.741771
+308,84524,Dresden Bahnhof Neustadt,51.065437,13.741852
+309,264375,Dresden Bahnhofstraße,51.00237,13.842149
+310,266466,Dresden Bahnhofstraße,51.00306,13.841637
+311,402138,Dresden Bahnhofstraße,51.00272,13.841646
+312,458346,Dresden Bahnhofstraße,51.0022,13.841646
+313,325361,Dresden Bamberger Straße,51.034107,13.71263
+314,406721,Dresden Bamberger Straße,51.033836,13.712334
+315,323594,Dresden Bannewitzer Straße,51.012775,13.730228
+316,421014,Dresden Bannewitzer Straße,51.012707,13.7295
+317,29228,Dresden Baudissinstraße,51.08791,13.699542
+318,78680,Dresden Baudissinstraße,51.087955,13.699721
+319,208775,Dresden Beckerstraße,51.117947,13.735456
+320,346299,Dresden Beckerstraße,51.117897,13.735807
+321,114743,Dresden Bedrich-Smetana-Straße,50.9948,13.818658
+322,458593,Dresden Bedrich-Smetana-Straße,50.995117,13.819305
+323,255055,Dresden Beerenhut,51.033264,13.669143
+324,46848,Dresden Beerenhut,51.033237,13.669143
+325,146267,Dresden Begerburg,51.022633,13.692652
+326,244844,Dresden Begerburg,51.022633,13.692652
+327,142876,Dresden Bergfelderweg,51.02246,13.804025
+328,78697,Dresden Bergfelderweg,51.02233,13.80398
+329,292848,Dresden Berggartenstraße,51.049046,13.806567
+330,346358,Dresden Berggartenstraße,51.049397,13.806235
+331,175962,Dresden Berggießhübler Straße,51.035446,13.81211
+332,24140,Dresden Berggießhübler Straße,51.035824,13.811229
+333,123902,Dresden Bergmannstraße,51.043343,13.78728
+334,206002,Dresden Bergmannstraße,51.04332,13.788169
+335,213252,Dresden Bergmannstraße,51.04331,13.787316
+336,452750,Dresden Bergmannstraße,51.04329,13.788107
+337,132947,Dresden Bernhardstraße,51.034744,13.720634
+338,91851,Dresden Bernhardstraße,51.03488,13.720643
+339,246748,Dresden Berthold-Haupt-Straße,51.010216,13.830238
+340,354336,Dresden Berthold-Haupt-Straße,51.00969,13.831711
+341,424990,Dresden Berthold-Haupt-Straße,51.009956,13.831531
+342,523,Dresden Berthold-Haupt-Straße,51.00984,13.830893
+343,51762,Dresden Betriebshof Gorbitz,51.046944,13.653153
+344,98766,Dresden Betriebshof Gorbitz,51.046967,13.653081
+345,216045,Dresden Betriebshof Gruna,51.02779,13.777345
+346,319469,Dresden Betriebshof Gruna,51.02805,13.77694
+347,161067,Dresden Bf Neustadt (Hansastr),51.06643,13.73905
+348,312020,Dresden Bf Neustadt (Hansastr),51.066704,13.739175
+349,203004,Dresden Birkenhainer Straße,51.05305,13.690918
+350,458269,Dresden Birkenhainer Straße,51.053078,13.690909
+351,148631,Dresden Bischofsweg,51.07172,13.75097
+352,198057,Dresden Bischofsweg,51.07125,13.751087
+353,207587,Dresden Bischofsweg,51.071106,13.750512
+354,236122,Dresden Bischofsweg,51.071476,13.750072
+355,167869,Dresden Bodemerweg,51.012398,13.87024
+356,430522,Dresden Bodemerweg,51.012707,13.869485
+357,395306,Dresden Bonhoefferplatz,51.03895,13.701626
+358,99691,Dresden Bonhoefferplatz,51.03895,13.701626
+359,124637,Dresden Borsbergblick,50.9952,13.866287
+360,165900,Dresden Borsbergblick,50.9952,13.866287
+361,396779,Dresden Boxdorfer Straße,51.087566,13.718846
+362,80401,Dresden Boxdorfer Straße,51.087868,13.718909
+363,161933,Dresden Breitscheidstraße,51.013763,13.811427
+364,261712,Dresden Breitscheidstraße,51.013844,13.811642
+365,277526,Dresden Breitscheidstraße,51.013794,13.811337
+366,288738,Dresden Bremer Straße,51.06053,13.695275
+367,402852,Dresden Bremer Straße,51.0607,13.694745
+368,143113,Dresden Brunnenweg,51.115623,13.746119
+369,18824,Dresden Brunnenweg,51.115845,13.745688
+370,229332,Dresden Brunnenweg,51.115505,13.7462
+371,74727,Dresden Brunnenweg,51.115723,13.745787
+372,167132,Dresden Btf Trachenberge,51.087704,13.729707
+373,286078,Dresden Btf Trachenberge,51.08733,13.730039
+374,82144,Dresden Btf Trachenberge,51.08699,13.729357
+375,168398,Dresden Buchenstraße,51.079357,13.746856
+376,332007,Dresden Buchenstraße,51.078606,13.747341
+377,144487,Dresden Budapester Straße,51.043495,13.724668
+378,158592,Dresden Budapester Straße,51.04379,13.725
+379,325993,Dresden Budapester Straße,51.04384,13.725
+380,52989,Dresden Budapester Straße,51.04364,13.724416
+381,137130,Dresden Bunsenstraße,51.08236,13.706737
+382,341721,Dresden Bunsenstraße,51.08242,13.706989
+383,396949,Dresden Bunsenstraße,51.0822,13.707096
+384,213449,Dresden Burgenlandstraße,51.025867,13.830085
+385,222872,Dresden Burgenlandstraße,51.025463,13.829384
+386,102806,Dresden Burgkstraße,51.04903,13.695382
+387,347483,Dresden Burgkstraße,51.04899,13.695598
+388,128079,Dresden Bärensteiner Straße,51.034084,13.800449
+389,365301,Dresden Bärensteiner Straße,51.03406,13.80044
+390,29673,Dresden Bärwalder Straße,51.081493,13.74541
+391,310586,Dresden Bärwalder Straße,51.081486,13.74541
+392,157325,Dresden Böhmertstraße,51.069057,13.786867
+393,197344,Dresden Böhmertstraße,51.06895,13.786948
+394,231215,Dresden Böhmertstraße,51.068806,13.786876
+395,409496,Dresden Böhmertstraße,51.06904,13.786939
+396,108303,Dresden Bönischplatz,51.05565,13.763026
+397,422383,Dresden Bönischplatz,51.055485,13.762657
+398,132262,Dresden Bühlau Ullersdorfer Pl,51.06226,13.854187
+399,150650,Dresden Bühlau Ullersdorfer Pl,51.062096,13.855238
+400,156657,Dresden Bühlau Ullersdorfer Pl,51.061485,13.855004
+401,160456,Dresden Bühlau Ullersdorfer Pl,51.062157,13.853261
+402,170583,Dresden Bühlau Ullersdorfer Pl,51.0626,13.855256
+403,230017,Dresden Bühlau Ullersdorfer Pl,51.062214,13.854375
+404,280172,Dresden Bühlau Ullersdorfer Pl,51.062134,13.853459
+405,377833,Dresden Bühlau Ullersdorfer Pl,51.062134,13.854824
+406,432760,Dresden Bühlau Ullersdorfer Pl,51.06251,13.85531
+407,454612,Dresden Bühlau Ullersdorfer Pl,51.062214,13.854312
+408,56499,Dresden Bühlau Ullersdorfer Pl,51.062263,13.855031
+409,8271,Dresden Bühlau Ullersdorfer Pl,51.06212,13.855184
+410,179414,Dresden Bünaustraße,51.043495,13.697853
+411,384851,Dresden Bünaustraße,51.04346,13.69779
+412,330704,Dresden Bürgerstraße,51.076965,13.725503
+413,377923,Dresden Bürgerstraße,51.07684,13.725871
+414,244517,Dresden Calberlastraße,51.05108,13.819673
+415,49014,Dresden Calberlastraße,51.05107,13.819682
+416,163034,Dresden Campingplatz Mockritz,51.014465,13.748446
+417,361538,Dresden Campingplatz Mockritz,51.01445,13.748455
+418,229317,Dresden Carolaplatz,51.057365,13.744862
+419,448006,Dresden Carolaplatz,51.057804,13.745886
+420,453627,Dresden Carolaplatz,51.058064,13.745985
+421,61971,Dresden Carolaplatz,51.057346,13.745284
+422,180725,Dresden Chamissostraße,51.048126,13.687163
+423,22418,Dresden Chamissostraße,51.049232,13.68816
+424,259387,Dresden Chamissostraße,51.04928,13.687738
+425,212455,Dresden Chemnitzer Straße,51.03709,13.716062
+426,301722,Dresden Chemnitzer Straße,51.03666,13.716187
+427,34271,Dresden Chemnitzer Straße,51.037163,13.715891
+428,433857,Dresden Chemnitzer Straße,51.03645,13.716978
+429,100528,Dresden Clara-Viebig-Straße,51.03856,13.705084
+430,4028,Dresden Clara-Viebig-Straße,51.037643,13.705075
+431,235785,Dresden Clara-Zetkin-Straße,51.037983,13.698589
+432,283673,Dresden Clara-Zetkin-Straße,51.037903,13.697332
+433,220982,Dresden Clausen-Dahl-Straße,51.01732,13.76113
+434,287952,Dresden Clausen-Dahl-Straße,51.017387,13.761112
+435,379250,Dresden Comeniusplatz,51.04117,13.767445
+436,400960,Dresden Comeniusplatz,51.042164,13.765559
+437,43039,Dresden Conertplatz,51.04589,13.693155
+438,96634,Dresden Conertplatz,51.04598,13.693128
+439,273817,Dresden Corinthstraße,51.021393,13.764157
+440,33601,Dresden Corinthstraße,51.021122,13.764957
+441,327759,Dresden Coschütz,51.016293,13.698437
+442,363546,Dresden Coschütz,51.015934,13.699272
+443,365152,Dresden Coschützer Straße,51.028145,13.707366
+444,429753,Dresden Coschützer Straße,51.028328,13.707043
+445,120535,Dresden Cottaer Straße,51.050575,13.71343
+446,224042,Dresden Cottaer Straße,51.05037,13.713097
+447,258593,Dresden Cottaer Straße,51.050457,13.713088
+448,403369,Dresden Cottaer Straße,51.050575,13.713555
+449,299841,Dresden Coventrystraße,51.048058,13.680542
+450,310556,Dresden Coventrystraße,51.048294,13.680785
+451,360195,Dresden Coventrystraße,51.04814,13.680443
+452,18475,Dresden Cunewalder Straße,51.05931,13.857951
+453,217256,Dresden Cunewalder Straße,51.059296,13.858004
+454,240510,Dresden Cunewalder Straße,51.05931,13.858094
+455,384343,Dresden Cunewalder Straße,51.059204,13.858202
+456,442759,Dresden Cunnersdorfer Straße,51.018078,13.707168
+457,48885,Dresden Cunnersdorfer Straße,51.018105,13.707096
+458,60030,Dresden Cäcilienstraße,51.024845,13.770212
+459,7198,Dresden Cäcilienstraße,51.02477,13.769628
+460,158243,Dresden Cämmerswalder Straße,51.022243,13.71705
+461,304209,Dresden Cämmerswalder Straße,51.022167,13.716834
+462,335215,Dresden Cämmerswalder Straße,51.02205,13.717643
+463,404726,Dresden Cämmerswalder Straße,51.02234,13.717813
+464,230333,Dresden Dahlienweg,51.046013,13.679572
+465,23508,Dresden Dahlienweg,51.046238,13.67977
+466,239572,Dresden Dahlienweg,51.045628,13.679994
+467,29749,Dresden Dahlienweg,51.046402,13.679851
+468,126886,Dresden Dammweg,51.06827,13.745356
+469,311110,Dresden Dampfschiffstraße,51.006714,13.876734
+470,429562,Dresden Dampfschiffstraße,51.00559,13.875638
+471,240596,Dresden Diakonissenkrankenhaus,51.06415,13.762163
+472,367034,Dresden Diakonissenkrankenhaus,51.0645,13.763412
+473,151214,Dresden Dohnaer Straße,51.019287,13.768056
+474,52689,Dresden Dohnaer Straße,51.01929,13.768029
+475,15473,Dresden Dora-Stock-Straße,51.022667,13.750054
+476,140966,Dresden Dorfhainer Straße,51.01881,13.718981
+477,335122,Dresden Dorfhainer Straße,51.01881,13.718981
+478,164375,Dresden Dorfplatz Oberpoyritz,51.002377,13.894503
+479,387739,Dresden Dorfplatz Oberpoyritz,51.002377,13.894503
+480,16523,Dresden Dorfstraße,50.997032,13.821865
+481,61344,Dresden Dorfstraße,50.996513,13.821461
+482,311655,Dresden Dornblüthstraße,51.04498,13.799138
+483,39090,Dresden Dornblüthstraße,51.04498,13.799138
+484,406178,Dresden Dornblüthstraße,51.044884,13.799362
+485,406975,Dresden Dornblüthstraße,51.045048,13.798922
+486,198247,Dresden Dorothea-Erxleben-Str,51.092827,13.720652
+487,248015,Dresden Dorothea-Erxleben-Str,51.09277,13.719835
+488,33854,Dresden Dorothea-Erxleben-Str,51.092945,13.720167
+489,444700,Dresden Dorothea-Erxleben-Str,51.092957,13.720607
+490,14070,Dresden Droste-Hülshoff-Straße,51.061966,13.666879
+491,217325,Dresden Droste-Hülshoff-Straße,51.06197,13.666879
+492,38399,Dresden Duckwitzstraße,51.095634,13.724542
+493,407415,Dresden Duckwitzstraße,51.095634,13.724542
+494,257647,Dresden Dungerstraße,51.089333,13.695032
+495,337016,Dresden Dungerstraße,51.089157,13.695463
+496,397483,Dresden Döbelner Straße,51.090755,13.73145
+497,85218,Dresden Döbelner Straße,51.090744,13.731441
+498,345361,Dresden Dölzschen,51.025303,13.68763
+499,11890,Dresden Dölzschener Straße,51.03269,13.697592
+500,320985,Dresden Dölzschener Straße,51.032955,13.697772
+501,332203,Dresden Dölzschener Straße,51.03296,13.697754
+502,86596,Dresden Dölzschener Straße,51.032757,13.697493
+503,97752,Dresden Dölzschener Straße,51.032642,13.698095
+504,390970,Dresden Dörnichtweg,51.116714,13.769547
+505,394816,Dresden Dörnichtweg,51.11615,13.770437
+506,119603,Dresden Dürerstraße,51.05196,13.757959
+507,362542,Dresden Dürerstraße,51.051888,13.757878
+508,337801,Dresden Ebertplatz,51.041595,13.705345
+509,129842,Dresden Eichbergstraße,51.01518,13.848177
+510,39804,Dresden Eichbergstraße,51.014896,13.848177
+511,27194,Dresden Eisenbahnstraße,51.06485,13.737801
+512,328337,Dresden ElbePark,51.081936,13.695724
+513,335266,Dresden ElbePark,51.081924,13.69479
+514,257969,Dresden Elbschlösser,51.06599,13.797781
+515,334298,Dresden Elbschlösser,51.065975,13.797772
+516,182607,Dresden Elisabethstraße,51.058746,13.840272
+517,358694,Dresden Elisabethstraße,51.058426,13.839041
+518,105678,Dresden Elsterweg,51.114017,13.727982
+519,353899,Dresden Elsterweg,51.114193,13.727973
+520,414916,Dresden Enno-Heidebroek-Str.,51.019238,13.789804
+521,433285,Dresden Enno-Heidebroek-Str.,51.018856,13.789777
+522,161940,Dresden Erich-Kästner-Straße,50.99567,13.803351
+523,209711,Dresden Erich-Kästner-Straße,50.995647,13.804519
+524,361622,Dresden Erich-Kästner-Straße,50.99583,13.803405
+525,40236,Dresden Erich-Kästner-Straße,50.99581,13.803189
+526,30549,Dresden Ernst-Toller-Straße,51.00139,13.802596
+527,450647,Dresden Ernst-Toller-Straße,51.001415,13.802596
+528,13088,Dresden Eschebachstraße,51.081604,13.733282
+529,160659,Dresden Eschebachstraße,51.081367,13.732986
+530,225600,Dresden Eugen-Bracht-Straße,51.02268,13.774371
+531,330787,Dresden Eugen-Bracht-Straße,51.022655,13.774326
+532,239079,Dresden Fabricestraße,51.09025,13.743784
+533,341070,Dresden Fabricestraße,51.09025,13.743793
+534,433761,Dresden Fehrmannweg,51.089073,13.642759
+535,327564,Dresden Felsenkeller,51.02252,13.697395
+536,364581,Dresden Felsenkeller,51.02252,13.697395
+537,250614,Dresden Festspielhaus Hellerau,51.112545,13.751904
+538,303420,Dresden Festspielhaus Hellerau,51.11259,13.751042
+539,385231,Dresden Festspielhaus Hellerau,51.112556,13.750916
+540,457079,Dresden Festspielhaus Hellerau,51.11249,13.751536
+541,27753,Dresden Fetscherplatz,51.0464,13.772979
+542,338227,Dresden Fetscherplatz,51.04648,13.770302
+543,39492,Dresden Fetscherplatz,51.046444,13.770913
+544,425692,Dresden Fetscherplatz,51.04653,13.772656
+545,107197,Dresden Fischhausstraße,51.073742,13.794134
+546,200114,Dresden Fischhausstraße,51.073734,13.794161
+547,309453,Dresden Fischhausstraße,51.073517,13.793811
+548,400286,Dresden Fischhausstraße,51.073788,13.794062
+549,225432,Dresden Flensburger Straße,51.075638,13.666232
+550,237864,Dresden Flensburger Straße,51.07558,13.666196
+551,326490,Dresden Flughafen,51.124146,13.765442
+552,424842,Dresden Flughafen West,51.122307,13.76396
+553,48669,Dresden Flughafen West,51.122334,13.763942
+554,149214,Dresden Flughafenstraße,51.120846,13.764032
+555,156049,Dresden Flughafenstraße,51.12095,13.763735
+556,309955,Dresden Flughafenstraße,51.11995,13.764723
+557,74311,Dresden Flughafenstraße,51.119892,13.764652
+558,179207,Dresden Flugzeugwerke,51.126987,13.772368
+559,191126,Dresden Flugzeugwerke,51.12698,13.772377
+560,175619,Dresden Flügelweg,51.061447,13.690882
+561,241178,Dresden Flügelweg,51.061317,13.691511
+562,258912,Dresden Flügelweg,51.061253,13.690037
+563,39083,Dresden Flügelweg,51.061264,13.690433
+564,307521,Dresden Fontane-Center,51.12299,13.785196
+565,86012,Dresden Fontane-Center,51.122528,13.784909
+566,281864,Dresden Frankenbergstraße,51.036507,13.697224
+567,315871,Dresden Frankenbergstraße,51.03613,13.697287
+568,213035,Dresden Freibad Wostra,50.9981,13.867042
+569,242094,Dresden Freibad Wostra,50.99756,13.867275
+570,227198,Dresden Freiheit,51.058308,13.656611
+571,451030,Dresden Freiheit,51.058365,13.656611
+572,322637,Dresden Freystraße,51.008293,13.854609
+573,328785,Dresden Freystraße,51.008526,13.854699
+574,40439,Dresden Freystraße,51.008606,13.855606
+575,75658,Dresden Freystraße,51.008537,13.854869
+576,130766,Dresden Friedensstraße,51.07339,13.741062
+577,46025,Dresden Friedensstraße,51.07354,13.740702
+578,244950,Dresden Friedhof Leuben,51.013405,13.824264
+579,414414,Dresden Friedhof Leuben,51.01313,13.82394
+580,111986,Dresden Fritz-Meinhardt-Straße,51.001484,13.794107
+581,340564,Dresden Fritz-Meinhardt-Straße,51.001987,13.793568
+582,90049,Dresden Fritz-Meinhardt-Straße,51.000042,13.792598
+583,218221,Dresden Fußweg nach Borthen,50.977978,13.794098
+584,304138,Dresden Fußweg nach Borthen,50.977875,13.79408
+585,188272,Dresden Fährstelle Johannstadt,51.061863,13.766412
+586,40565,Dresden Fährstelle Laubegast,51.03182,13.837855
+587,121958,Dresden Fährstelle Neustadt,51.062683,13.765604
+588,361802,Dresden Fährstelle Pillnitz,51.011105,13.86334
+589,151724,Dresden Försterlingstraße,51.000458,13.829573
+590,333099,Dresden Försterlingstraße,51.000336,13.830273
+591,270071,Dresden Fürstenhainer Straße,51.08592,13.683058
+592,318747,Dresden Fürstenhainer Straße,51.08562,13.68357
+593,277195,Dresden Gabelsbergerstraße,51.049583,13.77447
+594,361754,Dresden Gabelsbergerstraße,51.049553,13.774443
+595,212410,Dresden Gamigstraße,51.006027,13.787496
+596,238563,Dresden Gamigstraße,51.00558,13.788439
+597,131459,Dresden Gartenstraße,51.08912,13.637827
+598,385634,Dresden Gasanstaltstraße,51.028435,13.786561
+599,443463,Dresden Gasanstaltstraße,51.02866,13.786004
+600,148741,Dresden Georg-Arnhold-Bad,51.042274,13.751015
+601,448845,Dresden Georg-Arnhold-Bad,51.04274,13.751527
+602,138974,Dresden Georg-Palitzsch-Straße,51.001858,13.797781
+603,192903,Dresden Georg-Palitzsch-Straße,51.002308,13.798015
+604,333032,Dresden Gerichtsstraße,51.050594,13.75212
+605,442773,Dresden Gerichtsstraße,51.05069,13.751895
+606,238553,Dresden Gerokstraße,51.05292,13.761903
+607,54871,Dresden Gerokstraße,51.052937,13.761894
+608,150512,Dresden Gewerbegebiet Kaditz,51.07811,13.690711
+609,394407,Dresden Gewerbegebiet Kaditz,51.078136,13.690541
+610,259322,Dresden Gitterseebrücke,51.01806,13.675566
+611,80648,Dresden Gitterseebrücke,51.017513,13.67358
+612,102387,Dresden Gohlis,51.085194,13.645194
+613,275910,Dresden Gohlis,51.085186,13.645194
+614,295613,Dresden Gombsener Straße,51.00253,13.764292
+615,68272,Dresden Gombsener Straße,51.002514,13.764391
+616,335476,Dresden Gondelweg,51.00517,13.856217
+617,63806,Dresden Gondelweg,51.004993,13.856504
+618,222351,Dresden Gorbitzer Straße,51.053097,13.672341
+619,362140,Dresden Gorbitzer Straße,51.052864,13.673185
+620,25887,Dresden Gottfried-Keller-Str.,51.06098,13.677659
+621,403592,Dresden Gottfried-Keller-Str.,51.06093,13.677452
+622,93320,Dresden Gottfried-Keller-Str.,51.061333,13.678144
+623,227180,Dresden Gottleubaer Straße,51.041096,13.801267
+624,255787,Dresden Gottleubaer Straße,51.041443,13.800144
+625,357232,Dresden Grenzstraße (Bus),51.12737,13.781091
+626,94513,Dresden Grenzstraße (Bus),51.127377,13.781055
+627,11132,Dresden Gret-Palucca-Straße,51.03901,13.739346
+628,365050,Dresden Gret-Palucca-Straße,51.03881,13.739759
+629,277211,Dresden Grillparzerstraße,51.05292,13.681899
+630,432201,Dresden Grillparzerstraße,51.05278,13.681908
+631,150654,Dresden Großenhainer Platz,51.073322,13.735268
+632,377541,Dresden Großenhainer Platz,51.07332,13.735223
+633,137458,Dresden Großglocknerstraße,51.0181,13.831199
+634,440598,Dresden Großglocknerstraße,51.017105,13.829402
+635,101334,Dresden Grunaer Weg,51.030857,13.780785
+636,186678,Dresden Grunaer Weg,51.031128,13.780579
+637,243903,Dresden Grunaer Weg,51.030945,13.780013
+638,214251,Dresden Grundstraße,51.061817,13.848626
+639,304884,Dresden Grundstraße,51.06185,13.848536
+640,330762,Dresden Grundstraße,51.061813,13.847602
+641,445162,Dresden Grundstraße,51.061848,13.848348
+642,293540,Dresden Grüner Weg,51.113724,13.773257
+643,395574,Dresden Grüner Weg,51.113625,13.773365
+644,168255,Dresden Guerickestraße,51.005787,13.827327
+645,394118,Dresden Guerickestraße,51.00483,13.826492
+646,380119,Dresden Gustav-Freytag-Straße,51.041676,13.812783
+647,426440,Dresden Gustav-Freytag-Straße,51.042084,13.813259
+648,236953,Dresden Gustavheim,51.025463,13.851465
+649,74097,Dresden Gustavheim,51.025524,13.851384
+650,100680,Dresden Gutenbergstraße,51.05732,13.770724
+651,236865,Dresden Gutenbergstraße,51.057114,13.769619
+652,370230,Dresden Göppersdorfer Weg,50.997837,13.809792
+653,89598,Dresden Göppersdorfer Weg,50.997765,13.80928
+654,25642,Dresden Görlitzer Straße,51.06605,13.753674
+655,386661,Dresden Görlitzer Straße,51.06605,13.753656
+656,134742,Dresden Hamburger Straße,51.059166,13.701931
+657,305989,Dresden Hamburger Straße,51.059216,13.701617
+658,152790,Dresden Hammeraue,51.06791,13.666385
+659,45139,Dresden Hammeraue,51.067932,13.666124
+660,200095,Dresden Hans-Dankner-Straße,51.0425,13.742176
+661,289440,Dresden Hans-Dankner-Straße,51.042625,13.742023
+662,270689,Dresden Hans-Oster-Straße,51.074795,13.76087
+663,81440,Dresden Hans-Oster-Straße,51.075016,13.760627
+664,181493,Dresden Hauptbahnhof,51.03968,13.733372
+665,329059,Dresden Hauptbahnhof,51.03993,13.73419
+666,439975,Dresden Hauptbahnhof,51.040924,13.733031
+667,82696,Dresden Hauptbahnhof,51.039726,13.733767
+668,86791,Dresden Hauptbahnhof,51.03975,13.733516
+669,97895,Dresden Hauptbahnhof,51.041096,13.732689
+670,175718,Dresden Hauptbahnhof Nord,51.04149,13.735178
+671,354502,Dresden Hauptbahnhof Nord,51.04129,13.734899
+672,340985,Dresden Hbf,51.04056,13.732035
+673,56470,Dresden Hbf (Strehlener Str.),51.038776,13.733776
+674,214180,Dresden Hbf Strehlener Str.,51.03868,13.73394
+675,135184,Dresden Hebbelplatz,51.051384,13.682833
+676,386972,Dresden Hebbelplatz,51.05113,13.682635
+677,263228,Dresden Heckenweg,51.008736,13.840101
+678,413430,Dresden Heckenweg,51.00861,13.84099
+679,10688,Dresden Heeresbäckerei,51.081722,13.760034
+680,113456,Dresden Heeresbäckerei,51.08201,13.760223
+681,403989,Dresden Hegereiterstraße,51.06196,13.843721
+682,51974,Dresden Hegereiterstraße,51.06193,13.843658
+683,210670,Dresden Heidefriedhof,51.104385,13.710618
+684,393724,Dresden Heidefriedhof,51.10495,13.710214
+685,154626,Dresden Heidemühle,51.094395,13.84144
+686,216903,Dresden Heidemühle,51.09441,13.841556
+687,442564,Dresden Heidemühle,51.09441,13.841556
+688,64761,Dresden Heidemühle,51.094395,13.84144
+689,400622,Dresden Heidenschanze,51.021,13.681683
+690,457436,Dresden Heidenschanze,51.02127,13.684315
+691,246535,Dresden Heilbronner Straße,51.010254,13.701204
+692,261420,Dresden Heilbronner Straße,51.009502,13.700754
+693,243818,Dresden Heinrich-Schütz-Straße,51.04599,13.812882
+694,88836,Dresden Heinrich-Schütz-Straße,51.04578,13.813062
+695,228086,Dresden Heinrich-Tessenow-Weg,51.112427,13.759504
+696,250355,Dresden Heinrich-Tessenow-Weg,51.112404,13.760465
+697,364109,Dresden Heinrich-Tessenow-Weg,51.112507,13.759495
+698,362440,Dresden Heinrich-Zille-Straße,51.02566,13.757276
+699,34149,Dresden Helena-Rott-Straße,50.990414,13.79506
+700,69178,Dresden Helena-Rott-Straße,50.990417,13.79506
+701,162405,Dresden Hellerau Kiefernweg,51.1164,13.740442
+702,162573,Dresden Hellerau Kiefernweg,51.117092,13.740649
+703,244893,Dresden Hellerau Kiefernweg,51.116467,13.739957
+704,292987,Dresden Hellerau Kiefernweg,51.117092,13.74072
+705,190916,Dresden Hellerberge,51.099876,13.73569
+706,246020,Dresden Hellerberge,51.099895,13.735905
+707,163557,Dresden Hellerhofstraße,51.098434,13.731782
+708,376074,Dresden Hellerhofstraße,51.097973,13.731638
+709,285811,Dresden Hellersiedlung,51.09186,13.765146
+710,373350,Dresden Hellersiedlung,51.091625,13.764867
+711,251660,Dresden Helmholtzstraße,51.025547,13.725458
+712,314888,Dresden Helmholtzstraße,51.025547,13.725458
+713,138083,Dresden Hepkeplatz,51.040195,13.788672
+714,93231,Dresden Hepkeplatz,51.03977,13.788394
+715,263906,Dresden Hepkestraße,51.03286,13.805426
+716,55086,Dresden Hepkestraße,51.032803,13.805264
+717,157988,Dresden Hermann-Löns-Straße,51.06678,13.866125
+718,248251,Dresden Hermann-Löns-Straße,51.06711,13.866925
+719,439860,Dresden Hermann-Löns-Straße,51.06711,13.866925
+720,77094,Dresden Hermann-Löns-Straße,51.06678,13.866125
+721,283760,Dresden Hermann-Michel-Str,51.00557,13.688412
+722,37239,Dresden Hermann-Michel-Str,51.00557,13.688421
+723,125571,Dresden Hermann-Seidel-Straße,51.027905,13.834621
+724,427609,Dresden Hermann-Seidel-Straße,51.027847,13.834621
+725,217191,Dresden Heroldstraße,51.062828,13.670346
+726,431453,Dresden Heroldstraße,51.062767,13.670275
+727,353966,Dresden Hirtenstraße,51.04005,13.659944
+728,415670,Dresden Hirtenstraße,51.039997,13.659378
+729,150080,Dresden Hornweg,51.05377,13.86405
+730,179405,Dresden Hornweg,51.053772,13.864014
+731,180946,Dresden Hornweg,51.053665,13.86387
+732,442995,Dresden Hornweg,51.0535,13.864553
+733,455716,Dresden Hornweg,51.05356,13.863628
+734,82808,Dresden Hornweg,51.05352,13.864562
+735,210692,Dresden Hubertusplatz,51.090096,13.723051
+736,308468,Dresden Hubertusplatz,51.089092,13.723383
+737,418619,Dresden Hubertusplatz,51.08913,13.723751
+738,356373,Dresden Hugo-Bürkner-Straße,51.022472,13.765388
+739,91674,Dresden Hugo-Bürkner-Straße,51.022446,13.765352
+740,175313,Dresden Hutbergstraße,51.05062,13.844709
+741,330910,Dresden Hutbergstraße,51.05095,13.845608
+742,393109,Dresden Hutbergstraße,51.05062,13.844709
+743,81259,Dresden Hutbergstraße,51.05095,13.845608
+744,164032,Dresden Hänichenweg,50.988026,13.802641
+745,217979,Dresden Hänichenweg,50.988297,13.802623
+746,253552,Dresden Höckendorfer Weg,51.019444,13.725512
+747,260131,Dresden Höckendorfer Weg,51.019432,13.725485
+748,120384,Dresden Hüblerplatz,51.049236,13.79391
+749,315913,Dresden Hüblerplatz,51.049305,13.79417
+750,406544,Dresden Hüfnerweg,50.995403,13.859029
+751,60353,Dresden Hüfnerweg,50.99575,13.858427
+752,183276,Dresden Hülße-Gymnasium,51.012695,13.79143
+753,234991,Dresden Hülße-Gymnasium,51.012695,13.79143
+754,365241,Dresden Hülßestraße,51.013504,13.790784
+755,458612,Dresden Hülßestraße,51.01359,13.790649
+756,375505,Dresden Industriegebiet Nord,51.1376,13.782528
+757,456872,Dresden Industriegebiet Nord,51.138775,13.782537
+758,374112,Dresden Infineon Nord,51.108017,13.773168
+759,74813,Dresden Infineon Nord,51.107544,13.772835
+760,171928,Dresden Infineon Süd,51.102917,13.770266
+761,279290,Dresden Infineon Süd,51.102844,13.770176
+762,290303,Dresden Infineon Süd,51.103065,13.769646
+763,366318,Dresden Infineon Süd,51.103024,13.769808
+764,370082,Dresden Infineon Süd,51.10363,13.76926
+765,252471,Dresden Innsbrucker Straße,51.016308,13.729249
+766,108677,Dresden Jacob-Winter-Platz,51.005486,13.799488
+767,329523,Dresden Jacob-Winter-Platz,51.00526,13.799057
+768,293088,Dresden Jacobistraße,51.050163,13.797602
+769,401342,Dresden Jacobistraße,51.050274,13.798284
+770,240751,Dresden Johannes-Brahms-Straße,50.9969,13.855417
+771,404486,Dresden Johannes-Brahms-Straße,50.996845,13.855786
+772,116090,Dresden Johannisfriedhof,51.03673,13.812936
+773,290037,Dresden Johannisfriedhof,51.036896,13.812235
+774,26686,Dresden Johannstadt,51.05904,13.78101
+775,296182,Dresden Johannstadt,51.05944,13.78392
+776,217473,Dresden Josef-Herrmann-Straße,51.0407,13.826492
+777,389110,Dresden Josef-Herrmann-Straße,51.040817,13.826339
+778,184116,Dresden Josephinenstraße,51.0456,13.729222
+779,312211,Dresden Josephinenstraße,51.045956,13.729599
+780,132847,Dresden Julius-Vahlteich-Str.,51.042664,13.679842
+781,190961,Dresden Julius-Vahlteich-Str.,51.0423,13.678584
+782,195345,Dresden Julius-Vahlteich-Str.,51.04219,13.678611
+783,214348,Dresden Julius-Vahlteich-Str.,51.042725,13.680174
+784,359008,Dresden Julius-Vahlteich-Str.,51.042732,13.679985
+785,55879,Dresden Julius-Vahlteich-Str.,51.04302,13.679976
+786,172246,Dresden Junghansstraße,51.03742,13.792167
+787,303550,Dresden Junghansstraße,51.037174,13.792832
+788,134511,Dresden Justizvollzugsanstalt,51.08912,13.74947
+789,200774,Dresden Justizvollzugsanstalt,51.08918,13.749398
+790,152241,Dresden Jägerpark Heideblick,51.07013,13.788385
+791,320804,Dresden Jägerpark Heideblick,51.070442,13.78887
+792,351523,Dresden Jägerpark Heideblick,51.07049,13.78896
+793,371003,Dresden Jägerpark Heideblick,51.070457,13.788107
+794,80758,Dresden Jägerpark Heideblick,51.07013,13.788394
+795,21840,Dresden Jüngststraße,51.049206,13.809783
+796,62041,Dresden Jüngststraße,51.049267,13.809747
+797,439820,Dresden Kadenstraße,51.016315,13.812208
+798,312628,Dresden Kaditz Am Vorwerksfeld,51.093178,13.668119
+799,180972,Dresden Kaditzer Straße,51.072685,13.695329
+800,273389,Dresden Kaitzer Straße,51.028267,13.711274
+801,329313,Dresden Kaitzer Straße,51.028095,13.711911
+802,100000,Dresden Kapellenweg,51.04002,13.666106
+803,279338,Dresden Kapellenweg,51.039997,13.667103
+804,24860,Dresden Karcherallee,51.03729,13.777614
+805,265608,Dresden Karcherallee,51.037106,13.777884
+806,265741,Dresden Karcherallee,51.03723,13.778674
+807,284084,Dresden Karcherallee,51.037292,13.778468
+808,142322,Dresden Karl-Laux-Straße,51.013935,13.768676
+809,399052,Dresden Karl-Laux-Straße,51.01377,13.768847
+810,239522,Dresden Karl-Marx-Straße,51.11069,13.775943
+811,399357,Dresden Karl-Marx-Straße,51.11055,13.77562
+812,333865,Dresden Karlshagener Weg,51.11793,13.774246
+813,98646,Dresden Karlshagener Weg,51.118004,13.774219
+814,177725,Dresden Kasseler Straße,51.033737,13.691044
+815,27868,Dresden Kasseler Straße,51.033752,13.691044
+816,111105,Dresden Kastanienstraße,51.00753,13.835367
+817,404439,Dresden Kastanienstraße,51.007374,13.835906
+818,386280,Dresden Kauscha,50.993626,13.778414
+819,62510,Dresden Kauscha,50.99349,13.777893
+820,304007,Dresden Kauschaer Straße,51.00788,13.768146
+821,362264,Dresden Kauschaer Straße,51.008305,13.768406
+822,159295,Dresden Kelterei,50.984093,13.800396
+823,424471,Dresden Kelterei,50.984005,13.800027
+824,164254,Dresden Keppgrundstraße,51.01008,13.848527
+825,416559,Dresden Keppgrundstraße,51.009663,13.848554
+826,358958,Dresden Keulenbergstraße,51.118217,13.724829
+827,82203,Dresden Keulenbergstraße,51.118183,13.724542
+828,300617,Dresden Kipsdorfer Straße,51.031727,13.821165
+829,330218,Dresden Kipsdorfer Straße,51.03205,13.8212
+830,193273,Dresden Kirschenstraße,51.046165,13.663609
+831,81832,Dresden Kirschenstraße,51.045773,13.663699
+832,170945,Dresden Kleinnaundorfer Straße,51.013397,13.695239
+833,32104,Dresden Kleinnaundorfer Straße,51.013092,13.694682
+834,275368,Dresden Klosterteichplatz,51.01221,13.765756
+835,256171,Dresden Klotzsche Infineon,51.107086,13.774057
+836,249883,Dresden Klotzsche M-Reiche-Str,51.1262,13.788538
+837,198606,Dresden Knappestraße,51.02841,13.812244
+838,56046,Dresden Knappestraße,51.0288,13.81343
+839,365342,Dresden Koblenzer Straße,51.04246,13.684073
+840,415685,Dresden Koblenzer Straße,51.042435,13.684207
+841,18974,Dresden Koloniestraße,51.006187,13.765828
+842,329818,Dresden Koloniestraße,51.006664,13.765918
+843,302863,Dresden Kolpingstraße,51.090393,13.635483
+844,132789,Dresden Kopernikusstraße,51.09118,13.711435
+845,443604,Dresden Kopernikusstraße,51.091213,13.711516
+846,211777,Dresden Koreanischer Platz,51.054256,13.719529
+847,217444,Dresden Koreanischer Platz,51.055004,13.71943
+848,399589,Dresden Koreanischer Platz,51.054863,13.719682
+849,58556,Dresden Koreanischer Platz,51.05445,13.71988
+850,172015,Dresden Kotteweg,51.021687,13.710645
+851,342218,Dresden Kotteweg,51.021683,13.710259
+852,93229,Dresden Kotteweg,51.021614,13.71016
+853,96421,Dresden Kotteweg,51.02173,13.71025
+854,43240,Dresden Kotzschweg,51.05142,13.830705
+855,434548,Dresden Kotzschweg,51.051334,13.831055
+856,442461,Dresden Kotzschweg,51.05135,13.830965
+857,254902,Dresden Krankenhaus Neustadt,51.089806,13.708713
+858,60525,Dresden Krankenhaus Neustadt,51.08961,13.709252
+859,101643,Dresden Krebser Straße,50.98678,13.829474
+860,137353,Dresden Krebser Straße,50.98583,13.828549
+861,300068,Dresden Krebser Straße Nord,50.988857,13.829555
+862,370637,Dresden Kretschmerstraße,51.051064,13.807995
+863,385194,Dresden Krhs. St. Joseph-Stift,51.04676,13.763071
+864,59289,Dresden Krhs. St. Joseph-Stift,51.046764,13.762702
+865,216277,Dresden Kronstädter Platz,51.02283,13.838745
+866,260253,Dresden Kronstädter Platz,51.022644,13.839284
+867,285966,Dresden Kronstädter Platz,51.022987,13.837792
+868,436189,Dresden Kronstädter Platz,51.02301,13.83764
+869,45637,Dresden Kronstädter Platz,51.02247,13.839526
+870,2641,Dresden Kurhausstraße,51.006393,13.853243
+871,436590,Dresden Kurhausstraße,51.006535,13.852731
+872,245536,Dresden Kurt-Tucholsky-Str,50.996746,13.807097
+873,319426,Dresden Kurt-Tucholsky-Str,50.996944,13.807519
+874,234735,Dresden Kurzer Schritt,51.036045,13.795625
+875,63882,Dresden Kurzer Schritt,51.036034,13.795598
+876,154516,Dresden Käthe-Kollwitz-Platz,51.118217,13.789301
+877,296321,Dresden Käthe-Kollwitz-Platz,51.11844,13.789508
+878,344205,Dresden Käthe-Kollwitz-Platz,51.118427,13.789508
+879,361708,Dresden Käthe-Kollwitz-Platz,51.118404,13.789436
+880,454018,Dresden Käthe-Kollwitz-Platz,51.118366,13.7894
+881,81536,Dresden Käthe-Kollwitz-Platz,51.118176,13.78922
+882,250912,Dresden Käthe-Kollwitz-Ufer,51.060318,13.777282
+883,316216,Dresden Käthe-Kollwitz-Ufer,51.06031,13.777147
+884,382208,Dresden Käthe-Kollwitz-Ufer,51.06031,13.777147
+885,452534,Dresden Käthe-Kollwitz-Ufer,51.060318,13.777282
+886,453522,Dresden Kölner Straße,51.035316,13.684171
+887,254403,Dresden Königsheimplatz,51.053802,13.786696
+888,7359,Dresden Königsheimplatz,51.05377,13.786373
+889,127848,Dresden Körnerplatz,51.053486,13.816386
+890,288073,Dresden Körnerplatz,51.05402,13.81476
+891,323803,Dresden Körnerplatz,51.054337,13.814364
+892,345120,Dresden Körnerplatz,51.054337,13.814364
+893,52433,Dresden Körnerplatz,51.054028,13.81476
+894,133435,Dresden Künstlerhaus,51.045696,13.823006
+895,216451,Dresden Künstlerhaus,51.0454,13.823258
+896,314377,Dresden L.-da-Vinci-Straße,51.014053,13.864122
+897,44066,Dresden L.-da-Vinci-Straße,51.013885,13.86396
+898,326604,Dresden Laibacher Straße,51.021908,13.833588
+899,365858,Dresden Laibacher Straße,51.02149,13.833507
+900,171043,Dresden Lassallestraße,51.019802,13.811319
+901,196638,Dresden Lassallestraße,51.019886,13.812729
+902,282966,Dresden Lassallestraße,51.020813,13.81175
+903,295271,Dresden Lassallestraße,51.020542,13.811696
+904,313325,Dresden Lauterbacher Straße,51.093037,13.736974
+905,39325,Dresden Lauterbacher Straße,51.091343,13.737801
+906,120054,Dresden Leiblstraße,51.021927,13.759855
+907,338253,Dresden Leiblstraße,51.021927,13.759855
+908,182097,Dresden Lene-Glatzer-Straße,51.05376,13.792805
+909,440872,Dresden Lene-Glatzer-Straße,51.053783,13.791915
+910,180598,Dresden Lengefelder Straße,51.03373,13.816709
+911,399392,Dresden Lengefelder Straße,51.033897,13.816269
+912,256323,Dresden Lennéplatz,51.038105,13.747314
+913,352448,Dresden Lennéplatz,51.03794,13.747503
+914,432596,Dresden Lennéplatz,51.03815,13.746245
+915,77095,Dresden Lennéplatz,51.037964,13.745661
+916,130880,Dresden Leubener Straße,51.024654,13.837622
+917,168359,Dresden Leubener Straße,51.024685,13.837083
+918,390950,Dresden Leubener Straße,51.024582,13.836822
+919,55036,Dresden Leubener Straße,51.02414,13.83799
+920,270240,Dresden Leubnitzer Höhe,51.003777,13.764553
+921,138736,Dresden Leutewitz,51.059364,13.670221
+922,71386,Dresden Leutewitz,51.05919,13.670436
+923,279205,Dresden Liebenauer Straße,51.02752,13.807995
+924,432864,Dresden Liebenauer Straße,51.027718,13.808498
+925,173566,Dresden Liebstädter Straße,51.03029,13.789301
+926,26482,Dresden Liebstädter Straße,51.03005,13.789795
+927,18518,Dresden Lipsiusstraße,51.039654,13.771281
+928,61168,Dresden Lipsiusstraße,51.0399,13.771263
+929,159347,Dresden Lise-Meitner-Straße,51.053932,13.666008
+930,392155,Dresden Lise-Meitner-Straße,51.05388,13.667373
+931,121909,Dresden Liststr (Harkortstr),51.077084,13.731288
+932,238368,Dresden Liststr (Harkortstr),51.0771,13.731243
+933,208782,Dresden Liststraße,51.076828,13.732923
+934,259933,Dresden Liststraße,51.077183,13.732959
+935,362361,Dresden Liststraße,51.076508,13.732959
+936,380845,Dresden Liststraße,51.076557,13.733004
+937,458601,Dresden Liststraße,51.07632,13.732213
+938,253810,Dresden Lockwitz,50.98747,13.80654
+939,338342,Dresden Lockwitz,50.987343,13.807079
+940,360479,Dresden Lockwitz,50.98727,13.806872
+941,36776,Dresden Lockwitz,50.987392,13.806549
+942,57911,Dresden Lohmener Straße,51.006775,13.880247
+943,60130,Dresden Lohmener Straße,51.006622,13.880777
+944,218412,Dresden Lohrmannstraße,51.016064,13.786526
+945,354660,Dresden Lohrmannstraße,51.015453,13.78737
+946,393000,Dresden Lohrmannstraße,51.01653,13.787864
+947,102301,Dresden Louisenstraße,51.06813,13.74682
+948,194436,Dresden Louisenstraße,51.068226,13.747835
+949,80677,Dresden Louisenstraße,51.067677,13.747557
+950,324033,Dresden Ludwig-Hartmann-Straße,51.038536,13.809253
+951,374902,Dresden Ludwig-Hartmann-Straße,51.038433,13.8091
+952,85739,Dresden Ludwig-Hartmann-Straße,51.038246,13.808184
+953,95951,Dresden Ludwig-Hartmann-Straße,51.0378,13.809172
+954,181063,Dresden Ludwig-Renn-Allee,51.019108,13.735555
+955,334079,Dresden Ludwig-Renn-Allee,51.019108,13.735555
+956,314648,Dresden Luga,50.985325,13.832277
+957,75022,Dresden Luga,50.985493,13.832124
+958,129211,Dresden Lugaer Platz,50.98372,13.836463
+959,296495,Dresden Lugaer Platz,50.983875,13.834774
+960,108988,Dresden Löbtau Gröbelstraße,51.043285,13.702371
+961,277996,Dresden Lößnitzstraße,51.06978,13.737945
+962,393208,Dresden Lößnitzstraße,51.069473,13.738088
+963,242754,Dresden Lößnitzweg,51.117355,13.712154
+964,336020,Dresden Lößnitzweg,51.117355,13.712154
+965,217434,Dresden Malerstraße,51.05378,13.825854
+966,377359,Dresden Malerstraße,51.05378,13.825854
+967,211326,Dresden Malterstraße,51.04254,13.689786
+968,58414,Dresden Malterstraße,51.04278,13.691771
+969,183557,Dresden Manitiusstraße,51.05666,13.714364
+970,352860,Dresden Manitiusstraße,51.05645,13.714993
+971,364489,Dresden Mansfelder Straße,51.041077,13.779833
+972,66604,Dresden Mansfelder Straße,51.040913,13.779384
+973,20393,Dresden Marie-Wittich-Straße,51.013126,13.777282
+974,371474,Dresden Marie-Wittich-Straße,51.012997,13.776949
+975,169806,Dresden Marienallee,51.073345,13.765289
+976,186154,Dresden Marienallee,51.0726,13.765334
+977,316726,Dresden Marienallee,51.07313,13.765936
+978,158964,Dresden Marienberger Straße,51.02515,13.806136
+979,252489,Dresden Marienberger Straße,51.025814,13.804743
+980,266083,Dresden Marienberger Straße,51.02584,13.805534
+981,35030,Dresden Marienberger Straße,51.025272,13.805273
+982,12596,Dresden Markusfriedhof,51.086838,13.722089
+983,158394,Dresden Martin-Opitz-Straße,51.05893,13.661776
+984,70427,Dresden Martin-Opitz-Straße,51.05895,13.661767
+985,163346,Dresden Mathias-Oeder-Straße,51.07205,13.789014
+986,23249,Dresden Maxim-Gorki-Straße,51.088734,13.731863
+987,390517,Dresden Maxim-Gorki-Straße,51.08891,13.730713
+988,436344,Dresden Mengsstraße,51.069427,13.694304
+989,104940,Dresden Merbitzer Straße,51.067425,13.674164
+990,209228,Dresden Merbitzer Straße,51.067093,13.673976
+991,105089,Dresden Merianplatz,51.04454,13.670266
+992,220833,Dresden Merianplatz,51.044544,13.669879
+993,179181,Dresden Messe Dresden,51.069836,13.714319
+994,339768,Dresden Messe Dresden,51.069836,13.714301
+995,196024,Dresden Messe Gleisschleife,51.072475,13.714921
+996,184036,Dresden Messering (Halle 1),51.067898,13.71652
+997,193194,Dresden Messering (Halle 1),51.06755,13.716385
+998,105310,Dresden Meußlitzer Straße,51.00813,13.848464
+999,125088,Dresden Meußlitzer Straße,51.00803,13.848887
+1000,273658,Dresden Meußlitzer Straße,51.00801,13.848662
+1001,54542,Dresden Meußlitzer Straße,51.007835,13.848437
+1002,236418,Dresden Mickten,51.080578,13.713232
+1003,246906,Dresden Mickten,51.080196,13.714139
+1004,249018,Dresden Mickten,51.079468,13.713609
+1005,260317,Dresden Mickten,51.080784,13.713079
+1006,280624,Dresden Mickten,51.08049,13.71413
+1007,340393,Dresden Mickten,51.079464,13.71387
+1008,372413,Dresden Mickten,51.080654,13.713178
+1009,439594,Dresden Mickten,51.079994,13.714184
+1010,120633,Dresden Mobschatzer Höhe,51.067886,13.651527
+1011,149388,Dresden Mobschatzer Höhe,51.067825,13.652129
+1012,334811,Dresden Mockethaler Straße,51.01103,13.819916
+1013,60117,Dresden Mockethaler Straße,51.01111,13.821389
+1014,152914,Dresden Mockritz,51.01876,13.758696
+1015,244223,Dresden Mockritzer Straße,51.02474,13.761984
+1016,300303,Dresden Mockritzer Straße,51.024265,13.762621
+1017,272802,Dresden Mohorner Straße,51.034775,13.702129
+1018,277106,Dresden Mohorner Straße,51.034775,13.702129
+1019,359289,Dresden Mohorner Straße,51.034943,13.701895
+1020,108317,Dresden Mommsenstraße,51.027615,13.731495
+1021,345708,Dresden Mommsenstraße,51.02748,13.73127
+1022,293351,Dresden Moosleite,51.032513,13.840002
+1023,420702,Dresden Moosleite,51.032513,13.840002
+1024,223429,Dresden Mordgrundbrücke,51.064274,13.811696
+1025,320924,Dresden Mordgrundbrücke,51.06427,13.811687
+1026,283630,Dresden Moritzburger Weg,51.09926,13.768721
+1027,370310,Dresden Moritzburger Weg,51.099003,13.768541
+1028,352548,Dresden Mosenstraße,51.04491,13.777318
+1029,88289,Dresden Mosenstraße,51.044765,13.778054
+1030,256569,Dresden Mühlenstraße,50.998283,13.817275
+1031,307991,Dresden Mühlenstraße,50.998283,13.817275
+1032,448696,Dresden Münchner Platz,51.029953,13.721883
+1033,981,Dresden Münchner Platz,51.02996,13.721416
+1034,332644,Dresden Münzmeisterstraße,51.019215,13.740702
+1035,345029,Dresden Münzmeisterstraße,51.019432,13.742194
+1036,403877,Dresden Münzmeisterstraße,51.018986,13.741313
+1037,168495,Dresden Münzteichweg,51.015076,13.751949
+1038,198692,Dresden Münzteichweg,51.014946,13.751114
+1039,49831,Dresden Neubertstraße,51.05818,13.774829
+1040,58443,Dresden Neubertstraße,51.058357,13.775386
+1041,408373,Dresden Neuer Annenfriedhof,51.043343,13.694143
+1042,440670,Dresden Neuer Annenfriedhof,51.043346,13.694161
+1043,228221,Dresden Neuländer Straße,51.099014,13.715702
+1044,365460,Dresden Neuländer Straße,51.09913,13.715711
+1045,199688,Dresden Neunimptscher Straße,51.034084,13.675278
+1046,397956,Dresden Neunimptscher Straße,51.034145,13.675224
+1047,439876,Dresden Neuostra,51.01539,13.764382
+1048,175714,Dresden Neustadt station (Dr.-Friedrich-Wolf-Straße),51.06545,13.74224
+1049,361606,Dresden Neustadt station (Hansastraße),51.066376,13.739384
+1050,116076,Dresden Neustädter Markt,51.058147,13.740532
+1051,425944,Dresden Neustädter Markt,51.057983,13.740756
+1052,233719,Dresden Nickerner Weg,50.992176,13.797889
+1053,357491,Dresden Nickerner Weg,50.992184,13.797862
+1054,81598,Dresden Niedergohlis Dorfstr,51.094334,13.642238
+1055,185866,Dresden Niedergohlis Südstr,51.09277,13.641079
+1056,295274,Dresden Niedersedlitzer Platz,50.995567,13.826123
+1057,87959,Dresden Niedersedlitzer Platz,50.995132,13.82615
+1058,258779,Dresden Niedersedlitzer Straße,51.005836,13.80795
+1059,452260,Dresden Niedersedlitzer Straße,51.005836,13.808022
+1060,253627,Dresden Niederseidewitzer Weg,51.010113,13.814688
+1061,388235,Dresden Niederseidewitzer Weg,51.010242,13.814975
+1062,157508,Dresden Niederwaldplatz,51.043106,13.807133
+1063,357864,Dresden Niederwaldplatz,51.043858,13.807277
+1064,64594,Dresden Niederwaldplatz,51.04329,13.807106
+1065,360150,Dresden Niederwaldstraße,51.047585,13.802821
+1066,455913,Dresden Niederwaldstraße,51.047325,13.802866
+1067,200980,Dresden Nordstraße,51.066345,13.770401
+1068,448428,Dresden Nordstraße,51.065933,13.768622
+1069,197805,Dresden Nätherstraße,51.02572,13.788879
+1070,213802,Dresden Nätherstraße,51.025055,13.789301
+1071,159407,Dresden Nürnberger Platz,51.031395,13.726006
+1072,198517,Dresden Nürnberger Platz,51.031464,13.725701
+1073,235605,Dresden Nürnberger Platz,51.03218,13.726249
+1074,297637,Dresden Nürnberger Platz,51.03256,13.725557
+1075,387240,Dresden Nürnberger Platz,51.032215,13.726276
+1076,426378,Dresden Nürnberger Platz,51.032383,13.725763
+1077,218178,Dresden Oberauer Straße,51.084198,13.743065
+1078,50784,Dresden Oberauer Straße,51.084206,13.743056
+1079,53429,Dresden Obergohlis,51.088753,13.646505
+1080,207160,Dresden Ockerwitz,51.05564,13.64302
+1081,50194,Dresden Ockerwitz,51.05565,13.64302
+1082,112977,Dresden Ockerwitzer Straße,51.058353,13.68418
+1083,127075,Dresden Ockerwitzer Straße,51.05945,13.683489
+1084,191800,Dresden Ockerwitzer Straße,51.058334,13.684091
+1085,296155,Dresden Ockerwitzer Straße,51.059124,13.683812
+1086,229994,Dresden Oederaner Straße,51.044846,13.709594
+1087,351351,Dresden Oederaner Straße,51.044907,13.709666
+1088,271920,Dresden Oehmestraße,51.046696,13.808867
+1089,321243,Dresden Oehmestraße,51.04688,13.809037
+1090,327140,Dresden Omsewitz,51.053032,13.658399
+1091,48716,Dresden Omsewitz,51.05301,13.658291
+1092,43710,Dresden Oschatzer Straße,51.07444,13.723113
+1093,87535,Dresden Oschatzer Straße,51.074512,13.723095
+1094,384533,Dresden Otto-Dix-Ring,51.019463,13.78048
+1095,77634,Dresden Otto-Dix-Ring,51.019474,13.780534
+1096,126155,Dresden Otto-Pilz-Straße,51.02027,13.755902
+1097,191816,Dresden Otto-Pilz-Straße,51.02027,13.755902
+1098,22366,Dresden Overbeckstraße,51.07398,13.690154
+1099,279434,Dresden Overbeckstraße,51.073498,13.690037
+1100,29064,Dresden Overbeckstraße,51.073776,13.690648
+1101,15163,Dresden Palaisplatz,51.060272,13.738358
+1102,408137,Dresden Palaisplatz,51.06012,13.738439
+1103,215601,Dresden Pennricher Straße,51.049046,13.692301
+1104,341286,Dresden Pennricher Straße,51.049072,13.691475
+1105,418329,Dresden Pennricher Straße,51.048714,13.692149
+1106,8264,Dresden Pennricher Straße,51.04936,13.691942
+1107,87541,Dresden Pennricher Straße,51.04915,13.690837
+1108,330481,Dresden Permoserstraße,51.05314,13.762693
+1109,426380,Dresden Permoserstraße,51.053158,13.763385
+1110,159458,Dresden Peschelstraße,51.08828,13.703539
+1111,195687,Dresden Peschelstraße,51.08854,13.703054
+1112,364568,Dresden Peschelstraße,51.08854,13.703054
+1113,369416,Dresden Peschelstraße,51.088257,13.703602
+1114,302801,Dresden Pestalozziplatz,51.07896,13.732294
+1115,50354,Dresden Pfeifferhannsstraße,51.056377,13.76617
+1116,77382,Dresden Pfeifferhannsstraße,51.056637,13.767562
+1117,131135,Dresden Pferderennbahn,51.022118,13.795554
+1118,80723,Dresden Pferderennbahn,51.02225,13.795967
+1119,167868,Dresden Pfotenhauerstraße,51.058357,13.777426
+1120,272692,Dresden Pfotenhauerstraße,51.05879,13.778009
+1121,323220,Dresden Pfotenhauerstraße,51.058815,13.778063
+1122,364513,Dresden Pfotenhauerstraße,51.058353,13.777453
+1123,451124,Dresden Pfotenhauerstraße,51.05905,13.77721
+1124,97804,Dresden Pfotenhauerstraße,51.059025,13.777219
+1125,380081,Dresden Pillnitz Schloss,51.00691,13.876276
+1126,163429,Dresden Pillnitzer Platz,51.008423,13.875351
+1127,81426,Dresden Pillnitzer Platz,51.0087,13.874767
+1128,199441,Dresden Pirnaischer Platz,51.04962,13.743191
+1129,327581,Dresden Pirnaischer Platz,51.048893,13.74373
+1130,361233,Dresden Pirnaischer Platz,51.049572,13.745886
+1131,420813,Dresden Pirnaischer Platz,51.04889,13.744484
+1132,430211,Dresden Pirnaischer Platz,51.048542,13.743352
+1133,434107,Dresden Pirnaischer Platz,51.049526,13.743622
+1134,83831,Dresden Pirnaischer Platz,51.049683,13.743308
+1135,372631,Dresden Platanenstraße,51.094383,13.718909
+1136,105991,Dresden Plattleite,51.063618,13.822
+1137,245788,Dresden Plattleite,51.063763,13.821497
+1138,353097,Dresden Plattleite,51.063675,13.82085
+1139,361529,Dresden Plattleite,51.063217,13.822243
+1140,241835,Dresden Plauen Nöthnitzer Str.,51.027084,13.716529
+1141,260022,Dresden Plauen Nöthnitzer Str.,51.027966,13.716484
+1142,457077,Dresden Plauen Nöthnitzer Str.,51.027298,13.715199
+1143,84305,Dresden Plauen Nöthnitzer Str.,51.027916,13.716277
+1144,114969,Dresden Plauen Rathaus,51.02947,13.706683
+1145,163089,Dresden Plauen Rathaus,51.02941,13.706782
+1146,20434,Dresden Plauen Rathaus,51.030006,13.707914
+1147,373728,Dresden Plauen Rathaus,51.02963,13.707501
+1148,176775,Dresden Plauenscher Ring,51.026474,13.710339
+1149,243361,Dresden Plauenscher Ring,51.026733,13.709908
+1150,259839,Dresden Podemusstraße,51.079487,13.659315
+1151,288682,Dresden Podemusstraße,51.07952,13.659378
+1152,250727,Dresden Pohlandplatz,51.043217,13.795751
+1153,276556,Dresden Pohlandplatz,51.042995,13.79426
+1154,370242,Dresden Pohlandplatz,51.04289,13.79488
+1155,420155,Dresden Pohlandplatz,51.04251,13.795122
+1156,129554,Dresden Postplatz,51.05069,13.73463
+1157,134079,Dresden Postplatz,51.05082,13.733956
+1158,1893,Dresden Postplatz,51.04989,13.732537
+1159,213516,Dresden Postplatz,51.050686,13.732339
+1160,247514,Dresden Postplatz,51.04994,13.733696
+1161,292588,Dresden Postplatz,51.05088,13.7341
+1162,412723,Dresden Postplatz,51.05055,13.733543
+1163,244458,Dresden Prager Straße,51.047283,13.737199
+1164,250246,Dresden Prager Straße,51.047153,13.737352
+1165,311883,Dresden Prager Straße,51.047115,13.738205
+1166,158080,Dresden Prellerstraße,51.052925,13.799156
+1167,442912,Dresden Prellerstraße,51.05304,13.798365
+1168,127313,Dresden Prof-Billroth-Straße,50.997143,13.827704
+1169,166435,Dresden Prof-Billroth-Straße,50.996838,13.827354
+1170,213469,Dresden Prof.-Ricker-Straße,51.023754,13.808301
+1171,75622,Dresden Prof.-Ricker-Straße,51.02296,13.809846
+1172,111027,Dresden Prohlis Gleisschleife,50.999825,13.800081
+1173,301817,Dresden Prohlis Gleisschleife,50.999245,13.799264
+1174,52076,Dresden Prohlis Gleisschleife,50.999825,13.800009
+1175,56969,Dresden Prohlis Gleisschleife,50.999294,13.798644
+1176,446426,Dresden Pulsnitzer Straße,51.063274,13.757222
+1177,97961,Dresden Pulsnitzer Straße,51.06339,13.757878
+1178,152474,Dresden Putbuser Weg,51.12436,13.779653
+1179,369278,Dresden Putbuser Weg,51.124252,13.779528
+1180,139327,Dresden Putjatinplatz,51.00423,13.848087
+1181,357273,Dresden Putjatinplatz,51.004177,13.847755
+1182,116070,Dresden Querallee,51.034657,13.757977
+1183,306023,Dresden Querallee,51.034477,13.7583
+1184,120194,Dresden Quohrener Straße,51.05566,13.862757
+1185,173935,Dresden Quohrener Straße,51.056778,13.861472
+1186,334590,Dresden Quohrener Straße,51.05566,13.862757
+1187,435066,Dresden Quohrener Straße,51.056778,13.861472
+1188,153593,Dresden Rankestraße,51.086365,13.704554
+1189,270624,Dresden Rankestraße,51.08544,13.704985
+1190,253494,Dresden Rathaus Klotzsche,51.111137,13.774829
+1191,449642,Dresden Rathaus Klotzsche,51.11104,13.774811
+1192,6921,Dresden Rathaus Leuben,51.010357,13.824506
+1193,7406,Dresden Rathaus Leuben,51.01067,13.823797
+1194,250487,Dresden Rathaus Pieschen,51.077427,13.721568
+1195,278355,Dresden Rathaus Pieschen,51.07739,13.721865
+1196,66666,Dresden Rathaus Pillnitz,51.012352,13.873734
+1197,92198,Dresden Rathaus Pillnitz,51.01248,13.873536
+1198,264937,Dresden Rathausstraße,51.00961,13.692077
+1199,30398,Dresden Rathausstraße,51.010166,13.692481
+1200,174492,Dresden Rauensteinstraße,51.028378,13.795347
+1201,235995,Dresden Rauensteinstraße,51.028423,13.794817
+1202,227244,Dresden Regensburger Straße,51.02632,13.721092
+1203,57604,Dresden Regensburger Straße,51.026413,13.720553
+1204,30625,Dresden Reichenbachstraße,51.035122,13.731297
+1205,31998,Dresden Reichenbachstraße,51.035564,13.731405
+1206,359951,Dresden Reichenbachstraße,51.034706,13.731144
+1207,57591,Dresden Reichenbachstraße,51.034813,13.731495
+1208,422306,Dresden Reichenhaller Straße,51.023705,13.825935
+1209,49171,Dresden Reichenhaller Straße,51.02331,13.824893
+1210,30448,Dresden Reineckeweg,51.120987,13.721245
+1211,395415,Dresden Reineckeweg,51.12105,13.72111
+1212,166569,Dresden Reisstraße,51.002857,13.821111
+1213,38822,Dresden Reisstraße,51.002937,13.821578
+1214,255394,Dresden Reitbahnstraße,51.046448,13.732761
+1215,389184,Dresden Reitbahnstraße,51.046696,13.732519
+1216,138645,Dresden Rennplatzstraße,51.027214,13.800899
+1217,22394,Dresden Rennplatzstraße,51.027058,13.80027
+1218,273430,Dresden Rennplatzstraße,51.027004,13.800081
+1219,294096,Dresden Rennplatzstraße,51.02699,13.801456
+1220,128862,Dresden Rethelstraße,51.074505,13.698742
+1221,181594,Dresden Rethelstraße,51.074497,13.698652
+1222,424669,Dresden Riegelplatz,51.083817,13.686956
+1223,443926,Dresden Riegelplatz,51.083405,13.6871
+1224,447387,Dresden Riegelplatz,51.083687,13.6871
+1225,54309,Dresden Riegelplatz,51.083454,13.687064
+1226,208462,Dresden Rißweg,51.05645,13.819539
+1227,225898,Dresden Rißweg,51.05623,13.820509
+1228,245173,Dresden Rißweg,51.056465,13.81944
+1229,277458,Dresden Rißweg,51.0563,13.820329
+1230,164976,Dresden Robert-Sterl-Straße,51.016117,13.763403
+1231,407707,Dresden Robert-Sterl-Straße,51.016033,13.763502
+1232,320208,Dresden Rochwitz Bühlauer Str.,51.050587,13.84709
+1233,414228,Dresden Rochwitz Bühlauer Str.,51.050774,13.846713
+1234,69797,Dresden Rochwitz Bühlauer Str.,51.050083,13.847054
+1235,84172,Dresden Rochwitz Bühlauer Str.,51.050083,13.847054
+1236,119831,Dresden Rosa-Luxemburg-Platz,51.059406,13.752893
+1237,348548,Dresden Rosa-Luxemburg-Platz,51.05925,13.752848
+1238,219572,Dresden Rosenstraße,51.04668,13.713349
+1239,241221,Dresden Rosenstraße,51.046604,13.713151
+1240,189984,Dresden Rossendorfer Straße,51.06045,13.860852
+1241,409006,Dresden Rossendorfer Straße,51.060436,13.860861
+1242,299190,Dresden Rottwerndorfer Straße,51.013546,13.820967
+1243,80436,Dresden Rottwerndorfer Straße,51.01347,13.821183
+1244,435079,Dresden Rubensweg,51.023056,13.747027
+1245,138573,Dresden Rudolf-Leonhard-Straße,51.07759,13.75212
+1246,388042,Dresden Rudolf-Leonhard-Straße,51.077606,13.752084
+1247,278952,Dresden Räcknitzhöhe,51.023525,13.742472
+1248,395422,Dresden Räcknitzhöhe,51.023563,13.742472
+1249,135750,Dresden Rähnitzer Allee,51.124702,13.743685
+1250,173849,Dresden Rähnitzer Allee,51.12498,13.742643
+1251,357455,Dresden Rüdesheimer Straße,51.031708,13.685708
+1252,20983,Dresden S-Bahnhof Dobritz,51.01174,13.80875
+1253,259039,Dresden S-Bahnhof Dobritz,51.011448,13.808238
+1254,20351,Dresden S-Bahnhof Grenzstraße,51.12791,13.777776
+1255,210991,Dresden S-Bahnhof Grenzstraße,51.128815,13.777704
+1256,318188,Dresden S-Bahnhof Grenzstraße,51.128452,13.776949
+1257,37696,Dresden S-Bahnhof Grenzstraße,51.127876,13.777731
+1258,159201,Dresden S-Bahnhof Niedersedlitz,50.99941,13.830426
+1259,453332,Dresden S-Bahnhof Niedersedlitz,50.999447,13.829672
+1260,8322,Dresden S-Bahnhof Niedersedlitz,50.999706,13.829456
+1261,264469,Dresden S-Bahnhof Reick,51.021175,13.790613
+1262,320831,Dresden S-Bahnhof Reick,51.02121,13.790801
+1263,375078,Dresden S-Bf. Bischofsplatz,51.072,13.746928
+1264,454773,Dresden S-Bf. Bischofsplatz,51.07204,13.746811
+1265,151656,Dresden S-Bf. Freiberger Straße,51.049538,13.721514
+1266,153075,Dresden S-Bf. Freiberger Straße,51.048527,13.720481
+1267,217606,Dresden S-Bf. Freiberger Straße,51.048794,13.72041
+1268,97067,Dresden S-Bf. Freiberger Straße,51.049477,13.721101
+1269,145191,Dresden S-Bf. Industriegelände,51.086716,13.763223
+1270,3348,Dresden S-Bf. Industriegelände,51.086914,13.763385
+1271,27242,Dresden S-Bf. Pieschen,51.08129,13.72579
+1272,421218,Dresden S-Bf. Pieschen,51.081196,13.725512
+1273,427956,Dresden S-Bf. Pieschen,51.08258,13.726177
+1274,375481,Dresden S-Bf. Plauen,51.02996,13.703198
+1275,90439,Dresden S-Bf. Plauen,51.03003,13.703216
+1276,290457,Dresden S-Bf. Strehlen,51.031116,13.761238
+1277,381538,Dresden S-Bf. Strehlen,51.031075,13.76113
+1278,175595,Dresden S-Bf. Trachau,51.08935,13.704914
+1279,423821,Dresden S-Bf. Trachau,51.08945,13.705057
+1280,167368,Dresden S-Bf. Trachau West,51.089893,13.702812
+1281,322317,Dresden S-Bf. Trachau West,51.090733,13.702039
+1282,38763,Dresden SLUB,51.029213,13.737208
+1283,409797,Dresden SLUB,51.029003,13.738502
+1284,103236,Dresden Saalhausener Straße,51.036278,13.683498
+1285,121514,Dresden Saalhausener Straße,51.036697,13.683255
+1286,154209,Dresden Saarstraße,51.02005,13.706872
+1287,260377,Dresden Saarstraße,51.019005,13.705956
+1288,397407,Dresden Saarstraße,51.019005,13.705983
+1289,326414,Dresden Sachsenallee,51.05442,13.757537
+1290,76434,Dresden Sachsenallee,51.05477,13.757222
+1291,133367,Dresden Sagarder Weg,51.123806,13.782941
+1292,97120,Dresden Sagarder Weg,51.123688,13.782456
+1293,28968,Dresden Saßnitzer Straße,51.11786,13.729698
+1294,43516,Dresden Saßnitzer Straße,51.118015,13.730336
+1295,285801,Dresden Schanzenstraße,51.077538,13.750171
+1296,62136,Dresden Schanzenstraße,51.077377,13.750665
+1297,2376,Dresden Scharfenberger Straße,51.074036,13.693873
+1298,143768,Dresden Scharfensteinstraße,51.057167,13.834019
+1299,426457,Dresden Scharfensteinstraße,51.057087,13.834055
+1300,82259,Dresden Scharfensteinstraße,51.057087,13.834055
+1301,85893,Dresden Scharfensteinstraße,51.057167,13.834019
+1302,269391,Dresden Schaufußstraße,51.037045,13.807816
+1303,409409,Dresden Schaufußstraße,51.036842,13.808561
+1304,145956,Dresden Schiffswerft Laubegast,51.01929,13.841952
+1305,283838,Dresden Schiffswerft Laubegast,51.018417,13.842706
+1306,321465,Dresden Schillerplatz,51.052258,13.803459
+1307,344922,Dresden Schillerplatz,51.052242,13.804519
+1308,364110,Dresden Schillerplatz,51.052216,13.804411
+1309,393671,Dresden Schillerplatz,51.052128,13.805462
+1310,441448,Dresden Schillerplatz,51.052135,13.805076
+1311,252312,Dresden Schillerstraße,51.088684,13.634656
+1312,432594,Dresden Schillerstraße,51.088684,13.634656
+1313,173584,Dresden Schillingstraße,51.042015,13.701141
+1314,301597,Dresden Schillingstraße,51.04138,13.701302
+1315,228766,Dresden Schlehenstraße,51.04888,13.659046
+1316,392102,Dresden Schlehenstraße,51.048836,13.658578
+1317,125814,Dresden Schleswiger Straße,51.06884,13.660339
+1318,133623,Dresden Schleswiger Straße,51.06887,13.660348
+1319,171996,Dresden Schlüterstraße,51.038036,13.791179
+1320,440815,Dresden Schlüterstraße,51.037666,13.790784
+1321,238062,Dresden Schneebergstraße,51.03598,13.787226
+1322,77974,Dresden Schneebergstraße,51.035965,13.787271
+1323,139258,Dresden Schneise 8,51.07212,13.878288
+1324,229690,Dresden Schneise 8,51.07212,13.878288
+1325,95295,Dresden Schneise 8,51.07203,13.877956
+1326,99822,Dresden Schneise 8,51.07203,13.877956
+1327,250600,Dresden Schulberg,51.067635,13.669493
+1328,375433,Dresden Schulberg,51.067482,13.670706
+1329,101700,Dresden Schunckstraße,51.064083,13.675934
+1330,170125,Dresden Schunckstraße,51.064472,13.67517
+1331,345793,Dresden Schurichtstraße,51.02456,13.753234
+1332,183981,Dresden Schweizer Straße,51.04205,13.721523
+1333,227019,Dresden Schweizer Straße,51.04152,13.721128
+1334,16468,Dresden Schweriner Straße,51.052856,13.726222
+1335,225233,Dresden Schweriner Straße,51.052643,13.727066
+1336,154762,Dresden Schwimmhalle Bühlau,51.06226,13.838727
+1337,45111,Dresden Schwimmhalle Bühlau,51.062252,13.838834
+1338,120338,Dresden Schwimmhalle Freiberger Platz,51.050465,13.726015
+1339,266174,Dresden Schwimmhalle Freiberger Platz,51.0504,13.72553
+1340,177031,Dresden Schönaer Straße,51.00096,13.838295
+1341,218354,Dresden Schönaer Straße,51.000618,13.837667
+1342,156382,Dresden Seewiesenweg,51.087963,13.679536
+1343,309604,Dresden Seewiesenweg,51.087963,13.679536
+1344,268149,Dresden Seidnitz Center,51.02968,13.802605
+1345,300673,Dresden Seidnitz Center,51.029926,13.802489
+1346,14796,Dresden Seidnitzer Weg,51.01235,13.79938
+1347,61307,Dresden Seidnitzer Weg,51.012466,13.799057
+1348,104990,Dresden Semmelweisstraße,51.05123,13.708893
+1349,251666,Dresden Semmelweisstraße,51.05127,13.705426
+1350,434465,Dresden Semmelweisstraße,51.05118,13.704958
+1351,99853,Dresden Semmelweisstraße,51.051323,13.708561
+1352,184776,Dresden Sobrigauer Weg,50.982117,13.796191
+1353,231548,Dresden Sobrigauer Weg,50.98222,13.796281
+1354,158864,Dresden Sosaer Straße,50.998188,13.825962
+1355,162950,Dresden Sosaer Straße,50.998177,13.825962
+1356,319929,Dresden Spenerstraße,51.043694,13.78163
+1357,381775,Dresden Spenerstraße,51.043545,13.78269
+1358,396660,Dresden Spenerstraße,51.0437,13.781351
+1359,408509,Dresden Spenerstraße,51.043728,13.782169
+1360,253327,Dresden Spitzhausstraße,51.091324,13.673814
+1361,261184,Dresden Spitzhausstraße,51.091404,13.673733
+1362,374989,Dresden Spitzwegstraße,51.015568,13.771757
+1363,379864,Dresden Spitzwegstraße,51.01543,13.771748
+1364,158483,Dresden St.-Benno-Gymnasium,51.049793,13.756854
+1365,385196,Dresden St.-Benno-Gymnasium,51.05008,13.75724
+1366,417607,Dresden St.-Benno-Gymnasium,51.049698,13.757492
+1367,425411,Dresden St.-Benno-Gymnasium,51.050163,13.757339
+1368,123840,Dresden St.-Marien-Krankenhaus,51.121143,13.78454
+1369,371954,Dresden St.-Marien-Krankenhaus,51.12116,13.784414
+1370,202177,Dresden Stadtgutstraße,51.024124,13.736247
+1371,335782,Dresden Stadtgutstraße,51.024117,13.736391
+1372,389467,Dresden Staffelsteinstraße,51.028694,13.846758
+1373,435507,Dresden Staffelsteinstraße,51.028694,13.846758
+1374,110442,Dresden Stauffenbergallee,51.07641,13.756216
+1375,22981,Dresden Stauffenbergallee,51.07646,13.755992
+1376,252704,Dresden Stauffenbergallee,51.07691,13.755839
+1377,308903,Dresden Stauffenbergallee,51.07714,13.756153
+1378,206199,Dresden Steglichstraße,51.058483,13.828279
+1379,340815,Dresden Steglichstraße,51.05852,13.828144
+1380,61500,Dresden Steglichstraße,51.058502,13.828531
+1381,97444,Dresden Steglichstraße,51.058502,13.828827
+1382,293964,Dresden Stephanstraße,51.095512,13.714768
+1383,294432,Dresden Stephanstraße,51.09377,13.716178
+1384,164225,Dresden Stralsunder Straße,51.115227,13.7803
+1385,171716,Dresden Stralsunder Straße,51.11487,13.780525
+1386,122831,Dresden Straßburger Platz,51.045753,13.754581
+1387,196631,Dresden Straßburger Platz,51.046,13.755525
+1388,320566,Dresden Straßburger Platz,51.04626,13.754312
+1389,83223,Dresden Straßburger Platz,51.04654,13.755219
+1390,91932,Dresden Straßburger Platz,51.04595,13.75548
+1391,204380,Dresden Straße des 17. Juni,51.002956,13.825962
+1392,70030,Dresden Straße des 17. Juni,51.00295,13.825953
+1393,24655,Dresden Strehlener Platz,51.033253,13.748913
+1394,32593,Dresden Strehlener Platz,51.03336,13.748985
+1395,397304,Dresden Strehlener Platz,51.034027,13.748338
+1396,54373,Dresden Strehlener Platz,51.034153,13.74806
+1397,142603,Dresden Striesener Straße,51.049446,13.760762
+1398,420025,Dresden Striesener Straße,51.049442,13.760762
+1399,153178,Dresden Struppener Straße,50.996494,13.849524
+1400,194406,Dresden Struppener Straße,50.996326,13.849255
+1401,107934,Dresden Stuttgarter Straße,51.006844,13.698077
+1402,268243,Dresden Synagoge,51.052345,13.746991
+1403,360539,Dresden Synagoge,51.052666,13.74717
+1404,223483,Dresden Söbrigen,50.994343,13.882106
+1405,343000,Dresden Söbrigen,50.994366,13.881891
+1406,105484,Dresden Söbrigener Straße,50.99797,13.879492
+1407,415776,Dresden Söbrigener Straße,50.99753,13.879744
+1408,247565,Dresden Sörnewitzer Straße,51.07963,13.697161
+1409,279546,Dresden Sörnewitzer Straße,51.079803,13.69717
+1410,298322,Dresden Sörnewitzer Straße,51.08004,13.697017
+1411,339600,Dresden Sörnewitzer Straße,51.081192,13.697044
+1412,215730,Dresden Südhöhe,51.019848,13.728854
+1413,287223,Dresden Südhöhe,51.019707,13.729914
+1414,38627,Dresden Südhöhe,51.01993,13.729734
+1415,72060,Dresden Südhöhe,51.019722,13.730057
+1416,157896,Dresden Südvorstadt,51.033916,13.722206
+1417,437889,Dresden Südvorstadt,51.034058,13.722323
+1418,301653,Dresden Tannenstraße,51.074146,13.75327
+1419,424404,Dresden Tannenstraße,51.073616,13.752704
+1420,108540,Dresden Tatzberg,51.05625,13.777497
+1421,270764,Dresden Tatzberg,51.055843,13.77765
+1422,429024,Dresden Tatzberg,51.056065,13.777659
+1423,451187,Dresden Tatzberg,51.055817,13.77765
+1424,37901,Dresden Taubenberg,51.06134,13.870311
+1425,83045,Dresden Taubenberg,51.06131,13.869701
+1426,197372,Dresden Technische Universität,51.029694,13.731656
+1427,243978,Dresden Technische Universität,51.02957,13.730713
+1428,310150,Dresden Technische Universität,51.03002,13.731297
+1429,93734,Dresden Technische Universität,51.02943,13.731073
+1430,186326,Dresden Tharandter Straße,51.043697,13.703404
+1431,342860,Dresden Tharandter Straße,51.04376,13.702955
+1432,156976,Dresden Theilestraße,50.99063,13.80239
+1433,196398,Dresden Theilestraße,50.99017,13.802498
+1434,259564,Dresden Thomas-Mann-Straße,51.00996,13.769484
+1435,304870,Dresden Thomas-Mann-Straße,51.01079,13.770446
+1436,439107,Dresden Thäterstraße,51.07115,13.69505
+1437,193069,Dresden Tiergartenstraße,51.030197,13.771551
+1438,200950,Dresden Tiergartenstraße,51.029716,13.771757
+1439,367605,Dresden Tiergartenstraße,51.030197,13.771694
+1440,379948,Dresden Tiergartenstraße,51.029682,13.771362
+1441,121999,Dresden Tolkewitz Schulcampus,51.035732,13.81652
+1442,396526,Dresden Tolkewitz Schulcampus,51.035778,13.816251
+1443,180332,Dresden Tornaer Straße,51.00935,13.783974
+1444,222956,Dresden Tornaer Straße,51.009766,13.784118
+1445,36832,Dresden Tornaer Straße,51.00985,13.783651
+1446,309617,Dresden Trachauer Straße,51.078876,13.708165
+1447,358795,Dresden Trachauer Straße,51.07891,13.70777
+1448,133184,Dresden Trachenberger Platz,51.084282,13.727596
+1449,203374,Dresden Trachenberger Platz,51.085125,13.727264
+1450,386364,Dresden Trachenberger Platz,51.085022,13.72809
+1451,412185,Dresden Trachenberger Platz,51.08522,13.728162
+1452,55041,Dresden Trachenberger Platz,51.08422,13.728351
+1453,348961,Dresden Trattendorfer Straße,51.010273,13.800404
+1454,429534,Dresden Trattendorfer Straße,51.00998,13.800952
+1455,186882,Dresden Trinitatisplatz,51.052456,13.769763
+1456,430507,Dresden Trinitatisplatz,51.052456,13.769763
+1457,65089,Dresden Tronitzer Straße,50.993137,13.864724
+1458,69345,Dresden Tronitzer Straße,50.993122,13.864769
+1459,198509,Dresden Troppauer Straße,51.02714,13.831792
+1460,359934,Dresden Troppauer Straße,51.02772,13.83242
+1461,10289,Dresden Tännichtstraße,51.05931,13.832663
+1462,144585,Dresden Tännichtstraße,51.059284,13.832519
+1463,16621,Dresden Tännichtstraße,51.059273,13.832546
+1464,268005,Dresden Tännichtstraße,51.05931,13.832627
+1465,173040,Dresden Tübinger Straße,51.012295,13.699973
+1466,348904,Dresden Tübinger Straße,51.012302,13.7
+1467,103074,Dresden Uhlandstraße,51.03692,13.739481
+1468,8253,Dresden Uhlandstraße,51.036808,13.739822
+1469,146938,Dresden Universitätsklinikum,51.056286,13.781001
+1470,270914,Dresden Universitätsklinikum,51.05671,13.780965
+1471,10803,Dresden Urnenstraße,50.992256,13.807025
+1472,194197,Dresden Urnenstraße,50.991886,13.807591
+1473,222762,Dresden Van-Gogh-Straße,51.01554,13.860861
+1474,419950,Dresden Van-Gogh-Straße,51.01554,13.860861
+1475,115287,Dresden Veilchenstraße,50.99336,13.826339
+1476,285469,Dresden Veilchenstraße,50.99283,13.826545
+1477,358212,Dresden Vollmarstraße,51.01558,13.809828
+1478,318693,Dresden Vorwerkstraße,51.061497,13.714597
+1479,380223,Dresden Vorwerkstraße,51.061604,13.71484
+1480,418369,Dresden Vorwerkstraße,51.060852,13.715118
+1481,438139,Dresden Vorwerkstraße,51.060883,13.715047
+1482,219437,Dresden Waldschlößchen,51.06786,13.776312
+1483,237240,Dresden Waldschlößchen,51.06745,13.77694
+1484,327862,Dresden Waldschlößchen,51.066677,13.776689
+1485,342413,Dresden Waldschlößchen,51.0672,13.777066
+1486,35177,Dresden Waldschlößchen,51.06738,13.777749
+1487,391137,Dresden Waldschlößchen,51.066658,13.776734
+1488,3937,Dresden Waldschlößchen,51.06745,13.77694
+1489,400674,Dresden Waldschlößchen,51.067146,13.777929
+1490,58137,Dresden Waldschlößchen,51.067566,13.777596
+1491,359982,Dresden Waldschlößchenstraße,51.069824,13.775216
+1492,36717,Dresden Waldschlößchenstraße,51.069965,13.775449
+1493,318884,Dresden Waldteichstraße,51.117188,13.730021
+1494,408462,Dresden Waldteichstraße,51.1172,13.729977
+1495,12344,Dresden Walpurgisstraße,51.043575,13.737648
+1496,17773,Dresden Walpurgisstraße,51.0437,13.737522
+1497,389524,Dresden Walpurgisstraße,51.043568,13.737936
+1498,69368,Dresden Walpurgisstraße,51.044,13.738061
+1499,329312,Dresden Waltherstraße,51.058006,13.710447
+1500,3361,Dresden Waltherstraße,51.0582,13.709486
+1501,84040,Dresden Waltherstraße,51.058277,13.710169
+1502,133107,Dresden Wasaplatz,51.027626,13.759702
+1503,293542,Dresden Wasaplatz,51.027493,13.759747
+1504,427349,Dresden Wasaplatz,51.02831,13.759091
+1505,52465,Dresden Wasaplatz,51.028275,13.759046
+1506,279653,Dresden Washingtonstraße,51.082253,13.691358
+1507,83926,Dresden Washingtonstraße,51.082348,13.69108
+1508,177411,Dresden Wasserwerk Tolkewitz,51.03413,13.822692
+1509,42944,Dresden Wasserwerk Tolkewitz,51.034058,13.822862
+1510,372241,Dresden Webergasse,51.047657,13.734576
+1511,446975,Dresden Weberplatz,51.03129,13.750764
+1512,54075,Dresden Weberplatz,51.03124,13.75106
+1513,10576,Dresden Weidentalstraße,51.049843,13.678296
+1514,30047,Dresden Weidentalstraße,51.0493,13.682114
+1515,313829,Dresden Weidentalstraße,51.050396,13.67862
+1516,149865,Dresden Weißdornstraße,51.005547,13.838852
+1517,204710,Dresden Weißdornstraße,51.006012,13.838277
+1518,201987,Dresden Weißeritzstraße,51.058376,13.722844
+1519,279545,Dresden Weißeritzstraße,51.05825,13.723302
+1520,377457,Dresden Weißeritzstraße,51.058136,13.723599
+1521,425522,Dresden Weißeritzstraße,51.05829,13.723078
+1522,230831,Dresden Werftstraße,51.06927,13.689669
+1523,289794,Dresden Werftstraße,51.069393,13.690235
+1524,395263,Dresden Werftstraße,51.069283,13.689489
+1525,119706,Dresden Wernerstraße,51.046326,13.707644
+1526,240665,Dresden Wernerstraße,51.046387,13.707653
+1527,258663,Dresden Westendstraße,51.024593,13.713591
+1528,301981,Dresden Westendstraße,51.024593,13.713591
+1529,125951,Dresden Wieckestraße,51.017506,13.784172
+1530,95709,Dresden Wieckestraße,51.01772,13.78366
+1531,152581,Dresden Wilder Mann,51.096207,13.719161
+1532,404212,Dresden Wilder Mann,51.096066,13.719107
+1533,425208,Dresden Wilder Mann,51.096,13.719367
+1534,4412,Dresden Wilder Mann,51.095882,13.719583
+1535,287180,Dresden Wilder-Mann-Straße,51.087955,13.71572
+1536,294874,Dresden Wilder-Mann-Straße,51.08807,13.715235
+1537,197061,Dresden Wilhelm-Busch-Str. Ost,51.015743,13.756863
+1538,159766,Dresden Wilhelm-Busch-Straße,51.015465,13.754608
+1539,371252,Dresden Wilhelm-Busch-Straße,51.01611,13.755704
+1540,126535,Dresden Wilhelminenstraße,51.06704,13.790721
+1541,168363,Dresden Wilhelminenstraße,51.06707,13.790739
+1542,434100,Dresden Wilischstraße,51.03101,13.817715
+1543,454437,Dresden Wilischstraße,51.03114,13.818074
+1544,346221,Dresden Windmühlenweg,51.092415,13.645068
+1545,122284,Dresden Winterbergstraße,51.024513,13.79779
+1546,185794,Dresden Winterbergstraße,51.023506,13.798024
+1547,273309,Dresden Winterbergstraße,51.023453,13.799362
+1548,408296,Dresden Winterbergstraße,51.0243,13.796928
+1549,423792,Dresden Winterbergstraße,51.02476,13.797853
+1550,376140,Dresden Wittenberger Straße,51.046883,13.791493
+1551,448324,Dresden Wittenberger Straße,51.046883,13.791493
+1552,151046,Dresden Wostra,51.001987,13.862631
+1553,216036,Dresden Wostra,51.00166,13.863197
+1554,210161,Dresden Wurzener Straße,51.08114,13.719978
+1555,236895,Dresden Wurzener Straße,51.08114,13.719978
+1556,46580,Dresden Wurzener Straße,51.081245,13.720706
+1557,338576,Dresden Wächterstraße,51.08224,13.700251
+1558,413405,Dresden Wächterstraße,51.082275,13.700961
+1559,374609,Dresden Wägnerstraße,51.051056,13.803225
+1560,430392,Dresden Wägnerstraße,51.05088,13.802345
+1561,43291,Dresden Wölfnitz,51.04326,13.681998
+1562,349468,Dresden Wölfnitzer Ring,51.04062,13.673832
+1563,58287,Dresden Wölfnitzer Ring,51.040363,13.672889
+1564,161942,Dresden Würzburger Straße,51.034424,13.703449
+1565,295819,Dresden Würzburger Straße,51.03478,13.703719
+1566,261924,Dresden Zeithainer Straße,51.08242,13.730012
+1567,332158,Dresden Zeithainer Straße,51.082443,13.730147
+1568,122060,Dresden Zellescher Weg,51.028164,13.745751
+1569,321012,Dresden Zellescher Weg,51.028126,13.745742
+1570,449335,Dresden Zellescher Weg,51.028328,13.746146
+1571,69255,Dresden Zellescher Weg,51.028587,13.745526
+1572,221125,Dresden Zinnowitzer Straße,51.116524,13.778845
+1573,29936,Dresden Zinnowitzer Straße,51.116528,13.778836
+1574,137072,Dresden Zoo,51.036766,13.752686
+1575,253094,Dresden Zoo,51.036625,13.752902
+1576,157051,Dresden Zschertnitzer Straße,51.01884,13.758399
+1577,237171,Dresden Zschertnitzer Straße,51.019054,13.758112
+1578,295561,Dresden Zschertnitzer Straße,51.019474,13.758094
+1579,335593,Dresden Zschertnitzer Straße,51.018528,13.757267
+1580,202922,Dresden Zschierener Straße,51.007103,13.849327
+1581,234874,Dresden Zschierener Straße,51.007084,13.849291
+1582,242049,Dresden Zschonergrundstraße,51.07176,13.670328
+1583,443052,Dresden Zschonergrundstraße,51.071793,13.670391
+1584,293066,Dresden Zum Windkanal,51.134445,13.777363
+1585,247713,Dresden Zur Elbinsel,51.00315,13.860376
+1586,356832,Dresden Zur Elbinsel,51.00294,13.860798
+1587,204655,Dresden Zur Neuen Brücke,51.11443,13.784226
+1588,325011,Dresden Zur Neuen Brücke,51.114178,13.783687
+1589,346132,Dresden Zur Neuen Brücke,51.114445,13.784208
+1590,375604,Dresden Zur Neuen Brücke,51.114384,13.784226
+1591,437017,Dresden Zur Neuen Brücke,51.11452,13.785385
+1592,437053,Dresden Zur Neuen Brücke,51.114185,13.783669
+1593,343675,Dresden Zur Steinhöhe,51.131992,13.778081
+1594,62049,Dresden Zur Steinhöhe,51.131992,13.778117
+1595,12641,Dresden Zweibrüderweg,51.055275,13.832043
+1596,195894,Dresden Zweibrüderweg,51.055275,13.832043
+1597,22160,Dresden Zweibrüderweg,51.055557,13.831881
+1598,247757,Dresden Zweibrüderweg,51.055557,13.831881
+1599,223169,Dresden Zwickauer Straße,51.038456,13.713448
+1600,415196,Dresden Zwickauer Straße,51.038464,13.713627
+1601,119071,Dresden Zwinglistraße,51.034214,13.783561
+1602,407393,Dresden Zwinglistraße,51.03384,13.783058
+1603,100538,Dresden central station (Bayrische Straße),51.039906,13.730732
+1604,257141,"Dresden, Hbf",51.03993,13.73419
+1605,437653,"Dresden, Hbf",51.039726,13.733767
+1606,401813,"Dresden, Pirnaischer Platz",51.04889,13.744484
+1607,383271,"Dresden, Südvorstadt Nürnberger Platz",51.032215,13.726276
+1608,389133,"Dresden, Südvorstadt Nürnberger Platz",51.032383,13.725763
+1609,105621,"Dresden, Südvorstadt Techn Universität",51.02957,13.730713
+1610,29440,"Dresden, Südvorstadt Techn Universität",51.02944,13.731064
+1611,13966,"Dresden-Altstadt, Ammon-/Budapester Str",51.043873,13.726078
+1612,453037,"Dresden-Altstadt, Ammon-/Budapester Str",51.043827,13.725952
+1613,205133,Dresden-Plauen,51.02963,13.70317
+1614,155260,Eichbusch Eichbuscher Straße,51.03297,13.874605
+1615,357480,Eichbusch Eichbuscher Straße,51.032944,13.874686
+1616,127206,Eschdorf Am Gassenberg,51.041603,13.934029
+1617,239780,Eschdorf Am Gassenberg,51.041134,13.934056
+1618,111108,Eschdorf Am Steinbruch,51.0387,13.936778
+1619,155512,Eschdorf Am Steinbruch,51.039246,13.93649
+1620,259384,Eschdorf Brücke,51.036434,13.949534
+1621,458788,Eschdorf Brücke,51.03633,13.950181
+1622,16095,Eschdorf Gasthaus,51.03539,13.943641
+1623,9730,Eschdorf Gasthaus,51.03547,13.943255
+1624,261620,Eschdorf Rosinendörfchen,51.036015,13.957978
+1625,234079,Fernsehturm,51.03991,13.844629
+1626,400860,Fernsehturm,51.03954,13.843631
+1627,332915,Freital Burgker Straße,51.003174,13.686184
+1628,109660,Gompitz Gompitzer Höhe,51.040234,13.633605
+1629,156338,Gompitz Gompitzer Höhe,51.040077,13.632446
+1630,297511,Gompitz Gompitzer Höhe,51.040253,13.632393
+1631,41141,Gompitz Gompitzer Höhe,51.039993,13.632608
+1632,412498,Gompitz Gompitzer Höhe,51.0395,13.633039
+1633,456218,Gompitz Gompitzer Höhe,51.040264,13.632563
+1634,82474,Gompitz Gompitzer Höhe,51.040455,13.63233
+1635,366160,Gompitz Hohlweg,51.043133,13.635025
+1636,393075,Gompitz Hohlweg,51.043095,13.635815
+1637,128045,Gompitz Kohlsdorfer Landstraße,51.036972,13.633318
+1638,201767,Gompitz Kohlsdorfer Landstraße,51.036457,13.633444
+1639,119444,Gompitz Rudolf-Walther-Straße,51.03884,13.63772
+1640,171869,Gompitz Rudolf-Walther-Straße,51.038918,13.637818
+1641,22887,Gompitz Rudolf-Walther-Straße,51.038822,13.637603
+1642,28319,Gompitz Rudolf-Walther-Straße,51.038795,13.636372
+1643,258032,Gompitz Schule,51.041862,13.641699
+1644,354037,Gompitz Schule,51.041843,13.641501
+1645,213096,Gönnsdorf,51.0472,13.868048
+1646,383835,Gönnsdorf,51.04775,13.869045
+1647,156590,Gönnsdorf Schönfelder Landstr.,51.04799,13.870177
+1648,419418,Gönnsdorf Schönfelder Landstr.,51.048115,13.870096
+1649,274346,Gönnsdorf Zachengrundring,51.045174,13.864715
+1650,383774,Gönnsdorf Zachengrundring,51.045803,13.866242
+1651,143872,Helfenberg Am Helfenberger Park,51.036434,13.865487
+1652,272983,Helfenberg Am Helfenberger Park,51.03635,13.865514
+1653,197683,Kesselsdorf Am Wüsteberg,51.033535,13.605371
+1654,456050,Kesselsdorf Am Wüsteberg,51.033733,13.606
+1655,353610,Langebrück Am Mühlenteich,51.13356,13.840532
+1656,377850,Langebrück Am Mühlenteich,51.133156,13.839796
+1657,42837,Langebrück Am Mühlenteich,51.13311,13.839742
+1658,80932,Langebrück Am Mühlenteich,51.133553,13.840586
+1659,101104,Langebrück Bahnhof,51.126038,13.841431
+1660,107311,Langebrück Bahnhof,51.12607,13.840775
+1661,198180,Langebrück Bahnhof,51.126057,13.841431
+1662,52750,Langebrück Bahnhof,51.126057,13.84082
+1663,230713,Langebrück Heidehof,51.12593,13.820635
+1664,401513,Langebrück Heidehof,51.125893,13.820626
+1665,427847,Langebrück Heidehof,51.12589,13.82112
+1666,430588,Langebrück Heidehof,51.125843,13.82112
+1667,301175,Langebrück Klotzscher Straße,51.125328,13.82624
+1668,46569,Langebrück Klotzscher Straße,51.125206,13.827255
+1669,52981,Langebrück Klotzscher Straße,51.12534,13.826231
+1670,62708,Langebrück Klotzscher Straße,51.125217,13.827264
+1671,10265,Langebrück Lindenhof,51.125416,13.834657
+1672,318389,Langebrück Lindenhof,51.125523,13.834657
+1673,372559,Langebrück Lindenhof,51.125553,13.835349
+1674,87462,Langebrück Lindenhof,51.12543,13.834747
+1675,377337,Langebrück Schule,51.12456,13.837909
+1676,59328,Langebrück Schule,51.12456,13.837909
+1677,106566,Langebrück Spritzenhaus,51.13036,13.839769
+1678,120301,Langebrück Spritzenhaus,51.13015,13.839948
+1679,200841,Langebrück Spritzenhaus,51.13013,13.839921
+1680,436542,Langebrück Spritzenhaus,51.13038,13.839715
+1681,232869,Malschendorf Wendeplatz,51.02592,13.885664
+1682,154756,Marsdorf Am Hornsberg,51.15595,13.780965
+1683,164539,Marsdorf Am Hornsberg,51.156666,13.779932
+1684,285697,Marsdorf Am Hornsberg,51.155937,13.78092
+1685,340259,Marsdorf Am Hornsberg,51.1567,13.779923
+1686,12394,Marsdorf Mitte,51.16255,13.767535
+1687,157272,Marsdorf Mitte,51.162598,13.767553
+1688,197592,Marsdorf Mitte,51.16262,13.767329
+1689,386220,Merbitz Autobahnbrücke,51.069675,13.638699
+1690,97819,Merbitz Autobahnbrücke,51.069473,13.638555
+1691,208631,Merbitz Gewerbegebiet,51.068436,13.637055
+1692,386348,Merbitz Gewerbegebiet,51.068447,13.637055
+1693,296057,Mobschatz Am Hang,51.081596,13.641268
+1694,308614,Mobschatz Am Hang,51.08102,13.641493
+1695,51839,Mobschatz Am Tummelsgrund,51.077995,13.645167
+1696,54302,Mobschatz Am Tummelsgrund,51.077995,13.645167
+1697,141140,Mobschatz Dorfplatz,51.07575,13.644241
+1698,31183,Mobschatz Dorfplatz,51.075783,13.644259
+1699,158350,Mobschatz Kirchenweg,51.074932,13.644996
+1700,271652,Mobschatz Kirchenweg,51.074932,13.645059
+1701,116643,Niederwartha,51.09463,13.605922
+1702,129482,Niederwartha Amselgrund,51.08848,13.613824
+1703,152161,Niederwartha Amselgrund,51.08874,13.612719
+1704,233598,Niederwartha Amselgrund,51.088768,13.613115
+1705,115989,Niederwartha Haltepunkt,51.093555,13.604689
+1706,207199,Niederwartha Haltepunkt,51.093998,13.604006
+1707,250489,Niederwartha Haltepunkt,51.09357,13.605389
+1708,301251,Niederwartha Haltepunkt,51.093548,13.605389
+1709,313637,Niederwartha Haltepunkt,51.094513,13.603449
+1710,382766,Niederwartha Haltepunkt,51.093945,13.604464
+1711,119720,Niederwartha Hermann-Große-Str,51.089943,13.606907
+1712,237447,Niederwartha Hermann-Große-Str,51.08988,13.607051
+1713,147412,Niederwartha Oberwarthaer Str.,51.0912,13.603871
+1714,47005,Niederwartha Oberwarthaer Str.,51.09138,13.603503
+1715,294948,Oberwartha Dorotheenstraße,51.081287,13.608372
+1716,21482,Oberwartha Friedensplatz,51.08078,13.603224
+1717,333935,Oberwartha Hässige Straße,51.07858,13.611013
+1718,213454,Pappritz,51.039833,13.853225
+1719,23532,Pappritz,51.03981,13.853019
+1720,259389,Pappritz Birkenstraße,51.0399,13.855777
+1721,67344,Pappritz Birkenstraße,51.0399,13.855777
+1722,204593,Pappritz Kurze Straße,51.036472,13.853944
+1723,303795,Pappritz Kurze Straße,51.035976,13.853836
+1724,371632,Pappritz Stallberg,51.03357,13.851393
+1725,78360,Pappritz Stallberg,51.0333,13.851034
+1726,100092,Pennrich Gleisschleife,51.040703,13.626095
+1727,19472,Pennrich Gleisschleife,51.04115,13.62535
+1728,198907,Pennrich Gleisschleife,51.04118,13.625368
+1729,292890,Pennrich Gleisschleife,51.040653,13.625736
+1730,157199,Pennrich Oskar-Maune-Straße,51.04332,13.62605
+1731,33039,Pennrich Oskar-Maune-Straße,51.04333,13.62597
+1732,237673,Pennrich Podemuser Straße,51.043285,13.624658
+1733,71426,Pennrich Podemuser Straße,51.043613,13.622242
+1734,226116,Pesterwitz Mittelweg,51.03079,13.66307
+1735,391878,Podemus Roitzscher Straße,51.061577,13.625736
+1736,433034,Podemus Roitzscher Straße,51.061543,13.62579
+1737,249672,Podemus Zschonergrundmühle,51.058556,13.640855
+1738,318129,Podemus Zschonergrundmühle,51.058556,13.640837
+1739,18819,Radeberg Heidehäuser,51.1133,13.890928
+1740,203842,Radeberg Heidehäuser,51.113274,13.890955
+1741,211331,Radeberg Heidehäuser,51.1133,13.890928
+1742,60067,Radeberg Heidehäuser,51.113274,13.890955
+1743,164191,Radebeul Ost (Schillerstraße),51.09973,13.688429
+1744,218875,Radebeul Ost (Schillerstraße),51.09985,13.688564
+1745,179671,Reitzendorf Kleinbauernmuseum,51.02666,13.903899
+1746,307539,Reitzendorf Kleinbauernmuseum,51.026615,13.903944
+1747,155335,Rennersdorf Hauptstraße,51.069176,13.609836
+1748,183576,Rennersdorf Hauptstraße,51.069176,13.609836
+1749,141989,Rockau Am Dorfplatz,51.02674,13.865559
+1750,455431,Rockau Am Dorfplatz,51.026825,13.865236
+1751,353831,Rockau Am Preßgrund,51.03035,13.865757
+1752,391936,Rockau Am Preßgrund,51.03035,13.865757
+1753,221739,Rossendorf Forschungszentrum,51.063965,13.948716
+1754,263983,Rossendorf Forschungszentrum,51.063152,13.950109
+1755,64027,Rossendorf Forschungszentrum,51.063152,13.950109
+1756,141604,Rossendorf Gutsweg,51.05519,13.935996
+1757,255242,Rossendorf Gutsweg,51.055054,13.935888
+1758,447212,Rossendorf Schänkhübel,51.063168,13.934406
+1759,180603,Schullwitz Gasthaus,51.041534,13.923941
+1760,197815,Schullwitz Gasthaus,51.041534,13.923995
+1761,207611,Schullwitz Oberdorf,51.03754,13.914949
+1762,135689,Schönborn b Dresden,51.147003,13.865263
+1763,17366,Schönborn b Dresden,51.14712,13.865811
+1764,231281,Schönborn b Dresden,51.1469,13.865254
+1765,235892,Schönborn b Dresden,51.147007,13.865272
+1766,250464,Schönborn b Dresden,51.14691,13.865272
+1767,373896,Schönborn b Dresden,51.14696,13.865955
+1768,387302,Schönborn b Dresden,51.146935,13.865883
+1769,79711,Schönborn b Dresden,51.14712,13.865811
+1770,175250,Schönfeld Friedhof,51.03023,13.901186
+1771,297663,Schönfeld Malschendorfer Str.,51.029785,13.900162
+1772,300815,Schönfeld Malschendorfer Str.,51.029785,13.900162
+1773,172115,Schönfeld Markt,51.03326,13.895033
+1774,263047,Schönfeld Markt,51.033203,13.895159
+1775,178060,Schönfeld Meixstraße,51.029858,13.900899
+1776,242150,Schönfeld Meixstraße,51.029858,13.900899
+1777,22701,Schönfeld Schmiede,51.03548,13.886894
+1778,337147,Schönfeld Schmiede,51.03544,13.886885
+1779,366964,Schönfeld Schule,51.031456,13.898123
+1780,81590,Schönfeld Schule,51.031544,13.897899
+1781,422576,Siedlung Rossendorf B 6,51.063755,13.942428
+1782,294731,Siedlung Rossendorf B6,51.063717,13.942213
+1783,165437,Steinbach Gasthof,51.04431,13.602802
+1784,184596,Steinbach Gasthof,51.04431,13.602784
+1785,221217,Ullersdorf Mühle,51.0737,13.884783
+1786,376168,Ullersdorf Mühle,51.07368,13.88481
+1787,384239,Ullersdorf Mühle,51.073723,13.884541
+1788,98500,Ullersdorf Mühle,51.073723,13.884541
+1789,285474,Unkersdorf Abzweig Roitzsch,51.05355,13.599038
+1790,45852,Unkersdorf Abzweig Roitzsch,51.053535,13.599056
+1791,173976,Unkersdorf Kirche,51.05853,13.591456
+1792,425052,Unkersdorf Kirche,51.057205,13.590226
+1793,306883,Unkersdorf Teichweg,51.056213,13.59213
+1794,377364,Unkersdorf Teichweg,51.05531,13.593487
+1795,126263,Volkersdorf Abzweig Waldteiche,51.136272,13.736058
+1796,299682,Volkersdorf Abzweig Waldteiche,51.1363,13.736085
+1797,220543,Weixdorf (Rathenaustraße),51.14406,13.803935
+1798,314091,Weixdorf Alte Dresdner Straße,51.141903,13.800162
+1799,420847,Weixdorf Alte Dresdner Straße,51.141903,13.800162
+1800,157579,Weixdorf Alte Moritzburger Str,51.150173,13.796407
+1801,251945,Weixdorf Alte Moritzburger Str,51.150196,13.796191
+1802,351260,Weixdorf Alte Moritzburger Str,51.150173,13.796407
+1803,8839,Weixdorf Alte Moritzburger Str,51.150196,13.796191
+1804,257986,Weixdorf Bf (Kirche),51.151184,13.80725
+1805,340856,Weixdorf Bf (Kirche),51.151184,13.80725
+1806,393969,Weixdorf Bf (Kirche),51.15116,13.808139
+1807,70856,Weixdorf Bf (Kirche),51.15116,13.808139
+1808,150813,Weixdorf Ewald-Kluge-Straße,51.140278,13.798096
+1809,33569,Weixdorf Ewald-Kluge-Straße,51.139484,13.798275
+1810,458242,Weixdorf Ewald-Kluge-Straße,51.140266,13.798078
+1811,54545,Weixdorf Ewald-Kluge-Straße,51.139473,13.798266
+1812,239453,Weixdorf Fuchsberg,51.133907,13.795419
+1813,364484,Weixdorf Fuchsberg,51.13365,13.795239
+1814,113968,Weixdorf Gomlitzer Höhe,51.15213,13.78914
+1815,154883,Weixdorf Gomlitzer Höhe,51.152103,13.789247
+1816,36103,Weixdorf Gomlitzer Höhe,51.152115,13.789122
+1817,102520,Weixdorf Haltepunkt Bad,51.140404,13.80062
+1818,171384,Weixdorf Haltepunkt Bad,51.140404,13.80062
+1819,18298,Weixdorf Haltepunkt Bad,51.140408,13.800557
+1820,336154,Weixdorf Haltepunkt Bad,51.14038,13.80062
+1821,106595,Weixdorf Mitte Rathauspl,51.14525,13.801689
+1822,138928,Weixdorf Mitte Rathauspl,51.145664,13.800117
+1823,288910,Weixdorf Mitte Rathauspl,51.145664,13.800117
+1824,359508,Weixdorf Mitte Rathauspl,51.145256,13.801608
+1825,412153,Weixdorf Mitte Rathauspl,51.145344,13.800153
+1826,67133,Weixdorf Mitte Rathauspl,51.145344,13.800153
+1827,297344,Weixdorf Mittelschule,51.147846,13.80106
+1828,280043,Weixdorf Promigberg,51.160706,13.799551
+1829,357434,Weixdorf Promigberg,51.160767,13.799749
+1830,108828,Weixdorf Radeburger Landstraße,51.152958,13.794287
+1831,252424,Weixdorf Radeburger Landstraße,51.152966,13.794314
+1832,354582,Weixdorf Radeburger Landstraße,51.152912,13.794296
+1833,55160,Weixdorf Radeburger Landstraße,51.152897,13.794269
+1834,285916,Weixdorf Schule,51.147835,13.801051
+1835,291692,Weißig Am Dorfende,51.051903,13.900477
+1836,398729,Weißig Am Dorfende,51.051903,13.900477
+1837,103693,Weißig Am Steinkreuz,51.060024,13.878226
+1838,450526,Weißig Am Steinkreuz,51.060028,13.877471
+1839,208335,Weißig Am Weißiger Bach,51.0622,13.886158
+1840,440494,Weißig Am Weißiger Bach,51.062035,13.886292
+1841,221859,Weißig Bergstraße,51.05684,13.892859
+1842,446870,Weißig Bergstraße,51.05684,13.892859
+1843,44201,Weißig Einkaufszentrum,51.06566,13.895833
+1844,58674,Weißig Einkaufszentrum,51.065792,13.895653
+1845,279791,Weißig Einkauszentrum,51.065964,13.895572
+1846,442242,Weißig Einkauszentrum,51.065792,13.895653
+1847,222039,Weißig Fußweg zum Napoleonstein,51.060764,13.919027
+1848,392093,Weißig Fußweg zum Napoleonstein,51.060734,13.918542
+1849,278754,Weißig Gasthof,51.0606,13.884909
+1850,181926,Weißig Gönnsdorfer Weg,51.058155,13.883229
+1851,288152,Weißig Heidestraße,51.060677,13.88287
+1852,135039,Weißig Hutbergschule,51.05893,13.885044
+1853,249572,Weißig Hutbergschule,51.058746,13.885349
+1854,349890,Weißig Radeberger Str Süd,51.06505,13.886769
+1855,106052,Weißig Radeberger Straße,51.06821,13.885771
+1856,256637,Weißig Radeberger Straße,51.067757,13.884918
+1857,244112,Weißig Südstraße,51.056553,13.888394
+1858,86737,Weißig Zum Heiderand,51.065037,13.884505
+1859,264473,Weißig Zum Hutbergblick,51.067852,13.888403
+1860,74570,Weißig Zum Hutbergblick,51.067883,13.888745
+1861,302461,Zaschendorf Zum Triebenberg,51.017506,13.910763
+1862,399121,Zaschendorf Zum Triebenberg,51.017353,13.910691
+1863,247057,Zöllmen Zschonerbach,51.044617,13.61254
+1864,437741,Zöllmen Zschonerbach,51.044567,13.611156

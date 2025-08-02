@@ -1,0 +1,2233 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,348541,"Berghofen, Nathe",51.470142,7.552146
+1,60952,"Brechten, Brechtener Str./B54",51.5854,7.468782
+2,76125,"Brechten, Brechtener Str./B54",51.585327,7.468701
+3,370945,"Brechten, Essingloh",51.58983,7.475097
+4,410931,"Brechten, Zentrum",51.57924,7.46297
+5,345186,DO Allerstr/LWL-Klinik Dtmd.,51.506317,7.545498
+6,439998,DO Allerstr/LWL-Klinik Dtmd.,51.50634,7.545606
+7,279400,DO Bodelschwingh Feuerwache,51.550934,7.367111
+8,95257,DO Bodelschwingh Feuerwache,51.55143,7.366832
+9,331308,DO Feuerwache Scharnhorst,51.552322,7.538554
+10,402040,DO Feuerwache Scharnhorst,51.551838,7.538491
+11,25798,DO Reiterhof Groppenbruch,51.586594,7.398938
+12,258247,DO Rodenbergstraße/Aplerbeck,51.49454,7.555667
+13,327404,DO Rodenbergstraße/Aplerbeck,51.49395,7.555146
+14,129296,DO Steinwache/DO-Hbf Nord,51.520103,7.460464
+15,153776,DO Steinwache/DO-Hbf Nord,51.520027,7.459314
+16,227257,DO Zentrum f. Prod.-Techno.,51.487896,7.483874
+17,372534,DO Zentrum f. Prod.-Techno.,51.48769,7.483658
+18,110494,DO Zollernstr./Kirchlinde Krh.,51.524075,7.369051
+19,342294,DO Zollernstr./Kirchlinde Krh.,51.52457,7.369033
+20,3367,"DO, Airport Parkhaus 4/5",51.511852,7.605838
+21,61644,"DO, Airport Parkhaus 4/5",51.51185,7.605775
+22,429844,"DO, Industriemuseum Zollern",51.52022,7.33284
+23,449877,"DO, Industriemuseum Zollern",51.519997,7.333981
+24,449746,"DO, Walzwerkstr./Logistikzentrum",51.54295,7.499765
+25,179564,DO-Anne-Frank-Gesamtschule,51.53572,7.467012
+26,25676,DO-Anne-Frank-Gesamtschule,51.535725,7.466869
+27,190861,DO-Aplerbeck Gewerbegebiet,51.506653,7.570175
+28,350618,DO-Aplerbeck Gewerbegebiet,51.50644,7.571289
+29,207,DO-Aplerbecker Bahnhofstraße,51.491665,7.551696
+30,396367,DO-Aplerbecker Bahnhofstraße,51.49155,7.551993
+31,207684,DO-Brackel S/Westfälische Str.,51.52058,7.54963
+32,4943,DO-Brackel S/Westfälische Str.,51.52057,7.549765
+33,303533,DO-Brackeler Str./Logistikp. W.,51.528923,7.502199
+34,419995,DO-Castroper Str./Mengede Bf,51.5687,7.374046
+35,58240,DO-Castroper Str./Mengede Bf,51.56882,7.373489
+36,362665,DO-Doldenweg/Kirchhörder Str.,51.462685,7.480388
+37,271996,DO-Ewald-Görshop-Straße,51.47716,7.383163
+38,82424,DO-Ewald-Görshop-Straße,51.477238,7.383101
+39,283077,DO-G.-Heinemann-Gesamtschule,51.53379,7.404822
+40,377298,DO-G.-Heinemann-Gesamtschule,51.533775,7.40484
+41,383417,DO-Gerhart-Hauptmann-Straße,51.505352,7.494123
+42,65684,DO-Gerhart-Hauptmann-Straße,51.505604,7.493557
+43,330306,DO-Geschwister-Scholl-Straße,51.517624,7.474828
+44,353182,DO-Geschwister-Scholl-Straße,51.51764,7.473992
+45,363840,DO-Geschwister-Scholl-Straße,51.518333,7.474612
+46,371775,DO-Geschwister-Scholl-Straße,51.51825,7.474603
+47,65623,DO-Gewerbegebiet Germania,51.50516,7.367129
+48,89987,DO-Gewerbegebiet Germania,51.505424,7.367605
+49,312040,DO-Heinrich-Czerkus-Allee,51.536125,7.562503
+50,56480,DO-Heinrich-Czerkus-Allee,51.536625,7.562853
+51,164813,DO-Heinrich-Munsbeck-Straße,51.48467,7.386424
+52,176205,DO-Heinrich-Munsbeck-Straße,51.484993,7.386272
+53,323024,DO-Heinrich-Munsbeck-Straße,51.484993,7.386272
+54,458426,DO-Heinrich-Munsbeck-Straße,51.48467,7.386424
+55,408663,DO-Huckarde Bezirksfriedhof,51.519993,7.397366
+56,203254,DO-Joseph-von-Fraunhofer-Str.,51.490273,7.405567
+57,428658,DO-Joseph-von-Fraunhofer-Str.,51.490005,7.405505
+58,202433,DO-Jungferntal Grundschule,51.52891,7.38302
+59,70014,DO-Jungferntal Grundschule,51.528885,7.382786
+60,344088,DO-Kemmingh. Bzfr/Nebeneingang,51.565865,7.481556
+61,54760,DO-Kemmingh. Bzfr/Nebeneingang,51.56588,7.48161
+62,177371,DO-Kemminghausen Bezirksfh.,51.563297,7.482095
+63,346834,DO-Kemminghausen Bezirksfh.,51.563488,7.482023
+64,136794,DO-Kortenstraße/Trauerhalle,51.485195,7.575771
+65,250934,DO-Kortenstraße/Trauerhalle,51.4857,7.575376
+66,445395,DO-Logistikpark Westfalenhütte,51.53055,7.500906
+67,304303,DO-Mühlackerstraße/Kurl Bf,51.556824,7.582185
+68,401370,DO-Mühlackerstraße/Kurl Bf,51.556915,7.582149
+69,168052,DO-Münster-/Mallinckrodtstraße,51.52461,7.462628
+70,305724,DO-Münster-/Mallinckrodtstraße,51.52469,7.462323
+71,340498,DO-Scheidemannstraße,51.531544,7.549262
+72,352924,DO-Scheidemannstraße,51.531494,7.549307
+73,170003,DO-Schopenhauer Grundsschule,51.559334,7.384035
+74,274870,DO-Schopenhauer Grundsschule,51.559303,7.384098
+75,5382,DO-Schulte-Heuthaus-Straße,51.507877,7.382202
+76,251780,DO-Sendstraße/Seniorenheim,51.525494,7.530766
+77,458133,DO-Sendstraße/Seniorenheim,51.52551,7.531323
+78,108259,DO-Siegfried-Drupp-Straße,51.544403,7.530236
+79,422725,DO-Siegfried-Drupp-Straße,51.544464,7.530164
+80,38545,DO-Süggelweg Seniorenheim,51.55854,7.471603
+81,437205,DO-Süggelweg Seniorenheim,51.55858,7.471612
+82,17418,DO-Walbertstraße/Schulmuseum,51.50947,7.386182
+83,342198,DO-Walbertstraße/Schulmuseum,51.50956,7.386056
+84,57789,DO-Walbertstraße/Schulmuseum,51.509678,7.38496
+85,207877,DO-Walter-Schücking-Straße,51.560314,7.382804
+86,322405,DO-Walter-Schücking-Straße,51.560337,7.382885
+87,185597,DO-Weingartenschule am See,51.49322,7.506592
+88,440051,DO-Weingartenschule am See,51.493355,7.506206
+89,11615,DO-Willem-van-Vloten-Straße,51.495094,7.497196
+90,17966,DO-Willem-van-Vloten-Straße,51.4942,7.498543
+91,208936,DO-Willem-van-Vloten-Straße,51.495125,7.497357
+92,26258,DO-Willem-van-Vloten-Straße,51.495804,7.497178
+93,435204,DO-Willem-van-Vloten-Straße,51.49561,7.498049
+94,453781,DO-Willem-van-Vloten-Straße,51.496037,7.497016
+95,93428,DO-Willem-van-Vloten-Straße,51.49436,7.498929
+96,90911,DO-Wohnstift A.d. Kronenburg,51.503136,7.479023
+97,426634,DO-Wohnstift Augustinum Hauptein.,51.45711,7.473076
+98,380999,"Derne, Auf dem Brink",51.572304,7.507823
+99,151404,"Derne, Im Sperrfeld",51.57536,7.50679
+100,391040,"Derne, Im Sperrfeld",51.576027,7.506448
+101,45585,"Derne, Kümperheide",51.578194,7.505757
+102,364264,Dortmund AWO Haus Bittermark,51.44604,7.467003
+103,101237,Dortmund AWO-Werkstätten/Jakob,51.53868,7.454346
+104,157628,Dortmund Abteistraße,51.49196,7.569501
+105,383273,Dortmund Abteistraße,51.49197,7.569447
+106,223025,Dortmund Adalbert-Dickhut-Str.,51.537968,7.561937
+107,432315,Dortmund Adalbert-Dickhut-Str.,51.53832,7.561946
+108,402305,Dortmund Adelenstraße,51.487797,7.531071
+109,7812,Dortmund Adelenstraße,51.487484,7.531008
+110,26829,Dortmund Adi-Preißler-Allee,51.536983,7.552954
+111,311917,Dortmund Adi-Preißler-Allee,51.53724,7.552217
+112,182407,Dortmund Agavenstraße,51.484165,7.586174
+113,358712,Dortmund Agavenstraße,51.48438,7.58612
+114,284109,Dortmund Airport,51.51461,7.612638
+115,312788,Dortmund Airport,51.51432,7.611884
+116,253284,Dortmund Airport P6 Ost,51.508797,7.599801
+117,382441,Dortmund Airport P6 Ost,51.508835,7.599729
+118,356906,Dortmund Airport P6 West,51.50816,7.596954
+119,377712,Dortmund Airport P6 West,51.508167,7.596891
+120,122256,Dortmund Airwin,51.48238,7.395587
+121,340501,Dortmund Airwin,51.4824,7.395417
+122,181865,Dortmund Albertstraße,51.525146,7.476238
+123,397453,Dortmund Albertstraße,51.525208,7.476085
+124,332016,Dortmund Albrechtstraße,51.51018,7.4438
+125,54347,Dortmund Albrechtstraße,51.510094,7.443369
+126,132934,Dortmund Alekestraße,51.5753,7.566806
+127,29598,Dortmund Alekestraße,51.57566,7.566986
+128,296932,Dortmund Alfred-Lange-Straße,51.5803,7.426516
+129,314349,Dortmund Alfred-Lange-Straße,51.580395,7.426489
+130,23190,Dortmund Allensteiner Straße,51.528202,7.418827
+131,344151,Dortmund Allensteiner Straße,51.528164,7.418728
+132,376744,Dortmund Alte Straße,51.52169,7.507427
+133,439822,Dortmund Alte Straße,51.52169,7.5074
+134,216939,Dortmund Altenderner Straße,51.568893,7.522573
+135,387074,Dortmund Altenderner Straße,51.568943,7.522977
+136,355842,Dortmund Altenhennestraße,51.53859,7.397752
+137,90280,Dortmund Altenhennestraße,51.538574,7.397761
+138,3029,Dortmund Alter Hellweg,51.49964,7.378133
+139,31765,Dortmund Alter Hellweg,51.49957,7.377953
+140,424666,Dortmund Am Ballroth,51.45474,7.430352
+141,330962,Dortmund Am Beilstück,51.487007,7.436002
+142,71010,Dortmund Am Beilstück,51.487297,7.436326
+143,52147,Dortmund Am Birkenbaum,51.57403,7.46906
+144,167378,Dortmund Am Brandhof,51.56468,7.545651
+145,283339,Dortmund Am Brandhof,51.564335,7.546944
+146,405838,Dortmund Am Brandhof,51.564953,7.547663
+147,320013,Dortmund Am Büter,51.496845,7.533254
+148,427662,Dortmund Am Büter,51.49689,7.533272
+149,308022,Dortmund Am Dreisch,51.49267,7.546181
+150,449346,Dortmund Am Dreisch,51.492702,7.546073
+151,339214,Dortmund Am Düppersholl,51.49765,7.35484
+152,51633,Dortmund Am Düppersholl,51.497734,7.353905
+153,62927,Dortmund Am Gardenkamp,51.481346,7.414443
+154,90463,Dortmund Am Gardenkamp,51.48139,7.414793
+155,104462,Dortmund Am Gemeindehaus,51.477715,7.440278
+156,363368,Dortmund Am Gemeindehaus,51.477726,7.439919
+157,176024,Dortmund Am Grimmelsiepen,51.481983,7.505595
+158,264044,Dortmund Am Grimmelsiepen,51.48205,7.505649
+159,130962,Dortmund Am Hagedorn,51.52825,7.5878
+160,157171,Dortmund Am Hagedorn,51.52827,7.587809
+161,200816,Dortmund Am Hagedorn,51.528286,7.588384
+162,44215,Dortmund Am Hagedorn,51.528633,7.589507
+163,119247,Dortmund Am Hartweg,51.497303,7.405127
+164,229299,Dortmund Am Hartweg,51.497166,7.404876
+165,30260,Dortmund Am Hausacker,51.56399,7.440557
+166,396607,Dortmund Am Hausacker,51.564095,7.440593
+167,130070,Dortmund Am Hedreisch,51.482544,7.427648
+168,284771,Dortmund Am Hedreisch,51.482567,7.428142
+169,101697,Dortmund Am Heedbrink,51.487797,7.493495
+170,33138,Dortmund Am Heedbrink,51.4878,7.49371
+171,363457,Dortmund Am Heiderand,51.587322,7.379723
+172,371574,Dortmund Am Heiderand,51.5873,7.37966
+173,384961,Dortmund Am Heiderand,51.587322,7.379723
+174,97689,Dortmund Am Heiderand,51.5873,7.37966
+175,277287,Dortmund Am Heisterbach,51.45019,7.488239
+176,299409,Dortmund Am Heisterbach,51.450256,7.488186
+177,164505,Dortmund Am Hombruchsfeld,51.473232,7.447842
+178,98328,Dortmund Am Hombruchsfeld,51.473602,7.448255
+179,331667,Dortmund Am Höhweg,51.49812,7.406816
+180,352528,Dortmund Am Höhweg,51.49814,7.406942
+181,184991,Dortmund Am Hülsenberg,51.437347,7.430604
+182,322621,Dortmund Am Kai,51.489834,7.507077
+183,228964,Dortmund Am Kapellenufer,51.499397,7.591725
+184,209167,Dortmund Am Klusenberg,51.42706,7.465782
+185,58758,Dortmund Am Klusenberg,51.42677,7.465916
+186,135285,Dortmund Am Kohlufer,51.47244,7.445138
+187,173911,Dortmund Am Kohlufer,51.47249,7.445516
+188,57308,Dortmund Am Lieberfeld,51.46747,7.492965
+189,7212,Dortmund Am Lieberfeld,51.467487,7.492974
+190,365631,Dortmund Am Liegenden,51.536762,7.403142
+191,39289,Dortmund Am Liegenden,51.53629,7.403555
+192,174556,Dortmund Am Lohbach,51.477043,7.517498
+193,397119,Dortmund Am Lohbach,51.476692,7.516941
+194,336704,Dortmund Am Marksbach,51.479916,7.506457
+195,373128,Dortmund Am Marksbach,51.479774,7.506601
+196,191686,Dortmund Am Oespeler Dorney,51.480843,7.385598
+197,380005,Dortmund Am Oespeler Dorney,51.48096,7.385643
+198,184738,Dortmund Am Oestricher Bruch,51.567574,7.36455
+199,60064,Dortmund Am Rabensmorgen,51.51178,7.513823
+200,135627,Dortmund Am Remberg,51.493988,7.517084
+201,357633,Dortmund Am Remberg,51.493927,7.517318
+202,235454,Dortmund Am Rode,51.500492,7.409457
+203,446285,Dortmund Am Rode,51.50028,7.409565
+204,258853,Dortmund Am Rundbogen,51.475456,7.484215
+205,361418,Dortmund Am Rundbogen,51.475437,7.48426
+206,193611,Dortmund Am Schlagbaum,51.578396,7.387053
+207,213111,Dortmund Am Schlagbaum,51.577915,7.386927
+208,298389,Dortmund Am Schlagbaum,51.577915,7.386927
+209,46856,Dortmund Am Schlagbaum,51.578396,7.387053
+210,319413,Dortmund Am Schlosspark,51.54876,7.368638
+211,63923,Dortmund Am Schlosspark,51.54891,7.368494
+212,139371,Dortmund Am Sturmwald,51.473866,7.420273
+213,320796,Dortmund Am Sturmwald,51.47396,7.419626
+214,373804,Dortmund Am Sturmwald,51.473816,7.420093
+215,409250,Dortmund Am Sturmwald,51.473377,7.420039
+216,43869,Dortmund Am Volksgarten,51.507244,7.329148
+217,151098,Dortmund Am Westheck,51.52992,7.539363
+218,302300,Dortmund Am Westheck,51.52986,7.539345
+219,188473,Dortmund Am Zehnthof,51.515816,7.507571
+220,206872,Dortmund Am Zehnthof,51.51591,7.506502
+221,224664,Dortmund Am Zehnthof,51.515408,7.507059
+222,317320,Dortmund Am Zehnthof,51.515877,7.507409
+223,368125,Dortmund Am Zehnthof,51.515835,7.506745
+224,315239,Dortmund Am Zitter,51.485733,7.361694
+225,330597,Dortmund Ammerstraße,51.56457,7.382876
+226,84678,Dortmund Ammerstraße,51.564594,7.382903
+227,169810,Dortmund Amtsstraße,51.552094,7.464209
+228,233492,Dortmund Amtsstraße,51.55214,7.464317
+229,38908,Dortmund An den Bräukerhöfen,51.472343,7.503268
+230,448105,Dortmund An den Bräukerhöfen,51.472424,7.503484
+231,225503,Dortmund An der Brandheide,51.51889,7.338176
+232,75422,Dortmund An der Brandheide,51.518887,7.338293
+233,120394,Dortmund An der Palmweide,51.489643,7.438015
+234,185425,Dortmund An der Palmweide,51.490414,7.437826
+235,238065,Dortmund An der Palmweide,51.490597,7.438545
+236,423580,Dortmund An der Palmweide,51.490246,7.438086
+237,7529,Dortmund An der Palmweide,51.490265,7.437952
+238,92708,Dortmund An der Palmweide,51.489853,7.438275
+239,236175,Dortmund Aplerbeck,51.493153,7.556907
+240,319348,Dortmund Aplerbeck,51.493126,7.5567
+241,433992,Dortmund Aplerbeck,51.493465,7.556026
+242,273943,Dortmund Aplerbeck Bezirksfdh.,51.486973,7.574487
+243,339017,Dortmund Aplerbeck Bezirksfdh.,51.48721,7.574271
+244,169687,Dortmund Aplerbeck Friedhöfe,51.497383,7.561398
+245,60,Dortmund Aplerbeck Friedhöfe,51.49719,7.561335
+246,423070,Dortmund Aplerbeck Markt,51.491425,7.555541
+247,445965,Dortmund Aplerbeck Markt,51.491493,7.555586
+248,12783,Dortmund Aplerbeck Süd Bf,51.482773,7.55405
+249,278796,Dortmund Aplerbeck Süd Bf,51.482723,7.551966
+250,90178,Dortmund Aplerbeck Süd Bf,51.482704,7.554095
+251,189019,Dortmund Aplerbecker Schulstr.,51.483013,7.561874
+252,297295,Dortmund Aplerbecker Schulstr.,51.482925,7.561847
+253,5049,Dortmund Aplerbecker Schulstr.,51.482735,7.562144
+254,151633,Dortmund Aplerbecker-Mark-Str.,51.475506,7.55873
+255,327279,Dortmund Aplerbecker-Mark-Str.,51.476166,7.559099
+256,349189,Dortmund Apolloweg,51.48256,7.547438
+257,454290,Dortmund Apolloweg,51.482567,7.547627
+258,287019,Dortmund Arcostraße,51.512592,7.555371
+259,378114,Dortmund Arcostraße,51.512592,7.555532
+260,142269,Dortmund Aspeystraße,51.526962,7.400878
+261,78251,Dortmund Aspeystraße,51.52695,7.40104
+262,19763,Dortmund Asseln Aplerbeck.Str,51.52807,7.582455
+263,232685,Dortmund Asseln Aplerbeck.Str,51.528275,7.581988
+264,251876,Dortmund Asseln Aplerbeck.Str,51.528008,7.582446
+265,28753,Dortmund Asseln Aplerbeck.Str,51.528297,7.582015
+266,372211,Dortmund Asseln Aplerbeck.Str,51.528046,7.582554
+267,73013,Dortmund Asseln Aplerbeck.Str,51.528023,7.582401
+268,318840,Dortmund Asseln Mitte,51.526215,7.581961
+269,435424,Dortmund Asseln Mitte,51.526073,7.581907
+270,328932,Dortmund Asseln Schulzentrum,51.531216,7.59716
+271,253617,Dortmund Athener Weg,51.50407,7.527532
+272,381592,Dortmund Athener Weg,51.504074,7.527415
+273,70720,Dortmund Auf dem Bockenfelde,51.519817,7.360265
+274,7396,Dortmund Auf dem Bockenfelde,51.519825,7.360463
+275,276018,Dortmund Auf dem Brauck,51.565414,7.368162
+276,284107,Dortmund Auf dem Brink,51.57265,7.508101
+277,391348,Dortmund Auf dem Brink,51.572605,7.508308
+278,160016,Dortmund Auf dem Brümmer,51.511383,7.404948
+279,22476,Dortmund Auf dem Brümmer,51.51136,7.404768
+280,342812,Dortmund Auf dem Hohwart,51.509403,7.526858
+281,385164,Dortmund Auf dem Hohwart,51.509747,7.526642
+282,257627,Dortmund Auf dem Wodeacker,51.561733,7.396854
+283,410051,Dortmund Auf dem Wodeacker,51.560997,7.397168
+284,288538,Dortmund Auf der Goldbreite,51.526478,7.367596
+285,321910,Dortmund Auf der Goldbreite,51.52642,7.367533
+286,19278,Dortmund Auf der Kiste,51.506435,7.377585
+287,433554,Dortmund Auf der Kiste,51.506126,7.377432
+288,142222,Dortmund Auf der Knappule,51.45251,7.486515
+289,82937,Dortmund Auf der Knappule,51.45267,7.486371
+290,114935,Dortmund Auf der Linnert,51.485966,7.382211
+291,134451,Dortmund Auf der Linnert,51.485966,7.382948
+292,169014,Dortmund Auf der Mühle,51.528732,7.54575
+293,246721,Dortmund Auf der Mühle,51.5284,7.545696
+294,322200,Dortmund Auf der Wenge,51.569607,7.515009
+295,8024,Dortmund Auf der Wenge,51.569603,7.516761
+296,31122,Dortmund Auf der Wittbräucke,51.423996,7.469608
+297,98715,Dortmund Auf der Wittbräucke,51.424335,7.469024
+298,222759,Dortmund Auf'm Lehmbrink,51.515884,7.35439
+299,41504,Dortmund Auf'm Lehmbrink,51.51591,7.354346
+300,334850,Dortmund Baedekerstraße,51.54266,7.624496
+301,107687,Dortmund Bandelstraße,51.516136,7.424827
+302,131945,Dortmund Bannenberg,51.5247,7.381538
+303,347668,Dortmund Bannenberg,51.524715,7.382292
+304,107238,Dortmund Barop,51.476746,7.430783
+305,412062,Dortmund Barop,51.47619,7.430675
+306,271328,Dortmund Barop Friedhof,51.490807,7.424684
+307,9397,Dortmund Barop Friedhof,51.490776,7.424755
+308,193829,Dortmund Barop Parkhaus,51.48233,7.432939
+309,229484,Dortmund Barop Parkhaus,51.48219,7.433209
+310,272976,Dortmund Barop Parkhaus,51.48225,7.432724
+311,327891,Dortmund Barop Parkhaus,51.482315,7.433101
+312,40760,Dortmund Barop Parkhaus,51.48227,7.432535
+313,377623,Dortmund Baroper Heidestraße,51.482296,7.438994
+314,428491,Dortmund Baroper Heidestraße,51.482895,7.438841
+315,338629,Dortmund Baroper Schulstraße,51.478565,7.43125
+316,357831,Dortmund Baroper Schulstraße,51.478687,7.431295
+317,215493,Dortmund Barthstraße,51.547516,7.539201
+318,234384,Dortmund Barthstraße,51.547535,7.539201
+319,130570,Dortmund Basenachstraße,51.539955,7.405711
+320,430572,Dortmund Basenachstraße,51.539703,7.40581
+321,263750,Dortmund Bayrische Straße,51.554222,7.474594
+322,351429,Dortmund Bayrische Straße,51.5543,7.474549
+323,248077,Dortmund Beguinenstraße,51.501816,7.334223
+324,252786,Dortmund Beguinenstraße,51.50166,7.334628
+325,147691,Dortmund Bekassinenweg,51.48009,7.525537
+326,295603,Dortmund Bekassinenweg,51.480278,7.526139
+327,176084,Dortmund Belle-Alliance-Straße,51.551937,7.452783
+328,232646,Dortmund Belle-Alliance-Straße,51.552036,7.452388
+329,221691,Dortmund Benediktinerstraße,51.487045,7.554382
+330,393047,Dortmund Benediktinerstraße,51.48727,7.554382
+331,212916,Dortmund Benninghofer Heide,51.469826,7.51368
+332,88967,Dortmund Benninghofer Heide,51.469715,7.513832
+333,295018,Dortmund Benninghofer Mark,51.45753,7.520435
+334,68261,Dortmund Benninghofer Mark,51.457626,7.520606
+335,257196,Dortmund Berghofen Tunnelpark,51.478634,7.53656
+336,341639,Dortmund Berghofen Tunnelpark,51.478996,7.536928
+337,175802,Dortmund Berghofen Zentrum,51.478363,7.531448
+338,355325,Dortmund Berghofen Zentrum,51.478264,7.53258
+339,108890,Dortmund Berghofer Schulstraße,51.47764,7.536901
+340,423077,Dortmund Berghofer Schulstraße,51.47775,7.536722
+341,19879,Dortmund Bergmeisterstraße,51.499126,7.543989
+342,406735,Dortmund Bergmeisterstraße,51.497597,7.544151
+343,229817,Dortmund Bergparte,51.496773,7.538249
+344,371041,Dortmund Bergparte,51.497337,7.537728
+345,139637,Dortmund Berliner Straße,51.515694,7.503035
+346,276282,Dortmund Berliner Straße,51.515717,7.503098
+347,436998,Dortmund Berliner Straße,51.515522,7.502208
+348,4450,Dortmund Berliner Straße,51.515545,7.502226
+349,159898,Dortmund Beylingstraße,51.56196,7.519213
+350,26303,Dortmund Beylingstraße,51.562305,7.519878
+351,292519,Dortmund Bickefeld,51.488197,7.507005
+352,98395,Dortmund Bickefeld,51.487785,7.508326
+353,45530,Dortmund Bickestraße,51.48691,7.512153
+354,85019,Dortmund Bickestraße,51.486813,7.512844
+355,142826,Dortmund Birnbaumweg,51.51712,7.519662
+356,45406,Dortmund Birnbaumweg,51.51776,7.519339
+357,191065,Dortmund Bismarckstraße,51.511585,7.484691
+358,263436,Dortmund Bismarckstraße,51.509853,7.484098
+359,130789,Dortmund Bleichstraße,51.49976,7.332103
+360,435269,Dortmund Bleichstraße,51.499657,7.332049
+361,230854,Dortmund Blenkerweg,51.468224,7.487467
+362,59490,Dortmund Blenkerweg,51.46816,7.487206
+363,244489,Dortmund Blotenhof,51.525425,7.362682
+364,68444,Dortmund Blotenhof,51.52512,7.363526
+365,198740,Dortmund Bockumweg,51.53261,7.612782
+366,236555,Dortmund Bockumweg,51.53373,7.612656
+367,243433,Dortmund Bockumweg,51.532745,7.614623
+368,433980,Dortmund Bockumweg,51.5328,7.615243
+369,99102,Dortmund Bockumweg,51.53284,7.613069
+370,288918,Dortmund Bodelschwingh,51.5525,7.36632
+371,38460,Dortmund Bodelschwingh,51.552197,7.366365
+372,272302,Dortmund Bodieckstraße,51.485115,7.593818
+373,43793,Dortmund Bodieckstraße,51.4842,7.594232
+374,98484,Dortmund Bodieckstraße,51.484425,7.593531
+375,107079,Dortmund Borsigplatz,51.524044,7.481861
+376,182166,Dortmund Borsigplatz,51.52374,7.480712
+377,346054,Dortmund Borsigplatz,51.52244,7.481349
+378,39216,Dortmund Borsigplatz,51.52238,7.481277
+379,397490,Dortmund Borsigplatz,51.52426,7.482005
+380,77570,Dortmund Borsigplatz,51.523106,7.480882
+381,81859,Dortmund Borsigplatz,51.52374,7.480837
+382,129573,Dortmund Boschkamp,51.543396,7.370354
+383,150330,Dortmund Boschkamp,51.542927,7.370506
+384,237805,Dortmund Boschstraße,51.52612,7.386523
+385,59502,Dortmund Boschstraße,51.525932,7.386505
+386,207454,Dortmund Bothestraße,51.528667,7.380199
+387,347711,Dortmund Bothestraße,51.528316,7.379992
+388,286994,Dortmund Boverfeld,51.454178,7.417596
+389,177594,Dortmund Brackel,51.52075,7.547879
+390,187995,Dortmund Brackel,51.52106,7.547816
+391,146897,Dortmund Brackel Kirche,51.52368,7.547187
+392,169128,Dortmund Brackel Kirche,51.523216,7.547097
+393,222421,Dortmund Brackel Kirche,51.52367,7.547349
+394,224997,Dortmund Brackel Kirche,51.523144,7.547061
+395,424598,Dortmund Brackel Kirche,51.5236,7.546244
+396,87605,Dortmund Brackel Kirche,51.52366,7.547573
+397,225052,Dortmund Brackel Verwaltungs.,51.524044,7.552747
+398,287521,Dortmund Brackel Verwaltungs.,51.524124,7.553547
+399,324528,Dortmund Brackel Verwaltungs.,51.524147,7.553592
+400,33173,Dortmund Brackel Verwaltungs.,51.524803,7.551669
+401,408176,Dortmund Brackel Verwaltungs.,51.524475,7.551777
+402,69111,Dortmund Brackel Verwaltungs.,51.524067,7.5529
+403,333825,Dortmund Brackeler Linde,51.51207,7.554194
+404,450456,Dortmund Brackeler Linde,51.511955,7.554185
+405,174756,Dortmund Brandisstraße,51.45933,7.484206
+406,297223,Dortmund Brandisstraße,51.45919,7.484215
+407,281744,Dortmund Brechten Zentrum,51.581818,7.460733
+408,346892,Dortmund Brechten Zentrum,51.580082,7.462619
+409,360922,Dortmund Brechten Zentrum,51.58049,7.462853
+410,8506,Dortmund Brechten Zentrum,51.579575,7.462979
+411,91539,Dortmund Brechten Zentrum,51.580494,7.462763
+412,177196,Dortmund Brechtener Straße,51.558292,7.482706
+413,193027,Dortmund Brechtener Straße,51.55946,7.482643
+414,363475,Dortmund Brechtener Straße,51.559376,7.48258
+415,422117,Dortmund Brechtener Straße,51.558266,7.482661
+416,178733,Dortmund Brechtstraße,51.547085,7.54548
+417,377956,Dortmund Brechtstraße,51.547066,7.545318
+418,89892,Dortmund Bredenbeckstraße,51.578,7.452873
+419,138576,Dortmund Breisenbachstr.,51.560974,7.37303
+420,176742,Dortmund Breisenbachstr.,51.56102,7.37312
+421,335191,Dortmund Breisenbachstr.,51.560974,7.37303
+422,456296,Dortmund Breisenbachstr.,51.56102,7.37312
+423,127210,Dortmund Breitscheidstraße,51.531445,7.544968
+424,195460,Dortmund Breitscheidstraße,51.531578,7.544986
+425,294716,Dortmund Brennaborstraße,51.49236,7.373363
+426,339220,Dortmund Brennaborstraße,51.4923,7.372878
+427,316894,Dortmund Brietenstraße,51.538883,7.368503
+428,397177,Dortmund Brietenstraße,51.539062,7.369365
+429,264688,Dortmund Brinkhoffstraße,51.518604,7.453573
+430,392218,Dortmund Brinkhoffstraße,51.51883,7.453555
+431,203785,Dortmund Brinkmannstraße,51.558678,7.396566
+432,430975,Dortmund Brinkmannstraße,51.55875,7.396989
+433,155719,Dortmund Brixener Straße,51.46416,7.461407
+434,344765,Dortmund Brixener Straße,51.463894,7.461658
+435,373042,Dortmund Brockenscheidter Weg,51.5907,7.412934
+436,442272,Dortmund Brockenscheidter Weg,51.590786,7.413041
+437,31950,Dortmund Brücherfeld,51.471386,7.499882
+438,320473,Dortmund Brücherfeld,51.471348,7.500232
+439,148381,Dortmund Brücherhofstraße,51.4783,7.494474
+440,238856,Dortmund Brücherhofstraße,51.478317,7.494555
+441,196961,Dortmund Brügmannplatz,51.519005,7.469519
+442,197927,Dortmund Brügmannplatz,51.51985,7.469923
+443,30186,Dortmund Brügmannplatz,51.5185,7.46942
+444,411390,Dortmund Brügmannplatz,51.518986,7.469698
+445,435646,Dortmund Brüninghausen,51.57892,7.353088
+446,86252,Dortmund Brüninghausen,51.57917,7.352881
+447,145695,Dortmund Brünningh.Betriebshof,51.476967,7.454508
+448,233447,Dortmund Brünningh.Betriebshof,51.47697,7.454598
+449,414961,Dortmund Brünningh.Betriebshof,51.477043,7.453987
+450,157473,Dortmund Brünninghausen,51.47951,7.459233
+451,228427,Dortmund Brünninghausen,51.479618,7.459466
+452,267104,Dortmund Brünninghausen,51.478466,7.458379
+453,456846,Dortmund Brünninghausen,51.4794,7.459134
+454,66209,Dortmund Brünninghausen,51.478413,7.458442
+455,308529,Dortmund Buchholz,51.43298,7.509979
+456,445330,Dortmund Buchholz,51.432945,7.509727
+457,230793,Dortmund Buddenacker,51.51478,7.567839
+458,356604,Dortmund Buddenacker,51.51417,7.568154
+459,420935,Dortmund Buddenacker,51.514313,7.568396
+460,97573,Dortmund Buddenacker,51.51483,7.567794
+461,221214,Dortmund Bummelberg,51.504646,7.420327
+462,391765,Dortmund Bummelberg,51.504284,7.419967
+463,142808,Dortmund Bundesanstalt f. Arb.,51.49869,7.416213
+464,245563,Dortmund Bundesanstalt f. Arb.,51.498814,7.416374
+465,126966,Dortmund Burgheisterkamp,51.534897,7.409718
+466,443770,Dortmund Burgheisterkamp,51.53473,7.409834
+467,270115,Dortmund Burgholz,51.541492,7.475717
+468,276067,Dortmund Burgholz,51.54075,7.47631
+469,371371,Dortmund Burgholz,51.541534,7.476723
+470,119297,Dortmund Burgring,51.57264,7.377845
+471,173351,Dortmund Burgring,51.57205,7.377495
+472,195128,Dortmund Buschstraße,51.540375,7.407346
+473,365649,Dortmund Buschstraße,51.541145,7.406735
+474,155299,Dortmund Businkstraße,51.527733,7.57702
+475,327305,Dortmund Businkstraße,51.527756,7.576921
+476,53800,Dortmund Businkstraße,51.527756,7.578197
+477,232943,Dortmund Bärenbruch,51.516914,7.37303
+478,319663,Dortmund Bärenbruch,51.520145,7.37224
+479,201635,Dortmund Böckmannstraße,51.494816,7.567803
+480,405155,Dortmund Böckmannstraße,51.495125,7.568243
+481,145974,Dortmund Bönninghauser Feld,51.569313,7.569681
+482,273112,Dortmund Bönninghauser Feld,51.569565,7.569501
+483,147700,Dortmund Bönninghauser Straße,51.568005,7.571819
+484,243439,Dortmund Bönninghauser Straße,51.568336,7.571316
+485,52474,Dortmund Bövinghausen Bf,51.52097,7.32869
+486,95362,Dortmund Bövinghausen Bf,51.520927,7.328627
+487,278456,Dortmund Bövinghausen Friedhof,51.51364,7.321189
+488,56960,Dortmund Bövinghausen Friedhof,51.514614,7.321746
+489,106768,Dortmund Bövinghausen Oberdel.,51.51609,7.32294
+490,374344,Dortmund Bövinghausen Oberdel.,51.51609,7.322851
+491,264882,Dortmund Bövinghauser Dorfstr.,51.511444,7.322033
+492,291096,Dortmund Bövinghauser Dorfstr.,51.511505,7.321916
+493,302758,Dortmund Bövinghauser Straße,51.520042,7.325564
+494,413016,Dortmund Bövinghauser Straße,51.52059,7.325375
+495,366785,Dortmund Büngerstraße,51.47427,7.507293
+496,423304,Dortmund Büngerstraße,51.473637,7.505864
+497,168532,Dortmund Bünnerhelfstraße,51.505535,7.393225
+498,295550,Dortmund Bünnerhelfstraße,51.50478,7.393782
+499,442288,Dortmund Campus Süd,51.484947,7.412844
+500,378401,Dortmund Canarisstraße,51.488976,7.568764
+501,228267,Dortmund Chemnitzer Straße,51.50479,7.463455
+502,459013,Dortmund Chemnitzer Straße,51.504944,7.464506
+503,457357,Dortmund Clarenberg,51.48286,7.501669
+504,50137,Dortmund Clarenberg,51.482845,7.501534
+505,24356,Dortmund Crispinstraße,51.446198,7.460535
+506,220632,Dortmund DO-Huckarde,51.533306,7.402163
+507,373529,Dortmund DO-Huckarde,51.53316,7.400573
+508,252881,Dortmund Dahmsfeldstraße,51.461304,7.466401
+509,75479,Dortmund Dahmsfeldstraße,51.461082,7.467991
+510,139969,Dortmund Danziger Straße,51.47681,7.493018
+511,312757,Dortmund Danziger Straße,51.476284,7.49256
+512,302190,Dortmund Dechenstraße,51.517376,7.442219
+513,38360,Dortmund Dechenstraße,51.51741,7.44221
+514,340657,Dortmund Degenerstraße,51.53617,7.395291
+515,413163,Dortmund Deininghausen Abzweig,51.57412,7.362143
+516,58967,Dortmund Deininghausen Abzweig,51.57377,7.363032
+517,175854,Dortmund Dellwiger Straße,51.508347,7.323578
+518,338297,Dortmund Dellwiger Straße,51.507874,7.323695
+519,328347,Dortmund Derne Am Wittfeld,51.577766,7.526589
+520,224385,Dortmund Derne Bf,51.56782,7.526418
+521,237740,Dortmund Derne Bf,51.566833,7.528295
+522,378398,Dortmund Derne Bf,51.567196,7.526921
+523,394446,Dortmund Derne Bf,51.566887,7.528196
+524,368833,Dortmund Derne Einkaufszentrum,51.568916,7.525277
+525,319553,Dortmund Derner Kippshof,51.571545,7.521854
+526,444177,Dortmund Derner Kippshof,51.571564,7.521908
+527,186077,Dortmund Dessauerstraße,51.494602,7.493683
+528,305355,Dortmund Dessauerstraße,51.494698,7.493656
+529,129048,Dortmund Deusen,51.55076,7.426831
+530,186041,Dortmund Deusen,51.549965,7.427235
+531,300314,Dortmund Deusen,51.55071,7.427073
+532,293649,Dortmund Deuser Wiesen,51.547665,7.42825
+533,52121,Dortmund Deuser Wiesen,51.547146,7.428061
+534,205719,Dortmund Deutsche Gasrußwerke,51.543697,7.438841
+535,160725,Dortmund Dickebankstraße,51.50011,7.41146
+536,36014,Dortmund Dickebankstraße,51.500153,7.411451
+537,296604,Dortmund Diedrichstraße,51.507584,7.372195
+538,373300,Dortmund Diedrichstraße,51.507637,7.372384
+539,107022,Dortmund Dietziusstraße,51.53725,7.407247
+540,173606,Dortmund Dietziusstraße,51.53735,7.407157
+541,351724,Dortmund Doldenweg,51.461716,7.479993
+542,87345,Dortmund Doldenweg,51.46204,7.481251
+543,172286,Dortmund Dollersweg,51.53355,7.618998
+544,225884,Dortmund Dollersweg,51.533195,7.619268
+545,256434,Dortmund Donarstraße,51.56272,7.388383
+546,91519,Dortmund Donarstraße,51.56273,7.388266
+547,114400,Dortmund Dorneystraße,51.48806,7.369123
+548,458522,Dortmund Dorneystraße,51.488102,7.36994
+549,259186,Dortmund Dorstfeld,51.510086,7.422564
+550,56372,Dortmund Dorstfeld,51.51021,7.4226
+551,215005,Dortmund Dorstfeld Betriebshof,51.51272,7.418413
+552,330295,Dortmund Dorstfeld Betriebshof,51.51268,7.41827
+553,355160,Dortmund Dorstfeld Betriebshof,51.51328,7.418827
+554,5156,Dortmund Dorstfeld Betriebshof,51.51327,7.418881
+555,102775,Dortmund Dorstfeld Hallenbad,51.507683,7.418207
+556,332966,Dortmund Dorstfeld Hallenbad,51.507698,7.418485
+557,165112,Dortmund Drehbrückenstraße,51.528366,7.440808
+558,76006,Dortmund Drehbrückenstraße,51.528156,7.440817
+559,404712,Dortmund Dreihausen,51.53852,7.582329
+560,8096,Dortmund Dreihausen,51.53849,7.582239
+561,142749,Dortmund Droste-zu-Vischering,51.573097,7.370982
+562,186373,Dortmund Droste-zu-Vischering,51.573288,7.370102
+563,120994,Dortmund Dudenstraße,51.50809,7.46085
+564,146237,Dortmund Durchstraße,51.46202,7.483595
+565,205675,Dortmund Durchstraße,51.46166,7.484305
+566,448822,Dortmund Durchstraße,51.462303,7.485104
+567,102262,Dortmund Dönnstraße,51.564526,7.381124
+568,169169,Dortmund Dönnstraße,51.564526,7.381052
+569,177948,Dortmund Dönnstraße,51.564526,7.381052
+570,80699,Dortmund Dönnstraße,51.564526,7.381124
+571,177936,Dortmund Döringhoff,51.525906,7.567642
+572,204268,Dortmund Döringhoff,51.525745,7.566932
+573,435067,Dortmund Döringhoff,51.525806,7.567435
+574,236837,Dortmund Dörwerstraße,51.55647,7.382337
+575,373875,Dortmund Dörwerstraße,51.55625,7.382445
+576,441709,Dortmund Düsseldorfer Straße,51.508533,7.488419
+577,293338,Dortmund Düsterstraße,51.513004,7.507993
+578,31098,Dortmund Düsterstraße,51.51282,7.508164
+579,439672,Dortmund Ebbinghausstraße,51.53593,7.60688
+580,85572,Dortmund Ebbinghausstraße,51.535854,7.606934
+581,452991,Dortmund Eberstraße,51.53415,7.462233
+582,84939,Dortmund Eberstraße,51.534073,7.46182
+583,189448,Dortmund Echeloh,51.48782,7.365889
+584,414217,Dortmund Echeloh,51.48785,7.365323
+585,169314,Dortmund Echeloh-Siedlung,51.484344,7.363005
+586,231994,Dortmund Ederstraße,51.484467,7.547654
+587,333212,Dortmund Ederstraße,51.484516,7.547636
+588,329873,Dortmund Eggensteinstraße,51.504044,7.567471
+589,83915,Dortmund Eggensteinstraße,51.50419,7.567552
+590,13920,Dortmund Eichholzstraße,51.47697,7.592911
+591,170068,Dortmund Eichholzstraße,51.47684,7.592444
+592,162699,Dortmund Eichlinghofen,51.481743,7.405082
+593,444672,Dortmund Eichlinghofen,51.481537,7.406331
+594,112131,Dortmund Eichlinghofen H-Bahn,51.48133,7.408649
+595,2449,Dortmund Eichlinghofen H-Bahn,51.481575,7.40908
+596,7982,Dortmund Eichlinghofen H-Bahn,51.481297,7.408828
+597,12581,Dortmund Eichwaldstraße,51.532143,7.609503
+598,142831,Dortmund Eichwaldstraße,51.532104,7.609359
+599,1805,Dortmund Eichwaldstraße,51.532513,7.608883
+600,219173,Dortmund Eichwaldstraße,51.532127,7.609207
+601,245913,Dortmund Eichwaldstraße,51.532513,7.608856
+602,59513,Dortmund Eierkampstraße,51.479317,7.436065
+603,73422,Dortmund Eierkampstraße,51.479317,7.435966
+604,189900,Dortmund Eisenacher Straße,51.518032,7.485464
+605,403898,Dortmund Eisenacher Straße,51.517975,7.485347
+606,302358,Dortmund Ellinghausen,51.55493,7.424935
+607,392986,Dortmund Ellinghausen,51.55499,7.425034
+608,380422,Dortmund Ellinghausen GVZ/IKEA,51.55778,7.419941
+609,442896,Dortmund Ellinghausen GVZ/IKEA,51.55819,7.417587
+610,338848,Dortmund Elsborn,51.52791,7.368557
+611,48648,Dortmund Elsborn,51.528103,7.368251
+612,105519,Dortmund Emil-Figge-Straße,51.495197,7.4203
+613,13762,Dortmund Emil-Figge-Straße,51.495155,7.420183
+614,200795,Dortmund Emkraft,51.52446,7.60706
+615,200815,Dortmund Emkraft,51.524544,7.605083
+616,134040,Dortmund Emschertor,51.48522,7.518081
+617,42756,Dortmund Emschertor,51.485783,7.516599
+618,312548,Dortmund Emsinghofstraße,51.56774,7.371602
+619,385657,Dortmund Emsinghofstraße,51.567642,7.371476
+620,227606,Dortmund Enscheder Straße,51.52166,7.477136
+621,300097,Dortmund Enscheder Straße,51.52165,7.4771
+622,63580,Dortmund Enscheder Straße,51.521713,7.477406
+623,237136,Dortmund Entenpoth,51.482533,7.490854
+624,319225,Dortmund Entenpoth,51.48257,7.490764
+625,359004,Dortmund Erdmannstraße,51.554874,7.396728
+626,396986,Dortmund Erdmannstraße,51.555027,7.395488
+627,88010,Dortmund Erich-Kästner-Ring,51.573097,7.455738
+628,164565,Dortmund Erikastraße,51.445778,7.526777
+629,230630,Dortmund Erlenbachstraße,51.49146,7.540279
+630,367382,Dortmund Erlenbachstraße,51.49141,7.540234
+631,118584,Dortmund Erpinghofstraße,51.534092,7.398291
+632,111010,Dortmund Europaplatz,51.5017,7.524163
+633,362039,Dortmund Europaplatz,51.501804,7.523876
+634,372978,Dortmund Europaplatz,51.50143,7.523741
+635,88487,Dortmund Europaplatz,51.501945,7.524127
+636,170002,Dortmund Europaschule,51.510365,7.533263
+637,195561,Dortmund Europaschule,51.510628,7.533748
+638,433567,Dortmund Europaschule,51.51078,7.534152
+639,304735,Dortmund Ev. Gemeindehaus,51.44489,7.457903
+640,342265,Dortmund Eving Gewerbepark,51.546978,7.463042
+641,380372,Dortmund Eving Gewerbepark,51.547043,7.463787
+642,55269,Dortmund Eving Hallenbad,51.55358,7.470444
+643,88622,Dortmund Eving Hallenbad,51.553547,7.471136
+644,102825,Dortmund Eving Markt,51.554634,7.473309
+645,275273,Dortmund Eving Markt,51.554585,7.473175
+646,231937,Dortmund Externberg,51.555115,7.465323
+647,390058,Dortmund Externberg,51.555172,7.465413
+648,228835,Dortmund Falterweg,51.47924,7.547223
+649,321136,Dortmund Falterweg,51.479187,7.547196
+650,405187,Dortmund Feldbank,51.47238,7.485634
+651,3437,Dortmund Feldgarten,51.507423,7.341886
+652,41223,Dortmund Feldgarten,51.50777,7.342299
+653,259356,Dortmund Feldmark,51.447063,7.532922
+654,366145,Dortmund Fernstraße,51.55024,7.411254
+655,38977,Dortmund Feuerwache West,51.51174,7.378115
+656,66908,Dortmund Feuerwache West,51.51228,7.377217
+657,117156,Dortmund Finanzämter DO-Ost/UN,51.510326,7.523947
+658,257760,Dortmund Finanzämter DO-Ost/UN,51.51084,7.522762
+659,142585,Dortmund Fine Frau,51.503426,7.411155
+660,161443,Dortmund Fine Frau,51.50251,7.410508
+661,373301,Dortmund Fleier,51.54212,7.586057
+662,398068,Dortmund Fleier,51.542797,7.586353
+663,244781,Dortmund Flemerskamp,51.550194,7.585913
+664,395937,Dortmund Flemerskamp,51.550323,7.586183
+665,11893,Dortmund Flughafenstraße,51.549637,7.538123
+666,125334,Dortmund Flughafenstraße,51.549576,7.538303
+667,146371,Dortmund Flughafenstraße,51.549576,7.538356
+668,428384,Dortmund Flughafenstraße,51.549637,7.538734
+669,162671,Dortmund Fohlenkampstraße,51.55286,7.589794
+670,411785,Dortmund Fohlenkampstraße,51.552998,7.589992
+671,57866,Dortmund Forsthausstraße,51.55304,7.464928
+672,322316,Dortmund Fr.-Hausemann-Allee,51.568844,7.395767
+673,71295,Dortmund Fr.-Hausemann-Allee,51.56891,7.395938
+674,198005,Dortmund Franz-Zimmer-Siedlung,51.553726,7.498849
+675,40120,Dortmund Franz-Zimmer-Siedlung,51.553696,7.49892
+676,80043,Dortmund Franz-Zimmer-Siedlung,51.552727,7.496935
+677,89524,Dortmund Franz-Zimmer-Siedlung,51.552727,7.496495
+678,186306,Dortmund Franziusbrücke,51.532852,7.433936
+679,424342,Dortmund Franziusbrücke,51.53284,7.434017
+680,218196,Dortmund Fredenbaum,51.536358,7.456259
+681,332049,Dortmund Fredenbaum,51.536125,7.456421
+682,366575,Dortmund Fredenbaum,51.536457,7.455622
+683,429990,Dortmund Fredenbaum,51.536335,7.456466
+684,456212,Dortmund Freie Scholle,51.579144,7.458164
+685,250150,Dortmund Freihofstraße,51.574203,7.382786
+686,362965,Dortmund Freihofstraße,51.574543,7.382571
+687,399495,Dortmund Freihofstraße,51.574543,7.382571
+688,68738,Dortmund Freihofstraße,51.574203,7.382786
+689,109325,Dortmund Freischöffenweg,51.555496,7.452756
+690,443199,Dortmund Freischöffenweg,51.55558,7.452945
+691,396032,Dortmund Fresienstraße,51.492264,7.580002
+692,124626,Dortmund Friederike-Nadig-Str.,51.539436,7.564776
+693,245280,Dortmund Friederike-Nadig-Str.,51.538727,7.565827
+694,264902,Dortmund Friesenstraße,51.550373,7.457301
+695,70964,Dortmund Friesenstraße,51.550404,7.457292
+696,298089,Dortmund Froschlake,51.503,7.368988
+697,416934,Dortmund Froschlake,51.503036,7.36897
+698,130874,Dortmund Froschloch,51.46809,7.442057
+699,33495,Dortmund Froschloch,51.46715,7.44177
+700,160403,Dortmund Fröbelweg,51.55735,7.475016
+701,247924,Dortmund Fröbelweg,51.55796,7.475196
+702,432051,Dortmund Fuchshöhle,51.519966,7.574585
+703,450722,Dortmund Fuchshöhle,51.519485,7.573993
+704,105922,Dortmund Funkenburg,51.513733,7.489093
+705,115065,Dortmund Funkenburg,51.51291,7.488141
+706,277767,Dortmund Funkenburg,51.512833,7.488123
+707,311770,Dortmund Funkenburg,51.513725,7.488725
+708,50469,Dortmund Funkenburg,51.513756,7.488716
+709,6877,Dortmund Funkenburg,51.51384,7.488734
+710,175628,Dortmund Funkturmsiedlung,51.51323,7.559979
+711,434615,Dortmund Funkturmsiedlung,51.513195,7.559916
+712,24844,Dortmund Färberstraße,51.578964,7.561847
+713,291805,Dortmund Färberstraße,51.57896,7.562018
+714,140496,Dortmund Föbusweg/DO-Barop,51.477116,7.428286
+715,28650,Dortmund Föbusweg/DO-Barop,51.47715,7.428088
+716,223686,Dortmund Fühlestraße,51.52691,7.3604
+717,325878,Dortmund Fühlestraße,51.52695,7.35996
+718,417723,Dortmund Gabelstraße,51.49621,7.566249
+719,99136,Dortmund Gabelstraße,51.49619,7.566357
+720,128479,Dortmund Gablonzstraße,51.476143,7.442794
+721,191335,Dortmund Gablonzstraße,51.4755,7.443027
+722,448404,Dortmund Gablonzstraße,51.47571,7.443405
+723,231205,Dortmund Galmeiweg,51.497303,7.540728
+724,296791,Dortmund Gartenstraße,51.450478,7.508128
+725,60225,Dortmund Gartenstraße,51.450695,7.50864
+726,138197,Dortmund Gaußstraße,51.49502,7.528188
+727,173727,Dortmund Gaußstraße,51.494614,7.527747
+728,238486,Dortmund Gaußstraße,51.49458,7.527774
+729,241543,Dortmund Gaußstraße,51.49513,7.528161
+730,38840,Dortmund Gecks Heide,51.50509,7.32462
+731,67589,Dortmund Gecks Heide,51.504753,7.32462
+732,356972,Dortmund Gedingeweg,51.499817,7.539641
+733,60141,Dortmund Genfer Weg,51.48421,7.566752
+734,220015,Dortmund Germania,51.49754,7.362134
+735,284877,Dortmund Germania,51.49735,7.361766
+736,305768,Dortmund Germania,51.49735,7.361766
+737,33449,Dortmund Germania,51.497482,7.362017
+738,99051,Dortmund Germania,51.49742,7.361981
+739,221786,Dortmund Germaniastraße,51.50456,7.366994
+740,76019,Dortmund Germaniastraße,51.50438,7.367156
+741,232065,Dortmund Gersdorffstraße,51.483856,7.460041
+742,341692,Dortmund Gersdorffstraße,51.48385,7.460257
+743,128788,Dortmund Gevelsbergstraße,51.49906,7.55158
+744,224493,Dortmund Gevelsbergstraße,51.49902,7.55158
+745,206354,Dortmund Gewerbehof Defdahl,51.507275,7.489749
+746,209148,Dortmund Gewerbehof Defdahl,51.50719,7.489776
+747,106452,Dortmund Gewerbepark Hansa,51.539394,7.415359
+748,92667,Dortmund Gewerbepark Hansa,51.53954,7.416006
+749,103854,Dortmund Geßlerstraße,51.51029,7.516527
+750,428081,Dortmund Geßlerstraße,51.510002,7.515908
+751,313733,Dortmund Gießereistraße,51.497158,7.592722
+752,361323,Dortmund Gießereistraße,51.49609,7.592983
+753,103967,Dortmund Gladiolenstraße,51.483467,7.589174
+754,450062,Dortmund Gladiolenstraße,51.48349,7.588446
+755,11357,Dortmund Gleiwitzstraße,51.549263,7.529212
+756,174548,Dortmund Gleiwitzstraße,51.549973,7.528879
+757,348833,Dortmund Gleiwitzstraße,51.549927,7.528996
+758,67997,Dortmund Gleiwitzstraße,51.549545,7.529274
+759,377843,Dortmund Glückaufstraße,51.530712,7.472905
+760,389657,Dortmund Glückaufstraße,51.530575,7.472779
+761,73951,Dortmund Godefriedstraße,51.463604,7.498301
+762,131537,Dortmund Godekinstraße,51.465706,7.493818
+763,277723,Dortmund Godekinstraße,51.46555,7.493836
+764,240574,Dortmund Goethestraße,51.527264,7.451965
+765,263839,Dortmund Goethestraße,51.52695,7.452064
+766,240866,Dortmund Gradigenweg,51.46742,7.524639
+767,53068,Dortmund Gradigenweg,51.467373,7.524693
+768,171703,Dortmund Graf-Konrad-Schule,51.5551,7.456394
+769,238137,Dortmund Graf-Konrad-Schule,51.55539,7.456331
+770,32963,Dortmund Graffweg,51.516464,7.550663
+771,353330,Dortmund Graffweg,51.515774,7.551813
+772,135075,Dortmund Grenzweg,51.458275,7.525277
+773,34435,Dortmund Grenzweg,51.458183,7.525376
+774,322450,Dortmund Grevel Wasserturm,51.568302,7.556062
+775,75389,Dortmund Grevel Wasserturm,51.56806,7.555748
+776,228838,Dortmund Greveler Straße,51.558144,7.563725
+777,282138,Dortmund Greveler Straße,51.558086,7.563366
+778,433794,Dortmund Gronaustraße,51.525696,7.473884
+779,28200,Dortmund Groppenbrucher Straße,51.586105,7.393458
+780,318121,Dortmund Groppenbrucher Straße,51.586105,7.393261
+781,331451,Dortmund Groppenbrucher Straße,51.586105,7.393261
+782,49261,Dortmund Groppenbrucher Straße,51.586105,7.393458
+783,16529,Dortmund Grotenbachstraße,51.468002,7.433496
+784,283663,Dortmund Grotenbachstraße,51.468483,7.433954
+785,284994,Dortmund Grotenbachstraße,51.468456,7.434071
+786,415644,Dortmund Grotenbachstraße,51.468224,7.432301
+787,61829,Dortmund Grotenbachstraße,51.46811,7.433909
+788,8608,Dortmund Grotenbachstraße,51.46818,7.432382
+789,431188,Dortmund Grotenkamp,51.459538,7.414461
+790,267749,Dortmund Groß-Barop,51.489548,7.420318
+791,61705,Dortmund Groß-Barop,51.489994,7.419851
+792,107597,Dortmund Große Riedbruchstraße,51.579987,7.380487
+793,260134,Dortmund Große Riedbruchstraße,51.580154,7.380478
+794,271431,Dortmund Große Riedbruchstraße,51.580154,7.380478
+795,425269,Dortmund Große Riedbruchstraße,51.579987,7.380487
+796,88413,Dortmund Großholthsn.Friedhof,51.455795,7.43735
+797,167765,Dortmund Gruelsiepenstraße,51.48485,7.561605
+798,5438,Dortmund Gruelsiepenstraße,51.48548,7.560931
+799,436434,Dortmund Grunewald,51.54427,7.524486
+800,96987,Dortmund Grunewald,51.54395,7.523498
+801,126008,Dortmund Grävingholz,51.557907,7.464829
+802,262333,Dortmund Grävingholz,51.557907,7.464739
+803,300324,Dortmund Grävingholz,51.558,7.46491
+804,217004,Dortmund Grüne Straße,51.519173,7.451894
+805,231072,Dortmund Grüne Straße,51.51927,7.452774
+806,274956,Dortmund Grüne Tanne,51.552937,7.48514
+807,73348,Dortmund Grüne Tanne,51.55275,7.485859
+808,107978,Dortmund Grüner Bogen,51.567802,7.392623
+809,437393,Dortmund Grüner Bogen,51.567856,7.392659
+810,430453,Dortmund Gut Altmengede,51.569374,7.396126
+811,85392,Dortmund Gut Altmengede,51.569183,7.396396
+812,151719,Dortmund Gut Königsmühle,51.563053,7.410041
+813,425288,Dortmund Gut Königsmühle,51.563583,7.408325
+814,17250,Dortmund Gärtnerstraße,51.549564,7.466006
+815,81112,Dortmund Gärtnerstraße,51.549564,7.466213
+816,281058,Dortmund Göllenkamp,51.557686,7.363275
+817,352233,Dortmund Göllenkamp,51.5574,7.363508
+818,222723,Dortmund Güntherstraße,51.51627,7.486847
+819,81624,Dortmund Güntherstraße,51.516296,7.486928
+820,101663,Dortmund Gürtlerstraße,51.582268,7.56032
+821,126658,Dortmund Güterstraße,51.542816,7.45864
+822,178766,Dortmund Güterstraße,51.543266,7.458972
+823,425836,Dortmund Güterstraße,51.54326,7.459062
+824,6984,Dortmund Güterstraße,51.544548,7.459853
+825,263154,Dortmund Hacheney,51.47641,7.475699
+826,375062,Dortmund Hacheney,51.47682,7.475681
+827,429611,Dortmund Hacheney,51.47682,7.475852
+828,424844,Dortmund Hacheneyer Kirchweg,51.47452,7.486973
+829,455112,Dortmund Hacheneyer Kirchweg,51.47442,7.487889
+830,142868,Dortmund Hackländerplatz,51.530304,7.458227
+831,240899,Dortmund Hackländerplatz,51.530735,7.455622
+832,26921,Dortmund Hackländerplatz,51.529716,7.459574
+833,67199,Dortmund Hackländerplatz,51.530052,7.456044
+834,101832,Dortmund Hafen,51.524117,7.445525
+835,201622,Dortmund Hafen,51.52399,7.445408
+836,239934,Dortmund Hafen,51.52371,7.444671
+837,32722,Dortmund Hafen,51.52396,7.44318
+838,410447,Dortmund Hafen,51.522697,7.443108
+839,440827,Dortmund Hafen,51.524063,7.443171
+840,72395,Dortmund Hafen,51.52331,7.442722
+841,161176,Dortmund Hafer-Vöhde,51.572903,7.518207
+842,309717,Dortmund Hafer-Vöhde,51.57295,7.518378
+843,195814,Dortmund Haferfeldstraße,51.52809,7.551687
+844,295067,Dortmund Haferfeldstraße,51.52856,7.551499
+845,246333,Dortmund Haferkampstraße,51.52465,7.390952
+846,60116,Dortmund Haferkampstraße,51.52446,7.389874
+847,340480,Dortmund Hainallee,51.506107,7.470722
+848,409889,Dortmund Hainallee,51.50594,7.470552
+849,177605,Dortmund Hallesche Straße,51.51802,7.494456
+850,397624,Dortmund Hallesche Straße,51.518394,7.495615
+851,178674,Dortmund Hangeney,51.51484,7.364056
+852,277135,Dortmund Hangeney,51.51457,7.365314
+853,201921,Dortmund Hannöversche Straße,51.526962,7.517021
+854,435613,Dortmund Hannöversche Straße,51.526974,7.516941
+855,295791,Dortmund Hans-Peters-Straße,51.5438,7.527262
+856,444898,Dortmund Hans-Peters-Straße,51.543827,7.527235
+857,250347,Dortmund Hansmannstraße,51.480316,7.41014
+858,42986,Dortmund Hansmannstraße,51.480564,7.410634
+859,143826,Dortmund Harkortbogen,51.475384,7.432867
+860,213614,Dortmund Harkortbogen,51.475403,7.432292
+861,259302,Dortmund Harkortstraße,51.47602,7.435454
+862,281485,Dortmund Harkortstraße,51.476025,7.435356
+863,89067,Dortmund Harkortstraße,51.475437,7.434754
+864,223935,Dortmund Haselhoffstraße,51.477856,7.522762
+865,36036,Dortmund Haselhoffstraße,51.47782,7.521962
+866,24646,Dortmund Haslindestraße,51.515095,7.562925
+867,85072,Dortmund Haslindestraße,51.515984,7.563896
+868,204251,Dortmund Hauert,51.492405,7.40175
+869,237924,Dortmund Hauert,51.492397,7.401821
+870,143161,Dortmund Haumannstraße,51.50956,7.378923
+871,166281,Dortmund Hauptfriedhof,51.50733,7.5347
+872,391582,Dortmund Hauptfriedhof,51.50794,7.534476
+873,409304,Dortmund Hauptfriedhof,51.508,7.534664
+874,425914,Dortmund Hauptfriedhof,51.507423,7.534664
+875,241526,Dortmund Haus Ardeyblick,51.43504,7.472204
+876,331637,Dortmund Haus Ardeyblick,51.434082,7.470965
+877,121862,Dortmund Haus Dellwig,51.510616,7.345928
+878,23361,Dortmund Haus Dellwig,51.510696,7.346036
+879,22776,Dortmund Haus Hunke,51.43213,7.507895
+880,365079,Dortmund Haus Hunke,51.432217,7.508002
+881,197705,Dortmund Hausemannstift,51.57041,7.39353
+882,296633,Dortmund Hausemannstift,51.570507,7.393332
+883,189908,Dortmund Haustenbecke,51.557552,7.590063
+884,441377,Dortmund Haustenbecke,51.55758,7.59001
+885,144798,Dortmund Hbf,51.518284,7.460257
+886,184637,Dortmund Hbf,51.517174,7.462314
+887,268453,Dortmund Hbf,51.517017,7.460814
+888,275245,Dortmund Hbf,51.519005,7.459484
+889,307858,Dortmund Hbf,51.516644,7.45952
+890,41807,Dortmund Hbf,51.519188,7.459907
+891,427072,Dortmund Hbf,51.516968,7.460553
+892,82237,Dortmund Hbf,51.518307,7.46032
+893,177675,Dortmund Hebelerweg,51.50326,7.338409
+894,262352,Dortmund Hebelerweg,51.503345,7.338436
+895,248362,Dortmund Heckelbeckstraße,51.52632,7.36305
+896,343207,Dortmund Heckelbeckstraße,51.52607,7.364029
+897,28435,Dortmund Hedwigstraße,51.486782,7.379974
+898,373068,Dortmund Hedwigstraße,51.48689,7.379624
+899,151449,Dortmund Hegemanns Heide,51.47069,7.413607
+900,87842,Dortmund Hegemanns Heide,51.470303,7.413203
+901,224725,Dortmund Hegemanns Heide Süd,51.46471,7.417587
+902,173791,Dortmund Heideweg,51.44537,7.523444
+903,198343,Dortmund Heideweg,51.445774,7.523417
+904,29083,Dortmund Heideweg,51.445404,7.523471
+905,294805,Dortmund Heiliger Weg,51.511322,7.474549
+906,302649,Dortmund Heiliger Weg,51.51073,7.475546
+907,350538,Dortmund Heiliger Weg,51.511127,7.474351
+908,257403,Dortmund Heilsberger Weg,51.524353,7.414182
+909,28048,Dortmund Heilsberger Weg,51.524426,7.414398
+910,335724,Dortmund Heimbach,51.546963,7.605892
+911,367844,Dortmund Heimbach,51.546844,7.605928
+912,272705,Dortmund Heimbaustraße,51.516243,7.483694
+913,444143,Dortmund Heimbaustraße,51.516212,7.483721
+914,152697,Dortmund Heimsenstraße,51.5037,7.559054
+915,282772,Dortmund Heimsenstraße,51.503376,7.559278
+916,100873,Dortmund Heinrichstraße,51.513,7.442587
+917,140639,Dortmund Heinrichstraße,51.51293,7.442344
+918,225252,Dortmund Heinrichstraße,51.513027,7.443342
+919,78402,Dortmund Heinrichstraße,51.513096,7.443225
+920,177749,Dortmund Heinz-Nixdorf-Str,51.488987,7.482032
+921,310901,Dortmund Heinz-Nixdorf-Str,51.48901,7.481987
+922,241316,Dortmund Hellenbank,51.474056,7.426552
+923,152867,Dortmund Hellerstraße,51.444145,7.454714
+924,341259,Dortmund Hellerstraße,51.44416,7.454786
+925,260614,Dortmund Helsinkistraße,51.50481,7.532077
+926,70228,Dortmund Helsinkistraße,51.50483,7.531996
+927,384464,Dortmund Herderstraße,51.528156,7.453753
+928,5241,Dortmund Herderstraße,51.52815,7.45387
+929,343858,Dortmund Heribertstraße,51.51384,7.369222
+930,396171,Dortmund Heribertstraße,51.513714,7.369841
+931,237527,Dortmund Hermelinweg,51.46587,7.540818
+932,283567,Dortmund Hermerichweg,51.54038,7.37118
+933,358211,Dortmund Hermerichweg,51.540447,7.371117
+934,228005,Dortmund Hessische Straße,51.551407,7.488976
+935,323206,Dortmund Hessische Straße,51.55137,7.488778
+936,158759,Dortmund Heunerstraße,51.459896,7.441464
+937,169713,Dortmund Heunerstraße,51.46044,7.441356
+938,64827,Dortmund Heuweg,51.576492,7.46447
+939,279428,Dortmund Heßlingsweg,51.535336,7.542588
+940,58348,Dortmund Heßlingsweg,51.53541,7.542605
+941,144885,Dortmund Heßlingsweg/Industrie,51.53642,7.551283
+942,43189,Dortmund Heßlingsweg/Industrie,51.534927,7.551328
+943,234387,Dortmund Hinnenberg,51.5829,7.563437
+944,165348,Dortmund Hinter Holtein,51.477154,7.403223
+945,180870,Dortmund Hinter Holtein,51.477135,7.403097
+946,376607,Dortmund Hinterer Remberg,51.493313,7.511641
+947,46294,Dortmund Hinterer Remberg,51.493355,7.511533
+948,28906,Dortmund Hittenpad,51.453568,7.531233
+949,236332,Dortmund Hochofenstraße,51.487667,7.495049
+950,79723,Dortmund Hochofenstraße,51.487762,7.495058
+951,330211,Dortmund Hoeschpark,51.523693,7.485131
+952,89912,Dortmund Hoeschpark,51.523716,7.48505
+953,194537,Dortmund Hohle Eiche,51.459496,7.456026
+954,317148,Dortmund Hohle Eiche,51.45931,7.456071
+955,163924,Dortmund Holtbrügge,51.46753,7.48373
+956,441529,Dortmund Holtbrügge,51.46751,7.483146
+957,206159,Dortmund Holtchen,51.50156,7.572448
+958,306494,Dortmund Holtchen,51.501564,7.57234
+959,234287,Dortmund Holthausen,51.56872,7.440018
+960,275574,Dortmund Holthausen,51.568764,7.439991
+961,103480,Dortmund Holtkottenweg,51.55455,7.479975
+962,310247,Dortmund Holtkottenweg,51.554478,7.480325
+963,364981,Dortmund Holzen Ehrenmal,51.442135,7.533497
+964,420966,Dortmund Holzen Ehrenmal,51.442833,7.533065
+965,31639,Dortmund Holzen Friedhof,51.44989,7.52313
+966,351631,Dortmund Holzen Friedhof,51.449726,7.523184
+967,332986,Dortmund Holzrichterweg,51.444485,7.46306
+968,230543,Dortmund Holzwickeder Straße,51.518528,7.56006
+969,384580,Dortmund Holzwickeder Straße,51.518852,7.559817
+970,106896,Dortmund Hombruch Friedhof,51.470654,7.442605
+971,128662,Dortmund Hombruch Friedhof,51.47068,7.44265
+972,155153,Dortmund Hombruch Friedhof,51.47087,7.442156
+973,160455,Dortmund Hombruch Friedhof,51.47087,7.442237
+974,223928,Dortmund Hombruch Hallenbad,51.471172,7.435401
+975,239345,Dortmund Hombruch Hallenbad,51.47118,7.435517
+976,24151,Dortmund Hostedde,51.566257,7.535922
+977,37819,Dortmund Hostedde,51.56622,7.536147
+978,27821,Dortmund Hostedder Berg,51.560276,7.515512
+979,315653,Dortmund Hostedder Berg,51.56048,7.515836
+980,185297,Dortmund Huckarde Abzweig,51.531853,7.418512
+981,377023,Dortmund Huckarde Abzweig,51.531906,7.418342
+982,143632,Dortmund Huckarde Bushof,51.534836,7.414901
+983,203584,Dortmund Huckarde Bushof,51.5348,7.41491
+984,208657,Dortmund Huckarde Bushof,51.53475,7.41482
+985,208658,Dortmund Huckarde Bushof,51.534595,7.414506
+986,287490,Dortmund Huckarde Bushof,51.53459,7.414811
+987,336194,Dortmund Huckarde Bushof,51.534668,7.41482
+988,246972,Dortmund Huckarde Markt,51.53099,7.413374
+989,982,Dortmund Huckarde Markt,51.53128,7.413284
+990,122037,Dortmund Huckarde Recyclinghof,51.540546,7.419707
+991,14293,Dortmund Huckarde Recyclinghof,51.54055,7.419869
+992,181253,Dortmund Huckarder Allee,51.538067,7.4142
+993,437024,Dortmund Huckarder Allee,51.5381,7.414443
+994,334705,Dortmund Huckarder Hölzchen,51.53992,7.403753
+995,356591,Dortmund Huckarder Hölzchen,51.539967,7.403834
+996,299887,Dortmund Huckarder Straße,51.521606,7.428358
+997,75446,Dortmund Huckarder Straße,51.52167,7.428349
+998,364801,Dortmund Huestraße,51.496387,7.519555
+999,50797,Dortmund Huestraße,51.496807,7.519636
+1000,421724,Dortmund Hugo-Sickmann-Straße,51.460632,7.446935
+1001,302373,Dortmund Husen,51.560974,7.597852
+1002,72592,Dortmund Husen,51.560852,7.598975
+1003,369983,Dortmund Husener Straße,51.559105,7.595642
+1004,65793,Dortmund Husener Straße,51.559116,7.595561
+1005,126419,Dortmund Händelstraße,51.56527,7.389685
+1006,209308,Dortmund Händelstraße,51.565395,7.389559
+1007,210928,Dortmund Höchsten,51.464203,7.52366
+1008,291533,Dortmund Höchsten,51.464516,7.524145
+1009,298777,Dortmund Höchsten,51.464275,7.523471
+1010,10968,Dortmund Höfkerstraße,51.517757,7.42321
+1011,397860,Dortmund Höfkerstraße,51.518215,7.423606
+1012,110728,Dortmund Höhenweg,51.447285,7.499576
+1013,96056,Dortmund Höhenweg,51.447067,7.499073
+1014,112105,Dortmund Hörde Bf,51.48851,7.500474
+1015,12735,Dortmund Hörde Bf,51.488144,7.50149
+1016,211139,Dortmund Hörde Bf,51.48835,7.499792
+1017,307156,Dortmund Hörde Bf,51.48809,7.501561
+1018,329527,Dortmund Hörde Bf,51.488167,7.501157
+1019,65081,Dortmund Hörde Bf,51.488277,7.500007
+1020,98676,Dortmund Hörde Bf,51.488518,7.498283
+1021,99067,Dortmund Hörde Bf,51.488552,7.500681
+1022,434514,Dortmund Hörde Friedhof,51.485,7.506736
+1023,62230,Dortmund Hörde Friedhof,51.484455,7.506736
+1024,177027,Dortmund Hördemannshof,51.5582,7.391221
+1025,243115,Dortmund Hördemannshof,51.55821,7.391626
+1026,418652,Dortmund Hörder Burg,51.490597,7.502864
+1027,453340,Dortmund Hörder Burg,51.49063,7.503053
+1028,27692,Dortmund Hörder Hafenstraße,51.493317,7.501732
+1029,394968,Dortmund Hörder Hafenstraße,51.493473,7.501517
+1030,370567,Dortmund Hörder Kampweg,51.477554,7.507993
+1031,440257,Dortmund Hörder Kampweg,51.47762,7.50802
+1032,25629,Dortmund Hörder Neumarkt,51.485474,7.495498
+1033,71148,Dortmund Hörder Neumarkt,51.485817,7.495489
+1034,421018,Dortmund Hülsenbuschstraße,51.450535,7.462673
+1035,18515,Dortmund IKEA,51.49117,7.372734
+1036,197668,Dortmund IKEA,51.4913,7.37224
+1037,238932,Dortmund IKEA Logistikzentrum,51.56216,7.418764
+1038,204680,Dortmund Iltisweg,51.476864,7.538743
+1039,249091,Dortmund Iltisweg,51.47637,7.539776
+1040,15169,Dortmund Im Apen,51.568077,7.388607
+1041,157911,Dortmund Im Apen,51.568077,7.388607
+1042,257339,Dortmund Im Apen,51.568542,7.388949
+1043,264122,Dortmund Im Apen,51.56848,7.388742
+1044,318490,Dortmund Im Apen,51.568146,7.388607
+1045,390638,Dortmund Im Apen,51.568146,7.388607
+1046,325499,Dortmund Im Defdahl,51.505665,7.51306
+1047,350095,Dortmund Im Defdahl,51.505848,7.511739
+1048,14814,Dortmund Im Hilger,51.504128,7.583748
+1049,40417,Dortmund Im Hilger,51.504066,7.583685
+1050,156387,Dortmund Im Karrenberg,51.557114,7.511937
+1051,225062,Dortmund Im Karrenberg,51.557243,7.512099
+1052,292974,Dortmund Im Papenkamp,51.46736,7.517507
+1053,415540,Dortmund Im Papenkamp,51.467342,7.517596
+1054,205723,Dortmund Im Schellenkai,51.5701,7.521765
+1055,259151,Dortmund Im Schellenkai,51.56975,7.521836
+1056,156860,Dortmund Im Siesack,51.58536,7.400824
+1057,407536,Dortmund Im Siesack,51.58511,7.40051
+1058,362917,Dortmund Im Spähenfelde,51.520916,7.488572
+1059,382655,Dortmund Im Spähenfelde,51.522144,7.488239
+1060,278479,Dortmund Im Weißen Feld,51.491486,7.390745
+1061,73419,Dortmund Im Weißen Feld,51.49148,7.39062
+1062,381148,Dortmund Imigstraße,51.57988,7.454454
+1063,266343,Dortmund Immermannstr./Klinikz. Nord,51.533215,7.456026
+1064,307286,Dortmund Immermannstr./Klinikz. Nord,51.532932,7.455092
+1065,331698,Dortmund Immermannstr./Klinikz. Nord,51.532574,7.456071
+1066,338435,Dortmund Immermannstr./Klinikz. Nord,51.532627,7.456214
+1067,34898,Dortmund Immermannstr./Klinikz. Nord,51.53238,7.456457
+1068,88580,Dortmund Immermannstr./Klinikz. Nord,51.532867,7.455271
+1069,2182,Dortmund In den Böcken,51.44022,7.426175
+1070,10488,Dortmund In den Börten,51.524387,7.557365
+1071,268808,Dortmund In den Börten,51.524406,7.557383
+1072,258615,Dortmund In den Stämmen,51.463154,7.487961
+1073,33016,Dortmund In den Stämmen,51.463177,7.488141
+1074,393951,Dortmund In den Weidbüschen,51.57188,7.473336
+1075,58677,Dortmund In den Weidbüschen,51.571903,7.4733
+1076,324677,Dortmund In der Liethe,51.56427,7.536695
+1077,383458,Dortmund In der Liethe,51.564354,7.53665
+1078,323086,Dortmund In der Meile,51.5082,7.381807
+1079,120997,Dortmund In der Mulde,51.53931,7.401031
+1080,60340,Dortmund In der Mulde,51.53927,7.400977
+1081,133133,Dortmund In der Oeverscheidt,51.49422,7.400007
+1082,48006,Dortmund In der Oeverscheidt,51.494255,7.399926
+1083,197379,Dortmund Innsbruckstraße,51.54992,7.490503
+1084,6552,Dortmund Inselstraße,51.518993,7.488051
+1085,123301,Dortmund Insterburger Straße,51.52589,7.423758
+1086,180664,Dortmund Insterburger Straße,51.525375,7.423049
+1087,211582,Dortmund Insterburger Straße,51.525356,7.42339
+1088,431890,Dortmund Insterburger Straße,51.525894,7.423812
+1089,230415,Dortmund Irminsulstraße,51.441074,7.486982
+1090,63450,Dortmund Irminsulstraße,51.441097,7.487134
+1091,50919,Dortmund Jakobstraße,51.540714,7.453421
+1092,89101,Dortmund Jakobstraße,51.539738,7.453933
+1093,84399,Dortmund Jasminstraße,51.49503,7.588833
+1094,270465,Dortmund Johanna-Spyri-Weg,51.573723,7.458712
+1095,110404,Dortmund Juchostraße,51.51961,7.513931
+1096,253799,Dortmund Juchostraße,51.5196,7.513922
+1097,259707,Dortmund Juchostraße,51.51935,7.513563
+1098,323893,Dortmund Juchostraße,51.51936,7.51359
+1099,17264,Dortmund Jungferntal,51.531025,7.379238
+1100,259936,Dortmund Kafkastraße,51.550934,7.547627
+1101,362401,Dortmund Kafkastraße,51.550713,7.547582
+1102,38307,Dortmund Kaiserberg,51.4844,7.523193
+1103,436421,Dortmund Kaiserberg,51.484394,7.523579
+1104,327325,Dortmund Kalmeichweg,51.568157,7.366886
+1105,452957,Dortmund Kaltbandstraße,51.532383,7.50149
+1106,112374,Dortmund Kampstraße,51.51507,7.461928
+1107,150472,Dortmund Kampstraße,51.51523,7.461901
+1108,289882,Dortmund Kampstraße,51.515198,7.462098
+1109,411076,Dortmund Kampstraße,51.51519,7.462197
+1110,226682,Dortmund Karl-Funke-Straße,51.50399,7.414955
+1111,74988,Dortmund Karl-Funke-Straße,51.50365,7.415144
+1112,129053,Dortmund Karl-Liebknecht-Str.,51.498768,7.490692
+1113,388600,Dortmund Karl-Liebknecht-Str.,51.498684,7.490611
+1114,32831,Dortmund Karl-Schurz-Straße,51.5577,7.385957
+1115,96586,Dortmund Karl-Schurz-Straße,51.557613,7.38549
+1116,390675,Dortmund Kasseler Straße,51.520462,7.501229
+1117,429280,Dortmund Kasseler Straße,51.520897,7.50219
+1118,186097,Dortmund Kattowitzstraße,51.495716,7.510176
+1119,232498,Dortmund Kattowitzstraße,51.495792,7.510024
+1120,427023,Dortmund Kaubomstraße,51.500423,7.328348
+1121,440117,Dortmund Kaubomstraße,51.500156,7.32992
+1122,72569,Dortmund Kaubomstraße,51.50035,7.329687
+1123,131118,Dortmund Kautskystraße,51.556896,7.538401
+1124,417394,Dortmund Kautskystraße,51.556957,7.538545
+1125,188110,Dortmund Kesselborn,51.500805,7.360517
+1126,311455,Dortmund Kesselborn,51.500767,7.360463
+1127,220566,Dortmund Kesselstraße,51.519234,7.444563
+1128,391292,Dortmund Kesselstraße,51.519066,7.444563
+1129,26031,Dortmund Kieferstraße,51.473,7.43311
+1130,9963,Dortmund Kieferstraße,51.472797,7.432975
+1131,331009,Dortmund Kipsburg,51.49775,7.502325
+1132,176564,Dortmund Kirchderne,51.55457,7.512853
+1133,217275,Dortmund Kirchderne,51.554714,7.512781
+1134,289856,Dortmund Kirchderne,51.554695,7.512521
+1135,383858,Dortmund Kirchderne,51.55481,7.51182
+1136,160627,Dortmund Kirchderne Bf,51.547073,7.511227
+1137,296149,Dortmund Kirchderne Bf,51.547585,7.511353
+1138,434355,Dortmund Kirchderne Bf,51.54515,7.511856
+1139,56292,Dortmund Kirchderne Bf,51.545113,7.511883
+1140,19434,Dortmund Kirchderne Friedhof,51.558178,7.504032
+1141,62676,Dortmund Kirchderne Friedhof,51.55829,7.503655
+1142,129030,Dortmund Kirchderne Kirche,51.556534,7.508245
+1143,398535,Dortmund Kirchderne Kirche,51.556374,7.506826
+1144,131828,Dortmund Kirchenstraße,51.52039,7.453313
+1145,300789,Dortmund Kirchenstraße,51.519737,7.453403
+1146,209171,Dortmund Kirchhörde,51.454395,7.456852
+1147,444146,Dortmund Kirchhörde,51.453693,7.456879
+1148,293435,Dortmund Kirchhörde Bf,51.463295,7.457634
+1149,390250,Dortmund Kirchhörde Bf,51.4633,7.457715
+1150,117896,Dortmund Kirchhörder Straße,51.44888,7.457733
+1151,209330,Dortmund Kirchhörder Straße,51.44938,7.45767
+1152,17618,Dortmund Kirchlinde Krankenhaus,51.524796,7.369069
+1153,179658,Dortmund Kirchlinde Krankenhaus,51.524906,7.367299
+1154,147002,Dortmund Kirchlinde Zentrum,51.52192,7.369258
+1155,277434,Dortmund Kirchlinde Zentrum,51.521877,7.3703
+1156,424298,Dortmund Kirchlinde Zentrum,51.521866,7.370389
+1157,144360,Dortmund Kleiberweg,51.48114,7.526229
+1158,426108,Dortmund Kleiberweg,51.48149,7.525654
+1159,371950,Dortmund Klein-Barop,51.49124,7.429211
+1160,38483,Dortmund Klein-Barop,51.49129,7.429148
+1161,310986,Dortmund Kleiner Floraweg,51.459618,7.477639
+1162,367721,Dortmund Kleiner Floraweg,51.45997,7.477981
+1163,139655,Dortmund Klever Straße,51.498653,7.486074
+1164,152163,Dortmund Klever Straße,51.49882,7.485985
+1165,262067,Dortmund Kley,51.489174,7.364757
+1166,346113,Dortmund Kley,51.489506,7.364685
+1167,225119,Dortmund Kleybredde,51.48798,7.373318
+1168,426719,Dortmund Kleybredde,51.48794,7.373677
+1169,72216,Dortmund Kleyer Feld,51.487473,7.362502
+1170,143018,Dortmund Kleyer Weg,51.4948,7.366688
+1171,273368,Dortmund Kleyer Weg,51.494953,7.366886
+1172,405097,Dortmund Klönnestraße,51.51764,7.4877
+1173,64674,Dortmund Klönnestraße,51.516895,7.487709
+1174,114104,Dortmund Knappschaftskrankenhaus,51.522568,7.534512
+1175,37829,Dortmund Knappschaftskrankenhaus,51.522648,7.534251
+1176,457885,Dortmund Knappschaftskrankenhaus,51.522575,7.534566
+1177,6871,Dortmund Knappschaftskrankenhaus,51.522495,7.53461
+1178,180472,Dortmund Kohlensiepenstraße,51.493782,7.519779
+1179,191157,Dortmund Kohlensiepenstraße,51.49377,7.51986
+1180,120777,Dortmund Kolberger Straße,51.550514,7.447438
+1181,295101,Dortmund Kolberger Straße,51.55019,7.447645
+1182,155419,Dortmund Konradstraße,51.517353,7.363338
+1183,419065,Dortmund Konradstraße,51.518314,7.364784
+1184,46857,Dortmund Koppweg,51.442818,7.467542
+1185,145430,Dortmund Kortental,51.505974,7.414164
+1186,71512,Dortmund Kortental,51.506508,7.413913
+1187,120373,Dortmund Kortschstraße,51.53777,7.610824
+1188,309584,Dortmund Kortschstraße,51.53792,7.610788
+1189,374465,Dortmund Kreisstraße,51.444042,7.529589
+1190,43611,Dortmund Kreisstraße,51.444,7.529481
+1191,117996,Dortmund Kreuzstraße,51.50241,7.450546
+1192,203124,Dortmund Kreuzstraße,51.502235,7.449765
+1193,210698,Dortmund Kreuzstraße,51.5024,7.449531
+1194,418179,Dortmund Kreuzstraße,51.502205,7.452001
+1195,448487,Dortmund Kreuzstraße,51.50264,7.451867
+1196,450707,Dortmund Kreuzstraße,51.502224,7.449998
+1197,201552,Dortmund Kreuzweg,51.538082,7.540602
+1198,96001,Dortmund Kreuzweg,51.537983,7.540593
+1199,175265,Dortmund Krinkelweg,51.452225,7.52251
+1200,336463,Dortmund Krinkelweg,51.452297,7.522384
+1201,113628,Dortmund Kronenburg,51.50407,7.477343
+1202,240670,Dortmund Kronenburg,51.5039,7.475088
+1203,425618,Dortmund Kronenburg,51.504658,7.47578
+1204,55683,Dortmund Kronenburg,51.5039,7.47498
+1205,142981,Dortmund Kruckel,51.45769,7.414964
+1206,131378,Dortmund Kruckel Kraftwerk,51.455006,7.415341
+1207,14554,Dortmund Kruckel Kraftwerk,51.45491,7.414775
+1208,153903,Dortmund Kruckeler Straße,51.460144,7.409188
+1209,291146,Dortmund Kruckeler Straße,51.460335,7.409403
+1210,397418,Dortmund Kruckeler Straße,51.46031,7.410427
+1211,340909,Dortmund Krämerbank,51.4716,7.424037
+1212,345587,Dortmund Krämerbank,51.471584,7.424073
+1213,208077,Dortmund Kräutergarten,51.55108,7.36526
+1214,303451,Dortmund Kräutergarten,51.55112,7.365287
+1215,242818,Dortmund Krümmde,51.554928,7.449774
+1216,410179,Dortmund Krümmde,51.554802,7.448947
+1217,150903,Dortmund Kuithanstraße,51.500706,7.440808
+1218,65292,Dortmund Kuithanstraße,51.500694,7.440745
+1219,17261,Dortmund Kullenberg,51.49859,7.372518
+1220,91939,Dortmund Kullenberg,51.49862,7.372581
+1221,403558,Dortmund Kurfürstenstraße,51.52191,7.457391
+1222,453644,Dortmund Kurfürstenstraße,51.52193,7.457598
+1223,105972,Dortmund Kurl Bf,51.558105,7.583685
+1224,59336,Dortmund Kurl Bf,51.558144,7.584188
+1225,125046,Dortmund Kurl Friedhof,51.55993,7.580128
+1226,346568,Dortmund Kurl Friedhof,51.559303,7.580047
+1227,414905,Dortmund Kurl Friedhof,51.559254,7.579823
+1228,90217,Dortmund Kurl Friedhof,51.55978,7.580119
+1229,105235,Dortmund Kurl Krankenhaus,51.55403,7.583461
+1230,346930,Dortmund Kurl Krankenhaus,51.553642,7.583479
+1231,125086,Dortmund Kurze Hecke,51.496548,7.505191
+1232,370157,Dortmund Kurze Hecke,51.49663,7.504966
+1233,345790,Dortmund Kurze Reihe,51.511417,7.506035
+1234,64299,Dortmund Kurze Reihe,51.511417,7.506134
+1235,306870,Dortmund Kärntenstraße,51.550697,7.48417
+1236,420724,Dortmund Kärntenstraße,51.550632,7.483954
+1237,229518,Dortmund Köln-Berliner Straße,51.498547,7.56986
+1238,235125,Dortmund Köln-Berliner Straße,51.498226,7.569187
+1239,195288,Dortmund Königsbergstraße,51.518715,7.43806
+1240,341861,Dortmund Königsbergstraße,51.51891,7.437637
+1241,305281,Dortmund Körne West,51.510136,7.501211
+1242,40441,Dortmund Körne West,51.50976,7.501148
+1243,201517,Dortmund Körnerstraße,51.552998,7.456619
+1244,410049,Dortmund Körnerstraße,51.552887,7.456592
+1245,257028,Dortmund Körtingsweg,51.569363,7.51942
+1246,270526,Dortmund Körtingsweg,51.569374,7.519141
+1247,392636,Dortmund Kühlingstraße,51.527733,7.540674
+1248,418226,Dortmund Kühlingstraße,51.52766,7.540656
+1249,11129,Dortmund Küsterkamp,51.533188,7.580173
+1250,90811,Dortmund Küsterkamp,51.533283,7.580173
+1251,291514,Dortmund Labandstraße,51.54624,7.529292
+1252,394091,Dortmund Labandstraße,51.54685,7.529077
+1253,35,Dortmund Lambergstraße,51.474022,7.592058
+1254,435215,Dortmund Lambergstraße,51.47421,7.591716
+1255,339012,Dortmund Langeloh,51.45795,7.442246
+1256,426154,Dortmund Langeloh,51.458076,7.442057
+1257,253748,Dortmund Langenacker,51.55993,7.360185
+1258,41190,Dortmund Langenacker,51.55988,7.360427
+1259,293142,Dortmund Langerohstraße,51.547546,7.584638
+1260,81013,Dortmund Langerohstraße,51.54865,7.584162
+1261,168647,Dortmund Langschedestraße,51.526833,7.607913
+1262,322544,Dortmund Langschedestraße,51.52658,7.607985
+1263,105881,Dortmund Lanstrop Friedhof,51.573845,7.560976
+1264,189215,Dortmund Lanstrop Friedhof,51.573895,7.561003
+1265,205210,Dortmund Lautastraße,51.552734,7.537413
+1266,90668,Dortmund Lautastraße,51.55261,7.536668
+1267,320122,Dortmund Lavendelweg,51.475964,7.602541
+1268,430674,Dortmund Lavendelweg,51.47631,7.603107
+1269,227320,Dortmund Lehnemannsweg,51.524063,7.578942
+1270,52493,Dortmund Lehnemannsweg,51.52419,7.57914
+1271,200821,Dortmund Leibniz-Gymnasium,51.500923,7.443548
+1272,376453,Dortmund Leibniz-Gymnasium,51.500748,7.442596
+1273,132,Dortmund Leineweg,51.48192,7.557634
+1274,80425,Dortmund Leineweg,51.48191,7.557742
+1275,102790,Dortmund Leni-Rommel-Straße,51.506363,7.557661
+1276,429281,Dortmund Leni-Rommel-Straße,51.505966,7.557769
+1277,386666,Dortmund Lenteninsel,51.51817,7.489048
+1278,89731,Dortmund Lenteninsel,51.518143,7.489093
+1279,161765,Dortmund Leopoldstraße,51.522266,7.459925
+1280,308087,Dortmund Leopoldstraße,51.52234,7.462018
+1281,337936,Dortmund Leopoldstraße,51.52208,7.459934
+1282,358675,Dortmund Leopoldstraße,51.522217,7.459574
+1283,396840,Dortmund Leopoldstraße,51.52216,7.459817
+1284,195297,Dortmund Leveringstraße,51.562237,7.536479
+1285,304029,Dortmund Leveringstraße,51.562077,7.536488
+1286,162600,Dortmund Lichtendorf,51.472946,7.5999
+1287,231621,Dortmund Lichtendorf,51.473087,7.600196
+1288,436196,Dortmund Lichtendorf,51.4733,7.600161
+1289,129463,Dortmund Lichtendorf Schule,51.471,7.595507
+1290,189523,Dortmund Lichtendorf Schule,51.47069,7.596073
+1291,22649,Dortmund Limbecker Postweg,51.449604,7.506305
+1292,24139,Dortmund Limbecker Postweg,51.44916,7.50528
+1293,317914,Dortmund Limburger Postweg,51.470284,7.494411
+1294,455618,Dortmund Limburger Postweg,51.470093,7.493548
+1295,10002,Dortmund Lindenhorst,51.55411,7.447177
+1296,149638,Dortmund Lindenhorst,51.55392,7.447142
+1297,164202,Dortmund Lindenhorst Friedhof,51.55657,7.444429
+1298,41375,Dortmund Lindenhorst Friedhof,51.556187,7.444456
+1299,199321,Dortmund Lindenhorst Kirche,51.556232,7.44521
+1300,173489,Dortmund Lindenhorster Heide,51.558483,7.443647
+1301,456028,Dortmund Lindenhorster Heide,51.558964,7.443351
+1302,397989,Dortmund Lindentalweg,51.495224,7.345596
+1303,98089,Dortmund Lindentalweg,51.49553,7.345282
+1304,314811,Dortmund Lippestraße,51.513927,7.482607
+1305,377912,Dortmund Lippestraße,51.51409,7.482679
+1306,447159,Dortmund Lippestraße,51.514,7.482742
+1307,77325,Dortmund Lippestraße,51.513966,7.482796
+1308,272483,Dortmund Lohheide,51.55571,7.59778
+1309,364563,Dortmund Lohheide,51.55569,7.597735
+1310,104317,Dortmund Londoner Bogen,51.500023,7.523795
+1311,426497,Dortmund Londoner Bogen,51.499943,7.52375
+1312,128339,Dortmund Lortzingstraße,51.52903,7.460481
+1313,267964,Dortmund Lortzingstraße,51.529133,7.460383
+1314,319198,Dortmund Luftschiffweg,51.535603,7.556278
+1315,405863,Dortmund Luftschiffweg,51.53554,7.556431
+1316,210045,Dortmund Luise-Rinser-Weg,51.575363,7.454085
+1317,252925,Dortmund Luisenschachtstraße,51.480305,7.439012
+1318,258652,Dortmund Luisenschachtstraße,51.480362,7.439057
+1319,377788,Dortmund Löttringhausen,51.455063,7.443863
+1320,23804,Dortmund Löttringhauser Straße,51.47234,7.442758
+1321,86648,Dortmund Löttringhauser Straße,51.472473,7.442803
+1322,101280,Dortmund Lübbringweg,51.55831,7.549801
+1323,431157,Dortmund Lübbringweg,51.558304,7.549639
+1324,124522,Dortmund Lübckerhofstraße,51.494755,7.560473
+1325,170997,Dortmund Lübckerhofstraße,51.494778,7.56068
+1326,343482,Dortmund Lübkestraße,51.50378,7.506826
+1327,459020,Dortmund Lübkestraße,51.503807,7.506781
+1328,144758,Dortmund Lückersweg,51.533333,7.397078
+1329,6812,Dortmund Lührmannstraße,51.458935,7.522133
+1330,75777,Dortmund Lührmannstraße,51.459057,7.522205
+1331,333789,Dortmund Lüneburger Straße,51.518818,7.48938
+1332,437548,Dortmund Lütge Heidestraße,51.543865,7.451283
+1333,906,Dortmund Lütge Heidestraße,51.54433,7.450986
+1334,439001,Dortmund Lütge Vöhde,51.516544,7.347276
+1335,442322,Dortmund Lütge Vöhde,51.51655,7.347554
+1336,1578,Dortmund Lütgendortm. Hellweg,51.497112,7.342901
+1337,210075,Dortmund Lütgendortm. Hellweg,51.49719,7.342838
+1338,145689,Dortmund Lütgendortmund,51.498947,7.334825
+1339,325288,Dortmund Lütgendortmund,51.499207,7.335256
+1340,392065,Dortmund Lütgendortmund,51.498924,7.334906
+1341,52353,Dortmund Lütgendortmund,51.499165,7.334762
+1342,232990,Dortmund MST.factory,51.48588,7.48179
+1343,53361,Dortmund MST.factory,51.485916,7.481816
+1344,116842,Dortmund Maienweg,51.56973,7.464686
+1345,145136,Dortmund Maienweg,51.570114,7.464677
+1346,430750,Dortmund Maienweg,51.57035,7.464686
+1347,5960,Dortmund Maienweg,51.56953,7.46615
+1348,83120,Dortmund Maienweg,51.57056,7.464713
+1349,234439,Dortmund Mamertusstraße,51.53165,7.401309
+1350,258721,Dortmund Mansfeldstraße,51.551407,7.531071
+1351,8023,Dortmund Mansfeldstraße,51.551865,7.531403
+1352,114467,Dortmund Markgrafenstraße,51.502735,7.473112
+1353,21009,Dortmund Markgrafenstraße,51.502415,7.473157
+1354,262011,Dortmund Markgrafenstraße,51.502052,7.473004
+1355,358521,Dortmund Markgrafenstraße,51.502068,7.472959
+1356,73965,Dortmund Markgrafenstraße,51.502686,7.472959
+1357,326308,Dortmund Marksweg,51.578724,7.416374
+1358,226768,Dortmund Marschallstraße,51.567505,7.382984
+1359,258611,Dortmund Marschallstraße,51.567417,7.382966
+1360,40982,Dortmund Marten Abzweig,51.510048,7.380271
+1361,135847,Dortmund Marten Bezirksfriedh.,51.502693,7.392704
+1362,241847,Dortmund Marten Bf,51.514908,7.374099
+1363,428630,Dortmund Marten Bf,51.514706,7.373776
+1364,153837,Dortmund Marten Süd,51.50864,7.388248
+1365,169264,Dortmund Marten Süd,51.508907,7.389784
+1366,20680,Dortmund Marten Süd,51.50863,7.388787
+1367,211975,Dortmund Marten Süd,51.508945,7.39
+1368,4813,Dortmund Marten Süd,51.508923,7.38947
+1369,326603,Dortmund Martener Hellweg,51.50251,7.395336
+1370,430740,Dortmund Martener Hellweg,51.502724,7.395156
+1371,296877,Dortmund Martin-Schmeißer-Weg,51.489426,7.403834
+1372,54248,Dortmund Martin-Schmeißer-Weg,51.489395,7.404085
+1373,420739,Dortmund Martinstraße,51.512474,7.457715
+1374,365863,Dortmund Massener Weg,51.51029,7.509494
+1375,112732,Dortmund Max-Eyth-Straße,51.503853,7.514174
+1376,439635,Dortmund Max-Eyth-Straße,51.50382,7.514192
+1377,120991,Dortmund Max-Planck-Gymnasium,51.490494,7.459215
+1378,407852,Dortmund Max-Planck-Gymnasium,51.490437,7.459044
+1379,230240,Dortmund Meitnerweg,51.48985,7.409035
+1380,305760,Dortmund Meitnerweg,51.489864,7.408963
+1381,267458,Dortmund Meitnerweg Wohnanlage,51.48901,7.410607
+1382,146387,Dortmund Mengede Alte Post,51.57221,7.378501
+1383,356249,Dortmund Mengede Alte Post,51.57221,7.378268
+1384,29589,Dortmund Mengede Amtshaus,51.571316,7.379444
+1385,353257,Dortmund Mengede Amtshaus,51.571194,7.379498
+1386,151497,Dortmund Mengede Bf,51.570156,7.377091
+1387,318676,Dortmund Mengede Bf,51.570446,7.375761
+1388,343020,Dortmund Mengede Bf,51.570362,7.376121
+1389,348742,Dortmund Mengede Bf,51.570362,7.376121
+1390,82475,Dortmund Mengede Bf,51.57028,7.376543
+1391,134062,Dortmund Mengede Markt,51.570606,7.382921
+1392,165838,Dortmund Mengede Markt,51.570408,7.383217
+1393,203362,Dortmund Mengede Markt,51.570606,7.382921
+1394,249290,Dortmund Mengede Markt,51.57064,7.383047
+1395,263129,Dortmund Mengede Markt,51.570473,7.383146
+1396,291914,Dortmund Mengede Markt,51.57064,7.383047
+1397,319261,Dortmund Mengede Markt,51.570473,7.383146
+1398,62132,Dortmund Mengede Markt,51.570408,7.383217
+1399,149306,Dortmund Mengeder Heide,51.586468,7.385993
+1400,335313,Dortmund Mengeder Heide,51.58642,7.386092
+1401,412533,Dortmund Mengeder Heide,51.58642,7.386092
+1402,5562,Dortmund Mengeder Heide,51.586468,7.385993
+1403,110501,Dortmund Mengeder Schulstraße,51.57134,7.388383
+1404,409144,Dortmund Mengeder Schulstraße,51.571228,7.38858
+1405,18491,Dortmund Menglinghausen,51.47106,7.427208
+1406,237829,Dortmund Menglinghausen,51.471455,7.427172
+1407,164483,Dortmund Menglinghausen Süd,51.472965,7.417003
+1408,249383,Dortmund Menglinghausen Süd,51.47276,7.415979
+1409,213335,Dortmund Mergelkopfweg,51.503807,7.351318
+1410,400975,Dortmund Mergelkopfweg,51.50389,7.351704
+1411,420006,Dortmund Mergelkuhle,51.55409,7.383864
+1412,444976,Dortmund Mergelkuhle,51.554146,7.383864
+1413,343120,Dortmund Mergelteichstraße,51.475483,7.460329
+1414,150859,Dortmund Mergelteichstraße/Zoo,51.475243,7.458882
+1415,300512,Dortmund Mergelteichstraße/Zoo,51.476406,7.458891
+1416,101481,Dortmund Metzer Straße,51.50342,7.441392
+1417,331234,Dortmund Metzer Straße,51.503613,7.441374
+1418,269804,Dortmund Meylantstraße,51.538776,7.615827
+1419,353715,Dortmund Meylantstraße,51.53873,7.615881
+1420,306857,Dortmund Mittelhöchsten,51.4546,7.516267
+1421,348684,Dortmund Mittelhöchsten,51.4546,7.516662
+1422,38408,Dortmund Mittelhöchsten,51.45456,7.516438
+1423,292839,Dortmund Mollenacker,51.573906,7.521621
+1424,298254,Dortmund Mollenacker,51.573734,7.521738
+1425,185432,Dortmund Molnerweg,51.537754,7.612557
+1426,309429,Dortmund Molnerweg,51.537598,7.611955
+1427,193140,Dortmund Moltkestraße,51.51083,7.47887
+1428,401226,Dortmund Moltkestraße,51.511692,7.47887
+1429,296333,Dortmund Mooskamp,51.549454,7.402064
+1430,127995,Dortmund Mosselde,51.544968,7.373192
+1431,260471,Dortmund Mosselde,51.544937,7.372761
+1432,423729,Dortmund Muddepenningweg,51.44818,7.469429
+1433,114942,Dortmund Märchenweg,51.555676,7.483757
+1434,171120,Dortmund Märchenweg,51.555878,7.483604
+1435,174748,Dortmund Märkische Straße,51.50071,7.482688
+1436,250921,Dortmund Märkische Straße,51.5006,7.482805
+1437,350863,Dortmund Märkische Straße,51.501865,7.480756
+1438,364378,Dortmund Märkische Straße,51.501587,7.481412
+1439,61340,Dortmund Märkische Straße,51.500515,7.482742
+1440,141639,Dortmund Mödershof,51.544132,7.517902
+1441,170479,Dortmund Mödershof,51.54432,7.517264
+1442,269629,Dortmund Möhneweg,51.471855,7.556628
+1443,444684,Dortmund Möhneweg,51.47151,7.55626
+1444,142308,Dortmund Möllerbrücke,51.507156,7.451633
+1445,203574,Dortmund Möllerbrücke,51.50724,7.451409
+1446,325389,Dortmund Möllerbrücke,51.507168,7.450986
+1447,396796,Dortmund Möllerbrücke,51.507244,7.450825
+1448,269880,Dortmund Mühlensiefen,51.514194,7.376543
+1449,339531,Dortmund Mühlensiefen,51.514286,7.37657
+1450,275629,Dortmund Münsterstraße,51.525967,7.460203
+1451,308338,Dortmund Münsterstraße,51.526505,7.460239
+1452,405806,Dortmund Münsterstraße,51.52604,7.460275
+1453,448235,Dortmund Münsterstraße,51.526974,7.460032
+1454,216402,Dortmund Nathe,51.47019,7.554068
+1455,82395,Dortmund Nathe,51.470196,7.552173
+1456,98682,Dortmund Nathe,51.469936,7.552397
+1457,294987,Dortmund Nathmerichstraße,51.49939,7.587449
+1458,372046,Dortmund Nathmerichstraße,51.4994,7.587512
+1459,107315,Dortmund Nebenbruch,51.563118,7.369392
+1460,266356,Dortmund Nebenbruch,51.563343,7.36924
+1461,413878,Dortmund Nebenbruch,51.563118,7.369392
+1462,60626,Dortmund Nebenbruch,51.563343,7.36924
+1463,115953,Dortmund Nelkenstraße,51.479694,7.608138
+1464,128193,Dortmund Nette/Oestrich,51.562347,7.37869
+1465,291572,Dortmund Nette/Oestrich,51.562416,7.37913
+1466,30397,Dortmund Nette/Oestrich,51.562416,7.37913
+1467,328114,Dortmund Nette/Oestrich,51.562347,7.37869
+1468,142681,Dortmund Neu-Crengeldanz-Str.,51.498768,7.349216
+1469,455769,Dortmund Neu-Crengeldanz-Str.,51.49867,7.349854
+1470,188506,Dortmund Neuer Graben,51.50508,7.440862
+1471,259785,Dortmund Neuer Graben,51.50514,7.440799
+1472,253744,Dortmund Niederhofer Kohlenweg,51.465736,7.520462
+1473,78430,Dortmund Niederhofer Kohlenweg,51.465786,7.520462
+1474,127469,Dortmund Niedernetter Straße,51.555584,7.410859
+1475,18126,Dortmund Niederste Feldweg,51.52452,7.519249
+1476,413094,Dortmund Niederste Feldweg,51.524437,7.519231
+1477,265315,Dortmund Nordfriedhof,51.544308,7.473848
+1478,387801,Dortmund Nordfriedhof,51.544624,7.473624
+1479,100003,Dortmund Nordmarkt,51.52522,7.466312
+1480,332152,Dortmund Nordmarkt,51.524956,7.465593
+1481,265214,Dortmund Nortkirchenstr./Wilo,51.48372,7.478088
+1482,301324,Dortmund Nortkirchenstr./Wilo,51.483707,7.478232
+1483,139091,Dortmund Notweg,51.46454,7.451606
+1484,223183,Dortmund Oberbank,51.50088,7.417776
+1485,267791,Dortmund Oberbank,51.501312,7.418126
+1486,166574,Dortmund Oberbeckerstraße,51.572678,7.513231
+1487,216596,Dortmund Oberbeckerstraße,51.572594,7.514255
+1488,203613,Dortmund Oberdorfstraße,51.522865,7.541869
+1489,26642,Dortmund Oberdorfstraße,51.52303,7.542453
+1490,285568,Dortmund Oberdorfstraße,51.522896,7.541905
+1491,454619,Dortmund Oberdorfstraße,51.52304,7.542426
+1492,284313,Dortmund Oberfeldstraße,51.53359,7.411946
+1493,388068,Dortmund Oberfeldstraße,51.533596,7.411874
+1494,256516,Dortmund Obermarkstraße,51.469524,7.538105
+1495,50636,Dortmund Obernette,51.549034,7.396881
+1496,6962,Dortmund Obernette,51.54905,7.39733
+1497,78887,Dortmund Obernette,51.54892,7.397824
+1498,107445,Dortmund Oespel,51.48852,7.384448
+1499,323217,Dortmund Oespel,51.48854,7.384619
+1500,363610,Dortmund Oespel,51.48854,7.384619
+1501,63088,Dortmund Oespel,51.48852,7.384448
+1502,171633,Dortmund Oespel Indupark,51.493446,7.377118
+1503,242152,Dortmund Oespel Indupark,51.493572,7.377037
+1504,264107,Dortmund Oespeler Kirchweg,51.497208,7.365709
+1505,416684,Dortmund Oespeler Kirchweg,51.49727,7.36588
+1506,122484,Dortmund Oetringhauser Straße,51.581974,7.4567
+1507,14104,Dortmund Oetringhauser Straße,51.582966,7.455154
+1508,161073,Dortmund Oetringhauser Straße,51.582657,7.456484
+1509,451330,Dortmund Oetringhauser Straße,51.582783,7.455792
+1510,56575,Dortmund Oetringhauser Straße,51.58271,7.455918
+1511,148415,Dortmund Ofenstraße,51.512592,7.438095
+1512,232718,Dortmund Ofenstraße,51.512474,7.43761
+1513,450369,Dortmund Ofenstraße,51.51256,7.438078
+1514,86841,Dortmund Ofenstraße,51.51246,7.437565
+1515,330795,Dortmund Olgastraße,51.507477,7.473678
+1516,63628,Dortmund Olgastraße,51.507515,7.473723
+1517,115121,Dortmund Olpkebach,51.460613,7.470614
+1518,171018,Dortmund Olpkebach,51.459927,7.471495
+1519,175602,Dortmund Ortli,51.427013,7.497079
+1520,400368,Dortmund Ortli,51.42698,7.49707
+1521,234762,Dortmund Ortsmühle,51.492077,7.429957
+1522,257296,Dortmund Ortsmühle,51.492336,7.42993
+1523,265851,Dortmund Osningstraße,51.516533,7.424028
+1524,79443,Dortmund Osningstraße,51.516426,7.424001
+1525,18438,Dortmund Ostentor,51.51472,7.47516
+1526,329396,Dortmund Ostentor,51.51484,7.475151
+1527,110725,Dortmund Osterfeldstraße,51.551655,7.474747
+1528,139961,Dortmund Osterfeldstraße,51.551937,7.474711
+1529,137828,Dortmund Osthoffweg,51.45186,7.464192
+1530,444862,Dortmund Otto-Hahn-Straße,51.489433,7.40069
+1531,455744,Dortmund Otto-Hahn-Straße,51.489937,7.401687
+1532,61,Dortmund Otto-Hahn-Straße,51.489937,7.401741
+1533,121368,Dortmund Ottostraße,51.511997,7.433523
+1534,214702,Dortmund Ottostraße,51.511997,7.433541
+1535,373133,Dortmund Ottostraße,51.511936,7.433272
+1536,67172,Dortmund Ottostraße,51.511932,7.433227
+1537,174804,Dortmund Overgünne,51.474846,7.50908
+1538,254076,Dortmund Overgünne,51.475746,7.509628
+1539,271837,Dortmund Overgünne,51.47487,7.509008
+1540,305701,Dortmund Overgünne,51.47522,7.509754
+1541,2467,Dortmund PHOENIX Halle,51.48739,7.487907
+1542,417856,Dortmund PHOENIX Halle,51.48798,7.4877
+1543,118361,Dortmund PHOENIX Platz,51.48709,7.489093
+1544,150962,Dortmund PHOENIX Platz,51.48715,7.48956
+1545,280823,Dortmund Parsevalstraße,51.536274,7.412143
+1546,316030,Dortmund Parsevalstraße,51.536137,7.410894
+1547,48511,Dortmund Parsevalstraße,51.537083,7.411416
+1548,92856,Dortmund Parsevalstraße,51.53691,7.412134
+1549,257523,Dortmund Peddenbrink,51.575893,7.442928
+1550,402791,Dortmund Peddenbrink,51.57604,7.442686
+1551,115550,Dortmund Pferdebachtal,51.482506,7.485446
+1552,356599,Dortmund Pferdebachtal,51.482464,7.485464
+1553,365119,Dortmund Pferdesiepen,51.44989,7.42092
+1554,132170,Dortmund Piepenbrink,51.569473,7.511614
+1555,164034,Dortmund Piepenbrink,51.56949,7.511353
+1556,20256,Dortmund Plaas,51.544823,7.42843
+1557,33067,Dortmund Plaas,51.545082,7.428439
+1558,109827,Dortmund Planetenfeldstraße,51.50029,7.397204
+1559,385593,Dortmund Planetenfeldstraße,51.500145,7.397339
+1560,280774,Dortmund Plesken,51.50215,7.326049
+1561,294714,Dortmund Plesken,51.50223,7.325905
+1562,171375,Dortmund Plümers Ort,51.57559,7.523651
+1563,391546,Dortmund Plümers Ort,51.575985,7.522708
+1564,116110,Dortmund Polizeipräsidium,51.500305,7.459242
+1565,255459,Dortmund Polizeipräsidium,51.501156,7.458865
+1566,401560,Dortmund Polizeipräsidium,51.500965,7.4589
+1567,83486,Dortmund Polizeipräsidium,51.500977,7.459116
+1568,112795,Dortmund Poth,51.512688,7.415422
+1569,95902,Dortmund Poth,51.512703,7.415377
+1570,122431,Dortmund Pothecke,51.52196,7.528331
+1571,200472,Dortmund Pothecke,51.52188,7.528044
+1572,319573,Dortmund Pothecke,51.52188,7.528071
+1573,50264,Dortmund Pothecke,51.52187,7.528107
+1574,304109,Dortmund Pottgießerstraße,51.542496,7.445489
+1575,230465,Dortmund Potthöferei,51.504692,7.340188
+1576,447866,Dortmund Preinstraße,51.47396,7.488024
+1577,452843,Dortmund Preinstraße,51.47386,7.488141
+1578,375753,Dortmund Preußische Straße,51.550983,7.46951
+1579,62197,Dortmund Preußische Straße,51.552334,7.469644
+1580,193948,Dortmund Primelstraße,51.486828,7.585886
+1581,453346,Dortmund Primelstraße,51.48716,7.585886
+1582,317981,Dortmund Pruzzenweg,51.49651,7.380981
+1583,357817,Dortmund Pruzzenweg,51.496292,7.380972
+1584,239393,Dortmund Pulverstraße,51.48173,7.44053
+1585,30055,Dortmund Pulverstraße,51.48176,7.439784
+1586,174590,Dortmund REFA Center,51.49513,7.424163
+1587,447597,Dortmund REFA Center,51.49515,7.424163
+1588,169330,Dortmund Rahestraße,51.517952,7.550385
+1589,21347,Dortmund Rahestraße,51.517895,7.550394
+1590,231879,Dortmund Rahm Bf,51.52523,7.393593
+1591,35608,Dortmund Rahm Bf,51.525356,7.393826
+1592,153119,Dortmund Rahmer Berg,51.52539,7.379166
+1593,437439,Dortmund Rahmer Berg,51.525505,7.379202
+1594,240770,Dortmund Rahmer Waldbach,51.533882,7.393099
+1595,193463,Dortmund Ramhofstraße,51.487766,7.550538
+1596,338292,Dortmund Rathenaustraße,51.498596,7.498399
+1597,380057,Dortmund Rathenaustraße,51.498547,7.497303
+1598,95039,Dortmund Rathenaustraße,51.498547,7.497115
+1599,25016,Dortmund Rauher Dorn,51.572086,7.464281
+1600,447845,Dortmund Rauher Dorn,51.572495,7.465126
+1601,104272,Dortmund Rauschenbuschstraße,51.54135,7.617642
+1602,249434,Dortmund Rauschenbuschstraße,51.541172,7.617471
+1603,245614,Dortmund Ravensweg,51.499435,7.560662
+1604,54345,Dortmund Ravensweg,51.49946,7.560716
+1605,158813,Dortmund Reichenberger Straße,51.475426,7.449836
+1606,440747,Dortmund Reichenberger Straße,51.475258,7.449648
+1607,234946,Dortmund Reichsmark,51.438522,7.480828
+1608,350626,Dortmund Reichsmark,51.439228,7.48293
+1609,38570,Dortmund Reichsmark,51.43918,7.481772
+1610,290637,Dortmund Reichsmarkstraße,51.43773,7.478484
+1611,432649,Dortmund Reichsmarkstraße,51.43766,7.478403
+1612,101255,Dortmund Reinoldikirche,51.515415,7.468683
+1613,117081,Dortmund Reinoldikirche,51.516148,7.468701
+1614,125729,Dortmund Reinoldikirche,51.515858,7.468665
+1615,161838,Dortmund Reinoldikirche,51.51504,7.46845
+1616,190183,Dortmund Reinoldikirche,51.51524,7.468548
+1617,246143,Dortmund Reinoldikirche,51.515068,7.468234
+1618,267909,Dortmund Reinoldikirche,51.515263,7.468351
+1619,394584,Dortmund Reinoldikirche,51.51504,7.468539
+1620,422713,Dortmund Reinoldikirche,51.51506,7.468737
+1621,55880,Dortmund Reinoldikirche,51.515152,7.469357
+1622,25608,Dortmund Remydamm,51.494514,7.462224
+1623,265268,Dortmund Remydamm,51.496254,7.459871
+1624,33927,Dortmund Remydamm,51.494453,7.460401
+1625,81042,Dortmund Remydamm,51.494537,7.463149
+1626,239067,Dortmund Rennbahn,51.51204,7.521729
+1627,53664,Dortmund Rennbahn,51.511864,7.521765
+1628,160690,Dortmund Renninghausen,51.477497,7.450753
+1629,396106,Dortmund Renninghausen,51.47714,7.4521
+1630,428556,Dortmund Renninghausen,51.476753,7.450905
+1631,113818,Dortmund Resedastraße,51.480564,7.59592
+1632,27142,Dortmund Resedastraße,51.480427,7.596046
+1633,417274,Dortmund Revierpark,51.51868,7.407696
+1634,387763,Dortmund Richterstraße,51.554604,7.3657
+1635,394540,Dortmund Richterstraße,51.554756,7.365628
+1636,171080,Dortmund Rittershofer Straße,51.583225,7.379337
+1637,238510,Dortmund Rittershofer Straße,51.58362,7.379238
+1638,388941,Dortmund Rittershofer Straße,51.583225,7.379337
+1639,53705,Dortmund Rittershofer Straße,51.58362,7.379238
+1640,212059,Dortmund Ritterstr./Unionstr.,51.513664,7.448309
+1641,41138,Dortmund Ritterstr./Unionstr.,51.513794,7.448309
+1642,172605,Dortmund Robert-Götz-Straße,51.540905,7.609296
+1643,259208,Dortmund Robert-Götz-Straße,51.540848,7.609359
+1644,179581,Dortmund Robert-Schuman-Straße,51.488186,7.476957
+1645,81679,Dortmund Robert-Schuman-Straße,51.48826,7.477496
+1646,318776,Dortmund Rodenberg Center,51.493614,7.552864
+1647,401292,Dortmund Rodenberg Center,51.493355,7.55166
+1648,235376,Dortmund Roggenkamp,51.553383,7.41093
+1649,142993,Dortmund Rohdesdiek,51.551163,7.370156
+1650,158623,Dortmund Rohdesdiek,51.551414,7.370686
+1651,199806,Dortmund Rohdesdiek,51.550797,7.37056
+1652,395394,Dortmund Rohdesdiek,51.55131,7.371324
+1653,155195,Dortmund Romberg-Holz,51.44117,7.464012
+1654,10725,Dortmund Rombergpark,51.48433,7.470893
+1655,242879,Dortmund Rombergpark,51.484257,7.470794
+1656,26191,Dortmund Rombergpark,51.484318,7.469563
+1657,339653,Dortmund Rombergpark,51.48419,7.468953
+1658,308832,Dortmund Roningweg,51.52695,7.60555
+1659,440818,Dortmund Roonheide,51.565594,7.400285
+1660,63689,Dortmund Roonheide,51.566704,7.398336
+1661,338487,Dortmund Rotkehlchenweg,51.47008,7.454139
+1662,49118,Dortmund Rotkehlchenweg,51.470078,7.45422
+1663,449625,Dortmund Roßbachstraße,51.529964,7.414847
+1664,64985,Dortmund Roßbachstraße,51.529797,7.416949
+1665,120175,Dortmund Rubinstraße,51.47135,7.53037
+1666,402192,Dortmund Rubinstraße,51.470688,7.529149
+1667,258773,Dortmund Ruckebierstraße,51.52957,7.596037
+1668,354828,Dortmund Ruckebierstraße,51.5296,7.596181
+1669,407720,Dortmund Ruckebierstraße,51.52958,7.595633
+1670,112877,Dortmund Ruhrallee,51.501488,7.468153
+1671,323638,Dortmund Ruhrallee,51.501583,7.468054
+1672,402511,Dortmund Ruhrhöhenweg,51.423378,7.476436
+1673,453225,Dortmund Ruhrhöhenweg,51.423542,7.476822
+1674,248161,Dortmund Rupinghofstraße,51.534016,7.394096
+1675,51195,Dortmund Römermorgen,51.503155,7.374513
+1676,87050,Dortmund Römermorgen,51.50341,7.374782
+1677,180129,Dortmund Rübenkamp,51.531136,7.607392
+1678,64630,Dortmund Rübenkamp,51.531147,7.607437
+1679,349920,Dortmund Rüpingsbach,51.476536,7.425959
+1680,374578,Dortmund Rüpingsbach,51.47599,7.425546
+1681,189496,Dortmund Rüschebrinkstraße,51.52081,7.519357
+1682,221546,Dortmund Rüschebrinkstraße,51.52073,7.519348
+1683,280797,Dortmund Rüschebrinkstraße,51.521183,7.520821
+1684,289112,Dortmund Rüschebrinkstraße,51.52092,7.519896
+1685,358790,Dortmund Rüschebrinkstraße,51.52144,7.520696
+1686,377491,Dortmund Rüschebrinkstraße,51.520836,7.519339
+1687,393664,Dortmund Rüschebrinkstraße,51.52054,7.51986
+1688,120455,Dortmund Saarlandstraße,51.50527,7.45979
+1689,12865,Dortmund Saarlandstraße,51.50551,7.45988
+1690,14969,Dortmund Saarlandstraße,51.504948,7.459359
+1691,346642,Dortmund Saarlandstraße,51.504566,7.459808
+1692,43069,Dortmund Saarlandstraße,51.504585,7.460275
+1693,53488,Dortmund Saarlandstraße,51.505245,7.459529
+1694,45860,Dortmund Salingen,51.473614,7.398327
+1695,186364,Dortmund Salzburger Straße,51.549988,7.479948
+1696,274907,Dortmund Salzburger Straße,51.55,7.4802
+1697,353112,Dortmund Salzwedeler Straße,51.49651,7.491015
+1698,77685,Dortmund Salzwedeler Straße,51.497047,7.489713
+1699,246999,Dortmund Schafstallstraße,51.57807,7.566824
+1700,416050,Dortmund Schafstallstraße,51.577507,7.564632
+1701,295980,Dortmund Schalkenbergsiepen,51.43536,7.436002
+1702,166632,Dortmund Schanzenweg,51.439598,7.450977
+1703,178801,Dortmund Schanzenweg,51.43986,7.451049
+1704,194872,Dortmund Scharnhorst Bf,51.53848,7.537755
+1705,322493,Dortmund Scharnhorst Bf,51.53851,7.537701
+1706,109896,Dortmund Scharnhorst Zentrum,51.55257,7.542812
+1707,13822,Dortmund Scharnhorst Zentrum,51.55272,7.542767
+1708,315123,Dortmund Scharnhorst Zentrum,51.5525,7.542749
+1709,384877,Dortmund Scharnhorst Zentrum,51.552998,7.5408
+1710,386032,Dortmund Scharnhorst Zentrum,51.552692,7.542884
+1711,131947,Dortmund Scheitenskamp,51.57118,7.567911
+1712,338150,Dortmund Scheitenskamp,51.57134,7.567875
+1713,344557,Dortmund Schewenort,51.481228,7.55043
+1714,403060,Dortmund Schewenort,51.481026,7.550008
+1715,111928,Dortmund Schieferbank,51.498287,7.399818
+1716,389344,Dortmund Schieferbank,51.497437,7.400402
+1717,188393,Dortmund Schiffhorst,51.575954,7.435957
+1718,366425,Dortmund Schiffhorst,51.5759,7.436164
+1719,237405,Dortmund Schlagbaumstraße,51.492558,7.587198
+1720,438981,Dortmund Schlagbaumstraße,51.49274,7.587243
+1721,113783,Dortmund Schleefstraße,51.49967,7.572897
+1722,153648,Dortmund Schleefstraße,51.499676,7.572816
+1723,142786,Dortmund Schleipweg,51.567074,7.532077
+1724,236477,Dortmund Schleipweg,51.567104,7.53205
+1725,390589,Dortmund Schlickenkamp,51.469334,7.484583
+1726,450162,Dortmund Schlickenkamp,51.469254,7.484574
+1727,378647,Dortmund Schloß Bodelschwingh,51.548542,7.362978
+1728,3962,Dortmund Schloß Bodelschwingh,51.548607,7.362754
+1729,212773,Dortmund Schlägelstraße,51.533344,7.473795
+1730,45881,Dortmund Schlüsselweg,51.44624,7.463239
+1731,4380,Dortmund Schondellestraße,51.46543,7.481879
+1732,446096,Dortmund Schondellestraße,51.465546,7.481915
+1733,344379,Dortmund Schulte Rödding,51.549675,7.491428
+1734,59692,Dortmund Schulte Rödding,51.549603,7.491213
+1735,97064,Dortmund Schulte Rödding,51.549587,7.491509
+1736,145546,Dortmund Schultenhof,51.47854,7.446998
+1737,453976,Dortmund Schultenhof,51.478603,7.446944
+1738,331456,Dortmund Schwarzer Weg,51.512714,7.565288
+1739,38778,Dortmund Schwarzer Weg,51.512608,7.564974
+1740,20650,Dortmund Schwerter Wald,51.475735,7.543531
+1741,341361,Dortmund Schwerter Wald,51.47554,7.542022
+1742,380336,Dortmund Schwerter Wald,51.47508,7.541743
+1743,443542,Dortmund Schwerter Wald,51.475002,7.543333
+1744,45476,Dortmund Schwieringhausen,51.58146,7.42321
+1745,68313,Dortmund Schwieringhausen,51.581867,7.424064
+1746,400699,Dortmund Schwäbische Straße,51.549904,7.474477
+1747,9071,Dortmund Schwäbische Straße,51.549973,7.474522
+1748,329965,Dortmund Schäferstraße,51.530197,7.440593
+1749,336751,Dortmund Schäferstraße,51.530277,7.440638
+1750,217399,Dortmund Schäffleweg,51.553295,7.547681
+1751,83121,Dortmund Schäffleweg,51.55367,7.547744
+1752,281486,Dortmund Schönaustraße,51.489944,7.433703
+1753,358798,Dortmund Schönaustraße,51.48998,7.433523
+1754,123313,Dortmund Schöner Pfad,51.473633,7.537018
+1755,126075,Dortmund Schöner Pfad,51.473522,7.536704
+1756,147679,Dortmund Schürbankstraße,51.49767,7.554023
+1757,29177,Dortmund Schürbankstraße,51.49768,7.554068
+1758,20325,Dortmund Schüren,51.494793,7.532284
+1759,246009,Dortmund Schüren,51.495342,7.531619
+1760,340631,Dortmund Schüren,51.495384,7.531269
+1761,79353,Dortmund Schüren,51.494648,7.532239
+1762,166808,Dortmund Schürener Straße,51.489407,7.534539
+1763,338229,Dortmund Schürener Straße,51.48981,7.535617
+1764,135249,Dortmund Schützenstraße,51.523815,7.452612
+1765,203578,Dortmund Schützenstraße,51.524273,7.452522
+1766,282033,Dortmund Schützenstraße,51.52395,7.453241
+1767,314756,Dortmund Schützenstraße,51.523678,7.452738
+1768,358793,Dortmund Schützenstraße,51.523884,7.452603
+1769,358836,Dortmund Schützenstraße,51.523933,7.451444
+1770,367978,Dortmund Schützenstraße,51.523815,7.45184
+1771,199266,Dortmund Sebrathweg,51.494038,7.39662
+1772,384596,Dortmund Sebrathweg,51.494076,7.396521
+1773,13685,Dortmund Seehöhe,51.49327,7.517426
+1774,289087,Dortmund Seehöhe,51.493244,7.517435
+1775,112242,Dortmund Seekante,51.492043,7.500519
+1776,261994,Dortmund Seekante,51.492023,7.500259
+1777,198856,Dortmund Selzerstraße,51.472378,7.532517
+1778,275551,Dortmund Selzerstraße,51.472347,7.532356
+1779,345549,Dortmund Sengsbank,51.503017,7.417111
+1780,83446,Dortmund Sengsbank,51.502754,7.41676
+1781,197401,Dortmund Seniorenheim,51.475204,7.463841
+1782,314008,Dortmund Seniorenheim,51.475174,7.463635
+1783,100950,Dortmund Sichelstraße,51.443035,7.463868
+1784,37960,Dortmund Siepmannstraße,51.523132,7.361298
+1785,119289,Dortmund Silberhecke,51.471027,7.48673
+1786,226608,Dortmund Silberhecke,51.47111,7.487242
+1787,212583,Dortmund Silberknapp,51.453506,7.421144
+1788,422619,Dortmund Simmelweg,51.55501,7.538024
+1789,456971,Dortmund Simmelweg,51.555157,7.538042
+1790,23580,Dortmund Singschwanenweg,51.42791,7.500457
+1791,4378,Dortmund Singschwanenweg,51.428917,7.501301
+1792,119040,Dortmund Somborner Höh,51.49359,7.350995
+1793,211995,Dortmund Somborner Höh,51.49364,7.35104
+1794,413962,Dortmund Somborner Straße,51.49557,7.3551
+1795,62177,Dortmund Somborner Straße,51.495354,7.354444
+1796,15288,Dortmund Sommerberg Kirche,51.46022,7.529858
+1797,218965,Dortmund Sommerberg Kirche,51.460815,7.529769
+1798,318305,Dortmund Sommerberg Kirche,51.45993,7.529562
+1799,424701,Dortmund Sommerberg Kirche,51.46038,7.531772
+1800,32484,Dortmund Sommerbergweg,51.456375,7.531916
+1801,58729,Dortmund Spanischer Weg,51.512028,7.527388
+1802,67879,Dortmund Spanischer Weg,51.512043,7.527559
+1803,244949,Dortmund Speckestraße,51.54753,7.371512
+1804,62635,Dortmund Speckestraße,51.54748,7.371548
+1805,279260,Dortmund Spicherner Straße,51.519695,7.41897
+1806,49658,Dortmund Spicherner Straße,51.519802,7.419114
+1807,314993,Dortmund Spissenagelstraße,51.44592,7.45678
+1808,325455,Dortmund Spissenagelstraße,51.445522,7.456322
+1809,121387,Dortmund Sprickmannweg,51.54288,7.620732
+1810,451315,Dortmund Sprickmannweg,51.54219,7.620651
+1811,339444,Dortmund Springorumstraße,51.53834,7.511551
+1812,407579,Dortmund Springorumstraße,51.538265,7.511551
+1813,22761,Dortmund Stadtgarten,51.51078,7.464919
+1814,304380,Dortmund Stadtgarten,51.510483,7.461613
+1815,348690,Dortmund Stadtgarten,51.510662,7.465036
+1816,405948,Dortmund Stadtgarten,51.510014,7.464201
+1817,44070,Dortmund Stadtgarten,51.51082,7.464542
+1818,442567,Dortmund Stadtgarten,51.510628,7.464892
+1819,447809,Dortmund Stadtgarten,51.510815,7.464892
+1820,244423,Dortmund Stadthaus,51.507957,7.470147
+1821,296777,Dortmund Stadthaus,51.507572,7.469581
+1822,405650,Dortmund Stadthaus,51.507504,7.469438
+1823,130564,Dortmund Stadtkrone Ost,51.505928,7.526175
+1824,390605,Dortmund Stadtkrone Ost,51.50599,7.526148
+1825,220713,Dortmund Stadtrat-Cremer-Allee,51.50106,7.520462
+1826,399566,Dortmund Stadtrat-Cremer-Allee,51.50076,7.520489
+1827,279235,Dortmund Stahlhöferweg,51.45421,7.408999
+1828,377920,Dortmund Stahlhöferweg,51.454395,7.410041
+1829,104944,Dortmund Stargarder Weg,51.473675,7.459269
+1830,32007,Dortmund Stargarder Weg,51.472843,7.459404
+1831,20765,Dortmund Steinhammerstraße,51.50168,7.371629
+1832,392653,Dortmund Steinhammerstraße,51.50175,7.371818
+1833,169115,Dortmund Steinhofstraße,51.581093,7.566617
+1834,277360,Dortmund Steinhofstraße,51.579983,7.567659
+1835,217925,Dortmund Steinsweg,51.485085,7.384062
+1836,440192,Dortmund Steinsweg,51.485325,7.384206
+1837,257514,Dortmund Sterie,51.48902,7.550879
+1838,275714,Dortmund Steubenstraße,51.505497,7.445857
+1839,406503,Dortmund Steubenstraße,51.505474,7.445866
+1840,211686,Dortmund Stofferstraße,51.583996,7.397195
+1841,447477,Dortmund Stofferstraße,51.58407,7.397105
+1842,134989,Dortmund Stoppelmannsweg,51.486507,7.552577
+1843,455948,Dortmund Stoppelmannsweg,51.486477,7.552505
+1844,377220,Dortmund Stortsweg,51.47858,7.405738
+1845,404557,Dortmund Stortsweg,51.47877,7.406097
+1846,363831,Dortmund Stresemannstraße,51.557484,7.547106
+1847,91355,Dortmund Stresemannstraße,51.557102,7.547214
+1848,222571,Dortmund Städtische Kliniken,51.509018,7.456116
+1849,379653,Dortmund Städtische Kliniken,51.50898,7.458056
+1850,401461,Dortmund Städtische Kliniken,51.509098,7.458029
+1851,369545,Dortmund Sudkamp,51.536533,7.431268
+1852,91981,Dortmund Sudkamp,51.53647,7.431394
+1853,370389,Dortmund Sumbecks Holz,51.515835,7.358172
+1854,71448,Dortmund Sumbecks Holz,51.51584,7.358684
+1855,324052,Dortmund Sunthoffstraße,51.52439,7.523193
+1856,353203,Dortmund Sunthoffstraße,51.5244,7.522995
+1857,172397,Dortmund Syburg,51.424667,7.487584
+1858,248117,Dortmund Syburg,51.42449,7.487673
+1859,257962,Dortmund Syburg,51.42451,7.487682
+1860,420250,Dortmund Syburg,51.424667,7.487727
+1861,213084,Dortmund Sydowstraße,51.52599,7.397186
+1862,3813,Dortmund Sydowstraße,51.52607,7.39742
+1863,306061,Dortmund Sölde Bf,51.496105,7.587818
+1864,369233,Dortmund Sölde Bf,51.49562,7.588249
+1865,431026,Dortmund Sölde Bf,51.4961,7.587737
+1866,103291,Dortmund Sölde Friedhof,51.502594,7.584242
+1867,57135,Dortmund Sölde Friedhof,51.503017,7.583344
+1868,125091,Dortmund Sölder Waldstraße,51.483086,7.584153
+1869,446008,Dortmund Sölder Waldstraße,51.48312,7.584009
+1870,119265,Dortmund Sölderholz,51.478657,7.59751
+1871,388181,Dortmund Sölderholz,51.47859,7.59751
+1872,154069,Dortmund Südbad,51.505356,7.467111
+1873,226092,Dortmund Südbad,51.50539,7.467129
+1874,168473,Dortmund Sümpelmannhof,51.52398,7.370614
+1875,347958,Dortmund Sümpelmannhof,51.52386,7.370758
+1876,254298,Dortmund Talstraße,51.455086,7.527011
+1877,44978,Dortmund Talstraße,51.45497,7.527029
+1878,207026,Dortmund Tauroggenstraße,51.553207,7.44866
+1879,373186,Dortmund Tauroggenstraße,51.553127,7.448893
+1880,235226,Dortmund Technologiepark,51.492996,7.402864
+1881,396056,Dortmund Technologiepark,51.492973,7.403241
+1882,102470,Dortmund Technologiezentrum,51.493332,7.406789
+1883,132212,Dortmund Technologiezentrum,51.493385,7.406897
+1884,184304,Dortmund Technologiezentrum,51.4928,7.405783
+1885,208807,Dortmund Technologiezentrum,51.492764,7.405747
+1886,29610,Dortmund Technologiezentrum,51.493378,7.406717
+1887,41894,Dortmund Teislerweg,51.57269,7.477181
+1888,454742,Dortmund Teislerweg,51.572643,7.477037
+1889,327474,Dortmund Tejaweg,51.528343,7.409197
+1890,435436,Dortmund Tejaweg,51.52824,7.408855
+1891,15742,Dortmund Terwestenstraße,51.459747,7.42993
+1892,315574,Dortmund Teutonenstraße,51.482986,7.495345
+1893,42221,Dortmund Teutonenstraße,51.483047,7.495399
+1894,288888,Dortmund Theodor-Fliedner-Heim,51.495285,7.443961
+1895,290812,Dortmund Theodor-Fliedner-Heim,51.49502,7.443494
+1896,401165,Dortmund Theodor-Fliedner-Heim,51.495235,7.444051
+1897,41229,Dortmund Theodor-Fliedner-Heim,51.494972,7.4438
+1898,215805,Dortmund Theresenstraße,51.49934,7.338176
+1899,243098,Dortmund Theresenstraße,51.499332,7.337493
+1900,21190,Dortmund Tilsiter Straße,51.525436,7.417722
+1901,212218,Dortmund Tilsiter Straße,51.525497,7.417659
+1902,251272,Dortmund Trapphofstraße,51.509037,7.560689
+1903,397347,Dortmund Trapphofstraße,51.50888,7.560383
+1904,237319,Dortmund Treckmannweg,51.564846,7.370632
+1905,367783,Dortmund Treckmannweg,51.5649,7.370821
+1906,21121,Dortmund Treibstraße,51.517467,7.447483
+1907,412242,Dortmund Treibstraße,51.5176,7.44768
+1908,154307,Dortmund Tucholskystraße,51.50689,7.501427
+1909,285875,Dortmund Tucholskystraße,51.506847,7.501436
+1910,113990,Dortmund Tunnelweg,51.478645,7.563177
+1911,317648,Dortmund Tunnelweg,51.478718,7.563096
+1912,331649,Dortmund Twerskuhle,51.50867,7.422285
+1913,383922,Dortmund Twerskuhle,51.508595,7.422186
+1914,119617,Dortmund Tymannstraße,51.526207,7.539713
+1915,167737,Dortmund Tymannstraße,51.526245,7.539812
+1916,104828,Dortmund Tölckestraße,51.478172,7.408801
+1917,442137,Dortmund Tölckestraße,51.47814,7.408792
+1918,11736,Dortmund Tönnisweg,51.554848,7.389542
+1919,384788,Dortmund Tönnisweg,51.554893,7.389757
+1920,363419,Dortmund Töpferstraße,51.547676,7.449028
+1921,81140,Dortmund Töpferstraße,51.548183,7.448696
+1922,217439,Dortmund Ubinckstraße,51.55557,7.504167
+1923,317227,Dortmund Uhlandstraße,51.52433,7.457805
+1924,405293,Dortmund Uhlandstraße,51.52421,7.457975
+1925,136739,Dortmund Unionstraße,51.51317,7.44795
+1926,165637,Dortmund Unionstraße,51.512154,7.448974
+1927,183482,Dortmund Unionstraße,51.512283,7.450816
+1928,30430,Dortmund Unionstraße,51.513138,7.447896
+1929,323322,Dortmund Unionstraße,51.51282,7.450618
+1930,341493,Dortmund Unionstraße,51.513172,7.449145
+1931,360342,Dortmund Unionstraße,51.513084,7.447914
+1932,10623,Dortmund Universität,51.492767,7.416042
+1933,356592,Dortmund Universität,51.492294,7.417425
+1934,91413,Dortmund Universität,51.49292,7.416051
+1935,369209,Dortmund Unterfeldstraße,51.528885,7.399468
+1936,264011,Dortmund Verbindungsweg,51.45798,7.535419
+1937,380174,Dortmund Verbindungsweg,51.45963,7.537746
+1938,271020,Dortmund Vereinsstraße,51.485424,7.436883
+1939,273809,Dortmund Vereinsstraße,51.48533,7.43691
+1940,220701,Dortmund Veteranenstraße,51.469727,7.439245
+1941,329540,Dortmund Veteranenstraße,51.469357,7.438356
+1942,185595,Dortmund Vieffhausstraße,51.537434,7.392695
+1943,362967,Dortmund Vieffhausstraße,51.53767,7.393548
+1944,210730,Dortmund Viermärker Weg,51.431675,7.468162
+1945,92779,Dortmund Viermärker Weg,51.431786,7.468198
+1946,121369,Dortmund Vieselerhofstraße,51.49683,7.565557
+1947,319502,Dortmund Vieselerhofstraße,51.497105,7.566159
+1948,204814,Dortmund Vincenzheim,51.52653,7.482832
+1949,342928,Dortmund Vincenzheim,51.52655,7.482841
+1950,332691,Dortmund Vinckeplatz,51.503304,7.455586
+1951,370080,Dortmund Vinckeplatz,51.5033,7.455496
+1952,233868,Dortmund Vinklöther Mark,51.445084,7.490674
+1953,389224,Dortmund Vinklöther Mark,51.44483,7.49115
+1954,281225,Dortmund Volksbundstraße,51.564655,7.373848
+1955,345758,Dortmund Volksbundstraße,51.564648,7.373776
+1956,117165,Dortmund Volksgartenstraße,51.504097,7.331214
+1957,301532,Dortmund Volksgartenstraße,51.504055,7.331223
+1958,10073,Dortmund Volmehang,51.473167,7.557787
+1959,133207,Dortmund Volmehang,51.473373,7.558012
+1960,4127,Dortmund Von der Goltz Straße,51.50915,7.489102
+1961,254717,Dortmund Von-der-Tann-Straße,51.514202,7.495956
+1962,311754,Dortmund Von-der-Tann-Straße,51.51423,7.496351
+1963,36455,Dortmund Von-der-Tann-Straße,51.514214,7.496019
+1964,42583,Dortmund Von-der-Tann-Straße,51.514214,7.496306
+1965,405789,Dortmund Vorstenstraße,51.50359,7.360975
+1966,453141,Dortmund Vorstenstraße,51.503567,7.360777
+1967,126286,Dortmund Voßkuhle,51.50359,7.497815
+1968,323100,Dortmund Voßkuhle,51.503605,7.497762
+1969,323948,Dortmund Voßkuhle,51.502716,7.497303
+1970,72593,Dortmund Voßkuhle,51.502666,7.497384
+1971,177844,Dortmund Waldesruh,51.564415,7.464901
+1972,286397,Dortmund Waldesruh,51.564198,7.464802
+1973,285449,Dortmund Waldrodeweg,51.462994,7.526454
+1974,94061,Dortmund Waldrodeweg,51.463223,7.526256
+1975,47151,Dortmund Waldstraße,51.460384,7.542066
+1976,175122,Dortmund Walter-Bruch-Straße,51.48527,7.47781
+1977,403618,Dortmund Walter-Bruch-Straße,51.485134,7.47719
+1978,123845,Dortmund Waltroper Straße,51.585876,7.390476
+1979,316554,Dortmund Waltroper Straße,51.585876,7.390476
+1980,42815,Dortmund Waltroper Straße,51.585888,7.390602
+1981,56392,Dortmund Waltroper Straße,51.585888,7.390602
+1982,10866,Dortmund Wambeler Holz,51.5407,7.510419
+1983,369885,Dortmund Wambeler Holz,51.540775,7.510428
+1984,128192,Dortmund Wannestraße,51.43598,7.521468
+1985,165843,Dortmund Wannestraße,51.436142,7.521854
+1986,103390,Dortmund Warmbreitbandstraße,51.534416,7.505236
+1987,301328,Dortmund Warmbreitbandstraße,51.53344,7.504768
+1988,135389,Dortmund Wasserstraße,51.522255,7.374701
+1989,315668,Dortmund Wasserstraße,51.522614,7.373686
+1990,2960,Dortmund Wattenscheidskamp,51.551216,7.380594
+1991,437586,Dortmund Wattenscheidskamp,51.551186,7.380621
+1992,219854,Dortmund Weidenhope,51.498993,7.345335
+1993,77614,Dortmund Weidenhope,51.49901,7.34441
+1994,239738,Dortmund Weidenstraße,51.54143,7.428618
+1995,88363,Dortmund Weidenstraße,51.541748,7.428645
+1996,106631,Dortmund Weischedestraße,51.46284,7.494204
+1997,106766,Dortmund Weiße Taube,51.466763,7.459242
+1998,312520,Dortmund Weiße Taube,51.466976,7.459278
+1999,393607,Dortmund Weiße Taube,51.46645,7.458415
+2000,80276,Dortmund Weiße Taube,51.46649,7.458209
+2001,27088,Dortmund Wellinghofen,51.47009,7.491312
+2002,349119,Dortmund Wellinghofen,51.470524,7.491042
+2003,112371,Dortmund Wellinghofen Markt,51.469265,7.490386
+2004,209919,Dortmund Wellinghofen Markt,51.469288,7.490521
+2005,214060,Dortmund Wellinghofer Straße,51.479633,7.495094
+2006,31207,Dortmund Wellinghofer Straße,51.48,7.495282
+2007,359893,Dortmund Werkstraße,51.44395,7.533586
+2008,11871,Dortmund Werkstättentor,51.519802,7.4301
+2009,210386,Dortmund Werkstättentor,51.51936,7.430568
+2010,31237,Dortmund West,51.5087,7.440638
+2011,367372,Dortmund West,51.509266,7.440862
+2012,429152,Dortmund Westendorfstraße,51.50114,7.550466
+2013,177361,Dortmund Westentor,51.51358,7.453484
+2014,196927,Dortmund Westentor,51.513817,7.454427
+2015,345011,Dortmund Westentor,51.51423,7.45537
+2016,387230,Dortmund Westentor,51.514107,7.455487
+2017,123796,Dortmund Westererbenstraße,51.542767,7.441859
+2018,179874,Dortmund Westerfilde,51.547585,7.381681
+2019,232811,Dortmund Westerfilde,51.54753,7.380738
+2020,298467,Dortmund Westerfilde,51.54734,7.382589
+2021,30498,Dortmund Westerfilde,51.54742,7.382607
+2022,310159,Dortmund Westerfilde,51.547325,7.382238
+2023,260463,Dortmund Westfalenhallen,51.49746,7.459862
+2024,262941,Dortmund Westfalenhallen,51.496494,7.459951
+2025,85220,Dortmund Westfalenhallen,51.497456,7.459763
+2026,104747,Dortmund Westfalenhütte,51.52904,7.483721
+2027,155454,Dortmund Westfalenhütte,51.528893,7.483649
+2028,110091,Dortmund Westfalenpark,51.496296,7.468638
+2029,305580,Dortmund Westfalenpark,51.49621,7.468566
+2030,333718,Dortmund Westfälische Straße,51.521492,7.556035
+2031,429859,Dortmund Westfälische Straße,51.521507,7.55591
+2032,434986,Dortmund Westhang,51.566196,7.437458
+2033,82592,Dortmund Westhang,51.56621,7.437386
+2034,140767,Dortmund Westholz,51.54486,7.537198
+2035,251967,Dortmund Westholz,51.54519,7.537225
+2036,192863,Dortmund Westholz Grundschule,51.54382,7.535069
+2037,353792,Dortmund Westholz Grundschule,51.543816,7.534485
+2038,438132,Dortmund Westhusener Straße,51.530674,7.395057
+2039,172880,Dortmund Westkamp,51.5258,7.535149
+2040,434479,Dortmund Westkamp,51.52584,7.53532
+2041,314742,Dortmund Westpark,51.511513,7.447186
+2042,361745,Dortmund Westpark,51.511536,7.44733
+2043,327550,Dortmund Westrich,51.51783,7.345425
+2044,428864,Dortmund Westrich,51.517853,7.345228
+2045,353878,Dortmund Westricher Straße,51.502666,7.340997
+2046,357790,Dortmund Westricher Straße,51.502544,7.340511
+2047,186425,Dortmund Wichburgstraße,51.48661,7.548579
+2048,419779,Dortmund Wichburgstraße,51.486073,7.54751
+2049,143972,Dortmund Wichlinghofen,51.45539,7.48329
+2050,267080,Dortmund Wichlinghofen,51.455498,7.483326
+2051,24395,Dortmund Wickede,51.533775,7.623894
+2052,170462,Dortmund Wickede Post,51.5329,7.616699
+2053,104389,Dortmund Wickede West,51.52999,7.608605
+2054,392390,Dortmund Wickede West,51.528896,7.60767
+2055,106620,Dortmund Wickeder Holz,51.553677,7.599765
+2056,157669,Dortmund Wickeder Holz,51.553654,7.599747
+2057,207966,Dortmund Wickeder Straße,51.558575,7.596343
+2058,433722,Dortmund Wickeder Straße,51.5586,7.596388
+2059,280626,Dortmund Wicker Heck,51.55398,7.595346
+2060,327544,Dortmund Wicker Heck,51.5543,7.595983
+2061,268470,Dortmund Widumer Platz,51.57921,7.468494
+2062,226836,Dortmund Wiesenpfad,51.496834,7.570849
+2063,284077,Dortmund Wiesenpfad,51.496952,7.570831
+2064,54386,Dortmund Wiethagenweg,51.4573,7.406969
+2065,55988,Dortmund Wiethagenweg,51.457355,7.407068
+2066,104394,Dortmund Wilbergstraße,51.482273,7.541303
+2067,199313,Dortmund Wilbergstraße,51.482327,7.541932
+2068,163233,Dortmund Willstätterstraße,51.530003,7.38381
+2069,304825,Dortmund Windmühlenweg,51.506245,7.507203
+2070,350997,Dortmund Windmühlenweg,51.50621,7.507365
+2071,386604,Dortmund Winzerweg,51.494358,7.503331
+2072,55320,Dortmund Winzerweg,51.494328,7.503358
+2073,134261,Dortmund Wischlingen,51.518803,7.413275
+2074,441751,Dortmund Wischlingen,51.51883,7.413212
+2075,262280,Dortmund Wittener Straße,51.513084,7.42321
+2076,284565,Dortmund Wittener Straße,51.512657,7.423246
+2077,414742,Dortmund Wittener Straße,51.513054,7.423237
+2078,71227,Dortmund Wittener Straße,51.51275,7.423426
+2079,10437,Dortmund Witthausstraße,51.487137,7.558362
+2080,262666,Dortmund Witthausstraße,51.48719,7.558622
+2081,112411,Dortmund Wittichstraße,51.574062,7.463688
+2082,291883,Dortmund Wittichstraße,51.57452,7.463455
+2083,305887,Dortmund Wittichstraße,51.57434,7.463401
+2084,326544,Dortmund Wittichstraße,51.573772,7.463823
+2085,69650,Dortmund Wittichstraße,51.57519,7.46217
+2086,144782,Dortmund Wohnstift Augustinum,51.45809,7.473444
+2087,203272,Dortmund Wohnstift Augustinum,51.457607,7.473705
+2088,427169,Dortmund Wormsstraße,51.51869,7.509431
+2089,85180,Dortmund Wormsstraße,51.518806,7.509332
+2090,102232,Dortmund Wulffsweg,51.518044,7.417874
+2091,63571,Dortmund Wulffsweg,51.518063,7.417901
+2092,147374,Dortmund Württemberger Straße,51.556023,7.469096
+2093,310891,Dortmund Württemberger Straße,51.55601,7.46906
+2094,249218,Dortmund Zeche Minister Stein,51.54829,7.461982
+2095,279962,Dortmund Zeche Minister Stein,51.548203,7.462188
+2096,388437,Dortmund Zeche Minister Stein,51.548832,7.461658
+2097,78287,Dortmund Zeche Minister Stein,51.548317,7.462116
+2098,409632,Dortmund Zeche Westhausen,51.5509,7.375204
+2099,420452,Dortmund Zeche Westhausen,51.550865,7.37524
+2100,29568,Dortmund Zeisigweg,51.518684,7.353851
+2101,46162,Dortmund Zeisigweg,51.51869,7.353043
+2102,57078,Dortmund Zinsweg,51.507675,7.510976
+2103,224976,Dortmund Zoo,51.47339,7.464937
+2104,195051,Dortmund Zugstraße,51.53016,7.601427
+2105,230308,Dortmund Zugstraße,51.53009,7.600295
+2106,370563,Dortmund Zugstraße,51.530037,7.600116
+2107,390002,Dortmund Zugstraße,51.53012,7.601463
+2108,6365,Dortmund Zum Alten Flugfeld,51.537766,7.567201
+2109,97508,Dortmund Zum Alten Flugfeld,51.53778,7.566806
+2110,75009,Dortmund Zum Hallenbad,51.56307,7.393341
+2111,86388,Dortmund Zum Hallenbad,51.56315,7.394123
+2112,136486,Dortmund Zum Luftschacht,51.546,7.37754
+2113,313645,Dortmund Zum Luftschacht,51.546032,7.377549
+2114,437514,Dortmund Zum Uhlenbrauck,51.530895,7.581538
+2115,79241,Dortmund Zum Uhlenbrauck,51.53129,7.581206
+2116,188834,Dortmund Zur Alten Windmühle,51.506783,7.592579
+2117,393948,Dortmund Zur Alten Windmühle,51.506786,7.592417
+2118,299803,Dortmund Zur Hockeneicke,51.463005,7.409637
+2119,68479,Dortmund Zur Hockeneicke,51.462997,7.409691
+2120,131347,Dortmund Zur alten Schule,51.51366,7.570049
+2121,448546,Dortmund Zur alten Schule,51.513535,7.570112
+2122,280872,Dortmund Zweiwiedenstraße,51.50605,7.327854
+2123,179157,Dortmund central bus station,51.51954,7.459387
+2124,166782,Dortmund Örlingweg,51.533203,7.550268
+2125,329775,Dortmund Örlingweg,51.533234,7.55025
+2126,124529,"Dortmund, Airport",51.514416,7.61227
+2127,337920,"Dortmund, Ammerbaumweg",51.550007,7.380918
+2128,409449,"Dortmund, Ammerbaumweg",51.550224,7.380981
+2129,139586,"Dortmund, An den Teichen",51.543694,7.479822
+2130,175031,"Dortmund, An den Teichen",51.54367,7.479661
+2131,208098,"Dortmund, An der Löchte",51.45505,7.40528
+2132,371505,"Dortmund, Bauernkamp",51.545513,7.48514
+2133,401948,"Dortmund, Bauernkamp",51.545536,7.485302
+2134,171957,"Dortmund, Bomheuerweg",51.552006,7.513734
+2135,317323,"Dortmund, Bomheuerweg",51.551792,7.513725
+2136,398642,"Dortmund, Brunnenstraße",51.52475,7.470597
+2137,449490,"Dortmund, Brunnenstraße",51.525703,7.470381
+2138,46351,"Dortmund, Brunnenstraße",51.525715,7.471567
+2139,501,"Dortmund, Brunnenstraße",51.524693,7.470758
+2140,91982,"Dortmund, Brunnenstraße",51.525883,7.471001
+2141,23336,"Dortmund, Droote",51.557606,7.543171
+2142,275026,"Dortmund, Droote",51.557396,7.542992
+2143,337723,"Dortmund, Droote",51.557674,7.543243
+2144,358865,"Dortmund, Droote",51.557407,7.543297
+2145,138640,"Dortmund, Eisenstraße",51.5355,7.47472
+2146,268754,"Dortmund, Eisenstraße",51.5355,7.474765
+2147,154322,"Dortmund, Grevel",51.561657,7.546199
+2148,213613,"Dortmund, Grevel",51.561867,7.546729
+2149,304255,"Dortmund, Grevel",51.56171,7.546136
+2150,208028,"Dortmund, Hauptbahnhof",51.517017,7.460895
+2151,186856,"Dortmund, Kaiserstuhlstraße",51.544777,7.509431
+2152,253629,"Dortmund, Kaiserstuhlstraße",51.54472,7.509395
+2153,148891,"Dortmund, Kohlgartenstraße",51.502644,7.49141
+2154,180820,"Dortmund, Kohlgartenstraße",51.502663,7.491339
+2155,343660,"Dortmund, Lavendelweg",51.47623,7.602927
+2156,114418,"Dortmund, Lichtendorf",51.47286,7.599801
+2157,331172,"Dortmund, Lichtendorf",51.47327,7.600241
+2158,250442,"Dortmund, Meinbergstraße",51.491215,7.529382
+2159,53861,"Dortmund, Meinbergstraße",51.49104,7.529077
+2160,173078,"Dortmund, Nahverkehrsmuseum Mooskamp",51.55047,7.405594
+2161,165653,"Dortmund, Obere Pekingstraße",51.491005,7.51986
+2162,317852,"Dortmund, Obere Pekingstraße",51.490784,7.520013
+2163,339498,"Dortmund, PHOENIX Park",51.487305,7.47163
+2164,387030,"Dortmund, PHOENIX Viadukt",51.489456,7.486793
+2165,442072,"Dortmund, PHOENIX Viadukt",51.48953,7.485859
+2166,170347,"Dortmund, Reinoldikirche",51.515537,7.468701
+2167,29257,"Dortmund, Seeweg",51.48882,7.522762
+2168,428102,"Dortmund, Seeweg",51.488865,7.524334
+2169,167945,"Dortmund, Walzwerkstraße",51.540993,7.508874
+2170,218329,"Dortmund, Walzwerkstraße",51.541134,7.508865
+2171,218922,"Dortmund, Westfalenhütte Tor 4",51.53663,7.507993
+2172,118935,"Dortmund, Wilopark",51.48191,7.481197
+2173,227337,"Dortmund, Wilopark",51.481853,7.481215
+2174,337168,"Eving , Franz-Zimmer-Siedlung",51.55254,7.496648
+2175,446098,"Eving , Franz-Zimmer-Siedlung",51.55279,7.496549
+2176,297672,"Eving, Innsbruckstraße",51.54992,7.49053
+2177,84975,"Eving, Schulte Rödding",51.549507,7.491132
+2178,445393,Herdecke Am Ossenbrink,51.436283,7.455783
+2179,424939,Herdecke Blickstraße,51.432858,7.427001
+2180,71383,Herdecke Blickstraße,51.432858,7.427001
+2181,306741,Herdecke Hülsenhain,51.43626,7.461308
+2182,353094,Herdecke Hülsenhain,51.436234,7.461173
+2183,168429,Herdecke Oberer Ahlenbergweg,51.433895,7.462934
+2184,361951,Herdecke Oberer Ahlenbergweg,51.433907,7.463015
+2185,297978,Herdecke Viermärker Eiche,51.434406,7.466356
+2186,129461,"Holzen, Ehrenmal",51.442898,7.533047
+2187,226019,"Holzen, Ehrenmal",51.442078,7.533488
+2188,334681,"Holzen, Erikastraße",51.44581,7.526193
+2189,83818,"Holzen, Feldmark",51.447063,7.533083
+2190,266605,"Holzen, Heideweg",51.445488,7.52331
+2191,234071,"Holzen, Kreisstraße",51.44404,7.529185
+2192,162442,"Holzen, Mischwerk Holzen",51.449474,7.537898
+2193,328905,"Holzen, Mischwerk Holzen",51.449234,7.538051
+2194,204545,"Holzen, Werkstraße",51.44368,7.533622
+2195,168558,"Lanstrop, Autobahn",51.585255,7.559215
+2196,328324,"Lanstrop, Autobahn",51.585228,7.559386
+2197,110397,"Lanstrop, Färberstr.",51.57854,7.562458
+2198,218021,"Lanstrop, Gürtlerstr.",51.582268,7.560401
+2199,346717,"Lanstrop, Hinnenberg",51.58254,7.564012
+2200,323281,"Lanstrop, Schafstallstr.",51.578083,7.566797
+2201,285154,"Lanstrop, Steinhofstr.",51.580097,7.567615
+2202,375147,"Lanstrop, Steinhofstr.",51.580757,7.56712
+2203,458140,"Lichtendorf, Eichholzstr.",51.47682,7.592291
+2204,315874,"Lichtendorf, Lambergstr.",51.473965,7.592121
+2205,392759,"Lichtendorf, Schule",51.471058,7.59548
+2206,254655,"Lichtendorf, Schulstr.",51.47058,7.596639
+2207,204480,"Niederaden, Im Erlensundern",51.58576,7.570247
+2208,267342,"Sommerberg, Hittenpad",51.45354,7.531547
+2209,65115,"Sommerberg, Hittenpad",51.453606,7.531368
+2210,109480,"Sommerberg, Kirche",51.4602,7.529751
+2211,7530,"Sommerberg, Kirche",51.46047,7.530981
+2212,162457,"Sommerberg, Sommerbergweg",51.456776,7.531628
+2213,27473,"Sommerberg, Sommerbergweg",51.456352,7.531978
+2214,146049,"Sommerberg, Verbindungsweg",51.458,7.535356
+2215,305362,"Sommerberg, Verbindungsweg",51.45848,7.537476
+2216,424607,"Sommerberg, Waldstraße",51.46084,7.54257
+2217,125661,"Sölderholz, Mitte",51.477997,7.599289
+2218,436986,"Sölderholz, Mitte",51.47793,7.59919
+2219,252965,"Sölderholz, Nelkenstraße",51.47978,7.608236
+2220,359516,"Sölderholz, Nelkenstraße",51.479683,7.608326
+2221,203693,"Wickede, Auf dem Feldgraben",51.53707,7.625807
+2222,195069,"Wickede, Dollersweg",51.53358,7.619034
+2223,128553,"Wickede, Gudrunstr.",51.539238,7.631269
+2224,384330,"Wickede, Gudrunstr.",51.53916,7.631314
+2225,388938,"Wickede, Kriemhildstr.",51.53881,7.629625
+2226,99888,"Wickede, Kriemhildstr.",51.53881,7.629625
+2227,325062,"Wickede, S-Bahnhof",51.53375,7.625008
+2228,35070,"Wickede, Tronjestr.",51.53045,7.626544
+2229,403303,"Wickede, Tronjestr.",51.530403,7.626571
+2230,113039,"Wickede, Zeche-Norm-Str.",51.527428,7.624801
+2231,303284,"Wickede, Zeche-Norm-Str.",51.527416,7.624792

@@ -1,0 +1,334 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,270260,Essen Tiefbachstr.,51.51407,7.042927
+1,415544,Essen Tiefbachstr.,51.51405,7.042963
+2,141333,GE Alexander-v.-Humboldt-Str.,51.60876,7.044499
+3,112174,GE Am Bachlauf,51.60245,7.067037
+4,138461,GE Am Bachlauf,51.602547,7.066849
+5,148569,GE August-Schmidt-Platz,51.603676,7.052817
+6,152488,GE August-Schmidt-Platz,51.60334,7.053482
+7,191349,GE Augustin-Wibbelt-Str.,51.57976,7.070065
+8,430445,GE Augustin-Wibbelt-Str.,51.57921,7.070729
+9,447720,GE Augustin-Wibbelt-Str.,51.579987,7.07055
+10,364112,GE Bergwerk Bergmannsglück,51.595036,7.042118
+11,435460,GE Bergwerk Bergmannsglück,51.59496,7.042019
+12,131472,GE Buer Nord Bf,51.587616,7.050032
+13,212892,GE Buer Nord Bf,51.5875,7.049853
+14,325751,GE Buer Nord Bf,51.587616,7.050032
+15,79173,GE Buer Nord Bf,51.587227,7.050284
+16,146534,GE Buer Rathaus,51.57847,7.058054
+17,196002,GE Buer Rathaus,51.5786,7.058773
+18,211681,GE Buer Rathaus,51.57834,7.057371
+19,254498,GE Buer Rathaus,51.57843,7.058665
+20,267004,GE Buer Rathaus,51.57869,7.059213
+21,323697,GE Buer Rathaus,51.5784,7.057704
+22,387210,GE Buer Rathaus,51.578335,7.05659
+23,387591,GE Buer Rathaus,51.57853,7.058423
+24,411147,GE Buer Rathaus,51.57835,7.058342
+25,425823,GE Buer Rathaus,51.578335,7.05659
+26,453368,GE Buer Rathaus,51.578274,7.056904
+27,28323,GE Egonstr,51.60248,7.070999
+28,327834,GE Egonstr,51.602615,7.071349
+29,72261,GE Egonstr,51.602283,7.073209
+30,108316,GE Freiheit,51.582466,7.051856
+31,138313,GE Freiheit,51.582466,7.051856
+32,186494,GE Freiheit,51.582466,7.051856
+33,240789,GE Freiheit,51.58135,7.052907
+34,254269,GE Freiheit,51.581566,7.051775
+35,302003,GE Freiheit,51.58135,7.052907
+36,326774,GE Freiheit,51.581593,7.051137
+37,443766,GE Freiheit,51.58135,7.052907
+38,110343,GE Gerhart-Hauptmann-Str.,51.583336,7.041579
+39,137559,GE Gerhart-Hauptmann-Str.,51.583336,7.041579
+40,274254,GE Gerhart-Hauptmann-Str.,51.58308,7.042334
+41,458331,GE Gerhart-Hauptmann-Str.,51.58308,7.042334
+42,139628,GE Ginsterweg,51.591286,7.006572
+43,190040,GE Ginsterweg,51.590733,7.005853
+44,223581,GE Hans-Böckler-Allee,51.508114,7.07717
+45,44461,GE Hans-Böckler-Allee,51.507923,7.075994
+46,399913,GE Hauptfr-/Osteingang,51.57717,7.084842
+47,75068,GE Hauptfr-/Osteingang,51.577225,7.084662
+48,27637,GE Hauptfriedhof/Gallwiestr.,51.576305,7.090951
+49,313321,GE Hauptfriedhof/Gallwiestr.,51.576225,7.091058
+50,360937,GE Heinrich-König-Platz,51.50957,7.094652
+51,400135,GE Heinrich-König-Platz,51.5101,7.094247
+52,108923,GE Königswiese,51.585842,7.051353
+53,120741,GE Königswiese,51.5865,7.048101
+54,134936,GE Königswiese,51.585213,7.047813
+55,147019,GE Königswiese,51.585213,7.047813
+56,244288,GE Königswiese,51.58499,7.050356
+57,251862,GE Königswiese,51.58499,7.050356
+58,428196,GE Königswiese,51.585033,7.050625
+59,437811,GE Königswiese,51.585857,7.048604
+60,103631,GE Lessingstr.,51.59915,7.050571
+61,160185,GE Lessingstr.,51.598885,7.050778
+62,210708,GE Lessingstr.,51.59915,7.050571
+63,406324,GE Lessingstr.,51.598885,7.050778
+64,251643,GE Max-Planck-Gymnasium,51.580013,7.065923
+65,55427,GE Max-Planck-Gymnasium,51.579975,7.06701
+66,167233,GE Raffinerie Scholven,51.598053,7.035183
+67,226698,GE Raffinerie Scholven,51.596786,7.035165
+68,282016,GE Reichenberger Str.,51.543243,7.022634
+69,161100,GE Revierpark Nienhausen,51.504177,7.064639
+70,254413,GE Revierpark Nienhausen,51.504143,7.064378
+71,139802,GE St.-Marien-Hospital,51.58098,7.048038
+72,199865,GE St.-Marien-Hospital,51.58111,7.048083
+73,213019,GE Ulfkotter Str. Nr.603,51.621338,7.014944
+74,97913,GE Ulfkotter Str. Nr.603,51.621433,7.014522
+75,167140,GE Weiterbild. Emscher-Lippe,51.581013,7.113049
+76,204643,GE Weiterbild. Emscher-Lippe,51.581856,7.114208
+77,282754,GE Westerholter Str.,51.582912,7.065807
+78,328328,GE-Bertlicher Str,51.60563,7.073999
+79,367555,GE-Bertlicher Str,51.605602,7.074152
+80,117964,Gelsenkirchen Achternbergstr.,51.48365,7.082039
+81,226316,Gelsenkirchen Achternbergstr.,51.483395,7.082201
+82,241817,Gelsenkirchen Achternbergstr.,51.483196,7.08212
+83,397337,Gelsenkirchen Achternbergstr.,51.483936,7.082452
+84,65521,Gelsenkirchen Achternbergstr.,51.483833,7.081653
+85,67622,Gelsenkirchen Achternbergstr.,51.483936,7.082452
+86,324063,Gelsenkirchen Ahorn-/Kreuzstr.,51.577744,7.107794
+87,61507,Gelsenkirchen Ahorn-/Kreuzstr.,51.577797,7.107605
+88,229527,Gelsenkirchen Alte Hütte,51.57648,7.101236
+89,255387,Gelsenkirchen Alte Hütte,51.576527,7.101155
+90,267622,Gelsenkirchen Am Bowengarten,51.53338,7.02991
+91,51988,Gelsenkirchen Am Bowengarten,51.5332,7.030018
+92,196165,Gelsenkirchen Am Graffweg,51.490196,7.091337
+93,357802,Gelsenkirchen Am Graffweg,51.490128,7.091148
+94,127474,Gelsenkirchen Am Markt,51.581444,7.10527
+95,318862,Gelsenkirchen Am Markt,51.581707,7.106096
+96,360345,Gelsenkirchen Am Markt,51.58136,7.106276
+97,134928,Gelsenkirchen Am Stadtwald,51.580025,7.073954
+98,99025,Gelsenkirchen Am Stadtwald,51.580143,7.072733
+99,147967,Gelsenkirchen Arendtstr.,51.499943,7.101075
+100,422360,Gelsenkirchen Arendtstr.,51.49967,7.10111
+101,118736,Gelsenkirchen Bahnübergang,51.601852,7.049772
+102,137646,Gelsenkirchen Bahnübergang,51.602104,7.049619
+103,12919,Gelsenkirchen Baut,51.588184,7.077278
+104,262928,Gelsenkirchen Baut,51.58836,7.077682
+105,430236,Gelsenkirchen Bellendorfsweg,51.612343,7.023972
+106,50041,Gelsenkirchen Bellendorfsweg,51.61171,7.025508
+107,181801,Gelsenkirchen Biele,51.595726,7.051604
+108,223973,Gelsenkirchen Biele,51.595123,7.051667
+109,158480,Gelsenkirchen Blindschacht,51.55237,7.025104
+110,5496,Gelsenkirchen Blindschacht,51.552505,7.02505
+111,159476,Gelsenkirchen Brauckstr.,51.57655,7.095011
+112,190278,Gelsenkirchen Brauckstr.,51.576576,7.094858
+113,397916,Gelsenkirchen Braukloh,51.483734,7.07903
+114,68519,Gelsenkirchen Braukloh,51.48371,7.078671
+115,124635,Gelsenkirchen Breiker Höfe,51.60202,7.000095
+116,88420,Gelsenkirchen Breiker Höfe,51.602043,7.000221
+117,291485,Gelsenkirchen Bromberger Str.,51.48847,7.089864
+118,95279,Gelsenkirchen Bromberger Str.,51.488556,7.089935
+119,172152,Gelsenkirchen Brüggemannstr.,51.492886,7.092945
+120,421246,Gelsenkirchen Brüggemannstr.,51.492996,7.093044
+121,104813,Gelsenkirchen Buchenstr,51.575253,7.109662
+122,154823,Gelsenkirchen Buchenstr,51.57554,7.109582
+123,230138,Gelsenkirchen Buddestr.,51.588177,7.01843
+124,396673,Gelsenkirchen Buerelter Str.,51.608883,6.998756
+125,55167,Gelsenkirchen Buerelter Str.,51.608326,6.999179
+126,126330,Gelsenkirchen Buerer Str.,51.53939,7.026119
+127,205379,Gelsenkirchen Buerer Str.,51.539207,7.026209
+128,308348,Gelsenkirchen Buerer Str.,51.53872,7.025041
+129,398390,Gelsenkirchen Buerer Str.,51.539333,7.026272
+130,173035,Gelsenkirchen Buschgrundstr.,51.585747,7.041076
+131,187342,Gelsenkirchen Buschgrundstr.,51.586864,7.040196
+132,365305,Gelsenkirchen Buschgrundstr.,51.586563,7.040097
+133,410620,Gelsenkirchen Buschgrundstr.,51.586987,7.040223
+134,292051,Gelsenkirchen Bussardhof,51.589832,7.03698
+135,318327,Gelsenkirchen Bussardhof,51.589752,7.036908
+136,200143,Gelsenkirchen Bußmannstr,51.61272,7.048757
+137,4965,Gelsenkirchen Bußmannstr,51.61205,7.048793
+138,180469,Gelsenkirchen Bärenkampstr.,51.58248,7.035929
+139,287886,Gelsenkirchen Bärenkampstr.,51.58248,7.035929
+140,360748,Gelsenkirchen Bärenkampstr.,51.582504,7.034231
+141,9424,Gelsenkirchen Bärenkampstr.,51.582504,7.034231
+142,125889,Gelsenkirchen Bülsestr.,51.589275,7.024942
+143,318861,Gelsenkirchen Bülsestr.,51.587685,7.025095
+144,395336,Gelsenkirchen Bülsestr.,51.587868,7.025418
+145,428329,Gelsenkirchen Bülsestr.,51.588253,7.026209
+146,209005,Gelsenkirchen Cäcilienhof,51.581947,7.123011
+147,173665,Gelsenkirchen Deutzer Str.,51.588177,7.021448
+148,317339,Gelsenkirchen Deutzer Str.,51.58831,7.020154
+149,112320,Gelsenkirchen Dillbrinkstr.,51.591644,7.052601
+150,17821,Gelsenkirchen Dillbrinkstr.,51.590954,7.051173
+151,9659,Gelsenkirchen Dillbrinkstr.,51.591976,7.051658
+152,101552,Gelsenkirchen Dorstener Str.,51.583828,7.045729
+153,118700,Gelsenkirchen Dorstener Str.,51.58385,7.043807
+154,166032,Gelsenkirchen Dorstener Str.,51.58308,7.044597
+155,449489,Gelsenkirchen Dorstener Str.,51.582985,7.044651
+156,52075,Gelsenkirchen Dorstener Str.,51.582684,7.044966
+157,32013,Gelsenkirchen Eichenstr.,51.581833,7.099925
+158,356427,Gelsenkirchen Eichenstr.,51.581802,7.099502
+159,17348,Gelsenkirchen Eppmannsweg,51.609333,7.048999
+160,21001,Gelsenkirchen Eppmannsweg,51.60879,7.050095
+161,24643,Gelsenkirchen Eppmannsweg,51.608738,7.049008
+162,350539,Gelsenkirchen Eppmannsweg,51.608128,7.048945
+163,386380,Gelsenkirchen Eppmannsweg,51.608738,7.049008
+164,395794,Gelsenkirchen Essener Str.,51.536217,7.020298
+165,397966,Gelsenkirchen Essener Str.,51.53624,7.020262
+166,81196,Gelsenkirchen Essener Str.,51.536217,7.020298
+167,86478,Gelsenkirchen Essener Str.,51.53644,7.019525
+168,127659,Gelsenkirchen Feldmarkstr.,51.50952,7.085615
+169,82671,Gelsenkirchen Feldmarkstr.,51.50953,7.085695
+170,302631,Gelsenkirchen Fischerstr.,51.534374,7.018232
+171,382582,Gelsenkirchen Fischerstr.,51.533863,7.016309
+172,416954,Gelsenkirchen Fischerstr.,51.534245,7.01737
+173,452014,Gelsenkirchen Fischerstr.,51.533863,7.016309
+174,12760,Gelsenkirchen Forstweg,51.578636,7.019202
+175,135745,Gelsenkirchen Forstweg,51.57895,7.017891
+176,167082,Gelsenkirchen Forstweg,51.579514,7.019211
+177,390410,Gelsenkirchen Forstweg,51.578636,7.019202
+178,43802,Gelsenkirchen Forstweg,51.579346,7.019624
+179,76834,Gelsenkirchen Forstweg,51.57895,7.017891
+180,276874,Gelsenkirchen Fünfhäuserweg,51.61551,7.020136
+181,378448,Gelsenkirchen Fünfhäuserweg,51.6156,7.020038
+182,265603,Gelsenkirchen Fürstinnenstr.,51.50733,7.073191
+183,354773,Gelsenkirchen Fürstinnenstr.,51.50738,7.073424
+184,423110,Gelsenkirchen Gartenstr.,51.576454,7.11322
+185,65087,Gelsenkirchen Gartenstr.,51.576397,7.112932
+186,6569,Gelsenkirchen Gewerkenstr.,51.519108,7.082497
+187,95568,Gelsenkirchen Gewerkenstr.,51.518852,7.082605
+188,122591,Gelsenkirchen Grimmstr.,51.523907,7.056231
+189,319813,Gelsenkirchen Grimmstr.,51.524117,7.056204
+190,174019,Gelsenkirchen Gustavstr.,51.60384,7.046906
+191,175055,Gelsenkirchen Gustavstr.,51.60402,7.045909
+192,258750,Gelsenkirchen Hassel Bf,51.611584,7.066624
+193,85791,Gelsenkirchen Hassel Bf,51.611492,7.066238
+194,368713,Gelsenkirchen Hassel Friedhof,51.60751,7.059824
+195,398788,Gelsenkirchen Hassel Friedhof,51.60794,7.060453
+196,426743,Gelsenkirchen Hasseler Str.,51.6101,7.057677
+197,62711,Gelsenkirchen Hasseler Str.,51.61006,7.057946
+198,165428,Gelsenkirchen Hauptfriedhof,51.577232,7.078509
+199,270958,Gelsenkirchen Hauptfriedhof,51.57717,7.078356
+200,176152,Gelsenkirchen Hauptverwaltung,51.5981,7.041148
+201,415172,Gelsenkirchen Hauptverwaltung,51.59792,7.041319
+202,10645,Gelsenkirchen Haus Leithe,51.498318,7.09988
+203,156400,Gelsenkirchen Haus Leithe,51.4983,7.099745
+204,173029,Gelsenkirchen Hbf,51.50592,7.100104
+205,273163,Gelsenkirchen Hbf,51.50575,7.100841
+206,334729,Gelsenkirchen Hbf,51.505836,7.099961
+207,336702,Gelsenkirchen Hbf,51.5049,7.102455
+208,409232,Gelsenkirchen Hbf,51.50484,7.102368
+209,88599,Gelsenkirchen Hbf,51.504803,7.102144
+210,162045,Gelsenkirchen Hedwigstr.,51.579002,7.106662
+211,349800,Gelsenkirchen Hedwigstr.,51.579063,7.106707
+212,174967,Gelsenkirchen Heihoffsweg,51.61185,7.058036
+213,76154,Gelsenkirchen Heihoffsweg,51.61184,7.05809
+214,321150,Gelsenkirchen Hestermannstr.,51.609512,7.064306
+215,66766,Gelsenkirchen Hestermannstr.,51.60939,7.064441
+216,164909,Gelsenkirchen Holbeinstr.,51.508514,7.081635
+217,276907,Gelsenkirchen Holbeinstr.,51.508484,7.081617
+218,422746,Gelsenkirchen Holtwiesche,51.5856,7.055503
+219,6858,Gelsenkirchen Holtwiesche,51.584785,7.05579
+220,187683,Gelsenkirchen Honigmannstr.,51.582027,7.02205
+221,251692,Gelsenkirchen Honigmannstr.,51.58097,7.021331
+222,241763,Gelsenkirchen Kokerei,51.595882,7.064908
+223,434496,Gelsenkirchen Kokerei,51.596508,7.065843
+224,170431,Gelsenkirchen Kranefeldstr.,51.53112,7.033916
+225,301087,Gelsenkirchen Kranefeldstr.,51.52981,7.035048
+226,77209,Gelsenkirchen Kranefeldstr.,51.530174,7.032569
+227,106329,Gelsenkirchen Kreuzstr.,51.578808,7.110291
+228,267099,Gelsenkirchen Kreuzstr.,51.57858,7.110678
+229,149779,Gelsenkirchen Kärntener Ring,51.54305,7.025382
+230,230778,Gelsenkirchen Kärntener Ring,51.542946,7.025338
+231,448164,Gelsenkirchen Kärntener Ring,51.542946,7.025212
+232,14779,Gelsenkirchen Lange Str.,51.583553,7.109501
+233,442655,Gelsenkirchen Lange Str.,51.58399,7.109582
+234,240677,Gelsenkirchen Lemgoer Str.,51.58494,7.023298
+235,8382,Gelsenkirchen Lemgoer Str.,51.584473,7.0232
+236,108055,Gelsenkirchen Lockhofstr.,51.520966,7.075553
+237,262920,Gelsenkirchen Lockhofstr.,51.521626,7.074655
+238,273722,Gelsenkirchen Lukaskirche,51.609753,7.054596
+239,56851,Gelsenkirchen Lukaskirche,51.609646,7.053661
+240,180699,Gelsenkirchen Lüttinghofstr.,51.603104,7.042298
+241,54032,Gelsenkirchen Lüttinghofstr.,51.602745,7.041849
+242,174599,Gelsenkirchen Markenstr.,51.53094,7.026703
+243,303872,Gelsenkirchen Markenstr.,51.531612,7.026451
+244,13890,Gelsenkirchen Mechtenbergstr.,51.48522,7.087205
+245,350283,Gelsenkirchen Mechtenbergstr.,51.485218,7.087267
+246,22283,Gelsenkirchen Mehringstr,51.593304,7.010758
+247,340287,Gelsenkirchen Mehringstr,51.593376,7.011099
+248,64939,Gelsenkirchen Meisenweg,51.58006,7.121466
+249,125616,Gelsenkirchen Musiktheater,51.513653,7.09255
+250,193798,Gelsenkirchen Musiktheater,51.513134,7.091472
+251,242019,Gelsenkirchen Musiktheater,51.513134,7.091472
+252,317510,Gelsenkirchen Musiktheater,51.51295,7.092109
+253,400364,Gelsenkirchen Musiktheater,51.512787,7.092172
+254,74490,Gelsenkirchen Musiktheater,51.513653,7.09255
+255,163207,Gelsenkirchen Nienhofstr.,51.580303,7.060084
+256,452958,Gelsenkirchen Nienhofstr.,51.58148,7.059105
+257,353229,Gelsenkirchen Nienkampstr.,51.592957,7.020253
+258,53665,Gelsenkirchen Nienkampstr.,51.592823,7.020145
+259,57970,Gelsenkirchen Nordsternpark,51.52898,7.027997
+260,68990,Gelsenkirchen Nordsternpark,51.529007,7.028473
+261,284213,Gelsenkirchen Oemkenstr.,51.57749,7.104542
+262,403365,Gelsenkirchen Oemkenstr.,51.57747,7.10447
+263,333736,Gelsenkirchen Ortbeckstr.,51.57814,7.072742
+264,95172,Gelsenkirchen Ortbeckstr.,51.578033,7.072858
+265,347032,Gelsenkirchen Ostring,51.593304,7.061755
+266,355080,Gelsenkirchen Ostring,51.59356,7.061414
+267,183099,Gelsenkirchen Overwegstr.,51.512177,7.088678
+268,453542,Gelsenkirchen Overwegstr.,51.51238,7.088929
+269,110353,Gelsenkirchen Pawiker Str.,51.6005,7.040887
+270,303192,Gelsenkirchen Pawiker Str.,51.60044,7.040609
+271,143050,Gelsenkirchen Pfefferackerstr.,51.582516,7.057955
+272,79095,Gelsenkirchen Pfefferackerstr.,51.583157,7.057542
+273,208453,Gelsenkirchen Rosenstr.,51.544838,7.028203
+274,347509,Gelsenkirchen Rosenstr.,51.544395,7.027997
+275,14106,Gelsenkirchen Scheideweg,51.59347,6.995262
+276,96677,Gelsenkirchen Scheideweg,51.593567,6.99537
+277,17529,Gelsenkirchen Schloß Horst,51.536064,7.024835
+278,258729,Gelsenkirchen Schloß Horst,51.53618,7.023667
+279,284765,Gelsenkirchen Schloß Horst,51.535763,7.022607
+280,316607,Gelsenkirchen Schloß Horst,51.535736,7.0224
+281,33648,Gelsenkirchen Schloß Horst,51.53618,7.02479
+282,436307,Gelsenkirchen Schloß Horst,51.536144,7.023801
+283,291313,Gelsenkirchen Schnorrstr.,51.582043,7.117038
+284,59118,Gelsenkirchen Schnorrstr.,51.582096,7.116849
+285,164439,Gelsenkirchen Sienbeckstr.,51.579723,7.124583
+286,344861,Gelsenkirchen Sonnenscheinstr.,51.59351,7.014297
+287,70724,Gelsenkirchen Sonnenscheinstr.,51.59359,7.014109
+288,346646,Gelsenkirchen Sperberstr.,51.587097,7.037492
+289,437088,Gelsenkirchen Sperberstr.,51.587387,7.037294
+290,213147,Gelsenkirchen Spindelstr.,51.592422,7.056806
+291,256032,Gelsenkirchen Spindelstr.,51.592533,7.058458
+292,170443,Gelsenkirchen St.-Michael-Str.,51.602783,7.056392
+293,399195,Gelsenkirchen St.-Michael-Str.,51.602947,7.056078
+294,21056,Gelsenkirchen Stadtgrenze,51.60909,6.994723
+295,423591,Gelsenkirchen Stifterstr.,51.602478,7.062061
+296,52547,Gelsenkirchen Stifterstr.,51.602345,7.062231
+297,210957,Gelsenkirchen Surresse,51.58149,7.090034
+298,222922,Gelsenkirchen Surresse,51.581505,7.090681
+299,300705,Gelsenkirchen Timmerbrinksweg,51.612976,7.061091
+300,390753,Gelsenkirchen Timmerbrinksweg,51.612804,7.060641
+301,284964,Gelsenkirchen Trabrennbahn,51.50344,7.059698
+302,133510,Gelsenkirchen Uhlenbrockstr.,51.59159,7.043385
+303,280591,Gelsenkirchen Uhlenbrockstr.,51.591824,7.042918
+304,124398,Gelsenkirchen Valentinstr.,51.604023,7.05005
+305,125058,Gelsenkirchen Valentinstr.,51.6035,7.049385
+306,15194,Gelsenkirchen Valentinstr.,51.60399,7.048658
+307,302415,Gelsenkirchen Valentinstr.,51.60356,7.049314
+308,316280,Gelsenkirchen Valentinstr.,51.604603,7.049134
+309,104168,Gelsenkirchen Velsenstr.,51.5896,7.045954
+310,259909,Gelsenkirchen Velsenstr.,51.589684,7.04572
+311,23825,Gelsenkirchen Vierhöfeweg,51.590206,7.096304
+312,457082,Gelsenkirchen Vierhöfeweg,51.590664,7.09634
+313,155692,Gelsenkirchen Viktoriastr.,51.58113,7.117648
+314,221803,Gelsenkirchen Waldschenke,51.580814,7.082174
+315,234253,Gelsenkirchen Waldschenke,51.580746,7.081815
+316,360749,Gelsenkirchen Wandelsweg,51.586517,7.061091
+317,278102,Gelsenkirchen Wetterstr.,51.495445,7.095002
+318,342,Gelsenkirchen Wetterstr.,51.495377,7.09493
+319,136413,Gelsenkirchen Wiebringhausstr.,51.61096,7.06295
+320,215770,Gelsenkirchen Wiebringhausstr.,51.611782,7.062887
+321,39852,Gelsenkirchen Wiebringhausstr.,51.610744,7.061755
+322,407698,Gelsenkirchen Wiebringhausstr.,51.61185,7.062851
+323,241451,Gelsenkirchen Wiehagen,51.503216,7.098748
+324,263942,Gelsenkirchen Wiehagen,51.502884,7.098946
+325,248921,Gelsenkirchen Xantener Str.,51.590927,7.022634
+326,99504,Gelsenkirchen Xantener Str.,51.59035,7.023038
+327,113084,Gladbeck Schwedenstr.,51.592808,6.998855
+328,202792,Gladbeck Schwedenstr.,51.59263,6.998882
+329,193239,Gladbeck Voßstr.,51.591576,7.00208
+330,60253,Gladbeck Voßstr.,51.59172,7.001388
+331,241009,Herten Resser Grenzweg,51.587955,7.114918
+332,453203,Herten Resser Grenzweg,51.587517,7.114549

@@ -1,0 +1,1689 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,215003,Haan Tückmantel,51.214836,7.038552
+1,227226,Hatzfeld Katholische Kirche,51.29388,7.195838
+2,398893,Hatzfeld Katholische Kirche,51.293922,7.196592
+3,449633,Hatzfeld Katholische Kirche,51.293922,7.196592
+4,454915,Hatzfeld Katholische Kirche,51.29388,7.195838
+5,15460,Höchsten/St. Josef Krankenhaus,51.26084,7.143888
+6,427104,Höchsten/St. Josef Krankenhaus,51.260895,7.142963
+7,199183,RS-Lüttringhausen Flügel,51.209568,7.204884
+8,272089,RS-Lüttringhausen Flügel,51.209618,7.204956
+9,203139,Remscheid Bärenkuhle,51.175217,7.151308
+10,443964,Remscheid Bärenkuhle,51.17528,7.151452
+11,401954,Sulamith-Wülfing-Straße,51.240673,7.163507
+12,50367,Sulamith-Wülfing-Straße,51.240555,7.163642
+13,135958,W-Vohwinkel Schwebebahn,51.230053,7.067001
+14,173523,W-Vohwinkel Schwebebahn,51.229992,7.067945
+15,182171,W-Vohwinkel Schwebebahn,51.2303,7.068061
+16,212940,W-Vohwinkel Schwebebahn,51.230453,7.067711
+17,230025,W-Vohwinkel Schwebebahn,51.230053,7.067001
+18,251850,W-Vohwinkel Schwebebahn,51.23006,7.067504
+19,298688,W-Vohwinkel Schwebebahn,51.230053,7.067001
+20,337303,W-Vohwinkel Schwebebahn,51.23006,7.067504
+21,420105,W-Vohwinkel Schwebebahn,51.23006,7.067504
+22,68561,W-Vohwinkel Schwebebahn,51.229515,7.067999
+23,189010,W-tal Alfred-Henckels-Halle,51.210075,7.129066
+24,379976,W-tal Hindenburgstr. / Junk.,51.245354,7.117666
+25,172347,W-tal Hist. Stadthalle,51.252678,7.145739
+26,222960,W-tal Hist. Stadthalle,51.252544,7.143286
+27,252805,W-tal Hist. Stadthalle,51.25255,7.145784
+28,265124,W-tal Hist. Stadthalle,51.252968,7.144041
+29,81982,W-tal Hist. Stadthalle,51.25255,7.145784
+30,87736,W-tal Hist. Stadthalle,51.252678,7.145739
+31,223041,W-tal Lichtscheid Wasserturm,51.24249,7.190358
+32,3525,W-tal Lichtscheid Wasserturm,51.24271,7.191185
+33,24529,W-tal Pina-Bausch-GS,51.23209,7.091472
+34,109037,W-tal Richard-Strauss-Allee,51.264782,7.213624
+35,180668,W-tal Richard-Strauss-Allee,51.26478,7.214388
+36,35078,W-tal Richard-Strauss-Allee,51.264675,7.21419
+37,130639,W-tal Schulzentrum Kruppstraße,51.271214,7.123541
+38,209318,W-tal Schulzentrum Kruppstraße,51.270767,7.12355
+39,333596,W-tal Schulzentrum Kruppstraße,51.27001,7.123811
+40,85140,W-tal Schulzentrum Kruppstraße,51.270363,7.123802
+41,249583,W-tal Seniorenzentrum Vohw.,51.23235,7.061019
+42,25510,W-tal Seniorenzentrum Vohw.,51.23235,7.061019
+43,259557,W-tal Station Natur und Umwelt,51.23168,7.150733
+44,411910,W-tal Station Natur und Umwelt,51.231518,7.150554
+45,171342,W.-tal Gym. Bayreuther Straße,51.261845,7.128859
+46,231714,W.-tal Gym. Bayreuther Straße,51.261738,7.128599
+47,195539,W.-tal Neviandtstraße Altenpfl.,51.243946,7.134168
+48,420459,W.-tal Neviandtstraße Altenpfl.,51.24429,7.134366
+49,111846,W.-tal Simonshöfchen / Derken,51.22799,7.046547
+50,114870,Wichlinghauser Straße,51.275127,7.219167
+51,170852,Wichlinghauser Straße,51.275776,7.217856
+52,370504,Wichlinghauser Straße,51.275173,7.217074
+53,426595,Wichlinghauser Straße,51.275127,7.219167
+54,57189,Wichlinghauser Straße,51.275173,7.217074
+55,82393,Wichlinghauser Straße,51.275776,7.217856
+56,335866,Wupp. Dietrich-Bonhoeffer-Weg,51.263676,7.168619
+57,346162,Wupp. Dietrich-Bonhoeffer-Weg,51.263676,7.168475
+58,210563,Wuppertal Abzw.Hatzfelder Str.,51.290188,7.181833
+59,261145,Wuppertal Abzw.Hatzfelder Str.,51.289986,7.181671
+60,147267,Wuppertal Adlerbrücke,51.266647,7.189909
+61,249740,Wuppertal Adlerbrücke,51.26702,7.189136
+62,278911,Wuppertal Adlerbrücke,51.26706,7.188741
+63,353040,Wuppertal Adlerbrücke,51.266968,7.189621
+64,411048,Wuppertal Agnes-Miegel-Straße,51.293705,7.218206
+65,448680,Wuppertal Agnes-Miegel-Straße,51.29324,7.216661
+66,441015,Wuppertal Albertstraße,51.269733,7.208881
+67,441900,Wuppertal Albertstraße,51.269825,7.2088
+68,225089,Wuppertal Allensteiner Straße,51.286774,7.218035
+69,1699,Wuppertal Alt.Markt/Fischertal,51.269184,7.198632
+70,410852,Wuppertal Alte Klinik,51.274063,7.141768
+71,95103,Wuppertal Alte Klinik,51.273903,7.142047
+72,100778,Wuppertal Alter Markt,51.270947,7.195928
+73,122477,Wuppertal Alter Markt,51.269978,7.199144
+74,154429,Wuppertal Alter Markt,51.269566,7.198057
+75,166325,Wuppertal Alter Markt,51.269424,7.198416
+76,17641,Wuppertal Alter Markt,51.26985,7.197482
+77,213527,Wuppertal Alter Markt,51.270042,7.19847
+78,241469,Wuppertal Alter Markt,51.270454,7.196044
+79,342967,Wuppertal Alter Markt,51.270454,7.196044
+80,373608,Wuppertal Alter Markt,51.27112,7.197922
+81,397263,Wuppertal Alter Markt,51.270103,7.199063
+82,449326,Wuppertal Alter Markt,51.270947,7.195928
+83,69788,Wuppertal Alter Markt,51.270103,7.199063
+84,8305,Wuppertal Alter Markt,51.269978,7.199144
+85,243838,Wuppertal Am Anschlag,51.274937,7.13036
+86,42431,Wuppertal Am Arrenberg,51.245426,7.131222
+87,46159,Wuppertal Am Arrenberg,51.245014,7.130387
+88,246609,Wuppertal Am Bredtchen,51.276253,7.129551
+89,386298,Wuppertal Am Bredtchen,51.27682,7.129309
+90,331472,Wuppertal Am Burgholz,51.22609,7.12965
+91,137183,Wuppertal Am Cleefchen,51.283962,7.176605
+92,165372,Wuppertal Am Cleefchen,51.283844,7.176533
+93,191241,Wuppertal Am Cleefkothen,51.23541,7.14131
+94,229946,Wuppertal Am Cleefkothen,51.235287,7.14122
+95,427627,Wuppertal Am Dorrenberg,51.2651,7.133171
+96,87429,Wuppertal Am Dorrenberg,51.264046,7.134043
+97,170826,Wuppertal Am Eckbusch,51.27787,7.105476
+98,190577,Wuppertal Am Eckbusch,51.27693,7.105728
+99,413975,Wuppertal Am Eckbusch,51.27812,7.106563
+100,433874,Wuppertal Am Eckbusch,51.27739,7.10447
+101,349459,Wuppertal Am Elend,51.24397,7.116427
+102,430475,Wuppertal Am Elend,51.243954,7.116301
+103,309620,Wuppertal Am Engelnberg,51.263737,7.156087
+104,388643,Wuppertal Am Engelnberg,51.26465,7.157201
+105,146479,Wuppertal Am Eskesberg,51.255558,7.105539
+106,251296,Wuppertal Am Eskesberg,51.25589,7.106482
+107,355485,Wuppertal Am Eskesberg,51.256107,7.106518
+108,269598,Wuppertal Am Forsthof,51.242245,7.159438
+109,3102,Wuppertal Am Forsthof,51.242348,7.159492
+110,292611,Wuppertal Am Freudenberg,51.239925,7.167622
+111,378316,Wuppertal Am Freudenberg,51.23939,7.167756
+112,434665,Wuppertal Am Gelben Sprung,51.28403,7.188229
+113,89821,Wuppertal Am Gelben Sprung,51.28479,7.189756
+114,104726,Wuppertal Am Haken,51.277,7.15757
+115,445023,Wuppertal Am Haken,51.277103,7.15748
+116,160072,Wuppertal Am Halben Berg,51.22206,7.072239
+117,202213,Wuppertal Am Halben Berg,51.221706,7.072086
+118,320430,Wuppertal Am Hammerkloth,51.285675,7.162124
+119,48106,Wuppertal Am Hammerkloth,51.28563,7.162986
+120,302666,Wuppertal Am Handweiser,51.29828,7.157336
+121,203804,Wuppertal Am Haspel,51.259262,7.167523
+122,290753,Wuppertal Am Haspel,51.259262,7.167523
+123,341401,Wuppertal Am Haspel,51.258385,7.166885
+124,52995,Wuppertal Am Haspel,51.258385,7.166885
+125,146073,Wuppertal Am Hofe,51.210762,7.126775
+126,11208,Wuppertal Am Kiesberg,51.243816,7.128895
+127,125748,Wuppertal Am Kiesberg,51.243427,7.128895
+128,318644,Wuppertal Am Kohlenmeiler,51.265873,7.241311
+129,459119,Wuppertal Am Kohlenmeiler,51.2659,7.24123
+130,177122,Wuppertal Am Kraftwerk,51.22749,7.206815
+131,247400,Wuppertal Am Kraftwerk,51.227383,7.206734
+132,157411,Wuppertal Am Kriegermal,51.248432,7.290898
+133,281453,Wuppertal Am Kriegermal,51.248432,7.290898
+134,343335,Wuppertal Am Kriegermal,51.248432,7.290898
+135,416971,Wuppertal Am Krüppershaus,51.30145,7.158162
+136,251410,Wuppertal Am Lindgen,51.286694,7.110363
+137,430987,Wuppertal Am Lindgen,51.2875,7.109968
+138,173105,Wuppertal Am Luhnberg,51.276215,7.115888
+139,71709,Wuppertal Am Luhnberg,51.275787,7.116103
+140,236984,Wuppertal Am Neuen Hessen,51.27775,7.123308
+141,259079,Wuppertal Am Neuen Hessen,51.278034,7.123496
+142,164900,Wuppertal Am Opphof,51.272816,7.155216
+143,234206,Wuppertal Am Opphof,51.2727,7.15518
+144,211120,Wuppertal Am Osterholz,51.234295,7.059797
+145,313666,Wuppertal Am Osterholz,51.234295,7.059797
+146,350005,Wuppertal Am Osterholz,51.234505,7.059824
+147,1277,Wuppertal Am Pannesbusch,51.284492,7.180809
+148,249208,Wuppertal Am Pannesbusch,51.28527,7.180584
+149,221666,Wuppertal Am Raukamp,51.283794,7.173299
+150,53903,Wuppertal Am Raukamp,51.283524,7.172985
+151,123726,Wuppertal Am Sonnenblick,51.228058,7.180153
+152,127121,Wuppertal Am Sonnenblick,51.2276,7.179237
+153,146284,Wuppertal Am Stadtbahnhof,51.223724,7.197994
+154,223427,Wuppertal Am Stadtbahnhof,51.223892,7.199404
+155,238069,Wuppertal Am Stadtbahnhof,51.223476,7.198982
+156,243159,Wuppertal Am Stadtbahnhof,51.224182,7.199808
+157,303753,Wuppertal Am Stadtbahnhof,51.223476,7.198982
+158,80170,Wuppertal Am Stadtbahnhof,51.22353,7.198515
+159,204831,Wuppertal Am Stall,51.22178,7.193835
+160,336261,Wuppertal Am Timpen,51.27543,7.247078
+161,448614,Wuppertal Am Timpen,51.275368,7.247698
+162,450923,Wuppertal Am Timpen,51.27543,7.247078
+163,67823,Wuppertal Am Timpen,51.275368,7.247698
+164,117274,Wuppertal Am Todtenberg,51.23533,7.106932
+165,375760,Wuppertal Am Todtenberg,51.235405,7.106914
+166,10060,Wuppertal Am Vogelsang,51.27624,7.140457
+167,354324,Wuppertal Am Vogelsang,51.276283,7.140618
+168,141698,Wuppertal Am Walde,51.2434,7.169769
+169,396532,Wuppertal Am Walde,51.243187,7.169876
+170,285289,Wuppertal Am Waldsaum,51.24976,7.081132
+171,106088,Wuppertal Am Wasserlauf,51.27687,7.162537
+172,336759,Wuppertal Am Wasserlauf,51.278152,7.162654
+173,200912,Wuppertal Am Wasserturm,51.278137,7.128114
+174,292645,Wuppertal Am Wasserturm,51.27891,7.128087
+175,14931,Wuppertal Amalienstraße,51.264153,7.201282
+176,406580,Wuppertal Amalienstraße,51.26398,7.201524
+177,175209,Wuppertal Amboßstraße,51.20712,7.134663
+178,343880,Wuppertal Amboßstraße,51.207268,7.133656
+179,379752,Wuppertal Amboßstraße,51.20766,7.134492
+180,9122,Wuppertal Amboßstraße,51.20815,7.133225
+181,143102,Wuppertal An den Feldern,51.22461,7.228159
+182,252142,Wuppertal An den Feldern,51.22469,7.22886
+183,12166,Wuppertal An den Friedhöfen,51.22479,7.205432
+184,440616,Wuppertal An den Friedhöfen,51.224766,7.20554
+185,246055,Wuppertal An der Bergbahn,51.268375,7.202404
+186,32369,Wuppertal An der Bergbahn,51.268696,7.203357
+187,144880,Wuppertal An der Heeg,51.306217,7.13256
+188,98839,Wuppertal An der Heeg,51.306488,7.133046
+189,417466,Wuppertal An der Waldau,51.23438,7.104776
+190,67920,Wuppertal An der Waldau,51.23433,7.104686
+191,202459,Wuppertal Anemonenstraße,51.22068,7.204659
+192,364427,Wuppertal Anilintreppe,51.25088,7.116418
+193,458584,Wuppertal Anilintreppe,51.25078,7.117244
+194,333526,Wuppertal Aprather Weg,51.27002,7.108674
+195,39246,Wuppertal Aprather Weg,51.269985,7.108522
+196,195158,Wuppertal Arminiusstraße,51.246452,7.136693
+197,27485,Wuppertal Arminiusstraße,51.24704,7.137043
+198,158691,Wuppertal Auf Lichtscheid,51.243267,7.183881
+199,177659,Wuppertal Auf Lichtscheid,51.24275,7.181734
+200,186251,Wuppertal Auf der Bleiche,51.27047,7.228474
+201,284158,Wuppertal Auf der Bleiche,51.270233,7.228501
+202,332831,Wuppertal Auf der Bleiche,51.27047,7.228474
+203,72749,Wuppertal Auf der Bleiche,51.270233,7.228501
+204,147898,Wuppertal Badische Straße,51.273636,7.23743
+205,181091,Wuppertal Badische Straße,51.273735,7.237268
+206,228473,Wuppertal Badische Straße,51.27283,7.237106
+207,452607,Wuppertal Badische Straße,51.273636,7.23743
+208,79653,Wuppertal Badische Straße,51.273735,7.237268
+209,149341,Wuppertal Barmen Bf,51.267693,7.195604
+210,170444,Wuppertal Barmen Bf,51.267925,7.195407
+211,273387,Wuppertal Barmen Bf,51.268044,7.195335
+212,326794,Wuppertal Barmen Bf,51.267796,7.195505
+213,387236,Wuppertal Barmen Bf,51.267693,7.195604
+214,389803,Wuppertal Barmen Bf,51.268448,7.197985
+215,395433,Wuppertal Barmen Bf,51.268044,7.195335
+216,399926,Wuppertal Barmen Bf,51.268627,7.198111
+217,443171,Wuppertal Barmen Bf,51.26771,7.194445
+218,454529,Wuppertal Barmen Bf,51.26771,7.194445
+219,208882,Wuppertal Barmen Bockmühlbrücke,51.2678,7.235939
+220,318537,Wuppertal Barmen Bockmühlbrücke,51.2678,7.235939
+221,363827,Wuppertal Barmen Leibuschstr.,51.271446,7.231896
+222,385568,Wuppertal Barmen Leibuschstr.,51.271446,7.231896
+223,165617,Wuppertal Barmen Oberbarmen Bf,51.274673,7.222769
+224,155809,Wuppertal Barmen Rauentaler Bergstr.,51.273495,7.228168
+225,71047,Wuppertal Barmen Rauentaler Bergstr.,51.273495,7.228168
+226,356248,Wuppertal Barmen Werk Öhde,51.263287,7.236487
+227,39098,Wuppertal Barmen Werk Öhde,51.263287,7.236487
+228,281091,Wuppertal Barmen Öhde,51.25735,7.233019
+229,401347,Wuppertal Barmen Öhde,51.25735,7.233019
+230,104094,Wuppertal Barmenia-Allee,51.251575,7.160256
+231,380807,Wuppertal Barmenia-Allee,51.251526,7.160615
+232,167309,Wuppertal Barmer Anlagen,51.265587,7.203752
+233,225291,Wuppertal Barmer Anlagen,51.265377,7.20315
+234,197934,Wuppertal Bauvereinstraße,51.228127,7.211864
+235,158961,Wuppertal Bayreuther Straße,51.262928,7.132004
+236,236466,Wuppertal Bayreuther Straße,51.262703,7.132363
+237,318243,Wuppertal Bayreuther Straße,51.26211,7.131923
+238,270310,Wuppertal Beckacker Brücke,51.28807,7.232956
+239,406863,Wuppertal Beckacker Brücke,51.288284,7.233118
+240,122233,Wuppertal Bendahler Straße,51.254196,7.164747
+241,281606,Wuppertal Bendahler Straße,51.253754,7.163759
+242,296055,Wuppertal Berg-Mark-Straße,51.266323,7.200105
+243,457224,Wuppertal Berg-Mark-Straße,51.266373,7.200159
+244,97217,Wuppertal Berg. Museumsbahnen,51.19237,7.110282
+245,368497,Wuppertal Bergerheide,51.26896,7.110579
+246,158556,Wuppertal Berghausen,51.192207,7.130234
+247,218349,Wuppertal Berghauser Straße,51.192204,7.128428
+248,397587,Wuppertal Berghauser Straße,51.192356,7.128527
+249,122889,Wuppertal Bethesda-Krankenhaus,51.267952,7.131078
+250,417563,Wuppertal Bethesda-Krankenhaus,51.268578,7.130935
+251,141400,Wuppertal Betriebsh.Varresbeck,51.249374,7.100904
+252,190026,Wuppertal Betriebsh.Varresbeck,51.24958,7.100652
+253,190716,Wuppertal Beyenburg Am Kriegermal,51.248405,7.29088
+254,224563,Wuppertal Beyenburg Elektrowerk,51.254467,7.243979
+255,241157,Wuppertal Beyenburg Elektrowerk,51.254467,7.243979
+256,176861,Wuppertal Beyenburg Haus Kemna,51.255676,7.261882
+257,90719,Wuppertal Beyenburg Haus Kemna,51.255676,7.261882
+258,265035,Wuppertal Beyenburg Kemnabrücke,51.25404,7.268601
+259,278255,Wuppertal Beyenburg Kemnabrücke,51.25404,7.268601
+260,66239,Wuppertal Beyenburg Laaken,51.25556,7.251039
+261,93767,Wuppertal Beyenburg Laaken,51.25556,7.251039
+262,119834,Wuppertal Beyenburg Mahnmal,51.255657,7.255441
+263,63221,Wuppertal Beyenburg Mahnmal,51.255657,7.255441
+264,177573,Wuppertal Beyenburg Mitte,51.249535,7.296584
+265,293042,Wuppertal Beyenburg Mitte,51.249535,7.296584
+266,75875,Wuppertal Beyenburg Mitte,51.249535,7.296584
+267,9297,Wuppertal Beyenburg Mitte,51.249508,7.296611
+268,125963,Wuppertal Birkenhof,51.30052,7.207336
+269,22073,Wuppertal Birkenhof,51.30061,7.20766
+270,413784,Wuppertal Birkenhof,51.30061,7.20766
+271,436309,Wuppertal Birkenhof,51.30052,7.207336
+272,213968,Wuppertal Birkenhöhe,51.279972,7.112438
+273,353168,Wuppertal Birkenhöhe,51.279472,7.112609
+274,410770,Wuppertal Birkenhöhe,51.27965,7.112753
+275,59931,Wuppertal Birkenhöhe,51.2799,7.113462
+276,214694,Wuppertal Birkenhöhe Schleife,51.27714,7.114073
+277,2847,Wuppertal Birkenhöhe Schleife,51.2768,7.114343
+278,298321,Wuppertal Birkenhöhe Schleife,51.2769,7.114675
+279,54291,Wuppertal Bismarckstraße,51.250862,7.125625
+280,70102,Wuppertal Bismarckstraße,51.250755,7.125347
+281,234580,Wuppertal Bismarckturm,51.263107,7.167011
+282,61945,Wuppertal Bismarckturm,51.26276,7.165592
+283,136298,Wuppertal Blankstraße,51.249943,7.149179
+284,205635,Wuppertal Blankstraße,51.250267,7.148748
+285,374229,Wuppertal Blankstraße,51.250267,7.148748
+286,70340,Wuppertal Blankstraße,51.249943,7.149179
+287,35229,Wuppertal Blombach,51.23582,7.224207
+288,190226,Wuppertal Blombach Schleife,51.23733,7.22639
+289,452688,Wuppertal Blombach Schleife,51.23649,7.22621
+290,13402,Wuppertal Blombacher Bach,51.255383,7.230621
+291,25534,Wuppertal Blombacher Bach,51.256546,7.231043
+292,319140,Wuppertal Blombacher Bach,51.25587,7.231151
+293,53653,Wuppertal Blombacher Bach,51.25587,7.231151
+294,11910,Wuppertal Blombachtalbrücke,51.241676,7.232812
+295,356415,Wuppertal Blombachtalbrücke,51.241005,7.232929
+296,5015,Wuppertal Blombachtalbrücke,51.241676,7.232812
+297,79755,Wuppertal Blombachtalbrücke,51.241005,7.232929
+298,238539,Wuppertal Blutfinke,51.229507,7.186522
+299,342908,Wuppertal Blutfinke,51.229465,7.186702
+300,155389,Wuppertal Bockmühlberg,51.2658,7.231815
+301,133453,Wuppertal Bockmühlbrücke,51.26839,7.236585
+302,171447,Wuppertal Bockmühlbrücke,51.266987,7.237439
+303,198189,Wuppertal Bockmühlbrücke,51.26712,7.23654
+304,199644,Wuppertal Bockmühlbrücke,51.266632,7.236747
+305,245289,Wuppertal Bockmühlbrücke,51.26712,7.23654
+306,429118,Wuppertal Bockmühlbrücke,51.26845,7.236433
+307,77144,Wuppertal Bockmühlbrücke,51.266632,7.236747
+308,198230,Wuppertal Boeddinghausstraße,51.234627,7.09785
+309,227314,Wuppertal Boeddinghausstraße,51.234535,7.097823
+310,191602,Wuppertal Boltenberg,51.23604,7.109159
+311,110470,Wuppertal Bornscheuerstraße,51.283245,7.24096
+312,387525,Wuppertal Bornscheuerstraße,51.283306,7.241077
+313,239950,Wuppertal Botanischer Garten,51.261578,7.16295
+314,50955,Wuppertal Botanischer Garten,51.26118,7.162906
+315,183947,Wuppertal Bouterwekstraße,51.243282,7.095271
+316,324964,Wuppertal Bouterwekstraße,51.243202,7.095658
+317,10796,Wuppertal Bozener Straße,51.237698,7.069265
+318,174094,Wuppertal Bozener Straße,51.23747,7.069274
+319,227670,Wuppertal Bozener Straße,51.23747,7.069274
+320,352127,Wuppertal Bozener Straße,51.23747,7.069274
+321,61171,Wuppertal Bozener Straße,51.237698,7.069265
+322,63821,Wuppertal Bozener Straße,51.237698,7.069265
+323,313140,Wuppertal Bramdelle,51.287563,7.242173
+324,377819,Wuppertal Bramdelle,51.287643,7.24229
+325,197432,Wuppertal Bredde / Tafel,51.275192,7.206932
+326,86319,Wuppertal Bredde / Tafel,51.27567,7.206007
+327,160795,Wuppertal Bremer Straße,51.27001,7.130288
+328,328293,Wuppertal Bremer Straße,51.26998,7.131168
+329,39294,Wuppertal Bremer Straße,51.27047,7.130324
+330,402140,Wuppertal Bremer Straße,51.26988,7.130818
+331,161042,Wuppertal Bremkamp,51.21995,7.06012
+332,270592,Wuppertal Bremkamp,51.220356,7.060246
+333,100065,Wuppertal Briller Kreuz,51.266182,7.132192
+334,116122,Wuppertal Briller Kreuz,51.266525,7.134339
+335,157336,Wuppertal Briller Kreuz,51.265194,7.130719
+336,38081,Wuppertal Briller Kreuz,51.266678,7.133342
+337,361251,Wuppertal Briller Schloss,51.27093,7.12532
+338,402595,Wuppertal Briller Schloss,51.269848,7.126057
+339,220422,Wuppertal Bromberger Str./WSW,51.277775,7.185354
+340,374840,Wuppertal Bromberger Str./WSW,51.27812,7.184555
+341,411504,Wuppertal Bromberger Str./WSW,51.277775,7.185354
+342,434779,Wuppertal Bromberger Str./WSW,51.27812,7.184555
+343,243821,Wuppertal Bruch,51.23434,7.077269
+344,330605,Wuppertal Bruch,51.23431,7.076991
+345,346295,Wuppertal Bruch,51.234367,7.077413
+346,443793,Wuppertal Bruch,51.2342,7.07691
+347,116966,Wuppertal Brucher Straße,51.23243,7.07311
+348,95010,Wuppertal Brucher Straße,51.232014,7.072095
+349,158797,Wuppertal Brändströmstraße,51.27132,7.21146
+350,232948,Wuppertal Brändströmstraße,51.272152,7.212771
+351,332110,Wuppertal Brändströmstraße,51.27147,7.211594
+352,334529,Wuppertal Brändströmstraße,51.271297,7.212304
+353,294507,Wuppertal Bth. Nächstebreck,51.29374,7.256267
+354,83910,Wuppertal Bth. Nächstebreck,51.292812,7.255468
+355,326919,Wuppertal Buchenring,51.28268,7.180998
+356,346324,Wuppertal Buchenring,51.282784,7.181096
+357,169309,Wuppertal Buchenwald,51.279224,7.238014
+358,276060,Wuppertal Buchenwald,51.27863,7.237421
+359,209071,Wuppertal Böhler Hof,51.245186,7.164037
+360,413512,Wuppertal Böhler Hof,51.245342,7.164136
+361,115241,Wuppertal Bürgerallee,51.2813,7.196098
+362,220265,Wuppertal Bürgerallee,51.28124,7.197086
+363,312997,Wuppertal Campus Freudenberg,51.238422,7.160965
+364,107864,Wuppertal Carnaper Platz/WSW,51.27631,7.188076
+365,268255,Wuppertal Carnaper Platz/WSW,51.276196,7.187942
+366,295383,Wuppertal Christbusch,51.25717,7.171296
+367,352735,Wuppertal Christbusch,51.257183,7.171467
+368,115635,Wuppertal Clausen,51.268635,7.168403
+369,313799,Wuppertal Clausen,51.26853,7.168349
+370,404061,Wuppertal Clausenhof,51.27303,7.168574
+371,390090,Wuppertal Clausewitzstraße,51.278458,7.25757
+372,52531,Wuppertal Clausewitzstraße,51.278355,7.257507
+373,226588,Wuppertal Cluse,51.212246,7.277989
+374,244590,Wuppertal Cluse,51.21186,7.27798
+375,273349,Wuppertal Cluse,51.21186,7.27798
+376,302611,Wuppertal Cluse,51.212246,7.277989
+377,311454,Wuppertal Cluse,51.212006,7.278285
+378,413319,Wuppertal Collenbuschstraße,51.28117,7.216957
+379,123368,Wuppertal Concordienstr./Rath.,51.27079,7.202063
+380,231628,Wuppertal Concordienstr./Rath.,51.270668,7.202387
+381,357106,Wuppertal Concordienstr./Rath.,51.27079,7.202063
+382,70370,Wuppertal Concordienstr./Rath.,51.270668,7.202387
+383,329213,Wuppertal Corneliusstraße,51.228737,7.062797
+384,431744,Wuppertal Corneliusstraße,51.228703,7.063022
+385,392513,Wuppertal Creceliusstraße,51.241245,7.09979
+386,88719,Wuppertal Creceliusstraße,51.24087,7.100302
+387,17539,Wuppertal Cronenberg Rathaus,51.20515,7.134528
+388,180045,Wuppertal Cronenberg Rathaus,51.205593,7.13027
+389,236437,Wuppertal Cronenberg Rathaus,51.205517,7.130351
+390,176725,Wuppertal Cronenberg Stadtbad,51.205006,7.137789
+391,75176,Wuppertal Cronenberg Stadtbad,51.20655,7.136504
+392,176135,Wuppertal Cronenf. Sambatrasse,51.21287,7.142047
+393,5832,Wuppertal Cronenf. Sambatrasse,51.213783,7.143969
+394,121320,Wuppertal Cronenfeld,51.214565,7.146511
+395,197427,Wuppertal Cronenfeld,51.214565,7.146511
+396,310019,Wuppertal Cronenfeld,51.21535,7.14705
+397,377571,Wuppertal Cronenfeld,51.21535,7.14705
+398,418108,Wuppertal Cronenfeld,51.21478,7.145748
+399,149415,Wuppertal Damaschkeweg Nord,51.266598,7.116948
+400,359868,Wuppertal Damaschkeweg Süd,51.2639,7.120272
+401,279376,Wuppertal Dasnöckel,51.22205,7.077682
+402,34852,Wuppertal Dasnöckel,51.222004,7.078428
+403,47518,Wuppertal Dasnöckel,51.222004,7.078185
+404,238274,Wuppertal Dasnöckel Mitte,51.222687,7.083459
+405,419387,Wuppertal Dasnöckel Mitte,51.222397,7.083494
+406,126393,Wuppertal Deckershäus. Kirche,51.28527,7.168062
+407,242146,Wuppertal Deckershäus. Kirche,51.285484,7.167191
+408,105172,Wuppertal Dellbusch,51.299423,7.207309
+409,287017,Wuppertal Dellbusch,51.299103,7.206905
+410,101419,Wuppertal Dellbusch Mitte,51.300354,7.211019
+411,318900,Wuppertal Dellbusch Mitte,51.300457,7.210292
+412,344575,Wuppertal Dellbusch Ost,51.30108,7.215286
+413,71520,Wuppertal Dellbusch Ost,51.30095,7.215125
+414,101125,Wuppertal Deutscher Ring,51.249535,7.09104
+415,181597,Wuppertal Deutscher Ring,51.24953,7.090933
+416,182974,Wuppertal Deweerthscher Garten,51.25418,7.132255
+417,316635,Wuppertal Deweerthscher Garten,51.253883,7.132291
+418,323984,Wuppertal Dickestraße,51.22728,7.2096
+419,61459,Wuppertal Dickmann,51.297276,7.167999
+420,24095,Wuppertal Diemeltreppe,51.259655,7.161989
+421,347055,Wuppertal Diemeltreppe,51.25994,7.162394
+422,180798,Wuppertal Dieselstr. Schleife,51.27808,7.26782
+423,184274,Wuppertal Dieselstr. Schleife,51.278053,7.267604
+424,225467,Wuppertal Dieselstr. Schleife,51.278065,7.267721
+425,310432,Wuppertal Dieselstr. Schleife,51.278053,7.267604
+426,381059,Wuppertal Dieselstr. Schleife,51.278152,7.268098
+427,428456,Wuppertal Dieselstr. Schleife,51.278137,7.267937
+428,54599,Wuppertal Dieselstr. Schleife,51.278137,7.267937
+429,102222,Wuppertal Dieselstraße,51.280323,7.265987
+430,246905,Wuppertal Dieselstraße,51.280136,7.267245
+431,248128,Wuppertal Dillenburg,51.2246,7.069589
+432,352829,Wuppertal Dillenburg,51.224697,7.069562
+433,93362,Wuppertal Distelbeck,51.252354,7.152844
+434,143160,Wuppertal Dohr,51.21157,7.149557
+435,166507,Wuppertal Dohr,51.21157,7.149557
+436,167777,Wuppertal Dohr,51.2116,7.149682
+437,198249,Wuppertal Dohr,51.2116,7.149682
+438,240787,Wuppertal Dohrer Dreh,51.21003,7.149305
+439,317019,Wuppertal Dohrer Dreh,51.21003,7.149305
+440,370973,Wuppertal Domagkweg,51.28113,7.147446
+441,387214,Wuppertal Domagkweg,51.28148,7.148371
+442,248317,Wuppertal Dornap Ladestraße,51.25162,7.061396
+443,333974,Wuppertal Dornap Ladestraße,51.25166,7.061998
+444,338678,Wuppertal Dornap Ladestraße,51.25162,7.061396
+445,392100,Wuppertal Dornap Ladestraße,51.25166,7.061998
+446,413896,Wuppertal Dornap Ladestraße,51.25166,7.061998
+447,447932,Wuppertal Dornap Ladestraße,51.25162,7.061396
+448,185571,Wuppertal Dorp,51.260033,7.112492
+449,259786,Wuppertal Dorp,51.26015,7.112833
+450,145968,Wuppertal Dönberg Kirche,51.300438,7.16181
+451,172138,Wuppertal Dönberg Kirche,51.30022,7.162016
+452,144505,Wuppertal Dönberger Straße,51.291946,7.168628
+453,343917,Wuppertal Dönberger Straße,51.291733,7.168799
+454,419355,Wuppertal Döringstraße,51.25092,7.103635
+455,227297,Wuppertal Düsseldorfer Straße,51.252686,7.104398
+456,249195,Wuppertal Düsseldorfer Straße,51.253906,7.103698
+457,353937,Wuppertal Düsseldorfer Straße,51.253826,7.103356
+458,457696,Wuppertal Düsseldorfer Straße,51.252567,7.104111
+459,13232,Wuppertal Echoer Straße,51.21841,7.194652
+460,78890,Wuppertal Echoer Straße,51.21841,7.194652
+461,5123,Wuppertal Eddastraße,51.244244,7.110471
+462,67081,Wuppertal Eddastraße,51.24417,7.110246
+463,358892,Wuppertal Edmund-Strutz-Weg,51.217216,7.201003
+464,63030,Wuppertal Eduardstraße,51.27776,7.204623
+465,139536,Wuppertal Ehrenberger Straße,51.27579,7.251605
+466,320948,Wuppertal Ehrenberger Straße,51.275726,7.252099
+467,348798,Wuppertal Ehrenberger Straße,51.275726,7.252099
+468,370939,Wuppertal Ehrenberger Straße,51.27579,7.251605
+469,289158,Wuppertal Ehrenfriedhof,51.260563,7.206079
+470,85105,Wuppertal Ehrenfriedhof,51.26033,7.206007
+471,343530,Wuppertal Eichenhofer Weg,51.311012,7.256833
+472,364889,Wuppertal Eichenhofer Weg,51.311043,7.256133
+473,454858,Wuppertal Eichenstraße,51.27097,7.187133
+474,121055,Wuppertal Einern,51.30263,7.215161
+475,420928,Wuppertal Einern,51.302303,7.214586
+476,449697,Wuppertal Einern,51.30263,7.215161
+477,69092,Wuppertal Einern,51.302933,7.215125
+478,78227,Wuppertal Einern,51.302933,7.215125
+479,238864,Wuppertal Einerngraben,51.288227,7.205252
+480,248025,Wuppertal Einerngraben,51.28812,7.205252
+481,266130,Wuppertal Einerngraben,51.28812,7.205252
+482,414814,Wuppertal Einerngraben,51.288227,7.205252
+483,257123,Wuppertal Eintrachtstraße,51.280098,7.207264
+484,119682,Wuppertal Elektrowerk,51.254395,7.243287
+485,130999,Wuppertal Elektrowerk,51.254513,7.244814
+486,284598,Wuppertal Elektrowerk,51.254395,7.243287
+487,42523,Wuppertal Elektrowerk,51.254513,7.244814
+488,15055,Wuppertal Elfenhang,51.217796,7.0641
+489,386191,Wuppertal Elfenhang,51.21793,7.064738
+490,165531,Wuppertal Elias-Eller-Straße,51.235256,7.195452
+491,29968,Wuppertal Elisenstraße,51.259377,7.16075
+492,397494,Wuppertal Elisenstraße,51.25924,7.160372
+493,157350,Wuppertal Ellinghausen,51.294315,7.244634
+494,99725,Wuppertal Ellinghausen,51.29437,7.243745
+495,308071,Wuppertal Elsasser Straße,51.26548,7.154443
+496,447744,Wuppertal Elsasser Straße,51.26642,7.156896
+497,106170,Wuppertal Engelbert-Wüster-Weg,51.23506,7.201111
+498,38823,Wuppertal Erbschlö,51.235226,7.212537
+499,8747,Wuppertal Erbschlö,51.234848,7.212466
+500,443703,Wuppertal Erlenrode,51.311237,7.259223
+501,213380,Wuppertal Erwinstraße,51.26984,7.231995
+502,299108,Wuppertal Erwinstraße,51.268875,7.23222
+503,377083,Wuppertal Erwinstraße,51.268875,7.23222
+504,419368,Wuppertal Erwinstraße,51.268593,7.231869
+505,184319,Wuppertal Eschenbeek,51.271812,7.148883
+506,277929,Wuppertal Eschenbeek,51.271656,7.148658
+507,348610,Wuppertal Eschenbeek,51.271515,7.14785
+508,53727,Wuppertal Eschenbeek,51.270763,7.14767
+509,89999,Wuppertal Eschenbeek,51.270504,7.149368
+510,166542,Wuppertal Eschenstraße,51.272335,7.184366
+511,190555,Wuppertal Eschenstraße,51.272404,7.185148
+512,173702,Wuppertal Espenstraße,51.25097,7.154057
+513,41139,Wuppertal Essener Straße,51.247044,7.08689
+514,57525,Wuppertal Essener Straße,51.246826,7.086567
+515,258861,Wuppertal Ewaldstraße,51.26648,7.160085
+516,298314,Wuppertal Ewaldstraße,51.266277,7.160004
+517,151803,Wuppertal F.-Tillmanns-Straße,51.280567,7.227719
+518,119919,Wuppertal Falkenberg,51.26426,7.107039
+519,200625,Wuppertal Falkenberg,51.26459,7.106985
+520,38184,Wuppertal Falkenberg Nord,51.265884,7.113354
+521,95895,Wuppertal Falkenberg Süd,51.26477,7.109123
+522,26791,Wuppertal Farnweg,51.282307,7.108099
+523,445452,Wuppertal Farnweg,51.282345,7.108333
+524,10090,Wuppertal Ferd.-Lassalle-Str.,51.22286,7.214002
+525,256117,Wuppertal Ferd.-Lassalle-Str.,51.22286,7.214002
+526,429657,Wuppertal Ferd.-Lassalle-Str.,51.22337,7.213112
+527,300760,Wuppertal Fernmeldeamt,51.257484,7.131707
+528,310099,Wuppertal Fernmeldeamt,51.25791,7.130189
+529,395345,Wuppertal Fernmeldeamt,51.257446,7.131545
+530,41303,Wuppertal Fernmeldeamt,51.257824,7.13027
+531,405713,Wuppertal Filchnerweg,51.21478,7.046376
+532,163981,Wuppertal Fingscheid,51.261295,7.182004
+533,324608,Wuppertal Fingscheid,51.261543,7.1808
+534,204191,Wuppertal Flanhard,51.293087,7.189855
+535,226190,Wuppertal Flanhard,51.293087,7.189855
+536,372691,Wuppertal Flanhard,51.293186,7.189936
+537,413146,Wuppertal Flanhard,51.293186,7.189936
+538,199233,Wuppertal Flexstraße,51.27611,7.25704
+539,264465,Wuppertal Flexstraße,51.276302,7.258118
+540,401373,Wuppertal Flexstraße,51.276302,7.258118
+541,51527,Wuppertal Flexstraße,51.27611,7.25704
+542,28062,Wuppertal Florastraße,51.27259,7.143915
+543,97347,Wuppertal Florastraße,51.272358,7.144239
+544,141128,Wuppertal Forsthaus,51.26286,7.210346
+545,181757,Wuppertal Forsthaus,51.262955,7.210382
+546,260806,Wuppertal Frankholzhäuschen,51.265007,7.099134
+547,416608,Wuppertal Frankholzhäuschen,51.265396,7.099053
+548,137480,Wuppertal Freibad Eckbusch,51.278103,7.108135
+549,6826,Wuppertal Freibad Eckbusch,51.27815,7.107974
+550,262186,Wuppertal Freiligrathstraße,51.268997,7.212744
+551,393415,Wuppertal Freiligrathstraße,51.268974,7.212726
+552,123107,Wuppertal Fresestraße,51.277946,7.207363
+553,423459,Wuppertal Fresestraße,51.278374,7.209582
+554,135440,Wuppertal Friedenshain,51.23476,7.153464
+555,213539,Wuppertal Friedenshain,51.234863,7.15386
+556,336859,Wuppertal Friedenshain,51.235443,7.154345
+557,387652,Wuppertal Friedenshain,51.234947,7.153904
+558,175721,Wuppertal Friedenshort,51.231133,7.205477
+559,50475,Wuppertal Friedensstraße,51.208073,7.120298
+560,57405,Wuppertal Friedhof Bredtchen,51.273792,7.130881
+561,67109,Wuppertal Friedhof Bredtchen,51.273712,7.131033
+562,224354,Wuppertal Friedhof Ehrenhain,51.227493,7.074278
+563,6902,Wuppertal Friedhof Ehrenhain,51.226967,7.074323
+564,185581,Wuppertal Friedhof Norrenberg,51.268757,7.228941
+565,372338,Wuppertal Friedhof Staubenthal,51.232952,7.19326
+566,431490,Wuppertal Friedhof Staubenthal,51.23323,7.192667
+567,111579,Wuppertal Friedhof Uellendahl,51.27998,7.162286
+568,227541,Wuppertal Friedhof Uellendahl,51.279106,7.164235
+569,312260,Wuppertal Friedhof Uellendahl,51.279114,7.162852
+570,75098,Wuppertal Friedhof Uellendahl,51.279015,7.164253
+571,339710,Wuppertal Friedhof Unterbarmen,51.258728,7.175015
+572,444606,Wuppertal Friedhof Unterbarmen,51.258766,7.175338
+573,41891,Wuppertal Friedhofskirche,51.262917,7.135785
+574,68504,Wuppertal Friedhofskirche,51.262726,7.136019
+575,244915,Wuppertal Friedrich-Bayer-Str.,51.2461,7.097023
+576,428482,Wuppertal Friedrich-Bayer-Str.,51.246082,7.097158
+577,129752,Wuppertal Friedrichsallee,51.235943,7.140016
+578,156353,Wuppertal Friedrichsallee,51.235836,7.140106
+579,245972,Wuppertal Friedrichsberg,51.237682,7.142406
+580,455997,Wuppertal Friedrichsberg,51.237923,7.142828
+581,102046,Wuppertal Frielinghausen,51.212505,7.289173
+582,227440,Wuppertal Frielinghausen,51.212467,7.288553
+583,366714,Wuppertal Frielinghausen,51.212505,7.289173
+584,148805,Wuppertal Funckstraße,51.260475,7.126039
+585,19785,Wuppertal Funckstraße,51.260376,7.125661
+586,367448,Wuppertal G.-Heinemann-Straße,51.289234,7.171565
+587,79669,Wuppertal G.-Heinemann-Straße,51.289307,7.171574
+588,29937,Wuppertal GEPA-Weg,51.247684,7.07046
+589,327888,Wuppertal GEPA-Weg,51.247684,7.07046
+590,400000,Wuppertal GEPA-Weg,51.247906,7.070702
+591,400491,Wuppertal GEPA-Weg,51.247906,7.070702
+592,416551,Wuppertal GEPA-Weg,51.247684,7.07046
+593,71863,Wuppertal GEPA-Weg,51.247906,7.070702
+594,21658,Wuppertal Gabelpunkt,51.267902,7.128689
+595,408940,Wuppertal Gabelpunkt,51.267155,7.129102
+596,254543,Wuppertal Gartensiedlung,51.25847,7.194338
+597,89265,Wuppertal Gartensiedlung,51.258595,7.194553
+598,121545,Wuppertal Gasstraße,51.221603,7.217029
+599,163793,Wuppertal Gasstraße,51.221718,7.216526
+600,347020,Wuppertal Gasstraße,51.221603,7.217029
+601,420058,Wuppertal Gasstraße,51.221718,7.216526
+602,150891,Wuppertal Gaußstraße,51.24555,7.152189
+603,390728,Wuppertal Gaußstraße,51.24555,7.152189
+604,252194,Wuppertal Gebhardtstraße,51.227665,7.064899
+605,90220,Wuppertal Gebhardtstraße,51.227695,7.064693
+606,25612,Wuppertal Gemeindestift,51.249485,7.151416
+607,443711,Wuppertal Gemeindestift,51.249485,7.151416
+608,136709,Wuppertal Gennebrecker Straße,51.299625,7.216769
+609,120002,Wuppertal Germanenstraße,51.283154,7.209079
+610,169201,Wuppertal Germanenstraße,51.28332,7.208899
+611,32378,Wuppertal Germanenstraße,51.28332,7.208899
+612,324342,Wuppertal Germanenstraße,51.283154,7.209079
+613,442169,Wuppertal Gernotstraße,51.276688,7.205405
+614,32014,Wuppertal Ges.Schule Ronsdorf,51.22467,7.190529
+615,419206,Wuppertal Ges.Schule Ronsdorf,51.22519,7.19052
+616,196730,Wuppertal Giebel,51.24804,7.094157
+617,232845,Wuppertal Giebel,51.247917,7.094589
+618,51239,Wuppertal Gildenstraße,51.275978,7.231887
+619,67313,Wuppertal Gildenstraße,51.2761,7.230908
+620,173692,Wuppertal Giselastraße,51.295025,7.164783
+621,198402,Wuppertal Giselastraße,51.294804,7.163858
+622,180829,Wuppertal Gladiolenstraße,51.229053,7.205935
+623,319222,Wuppertal Gladiolenstraße,51.228703,7.205576
+624,118477,Wuppertal Glockenhäuschen,51.252556,7.06622
+625,295253,Wuppertal Glockenhäuschen,51.252808,7.066759
+626,402789,Wuppertal Glockenhäuschen,51.252808,7.066759
+627,429295,Wuppertal Glockenhäuschen,51.252808,7.066759
+628,75575,Wuppertal Glockenhäuschen,51.252556,7.06622
+629,8410,Wuppertal Glockenhäuschen,51.252556,7.06622
+630,30667,Wuppertal Gosenburg,51.2682,7.225132
+631,455072,Wuppertal Gosenburg,51.268227,7.22506
+632,169777,Wuppertal Graben,51.216625,7.205135
+633,263152,Wuppertal Graben,51.216446,7.205764
+634,313252,Wuppertal Graben,51.216625,7.205135
+635,83921,Wuppertal Graben,51.216446,7.205764
+636,119472,Wuppertal Graf-Adolf-Straße,51.236263,7.146978
+637,288537,Wuppertal Graf-Adolf-Straße,51.236237,7.14679
+638,180801,Wuppertal Greifswalder Straße,51.270077,7.136908
+639,71004,Wuppertal Greifswalder Straße,51.27021,7.136962
+640,131986,Wuppertal Grenze Jagdhaus,51.281765,7.119068
+641,321561,Wuppertal Grenze Jagdhaus,51.28068,7.117801
+642,95151,Wuppertal Grenze Jagdhaus,51.280716,7.120631
+643,236879,Wuppertal Gruitener Straße,51.2287,7.057857
+644,321786,Wuppertal Gruitener Straße,51.22878,7.05783
+645,294898,Wuppertal Grundstraße,51.277027,7.234753
+646,91854,Wuppertal Grundstraße,51.27724,7.236154
+647,100743,Wuppertal Grunerstraße,51.29153,7.185669
+648,125754,Wuppertal Grunerstraße,51.292244,7.185849
+649,239171,Wuppertal Grunerstraße,51.292244,7.185849
+650,298555,Wuppertal Grunerstraße,51.29202,7.187142
+651,318544,Wuppertal Grunerstraße,51.29158,7.186073
+652,97395,Wuppertal Grüne Trift,51.247707,7.079883
+653,111166,Wuppertal Grünental,51.218643,7.280342
+654,129607,Wuppertal Grünental,51.21828,7.280387
+655,175516,Wuppertal Grünental,51.21828,7.280387
+656,228541,Wuppertal Grünental,51.219147,7.280477
+657,263768,Wuppertal Grünental,51.219147,7.280477
+658,386798,Wuppertal Grünental,51.21949,7.28072
+659,64381,Wuppertal Grünental,51.218643,7.280342
+660,83285,Wuppertal Grünental,51.21949,7.28072
+661,124864,Wuppertal Grünewald,51.245544,7.070999
+662,142235,Wuppertal Grünewald,51.24578,7.070756
+663,420305,Wuppertal Grünewald,51.24578,7.070756
+664,437573,Wuppertal Grünewald,51.245544,7.070999
+665,53558,Wuppertal Grünewald,51.24578,7.070756
+666,70619,Wuppertal Grünewald,51.245544,7.070999
+667,293274,Wuppertal Gudrunstraße,51.27783,7.226147
+668,257297,Wuppertal Gymnasium Joh. Rau,51.264572,7.187627
+669,2647,Wuppertal Görlitzer Platz,51.281776,7.219877
+670,55312,Wuppertal Görlitzer Platz,51.281773,7.220047
+671,113329,Wuppertal Görresweg,51.223427,7.151964
+672,162536,Wuppertal Görresweg,51.223335,7.152054
+673,218184,Wuppertal Görresweg,51.223335,7.152054
+674,284177,Wuppertal Görresweg,51.223427,7.151964
+675,300741,Wuppertal HELIOS Klinikum,51.273113,7.173658
+676,95571,Wuppertal HELIOS Klinikum,51.27301,7.173676
+677,22914,Wuppertal Haaner Straße,51.223907,7.055862
+678,86207,Wuppertal Haaner Straße,51.22353,7.055278
+679,36931,Wuppertal Haarhausen,51.29489,7.216023
+680,92002,Wuppertal Haarhausen,51.294846,7.21587
+681,200751,Wuppertal Habichtweg,51.252472,7.114091
+682,201388,Wuppertal Hagener Straße,51.280388,7.226318
+683,457313,Wuppertal Hagener Straße,51.280457,7.226273
+684,109681,Wuppertal Hahnenfurth,51.248966,7.04122
+685,29254,Wuppertal Hahnenfurth,51.248806,7.041525
+686,425939,Wuppertal Hahnenfurth,51.248966,7.04122
+687,431606,Wuppertal Hahnenfurth,51.248806,7.041525
+688,245893,Wuppertal Hahnerberg,51.22821,7.150383
+689,249807,Wuppertal Hahnerberg,51.22814,7.150257
+690,254176,Wuppertal Hahnerberg,51.22884,7.148856
+691,332252,Wuppertal Hahnerberg,51.229034,7.148506
+692,362350,Wuppertal Hahnerberg,51.22814,7.150257
+693,441706,Wuppertal Hahnerberg,51.22762,7.150626
+694,91759,Wuppertal Hahnerberg,51.22821,7.150383
+695,356880,Wuppertal Hainholz,51.262215,7.230351
+696,32829,Wuppertal Hainstraße Mitte,51.271683,7.130261
+697,407157,Wuppertal Hainstraße Mitte,51.27177,7.130126
+698,212037,Wuppertal Hamburger Treppe,51.27015,7.147464
+699,85017,Wuppertal Hamburger Treppe,51.270054,7.14714
+700,248335,Wuppertal Hammerstein,51.236343,7.088148
+701,3022,Wuppertal Hammerstein,51.235596,7.088534
+702,322401,Wuppertal Hammerstein,51.23606,7.087681
+703,39320,Wuppertal Hammerstein,51.236454,7.088624
+704,404821,Wuppertal Hammerstein,51.23612,7.087582
+705,19652,Wuppertal Hammerwerk,51.216133,7.042639
+706,25720,Wuppertal Hammerwerk,51.216232,7.043331
+707,106796,Wuppertal Hammesberger Weg,51.25843,7.229722
+708,228383,Wuppertal Hammesberger Weg,51.25843,7.229722
+709,41572,Wuppertal Hammesberger Weg,51.260105,7.231285
+710,84257,Wuppertal Hammesberger Weg,51.260105,7.231285
+711,274884,Wuppertal Handelstraße,51.279957,7.219113
+712,364520,Wuppertal Handelstraße,51.280205,7.218287
+713,53579,Wuppertal Handelstraße,51.279152,7.21888
+714,75880,Wuppertal Handelstraße,51.279152,7.21888
+715,88049,Wuppertal Handelstraße,51.280205,7.218287
+716,12580,Wuppertal Hannoverstraße,51.28994,7.240834
+717,129363,Wuppertal Hannoverstraße,51.290047,7.241284
+718,430706,Wuppertal Hannoverstraße,51.290234,7.241023
+719,253031,Wuppertal Hansastraße,51.26878,7.144158
+720,260727,Wuppertal Hansastraße,51.268795,7.143861
+721,14954,Wuppertal Hardenberger Hof,51.280514,7.12435
+722,248102,Wuppertal Hardenberger Hof,51.28111,7.124619
+723,291188,Wuppertal Hardenberger Hof,51.281197,7.124835
+724,318289,Wuppertal Hardenberger Hof,51.280804,7.122904
+725,260787,Wuppertal Hardtbacher Höhe,51.214657,7.297069
+726,78627,Wuppertal Hardtbacher Höhe,51.214245,7.295937
+727,82890,Wuppertal Hardtbacher Höhe,51.214245,7.295937
+728,207335,Wuppertal Harzstraße,51.2288,7.135866
+729,457666,Wuppertal Harzstraße,51.228943,7.135974
+730,326948,Wuppertal Hasnacken,51.235985,7.073155
+731,263023,Wuppertal Hastberger Mühle,51.225105,7.254588
+732,2856,Wuppertal Hastberger Mühle,51.225075,7.254489
+733,333751,Wuppertal Hatzenbeck,51.2399,7.145317
+734,56645,Wuppertal Hatzenbeck,51.240093,7.144975
+735,15867,Wuppertal Hatzfeld Wasserturm,51.293858,7.183962
+736,170141,Wuppertal Hatzfeld Wasserturm,51.293858,7.183962
+737,410907,Wuppertal Hatzfeld Wasserturm,51.29409,7.1838
+738,62886,Wuppertal Hatzfeld Wasserturm,51.29409,7.1838
+739,79433,Wuppertal Hatzfelder Str./BAB,51.280476,7.182785
+740,93532,Wuppertal Hatzfelder Str./BAB,51.280834,7.182695
+741,235893,Wuppertal Haubahn,51.25265,7.154605
+742,340375,Wuppertal Haubahn,51.253742,7.155512
+743,333248,Wuppertal Hauffstraße,51.269035,7.219167
+744,27845,Wuppertal Haus Kemna,51.25549,7.262735
+745,443416,Wuppertal Haus Kemna,51.255806,7.260957
+746,458298,Wuppertal Haus Kemna,51.255806,7.260957
+747,52194,Wuppertal Haus Kemna,51.25549,7.262735
+748,219205,Wuppertal Haus am Waldsee,51.28173,7.100257
+749,409558,Wuppertal Haus am Waldsee,51.28174,7.102251
+750,140661,Wuppertal Hbf,51.255047,7.150958
+751,215330,Wuppertal Hbf,51.255333,7.150859
+752,231362,Wuppertal Hbf,51.25486,7.151039
+753,246654,Wuppertal Hbf,51.255165,7.150895
+754,255031,Wuppertal Hbf,51.254986,7.150967
+755,255971,Wuppertal Hbf,51.25508,7.149323
+756,271635,Wuppertal Hbf,51.255165,7.150895
+757,322000,Wuppertal Hbf,51.255047,7.150958
+758,336328,Wuppertal Hbf,51.256126,7.150194
+759,451888,Wuppertal Hbf,51.256138,7.152898
+760,7246,Wuppertal Hbf,51.25596,7.148595
+761,73784,Wuppertal Hbf,51.25587,7.148209
+762,79918,Wuppertal Hbf,51.25508,7.149323
+763,146556,Wuppertal Hebbecke,51.26725,7.242191
+764,150336,Wuppertal Hebbecke,51.26734,7.242263
+765,177951,Wuppertal Heidt,51.189175,7.133315
+766,347377,Wuppertal Heidt,51.18862,7.13398
+767,235685,Wuppertal Heidter Berg,51.268044,7.209313
+768,318645,Wuppertal Heidter Berg,51.268127,7.209295
+769,331370,Wuppertal Heimatplan,51.244446,7.115484
+770,356764,Wuppertal Heimatplan,51.24412,7.11543
+771,123826,Wuppertal Heinrich-Bammel-Weg,51.23249,7.067325
+772,194369,Wuppertal Heistersfeld,51.24912,7.035246
+773,86023,Wuppertal Heistersfeld,51.24894,7.036019
+774,388960,Wuppertal Henselweg,51.25972,7.091229
+775,83384,Wuppertal Henselweg,51.260254,7.091984
+776,263863,Wuppertal Herbringh. Ortseing.,51.232845,7.261262
+777,414975,Wuppertal Herbringh. Ortseing.,51.232815,7.261361
+778,181551,Wuppertal Herbringhausen Schl.,51.23746,7.264514
+779,228088,Wuppertal Hermannshöhe,51.239056,7.157579
+780,321392,Wuppertal Hermannshöhe,51.23994,7.157264
+781,118215,Wuppertal Hermannstraße,51.28787,7.214882
+782,67845,Wuppertal Hermannstraße,51.2871,7.216822
+783,205811,Wuppertal Herzogbrücke,51.270447,7.205728
+784,451938,Wuppertal Herzogbrücke,51.270447,7.206663
+785,378632,Wuppertal Hesselnberg,51.25551,7.168655
+786,87656,Wuppertal Hesselnberg,51.25569,7.168834
+787,190190,Wuppertal Heubruch/Rathaus,51.27338,7.19997
+788,270220,Wuppertal Heubruch/Rathaus,51.27301,7.200743
+789,160347,Wuppertal Heusnerstraße,51.27365,7.179201
+790,178729,Wuppertal Heusnerstraße,51.273113,7.178923
+791,202776,Wuppertal Hildener Straße,51.224693,7.062438
+792,95687,Wuppertal Hildener Straße,51.224636,7.062447
+793,186787,Wuppertal Hilgershöhe,51.283703,7.234411
+794,226074,Wuppertal Hilgershöhe,51.283974,7.235319
+795,320570,Wuppertal Hindenburgstraße,51.244736,7.112456
+796,375761,Wuppertal Hindenburgstraße,51.245354,7.112402
+797,262443,Wuppertal Hinterdohr,51.21002,7.154174
+798,357226,Wuppertal Hinterdohr,51.208538,7.154228
+799,314068,Wuppertal Hoeschstraße,51.265965,7.222455
+800,408699,Wuppertal Hoeschstraße,51.266293,7.223003
+801,244261,Wuppertal Holthauser Heide,51.238625,7.05332
+802,18118,Wuppertal Holthauser Straße,51.22759,7.190232
+803,372302,Wuppertal Holthauser Straße,51.227646,7.190062
+804,251609,Wuppertal Holthauser Weg,51.248894,7.045855
+805,335631,Wuppertal Holthauser Weg,51.24882,7.045945
+806,135985,Wuppertal Horath,51.29758,7.181896
+807,336766,Wuppertal Horath,51.298046,7.181788
+808,80936,Wuppertal Horath,51.298046,7.181788
+809,93541,Wuppertal Horath,51.29758,7.181896
+810,107727,Wuppertal Horather Schanze,51.297344,7.173919
+811,16818,Wuppertal Hottenstein,51.293182,7.238166
+812,229203,Wuppertal Hottenstein,51.29284,7.237735
+813,320947,Wuppertal Hugostraße,51.280895,7.202764
+814,75100,Wuppertal Hugostraße,51.281025,7.202225
+815,429618,Wuppertal Huldastraße,51.280174,7.211118
+816,441077,Wuppertal Huldastraße,51.280872,7.211711
+817,435776,Wuppertal Höhe,51.214302,7.060174
+818,2014,Wuppertal Höhenstraße,51.297512,7.161244
+819,26723,Wuppertal Höhenstraße,51.296883,7.160857
+820,235796,Wuppertal Hölker Feld,51.296593,7.257274
+821,78590,Wuppertal Hölker Feld,51.29658,7.257435
+822,6261,Wuppertal Hölker Feld Mitte,51.294636,7.25669
+823,220227,Wuppertal Hölker Feld Schleife,51.299164,7.2596
+824,3545,Wuppertal Hölker Feld Schleife,51.29898,7.25978
+825,259739,Wuppertal Hölkesöhde,51.278545,7.270694
+826,322149,Wuppertal Hölkesöhde,51.278545,7.270694
+827,145271,Wuppertal Hügelstraße,51.28239,7.227476
+828,248905,Wuppertal Hügelstraße,51.282772,7.227836
+829,184462,Wuppertal Hütte,51.21976,7.200087
+830,204459,Wuppertal Hütte,51.219524,7.20068
+831,252964,Wuppertal Hütte,51.219524,7.20068
+832,375050,Wuppertal Hütte,51.21976,7.200087
+833,300662,Wuppertal Hütter Straße,51.208775,7.129839
+834,414357,Wuppertal Hütter Straße,51.208702,7.129937
+835,164213,Wuppertal IKEA / Drei Grenzen,51.30851,7.25192
+836,50579,Wuppertal IKEA / Drei Grenzen,51.30768,7.252243
+837,332783,Wuppertal Ibach,51.305202,7.146062
+838,418795,Wuppertal Ibach,51.30518,7.145838
+839,86697,Wuppertal Im Bökel,51.221256,7.199314
+840,170705,Wuppertal Im Disseltal,51.232613,7.202979
+841,179212,Wuppertal Im Disseltal,51.232834,7.20306
+842,332287,Wuppertal Im Hölken,51.291546,7.239226
+843,419682,Wuppertal Im Hölken,51.291634,7.238912
+844,119043,Wuppertal Im Johannistal,51.239223,7.153464
+845,276518,Wuppertal Im Johannistal,51.23952,7.15553
+846,298630,Wuppertal Im Johannistal,51.239365,7.15271
+847,440336,Wuppertal Im Johannistal,51.239223,7.153464
+848,448708,Wuppertal Im Johannistal,51.239365,7.15271
+849,246629,Wuppertal Im Ostersiepen,51.243633,7.148083
+850,427201,Wuppertal Im Ostersiepen,51.243633,7.148083
+851,59920,Wuppertal Im Rehsiepen,51.228592,7.221871
+852,168998,Wuppertal Im Saalscheid,51.22571,7.178545
+853,192796,Wuppertal Im Saalscheid,51.225525,7.17806
+854,273519,Wuppertal Im Springen,51.263157,7.191229
+855,87814,Wuppertal Im Springen,51.26307,7.190789
+856,45732,Wuppertal Im Vogelsiepen,51.219524,7.211046
+857,284924,Wuppertal Immenweg,51.29794,7.216104
+858,371396,Wuppertal Immenweg,51.29764,7.216221
+859,217346,Wuppertal In den Birken,51.277298,7.119445
+860,235938,Wuppertal In den Birken,51.27754,7.11984
+861,358156,Wuppertal In der Beek,51.267204,7.109878
+862,44872,Wuppertal In der Beek,51.26713,7.109671
+863,240668,Wuppertal In der Fleute,51.279324,7.261199
+864,308870,Wuppertal In der Fleute,51.279232,7.261244
+865,352833,Wuppertal In der Krim,51.22864,7.202306
+866,91677,Wuppertal In der Krim,51.228394,7.202306
+867,23305,Wuppertal In der Ossenbeck,51.241844,7.130243
+868,445195,Wuppertal In der Ossenbeck,51.241985,7.129758
+869,224737,Wuppertal Indu.Gebiet Blombach,51.235207,7.219455
+870,359420,Wuppertal Indu.Gebiet Blombach,51.23509,7.219481
+871,357981,Wuppertal Industrieg. Lüntenb.,51.2451,7.083548
+872,163384,Wuppertal Irenenstraße,51.248203,7.152665
+873,218380,Wuppertal Irenenstraße,51.248203,7.152665
+874,34447,Wuppertal Irenenstraße,51.247696,7.153078
+875,121161,Wuppertal Jesinghausen,51.282253,7.253519
+876,371366,Wuppertal Jugendherberge,51.26212,7.201928
+877,58762,Wuppertal Jugendherberge,51.26218,7.198155
+878,44650,Wuppertal Jul.-Lucas-Weg Nord,51.267002,7.115825
+879,456557,Wuppertal Jul.-Lucas-Weg Süd,51.264866,7.117621
+880,160910,Wuppertal Juliusstraße,51.26746,7.138696
+881,209147,Wuppertal Juliusstraße,51.26713,7.139469
+882,145780,Wuppertal Jung-Stilling-Weg,51.231117,7.147787
+883,193334,Wuppertal Jung-Stilling-Weg,51.23108,7.147688
+884,277715,Wuppertal Jung-Stilling-Weg,51.23108,7.147688
+885,70702,Wuppertal Jung-Stilling-Weg,51.231117,7.147787
+886,220321,Wuppertal Jägerhaus,51.239086,7.234915
+887,266765,Wuppertal Jägerhaus,51.23857,7.235543
+888,443971,Wuppertal Jägerhaus,51.239086,7.234915
+889,47997,Wuppertal Jägerhaus,51.23857,7.235543
+890,131279,Wuppertal Kaisergarten,51.217808,7.150536
+891,20915,Wuppertal Kaisergarten,51.21653,7.15006
+892,21352,Wuppertal Kaisergarten,51.217808,7.150536
+893,340469,Wuppertal Kaisergarten,51.217457,7.150347
+894,41988,Wuppertal Kaisergarten,51.217457,7.150347
+895,326210,Wuppertal Kampstraße,51.20893,7.143044
+896,449341,Wuppertal Kampstraße,51.208893,7.143179
+897,188883,Wuppertal Kapellen,51.24311,7.179354
+898,193365,Wuppertal Kapellen,51.24267,7.178168
+899,332443,Wuppertal Kapellen,51.242947,7.179219
+900,434591,Wuppertal Kapellen,51.242798,7.178168
+901,163263,Wuppertal Karl-Theodor-Straße,51.23644,7.149619
+902,232712,Wuppertal Karl-Theodor-Straße,51.23644,7.149619
+903,321682,Wuppertal Karl-Theodor-Straße,51.236626,7.149602
+904,337394,Wuppertal Karl-Theodor-Straße,51.236626,7.149602
+905,293938,Wuppertal Karlsplatz,51.260864,7.146323
+906,295984,Wuppertal Karlsplatz,51.260048,7.147643
+907,430006,Wuppertal Kastanienstraße,51.268986,7.181096
+908,423662,Wuppertal Katernb. Vereinshaus,51.273544,7.112456
+909,54343,Wuppertal Katernb. Vereinshaus,51.27364,7.113211
+910,100343,Wuppertal Kemnabrücke,51.254124,7.268925
+911,246918,Wuppertal Kemnabrücke,51.254017,7.268152
+912,274122,Wuppertal Kemnabrücke,51.254017,7.268152
+913,438757,Wuppertal Kemnabrücke,51.254124,7.268925
+914,22207,Wuppertal Kickersburg,51.291817,7.201488
+915,265369,Wuppertal Kickersburg,51.291817,7.201488
+916,33729,Wuppertal Kickersburg,51.292282,7.201398
+917,438536,Wuppertal Kickersburg,51.292282,7.201398
+918,143386,Wuppertal Kinderbusch,51.21909,7.048433
+919,280972,Wuppertal Kinderbusch,51.219093,7.048658
+920,320970,Wuppertal Kirchenfelder Weg,51.26079,7.072912
+921,366442,Wuppertal Kirchenfelder Weg,51.261364,7.072787
+922,207033,Wuppertal Kirchhofstraße,51.24322,7.098865
+923,353685,Wuppertal Kirchliche Hochsch.,51.264984,7.171017
+924,13425,Wuppertal Kleestraße,51.26891,7.221952
+925,160587,Wuppertal Kleinbracken,51.22544,7.074925
+926,402738,Wuppertal Kleinbracken,51.2252,7.075167
+927,458310,Wuppertal Kleine Flurstraße,51.273506,7.20209
+928,289954,Wuppertal Kleine Höhe,51.291317,7.101964
+929,36202,Wuppertal Kleine Höhe,51.291267,7.102269
+930,240590,Wuppertal Kleinenhammer,51.20288,7.152728
+931,362332,Wuppertal Kleinenhammer,51.202488,7.15297
+932,69586,Wuppertal Kleinenhammer,51.20288,7.152728
+933,85126,Wuppertal Kleinenhammer,51.202488,7.15297
+934,150133,Wuppertal Kleiner Werth,51.27391,7.205728
+935,118092,Wuppertal Klever Platz,51.244713,7.143987
+936,285338,Wuppertal Klever Platz,51.244156,7.143529
+937,140377,Wuppertal Klingelholl,51.28017,7.205935
+938,97968,Wuppertal Klingelholl,51.280884,7.205117
+939,113976,Wuppertal Klinik Bergisch Land,51.224503,7.174045
+940,275254,Wuppertal Klippe,51.272747,7.232516
+941,407328,Wuppertal Klippe,51.272747,7.232516
+942,413184,Wuppertal Klippe,51.272964,7.233432
+943,48239,Wuppertal Klippe,51.272964,7.233432
+944,120634,Wuppertal Kluse,51.256165,7.15615
+945,315065,Wuppertal Kluse,51.25556,7.154614
+946,50878,Wuppertal Kluse,51.255817,7.154434
+947,94207,Wuppertal Kluse,51.256226,7.158019
+948,99555,Wuppertal Kluse/Dessauerbrücke,51.255123,7.153913
+949,419389,Wuppertal Kluser Höhe,51.2526,7.159205
+950,84750,Wuppertal Kluser Höhe,51.2524,7.159016
+951,301930,Wuppertal Knappertsbuschweg,51.259605,7.124485
+952,86806,Wuppertal Knappertsbuschweg,51.259632,7.124781
+953,181404,Wuppertal Kneipsgasse,51.228165,7.192218
+954,336836,Wuppertal Kneipsgasse,51.228134,7.192541
+955,239246,Wuppertal Kohlenstraße,51.28081,7.245622
+956,358676,Wuppertal Kohlenstraße,51.2811,7.242047
+957,375097,Wuppertal Kohlenstraße,51.281475,7.243889
+958,53217,Wuppertal Kohlenstraße,51.280334,7.24432
+959,336034,Wuppertal Kohlfurther Brücke,51.19362,7.109761
+960,74715,Wuppertal Kohlfurther Brücke,51.19395,7.109591
+961,429665,Wuppertal Kohlstraße,51.273766,7.149916
+962,435879,Wuppertal Kohlstraße,51.27383,7.15032
+963,256014,Wuppertal Kommunalfriedhof,51.22981,7.214424
+964,173476,Wuppertal Konrad-Adenauer-Str.,51.28447,7.172122
+965,24076,Wuppertal Konrad-Adenauer-Str.,51.284225,7.171979
+966,49375,Wuppertal Konradshöhe,51.256577,7.220065
+967,223744,Wuppertal Konradshöhe Süd,51.254692,7.215978
+968,193821,Wuppertal Konradswüste,51.254894,7.221314
+969,301404,Wuppertal Kornstraße,51.238518,7.101488
+970,342155,Wuppertal Kornstraße,51.237923,7.102691
+971,84940,Wuppertal Kornstraße,51.23861,7.101631
+972,78662,Wuppertal Kortensbusch,51.23811,7.075868
+973,204182,Wuppertal Korzert,51.228558,7.139567
+974,270251,Wuppertal Korzert,51.22909,7.140969
+975,22585,Wuppertal Kottsiepen,51.21742,7.20686
+976,124256,Wuppertal Kratzkopfstraße,51.225418,7.206294
+977,138703,Wuppertal Kratzkopfstraße,51.225006,7.206779
+978,213109,Wuppertal Kratzkopfstraße,51.225006,7.206779
+979,389844,Wuppertal Kratzkopfstraße,51.224915,7.206537
+980,418403,Wuppertal Kratzkopfstraße,51.224915,7.206537
+981,5812,Wuppertal Kratzkopfstraße,51.224873,7.207094
+982,78190,Wuppertal Kratzkopfstraße,51.224754,7.207246
+983,139186,Wuppertal Kreuzstraße,51.285316,7.22161
+984,285669,Wuppertal Kreuzstraße,51.28528,7.22188
+985,179879,Wuppertal Krummacherstraße,51.255936,7.094912
+986,387984,Wuppertal Krummacherstraße,51.255974,7.095047
+987,15103,Wuppertal Krutscheider Weg,51.230076,7.060776
+988,45221,Wuppertal Krutscheider Weg,51.22969,7.06021
+989,198962,Wuppertal Kuchhausen,51.207035,7.141651
+990,385015,Wuppertal Kuchhausen,51.207058,7.142137
+991,16890,Wuppertal Kuckelsberg,51.27323,7.123793
+992,179951,Wuppertal Kuckelsberg,51.2737,7.12302
+993,45451,Wuppertal Kuckelsberg,51.27366,7.122535
+994,213473,Wuppertal Kupferhammer,51.25306,7.227117
+995,242937,Wuppertal Kupferhammer,51.25306,7.227117
+996,367295,Wuppertal Kupferhammer,51.252712,7.226533
+997,68635,Wuppertal Kupferhammer,51.252712,7.226533
+998,457415,Wuppertal Kurfürstenstraße,51.23281,7.195793
+999,300846,Wuppertal Kurvenstraße,51.247974,7.28761
+1000,422708,Wuppertal Kurvenstraße,51.247974,7.28761
+1001,174463,Wuppertal Kyffhäuserstraße,51.251583,7.113642
+1002,30422,Wuppertal Kyffhäuserstraße,51.251682,7.11384
+1003,207901,Wuppertal Königsberger Straße,51.286102,7.227018
+1004,247607,Wuppertal Königsberger Straße,51.286064,7.227099
+1005,125180,Wuppertal Laaken,51.255558,7.251264
+1006,191136,Wuppertal Laaken,51.25558,7.250842
+1007,349722,Wuppertal Laaken,51.25558,7.250842
+1008,406908,Wuppertal Laaken,51.255558,7.251264
+1009,381681,Wuppertal Ladestraße,51.25411,7.061782
+1010,44770,Wuppertal Lahmburger Straße,51.292244,7.215762
+1011,4748,Wuppertal Lahmburger Straße,51.291996,7.216589
+1012,97389,Wuppertal Lahmburger Straße,51.292614,7.218296
+1013,232288,Wuppertal Landeseinrichtungen,51.238304,7.210947
+1014,169639,Wuppertal Landgericht,51.25727,7.164316
+1015,22659,Wuppertal Landgericht,51.2581,7.162573
+1016,402372,Wuppertal Landgericht,51.256863,7.162573
+1017,404827,Wuppertal Landgericht,51.25804,7.162277
+1018,409339,Wuppertal Landheim,51.297787,7.210687
+1019,452054,Wuppertal Landheim,51.297344,7.21084
+1020,112314,Wuppertal Landwehrplatz,51.273594,7.19308
+1021,327970,Wuppertal Landwehrplatz,51.273163,7.193215
+1022,308521,Wuppertal Langerfeld Bf,51.27754,7.243835
+1023,332353,Wuppertal Langerfeld Bf,51.278053,7.243547
+1024,397513,Wuppertal Langerfeld Bf,51.277985,7.243691
+1025,105246,Wuppertal Langerfeld Güterbf,51.281666,7.249862
+1026,56665,Wuppertal Langerfeld Güterbf,51.28212,7.251057
+1027,109368,Wuppertal Langerfeld Markt,51.274303,7.243871
+1028,126656,Wuppertal Langerfeld Markt,51.274506,7.243943
+1029,142638,Wuppertal Langerfeld Markt,51.275524,7.244113
+1030,195939,Wuppertal Langerfeld Markt,51.274303,7.243871
+1031,227030,Wuppertal Langerfeld Markt,51.274693,7.243457
+1032,270768,Wuppertal Langerfeld Markt,51.274506,7.243943
+1033,124802,Wuppertal Leibuschstraße,51.271667,7.231627
+1034,348809,Wuppertal Leibuschstraße,51.27117,7.232229
+1035,391057,Wuppertal Leibuschstraße,51.27117,7.232229
+1036,65585,Wuppertal Leibuschstraße,51.271667,7.231627
+1037,14227,Wuppertal Leimbach,51.279354,7.193403
+1038,307172,Wuppertal Leimbach,51.28008,7.192478
+1039,397048,Wuppertal Leimbach,51.279957,7.193179
+1040,99209,Wuppertal Leimbach,51.280468,7.193628
+1041,381230,Wuppertal Leipziger Straße,51.276077,7.154048
+1042,438044,Wuppertal Leipziger Straße,51.276,7.154228
+1043,111004,Wuppertal Lenneper Straße,51.266754,7.234133
+1044,258576,Wuppertal Lenneper Straße,51.267876,7.233612
+1045,418648,Wuppertal Lenneper Straße,51.267014,7.233253
+1046,71156,Wuppertal Lenneper Straße,51.266754,7.234133
+1047,386758,Wuppertal Lentzestraße,51.281086,7.20872
+1048,260039,Wuppertal Lenzhaus,51.199814,7.131438
+1049,340701,Wuppertal Lenzhaus,51.199337,7.131456
+1050,132605,Wuppertal Lienhardplatz,51.23173,7.070253
+1051,282509,Wuppertal Lienhardplatz,51.23218,7.070424
+1052,29097,Wuppertal Lienhardplatz,51.23173,7.070253
+1053,327440,Wuppertal Lienhardplatz,51.23218,7.070424
+1054,35855,Wuppertal Lienhardplatz,51.23218,7.070424
+1055,41310,Wuppertal Lienhardplatz,51.23173,7.070253
+1056,422449,Wuppertal Lienhardplatz,51.23218,7.070424
+1057,75186,Wuppertal Lienhardplatz,51.23173,7.070253
+1058,150056,"Wuppertal Linde,Postamt",51.2308,7.235454
+1059,24677,"Wuppertal Linde,Postamt",51.231133,7.235337
+1060,311572,"Wuppertal Linde,Postamt",51.2308,7.235454
+1061,398017,"Wuppertal Linde,Postamt",51.231133,7.235337
+1062,3558,Wuppertal Linderhauser Straße,51.29525,7.249297
+1063,405821,Wuppertal Linderhauser Straße,51.295486,7.249207
+1064,201115,Wuppertal Linienstraße,51.270172,7.22603
+1065,33226,Wuppertal Loher Bahnhof,51.26853,7.17435
+1066,3848,Wuppertal Loher Bahnhof,51.268543,7.173362
+1067,137628,Wuppertal Loher Brücke,51.267204,7.181213
+1068,229102,Wuppertal Loher Brücke,51.26743,7.180818
+1069,245244,Wuppertal Loher Brücke,51.26712,7.181573
+1070,438440,Wuppertal Loher Brücke,51.26731,7.18071
+1071,113007,Wuppertal Loher Straße,51.265102,7.184196
+1072,293130,Wuppertal Loher Straße,51.265205,7.183648
+1073,216034,Wuppertal Lohsiepenstraße,51.23214,7.209852
+1074,412382,Wuppertal Lohsiepenstraße,51.231487,7.209169
+1075,71173,Wuppertal Lohsiepenstraße,51.231247,7.210364
+1076,233925,Wuppertal Ludgerweg,51.219227,7.049754
+1077,111065,Wuppertal Ludwigstraße,51.262665,7.147787
+1078,396509,Wuppertal Ludwigstraße,51.26313,7.147706
+1079,118908,Wuppertal Luhnsfelder Höhe,51.23049,7.188175
+1080,321640,Wuppertal Luhnsfelder Höhe,51.230213,7.187888
+1081,368104,Wuppertal Lutherstift,51.257935,7.136405
+1082,28784,Wuppertal Lönsstraße,51.265007,7.21075
+1083,269516,Wuppertal Löwer,51.249523,7.113121
+1084,373116,Wuppertal Löwer,51.249332,7.112061
+1085,432719,Wuppertal Lüntenbeck Ort,51.2487,7.081815
+1086,120981,Wuppertal Lüttringhauser Str.,51.225952,7.203384
+1087,127277,Wuppertal Lüttringhauser Str.,51.226616,7.202836
+1088,144206,Wuppertal Lüttringhauser Str.,51.225697,7.20112
+1089,246163,Wuppertal Lüttringhauser Str.,51.226616,7.202836
+1090,318554,Wuppertal Lüttringhauser Str.,51.225952,7.203384
+1091,8701,Wuppertal Lützowstraße,51.23459,7.081195
+1092,117656,Wuppertal Mahnmal,51.25569,7.255342
+1093,141587,Wuppertal Mahnmal,51.255642,7.255513
+1094,257517,Wuppertal Mahnmal,51.255642,7.255513
+1095,338707,Wuppertal Mahnmal,51.25569,7.255342
+1096,362396,Wuppertal Marienstraße,51.261612,7.139037
+1097,435516,Wuppertal Marienstraße,51.261692,7.139163
+1098,115459,Wuppertal Markland,51.292377,7.206339
+1099,325808,Wuppertal Markland,51.292145,7.205836
+1100,233535,Wuppertal Marklandstraße,51.29204,7.202961
+1101,361420,Wuppertal Marklandstraße,51.291756,7.203698
+1102,430717,Wuppertal Marper Schulweg,51.25017,7.19317
+1103,439818,Wuppertal Marper Schulweg,51.249866,7.192837
+1104,245300,Wuppertal Mastweg,51.207047,7.156402
+1105,297558,Wuppertal Mastweg Mitte,51.20605,7.155423
+1106,380907,Wuppertal Max-Horkheimer-Str.,51.247894,7.148101
+1107,397913,Wuppertal Max-Horkheimer-Str.,51.247894,7.148101
+1108,172445,Wuppertal Meckelstraße,51.26282,7.187546
+1109,384176,Wuppertal Meckelstraße,51.26259,7.186819
+1110,199292,Wuppertal Mensa,51.24594,7.146134
+1111,75091,Wuppertal Mensa,51.24594,7.146134
+1112,410569,Wuppertal Menzelstraße Nord,51.267727,7.125024
+1113,46298,Wuppertal Menzelstraße Süd,51.26637,7.12294
+1114,150147,Wuppertal Mettmanner Straße,51.255016,7.099404
+1115,402807,Wuppertal Mettmanner Straße,51.25504,7.099718
+1116,216807,Wuppertal Metzmachersrath,51.279877,7.132632
+1117,376344,Wuppertal Metzmachersrath,51.27976,7.132372
+1118,253690,Wuppertal Mirker Bahnhof,51.26622,7.143529
+1119,121970,Wuppertal Mirker Hain,51.278072,7.140268
+1120,423755,Wuppertal Mirker Hain,51.277866,7.140223
+1121,29131,Wuppertal Mohrhennsfeld,51.228085,7.218889
+1122,259144,Wuppertal Monhofsfeld,51.234474,7.203078
+1123,380578,Wuppertal Monhofsfeld,51.2344,7.202692
+1124,152124,Wuppertal Monschaustraße,51.230297,7.191912
+1125,295992,Wuppertal Monschaustraße,51.23048,7.191454
+1126,143846,Wuppertal Morianstraße,51.258118,7.148362
+1127,171469,Wuppertal Möddinghofe,51.2938,7.250967
+1128,182391,Wuppertal Möddinghofe,51.293472,7.251237
+1129,274168,Wuppertal Mörikestraße,51.26638,7.216984
+1130,411795,Wuppertal Mörikestraße,51.265636,7.216113
+1131,298488,Wuppertal Mühle,51.215313,7.202494
+1132,312419,Wuppertal Mühlenweg,51.27365,7.205216
+1133,75150,Wuppertal Mühlenweg,51.274326,7.202961
+1134,366496,Wuppertal Müngstener Straße,51.247097,7.187457
+1135,85874,Wuppertal Müngstener Straße,51.247395,7.187439
+1136,353106,Wuppertal Münzstraße,51.277424,7.202988
+1137,157368,Wuppertal Nathrather Straße,51.23611,7.067612
+1138,187468,Wuppertal Nathrather Straße,51.234154,7.068232
+1139,216329,Wuppertal Nathrather Straße,51.23504,7.069373
+1140,247082,Wuppertal Nathrather Straße,51.23611,7.067612
+1141,266180,Wuppertal Nathrather Straße,51.236084,7.067487
+1142,272451,Wuppertal Nathrather Straße,51.236084,7.067487
+1143,288849,Wuppertal Nathrather Straße,51.236084,7.067487
+1144,323423,Wuppertal Nathrather Straße,51.23611,7.067612
+1145,352990,Wuppertal Nathrather Straße,51.23459,7.067846
+1146,254887,Wuppertal Neckarstraße,51.247097,7.143367
+1147,83253,Wuppertal Neckarstraße,51.246933,7.143188
+1148,397523,Wuppertal Nettenberg,51.196667,7.131123
+1149,93506,Wuppertal Nettenberg,51.197033,7.131312
+1150,295698,Wuppertal Neu Amerika,51.230003,7.038462
+1151,368614,Wuppertal Neu-Dornap,51.242855,7.057111
+1152,291037,Wuppertal Neuenhaus,51.220524,7.152153
+1153,32825,Wuppertal Neuenhaus,51.221386,7.152198
+1154,399445,Wuppertal Neuenhaus,51.221386,7.152198
+1155,74962,Wuppertal Neuenhaus,51.220524,7.152153
+1156,265890,Wuppertal Neuenteich,51.258095,7.154452
+1157,334629,Wuppertal Neuenteich,51.259308,7.15333
+1158,439710,Wuppertal Neuenteich,51.259163,7.153473
+1159,209740,Wuppertal Neukuchhausen,51.211403,7.140475
+1160,47161,Wuppertal Neukuchhausen,51.211132,7.140349
+1161,134738,Wuppertal Niederfurth,51.247433,7.039576
+1162,149640,Wuppertal Niederradenberg,51.265316,7.073424
+1163,192163,Wuppertal Niederradenberg,51.265766,7.073263
+1164,108791,Wuppertal Niedersondern,51.233925,7.282516
+1165,420213,Wuppertal Niedersondern,51.234093,7.282642
+1166,441541,Wuppertal Niedersondern,51.234093,7.282642
+1167,450466,Wuppertal Niedersondern,51.233925,7.282516
+1168,276670,Wuppertal Norkshäuschen,51.28287,7.159501
+1169,300779,Wuppertal Norkshäuschen,51.282406,7.159582
+1170,16708,Wuppertal Nächstebreck Bruch,51.29817,7.246718
+1171,301050,Wuppertal Nächstebreck Bruch,51.29814,7.247069
+1172,47898,Wuppertal Ob. Stiller Winkel,51.26606,7.123586
+1173,248676,Wuppertal Oberbarm.Bf / Rauental,51.27385,7.224952
+1174,272094,Wuppertal Oberbarm.Bf / Rauental,51.27327,7.224081
+1175,289708,Wuppertal Oberbarm.Bf / Rauental,51.27327,7.224081
+1176,349827,Wuppertal Oberbarm.Bf / Rauental,51.27385,7.224952
+1177,128397,Wuppertal Oberbarmen Bf,51.27467,7.222428
+1178,128812,Wuppertal Oberbarmen Bf,51.274616,7.222635
+1179,150040,Wuppertal Oberbarmen Bf,51.274544,7.221889
+1180,171992,Wuppertal Oberbarmen Bf,51.275368,7.221521
+1181,219416,Wuppertal Oberbarmen Bf,51.27429,7.222347
+1182,229507,Wuppertal Oberbarmen Bf,51.27477,7.222096
+1183,255474,Wuppertal Oberbarmen Bf,51.27448,7.221916
+1184,289329,Wuppertal Oberbarmen Bf,51.27429,7.222347
+1185,393248,Wuppertal Oberbarmen Bf,51.27448,7.221916
+1186,421099,Wuppertal Oberbarmen Bf,51.27448,7.221916
+1187,64859,Wuppertal Oberbarmen Bf,51.274544,7.221889
+1188,8090,Wuppertal Oberbarmen Bf,51.275246,7.22206
+1189,169130,Wuppertal Oberdahl,51.217266,7.154165
+1190,192966,Wuppertal Obere Engelshöhe,51.215393,7.062106
+1191,241114,Wuppertal Obere Engelshöhe,51.215736,7.060614
+1192,224028,Wuppertal Obere Kohlstraße,51.283127,7.151722
+1193,333922,Wuppertal Obere Kohlstraße,51.283142,7.150671
+1194,102604,Wuppertal Obere Rutenbeck,51.2278,7.129785
+1195,126893,Wuppertal Obere Vogelsangstr.,51.28086,7.14299
+1196,458192,Wuppertal Obere Vogelsangstr.,51.28094,7.143475
+1197,258008,Wuppertal Oberheidt,51.18571,7.136953
+1198,8993,Wuppertal Oberheidt,51.185677,7.13689
+1199,347616,Wuppertal Oberhoffsfeld,51.225365,7.21949
+1200,427488,Wuppertal Oberhoffsfeld,51.226128,7.220173
+1201,243529,Wuppertal Oberkamper Straße,51.209827,7.144445
+1202,401938,Wuppertal Oberkamper Straße,51.209885,7.144544
+1203,27307,Wuppertal Oberwall,51.268166,7.216715
+1204,64769,Wuppertal Oberwall,51.268143,7.216589
+1205,137504,Wuppertal Odenwaldweg,51.230145,7.134213
+1206,372307,Wuppertal Odenwaldweg,51.229282,7.133908
+1207,188301,Wuppertal Ohligsmühle,51.25535,7.142415
+1208,203023,Wuppertal Ohligsmühle,51.2554,7.142864
+1209,326778,Wuppertal Oststraße,51.284306,7.218511
+1210,36972,Wuppertal Oststraße,51.28458,7.219194
+1211,199331,Wuppertal Ottenbrucher Bahnhof,51.262466,7.12285
+1212,247780,Wuppertal Ottenbrucher Bahnhof,51.262505,7.123002
+1213,191223,Wuppertal Otto-Böhne-Platz,51.25912,7.136693
+1214,273269,Wuppertal Otto-Hahn-Straße,51.234055,7.214882
+1215,412468,Wuppertal Otto-Hahn-Straße,51.23415,7.214244
+1216,314050,Wuppertal Otto-Hausmann-Ring,51.2614,7.118017
+1217,420260,Wuppertal Otto-Hausmann-Ring,51.261314,7.118906
+1218,152714,Wuppertal Otto-Kreitz-Straße,51.222504,7.203456
+1219,232479,Wuppertal Otto-Kreitz-Straße,51.22242,7.203572
+1220,218345,Wuppertal Pahlkestraße,51.26956,7.105845
+1221,269264,Wuppertal Pahlkestraße,51.269753,7.106842
+1222,217981,Wuppertal Parkstraße,51.236713,7.194948
+1223,330816,Wuppertal Parkstraße,51.237362,7.194652
+1224,219100,Wuppertal Paul-Gerhardt-Straße,51.281017,7.255019
+1225,396119,Wuppertal Paul-Gerhardt-Straße,51.280804,7.255001
+1226,294387,Wuppertal Paul-Hanisch-Haus,51.248096,7.106698
+1227,119709,Wuppertal Pestalozzistraße,51.249546,7.124754
+1228,157956,Wuppertal Pestalozzistraße,51.24934,7.124548
+1229,17761,Wuppertal Pestalozzistraße,51.24868,7.125616
+1230,360599,Wuppertal Pestalozzistraße,51.248608,7.125257
+1231,183816,Wuppertal Petrus-Krankenhaus,51.275055,7.191355
+1232,273911,Wuppertal Petrus-Krankenhaus,51.274906,7.191274
+1233,346654,Wuppertal Pickartsberg,51.233887,7.102045
+1234,390354,Wuppertal Pickartsberg,51.233738,7.102242
+1235,190156,Wuppertal Polizeipräsidium,51.262657,7.176497
+1236,307724,Wuppertal Polizeipräsidium,51.26278,7.176479
+1237,228579,Wuppertal Posener Straße,51.27693,7.183369
+1238,431763,Wuppertal Posener Straße,51.276623,7.183576
+1239,112858,Wuppertal Pülsöhde,51.2768,7.263113
+1240,156942,Wuppertal Pülsöhde,51.277027,7.263634
+1241,252380,Wuppertal Pülsöhde,51.2768,7.263113
+1242,99090,Wuppertal Pülsöhde,51.277027,7.263634
+1243,354555,Wuppertal Rabenweg,51.253826,7.115879
+1244,121779,Wuppertal Rainer-Gruenter-Str.,51.2395,7.163031
+1245,386713,Wuppertal Rainer-Gruenter-Str.,51.23914,7.16216
+1246,123315,Wuppertal Rathenaustraße,51.28074,7.214577
+1247,311004,Wuppertal Rathenaustraße,51.280006,7.214074
+1248,247940,Wuppertal Rauentaler Bergstr.,51.273388,7.22851
+1249,325950,Wuppertal Rauentaler Bergstr.,51.27296,7.228617
+1250,3281,Wuppertal Rauentaler Bergstr.,51.273388,7.22851
+1251,346232,Wuppertal Rauentaler Bergstr.,51.27318,7.228815
+1252,359383,Wuppertal Rauentaler Bergstr.,51.2738,7.228204
+1253,403671,Wuppertal Rauentaler Bergstr.,51.27318,7.228815
+1254,78854,Wuppertal Rauentaler Bergstr.,51.27296,7.228617
+1255,90103,Wuppertal Rauentaler Bergstr.,51.2738,7.228204
+1256,180865,Wuppertal Raukamp Schleife,51.28592,7.173856
+1257,196080,Wuppertal Raukamp Schleife,51.286053,7.173587
+1258,290654,Wuppertal Raukamp Schleife,51.285812,7.173802
+1259,329897,Wuppertal Raukamp Schleife,51.285934,7.173721
+1260,235393,Wuppertal Ravensberger Straße,51.242664,7.142882
+1261,307479,Wuppertal Ravensberger Straße,51.242447,7.142711
+1262,17276,Wuppertal Reformierte Kirche,51.229694,7.196188
+1263,394101,Wuppertal Reformierte Kirche,51.229767,7.19635
+1264,107728,Wuppertal Reichsallee,51.262337,7.161576
+1265,264080,Wuppertal Reichsallee,51.26236,7.161657
+1266,210990,Wuppertal Reiterstraße,51.259212,7.140924
+1267,228325,Wuppertal Remigiushaus,51.239212,7.097894
+1268,8729,Wuppertal Remigiushaus,51.239063,7.097742
+1269,291649,Wuppertal Rennbaumer Straße,51.21995,7.154722
+1270,286053,Wuppertal Resedastraße,51.220604,7.207094
+1271,267244,Wuppertal Rheinbach,51.191116,7.143268
+1272,289845,Wuppertal Rheinbach,51.191036,7.143259
+1273,154075,Wuppertal Rheinische Straße,51.290627,7.235759
+1274,407485,Wuppertal Rheinische Straße,51.29071,7.235651
+1275,170419,Wuppertal Rhönstraße,51.232704,7.136244
+1276,403821,Wuppertal Rhönstraße,51.232517,7.136235
+1277,256181,Wuppertal Richter,51.263058,7.108638
+1278,27685,Wuppertal Richter,51.26269,7.109168
+1279,195231,Wuppertal Robert-Daum-Platz,51.252415,7.134501
+1280,273616,Wuppertal Robert-Daum-Platz,51.25239,7.134177
+1281,373693,Wuppertal Robert-Daum-Platz,51.253403,7.135004
+1282,430289,Wuppertal Robert-Daum-Platz,51.253136,7.134941
+1283,130095,Wuppertal Roeberstraße,51.244385,7.113786
+1284,450704,Wuppertal Roeberstraße,51.244408,7.113902
+1285,21315,Wuppertal Ronsdorf Bf,51.2261,7.214298
+1286,51942,Wuppertal Ronsdorf Bf,51.225964,7.214181
+1287,59627,Wuppertal Ronsdorf Bf,51.2261,7.214298
+1288,102942,Wuppertal Ronsdorf Markt,51.227352,7.19688
+1289,123783,Wuppertal Ronsdorf Markt,51.227146,7.197149
+1290,210379,Wuppertal Ronsdorf Markt,51.227173,7.198209
+1291,229145,Wuppertal Ronsdorf Markt,51.227146,7.197149
+1292,262940,Wuppertal Ronsdorf Markt,51.227173,7.198209
+1293,224621,Wuppertal Ronsdorfer Anlagen,51.237175,7.205585
+1294,419031,Wuppertal Ronsdorfer Anlagen,51.236797,7.207067
+1295,55191,Wuppertal Ronsdorfer Talsperre,51.220215,7.19175
+1296,122094,Wuppertal Roonstraße,51.253593,7.13053
+1297,327757,Wuppertal Roonstraße,51.25345,7.129794
+1298,425876,Wuppertal Roseggerstraße,51.267097,7.219616
+1299,95871,Wuppertal Roseggerstraße,51.267048,7.219616
+1300,347615,Wuppertal Rosenstraße,51.27119,7.184681
+1301,265944,Wuppertal Rostocker Straße,51.26961,7.13424
+1302,392000,Wuppertal Rostocker Straße,51.269436,7.133926
+1303,76624,Wuppertal Rotter Platz,51.27322,7.186253
+1304,92396,Wuppertal Rotter Platz,51.273285,7.186181
+1305,315247,Wuppertal Rottsieper Höhe,51.194496,7.130548
+1306,383006,Wuppertal Rottsieper Höhe,51.19469,7.130755
+1307,123116,Wuppertal Roßkamper Höhe,51.219982,7.079704
+1308,213990,Wuppertal Roßkamper Höhe,51.220238,7.080521
+1309,455156,Wuppertal Roßkamper Höhe,51.219975,7.079874
+1310,105645,Wuppertal Roßkamper Straße,51.218395,7.071466
+1311,203496,Wuppertal Roßkamper Straße,51.218727,7.072176
+1312,342952,Wuppertal Roßkamper Straße,51.21838,7.071574
+1313,73567,Wuppertal Roßkamper Straße,51.218697,7.072679
+1314,116656,Wuppertal Rubensstraße,51.22831,7.068475
+1315,445786,Wuppertal Rubensstraße,51.227962,7.068493
+1316,144568,Wuppertal Rudolf-Ziersch-Str.,51.256187,7.196853
+1317,246778,Wuppertal Rudolf-Ziersch-Str.,51.2563,7.196125
+1318,125305,Wuppertal Rudolfstraße,51.269554,7.178186
+1319,278794,Wuppertal Rudolfstraße,51.26923,7.178312
+1320,5643,Wuppertal Röpkestraße,51.250317,7.106437
+1321,297152,Wuppertal Röttgen,51.28467,7.156698
+1322,436286,Wuppertal Röttgen,51.284485,7.15598
+1323,13021,Wuppertal Rückertweg,51.26167,7.095289
+1324,58321,Wuppertal Rückertweg,51.261078,7.094634
+1325,208134,Wuppertal Samoastraße,51.28494,7.232821
+1326,29997,Wuppertal Samoastraße,51.284653,7.233082
+1327,175639,Wuppertal Sanderstraße,51.27289,7.17824
+1328,20512,Wuppertal Sanderstraße,51.273033,7.177638
+1329,256957,Wuppertal Sandfeld,51.254696,7.081042
+1330,379072,Wuppertal Sandfeld,51.254707,7.081321
+1331,164768,Wuppertal Sandhof,51.24295,7.156599
+1332,304201,Wuppertal Sandhof,51.242756,7.155557
+1333,304283,Wuppertal Sandhof,51.24316,7.154884
+1334,420093,Wuppertal Sandhof,51.243507,7.155108
+1335,207824,Wuppertal Saurenhaus,51.255936,7.083737
+1336,243287,Wuppertal Saurenhaus,51.25631,7.08442
+1337,26159,Wuppertal Scharpenacker Weg,51.246082,7.191858
+1338,58886,Wuppertal Scharpenacker Weg,51.246212,7.192038
+1339,127670,Wuppertal Schaumlöffel,51.294956,7.20085
+1340,231067,Wuppertal Schaumlöffel,51.29569,7.201892
+1341,24816,Wuppertal Schaumlöffel,51.29507,7.20209
+1342,27779,Wuppertal Schaumlöffel,51.294956,7.20085
+1343,390089,Wuppertal Schaumlöffel,51.29569,7.201892
+1344,405003,Wuppertal Schaumlöffel,51.29507,7.20209
+1345,438397,Wuppertal Schaumlöffel,51.294994,7.20085
+1346,70600,Wuppertal Schaumlöffel,51.294994,7.20085
+1347,285362,Wuppertal Schellenbeck Autob.,51.295437,7.211199
+1348,319527,Wuppertal Schellenbeck Autob.,51.295475,7.211289
+1349,117836,Wuppertal Schenkstraße,51.222633,7.206034
+1350,209408,Wuppertal Schenkstraße,51.222363,7.20527
+1351,136096,Wuppertal Schimmelsburg,51.28861,7.216715
+1352,72992,Wuppertal Schimmelsburg,51.289333,7.215825
+1353,351643,Wuppertal Schlangenweg/WSW,51.2772,7.19255
+1354,175106,Wuppertal Schlehenweg,51.243202,7.050293
+1355,14724,Wuppertal Schleswiger Straße,51.266502,7.147688
+1356,376077,Wuppertal Schleswiger Straße,51.266407,7.147832
+1357,235919,Wuppertal Schliepershäuschen,51.256184,7.091283
+1358,4297,Wuppertal Schliepershäuschen,51.255966,7.091265
+1359,422859,Wuppertal Schlieperstraße,51.259274,7.157309
+1360,895,Wuppertal Schlieperstraße,51.259167,7.157614
+1361,187139,Wuppertal Schloss Lüntenbeck,51.24953,7.082776
+1362,205630,Wuppertal Schmiedestraße,51.312737,7.249045
+1363,291754,Wuppertal Schmiedestraße,51.31113,7.248982
+1364,381742,Wuppertal Schmiedestraße,51.311207,7.249108
+1365,452926,Wuppertal Schmitteborn,51.2626,7.239738
+1366,1547,Wuppertal Schnurstraße,51.271255,7.218835
+1367,298116,Wuppertal Schnurstraße,51.271076,7.217811
+1368,4422,Wuppertal Schreinerstraße,51.26047,7.138633
+1369,111061,Wuppertal Schreinersweg,51.24569,7.153428
+1370,251054,Wuppertal Schreinersweg,51.24517,7.154165
+1371,456748,Wuppertal Schreinersweg,51.24569,7.153428
+1372,31289,Wuppertal Schuchardplatz,51.25802,7.221637
+1373,348788,Wuppertal Schuchardplatz,51.25811,7.221835
+1374,417937,Wuppertal Schule Echoer Straße,51.21951,7.1982
+1375,108881,Wuppertal Schule Hombüchel,51.258347,7.138148
+1376,92994,Wuppertal Schule Hügelstraße,51.276012,7.224665
+1377,455298,Wuppertal Schulweg,51.21319,7.151847
+1378,88399,Wuppertal Schulweg,51.2131,7.151748
+1379,140201,Wuppertal Schulzentr. Kothen,51.25863,7.180423
+1380,171888,Wuppertal Schulzentrum Süd,51.22999,7.143601
+1381,182300,Wuppertal Schulzentrum Süd,51.229954,7.143053
+1382,237047,Wuppertal Schulzentrum Süd,51.230038,7.143897
+1383,256749,Wuppertal Schulzentrum Süd,51.22999,7.143223
+1384,331186,Wuppertal Schulzentrum Süd,51.230064,7.14317
+1385,454538,Wuppertal Schulzentrum Süd,51.22981,7.142595
+1386,455407,Wuppertal Schulzentrum Süd,51.2299,7.142927
+1387,175047,Wuppertal Schulzentrum West,51.231007,7.077691
+1388,336616,Wuppertal Schulzentrum West,51.230698,7.077539
+1389,16645,Wuppertal Schwalbenstraße,51.27763,7.194032
+1390,337702,Wuppertal Schwalbenstraße,51.277534,7.193897
+1391,137499,Wuppertal Schwartnerstraße,51.28579,7.190565
+1392,383105,Wuppertal Schwarzwaldhaus,51.234364,7.13831
+1393,66174,Wuppertal Schwarzwaldhaus,51.2341,7.138103
+1394,274431,Wuppertal Schöller Bürgerhaus,51.244316,7.029173
+1395,40199,Wuppertal Schöller Friedhof,51.2457,7.033117
+1396,148291,Wuppertal Schönebecker Straße,51.27581,7.181034
+1397,406724,Wuppertal Schönebecker Straße,51.275314,7.180755
+1398,176492,Wuppertal Schützenstraße/WSW,51.279053,7.185884
+1399,56748,Wuppertal Schützenstraße/WSW,51.278984,7.185274
+1400,229599,Wuppertal Scottweg,51.216232,7.045981
+1401,400206,Wuppertal Sedanstraße,51.274727,7.194481
+1402,4379,Wuppertal Selfkantweg,51.240265,7.072203
+1403,42823,Wuppertal Siedlung Bremkamp,51.2223,7.053877
+1404,441372,Wuppertal Siedlung Bremkamp,51.22231,7.054057
+1405,147543,Wuppertal Siedlungsstraße,51.280876,7.195047
+1406,353826,Wuppertal Siegelberg,51.2425,7.283442
+1407,104907,Wuppertal Siegesstraße,51.26523,7.190834
+1408,387788,Wuppertal Siegesstraße,51.265255,7.191149
+1409,249247,Wuppertal Silberkuhle,51.295074,7.240331
+1410,266522,Wuppertal Silberkuhle,51.29519,7.240322
+1411,338029,Wuppertal Simonshöfchen,51.227345,7.053239
+1412,46549,Wuppertal Simonshöfchen,51.227505,7.053203
+1413,153038,Wuppertal Simonshöfchen Mitte,51.226936,7.049727
+1414,350915,Wuppertal Simonshöfchen Mitte,51.22703,7.049691
+1415,237371,Wuppertal Sodastraße,51.279366,7.216328
+1416,196669,Wuppertal Sollingweg,51.228867,7.13239
+1417,205763,Wuppertal Sollingweg,51.228382,7.133252
+1418,130082,Wuppertal Sondern,51.24251,7.279444
+1419,378952,Wuppertal Sondern,51.24251,7.279444
+1420,397898,Wuppertal Sondern,51.242134,7.279597
+1421,414943,Wuppertal Sondern,51.242134,7.279597
+1422,104095,Wuppertal Sonnborn Bf,51.240723,7.096754
+1423,54814,Wuppertal Sonnborn Bf,51.240673,7.09679
+1424,163195,Wuppertal Sonnborner Straße,51.238506,7.097338
+1425,322746,Wuppertal Sonnborner Straße,51.2381,7.096897
+1426,398018,Wuppertal Sonnborner Straße,51.23825,7.09767
+1427,65206,Wuppertal Sonnborner Straße,51.238083,7.096817
+1428,94579,Wuppertal Sonnborner Straße,51.238148,7.096637
+1429,232795,Wuppertal Sonnborner Ufer,51.237114,7.098514
+1430,247359,Wuppertal Sonnborner Ufer,51.237457,7.097886
+1431,275228,Wuppertal Sonnborner Ufer,51.237267,7.098532
+1432,125151,Wuppertal Sonnenblume,51.284958,7.151937
+1433,98184,Wuppertal Sperberweg,51.252308,7.111109
+1434,300121,Wuppertal Spieckerlinde,51.221992,7.281268
+1435,451290,Wuppertal Spieckerlinde,51.222336,7.281492
+1436,57102,Wuppertal Spieckerlinde,51.222336,7.281492
+1437,9847,Wuppertal Spieckerlinde,51.221992,7.281268
+1438,222139,Wuppertal Sportpl.Oberberg.Str,51.25278,7.178599
+1439,342112,Wuppertal Sportpl.Oberberg.Str,51.252464,7.1785
+1440,380860,Wuppertal Starenschloß,51.267193,7.244922
+1441,399958,Wuppertal Starenstraße,51.26464,7.238921
+1442,255169,Wuppertal Staubenthaler Höhe,51.234234,7.191625
+1443,260452,Wuppertal Staubenthaler Höhe,51.234337,7.191679
+1444,285768,Wuppertal Sternenberg,51.30149,7.216867
+1445,416258,Wuppertal Sternenberg,51.300934,7.216239
+1446,228954,Wuppertal Stockmannsmühle,51.251385,7.110228
+1447,155108,Wuppertal Stollenstraße,51.28692,7.211765
+1448,20291,Wuppertal Stollenstraße,51.286602,7.209914
+1449,307059,Wuppertal Stralsunder Straße,51.270077,7.140573
+1450,351902,Wuppertal Stralsunder Straße,51.26948,7.14166
+1451,453008,Wuppertal Sudberg,51.180717,7.13954
+1452,290566,Wuppertal Tagesschule Dönberg,51.29744,7.159833
+1453,182649,Wuppertal Talstraße,51.248337,7.103635
+1454,24854,Wuppertal Talstraße,51.24831,7.103437
+1455,15061,Wuppertal Taunusweg,51.22642,7.150141
+1456,240951,Wuppertal Taunusweg,51.226128,7.149458
+1457,111738,Wuppertal Tesche,51.23963,7.070074
+1458,191721,Wuppertal Tesche,51.23963,7.070074
+1459,264203,Wuppertal Tesche,51.239773,7.06993
+1460,321462,Wuppertal Tesche,51.239773,7.06993
+1461,389630,Wuppertal Tesche,51.23963,7.070074
+1462,66094,Wuppertal Tesche,51.239773,7.06993
+1463,172221,Wuppertal Thomaskirche,51.268105,7.153671
+1464,61807,Wuppertal Thomaskirche,51.26777,7.153383
+1465,147106,Wuppertal Thorner Straße,51.275196,7.185705
+1466,444556,Wuppertal Thorner Straße,51.275143,7.185606
+1467,192076,Wuppertal Toelleturm,51.25495,7.198542
+1468,438381,Wuppertal Toelleturm,51.25465,7.198739
+1469,100488,Wuppertal Totilaweg,51.279114,7.194859
+1470,212862,Wuppertal Treppenstraße,51.25156,7.129273
+1471,283686,Wuppertal Treppenstraße,51.251633,7.129318
+1472,303715,Wuppertal Trompete,51.22729,7.281636
+1473,307317,Wuppertal Trompete,51.22741,7.281528
+1474,341315,Wuppertal Trompete,51.22741,7.281528
+1475,77013,Wuppertal Trompete,51.22729,7.281636
+1476,299544,Wuppertal Tulpenstraße,51.269722,7.184591
+1477,13649,Wuppertal Uellendahl,51.28028,7.168556
+1478,242558,Wuppertal Uellendahl,51.280205,7.167972
+1479,213310,Wuppertal Uellendahler Brunnen,51.288216,7.173676
+1480,48011,Wuppertal Uellendahler Brunnen,51.2883,7.173497
+1481,216127,Wuppertal Uhlenbruch,51.303246,7.251902
+1482,305501,Wuppertal Uhlenbruch,51.303196,7.251812
+1483,134082,Wuppertal Uni-Halle,51.24178,7.152503
+1484,194123,Wuppertal Uni-Halle,51.24178,7.152503
+1485,289585,Wuppertal Uni-Halle,51.24097,7.152916
+1486,317617,Wuppertal Uni-Halle,51.24097,7.152916
+1487,337324,Wuppertal Universität,51.24558,7.149736
+1488,36121,Wuppertal Universität,51.245663,7.14997
+1489,444896,Wuppertal Universität,51.24558,7.149736
+1490,55186,Wuppertal Universität,51.244743,7.14882
+1491,94144,Wuppertal Universität,51.245663,7.14997
+1492,408043,Wuppertal Unt.Stil.Winkel Nord,51.265896,7.119993
+1493,115483,Wuppertal Unt.Stil.Winkel Süd,51.26357,7.121682
+1494,249983,Wuppertal Untenrohleder,51.28429,7.148982
+1495,112476,Wuppertal Unterbarmen Bf,51.258812,7.173991
+1496,421719,Wuppertal Unterbarmen Bf,51.25927,7.17373
+1497,309177,Wuppertal Untere Engelshöhe,51.21752,7.060399
+1498,169764,Wuppertal Untere Linde,51.234623,7.236091
+1499,305179,Wuppertal Untere Linde,51.234623,7.236091
+1500,311034,Wuppertal Untere Linde,51.23491,7.235912
+1501,70827,Wuppertal Untere Linde,51.23491,7.235912
+1502,437886,Wuppertal Unterer Grifflenberg,51.248585,7.148568
+1503,446485,Wuppertal Unterer Grifflenberg,51.248585,7.148568
+1504,78206,Wuppertal Untergründen,51.20435,7.122796
+1505,97971,Wuppertal Untergründen,51.204548,7.123452
+1506,241268,Wuppertal Unterkirchen,51.202465,7.131429
+1507,448725,Wuppertal Unterkirchen,51.202557,7.131339
+1508,423774,Wuppertal Unterkohlfurth,51.188404,7.114648
+1509,12330,Wuppertal Varresbecker Straße,51.24655,7.106096
+1510,161820,Wuppertal Varresbecker Straße,51.24664,7.105
+1511,244105,Wuppertal Varresbecker Straße,51.246628,7.107129
+1512,271149,Wuppertal Varresbecker Straße,51.246506,7.106923
+1513,304068,Wuppertal Varresbecker Straße,51.246674,7.106599
+1514,72519,Wuppertal Varresbecker Straße,51.24666,7.106833
+1515,142111,Wuppertal VillaMedia,51.245567,7.132812
+1516,125821,Wuppertal Vockendahl,51.286774,7.203402
+1517,206512,Wuppertal Vockendahl,51.28634,7.203384
+1518,321782,Wuppertal Vockendahl,51.28634,7.203384
+1519,390099,Wuppertal Vockendahl,51.286774,7.203402
+1520,159303,Wuppertal Vogelsaue,51.250366,7.119885
+1521,195340,Wuppertal Vogelsaue,51.25017,7.121044
+1522,121327,Wuppertal Vohwinkel Bf,51.233902,7.070738
+1523,157567,Wuppertal Vohwinkel Bf,51.233902,7.070738
+1524,198723,Wuppertal Vohwinkel Bf,51.23381,7.070361
+1525,271893,Wuppertal Vohwinkel Bf,51.233757,7.07072
+1526,290935,Wuppertal Vohwinkel Bf,51.233986,7.070478
+1527,365848,Wuppertal Vohwinkel Bf,51.233986,7.070478
+1528,402672,Wuppertal Vohwinkel Bf,51.23381,7.070361
+1529,450764,Wuppertal Vohwinkel Bf,51.233757,7.07072
+1530,457646,Wuppertal Vohwinkel Bf,51.23381,7.070361
+1531,58816,Wuppertal Vohwinkel Bf,51.23425,7.070568
+1532,153005,Wuppertal Vohwinkeler Feld,51.231598,7.06251
+1533,27141,Wuppertal Vohwinkeler Feld,51.231274,7.063013
+1534,380290,Wuppertal Vohwinkeler Feld,51.231598,7.06251
+1535,198239,Wuppertal Vohwinkeler Straße,51.22678,7.05924
+1536,304012,Wuppertal Vohwinkeler Straße,51.22655,7.059186
+1537,352690,Wuppertal Volkshochschule,51.254677,7.140448
+1538,452276,Wuppertal Volkshochschule,51.25449,7.140897
+1539,15373,Wuppertal Völklinger Straße,51.262524,7.174242
+1540,170008,Wuppertal Völklinger Straße,51.262463,7.173937
+1541,334724,Wuppertal Völklinger Straße,51.26147,7.17232
+1542,421378,Wuppertal Völklinger Straße,51.261116,7.171619
+1543,111975,Wuppertal Wahlert,51.201515,7.115825
+1544,78965,Wuppertal Wahlert,51.201862,7.116633
+1545,309774,Wuppertal Waldkampfbahn,51.23407,7.05553
+1546,76387,Wuppertal Waldkampfbahn,51.234154,7.056446
+1547,124840,Wuppertal Wall/Museum,51.256886,7.146224
+1548,435708,Wuppertal Wall/Museum,51.257504,7.146287
+1549,101952,Wuppertal Walter-Posth-Platz,51.278023,7.213867
+1550,94669,Wuppertal Weberstraße,51.265697,7.208109
+1551,184658,Wuppertal Wefelpütt,51.23063,7.25863
+1552,276756,Wuppertal Wefelpütt,51.230522,7.258621
+1553,431721,Wuppertal Weidenplatz,51.249332,7.140475
+1554,63589,Wuppertal Weidenplatz,51.249332,7.140304
+1555,260788,Wuppertal Weiherstraße,51.28648,7.231025
+1556,3374,Wuppertal Weiherstraße,51.286793,7.23133
+1557,389680,Wuppertal Weiherstraße,51.2861,7.230513
+1558,99953,Wuppertal Weiherstraße,51.28705,7.231654
+1559,341756,Wuppertal Weinberg/Jüd.Friedh.,51.274113,7.158046
+1560,81036,Wuppertal Weinberg/Jüd.Friedh.,51.27422,7.158073
+1561,138513,Wuppertal Weißenburgstraße,51.266815,7.153356
+1562,414684,Wuppertal Weißenburgstraße,51.26667,7.153536
+1563,201177,Wuppertal Werbsiepen,51.24347,7.22921
+1564,298140,Wuppertal Werbsiepen,51.24412,7.228869
+1565,314516,Wuppertal Werbsiepen,51.24412,7.228869
+1566,407864,Wuppertal Werbsiepen,51.24347,7.22921
+1567,166749,Wuppertal Werk Öhde,51.26295,7.236244
+1568,221351,Wuppertal Werk Öhde,51.263664,7.236828
+1569,328457,Wuppertal Werk Öhde,51.26295,7.236244
+1570,452421,Wuppertal Werk Öhde,51.263664,7.236828
+1571,213227,Wuppertal Werléstraße,51.27142,7.223605
+1572,263286,Wuppertal Werléstraße,51.271847,7.223533
+1573,265311,Wuppertal Werléstraße,51.27119,7.222473
+1574,316151,Wuppertal Werléstraße,51.27142,7.223605
+1575,34306,Wuppertal Werléstraße,51.271847,7.223533
+1576,373649,Wuppertal Werléstraße,51.271137,7.221997
+1577,161812,Wuppertal Werther Brücke,51.272,7.20624
+1578,201776,Wuppertal Werther Brücke,51.272408,7.206842
+1579,211544,Wuppertal Werther Brücke,51.272526,7.206303
+1580,279072,Wuppertal Werther Brücke,51.272526,7.206303
+1581,351083,Wuppertal Werther Brücke,51.272,7.20624
+1582,397512,Wuppertal Werther Brücke,51.272224,7.206609
+1583,117984,Wuppertal Westende,51.24902,7.118367
+1584,241051,Wuppertal Westende,51.249268,7.118223
+1585,347554,Wuppertal Westende,51.249184,7.11825
+1586,380566,Wuppertal Westende,51.248943,7.118682
+1587,115639,Wuppertal Westerbusch,51.282265,7.172212
+1588,35872,Wuppertal Westerbusch,51.281963,7.172158
+1589,258208,Wuppertal Westfalenweg Mitte,51.283203,7.144912
+1590,370749,Wuppertal Westfalenweg Mitte,51.28344,7.146448
+1591,51393,Wuppertal Westfalenweg Mitte,51.283,7.146907
+1592,275385,Wuppertal Weststraße,51.24991,7.142711
+1593,83366,Wuppertal Weststraße,51.249046,7.143349
+1594,306343,Wuppertal Wettinerstraße,51.251717,7.195038
+1595,43580,Wuppertal Wettinerstraße,51.25199,7.195658
+1596,333806,Wuppertal Wibbeltrather Weg,51.21325,7.042909
+1597,115178,Wuppertal Wichlinghausen Markt,51.283947,7.215116
+1598,118271,Wuppertal Wichlinghausen Markt,51.282894,7.214568
+1599,18633,Wuppertal Wichlinghausen Markt,51.282143,7.215277
+1600,226784,Wuppertal Wichlinghausen Markt,51.282894,7.214568
+1601,279009,Wuppertal Wichlinghausen Markt,51.28384,7.215304
+1602,35554,Wuppertal Wichlinghausen Markt,51.282402,7.215583
+1603,398131,Wuppertal Wichlinghausen Markt,51.282455,7.215349
+1604,439094,Wuppertal Wichlinghausen Markt,51.282455,7.215349
+1605,232112,Wuppertal Wieden,51.25287,7.072391
+1606,244657,Wuppertal Wieden,51.252953,7.07187
+1607,261174,Wuppertal Wieden,51.25287,7.072391
+1608,444265,Wuppertal Wieden,51.252953,7.07187
+1609,76407,Wuppertal Wieden,51.25287,7.072391
+1610,91995,Wuppertal Wieden,51.252953,7.07187
+1611,103979,Wuppertal Wieden Schleife,51.253754,7.075652
+1612,154567,Wuppertal Wieden Schleife,51.25368,7.075679
+1613,183968,Wuppertal Wieden Schleife,51.253754,7.075652
+1614,209893,Wuppertal Wieden Schleife,51.253754,7.075652
+1615,303345,Wuppertal Wieden Schleife,51.25368,7.075679
+1616,356823,Wuppertal Wieden Schleife,51.25382,7.07594
+1617,398558,Wuppertal Wieden Schleife,51.25368,7.075679
+1618,447487,Wuppertal Wieden Schleife,51.25382,7.07594
+1619,271402,Wuppertal Wiesenstraße,51.264843,7.145218
+1620,277861,Wuppertal Wilkhausstraße,51.288193,7.192595
+1621,96920,Wuppertal Wilkhausstraße,51.288242,7.192748
+1622,158969,Wuppertal Willi-Hildebrandt-Weg,51.234444,7.063821
+1623,200953,Wuppertal Winchenbachstraße,51.28041,7.190053
+1624,37112,Wuppertal Winchenbachstraße,51.280045,7.190116
+1625,214378,Wuppertal Windfoche,51.23913,7.282202
+1626,269744,Wuppertal Windfoche,51.23924,7.281968
+1627,322695,Wuppertal Windfoche,51.23913,7.282202
+1628,425040,Wuppertal Windfoche,51.23924,7.281968
+1629,135173,Wuppertal Windhornstraße,51.289032,7.187627
+1630,247916,Wuppertal Windhornstraße,51.289177,7.187376
+1631,112329,Wuppertal Windhukstraße,51.285507,7.237636
+1632,277147,Wuppertal Windhukstraße,51.28558,7.237879
+1633,8209,Wuppertal Windhukstraße,51.28515,7.238104
+1634,187831,Wuppertal Windhövel,51.29952,7.249934
+1635,191583,Wuppertal Windhövel,51.299747,7.250132
+1636,309573,Wuppertal Winterberger Weg,51.302197,7.157201
+1637,444866,Wuppertal Winterberger Weg,51.30191,7.157534
+1638,444319,Wuppertal Wolkenburg,51.255417,7.163274
+1639,98104,Wuppertal Wolkenburg,51.255013,7.163768
+1640,109601,Wuppertal Worringer Straße,51.233368,7.147077
+1641,120361,Wuppertal Worringer Straße,51.233353,7.147311
+1642,269509,Wuppertal Worringer Straße,51.233353,7.147652
+1643,302441,Wuppertal Worringer Straße,51.233353,7.147652
+1644,409012,Wuppertal Worringer Straße,51.233353,7.147311
+1645,299988,Wuppertal Wortmannstraße,51.260094,7.155701
+1646,139633,Wuppertal Wupperfeld,51.2745,7.214711
+1647,244427,Wuppertal Wupperfeld,51.273415,7.213553
+1648,29329,Wuppertal Wupperfeld,51.27322,7.213984
+1649,357169,Wuppertal Wupperfeld,51.2745,7.214711
+1650,369382,Wuppertal Wupperfeld,51.274544,7.214136
+1651,392622,Wuppertal Wupperfeld,51.273758,7.213517
+1652,7894,Wuppertal Wupperfeld,51.273376,7.213705
+1653,99947,Wuppertal Wupperfeld,51.274544,7.214136
+1654,283973,Wuppertal Wüstenhofer Straße,51.265705,7.140798
+1655,375799,Wuppertal Wüstenhofer Straße,51.264923,7.141103
+1656,200944,Wuppertal Yorckstraße,51.233154,7.083602
+1657,330474,Wuppertal Yorckstraße,51.233948,7.085354
+1658,183244,Wuppertal Zeughausstraße,51.26483,7.194823
+1659,235054,Wuppertal Zeughausstraße,51.264587,7.194688
+1660,228580,Wuppertal Zoo-Haupteingang,51.24117,7.108818
+1661,155425,Wuppertal Zoo/Stadion,51.24082,7.103213
+1662,163252,Wuppertal Zoo/Stadion,51.241062,7.103347
+1663,247871,Wuppertal Zoo/Stadion,51.24052,7.10288
+1664,318045,Wuppertal Zoo/Stadion,51.2404,7.10306
+1665,321875,Wuppertal Zoolog. Garten Bf,51.243034,7.107354
+1666,408088,Wuppertal Zoolog. Garten Bf,51.243023,7.10774
+1667,114707,Wuppertal Zur Waldesruh,51.23536,7.105602
+1668,92975,Wuppertal Zur Waldesruh,51.235336,7.105764
+1669,354137,Wuppertal Zwergstraße,51.27817,7.224826
+1670,362031,Wuppertal Zwergstraße,51.278202,7.224916
+1671,277998,Wuppertal train station (Berliner Straße),51.27508,7.224487
+1672,138760,Wuppertal Öhde,51.257015,7.233271
+1673,177228,Wuppertal Öhde,51.257694,7.23275
+1674,348545,Wuppertal Öhde,51.257015,7.233271
+1675,387268,Wuppertal Öhde,51.257694,7.23275
+1676,165915,"Wuppertal, Hahnenfurth/Düssel",51.254112,7.05615
+1677,289678,"Wuppertal, Hahnenfurth/Düssel",51.254368,7.05677
+1678,296034,"Wuppertal, Hahnenfurth/Düssel",51.254112,7.05615
+1679,344971,"Wuppertal, Hahnenfurth/Düssel",51.254112,7.05615
+1680,440157,"Wuppertal, Hahnenfurth/Düssel",51.254368,7.05677
+1681,450780,"Wuppertal, Hahnenfurth/Düssel",51.254368,7.05677
+1682,164632,"Wuppertal, In der Hardt",51.220284,7.288059
+1683,191224,"Wuppertal, In der Hardt",51.220284,7.288059
+1684,280150,"Wuppertal, In der Hardt",51.220287,7.287744
+1685,348446,Wuppertal-Langerfeld,51.277866,7.242298
+1686,77291,Wuppertal-Oberbarmen,51.273838,7.221483
+1687,315756,Wülfrath Oberdüssel Schule,51.281273,7.083611

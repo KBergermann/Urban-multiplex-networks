@@ -1,0 +1,609 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,350963,Ebnet (Frbg) Dreisamhalle,47.985058,7.90445
+1,369743,Ebnet (Frbg) Langmatten,47.98964,7.9155
+2,40440,Ebnet (Frbg) Pfarrheim,47.988235,7.90595
+3,38341,Ebnet (Frbg) Rathaus,47.98669,7.904241
+4,185084,Ebnet (Frbg.) Hirschen,47.986195,7.905738
+5,396101,FR - St. Georgen Reiterhof,47.974167,7.784081
+6,278855,Frbg Haslach Fichtestraße,47.98538,7.826835
+7,158545,Frbg Landwasser Moosweiher,48.028343,7.809409
+8,367089,Frbg Schwabentorbrücke Nord,47.990852,7.853347
+9,284251,Frbg Schwabentorbrücke Süd,47.990295,7.853359
+10,176786,Freiburg (Brsg) ZOB,47.996616,7.840449
+11,31547,Freiburg (im Breisgau) central station,47.99569,7.840469
+12,400266,Freiburg Albertstraße,48.002075,7.846143
+13,151021,Freiburg Almendweg,48.015373,7.823367
+14,261338,Freiburg Bauhöferstraße,47.985012,7.822758
+15,255960,Freiburg CVUA Freiburg,48.032524,7.804204
+16,229230,Freiburg Christ,48.038193,7.796791
+17,340323,Freiburg Ebneter Straße,47.98273,7.898243
+18,334395,Freiburg Engesserstraße,48.02175,7.850075
+19,349356,Freiburg Falkenbergerstraße,48.013786,7.825749
+20,437654,Freiburg Gundelfinger Straße,48.03509,7.863
+21,15618,Freiburg Hans-Bunte-Str. Mitte,48.028736,7.854438
+22,390637,Freiburg Hans-Bunte-Str. Nord,48.03101,7.858866
+23,114446,Freiburg Heinrich v. Stephan S,47.986633,7.836051
+24,121831,Freiburg Hofackerstraße,48.018154,7.818398
+25,409255,Freiburg Im Gänderle,47.98901,7.909846
+26,9386,Freiburg Industriepark Ost,48.020203,7.84535
+27,391218,Freiburg Kreuzstraße,48.001656,7.84173
+28,65924,Freiburg Lassbergstr.,47.98454,7.893783
+29,152486,Freiburg Max-Planck-Institut,48.025387,7.849404
+30,217086,Freiburg Moosackerweg,47.98413,7.795797
+31,189557,Freiburg Mooswaldallee,48.03328,7.860117
+32,225903,Freiburg Munzinger Straße,47.988403,7.794948
+33,235990,Freiburg Nordstr.,48.01097,7.853987
+34,441656,Freiburg Offenburger Str.,48.01961,7.854828
+35,333175,Freiburg Paduaallee,48.013683,7.80783
+36,76309,Freiburg Paula-Modersohn-Platz,47.974384,7.828437
+37,383265,Freiburg Pressehaus,47.98624,7.829294
+38,366745,Freiburg R.-Schneider-Straße,47.981476,7.901525
+39,25653,Freiburg Rabenkopfstraße,47.99201,7.87299
+40,278472,Freiburg Rabenkopfstraße,47.9921,7.873082
+41,363980,Freiburg Rehlingstrasse,47.9904,7.837668
+42,84392,Freiburg Robert-Grumbach-Platz,48.01101,7.830396
+43,446974,Freiburg Robert-Koch-Straße,48.003838,7.836991
+44,171312,Freiburg Schopfheimer Straße,47.98201,7.820026
+45,169552,Freiburg Siemensstraße,48.02142,7.851919
+46,174980,Freiburg Sonnenstraße,48.00536,7.849688
+47,332827,Freiburg Strandbad,47.987556,7.894188
+48,3137,Freiburg Stübeweg,48.02703,7.851875
+49,275247,Freiburg Technische Fakultät,48.012154,7.835584
+50,338314,Freiburg Tullastraße,48.019344,7.856858
+51,214270,Freiburg Weddigenstraße,47.984127,7.836523
+52,324695,Freiburg Zenlinweg,47.980797,7.904982
+53,373048,"Freiburg, Albertstraße",48.001305,7.845263
+54,420199,"Freiburg, Albertstraße",48.001995,7.846078
+55,377362,"Freiburg, Almendweg",48.015408,7.823165
+56,39015,"Freiburg, Almendweg",48.015835,7.822646
+57,193266,"Freiburg, Alter Messplatz",47.988472,7.869879
+58,244251,"Freiburg, Alter Messplatz",47.98855,7.869502
+59,26481,"Freiburg, Am Bannwald",47.962807,7.909312
+60,431877,"Freiburg, Am Bannwald",47.962715,7.909234
+61,190594,"Freiburg, Am Bischofskreuz",48.007008,7.818089
+62,275434,"Freiburg, Am Bischofskreuz",48.00682,7.818321
+63,458056,"Freiburg, Am Flughafen",48.022816,7.839822
+64,93166,"Freiburg, Am Flughafen",48.022697,7.839623
+65,250218,"Freiburg, Am Hörchersberg",47.977165,7.90676
+66,294827,"Freiburg, Am Hörchersberg",47.977303,7.907266
+67,132680,"Freiburg, Am Kirchacker",47.985874,7.811311
+68,70993,"Freiburg, Am Kirchacker",47.985893,7.811457
+69,234870,"Freiburg, Am Lindenwäldle",47.994576,7.803058
+70,235112,"Freiburg, Am Lindenwäldle",47.994717,7.802626
+71,248057,"Freiburg, Am Mettweg",47.98298,7.807814
+72,94602,"Freiburg, Am Mettweg",47.982994,7.807452
+73,402786,"Freiburg, Am Planetarium",48.000244,7.843557
+74,362860,"Freiburg, Am Sender",48.01348,7.791924
+75,5410,"Freiburg, Am Sender",48.0135,7.792004
+76,224234,"Freiburg, Am Weiher",48.022083,7.72004
+77,352117,"Freiburg, Am Weiher",48.02186,7.720769
+78,410642,"Freiburg, An der Hohlgasse",48.05213,7.799109
+79,16421,"Freiburg, Apotheke",47.969086,7.699345
+80,2266,"Freiburg, Apotheke",47.968987,7.699388
+81,356428,"Freiburg, Auerstraße",48.030384,7.851036
+82,7788,"Freiburg, Auerstraße",48.030025,7.851071
+83,163415,"Freiburg, Bauhöferstraße",47.984867,7.822439
+84,34401,"Freiburg, Bauhöferstraße",47.985016,7.822235
+85,253723,"Freiburg, Belchenstraße",47.98766,7.818504
+86,441705,"Freiburg, Belchenstraße",47.98731,7.817682
+87,351634,"Freiburg, Benzhauser Straße",48.052807,7.802447
+88,7602,"Freiburg, Benzhauser Straße",48.052963,7.802108
+89,24959,"Freiburg, Berggasse",48.02625,7.860231
+90,374876,"Freiburg, Berggasse",48.025963,7.860358
+91,424885,"Freiburg, Berggasse",48.026375,7.860336
+92,276439,"Freiburg, Berliner Allee",48.00745,7.829525
+93,98106,"Freiburg, Berliner Allee",48.007477,7.829538
+94,23704,"Freiburg, Bernlappstraße",48.026505,7.864208
+95,81949,"Freiburg, Bernlappstraße",48.025024,7.863516
+96,116844,"Freiburg, Bertoldsbrunnen",47.994965,7.850013
+97,160972,"Freiburg, Bertoldsbrunnen",47.994522,7.849635
+98,32625,"Freiburg, Bertoldsbrunnen",47.994522,7.849527
+99,370321,"Freiburg, Bertoldsbrunnen",47.995056,7.850025
+100,192866,"Freiburg, Besanconallee",47.980865,7.794922
+101,27812,"Freiburg, Besanconallee",47.981018,7.794892
+102,358606,"Freiburg, Besanconallee",47.981487,7.795711
+103,134888,"Freiburg, Beschläge Koch",48.0414,7.813669
+104,415690,"Freiburg, Beschläge Koch",48.041256,7.813645
+105,355781,"Freiburg, Bettina-von-Arnim-Str.",47.994995,7.788162
+106,409192,"Freiburg, Bettina-von-Arnim-Str.",47.995464,7.789035
+107,102154,"Freiburg, Betzenhauser Torplatz",48.01063,7.811667
+108,375664,"Freiburg, Betzenhauser Torplatz",48.011078,7.810732
+109,155733,"Freiburg, Bissierstraße",48.002106,7.820694
+110,258996,"Freiburg, Bissierstraße",48.002144,7.819849
+111,28524,"Freiburg, Bissierstraße",48.00215,7.819781
+112,56092,"Freiburg, Bollerstaudenstraße",48.000706,7.78784
+113,9505,"Freiburg, Bollerstaudenstraße",48.00062,7.787869
+114,139205,"Freiburg, Brauerei Ganter",47.98941,7.858363
+115,353799,"Freiburg, Brauerei Ganter",47.989296,7.85862
+116,194139,"Freiburg, Bugginger Straße",47.997387,7.806852
+117,450659,"Freiburg, Bugginger Straße",47.99757,7.807169
+118,222526,"Freiburg, Burkheimer Straße",47.985348,7.785708
+119,65213,"Freiburg, Burkheimer Straße",47.98547,7.784607
+120,267575,"Freiburg, Butzenhofstraße",47.951942,7.912272
+121,278588,"Freiburg, Bötzinger Straße",47.98935,7.789272
+122,425431,"Freiburg, Bötzinger Straße",47.98929,7.7893
+123,151014,"Freiburg, CVUA Freiburg",48.033054,7.80332
+124,406046,"Freiburg, CVUA Freiburg",48.03297,7.803738
+125,15200,"Freiburg, Cardinalweg",47.978176,7.801937
+126,274428,"Freiburg, Cardinalweg",47.977943,7.800027
+127,170220,"Freiburg, Christ",48.03785,7.796719
+128,312826,"Freiburg, Christ",48.038345,7.796815
+129,115000,"Freiburg, Diakoniekrankenhaus",48.024036,7.812056
+130,325293,"Freiburg, Diakoniekrankenhaus",48.023865,7.81391
+131,337260,"Freiburg, Diakoniekrankenhaus",48.02379,7.813644
+132,47073,"Freiburg, Diakoniekrankenhaus",48.0238,7.812048
+133,76787,"Freiburg, Dorfbrunnen",47.9911,7.816523
+134,93999,"Freiburg, Dorfbrunnen",47.991154,7.816455
+135,241043,"Freiburg, Dorfstraße",47.964966,7.857308
+136,273475,"Freiburg, Dorfstraße",47.964355,7.857777
+137,297477,"Freiburg, Dorfstraße",47.964485,7.857975
+138,421700,"Freiburg, Dorfstraße",47.96448,7.85776
+139,421978,"Freiburg, Dorfstraße",47.96491,7.857349
+140,111589,"Freiburg, Draisstraße",47.997936,7.831469
+141,294304,"Freiburg, Draisstraße",47.998016,7.831467
+142,305494,"Freiburg, Ebnet-Rathaus",47.986816,7.904922
+143,35626,"Freiburg, Ebnet-Rathaus",47.986885,7.903781
+144,373779,"Freiburg, Ebneter Straße",47.98241,7.898491
+145,118436,"Freiburg, Eichstetter Straße",48.010197,7.850251
+146,237846,"Freiburg, Eichstetter Straße",48.010212,7.850144
+147,34862,"Freiburg, Elsässer Straße",48.009647,7.831512
+148,434646,"Freiburg, Elsässer Straße",48.0096,7.831339
+149,206903,"Freiburg, Emil-Gött-Straße",47.987087,7.878108
+150,419618,"Freiburg, Emil-Gött-Straße",47.98709,7.879434
+151,269242,"Freiburg, Engesserstraße",48.021713,7.849888
+152,329632,"Freiburg, Engesserstraße",48.021786,7.849873
+153,260620,"Freiburg, Erbprinzenstraße",47.99248,7.845285
+154,48017,"Freiburg, Erbprinzenstraße",47.992607,7.845336
+155,137605,"Freiburg, Eschholzstraße",47.998074,7.835995
+156,327678,"Freiburg, Eschholzstraße",47.99812,7.836409
+157,346143,"Freiburg, Eschholzstraße",47.998444,7.836094
+158,423496,"Freiburg, Eschholzstraße",47.99791,7.836789
+159,186945,"Freiburg, Etzmattenstraße",47.98796,7.715966
+160,293795,"Freiburg, Etzmattenstraße",47.98791,7.715392
+161,410666,"Freiburg, Etzmattenstraße",47.9877,7.715182
+162,175986,"Freiburg, Europaplatz",47.998047,7.85237
+163,228768,"Freiburg, Europaplatz",47.998123,7.851766
+164,231808,"Freiburg, Europaplatz",47.99801,7.852023
+165,287594,"Freiburg, Europaplatz",47.99805,7.851955
+166,388021,"Freiburg, Europaplatz",47.99741,7.852518
+167,86488,"Freiburg, Europaplatz",47.99739,7.852452
+168,20598,"Freiburg, FWTM Neuer Messplatz",48.012924,7.840701
+169,60519,"Freiburg, FWTM Neuer Messplatz",48.012806,7.840636
+170,306210,"Freiburg, Fabrikstraße",47.99154,7.862657
+171,35851,"Freiburg, Fabrikstraße",47.991558,7.862643
+172,377,"Freiburg, Fahnenbergplatz",47.998077,7.848229
+173,409526,"Freiburg, Fahnenbergplatz",47.99896,7.847124
+174,434727,"Freiburg, Fahnenbergplatz",47.99805,7.848149
+175,184998,"Freiburg, Falkenbergerstraße",48.013424,7.82624
+176,337332,"Freiburg, Falkenbergerstraße",48.013233,7.825225
+177,417597,"Freiburg, Falkenbergerstraße",48.013924,7.825733
+178,104092,"Freiburg, Faulerstraße",47.99309,7.839068
+179,145718,"Freiburg, Faulerstraße",47.99254,7.838357
+180,112138,"Freiburg, Ferdinand-Weiß-Str.",47.99529,7.833672
+181,242345,"Freiburg, Ferdinand-Weiß-Str.",47.995018,7.833786
+182,274556,"Freiburg, Ferdinand-Weiß-Str.",47.99507,7.832753
+183,28560,"Freiburg, Ferdinand-Weiß-Str.",47.99499,7.832768
+184,373142,"Freiburg, Fichtestraße",47.98529,7.826168
+185,400270,"Freiburg, Fichtestraße",47.98553,7.826604
+186,344340,"Freiburg, Freiburger Landstraße",47.98217,7.715963
+187,432047,"Freiburg, Freiburger Landstraße",47.98217,7.715936
+188,270152,"Freiburg, Friedhof St.Georgen",47.980553,7.79075
+189,444087,"Freiburg, Friedhof St.Georgen",47.980408,7.789735
+190,127187,"Freiburg, Friedrich-Ebert-Platz",48.003384,7.840981
+191,201927,"Freiburg, Friedrich-Ebert-Platz",48.003365,7.840834
+192,214713,"Freiburg, Gabelsbergerstraße",47.978214,7.81584
+193,391151,"Freiburg, Gabelsbergerstraße",47.97836,7.816051
+194,110359,"Freiburg, Gescheidstraße",48.01443,7.804408
+195,13907,"Freiburg, Gescheidstraße",48.014313,7.804438
+196,412405,"Freiburg, Geschw.-Scholl-Platz",47.997513,7.794977
+197,61315,"Freiburg, Geschw.-Scholl-Platz",47.99745,7.794978
+198,174753,"Freiburg, Gewerbestraße",47.999184,7.717229
+199,230681,"Freiburg, Gewerbestraße",47.998974,7.718655
+200,127390,"Freiburg, Glottertalstraße",48.03036,7.862152
+201,272966,"Freiburg, Glottertalstraße",48.03029,7.861953
+202,157906,"Freiburg, Gundelfinger Straße",48.034824,7.863354
+203,221023,"Freiburg, Gundelfinger Straße",48.03502,7.862921
+204,249415,"Freiburg, Gundelfinger Straße",48.035053,7.862961
+205,263295,"Freiburg, Gundelfinger Straße",48.03505,7.863336
+206,421533,"Freiburg, Gundelfinger Straße",48.034817,7.863408
+207,447343,"Freiburg, Gundelfinger Straße",48.034878,7.863273
+208,109786,"Freiburg, H.-von-Stephan-Straße",47.98638,7.836968
+209,117242,"Freiburg, H.-von-Stephan-Straße",47.98668,7.836104
+210,118739,"Freiburg, H.-von-Stephan-Straße",47.986343,7.837035
+211,233141,"Freiburg, H.-von-Stephan-Straße",47.987114,7.835678
+212,455736,"Freiburg, Hanferstraße",48.038586,7.815369
+213,71495,"Freiburg, Hanferstraße",48.03873,7.815406
+214,22200,"Freiburg, Hans-Bunte-Str. Mitte",48.028736,7.854398
+215,394613,"Freiburg, Hans-Bunte-Str. Mitte",48.028755,7.854451
+216,165165,"Freiburg, Hans-Bunte-Str. Nord",48.03102,7.858919
+217,284131,"Freiburg, Hans-Bunte-Str. Nord",48.030956,7.858827
+218,20696,"Freiburg, Hasemannstraße",47.986664,7.884494
+219,89066,"Freiburg, Hasemannstraße",47.986664,7.884588
+220,134594,"Freiburg, Haslach Bad",47.98941,7.823569
+221,432386,"Freiburg, Haslach Bad",47.98951,7.8235
+222,54017,"Freiburg, Haslacher Straße",47.99536,7.825082
+223,146635,"Freiburg, Hauptbahnhof",47.99683,7.841409
+224,163364,"Freiburg, Hauptbahnhof",47.996902,7.841327
+225,292477,"Freiburg, Hauptbahnhof",47.99647,7.841404
+226,303202,"Freiburg, Hauptbahnhof",47.995876,7.840493
+227,327863,"Freiburg, Hauptbahnhof",47.996113,7.841385
+228,338939,"Freiburg, Hauptbahnhof",47.996586,7.840383
+229,439809,"Freiburg, Hauptbahnhof",47.996544,7.840531
+230,196098,"Freiburg, Hauptfriedhof",48.007595,7.845806
+231,459124,"Freiburg, Hauptfriedhof",48.007587,7.845886
+232,152974,"Freiburg, Hauptstraße",48.00716,7.85521
+233,306839,"Freiburg, Hauptstraße",48.006657,7.855208
+234,177626,"Freiburg, Heinrich-Heine-Str.",47.986504,7.895832
+235,430456,"Freiburg, Heinrich-Heine-Str.",47.986656,7.895788
+236,360547,"Freiburg, Hercherhof",47.95588,7.912752
+237,371111,"Freiburg, Hercherhof",47.955914,7.912818
+238,27963,"Freiburg, Herdern Kirche",48.006546,7.863265
+239,292836,"Freiburg, Herdern Kirche",48.006493,7.863334
+240,290720,"Freiburg, Hirschenhofweg",47.986107,7.904441
+241,453216,"Freiburg, Hirschenhofweg",47.986107,7.904307
+242,267,"Freiburg, Hochdorf Dorfplatz",48.049667,7.801863
+243,315092,"Freiburg, Hochdorf Dorfplatz",48.049286,7.80218
+244,328675,"Freiburg, Hochdorf Dorfplatz",48.049637,7.802065
+245,416074,"Freiburg, Hochdorf Dorfplatz",48.049923,7.802031
+246,210689,"Freiburg, Hochdorf Vorstadt",48.046017,7.802806
+247,413218,"Freiburg, Hochdorf Vorstadt",48.04583,7.802086
+248,702,"Freiburg, Hochdorf Vorstadt",48.046074,7.802107
+249,145366,"Freiburg, Hochmeisterstraße",48.000565,7.858639
+250,371551,"Freiburg, Hochmeisterstraße",48.00055,7.85872
+251,172748,"Freiburg, Hofackerstraße",48.018192,7.818424
+252,204284,"Freiburg, Hofackerstraße",48.018208,7.818209
+253,194718,"Freiburg, Hofmattstraße",48.000015,7.717718
+254,29366,"Freiburg, Hofmattstraße",47.999935,7.7178
+255,349274,"Freiburg, Holbeinstraße",47.979656,7.847862
+256,365599,"Freiburg, Holbeinstraße",47.979313,7.847896
+257,117241,"Freiburg, Holzmarkt",47.99198,7.848525
+258,79130,"Freiburg, Holzmarkt",47.991993,7.848592
+259,103482,"Freiburg, Hornusstraße",48.015606,7.855251
+260,129674,"Freiburg, Hornusstraße",48.01552,7.854757
+261,356626,"Freiburg, Hornusstraße",48.01555,7.854207
+262,43676,"Freiburg, Hornusstraße",48.015625,7.855318
+263,312631,"Freiburg, Häusleacker",47.972847,7.701193
+264,367503,"Freiburg, Häusleacker",47.97282,7.70106
+265,347077,"Freiburg, Högestraße",48.047466,7.807051
+266,88111,"Freiburg, Högestraße",48.04736,7.807067
+267,140374,"Freiburg, Höllentalstraße",47.977867,7.902311
+268,90881,"Freiburg, Höllentalstraße",47.9778,7.903491
+269,143305,"Freiburg, IKEA",48.02845,7.834802
+270,77963,"Freiburg, IKEA",48.028286,7.834618
+271,230953,"Freiburg, Idingerstraße",48.005947,7.826074
+272,444805,"Freiburg, Idingerstraße",48.006054,7.825911
+273,209658,"Freiburg, Im Gänderle",47.989326,7.910911
+274,294574,"Freiburg, Im Gänderle",47.98931,7.911032
+275,264715,"Freiburg, Im Hausgarten",47.99738,7.712731
+276,308390,"Freiburg, Im Hausgarten",47.997334,7.712813
+277,280471,"Freiburg, Im Hubhof",47.989902,7.716776
+278,450129,"Freiburg, Im Hubhof",47.990063,7.717134
+279,117446,"Freiburg, Im Maierbrühl",47.982437,7.71889
+280,138034,"Freiburg, Im Maierbrühl",47.982677,7.718964
+281,186066,"Freiburg, Im Schulerdobel",47.971294,7.910928
+282,331155,"Freiburg, Im Schulerdobel",47.97086,7.910669
+283,378501,"Freiburg, Immentalstraße",48.004726,7.86289
+284,411164,"Freiburg, Immentalstraße",48.004726,7.863037
+285,169239,"Freiburg, Industriepark Ost",48.02026,7.845617
+286,80695,"Freiburg, Industriepark Ost",48.020023,7.844617
+287,125686,"Freiburg, Innsbrucker Straße",47.976574,7.817297
+288,231637,"Freiburg, Innsbrucker Straße",47.97664,7.817456
+289,321917,"Freiburg, Innsbrucker Straße",47.976643,7.816987
+290,356716,"Freiburg, Johanneskirche",47.98918,7.847918
+291,363876,"Freiburg, Johanneskirche",47.989506,7.848044
+292,186940,"Freiburg, Junghof",47.95872,7.910978
+293,51469,"Freiburg, Junghof",47.958595,7.911115
+294,272783,"Freiburg, KEIDEL Bad",47.983795,7.765904
+295,379369,"Freiburg, KEIDEL Bad",47.984104,7.766339
+296,375514,"Freiburg, Kaiserstuhlstr. Mitte",48.010967,7.844591
+297,443233,"Freiburg, Kaiserstuhlstr. Mitte",48.011047,7.844576
+298,380776,"Freiburg, Kalkackerweg",47.98022,7.797536
+299,162594,"Freiburg, Kandelblickstraße",48.04791,7.807269
+300,253338,"Freiburg, Kapellenwinkel",47.978893,7.8048
+301,310965,"Freiburg, Kapellenwinkel",47.97885,7.80456
+302,107114,"Freiburg, Killianstraße",48.005367,7.834557
+303,55827,"Freiburg, Killianstraße",48.005466,7.834515
+304,234851,"Freiburg, Kirchbergstraße",48.016598,7.800833
+305,351472,"Freiburg, Kirchbergstraße",48.016678,7.800737
+306,43207,"Freiburg, Kleingärten",47.998203,7.741039
+307,810,"Freiburg, Kleingärten",47.99824,7.740448
+308,134335,"Freiburg, Kleintalstraße",47.964733,7.908401
+309,412368,"Freiburg, Kleintalstraße",47.96509,7.908206
+310,145594,"Freiburg, Klosterplatz",47.96578,7.855978
+311,405223,"Freiburg, Klosterplatz",47.96578,7.855978
+312,180013,"Freiburg, Komturplatz",48.012764,7.854296
+313,423063,"Freiburg, Komturplatz",48.012707,7.853989
+314,186532,"Freiburg, Kreuzstraße",48.00155,7.841934
+315,366546,"Freiburg, Kreuzstraße",48.0017,7.84181
+316,157924,"Freiburg, Krozinger Straße",47.992973,7.809808
+317,265595,"Freiburg, Krozinger Straße",47.993027,7.80978
+318,321037,"Freiburg, Kunzenweg",47.980003,7.8953
+319,212304,"Freiburg, Kyburg",47.95766,7.863735
+320,75977,"Freiburg, Kyburg",47.957184,7.863652
+321,227877,"Freiburg, Königsberger Straße",47.97539,7.915155
+322,40240,"Freiburg, Königsberger Straße",47.975773,7.915509
+323,228270,"Freiburg, Langmatten",47.98964,7.9155
+324,259984,"Freiburg, Laufener Straße",47.997814,7.817897
+325,102812,"Freiburg, Laßbergstraße",47.984333,7.893708
+326,14576,"Freiburg, Laßbergstraße",47.98462,7.893634
+327,150716,"Freiburg, Laßbergstraße",47.984352,7.893761
+328,42844,"Freiburg, Laßbergstraße",47.984253,7.893749
+329,81872,"Freiburg, Laßbergstraße",47.984432,7.893746
+330,286117,"Freiburg, Lehen Gew.gebiet Mitte",48.024017,7.794721
+331,426391,"Freiburg, Lehen Gew.gebiet Mitte",48.024033,7.794761
+332,189492,"Freiburg, Lehen Gew.gebiet Nord",48.027218,7.793681
+333,445666,"Freiburg, Lehen Gew.gebiet Nord",48.02735,7.793745
+334,213893,"Freiburg, Lehen Ziegelei",48.02201,7.794902
+335,441355,"Freiburg, Lehen Ziegelei",48.021717,7.795123
+336,38561,"Freiburg, Lehener Straße",48.000473,7.837683
+337,57929,"Freiburg, Lehener Straße",48.00147,7.838505
+338,1842,"Freiburg, Leimeweg",47.959827,7.863527
+339,317066,"Freiburg, Leimeweg",47.959675,7.863637
+340,148534,"Freiburg, Leinenweberstraße",48.0375,7.812833
+341,158661,"Freiburg, Leinenweberstraße",48.036842,7.810313
+342,129061,"Freiburg, Liebigstraße",48.016163,7.84166
+343,63696,"Freiburg, Liebigstraße",48.01607,7.841783
+344,337792,"Freiburg, Lorettoschule",47.984768,7.843903
+345,158477,"Freiburg, Lorettostraße",47.98492,7.847463
+346,56534,"Freiburg, Lorettostraße",47.985004,7.847528
+347,390277,"Freiburg, Lörracher Straße",47.979473,7.820258
+348,48022,"Freiburg, Lörracher Straße",47.97939,7.819858
+349,390532,"Freiburg, Löwen",47.977203,7.911032
+350,49203,"Freiburg, Löwen",47.97702,7.910634
+351,214004,"Freiburg, Maria-Hilf-Kirche",47.98839,7.864642
+352,355283,"Freiburg, Maria-Hilf-Kirche",47.988422,7.865003
+353,220618,"Freiburg, Maria-von-Rudloff-Platz",47.999176,7.791414
+354,286802,"Freiburg, Maria-von-Rudloff-Platz",47.99937,7.791074
+355,103434,"Freiburg, Marienmattenweg",47.993225,7.831012
+356,336080,"Freiburg, Marienmattenweg",47.99349,7.830216
+357,111643,"Freiburg, Markgrafenstraße",47.99356,7.822041
+358,1341,"Freiburg, Markgrafenstraße",47.99354,7.821947
+359,284750,"Freiburg, Mathias-Blank-Straße",47.997105,7.821478
+360,399945,"Freiburg, Mathias-Blank-Straße",47.997265,7.821327
+361,188983,"Freiburg, Mattenstraße",47.98972,7.843511
+362,79983,"Freiburg, Mattenstraße",47.989418,7.843089
+363,408522,"Freiburg, Max-Planck-Institut",48.024845,7.848504
+364,434086,"Freiburg, Max-Planck-Institut",48.024876,7.848705
+365,145243,"Freiburg, Messe Freiburg",48.01883,7.839415
+366,145517,"Freiburg, Messe Freiburg",48.019215,7.839501
+367,180840,"Freiburg, Messe Freiburg",48.018864,7.839281
+368,186182,"Freiburg, Messe Freiburg",48.01929,7.839767
+369,310302,"Freiburg, Messe Freiburg",48.01889,7.839535
+370,324583,"Freiburg, Messe Freiburg",48.018864,7.839281
+371,332709,"Freiburg, Messe Freiburg",48.018513,7.839355
+372,42192,"Freiburg, Messe Freiburg",48.019287,7.839593
+373,433300,"Freiburg, Messe Freiburg",48.01914,7.83918
+374,86078,"Freiburg, Messe Freiburg",48.01863,7.83942
+375,330665,"Freiburg, Molzhofsiedlung",47.95054,7.912047
+376,419789,"Freiburg, Molzhofstraße",47.9515,7.912803
+377,10967,"Freiburg, Moosackerweg",47.984203,7.795889
+378,20556,"Freiburg, Moosackerweg",47.984066,7.795651
+379,220142,"Freiburg, Moosgrund",48.01823,7.811559
+380,45631,"Freiburg, Moosgrund",48.01835,7.811825
+381,443816,"Freiburg, Mooswaldallee",48.03258,7.860414
+382,450413,"Freiburg, Mooswaldallee",48.032753,7.860262
+383,357070,"Freiburg, Moosweiher",48.02879,7.809037
+384,361921,"Freiburg, Moosweiher",48.028526,7.809057
+385,407987,"Freiburg, Moosweiher",48.028645,7.808893
+386,434187,"Freiburg, Moosweiher",48.02859,7.809082
+387,170869,"Freiburg, Mundenhof",48.008343,7.782019
+388,347696,"Freiburg, Mundenhof",48.008537,7.781947
+389,71805,"Freiburg, Mundenhof Wirtgeb.",48.015945,7.776599
+390,105919,"Freiburg, Munzinger Straße",47.987667,7.795916
+391,119813,"Freiburg, Munzinger Straße",47.988125,7.795972
+392,153366,"Freiburg, Munzinger Straße",47.988102,7.796147
+393,200234,"Freiburg, Munzinger Straße",47.98832,7.796463
+394,214740,"Freiburg, Munzinger Straße",47.988396,7.796087
+395,292448,"Freiburg, Munzinger Straße",47.987827,7.795899
+396,292937,"Freiburg, Munzinger Straße",47.987972,7.796096
+397,388647,"Freiburg, Munzinger Straße",47.98852,7.795883
+398,454010,"Freiburg, Munzinger Straße",47.98827,7.796009
+399,170635,"Freiburg, Musikhochschule",47.988,7.873078
+400,246608,"Freiburg, Musikhochschule",47.98793,7.873454
+401,266259,"Freiburg, Mühle",47.99481,7.82622
+402,63960,"Freiburg, Mühle",47.994854,7.826393
+403,264437,"Freiburg, Nelly-Sachs-Straße",47.99683,7.789713
+404,22784,"Freiburg, Nepomukbrücke",47.987377,7.89809
+405,314990,"Freiburg, Nepomukbrücke",47.98731,7.898186
+406,162341,"Freiburg, Obergasse",47.977474,7.794921
+407,366733,"Freiburg, Obergasse",47.977665,7.795037
+408,136581,"Freiburg, Okenstraße",48.01093,7.85447
+409,181668,"Freiburg, Okenstraße",48.010616,7.854571
+410,397527,"Freiburg, Okenstraße",48.01149,7.855745
+411,93193,"Freiburg, Okenstraße",48.00979,7.860044
+412,326370,"Freiburg, Opfingen Rathaus",48.000187,7.715368
+413,6157,"Freiburg, Opfingen Rathaus",48.00025,7.715541
+414,274496,"Freiburg, Opfingen Ziegelei",47.99917,7.726409
+415,87078,"Freiburg, Opfingen Ziegelei",47.999027,7.727766
+416,178395,"Freiburg, Paduaallee",48.01373,7.807722
+417,185956,"Freiburg, Paduaallee",48.01385,7.807464
+418,3155,"Freiburg, Paduaallee",48.013683,7.807642
+419,41628,"Freiburg, Paduaallee",48.013897,7.807651
+420,435671,"Freiburg, Paduaallee",48.014065,7.807312
+421,48576,"Freiburg, Paduaallee",48.013775,7.807908
+422,89754,"Freiburg, Paduaallee",48.014168,7.807671
+423,296371,"Freiburg, Paula-Modersohn-Platz",47.974083,7.827935
+424,348569,"Freiburg, Paula-Modersohn-Platz",47.974148,7.827974
+425,278238,"Freiburg, Peter-Thumb-Straße",47.978638,7.831007
+426,69334,"Freiburg, Peter-Thumb-Straße",47.978874,7.831135
+427,33322,"Freiburg, Peterbergstraße",47.967133,7.909382
+428,78750,"Freiburg, Peterbergstraße",47.966446,7.909088
+429,279619,"Freiburg, Pfarrheim",47.988487,7.906655
+430,894,"Freiburg, Pfarrheim",47.988335,7.905908
+431,180135,"Freiburg, Pressehaus",47.98644,7.829303
+432,305550,"Freiburg, Pressehaus",47.98638,7.829264
+433,431254,"Freiburg, Pressehaus",47.985638,7.829455
+434,226207,"Freiburg, Päd. Hochschule",47.98128,7.894456
+435,397076,"Freiburg, Päd. Hochschule",47.98116,7.894673
+436,408826,"Freiburg, R.-Schneider-Straße",47.981342,7.901903
+437,160106,"Freiburg, Rathaus im Stühlinger",48.00029,7.831241
+438,307583,"Freiburg, Rathaus im Stühlinger",48.000324,7.832835
+439,347869,"Freiburg, Rathaus im Stühlinger",48.000298,7.832903
+440,85822,"Freiburg, Rathaus im Stühlinger",48.000015,7.831783
+441,212090,"Freiburg, Rehlingstraße",47.990383,7.837775
+442,69224,"Freiburg, Rehlingstraße",47.989838,7.837185
+443,306096,"Freiburg, Reiterstraße",47.987373,7.839879
+444,330167,"Freiburg, Reiterstraße",47.987293,7.840243
+445,278364,"Freiburg, Rennweg",48.008636,7.84908
+446,291436,"Freiburg, Rennweg",48.00873,7.847657
+447,41195,"Freiburg, Rennweg",48.008793,7.847722
+448,59937,"Freiburg, Rennweg",48.008778,7.848996
+449,251099,"Freiburg, Reutebachgasse",48.022526,7.858329
+450,82749,"Freiburg, Reutebachgasse",48.022587,7.858301
+451,17679,"Freiburg, Richard-Strauss-Str.",48.01124,7.863082
+452,217327,"Freiburg, Richard-Strauss-Str.",48.011147,7.862856
+453,206430,"Freiburg, Riegeler Straße",47.988243,7.788346
+454,237077,"Freiburg, Riegeler Straße",47.98789,7.788046
+455,252440,"Freiburg, Rimsinger Weg",47.993248,7.788712
+456,260999,"Freiburg, Rimsinger Weg",47.993347,7.788642
+457,135078,"Freiburg, Rivanerweg",47.98213,7.711663
+458,171346,"Freiburg, Rivanerweg",47.981964,7.711386
+459,250146,"Freiburg, Robert-Grumbach-Platz",48.011497,7.829567
+460,344247,"Freiburg, Robert-Grumbach-Platz",48.011055,7.830207
+461,239469,"Freiburg, Robert-Koch-Straße",48.003616,7.8365
+462,308554,"Freiburg, Robert-Koch-Straße",48.003616,7.836406
+463,30860,"Freiburg, Rohrgraben",47.999344,7.810036
+464,326061,"Freiburg, Rohrgraben",47.9993,7.809957
+465,282417,"Freiburg, Runzmattenweg",48.002262,7.82518
+466,452934,"Freiburg, Runzmattenweg",48.00204,7.825587
+467,218092,"Freiburg, Römerhof",47.9862,7.88855
+468,244983,"Freiburg, Römerhof",47.98602,7.889478
+469,341345,"Freiburg, Römerstraße",47.97855,7.900234
+470,236423,"Freiburg, Sandfangweg",47.991486,7.880036
+471,302786,"Freiburg, Sandfangweg",47.991413,7.879957
+472,143216,"Freiburg, Sandstraße",48.00813,7.862132
+473,283224,"Freiburg, Sandstraße",48.00952,7.862865
+474,142495,"Freiburg, Schaub",47.983192,7.779409
+475,220719,"Freiburg, Schaub",47.98291,7.779174
+476,267676,"Freiburg, Scherrerplatz",47.99076,7.820028
+477,26939,"Freiburg, Scherrerplatz",47.99077,7.820202
+478,297897,"Freiburg, Scherrerplatz",47.9905,7.819618
+479,366215,"Freiburg, Scherrerplatz",47.990574,7.819509
+480,341731,"Freiburg, Schiff",47.982426,7.804062
+481,97413,"Freiburg, Schiff",47.9824,7.802174
+482,256662,"Freiburg, Schlachthof",48.030556,7.842786
+483,84893,"Freiburg, Schlachthof",48.030556,7.842786
+484,191052,"Freiburg, Schneeburgstraße",47.978725,7.810483
+485,394048,"Freiburg, Schneeburgstraße",47.978886,7.810252
+486,347118,"Freiburg, Schopfheimer Straße",47.981693,7.820141
+487,388012,"Freiburg, Schopfheimer Straße",47.981632,7.820088
+488,263866,"Freiburg, Schulstraße",47.9822,7.798695
+489,291481,"Freiburg, Schutternstraße",48.0239,7.724593
+490,315577,"Freiburg, Schutternstraße",48.02376,7.724462
+491,165882,"Freiburg, Schwabentorbrücke",47.99071,7.854275
+492,195800,"Freiburg, Schwabentorbrücke",47.99075,7.853939
+493,442467,"Freiburg, Schwabentorbrücke",47.990616,7.85488
+494,426773,"Freiburg, Schwabentorplatz",47.99293,7.854426
+495,431876,"Freiburg, Schwabentorplatz",47.992416,7.854076
+496,368327,"Freiburg, Siedlerhöfe",47.97891,7.707551
+497,86762,"Freiburg, Siedlerhöfe",47.978973,7.70771
+498,319,"Freiburg, Sonnenstraße",48.005947,7.849984
+499,401377,"Freiburg, Sonnenstraße",48.00536,7.849688
+500,20638,"Freiburg, St. Georgen Kirche",47.98095,7.793634
+501,352423,"Freiburg, St. Georgen Kirche",47.981113,7.794474
+502,243397,"Freiburg, St. Nikolaus",48.013,7.724151
+503,393899,"Freiburg, St. Nikolaus",48.01285,7.723458
+504,450529,"Freiburg, St. Nikolaus",48.01144,7.723721
+505,368085,"Freiburg, St.-Agatha Weg",48.057106,7.809592
+506,48407,"Freiburg, St.-Agatha Weg",48.056835,7.808565
+507,214191,"Freiburg, Stadion",48.01485,7.836556
+508,420651,"Freiburg, Stadtgarten",47.997864,7.856448
+509,51717,"Freiburg, Stadtgarten",47.998005,7.856351
+510,256880,"Freiburg, Stadttheater",47.99569,7.846071
+511,289409,"Freiburg, Stadttheater",47.995636,7.845014
+512,31846,"Freiburg, Stadttheater",47.995487,7.845446
+513,418596,"Freiburg, Stadttheater",47.995663,7.846005
+514,295138,"Freiburg, Starkenstraße",48.00267,7.860389
+515,96843,"Freiburg, Starkenstraße",48.002594,7.860096
+516,35709,"Freiburg, Streck Transport",48.03554,7.809995
+517,235838,"Freiburg, Struveweg",47.98736,7.801577
+518,93700,"Freiburg, Struveweg",47.987514,7.801131
+519,237623,"Freiburg, Stryker",47.985783,7.782724
+520,322844,"Freiburg, Stryker",47.986088,7.781618
+521,156375,"Freiburg, Stübeweg",48.027702,7.851618
+522,227315,"Freiburg, Stübeweg",48.027294,7.852164
+523,374789,"Freiburg, Stübeweg",48.027378,7.85247
+524,274192,"Freiburg, Sudetenstraße",47.978523,7.898547
+525,283130,"Freiburg, Sudetenstraße",47.97901,7.896634
+526,120788,"Freiburg, Technische Fakultät",48.012043,7.8356
+527,350596,"Freiburg, Technische Fakultät",48.01162,7.834658
+528,39003,"Freiburg, Technische Fakultät",48.012165,7.835249
+529,429112,"Freiburg, Technische Fakultät",48.01206,7.835399
+530,211388,"Freiburg, Tennenbacher Straße",48.00308,7.854644
+531,392015,"Freiburg, Tennenbacher Straße",48.003098,7.854603
+532,179460,"Freiburg, Tullastraße",48.01931,7.85706
+533,297450,"Freiburg, Tullastraße",48.019318,7.856912
+534,323491,"Freiburg, Tullastraße",48.019226,7.856807
+535,333142,"Freiburg, Tullastraße",48.01953,7.856813
+536,351458,"Freiburg, Tulpenstraße",48.0043,7.721377
+537,452486,"Freiburg, Tulpenstraße",48.0042,7.72134
+538,238355,"Freiburg, Uffhauser Straße",47.988262,7.813614
+539,458274,"Freiburg, Uffhauser Straße",47.988052,7.814114
+540,27401,"Freiburg, Unterdorf",48.00442,7.720115
+541,363771,"Freiburg, Unterdorf",48.004463,7.72002
+542,84313,"Freiburg, Unteres Grün",47.9844,7.904785
+543,87977,"Freiburg, Unteres Grün",47.984493,7.904716
+544,208308,"Freiburg, VAG-Zentrum",47.991722,7.797604
+545,309096,"Freiburg, VAG-Zentrum",47.99212,7.797527
+546,311562,"Freiburg, VAG-Zentrum",47.992058,7.797623
+547,426390,"Freiburg, Vauban-Mitte",47.97534,7.822562
+548,47121,"Freiburg, Vauban-Mitte",47.975433,7.822493
+549,139722,"Freiburg, Vogelsang",47.961727,7.862039
+550,92949,"Freiburg, Vogelsang",47.962067,7.86171
+551,143189,"Freiburg, Vogesenstraße",47.99669,7.829929
+552,282692,"Freiburg, Vogesenstraße",47.99639,7.830137
+553,417068,"Freiburg, Vogteistraße",47.98308,7.714654
+554,76378,"Freiburg, Vogteistraße",47.9828,7.714514
+555,271288,"Freiburg, Waltershofen Ochsen",48.02344,7.719215
+556,367527,"Freiburg, Waltershofen Ochsen",48.02344,7.719202
+557,419675,"Freiburg, Waltershofen Ochsen",48.02347,7.719308
+558,433041,"Freiburg, Waltershofen Ochsen",48.02347,7.719308
+559,422437,"Freiburg, Weddigenstraße",47.984066,7.836497
+560,7915,"Freiburg, Weddigenstraße",47.98419,7.836682
+561,116541,"Freiburg, Weiherhofschule",48.006107,7.863195
+562,280773,"Freiburg, Wiesenweg",47.96693,7.852617
+563,3803,"Freiburg, Wiesenweg",47.96672,7.853131
+564,385468,"Freiburg, Wiesenweg",47.966984,7.852576
+565,448903,"Freiburg, Wihlerweg",47.98252,7.804408
+566,292990,"Freiburg, Wildtalstraße",48.02998,7.86633
+567,358311,"Freiburg, Wildtalstraße",48.0292,7.865932
+568,352161,"Freiburg, Windhäuslegasse",47.967567,7.695687
+569,42592,"Freiburg, Windhäuslegasse",47.967773,7.695548
+570,355946,"Freiburg, Wippertskirch",48.012054,7.710114
+571,64225,"Freiburg, Wippertskirch",48.01216,7.710179
+572,67992,"Freiburg, Wirthstraße",48.02728,7.811888
+573,86139,"Freiburg, Wirthstraße",48.026978,7.812096
+574,153609,"Freiburg, Wonnhalde",47.974552,7.847533
+575,386747,"Freiburg, Wonnhalde",47.974487,7.847468
+576,369665,"Freiburg, Wöhlerstraße",48.03302,7.849315
+577,95928,"Freiburg, Wöhlerstraße",48.032913,7.849277
+578,222818,"Freiburg, Zartener Straße",47.98463,7.908893
+579,289814,"Freiburg, Zartener Straße",47.984756,7.90889
+580,250586,"Freiburg, Zenlinweg",47.9809,7.904337
+581,290158,"Freiburg, Ziegelhofstraße",48.01673,7.798966
+582,35563,"Freiburg, Ziegelhofstraße",48.018013,7.797703
+583,402400,"Freiburg, Ziegelhofstraße",48.01712,7.798287
+584,81618,"Freiburg, Ziegelhofstraße",48.016804,7.799032
+585,174977,"Freiburg, Zum Roten Stein",48.051178,7.79661
+586,184333,Horben Bernauer,47.95034,7.865556
+587,77358,Horben Bernauer,47.950466,7.865606
+588,122884,Kappel (Frbg) Faigle,47.974083,7.919643
+589,181318,Kappel (Frbg) Königsberger Str,47.97559,7.915445
+590,29693,Kappel (Frbg) Ziegelmatten,47.972595,7.921093
+591,313248,Kappel Bahnhofstraße,47.975834,7.915467
+592,220307,Littenweiler Am Hörchersberg,47.9773,7.907748
+593,9654,Littenweiler Höllentalstr.,47.977734,7.903345
+594,19975,Littenweiler Löwen,47.977203,7.910978
+595,238562,Littenweiler Päd. Hochschule,47.98105,7.894595
+596,277087,Littenweiler Römerstraße,47.978516,7.899444
+597,69156,Littenweiler Schiff,47.98792,7.875652
+598,24460,Littenweiler Sudetenstr.,47.979195,7.896215
+599,370312,Munzingen Romansstraße,47.968468,7.698852
+600,127066,Munzingen Romanstraße,47.967888,7.699241
+601,365937,Munzingen Romanstraße,47.967968,7.699065
+602,373252,Munzingen Romanstraße,47.967896,7.699241
+603,313739,Munzingen Windhäuslegasse,47.967606,7.695592
+604,161995,St. Georgen Blumenstraße,47.980988,7.803841
+605,265281,St. Georgen Gabelsbergerstr,47.978264,7.816053
+606,162613,St. Georgen Kirche,47.98101,7.794035
+607,381875,St. Georgen Schiff,47.98243,7.803446

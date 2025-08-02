@@ -1,0 +1,1640 @@
+node_id,stop_id,stop_name,stop_lat,stop_lon
+0,155628,- Obermeiderich Bf,51.468315,6.820962
+1,338810,- Obermeiderich Bf,51.468315,6.820962
+2,376264,- Obermeiderich Bf,51.468315,6.820962
+3,253134,Betr. Am Unkelstein,51.444126,6.771078
+4,91743,Betr. Am Unkelstein,51.44412,6.771411
+5,304556,DU - Bissingheim Dorfplatz,51.392357,6.812033
+6,16455,DU- Hbf Westeingang,51.430756,6.770144
+7,180609,DU- Hbf Westeingang,51.43042,6.771123
+8,333302,DU- Hbf Westeingang,51.43042,6.771123
+9,429516,DU- Hbf Westeingang,51.430756,6.770144
+10,111939,DU-Friedrich-Ebert-Straße,51.407608,6.712652
+11,18513,DU-Friedrich-Ebert-Straße,51.407776,6.712966
+12,25456,DU-Friedrich-Ebert-Straße,51.407608,6.712652
+13,359685,DU-Friedrich-Ebert-Straße,51.407776,6.712966
+14,370019,DU-Friedrich-Ebert-Straße,51.407608,6.712652
+15,80845,DU-Friedrich-Ebert-Straße,51.407776,6.712966
+16,139234,DU-Hbf Osteingang,51.429882,6.778481
+17,293547,DU-Hbf Osteingang,51.42992,6.777277
+18,312916,DU-Hbf Osteingang,51.429882,6.778481
+19,385117,DU-Hbf Osteingang,51.42992,6.777277
+20,396470,DU-Hbf Osteingang,51.42992,6.777277
+21,68309,DU-Hbf Osteingang,51.42992,6.777277
+22,78456,DU-Hbf Osteingang,51.429844,6.778274
+23,10692,DU-Landschaftspark Nord,51.479332,6.792629
+24,323656,DU-Landschaftspark Nord,51.47927,6.792863
+25,41945,DU-Landschaftspark Nord,51.479454,6.794165
+26,48382,DU-Landschaftspark Nord,51.479523,6.793249
+27,90747,DU-Landschaftspark Nord,51.47955,6.792872
+28,143654,DU-Obermarxloh Schleife,51.507,6.785766
+29,394690,DU-Obermarxloh Schleife,51.50676,6.785874
+30,403977,DU-Obermarxloh Schleife,51.50711,6.78573
+31,41727,DU-Obermarxloh Schleife,51.5067,6.786287
+32,335906,DU-St.Johannes Hospital,51.489265,6.763649
+33,70077,DU-St.Johannes Hospital,51.488995,6.762868
+34,129949,Duis. Großenbaum Bf West,51.36541,6.776441
+35,66406,Duis. Großenbaum Bf West,51.365112,6.776343
+36,193449,Duisb. Friedrich-Wilhelm-Platz,51.43187,6.761179
+37,284702,Duisb. Friedrich-Wilhelm-Platz,51.43187,6.761179
+38,351011,Duisb. Friedrich-Wilhelm-Platz,51.432037,6.761502
+39,437730,Duisb. Friedrich-Wilhelm-Platz,51.432037,6.761502
+40,166798,Duisbg. Am Ungelsheimer Graben,51.35273,6.728786
+41,96861,Duisbg. Am Ungelsheimer Graben,51.352676,6.729433
+42,152040,Duisburg Abzw. Krefelder Str.,51.353725,6.783304
+43,399429,Duisburg Abzw. Krefelder Str.,51.353546,6.783484
+44,132806,Duisburg Adamstraße,51.508823,6.794093
+45,163754,Duisburg Adamstraße,51.508774,6.794551
+46,443279,Duisburg Adamstraße,51.508774,6.794551
+47,50044,Duisburg Adamstraße,51.508823,6.794093
+48,57345,Duisburg Adamstraße,51.508774,6.794551
+49,86256,Duisburg Adamstraße,51.508823,6.794093
+50,126202,Duisburg Albert-Einstein-Str.,51.497265,6.807793
+51,296287,Duisburg Albert-Einstein-Str.,51.497265,6.807793
+52,399018,Duisburg Albert-Einstein-Str.,51.497265,6.807793
+53,435414,Duisburg Albert-Einstein-Str.,51.497337,6.808332
+54,81236,Duisburg Albert-Einstein-Str.,51.497337,6.808332
+55,99456,Duisburg Albert-Einstein-Str.,51.497337,6.808332
+56,300672,Duisburg Albert-Hahn-Straße,51.36034,6.779541
+57,316523,Duisburg Albert-Hahn-Straße,51.3609,6.779532
+58,320178,Duisburg Albertstr.,51.443,6.7473
+59,327997,Duisburg Albertstr.,51.44277,6.74774
+60,175912,Duisburg Albertus-Magnus-Str.,51.36337,6.749986
+61,48772,Duisburg Albertus-Magnus-Str.,51.363194,6.749797
+62,165713,Duisburg Albrechtstr.,51.471897,6.807487
+63,369353,Duisburg Albrechtstr.,51.47209,6.807254
+64,142716,Duisburg Alexanderstraße,51.476795,6.806813
+65,93870,Duisburg Alexanderstraße,51.477123,6.807047
+66,141491,Duisburg Alt-Walsum-Friedhof,51.533257,6.71011
+67,30488,Duisburg Alt-Walsum-Friedhof,51.533195,6.709679
+68,342712,Duisburg Alte Schanze,51.423958,6.779981
+69,4247,Duisburg Alte Schanze,51.424248,6.779621
+70,362280,Duisburg Alter Friedhof,51.41816,6.781014
+71,412396,Duisburg Alter Friedhof,51.418125,6.780708
+72,211260,Duisburg Altersheim,51.508812,6.777519
+73,25763,Duisburg Altersheim,51.508804,6.77734
+74,317242,Duisburg Altersheim,51.509087,6.776846
+75,419755,Duisburg Altersheim,51.508804,6.77734
+76,5370,Duisburg Altersheim,51.508812,6.777519
+77,76278,Duisburg Altersheim,51.509007,6.776873
+78,86246,Duisburg Altersheim,51.509007,6.776873
+79,99490,Duisburg Altersheim,51.509087,6.776846
+80,125330,Duisburg Altmarkt,51.49116,6.770512
+81,138723,Duisburg Altmarkt,51.49117,6.770845
+82,26349,Duisburg Altmarkt,51.49116,6.770512
+83,297848,Duisburg Altmarkt,51.49117,6.770845
+84,312746,Duisburg Altmarkt,51.49116,6.770512
+85,68619,Duisburg Altmarkt,51.49117,6.770845
+86,128316,Duisburg Am Atropshof,51.50516,6.814826
+87,160462,Duisburg Am Atropshof,51.505222,6.815105
+88,180145,Duisburg Am Atropshof,51.505222,6.815105
+89,249252,Duisburg Am Atropshof,51.50516,6.814826
+90,337414,Duisburg Am Atropshof,51.505222,6.815105
+91,38055,Duisburg Am Atropshof,51.50516,6.814826
+92,246638,Duisburg Am Biegerhof,51.376183,6.74597
+93,426084,Duisburg Am Biegerhof,51.37648,6.745881
+94,118285,Duisburg Am Bischofskamp,51.51145,6.779388
+95,334615,Duisburg Am Bischofskamp,51.511307,6.778921
+96,307497,Duisburg Am Dreieck,51.421883,6.69845
+97,350164,Duisburg Am Dreieck,51.42167,6.698279
+98,13878,Duisburg Am Driesenbusch,51.533966,6.733771
+99,141467,Duisburg Am Driesenbusch,51.534317,6.733592
+100,323943,Duisburg Am Dyck,51.52804,6.768743
+101,58822,Duisburg Am Dyck,51.52801,6.768168
+102,425687,Duisburg Am Finkenacker,51.356205,6.734876
+103,237411,Duisburg Am Gerrikshof,51.547207,6.714116
+104,328265,Duisburg Am Gerrikshof,51.54704,6.71417
+105,182917,Duisburg Am Gisbertsheim,51.543518,6.720548
+106,441244,Duisburg Am Gisbertsheim,51.543205,6.72133
+107,399027,Duisburg Am Golfplatz,51.37247,6.78485
+108,411793,Duisburg Am Golfplatz,51.37243,6.784805
+109,14009,Duisburg Am Großen Graben,51.369904,6.741102
+110,307040,Duisburg Am Großen Graben,51.369865,6.740679
+111,248593,Duisburg Am Hasselberg,51.35351,6.685271
+112,411378,Duisburg Am Hasselberg,51.353355,6.685649
+113,148835,Duisburg Am Heidberg,51.355236,6.739889
+114,151229,Duisburg Am Heidberg,51.355145,6.74006
+115,435697,Duisburg Am Heidberg,51.354984,6.739709
+116,115326,Duisburg Am Kanal,51.46284,6.796743
+117,431294,Duisburg Am Kanal,51.463066,6.796582
+118,261958,Duisburg Am Kirchmannshof,51.390675,6.778148
+119,33638,Duisburg Am Kirchmannshof,51.390682,6.778481
+120,222753,Duisburg Am Klapptor,51.35151,6.715607
+121,353698,Duisburg Am Klapptor,51.35165,6.715958
+122,227987,Duisburg Am Krähenhorst,51.373005,6.78008
+123,315114,Duisburg Am Krähenhorst,51.373436,6.780187
+124,183296,Duisburg Am Lohkamp,51.39762,6.670656
+125,36539,Duisburg Am Lohkamp,51.39752,6.670045
+126,106739,Duisburg Am Röhrenwerk,51.36241,6.710783
+127,292998,Duisburg Am Röhrenwerk,51.362534,6.711179
+128,251373,Duisburg Am Römerberg,51.53349,6.720315
+129,272616,Duisburg Am Römerberg,51.533413,6.720261
+130,179865,Duisburg Am Schlütershof,51.432552,6.738038
+131,303578,Duisburg Am Schlütershof,51.432396,6.736799
+132,240655,Duisburg Am See,51.39004,6.794066
+133,453260,Duisburg Am See,51.389515,6.793725
+134,59425,Duisburg Am See,51.38951,6.793941
+135,92581,Duisburg Am See,51.390038,6.7943
+136,178183,Duisburg Am Siepenkothen,51.364296,6.786377
+137,412599,Duisburg Am Siepenkothen,51.364033,6.786413
+138,301803,Duisburg Am Unkelstein,51.442436,6.764727
+139,432635,Duisburg Am Unkelstein,51.44228,6.764161
+140,222744,Duisburg Am Volkesberg,51.393093,6.673081
+141,39831,Duisburg Am Volkesberg,51.393406,6.672497
+142,256704,Duisburg Am Weißen Stein,51.54658,6.712481
+143,310916,Duisburg Am Weißen Stein,51.546127,6.71232
+144,181250,Duisburg Am Ziegelkamp,51.37303,6.746923
+145,227069,Duisburg Am Ziegelkamp,51.37339,6.746851
+146,12411,Duisburg Amsterdamer Straße,51.487225,6.790913
+147,140454,Duisburg Amsterdamer Straße,51.48689,6.790572
+148,166855,Duisburg Amsterdamer Straße,51.486897,6.790698
+149,219693,Duisburg Amsterdamer Straße,51.487225,6.790913
+150,360622,Duisburg Amsterdamer Straße,51.486897,6.790698
+151,383018,Duisburg Amsterdamer Straße,51.48708,6.791003
+152,43329,Duisburg Amsterdamer Straße,51.487225,6.790913
+153,88553,Duisburg Amsterdamer Straße,51.48713,6.79015
+154,247112,Duisburg An den Steinen,51.37821,6.675516
+155,429317,Duisburg An den Steinen,51.37842,6.676279
+156,240178,Duisburg An der Cölve,51.411407,6.672713
+157,447993,Duisburg An der Cölve,51.411453,6.672156
+158,450839,Duisburg An der Steinkaul,51.367184,6.723288
+159,453647,Duisburg An der Steinkaul,51.36743,6.724025
+160,311928,Duisburg Arlberger Straße,51.381184,6.769686
+161,58173,Duisburg Arlberger Straße,51.380856,6.769515
+162,361253,Duisburg Arnold-Dehnen-Str.,51.477043,6.800768
+163,40637,Duisburg Arnold-Dehnen-Str.,51.476803,6.800417
+164,12552,Duisburg Asberger Str.,51.44373,6.675147
+165,380122,Duisburg Asberger Str.,51.443993,6.676171
+166,20637,Duisburg Asterlagen,51.42409,6.698845
+167,235493,Duisburg Asterlagen,51.42481,6.697255
+168,260909,Duisburg Asterlagen,51.42409,6.698845
+169,303908,Duisburg Asterlagen,51.42418,6.698746
+170,369710,Duisburg Asterlagen,51.424747,6.697354
+171,457048,Duisburg Asterlagen,51.42418,6.698746
+172,266591,Duisburg Atroper Straße,51.408134,6.722237
+173,322687,Duisburg Atroper Straße,51.407703,6.722408
+174,67068,Duisburg Atroper Straße,51.407703,6.722408
+175,7044,Duisburg Atroper Straße,51.408134,6.722237
+176,176079,Duisburg Auf dem Damm,51.466007,6.773055
+177,214069,Duisburg Auf dem Damm,51.466007,6.773055
+178,267352,Duisburg Auf dem Damm,51.46579,6.772399
+179,371103,Duisburg Auf dem Damm,51.465904,6.773171
+180,381603,Duisburg Auf dem Damm,51.465904,6.773171
+181,437413,Duisburg Auf dem Damm,51.465874,6.77248
+182,245252,Duisburg Auf der Heide,51.41437,6.673
+183,322532,Duisburg Auf der Heide,51.414024,6.672713
+184,221375,Duisburg Ausbesserungswerk,51.399082,6.798773
+185,234728,Duisburg Ausbesserungswerk,51.398937,6.798199
+186,104994,Duisburg Baerl Kirche,51.4926,6.678543
+187,115053,Duisburg Baerl Kirche,51.49282,6.678902
+188,284898,Duisburg Baerl Kirche,51.49282,6.678902
+189,136651,Duisburg Baerl Kreisbahnhof,51.4859,6.667512
+190,242047,Duisburg Baerl Kreisbahnhof,51.485847,6.667601
+191,245156,Duisburg Baerl Kreisbahnhof,51.485847,6.667601
+192,425955,Duisburg Baerl Kreisbahnhof,51.4859,6.667512
+193,138952,Duisburg Baerl Schule,51.496883,6.673171
+194,317412,Duisburg Baerl Schule,51.49703,6.673072
+195,388830,Duisburg Baerl Schule,51.496883,6.673171
+196,36627,Duisburg Bahnhofstraße,51.535328,6.725615
+197,399664,Duisburg Bahnhofstraße,51.53545,6.725794
+198,198631,Duisburg Barbarasee,51.409367,6.79456
+199,457868,Duisburg Barbarasee,51.40971,6.794327
+200,325416,Duisburg Barbarastr.,51.49569,6.79368
+201,386844,Duisburg Barbarastr.,51.495766,6.79483
+202,290496,Duisburg Baumschulstr.,51.419598,6.667314
+203,47825,Duisburg Baumschulstr.,51.419632,6.667179
+204,173611,Duisburg Baustraße,51.47057,6.768851
+205,288070,Duisburg Baustraße,51.470505,6.769434
+206,139278,Duisburg Bayernstr.,51.507908,6.761296
+207,302149,Duisburg Bayernstr.,51.507637,6.761583
+208,196876,Duisburg Beeck Denkmal,51.479908,6.733071
+209,244153,Duisburg Beeck Denkmal,51.48002,6.733196
+210,342418,Duisburg Beeck Denkmal,51.47957,6.732945
+211,40820,Duisburg Beeck Denkmal,51.4796,6.733089
+212,191510,Duisburg Beguinenstr.,51.402206,6.693931
+213,343724,Duisburg Beguinenstr.,51.40205,6.694156
+214,51569,Duisburg Beguinenstr.,51.402206,6.693931
+215,65967,Duisburg Beguinenstr.,51.40205,6.694156
+216,129400,Duisburg Behringstr.,51.397945,6.709391
+217,233462,Duisburg Behringstr.,51.397644,6.706454
+218,283150,Duisburg Behringstr.,51.397644,6.706454
+219,55278,Duisburg Behringstr.,51.397945,6.709391
+220,368493,Duisburg Beim Knevelshof,51.382133,6.747004
+221,86903,Duisburg Beim Knevelshof,51.382347,6.747147
+222,171147,Duisburg Bennostr.,51.503567,6.817674
+223,429366,Duisburg Bennostr.,51.503662,6.818096
+224,213048,Duisburg Bergheimer Str.,51.415592,6.6988
+225,231856,Duisburg Bergheimer Str.,51.41562,6.698396
+226,145124,Duisburg Bergische Landwehr,51.382084,6.753579
+227,148515,Duisburg Bergische Landwehr,51.381954,6.753211
+228,178378,Duisburg Bergstr.,51.46871,6.750085
+229,292221,Duisburg Bergstr.,51.468864,6.75048
+230,267670,Duisburg Bertaallee,51.410534,6.777942
+231,93052,Duisburg Bertaallee,51.41062,6.77857
+232,136503,Duisburg Berufsschulen,51.498226,6.770611
+233,303991,Duisburg Berufsschulen,51.49797,6.770737
+234,293041,Duisburg Bethesda-Krankenhaus,51.41651,6.760083
+235,324163,Duisburg Bethesda-Krankenhaus,51.416595,6.760227
+236,266228,Duisburg Biesenstr.,51.46786,6.77186
+237,38035,Duisburg Biesenstr.,51.467525,6.771779
+238,107209,Duisburg Biesenwiese,51.49123,6.815473
+239,141260,Duisburg Biesenwiese,51.491276,6.815823
+240,288911,Duisburg Biesenwiese,51.491276,6.815823
+241,318953,Duisburg Biesenwiese,51.491276,6.815823
+242,335151,Duisburg Biesenwiese,51.49123,6.815473
+243,377424,Duisburg Biesenwiese,51.49123,6.815473
+244,294374,Duisburg Biggestraße,51.464443,6.815913
+245,81510,Duisburg Biggestraße,51.464443,6.815913
+246,411554,Duisburg Bindestraße,51.410645,6.663155
+247,132120,Duisburg Binnenschifffahrtsm.,51.458687,6.731292
+248,372109,Duisburg Binnenschifffahrtsm.,51.458782,6.730807
+249,162101,Duisburg Binsheim Bosch,51.511265,6.700076
+250,272411,Duisburg Binsheim Bosch,51.51148,6.69977
+251,166629,Duisburg Binsheim Scholten,51.51694,6.693778
+252,219925,Duisburg Binsheim Scholten,51.51689,6.693769
+253,206692,Duisburg Birkenstraße,51.46557,6.688874
+254,150700,Duisburg Bismarckplatz,51.449734,6.706427
+255,220827,Duisburg Bismarckplatz,51.449734,6.706427
+256,257805,Duisburg Bismarckplatz,51.4498,6.70675
+257,314431,Duisburg Bismarckplatz,51.4498,6.70675
+258,139056,Duisburg Bismarckstraße,51.426334,6.784364
+259,19681,Duisburg Bismarckstraße,51.426334,6.784364
+260,233965,Duisburg Bismarckstraße,51.426334,6.784364
+261,28221,Duisburg Bismarckstraße,51.426865,6.784095
+262,294197,Duisburg Bismarckstraße,51.426243,6.784499
+263,378577,Duisburg Bismarckstraße,51.427166,6.784454
+264,4588,Duisburg Bismarckstraße,51.426243,6.784499
+265,48509,Duisburg Bismarckstraße,51.426243,6.784499
+266,335230,Duisburg Blankenburger Straße,51.358597,6.734553
+267,139497,Duisburg Blechwalzwerk,51.365257,6.718087
+268,154828,Duisburg Blechwalzwerk,51.365433,6.718491
+269,152666,Duisburg Blumenstraße,51.428097,6.782137
+270,259569,Duisburg Blumenstraße,51.428097,6.782137
+271,367280,Duisburg Blumenstraße,51.427803,6.782496
+272,378734,Duisburg Blumenstraße,51.427803,6.782496
+273,394519,Duisburg Blumenstraße,51.427803,6.782496
+274,439985,Duisburg Blumenstraße,51.428097,6.782137
+275,369080,Duisburg Borgschenhof,51.39205,6.688999
+276,439995,Duisburg Borgschenhof,51.392345,6.689673
+277,122150,Duisburg Boschstr.,51.490376,6.794713
+278,236667,Duisburg Boschstr.,51.49039,6.794974
+279,284167,Duisburg Boschstr.,51.49039,6.794974
+280,315735,Duisburg Boschstr.,51.490376,6.794713
+281,422956,Duisburg Boschstr.,51.49039,6.794974
+282,75092,Duisburg Boschstr.,51.490376,6.794713
+283,161166,Duisburg Botanischer Garten,51.435383,6.796195
+284,221209,Duisburg Botanischer Garten,51.43593,6.796132
+285,286861,Duisburg Botanischer Garten,51.435383,6.796195
+286,75872,Duisburg Botanischer Garten,51.43593,6.796132
+287,124902,Duisburg Brauerei,51.4755,6.734724
+288,134351,Duisburg Brauerei,51.476475,6.735191
+289,167063,Duisburg Brauerei,51.476704,6.734274
+290,257674,Duisburg Brauerei,51.4765,6.735316
+291,28646,Duisburg Brauerei,51.476753,6.73423
+292,297346,Duisburg Brauerei,51.475475,6.734724
+293,211639,Duisburg Breite Str.,51.51407,6.752465
+294,219141,Duisburg Breite Str.,51.51417,6.752492
+295,232505,Duisburg Breitenkamp,51.35279,6.719048
+296,291144,Duisburg Breitenkamp,51.3527,6.718536
+297,255058,Duisburg Brengersweg,51.354584,6.78555
+298,413558,Duisburg Brengersweg,51.354507,6.785065
+299,137470,Duisburg Brunostr.,51.50646,6.820171
+300,401476,Duisburg Brunostr.,51.50646,6.820171
+301,402335,Duisburg Brunostr.,51.50646,6.820171
+302,50198,Duisburg Brückelstraße,51.469635,6.781508
+303,86188,Duisburg Brückelstraße,51.469395,6.781274
+304,267417,Duisburg Brückenplatz,51.423565,6.754657
+305,336763,Duisburg Brückenplatz,51.42388,6.754756
+306,17478,Duisburg Buchenstr.,51.406567,6.68908
+307,189937,Duisburg Buchenstr.,51.406567,6.68908
+308,306955,Duisburg Buchenstr.,51.40617,6.689422
+309,415626,Duisburg Buchenstr.,51.40617,6.689422
+310,453426,Duisburg Buchholz Bf,51.383945,6.776855
+311,99366,Duisburg Buchholz Bf,51.383724,6.777133
+312,36310,Duisburg Bunker,51.476837,6.696896
+313,402930,Duisburg Bunker,51.476692,6.697282
+314,295630,Duisburg Buschhauser Str.,51.498837,6.815797
+315,65408,Duisburg Buschhauser Str.,51.498837,6.815797
+316,83161,Duisburg Buschhauser Str.,51.498837,6.815797
+317,186265,Duisburg Businesspark,51.428654,6.704971
+318,224117,Duisburg Businesspark,51.428654,6.704971
+319,347793,Duisburg Businesspark,51.427944,6.70428
+320,439223,Duisburg Businesspark,51.427944,6.70428
+321,5498,Duisburg Businesspark,51.4284,6.703893
+322,66501,Duisburg Businesspark Nord,51.43091,6.70083
+323,68416,Duisburg Businesspark Nord,51.430813,6.701396
+324,317000,Duisburg Bücken,51.397575,6.6988
+325,389222,Duisburg Bücken,51.397575,6.6988
+326,4985,Duisburg Bücken,51.397373,6.698575
+327,62694,Duisburg Bücken,51.397373,6.698575
+328,385139,Duisburg Bürgerstraße,51.42535,6.796447
+329,442048,Duisburg Bürgerstraße,51.425755,6.79668
+330,262309,Duisburg Centrum Westende,51.466507,6.785748
+331,365299,Duisburg Centrum Westende,51.466637,6.785757
+332,40586,Duisburg Charlottenstraße,51.4308,6.751854
+333,445488,Duisburg Charlottenstraße,51.430172,6.752573
+334,30914,Duisburg Chemiewerk Essenberg,51.44157,6.707442
+335,346007,Duisburg Chemiewerk Essenberg,51.442078,6.707451
+336,396652,Duisburg Chemiewerk Essenberg,51.442078,6.707451
+337,402158,Duisburg Chemiewerk Essenberg,51.44157,6.707442
+338,211877,Duisburg Coburger Straße,51.512604,6.789503
+339,221656,Duisburg Coburger Straße,51.512314,6.789754
+340,29737,Duisburg Dahlingschule,51.382835,6.702537
+341,351152,Duisburg Dahlingschule,51.382706,6.70171
+342,396918,Duisburg Dahlingschule,51.382706,6.70171
+343,4423,Duisburg Dahlingschule,51.382835,6.702537
+344,215660,Duisburg Dahlingstr.,51.382984,6.693626
+345,396940,Duisburg Dahlingstr.,51.382984,6.693626
+346,49866,Duisburg Dahlingstr.,51.38293,6.693464
+347,94169,Duisburg Dahlingstr.,51.38293,6.693464
+348,403530,Duisburg Dammhaus,51.35346,6.66532
+349,440611,Duisburg Dammhaus,51.353714,6.665661
+350,241272,Duisburg Daressalamstraße,51.37159,6.767377
+351,364041,Duisburg Daressalamstraße,51.371326,6.767243
+352,180616,Duisburg Dienstleistungspark,51.487953,6.749312
+353,289997,Duisburg Diergardt I,51.420937,6.705097
+354,307729,Duisburg Diergardt I,51.42088,6.705097
+355,423947,Duisburg Diergardt I,51.42088,6.705097
+356,438210,Duisburg Diergardt I,51.420937,6.705097
+357,134157,Duisburg Donaustr.,51.356808,6.784221
+358,228549,Duisburg Donaustr.,51.356537,6.784517
+359,27031,Duisburg Dr.A.Herrhausen Allee,51.430054,6.699105
+360,288234,Duisburg Dr.A.Herrhausen Allee,51.42996,6.699689
+361,237369,Duisburg Drakerfeld,51.470303,6.792476
+362,370113,Duisburg Drakerfeld,51.470894,6.792647
+363,149803,Duisburg Duisburger Straße,51.449554,6.701585
+364,210996,Duisburg Duisburger Straße,51.449554,6.701585
+365,212221,Duisburg Duisburger Straße,51.449512,6.700929
+366,5065,Duisburg Duisburger Straße,51.449512,6.700929
+367,186140,Duisburg Duissern U-Bf,51.439266,6.783026
+368,206155,Duisburg Duissern U-Bf,51.43925,6.783125
+369,257119,Duisburg Duissern U-Bf,51.43925,6.783125
+370,262805,Duisburg Duissern U-Bf,51.439075,6.782748
+371,272800,Duisburg Duissern U-Bf,51.439075,6.782748
+372,349094,Duisburg Duissern U-Bf,51.438854,6.782128
+373,123639,Duisburg Dümpten Bf,51.463413,6.812015
+374,237165,Duisburg Dümpten Bf,51.463367,6.811296
+375,417566,Duisburg Dümpten Bf,51.463367,6.811296
+376,444827,Duisburg Dümpten Bf,51.463413,6.812015
+377,137277,Duisburg Dümpter Straße,51.460022,6.805403
+378,227215,Duisburg Dümpter Straße,51.46029,6.804702
+379,303425,Duisburg Dümpter Straße,51.460022,6.805403
+380,400329,Duisburg Dümpter Straße,51.46029,6.804702
+381,339443,Duisburg Ehingen Denkmal,51.368088,6.70039
+382,395685,Duisburg Ehingen Denkmal,51.36821,6.70083
+383,28182,Duisburg Ehingen Friedhof,51.36281,6.700803
+384,4920,Duisburg Ehingen Friedhof,51.36263,6.701342
+385,166319,Duisburg Ehinger Berg,51.35978,6.689466
+386,196012,Duisburg Ehinger Berg,51.359097,6.692099
+387,24509,Duisburg Ehinger Berg,51.35998,6.689772
+388,118234,Duisburg Ehinger Straße,51.38563,6.746572
+389,263725,Duisburg Ehinger Straße,51.38574,6.746932
+390,271484,Duisburg Eibenweg,51.375275,6.780645
+391,273788,Duisburg Eibenweg,51.375656,6.780699
+392,223810,Duisburg Einkaufszentrum,51.418304,6.70949
+393,2363,Duisburg Einkaufszentrum,51.418304,6.70949
+394,353023,Duisburg Einkaufszentrum,51.418125,6.70967
+395,408694,Duisburg Einkaufszentrum,51.418125,6.70967
+396,11314,Duisburg Eisenbahnstr.,51.44368,6.707343
+397,282262,Duisburg Eisenbahnstr.,51.44416,6.707217
+398,344900,Duisburg Eisenbahnstr.,51.44368,6.707343
+399,35064,Duisburg Eisenbahnstr.,51.44416,6.707217
+400,157393,Duisburg Elbinger Straße,51.394337,6.796941
+401,438503,Duisburg Elbinger Straße,51.39444,6.797192
+402,322019,Duisburg Elisenstr.,51.474728,6.666272
+403,339712,Duisburg Elisenstr.,51.474815,6.666299
+404,207747,Duisburg Emscherbrücke,51.50832,6.775031
+405,223751,Duisburg Emscherbrücke,51.50832,6.775031
+406,266472,Duisburg Emscherbrücke,51.508408,6.775507
+407,328348,Duisburg Emscherbrücke,51.50832,6.775031
+408,379758,Duisburg Emscherbrücke,51.508408,6.775507
+409,391871,Duisburg Emscherbrücke,51.508408,6.775507
+410,208969,Duisburg Emstermannshof,51.474655,6.759903
+411,453278,Duisburg Emstermannshof,51.474777,6.75949
+412,212087,Duisburg Essenberg Brücke,51.43457,6.708142
+413,217785,Duisburg Essenberg Brücke,51.435867,6.707568
+414,301514,Duisburg Essenberg Brücke,51.435867,6.707568
+415,55231,Duisburg Essenberg Brücke,51.43457,6.708142
+416,183319,Duisburg Essenberg Kaiserstr.,51.43813,6.707523
+417,412621,Duisburg Essenberg Kaiserstr.,51.4391,6.707621
+418,5482,Duisburg Essenberg Kaiserstr.,51.43813,6.707523
+419,83719,Duisburg Essenberg Kaiserstr.,51.4391,6.707621
+420,234601,Duisburg Ev. Kirche,51.426113,6.690679
+421,303385,Duisburg Ev. Kirche,51.42613,6.691209
+422,196432,Duisburg Ewaldstr.,51.386257,6.704594
+423,290694,Duisburg Ewaldstr.,51.386597,6.704684
+424,311579,Duisburg Ewaldstr.,51.386257,6.704594
+425,93100,Duisburg Ewaldstr.,51.386597,6.704684
+426,225784,Duisburg Fa. Schmitz,51.44381,6.768078
+427,339122,Duisburg Fa. Schmitz,51.443943,6.768464
+428,216435,Duisburg Falkstraße,51.437634,6.778355
+429,345899,Duisburg Falkstraße,51.437634,6.777214
+430,118766,Duisburg Fasanenstraße,51.534615,6.741299
+431,408551,Duisburg Fasanenstraße,51.534916,6.741218
+432,207953,Duisburg Fasanenweg,51.429672,6.679846
+433,334844,Duisburg Fasanenweg,51.429394,6.680376
+434,178640,Duisburg Fischerstraße,51.402378,6.751324
+435,196197,Duisburg Fischerstraße,51.401943,6.751172
+436,202185,Duisburg Fiskusfriedhof,51.502415,6.813407
+437,370580,Duisburg Fiskusfriedhof,51.50227,6.812922
+438,137100,Duisburg Fiskusfriedhof Nord,51.504745,6.810847
+439,243477,Duisburg Fiskusfriedhof Nord,51.504745,6.810847
+440,288451,Duisburg Fiskusfriedhof Nord,51.504745,6.81108
+441,326193,Duisburg Fiskusfriedhof Nord,51.504745,6.810847
+442,327160,Duisburg Fiskusfriedhof Nord,51.504745,6.81108
+443,417246,Duisburg Fiskusfriedhof Nord,51.504745,6.81108
+444,101353,Duisburg Florastr.,51.46249,6.726675
+445,255331,Duisburg Florastr.,51.462852,6.726441
+446,25562,Duisburg Flutweg,51.41019,6.694713
+447,322025,Duisburg Flutweg,51.41019,6.694713
+448,424118,Duisburg Flutweg,51.41023,6.694722
+449,92135,Duisburg Flutweg,51.41023,6.694722
+450,262882,Duisburg Franz-Lenze-Platz,51.539402,6.721842
+451,300160,Duisburg Franz-Lenze-Platz,51.53934,6.721518
+452,3103,Duisburg Franz-Lenze-Platz,51.53934,6.721518
+453,62094,Duisburg Franz-Lenze-Platz,51.539402,6.721842
+454,214147,Duisburg Frauenwiese,51.505943,6.795342
+455,443697,Duisburg Frauenwiese,51.505604,6.795351
+456,24131,Duisburg Freihafen,51.459965,6.750992
+457,335928,Duisburg Freihafen,51.459633,6.750372
+458,331843,Duisburg Friedhof Bügelstr.,51.469826,6.799735
+459,373761,Duisburg Friedhof Bügelstr.,51.469524,6.799995
+460,334029,Duisburg Friedhofsallee,51.45629,6.6965
+461,351103,Duisburg Friedhofsallee,51.456806,6.696258
+462,155220,Duisburg Friedrich-Alfred-Str.,51.409332,6.716389
+463,173530,Duisburg Friedrich-Alfred-Str.,51.40909,6.717485
+464,183320,Duisburg Friedrich-Alfred-Str.,51.409893,6.71726
+465,225880,Duisburg Friedrich-Alfred-Str.,51.409893,6.71726
+466,252642,Duisburg Friedrich-Alfred-Str.,51.409893,6.71726
+467,300005,Duisburg Friedrich-Alfred-Str.,51.409332,6.716389
+468,333683,Duisburg Friedrich-Alfred-Str.,51.409332,6.716389
+469,2568,Duisburg Friedrichsplatz,51.45557,6.734822
+470,30662,Duisburg Friedrichsplatz,51.45588,6.734355
+471,315848,Duisburg Friedrichsplatz,51.45587,6.735092
+472,392919,Duisburg Friedrichsplatz,51.45588,6.734355
+473,423779,Duisburg Friedrichsplatz,51.456017,6.733906
+474,53007,Duisburg Friedrichsplatz,51.456017,6.733906
+475,155182,Duisburg Gaterweg,51.393932,6.715715
+476,228020,Duisburg Gaterweg,51.39369,6.715607
+477,228019,Duisburg Gehrstr.,51.489033,6.785514
+478,266986,Duisburg Gehrstr.,51.489033,6.785514
+479,318201,Duisburg Gehrstr.,51.48891,6.785838
+480,327388,Duisburg Gehrstr.,51.489033,6.785514
+481,54756,Duisburg Gehrstr.,51.48891,6.785838
+482,85875,Duisburg Gehrstr.,51.48891,6.785838
+483,186850,Duisburg Gerhardplatz,51.472546,6.774007
+484,238637,Duisburg Gerhardplatz,51.472202,6.773755
+485,280083,Duisburg Gerlingstr.,51.496037,6.789153
+486,335239,Duisburg Gerlingstr.,51.4958,6.789826
+487,282537,Duisburg Gestermannstraße,51.50875,6.782226
+488,349017,Duisburg Gestermannstraße,51.508736,6.782559
+489,373778,Duisburg Gestermannstraße,51.508736,6.782559
+490,417836,Duisburg Gestermannstraße,51.50875,6.782226
+491,442346,Duisburg Gestermannstraße,51.508736,6.782559
+492,97838,Duisburg Gestermannstraße,51.50875,6.782226
+493,304696,Duisburg Giesenfeldstr.,51.391148,6.65489
+494,317214,Duisburg Giesenfeldstr.,51.390995,6.655313
+495,222353,Duisburg Godesberger Straße,51.477474,6.694704
+496,90322,Duisburg Godesberger Straße,51.47749,6.695467
+497,315525,Duisburg Goebenstr.,51.51628,6.747183
+498,353771,Duisburg Goebenstr.,51.51645,6.746429
+499,152260,Duisburg Goetheplatz,51.45582,6.715311
+500,319925,Duisburg Goetheplatz,51.45565,6.715194
+501,365563,Duisburg Goetheplatz,51.45582,6.715311
+502,379665,Duisburg Goetheplatz,51.45565,6.715194
+503,231976,Duisburg Goslarer Straße,51.36038,6.734005
+504,289366,Duisburg Grabenacker,51.41269,6.68193
+505,347462,Duisburg Grabenacker,51.412796,6.68166
+506,351147,Duisburg Grabenacker,51.412796,6.68166
+507,80593,Duisburg Grabenacker,51.41269,6.68193
+508,283469,Duisburg Großenbaumer Allee,51.391148,6.78688
+509,317112,Duisburg Großenbaumer Allee,51.39115,6.787239
+510,135085,Duisburg Grunewald,51.412914,6.770225
+511,232848,Duisburg Grunewald,51.41376,6.770036
+512,384105,Duisburg Grunewald,51.412697,6.769812
+513,454311,Duisburg Grunewald,51.413345,6.770288
+514,155245,Duisburg Grunewald Betriebshof,51.409847,6.768258
+515,29278,Duisburg Grunewald Betriebshof,51.40983,6.768383
+516,412883,Duisburg Grunewald Betriebshof,51.409386,6.768105
+517,420494,Duisburg Grunewald Betriebshof,51.40982,6.7685
+518,118796,Duisburg Gräfen,51.425278,6.669299
+519,275332,Duisburg Gräfen,51.425278,6.669299
+520,283170,Duisburg Gräfen,51.42542,6.669111
+521,36254,Duisburg Gräfen,51.42542,6.669111
+522,18445,Duisburg Grünstraße,51.550385,6.71346
+523,205126,Duisburg Grünstraße,51.550358,6.713308
+524,278,Duisburg Grünstraße,51.550358,6.713308
+525,415284,Duisburg Grünstraße,51.550385,6.71346
+526,257252,Duisburg Gustavstraße,51.48572,6.753085
+527,324135,Duisburg Gustavstraße,51.485806,6.753076
+528,324682,Duisburg Günterstraße,51.41067,6.712221
+529,425630,Duisburg Günterstraße,51.410538,6.712158
+530,62016,Duisburg Günterstraße,51.41067,6.712221
+531,80595,Duisburg Günterstraße,51.410538,6.712158
+532,215893,Duisburg Hafenstr.,51.519424,6.733897
+533,9785,Duisburg Hafenstr.,51.51986,6.732765
+534,220431,Duisburg Hagenshof,51.481655,6.804145
+535,331526,Duisburg Hagenshof,51.48131,6.803418
+536,333615,Duisburg Halbeisen,51.4876,6.752582
+537,365953,Duisburg Halbeisen,51.488148,6.751567
+538,457627,Duisburg Halbeisen,51.487762,6.752564
+539,90494,Duisburg Halbeisen,51.488544,6.751801
+540,140471,Duisburg Halfmannstraße,51.502987,6.795836
+541,441017,Duisburg Halfmannstraße,51.503246,6.795602
+542,11491,Duisburg Hamborn Betriebshof,51.502674,6.783502
+543,118510,Duisburg Hamborn Betriebshof,51.502655,6.783493
+544,237813,Duisburg Hamborn Betriebshof,51.50285,6.783709
+545,85283,Duisburg Hamborn Betriebshof,51.502872,6.783709
+546,126828,Duisburg Hamborn Feuerwache,51.4902,6.781562
+547,273204,Duisburg Hamborn Feuerwache,51.490208,6.781427
+548,284620,Duisburg Hamborn Feuerwache,51.49025,6.781409
+549,309541,Duisburg Hamborn Feuerwache,51.4902,6.781562
+550,363835,Duisburg Hamborn Feuerwache,51.490147,6.781741
+551,405478,Duisburg Hamborn Feuerwache,51.490345,6.781202
+552,53418,Duisburg Hamborn Feuerwache,51.4902,6.781562
+553,83386,Duisburg Hamborn Feuerwache,51.4902,6.781562
+554,201901,Duisburg Hamborn Rathaus,51.492622,6.774492
+555,236946,Duisburg Hamborn Rathaus,51.492622,6.774492
+556,259484,Duisburg Hamborn Rathaus,51.49417,6.772866
+557,260311,Duisburg Hamborn Rathaus,51.49274,6.774546
+558,298776,Duisburg Hamborn Rathaus,51.493904,6.773207
+559,347532,Duisburg Hamborn Rathaus,51.4944,6.772561
+560,353644,Duisburg Hamborn Rathaus,51.493904,6.773207
+561,52771,Duisburg Hamborn Rathaus,51.49274,6.774546
+562,60290,Duisburg Hamborn Rathaus,51.494324,6.772875
+563,79798,Duisburg Hamborn Rathaus,51.494324,6.772875
+564,154956,Duisburg Hamburger Straße,51.392998,6.723117
+565,335047,Duisburg Hamburger Straße,51.392807,6.723081
+566,320084,Duisburg Hansegracht,51.439835,6.767961
+567,325509,Duisburg Hansegracht,51.440044,6.768087
+568,227280,Duisburg Hauerstr.,51.53832,6.710083
+569,286159,Duisburg Hauerstr.,51.538017,6.709535
+570,329813,Duisburg Haus Gerdt,51.472763,6.682945
+571,34219,Duisburg Haus Gerdt,51.473022,6.682505
+572,173578,Duisburg Hbf,51.432034,6.778283
+573,177266,Duisburg Hbf,51.431877,6.777968
+574,202322,Duisburg Hbf,51.431812,6.776091
+575,242769,Duisburg Hbf,51.431892,6.777286
+576,245979,Duisburg Hbf,51.431892,6.777286
+577,294306,Duisburg Hbf,51.43195,6.777618
+578,353058,Duisburg Hbf,51.431812,6.776091
+579,35844,Duisburg Hbf,51.43195,6.777618
+580,36346,Duisburg Hbf,51.43178,6.77707
+581,421209,Duisburg Hbf,51.432034,6.778283
+582,17815,Duisburg Heckmann,51.508045,6.748216
+583,51625,Duisburg Heckmann,51.507095,6.7496
+584,158345,Duisburg Heerstraße,51.41896,6.758637
+585,162288,Duisburg Heerstraße,51.419144,6.760245
+586,244299,Duisburg Heerstraße,51.4193,6.760784
+587,307028,Duisburg Heerstraße,51.419144,6.758825
+588,395329,Duisburg Heerstraße,51.419144,6.760245
+589,87631,Duisburg Heerstraße,51.4193,6.760784
+590,100523,Duisburg Heiligenbaumstraße,51.383015,6.742332
+591,254271,Duisburg Heiligenbaumstraße,51.3831,6.742359
+592,381110,Duisburg Heiligenbaumstraße,51.38367,6.742692
+593,434519,Duisburg Heiligenbaumstraße,51.383533,6.742251
+594,141932,Duisburg Heinestraße,51.426907,6.791273
+595,242081,Duisburg Heinestraße,51.426907,6.791273
+596,320434,Duisburg Heinestraße,51.426907,6.791273
+597,42784,Duisburg Heinestraße,51.426556,6.790904
+598,439185,Duisburg Heinestraße,51.426556,6.790904
+599,447303,Duisburg Heinestraße,51.426556,6.790904
+600,142158,Duisburg Heinr.-Kerlen-Straße,51.484116,6.668832
+601,302689,Duisburg Heinr.-Kerlen-Straße,51.484116,6.668832
+602,383267,Duisburg Heinr.-Kerlen-Straße,51.48413,6.668733
+603,52204,Duisburg Heinr.-Kerlen-Straße,51.48413,6.668733
+604,111780,Duisburg Helmholtzstraße,51.474117,6.74147
+605,13289,Duisburg Helmholtzstraße,51.474403,6.741245
+606,222701,Duisburg Herkenweg,51.4034,6.700435
+607,231268,Duisburg Herkenweg,51.40378,6.701091
+608,23817,Duisburg Herkenweg,51.4034,6.700435
+609,88627,Duisburg Herkenweg,51.40378,6.701091
+610,159385,Duisburg Hermann-Grothe-Str.,51.398876,6.810344
+611,206769,Duisburg Hermann-Grothe-Str.,51.39862,6.810487
+612,142529,Duisburg Hermannstraße,51.505383,6.763497
+613,204186,Duisburg Hermannstraße,51.50528,6.762724
+614,303059,Duisburg Hermannstraße,51.50528,6.762724
+615,339543,Duisburg Hermannstraße,51.505383,6.763497
+616,406482,Duisburg Hermannstraße,51.50528,6.762724
+617,455345,Duisburg Hermannstraße,51.5052,6.762769
+618,64389,Duisburg Hermannstraße,51.505383,6.763497
+619,79497,Duisburg Hermannstraße,51.50537,6.763236
+620,311943,Duisburg Herzogstr.,51.543556,6.726342
+621,411421,Duisburg Herzogstr.,51.543587,6.726818
+622,212392,Duisburg Hochfeld Brückenkopf,51.41655,6.741389
+623,320775,Duisburg Hochfeld Brückenkopf,51.41655,6.741389
+624,356065,Duisburg Hochfeld Brückenkopf,51.41649,6.741533
+625,39480,Duisburg Hochfeld Brückenkopf,51.41649,6.741533
+626,106902,Duisburg Hochfeldstraße,51.41935,6.748333
+627,122075,Duisburg Hochfeldstraße,51.419685,6.748055
+628,229563,Duisburg Hochfeldstraße,51.41935,6.748333
+629,91874,Duisburg Hochfeldstraße,51.419685,6.748055
+630,11731,Duisburg Hochheide Markt,51.449703,6.683223
+631,12056,Duisburg Hochheide Markt,51.44931,6.682352
+632,129057,Duisburg Hochheide Markt,51.449703,6.683223
+633,174438,Duisburg Hochheide Markt,51.449665,6.681822
+634,288995,Duisburg Hochheide Markt,51.449665,6.683457
+635,334257,Duisburg Hochheide Markt,51.449665,6.683457
+636,277834,Duisburg Hochstraße,51.419178,6.696815
+637,311416,Duisburg Hochstraße,51.419014,6.696644
+638,315467,Duisburg Hoeveler Straße,51.527428,6.753876
+639,440682,Duisburg Hoeveler Straße,51.52743,6.753364
+640,108112,Duisburg Hohenzollernplatz,51.496197,6.798261
+641,395898,Duisburg Hohenzollernplatz,51.496597,6.798154
+642,100625,Duisburg Holteistraße,51.430836,6.794875
+643,124259,Duisburg Holteistraße,51.43047,6.79465
+644,3355,Duisburg Holteistraße,51.430836,6.794875
+645,345143,Duisburg Holteistraße,51.43047,6.79465
+646,403708,Duisburg Holteistraße,51.43047,6.79465
+647,440264,Duisburg Holteistraße,51.430836,6.794875
+648,230248,Duisburg Holzhafen,51.441418,6.76797
+649,270749,Duisburg Holzhafen,51.441395,6.768204
+650,100085,Duisburg Honigstraße,51.471638,6.765347
+651,381606,Duisburg Honigstraße,51.471745,6.7655
+652,331042,Duisburg Hubertushof,51.455257,6.697084
+653,415689,Duisburg Hubertushof,51.454704,6.697327
+654,260291,Duisburg Hubertusplatz,51.456253,6.691326
+655,281067,Duisburg Hubertusplatz,51.45636,6.693105
+656,81241,Duisburg Hubertusplatz,51.455627,6.691739
+657,93547,Duisburg Hubertusplatz,51.45683,6.692566
+658,159719,Duisburg Huckingen Angerbogen,51.362175,6.74986
+659,256746,Duisburg Huckingen Angerbogen,51.36226,6.749797
+660,77160,Duisburg Huckingen Angerbogen,51.36207,6.74845
+661,8230,Duisburg Huckingen Angerbogen,51.362198,6.748818
+662,434263,Duisburg Huckinger Markt,51.368332,6.752088
+663,57160,Duisburg Huckinger Markt,51.368126,6.752088
+664,118898,Duisburg Hufstr.,51.493664,6.76453
+665,206545,Duisburg Hufstr.,51.49349,6.764664
+666,259930,Duisburg Hufstr.,51.49349,6.764664
+667,297940,Duisburg Hufstr.,51.49349,6.764664
+668,325117,Duisburg Hufstr.,51.493664,6.76453
+669,421843,Duisburg Hufstr.,51.493664,6.76453
+670,166772,Duisburg Hölscherstr.,51.48997,6.806005
+671,17694,Duisburg Hölscherstr.,51.49002,6.806328
+672,179362,Duisburg Hölscherstr.,51.49002,6.806328
+673,312238,Duisburg Hölscherstr.,51.48997,6.806005
+674,316307,Duisburg Hölscherstr.,51.48997,6.806005
+675,349897,Duisburg Hölscherstr.,51.49002,6.806328
+676,270599,Duisburg IKEA Duisburg,51.484406,6.765689
+677,87073,Duisburg IKEA Duisburg,51.48433,6.765284
+678,188165,Duisburg Iltispark,51.501083,6.797192
+679,245957,Duisburg Iltispark,51.500553,6.797453
+680,197510,Duisburg Im Bonnefeld,51.35865,6.689987
+681,131853,Duisburg Im Bremmenkamp,51.48003,6.747399
+682,425856,Duisburg Im Bremmenkamp,51.480087,6.747902
+683,236097,Duisburg Im Domänenwald,51.387985,6.771546
+684,85228,Duisburg Im Domänenwald,51.38775,6.771599
+685,278354,Duisburg Im Eickelkamp,51.523636,6.763317
+686,422202,Duisburg Im Eickelkamp,51.523624,6.762589
+687,4586,Duisburg Im Grünen Winkel,51.46141,6.688829
+688,17254,Duisburg Im Schlenk,51.401527,6.762652
+689,257801,Duisburg Im Schlenk,51.4015,6.762922
+690,394258,Duisburg Im Schlenk,51.40105,6.762562
+691,87815,Duisburg Im Schlenk,51.401226,6.76267
+692,107226,Duisburg Im Spennskamp,51.521847,6.763164
+693,314345,Duisburg Im Spennskamp,51.52159,6.763434
+694,12610,Duisburg Im Weidekamp,51.481007,6.759319
+695,252585,Duisburg Im Weidekamp,51.481182,6.759625
+696,156414,Duisburg Impelmann,51.41105,6.68343
+697,224772,Duisburg Impelmann,51.410763,6.683556
+698,225237,Duisburg Impelmann,51.41105,6.68343
+699,408276,Duisburg Impelmann,51.410404,6.682046
+700,70634,Duisburg Impelmann,51.410763,6.683556
+701,79055,Duisburg Impelmann,51.410393,6.682442
+702,213648,Duisburg In den Haesen,51.461243,6.691829
+703,274409,Duisburg In den Haesen,51.461597,6.692368
+704,250622,Duisburg In der Schleue,51.41477,6.679513
+705,333473,Duisburg In der Schleue,51.41477,6.679513
+706,350072,Duisburg In der Schleue,51.4147,6.679477
+707,420575,Duisburg In der Schleue,51.4147,6.679477
+708,275958,Duisburg Innenhafen,51.44044,6.764134
+709,304327,Duisburg Innenhafen,51.44016,6.763631
+710,214275,Duisburg Javastraße,51.432827,6.727816
+711,312831,Duisburg Javastraße,51.432693,6.728328
+712,170120,Duisburg Joh.-Mechmann-Str.,51.476658,6.792225
+713,73510,Duisburg Joh.-Mechmann-Str.,51.476707,6.791605
+714,381363,Duisburg Johanniter Krankenhs.,51.412556,6.69703
+715,457234,Duisburg Johanniter Krankenhs.,51.412846,6.697291
+716,80635,Duisburg Johanniter Krankenhs.,51.412556,6.69703
+717,98269,Duisburg Johanniter Krankenhs.,51.412846,6.697291
+718,433185,Duisburg Johanniterstraße,51.41543,6.76603
+719,79537,Duisburg Johanniterstraße,51.41526,6.765248
+720,270372,Duisburg Jubiläumshain,51.51027,6.772129
+721,32268,Duisburg Jubiläumshain,51.51073,6.772309
+722,177056,Duisburg Jägerstraße,51.490284,6.769291
+723,408142,Duisburg Jägerstraße,51.49019,6.767764
+724,161905,Duisburg Kaiser-Wilh.-Krankh.,51.46381,6.774815
+725,251229,Duisburg Kaiser-Wilh.-Krankh.,51.46405,6.775004
+726,230011,Duisburg Kald. Friemersh.Str,51.390034,6.655726
+727,25829,Duisburg Kald. Friemersh.Str,51.38944,6.655384
+728,177336,Duisburg Kaldenhausen Krölls,51.392986,6.642296
+729,365836,Duisburg Kaldenhausen Krölls,51.393093,6.64155
+730,55587,Duisburg Kaldenhausen Krölls,51.393093,6.64155
+731,72831,Duisburg Kaldenhausen Krölls,51.393127,6.641847
+732,137324,Duisburg Kalkweg,51.41318,6.773728
+733,453223,Duisburg Kalkweg,51.41378,6.774052
+734,101507,Duisburg Kammerstraße,51.424408,6.788317
+735,139263,Duisburg Kammerstraße,51.424393,6.788146
+736,172673,Duisburg Kammerstraße,51.423893,6.788712
+737,242927,Duisburg Kammerstraße,51.423946,6.788596
+738,255537,Duisburg Kammerstraße,51.423977,6.787715
+739,265686,Duisburg Kammerstraße,51.423893,6.788712
+740,363845,Duisburg Kammerstraße,51.424393,6.788146
+741,420279,Duisburg Kammerstraße,51.423946,6.788596
+742,452063,Duisburg Kammerstraße,51.424408,6.788317
+743,255012,Duisburg Kampmann,51.395542,6.713604
+744,304941,Duisburg Kampmann,51.39572,6.714161
+745,110263,Duisburg Kampstraße,51.50016,6.782146
+746,140019,Duisburg Kampstraße,51.500305,6.782541
+747,190045,Duisburg Kampstraße,51.50063,6.781849
+748,21199,Duisburg Kampstraße,51.500675,6.781957
+749,226871,Duisburg Kampstraße,51.50035,6.782226
+750,339383,Duisburg Kampstraße,51.500095,6.783071
+751,352501,Duisburg Kampstraße,51.500458,6.7822
+752,373438,Duisburg Kampstraße,51.50016,6.782146
+753,39876,Duisburg Kampstraße,51.500305,6.782541
+754,446507,Duisburg Kampstraße,51.49993,6.783188
+755,314972,Duisburg Kanalbrücke,51.458076,6.796887
+756,396865,Duisburg Kanalbrücke,51.458237,6.79739
+757,453375,Duisburg Kanalbrücke,51.458076,6.796887
+758,54216,Duisburg Kanalbrücke,51.458237,6.79739
+759,235235,Duisburg Kantstr.,51.496902,6.776567
+760,427588,Duisburg Kantstr.,51.496536,6.77575
+761,211008,Duisburg Kapellchen,51.348835,6.703363
+762,390217,Duisburg Kapellchen,51.348763,6.702986
+763,104361,Duisburg Karl-Albert-Str.,51.479652,6.734221
+764,398039,Duisburg Karl-Albert-Str.,51.47973,6.734472
+765,119520,Duisburg Karl-Jarres-Straße,51.4204,6.767656
+766,168562,Duisburg Karl-Jarres-Straße,51.419872,6.767782
+767,243437,Duisburg Karl-Jarres-Straße,51.420387,6.766551
+768,51385,Duisburg Karl-Jarres-Straße,51.420544,6.766461
+769,63367,Duisburg Karl-Jarres-Straße,51.420544,6.766461
+770,90987,Duisburg Karl-Jarres-Straße,51.420387,6.766551
+771,131670,Duisburg Karlstr.,51.453094,6.738317
+772,67811,Duisburg Karlstr.,51.453476,6.736835
+773,318882,Duisburg Karrenweg,51.39602,6.675453
+774,429133,Duisburg Karrenweg,51.396072,6.675408
+775,267698,Duisburg Kastellstr.,51.48077,6.668194
+776,300321,Duisburg Kastellstr.,51.48109,6.668239
+777,166341,Duisburg Katermannstraße,51.490643,6.821411
+778,419743,Duisburg Katermannstraße,51.4907,6.821339
+779,423975,Duisburg Katermannstraße,51.490643,6.821411
+780,56595,Duisburg Katholische Kirche,51.431965,6.731669
+781,89530,Duisburg Katholische Kirche,51.432003,6.732271
+782,142082,Duisburg Kaßlerfelder Straße,51.440914,6.75225
+783,285845,Duisburg Kaßlerfelder Straße,51.440617,6.752555
+784,447553,Duisburg Keniastraße,51.370785,6.768662
+785,94876,Duisburg Keniastraße,51.370678,6.769057
+786,117939,Duisburg Kesselsberg,51.35705,6.746339
+787,220608,Duisburg Kesselsberg,51.35642,6.746411
+788,72258,Duisburg Kesselsberg,51.356987,6.746779
+789,248898,Duisburg Kiesendahl,51.392883,6.790752
+790,255480,Duisburg Kiesendahl,51.392864,6.791039
+791,278199,Duisburg Kiesendahl,51.392654,6.792189
+792,369268,Duisburg Kiesendahl,51.392548,6.792081
+793,100520,Duisburg Kirchstraße,51.446587,6.679729
+794,368173,Duisburg Kirchstraße,51.446686,6.679765
+795,189059,Duisburg Klapheck,51.509228,6.790769
+796,25859,Duisburg Klapheck,51.50964,6.790985
+797,275109,Duisburg Klapheck,51.50952,6.791075
+798,323091,Duisburg Klapheck,51.509193,6.790482
+799,370465,Duisburg Klapheck,51.50964,6.790985
+800,387152,Duisburg Klapheck,51.509193,6.790482
+801,409334,Duisburg Klapheck,51.50952,6.791075
+802,75311,Duisburg Klapheck,51.509228,6.790769
+803,323352,Duisburg Kloster,51.34572,6.788398
+804,34069,Duisburg Kloster,51.34587,6.789027
+805,46321,Duisburg Kloster,51.34572,6.788398
+806,183452,Duisburg Koloniestraße,51.421703,6.783215
+807,306854,Duisburg Koloniestraße,51.421246,6.784472
+808,38397,Duisburg Koloniestraße,51.42106,6.784598
+809,455783,Duisburg Koloniestraße,51.42143,6.783322
+810,175361,Duisburg Kolpingstr.,51.487694,6.771025
+811,315229,Duisburg Kolpingstr.,51.48741,6.771258
+812,22009,Duisburg Konrad-Adenauer-Ring,51.492924,6.798118
+813,333338,Duisburg Konrad-Adenauer-Ring,51.49288,6.799142
+814,142343,Duisburg Kopernikusstraße,51.50503,6.785281
+815,1814,Duisburg Kopernikusstraße,51.504803,6.784912
+816,232769,Duisburg Kopernikusstraße,51.505043,6.785164
+817,341977,Duisburg Kopernikusstraße,51.504803,6.785038
+818,120594,Duisburg Krankenhaus Nord,51.51496,6.768401
+819,411300,Duisburg Krankenhaus Nord,51.515236,6.76824
+820,330464,Duisburg Krefelder Str.,51.358326,6.685442
+821,78448,Duisburg Krefelder Str.,51.358356,6.685972
+822,107755,Duisburg Kremerstraße,51.42591,6.764754
+823,139071,Duisburg Kremerstraße,51.42553,6.765176
+824,207264,Duisburg Kremerstraße,51.426056,6.763973
+825,29652,Duisburg Kremerstraße,51.42638,6.765176
+826,348367,Duisburg Kremerstraße,51.42638,6.765176
+827,389717,Duisburg Kremerstraße,51.42553,6.765176
+828,21831,Duisburg Kreuzacker,51.410492,6.693105
+829,421265,Duisburg Kreuzacker,51.410656,6.693653
+830,414952,Duisburg Kreuzweg,51.5421,6.712293
+831,457455,Duisburg Kreuzweg,51.54162,6.712526
+832,121119,Duisburg Kruppstraße,51.399673,6.720054
+833,81067,Duisburg Kruppstraße,51.400093,6.721168
+834,12888,Duisburg Kuhkamp,51.52399,6.768069
+835,298460,Duisburg Kuhkamp,51.523933,6.767539
+836,147786,Duisburg Kuhtor,51.43415,6.762508
+837,178228,Duisburg Kulturstraße,51.405575,6.764691
+838,322551,Duisburg Kulturstraße,51.40535,6.764431
+839,338018,Duisburg Kulturstraße,51.405293,6.764781
+840,456245,Duisburg Kulturstraße,51.406017,6.765176
+841,326013,Duisburg Kupferhütte,51.422375,6.743338
+842,390912,Duisburg Kupferhütte,51.422085,6.743877
+843,243345,Duisburg König-Heinrich-Platz,51.43309,6.767341
+844,275762,Duisburg König-Heinrich-Platz,51.43309,6.767341
+845,384981,Duisburg König-Heinrich-Platz,51.433212,6.767611
+846,436603,Duisburg König-Heinrich-Platz,51.43323,6.767503
+847,445689,Duisburg König-Heinrich-Platz,51.432995,6.767755
+848,447481,Duisburg König-Heinrich-Platz,51.433212,6.767611
+849,109109,Duisburg Königsberger Allee,51.434624,6.781993
+850,313096,Duisburg Königsberger Allee,51.43443,6.782065
+851,193134,Duisburg Königsberger Straße,51.407394,6.699896
+852,302919,Duisburg Königsberger Straße,51.40707,6.700525
+853,368349,Duisburg Königsberger Straße,51.407394,6.699896
+854,99551,Duisburg Königsberger Straße,51.40707,6.700525
+855,116373,Duisburg Königstraße,51.532803,6.705753
+856,382868,Duisburg Königstraße,51.532864,6.705618
+857,152504,Duisburg Laar Kirche,51.46597,6.733187
+858,162606,Duisburg Laar Kirche,51.46541,6.733196
+859,245107,Duisburg Laar Kirche,51.465923,6.733205
+860,29312,Duisburg Laar Kirche,51.465366,6.733196
+861,103811,Duisburg Lambarenestraße,51.375977,6.769237
+862,48982,Duisburg Lambarenestraße,51.376205,6.768931
+863,130321,Duisburg Landesarchiv NRW,51.43714,6.756705
+864,28481,Duisburg Landesarchiv NRW,51.43674,6.756445
+865,432433,Duisburg Landesarchiv NRW,51.43748,6.756391
+866,72552,Duisburg Landesarchiv NRW,51.436707,6.756571
+867,430170,Duisburg Lange Kamp,51.480328,6.741757
+868,433577,Duisburg Lange Kamp,51.480255,6.741299
+869,152060,Duisburg Lauerstraße,51.453117,6.698378
+870,234655,Duisburg Lauerstraße,51.453045,6.698504
+871,258480,Duisburg Lauerstraße,51.452213,6.698566
+872,78870,Duisburg Lauerstraße,51.452873,6.69977
+873,193863,Duisburg Lauterberger Straße,51.355305,6.730861
+874,388281,Duisburg Ledigenheim,51.478497,6.707774
+875,69892,Duisburg Ledigenheim,51.478443,6.708178
+876,141084,Duisburg Lehmbruck-Museum,51.431103,6.766937
+877,325045,Duisburg Lehmbruck-Museum,51.431255,6.765868
+878,376798,Duisburg Lehmbruck-Museum,51.431103,6.766937
+879,60561,Duisburg Lehmbruck-Museum,51.43107,6.765976
+880,71316,Duisburg Lehmbruck-Museum,51.43107,6.765976
+881,87416,Duisburg Lehmbruck-Museum,51.431255,6.765868
+882,148182,Duisburg Lenaustraße,51.422554,6.791596
+883,333346,Duisburg Lenaustraße,51.4223,6.792198
+884,275029,Duisburg Lessingstr.,51.49793,6.778885
+885,45887,Duisburg Lessingstr.,51.498257,6.779612
+886,118523,Duisburg Liebigstr,51.385418,6.654181
+887,314329,Duisburg Liebigstr,51.385174,6.654208
+888,268210,Duisburg Lilienthalstraße,51.435783,6.726145
+889,296900,Duisburg Lilienthalstraße,51.43607,6.725606
+890,321913,Duisburg Lindenallee,51.399185,6.702061
+891,422431,Duisburg Lindenallee,51.399063,6.702456
+892,442787,Duisburg Lindenallee,51.399185,6.702061
+893,445832,Duisburg Lindenallee,51.399063,6.702456
+894,265022,Duisburg Lindenstraße,51.392117,6.647156
+895,309456,Duisburg Lindenstraße,51.39219,6.646608
+896,341100,Duisburg Lintorfer Straße,51.401154,6.78175
+897,458813,Duisburg Lintorfer Straße,51.401024,6.781643
+898,278411,Duisburg Logport Center,51.391804,6.727151
+899,316465,Duisburg Logport Center,51.391697,6.727259
+900,284110,Duisburg Lohengrinstraße,51.467182,6.766129
+901,72929,Duisburg Lohengrinstraße,51.467033,6.76576
+902,267483,Duisburg Lohheide Dressler,51.50244,6.668841
+903,450253,Duisburg Lohheide Dressler,51.502296,6.668994
+904,17604,Duisburg Lohheide Kreisbahnhof,51.508804,6.667053
+905,281678,Duisburg Lohheide Kreisbahnhof,51.508896,6.667045
+906,215922,Duisburg Lohstraße,51.503036,6.76806
+907,420163,Duisburg Lohstraße,51.50335,6.767359
+908,435832,Duisburg Lohstraße,51.503414,6.76744
+909,83485,Duisburg Lohstraße,51.503227,6.767773
+910,20963,Duisburg Lothsfeldstr.,51.381096,6.686475
+911,227901,Duisburg Lothsfeldstr.,51.381096,6.686475
+912,354845,Duisburg Lothsfeldstr.,51.38137,6.686987
+913,428323,Duisburg Lothsfeldstr.,51.38137,6.686987
+914,373003,Duisburg Ludgerusstr.,51.527332,6.749609
+915,433770,Duisburg Ludgerusstr.,51.527336,6.750229
+916,170042,Duisburg Ludwig-Krohne-Straße,51.44574,6.795557
+917,222439,Duisburg Ludwig-Krohne-Straße,51.44574,6.795557
+918,226063,Duisburg Luisenstr.,51.456142,6.688128
+919,415997,Duisburg Luisenstr.,51.456123,6.687607
+920,128290,Duisburg Lutherplatz,51.432476,6.790257
+921,315347,Duisburg Lutherplatz,51.432922,6.789494
+922,374294,Duisburg Lutherplatz,51.432907,6.788667
+923,4703,Duisburg Lutherplatz,51.432693,6.790518
+924,389795,Duisburg Löwenburgstr.,51.47705,6.702456
+925,66782,Duisburg Löwenburgstr.,51.477356,6.702618
+926,102077,Duisburg Lüderitzallee,51.373627,6.769327
+927,305066,Duisburg Lüderitzallee,51.373856,6.767674
+928,295803,Duisburg MSV Arena,51.408707,6.774744
+929,344513,Duisburg MSV Arena,51.40861,6.774959
+930,152830,Duisburg Maiblumenstr.,51.396606,6.698917
+931,29467,Duisburg Maiblumenstr.,51.395935,6.699303
+932,267875,Duisburg Manfredstr.,51.539284,6.728929
+933,81608,Duisburg Manfredstr.,51.539356,6.728965
+934,146230,Duisburg Mannesmann Tor 1,51.37296,6.732855
+935,159896,Duisburg Mannesmann Tor 1,51.373066,6.732954
+936,100852,Duisburg Mannesmann Tor 2,51.368404,6.729145
+937,149433,Duisburg Mannesmann Tor 2,51.368057,6.729226
+938,29211,Duisburg Mannesmann Tor 2,51.368057,6.729298
+939,148844,Duisburg Mannesmann Tor 3,51.3622,6.707038
+940,359178,Duisburg Mannesmann Tor 3,51.36218,6.707433
+941,193346,Duisburg Margaretenstraße,51.45775,6.704594
+942,210052,Duisburg Margaretenstraße,51.45787,6.704405
+943,63887,Duisburg Marienhospital,51.414635,6.753058
+944,64395,Duisburg Marienhospital,51.41413,6.752852
+945,108585,Duisburg Marientor,51.430923,6.757568
+946,156464,Duisburg Marientor,51.43144,6.757945
+947,288100,Duisburg Marientor,51.430923,6.757568
+948,33862,Duisburg Marientor,51.43144,6.757945
+949,231254,Duisburg Markgrafenstraße,51.501755,6.777789
+950,238491,Duisburg Markgrafenstraße,51.501755,6.777726
+951,306714,Duisburg Markgrafenstraße,51.50173,6.77734
+952,332205,Duisburg Markgrafenstraße,51.501728,6.777403
+953,153495,Duisburg Martinistr.,51.380203,6.684544
+954,301331,Duisburg Martinistr.,51.379818,6.683385
+955,408198,Duisburg Martinistr.,51.379818,6.683385
+956,453118,Duisburg Martinistr.,51.380203,6.684544
+957,127019,Duisburg Matenastraße,51.490116,6.74014
+958,14311,Duisburg Matenastraße,51.490173,6.739817
+959,173896,Duisburg Matenastraße,51.490147,6.73997
+960,55390,Duisburg Matenastraße,51.490334,6.740203
+961,28724,Duisburg Matthes & Weber,51.42461,6.744803
+962,86106,Duisburg Matthes & Weber,51.424953,6.745063
+963,216128,Duisburg Max-Planck-Str.,51.4967,6.809778
+964,406232,Duisburg Max-Planck-Str.,51.495937,6.809966
+965,210697,Duisburg Meerbergstr.,51.47275,6.714583
+966,211345,Duisburg Meerbergstr.,51.472633,6.71497
+967,147853,Duisburg Meiderich Bf,51.467503,6.779208
+968,354994,Duisburg Meiderich Bf,51.467896,6.78061
+969,365659,Duisburg Meiderich Bf,51.467503,6.779208
+970,391993,Duisburg Meiderich Bf,51.467857,6.780205
+971,427398,Duisburg Meiderich Bf,51.467648,6.779154
+972,434498,Duisburg Meiderich Bf,51.467648,6.779154
+973,458106,Duisburg Meiderich Bf,51.467644,6.780627
+974,57859,Duisburg Meiderich Bf,51.46761,6.780331
+975,156285,Duisburg Meiderich Ost Bf,51.467625,6.803274
+976,232109,Duisburg Meiderich Ost Bf,51.467995,6.803319
+977,73214,Duisburg Meiderich Ost Bf,51.467922,6.802906
+978,363166,Duisburg Meiderich Post,51.467155,6.769363
+979,7979,Duisburg Meiderich Post,51.466915,6.770234
+980,320318,Duisburg Mevissen,51.41779,6.693347
+981,350098,Duisburg Mevissen,51.41626,6.694533
+982,416570,Duisburg Mevissen,51.41626,6.694533
+983,76144,Duisburg Mevissen,51.41704,6.691551
+984,389367,Duisburg Molbergstraße,51.38093,6.745099
+985,458189,Duisburg Molbergstraße,51.38099,6.744821
+986,27095,Duisburg Moltkeplatz,51.4534,6.712041
+987,293786,Duisburg Moltkeplatz,51.4534,6.712041
+988,419858,Duisburg Moltkeplatz,51.452984,6.711287
+989,56634,Duisburg Moltkeplatz,51.452984,6.711287
+990,121415,Duisburg Morian-Stift,51.50218,6.77186
+991,16135,Duisburg Morian-Stift,51.502018,6.772049
+992,264537,Duisburg Morian-Stift,51.5021,6.771833
+993,326893,Duisburg Morian-Stift,51.502018,6.772049
+994,328266,Duisburg Morian-Stift,51.501835,6.772318
+995,423145,Duisburg Morian-Stift,51.502018,6.772049
+996,451220,Duisburg Morian-Stift,51.50204,6.772291
+997,454972,Duisburg Morian-Stift,51.502018,6.772049
+998,169574,Duisburg Morianstr.,51.49025,6.792539
+999,226311,Duisburg Morianstr.,51.49071,6.790895
+1000,289542,Duisburg Morianstr.,51.4902,6.791883
+1001,302759,Duisburg Morianstr.,51.49025,6.792539
+1002,313706,Duisburg Morianstr.,51.4902,6.791883
+1003,318290,Duisburg Morianstr.,51.48977,6.791183
+1004,323057,Duisburg Morianstr.,51.49025,6.792539
+1005,41758,Duisburg Morianstr.,51.4902,6.791883
+1006,106385,Duisburg Musfeldstr.,51.425503,6.757927
+1007,400100,Duisburg Musfeldstr.,51.425674,6.760155
+1008,449403,Duisburg Mühlbachstr.,51.52243,6.773827
+1009,458147,Duisburg Mühlbachstr.,51.522087,6.77407
+1010,105584,Duisburg Mühlenberg,51.38825,6.683511
+1011,148707,Duisburg Mühlenberg,51.38832,6.682684
+1012,254826,Duisburg Mühlenberg,51.388386,6.68369
+1013,286414,Duisburg Mühlenkamp,51.370987,6.756741
+1014,6153,Duisburg Mühlenkamp,51.37056,6.756409
+1015,104336,Duisburg Münchener Straße,51.384083,6.760874
+1016,212159,Duisburg Münchener Straße,51.38409,6.760945
+1017,354269,Duisburg Münchener Straße,51.38382,6.760559
+1018,90661,Duisburg Münchener Straße,51.38381,6.760892
+1019,392644,Duisburg Nauheimer Str.,51.47984,6.802394
+1020,439147,Duisburg Nauheimer Str.,51.48017,6.802546
+1021,109709,Duisburg Neanderstr.,51.4704,6.734301
+1022,260212,Duisburg Neanderstr.,51.47047,6.734256
+1023,303153,Duisburg Neanderstr.,51.469696,6.734742
+1024,412946,Duisburg Neanderstr.,51.469753,6.734697
+1025,199636,Duisburg Neidenburger Straße,51.38816,6.785002
+1026,318744,Duisburg Neidenburger Straße,51.38822,6.784814
+1027,269697,Duisburg Nelkenstraße,51.396595,6.649024
+1028,374565,Duisburg Nelkenstraße,51.39635,6.64924
+1029,225324,Duisburg Nettelbeckstraße,51.423187,6.795117
+1030,372295,Duisburg Nettelbeckstraße,51.42279,6.794866
+1031,111713,Duisburg Neuapostol. Kirche,51.38715,6.781508
+1032,215304,Duisburg Neuapostol. Kirche,51.387253,6.781948
+1033,371656,Duisburg Neudorfer Markt,51.42497,6.781625
+1034,42989,Duisburg Neudorfer Markt,51.424976,6.781032
+1035,431591,Duisburg Neudorfer Markt,51.424564,6.781517
+1036,181819,Duisburg Neue Fruchtstr.,51.427002,6.778669
+1037,264543,Duisburg Neue Fruchtstr.,51.4272,6.77849
+1038,336868,Duisburg Neuenahrer Str.,51.474705,6.704953
+1039,359323,Duisburg Neuenahrer Str.,51.47462,6.70543
+1040,104628,Duisburg Neuenhofstraße,51.393127,6.753058
+1041,115071,Duisburg Neuenhofstraße,51.393368,6.753265
+1042,242217,Duisburg Neuhausweg,51.507935,6.80004
+1043,2462,Duisburg Neuhausweg,51.507957,6.799798
+1044,379713,Duisburg Neuhausweg,51.507935,6.80004
+1045,429095,Duisburg Neuhausweg,51.507935,6.80004
+1046,71873,Duisburg Neuhausweg,51.507957,6.799798
+1047,98553,Duisburg Neuhausweg,51.507957,6.799798
+1048,149942,Duisburg Niederrhein Therme,51.52255,6.778292
+1049,425631,Duisburg Niederrhein Therme,51.522568,6.778418
+1050,170374,Duisburg Nombericher Platz,51.4717,6.760308
+1051,264491,Duisburg Nombericher Platz,51.471767,6.760909
+1052,166127,Duisburg Norbert-Spitzer-Platz,51.383934,6.763577
+1053,359930,Duisburg Norbert-Spitzer-Platz,51.383926,6.764107
+1054,140120,Duisburg Norbertuskirche,51.49872,6.784993
+1055,73411,Duisburg Norbertuskirche,51.498894,6.784697
+1056,370782,Duisburg Nordstr.,51.519653,6.765491
+1057,83304,Duisburg Nordstr.,51.519318,6.765662
+1058,150174,Duisburg Oberhauser Allee,51.48939,6.802807
+1059,152496,Duisburg Oberhauser Allee,51.48939,6.802807
+1060,294700,Duisburg Oberhauser Allee,51.489277,6.80251
+1061,296066,Duisburg Oberhauser Allee,51.489277,6.80251
+1062,337495,Duisburg Oberhauser Allee,51.489277,6.80251
+1063,350469,Duisburg Oberhauser Allee,51.48939,6.802807
+1064,106103,Duisburg Obermeiderich Schule,51.470654,6.807667
+1065,91125,Duisburg Obermeiderich Schule,51.47047,6.807236
+1066,192981,Duisburg Oderstraße,51.517834,6.742449
+1067,225663,Duisburg Oderstraße,51.51772,6.742413
+1068,317717,Duisburg Oestrum Bahn,51.419167,6.675552
+1069,323260,Duisburg Oestrum Bahn,51.41906,6.676162
+1070,443362,Duisburg Oestrum Bahn,51.419167,6.675552
+1071,62509,Duisburg Oestrum Bahn,51.41906,6.676162
+1072,45928,Duisburg Osteroder Straße,51.357548,6.728085
+1073,120759,Duisburg Oststr.,51.42875,6.786323
+1074,414446,Duisburg Oststr.,51.429085,6.786682
+1075,356512,Duisburg Oswaldstr.,51.53668,6.731903
+1076,50316,Duisburg Oswaldstr.,51.5364,6.732118
+1077,160476,Duisburg Ottostraße,51.44964,6.688802
+1078,204025,Duisburg Ottostraße,51.44964,6.688802
+1079,274961,Duisburg Ottostraße,51.449677,6.690266
+1080,371061,Duisburg Ottostraße,51.449677,6.690266
+1081,103487,Duisburg Overbruchstr.,51.547005,6.718931
+1082,297878,Duisburg Overbruchstr.,51.54734,6.718805
+1083,154845,Duisburg Papiermühlenstr.,51.48083,6.754073
+1084,205335,Duisburg Papiermühlenstr.,51.48093,6.754019
+1085,34429,Duisburg Papiermühlenstr.,51.480507,6.754837
+1086,84250,Duisburg Papiermühlenstr.,51.48051,6.754594
+1087,140876,Duisburg Parkfriedhof,51.45604,6.684957
+1088,239796,Duisburg Parkfriedhof,51.456,6.685128
+1089,346874,Duisburg Paschacker,51.41785,6.682235
+1090,45234,Duisburg Paschacker,51.4179,6.682055
+1091,114093,Duisburg Pauluskirche,51.418747,6.753265
+1092,125745,Duisburg Pauluskirche,51.418724,6.752861
+1093,206445,Duisburg Pauluskirche,51.418095,6.753903
+1094,288713,Duisburg Pauluskirche,51.418724,6.752861
+1095,315708,Duisburg Pauluskirche,51.418747,6.753265
+1096,322932,Duisburg Pauluskirche,51.41895,6.754172
+1097,110313,Duisburg Paßstraße,51.451283,6.709508
+1098,120276,Duisburg Paßstraße,51.451283,6.709508
+1099,358764,Duisburg Paßstraße,51.45089,6.709759
+1100,451010,Duisburg Paßstraße,51.45089,6.709759
+1101,21327,Duisburg Peschenstraße,51.37101,6.750929
+1102,641,Duisburg Peschenstraße,51.37092,6.750462
+1103,317053,Duisburg Petersstraße,51.379143,6.743249
+1104,368101,Duisburg Petersstraße,51.379044,6.743482
+1105,4657,Duisburg Plastik,51.366776,6.701737
+1106,86077,Duisburg Plastik,51.36646,6.701549
+1107,393967,Duisburg Platanenhof,51.426975,6.755663
+1108,409947,Duisburg Platanenhof,51.426502,6.755322
+1109,43003,Duisburg Platanenhof,51.426975,6.755663
+1110,51145,Duisburg Platanenhof,51.426502,6.755322
+1111,353237,Duisburg Pregelstraße,51.400707,6.652851
+1112,390367,Duisburg Pregelstraße,51.400475,6.65233
+1113,131596,Duisburg Pregelweg,51.396423,6.786907
+1114,135516,Duisburg Pregelweg,51.396404,6.786745
+1115,324959,Duisburg Prinzenstr.,51.453102,6.68793
+1116,55470,Duisburg Prinzenstr.,51.45336,6.688469
+1117,152083,Duisburg Prismahaus,51.429325,6.702815
+1118,276859,Duisburg Prismahaus,51.429535,6.702312
+1119,122554,Duisburg RHENUS Logistics,51.39959,6.726378
+1120,307750,Duisburg RHENUS Logistics,51.399567,6.726297
+1121,355619,Duisburg Rahm BF,51.347195,6.781463
+1122,49857,Duisburg Rahm BF,51.347195,6.781463
+1123,177016,Duisburg Rahm Kirche,51.351254,6.784275
+1124,226469,Duisburg Rahm Kirche,51.351254,6.784275
+1125,256112,Duisburg Rahm Kirche,51.35078,6.786395
+1126,16620,Duisburg Rathaus,51.434467,6.761736
+1127,263936,Duisburg Rathaus,51.434525,6.761987
+1128,191558,Duisburg Ratingsee,51.465515,6.792072
+1129,375879,Duisburg Ratingsee,51.46612,6.79191
+1130,117821,Duisburg Regattabahn,51.412876,6.786008
+1131,316437,Duisburg Regattabahn,51.41258,6.785451
+1132,271300,Duisburg Reinerstr.,51.487705,6.740266
+1133,290995,Duisburg Reinholdstraße,51.4731,6.778166
+1134,391886,Duisburg Reinholdstraße,51.472916,6.778894
+1135,383780,Duisburg Rembrandtstraße,51.369297,6.73582
+1136,406360,Duisburg Rembrandtstraße,51.369312,6.736197
+1137,204565,Duisburg Restaurant Liesen,51.4901,6.672336
+1138,278210,Duisburg Restaurant Liesen,51.4901,6.672336
+1139,391450,Duisburg Restaurant Liesen,51.489906,6.671895
+1140,400300,Duisburg Restaurant Liesen,51.489906,6.671895
+1141,141575,Duisburg Rhein-Ruhr-Halle,51.498066,6.764961
+1142,146414,Duisburg Rhein-Ruhr-Halle,51.498585,6.766533
+1143,198347,Duisburg Rhein-Ruhr-Halle,51.498585,6.766533
+1144,26836,Duisburg Rhein-Ruhr-Halle,51.49844,6.766192
+1145,317406,Duisburg Rhein-Ruhr-Halle,51.498066,6.764961
+1146,339742,Duisburg Rhein-Ruhr-Halle,51.49802,6.765141
+1147,384069,Duisburg Rhein-Ruhr-Halle,51.497818,6.765374
+1148,408933,Duisburg Rhein-Ruhr-Halle,51.49855,6.762715
+1149,413307,Duisburg Rhein-Ruhr-Halle,51.498585,6.766533
+1150,84501,Duisburg Rhein-Ruhr-Halle,51.498425,6.762634
+1151,119217,Duisburg Rheinbrücke,51.48131,6.671186
+1152,53071,Duisburg Rheinbrücke,51.48162,6.670782
+1153,324878,Duisburg Rheindeich,51.43554,6.721572
+1154,158626,Duisburg Rheingoldstraße,51.39298,6.702375
+1155,319036,Duisburg Rheingoldstraße,51.39298,6.702375
+1156,343755,Duisburg Rheingoldstraße,51.39282,6.702501
+1157,454739,Duisburg Rheingoldstraße,51.39282,6.702501
+1158,1647,Duisburg Rheinh.Bf/Kaiserstr.,51.392853,6.707747
+1159,237381,Duisburg Rheinh.Bf/Kaiserstr.,51.39319,6.709265
+1160,294637,Duisburg Rheinh.Bf/Kaiserstr.,51.392853,6.707747
+1161,415031,Duisburg Rheinh.Bf/Kaiserstr.,51.393288,6.709256
+1162,437540,Duisburg Rheinh.Bf/Kaiserstr.,51.393288,6.709256
+1163,58782,Duisburg Rheinh.Bf/Kaiserstr.,51.393288,6.709256
+1164,77159,Duisburg Rheinh.Bf/Kaiserstr.,51.392853,6.707747
+1165,124583,Duisburg Rheinhausen Bf,51.393154,6.707082
+1166,230450,Duisburg Rheinhausen Bf,51.393154,6.707082
+1167,24104,Duisburg Rheinhausen Bf,51.393127,6.706831
+1168,318349,Duisburg Rheinhausen Bf,51.393127,6.706831
+1169,17184,Duisburg Rheinhausen Markt,51.410587,6.719677
+1170,313247,Duisburg Rheinhausen Markt,51.41007,6.720512
+1171,329407,Duisburg Rheinhausen Markt,51.410587,6.719677
+1172,344456,Duisburg Rheinhausen Markt,51.41007,6.720512
+1173,368918,Duisburg Rheinhausen Markt,51.41007,6.720512
+1174,408690,Duisburg Rheinhausen Markt,51.410587,6.719677
+1175,270836,Duisburg Rheinhausen Ost Bf,51.40261,6.723126
+1176,300088,Duisburg Rheinhausen Ost Bf,51.402134,6.723782
+1177,316679,Duisburg Rheinhausen Ost Bf,51.40261,6.723126
+1178,319775,Duisburg Rheinhausen Ost Bf,51.402134,6.723782
+1179,14730,Duisburg Rheinhausen Rathaus,51.404873,6.711574
+1180,239463,Duisburg Rheinhausen Rathaus,51.404873,6.711574
+1181,37365,Duisburg Rheinhausen Rathaus,51.40415,6.710981
+1182,422280,Duisburg Rheinhausen Rathaus,51.40415,6.710981
+1183,213424,Duisburg Rheinhausenhalle,51.406105,6.712553
+1184,251772,Duisburg Rheinhausenhalle,51.40597,6.712625
+1185,324996,Duisburg Rheinhausenhalle,51.40597,6.712625
+1186,354891,Duisburg Rheinhausenhalle,51.406105,6.712553
+1187,201815,Duisburg Rheinstahl,51.38136,6.738964
+1188,341592,Duisburg Rheinstahl,51.381847,6.738883
+1189,377687,Duisburg Rheinstahl,51.381268,6.739215
+1190,72866,Duisburg Rheinstahl,51.381912,6.739215
+1191,289778,Duisburg Rheintörchenstraße,51.397713,6.750821
+1192,437086,Duisburg Rheintörchenstraße,51.39744,6.750839
+1193,118929,Duisburg Richterstr.,51.490993,6.765329
+1194,134263,Duisburg Richterstr.,51.491085,6.765266
+1195,238545,Duisburg Richterstr.,51.490993,6.765329
+1196,282700,Duisburg Richterstr.,51.491085,6.765266
+1197,294371,Duisburg Richterstr.,51.491085,6.765266
+1198,370124,Duisburg Richterstr.,51.490993,6.765329
+1199,104771,Duisburg Ringstraße,51.39333,6.64968
+1200,240850,Duisburg Ringstraße,51.393024,6.649869
+1201,196499,Duisburg Rohrstr.,51.507397,6.806373
+1202,250031,Duisburg Rohrstr.,51.50719,6.8064
+1203,31848,Duisburg Rohrstr.,51.507397,6.806373
+1204,438857,Duisburg Rohrstr.,51.50719,6.8064
+1205,74498,Duisburg Rohrstr.,51.507397,6.806373
+1206,88286,Duisburg Rohrstr.,51.50719,6.8064
+1207,100350,Duisburg Rotterdamer Str.,51.394627,6.729855
+1208,83635,Duisburg Rotterdamer Str.,51.394623,6.729954
+1209,129096,Duisburg Rubbert,51.515343,6.784751
+1210,213799,Duisburg Rubbert,51.515247,6.784697
+1211,106596,Duisburg Ruhrau,51.447124,6.791443
+1212,239149,Duisburg Ruhrau,51.447178,6.791632
+1213,259581,Duisburg Ruhrau,51.447178,6.791632
+1214,111252,Duisburg Ruhrort Bf,51.457363,6.735101
+1215,212468,Duisburg Ruhrort Bf,51.457394,6.735101
+1216,416292,Duisburg Ruhrort Bf,51.45728,6.73529
+1217,44428,Duisburg Ruhrort Bf,51.457317,6.735299
+1218,173275,Duisburg Ruhrort Verteilerkr.,51.455868,6.739278
+1219,188529,Duisburg Ruhrort Verteilerkr.,51.455162,6.740239
+1220,202961,Duisburg Ruhrort Verteilerkr.,51.45505,6.740733
+1221,45787,Duisburg Ruhrort Verteilerkr.,51.455868,6.739278
+1222,10140,Duisburg Rumeln Bf,51.397385,6.674968
+1223,26324,Duisburg Rumeln Bf,51.39773,6.674851
+1224,144631,Duisburg Rumeln Markt,51.4034,6.659705
+1225,243487,Duisburg Rumeln Markt,51.402733,6.659624
+1226,256866,Duisburg Rumeln Markt,51.4034,6.659705
+1227,380461,Duisburg Rumeln Markt,51.402733,6.659624
+1228,253524,Duisburg Rumeln Rathaus,51.397415,6.660738
+1229,374960,Duisburg Rumeln Rathaus,51.39735,6.657945
+1230,438021,Duisburg Rumeln Rathaus,51.396942,6.65772
+1231,453304,Duisburg Rumeln Rathaus,51.397728,6.658079
+1232,512,Duisburg Rumeln Rathaus,51.396942,6.65772
+1233,66388,Duisburg Rumeln Rathaus,51.39735,6.657945
+1234,288076,Duisburg Rumelner Straße,51.39085,6.678175
+1235,34453,Duisburg Rumelner Straße,51.39108,6.677582
+1236,124607,Duisburg Ruprechtstraße,51.4957,6.800507
+1237,193166,Duisburg Ruprechtstraße,51.495792,6.801037
+1238,199846,Duisburg Ruprechtstraße,51.4957,6.800507
+1239,234661,Duisburg Ruprechtstraße,51.495792,6.801037
+1240,330063,Duisburg Ruprechtstraße,51.495792,6.801037
+1241,73882,Duisburg Ruprechtstraße,51.4957,6.800507
+1242,12477,Duisburg Römerstr.,51.524776,6.724743
+1243,251406,Duisburg Römerstr.,51.524704,6.724887
+1244,356462,Duisburg Röttgenweg,51.426487,6.686951
+1245,62790,Duisburg Röttgenweg,51.426773,6.686304
+1246,257218,Duisburg Rütgerswerke,51.472046,6.798351
+1247,400941,Duisburg Rütgerswerke,51.472378,6.798243
+1248,27064,Duisburg Saarner Straße,51.365475,6.782173
+1249,294552,Duisburg Saarner Straße,51.365505,6.782541
+1250,230013,Duisburg Salmstraße,51.46116,6.75463
+1251,233385,Duisburg Salmstraße,51.461018,6.754334
+1252,252268,Duisburg Salzmannstr.,51.50007,6.807658
+1253,42914,Duisburg Salzmannstr.,51.50004,6.807811
+1254,224264,Duisburg Sandmüllersweg,51.359203,6.729747
+1255,123528,Duisburg Sandstraße,51.455723,6.678777
+1256,228016,Duisburg Sandstraße,51.45569,6.678148
+1257,412394,Duisburg Sassenstr.,51.525497,6.780394
+1258,399271,Duisburg Schacht 8,51.4759,6.678732
+1259,82360,Duisburg Schacht 8,51.475605,6.679136
+1260,322482,Duisburg Schachtstr.,51.527775,6.762805
+1261,337206,Duisburg Schachtstr.,51.52779,6.763128
+1262,245362,Duisburg Schillerplatz,51.437527,6.773728
+1263,424586,Duisburg Schillerplatz,51.43767,6.773764
+1264,388483,Duisburg Schillstr.,51.466846,6.722875
+1265,456179,Duisburg Schillstr.,51.46653,6.723198
+1266,324644,Duisburg Schlachthofstraße,51.50897,6.787239
+1267,364175,Duisburg Schlachthofstraße,51.508957,6.786961
+1268,371051,Duisburg Schlachthofstraße,51.50897,6.787239
+1269,413581,Duisburg Schlachthofstraße,51.50897,6.787239
+1270,41537,Duisburg Schlachthofstraße,51.508957,6.786961
+1271,448989,Duisburg Schlachthofstraße,51.508957,6.786961
+1272,16372,Duisburg Schlenk Bf,51.40113,6.772812
+1273,384609,Duisburg Schlenk Bf,51.401134,6.772129
+1274,346920,Duisburg Schnabelhuck,51.443176,6.794462
+1275,363925,Duisburg Schnabelhuck,51.44272,6.794336
+1276,38285,Duisburg Schnabelhuck,51.442905,6.792934
+1277,50386,Duisburg Schnabelhuck,51.443176,6.794462
+1278,75326,Duisburg Schnabelhuck,51.44272,6.794336
+1279,116283,Duisburg Scholtenhofstraße,51.4634,6.733044
+1280,235792,Duisburg Scholtenhofstraße,51.46355,6.733349
+1281,342605,Duisburg Scholtenhofstraße,51.463688,6.732909
+1282,404104,Duisburg Scholtenhofstraße,51.463104,6.732855
+1283,166080,Duisburg Schroer,51.46747,6.691712
+1284,309414,Duisburg Schroer,51.46721,6.692054
+1285,437601,Duisburg Schule Weierstr. West,51.358356,6.782757
+1286,168105,Duisburg Schulstr.,51.521053,6.729343
+1287,230047,Duisburg Schulstr.,51.52093,6.729693
+1288,207812,Duisburg Schulzentrum Süd,51.374523,6.750471
+1289,292880,Duisburg Schulzentrum Süd,51.37444,6.749887
+1290,105000,Duisburg Schwabenstraße,51.507214,6.769434
+1291,137734,Duisburg Schwabenstraße,51.507214,6.769434
+1292,155185,Duisburg Schwabenstraße,51.507175,6.769318
+1293,191108,Duisburg Schwabenstraße,51.507175,6.769318
+1294,309649,Duisburg Schwabenstraße,51.507214,6.769434
+1295,338395,Duisburg Schwabenstraße,51.507175,6.769318
+1296,11822,Duisburg Schwalbenplatz,51.475555,6.701279
+1297,245203,Duisburg Schwalbenplatz,51.4754,6.701055
+1298,292065,Duisburg Schwalbenplatz,51.47533,6.701621
+1299,251141,Duisburg Schwan,51.517834,6.741353
+1300,280757,Duisburg Schwan,51.517494,6.74112
+1301,293312,Duisburg Schwan,51.517914,6.740823
+1302,301549,Duisburg Schwan,51.51706,6.740464
+1303,121774,Duisburg Schwanentor,51.434933,6.760541
+1304,288392,Duisburg Schwanentor,51.43527,6.760218
+1305,454846,Duisburg Schwanentor,51.43527,6.760218
+1306,48457,Duisburg Schwanentor,51.434933,6.760541
+1307,196711,Duisburg Schwarzenberger Str.,51.407356,6.719192
+1308,294831,Duisburg Schwarzenberger Str.,51.407444,6.719192
+1309,138063,Duisburg Schweizer Straße,51.433266,6.795557
+1310,160764,Duisburg Schweizer Straße,51.432835,6.796285
+1311,172357,Duisburg Schweizer Straße,51.43334,6.795099
+1312,184607,Duisburg Schweizer Straße,51.4337,6.796429
+1313,198371,Duisburg Schweizer Straße,51.432827,6.796339
+1314,392856,Duisburg Schweizer Straße,51.43334,6.795099
+1315,395966,Duisburg Schweizer Straße,51.432827,6.796339
+1316,65458,Duisburg Schweizer Straße,51.4337,6.796429
+1317,88741,Duisburg Schweizer Straße,51.433243,6.795477
+1318,90809,Duisburg Schweizer Straße,51.43328,6.796914
+1319,298782,Duisburg Schwiesenkamp,51.44665,6.804361
+1320,359829,Duisburg Schwiesenkamp,51.44665,6.804361
+1321,315063,Duisburg Schäferturm,51.435207,6.764754
+1322,424385,Duisburg Schäferturm,51.435326,6.765069
+1323,173615,Duisburg Schützenstraße,51.38419,6.704855
+1324,41820,Duisburg Schützenstraße,51.38419,6.704855
+1325,418461,Duisburg Schützenstraße,51.384235,6.704756
+1326,54455,Duisburg Schützenstraße,51.384235,6.704756
+1327,183258,Duisburg Sedanstraße,51.395626,6.696626
+1328,263908,Duisburg Sedanstraße,51.39533,6.696177
+1329,408974,Duisburg Serm Kirche,51.350014,6.71046
+1330,76315,Duisburg Serm Kirche,51.350113,6.710882
+1331,384651,Duisburg Sermer Straße,51.355293,6.683618
+1332,86029,Duisburg Sermer Straße,51.35542,6.683996
+1333,156150,Duisburg Siechenhausstraße,51.42139,6.754298
+1334,177258,Duisburg Siechenhausstraße,51.420933,6.75437
+1335,240395,Duisburg Siedlerstraße,51.362286,6.693185
+1336,351371,Duisburg Siedlerstraße,51.362095,6.69288
+1337,233037,Duisburg Siemens,51.427204,6.74774
+1338,294412,Duisburg Siemens,51.426807,6.747183
+1339,155483,Duisburg Sittardsberg,51.37595,6.759903
+1340,41682,Duisburg Sittardsberg,51.37592,6.760119
+1341,425580,Duisburg Sittardsberg,51.37596,6.759831
+1342,1107,Duisburg Sonnenstraße,51.52338,6.742916
+1343,309066,Duisburg Sonnenstraße,51.52296,6.742889
+1344,332262,Duisburg Sparkasse,51.459908,6.692602
+1345,67859,Duisburg Sparkasse,51.459255,6.692736
+1346,209826,Duisburg Sperrschleuse,51.433987,6.751549
+1347,387909,Duisburg Sperrschleuse,51.434,6.751495
+1348,192201,Duisburg Spichernstr.,51.470505,6.753427
+1349,325915,Duisburg Spichernstr.,51.47085,6.754648
+1350,107882,Duisburg Sportpark,51.414684,6.79262
+1351,188497,Duisburg Sportpark,51.41459,6.792818
+1352,12363,Duisburg Sportschule Wedau,51.403175,6.778391
+1353,191823,Duisburg Sportschule Wedau,51.403248,6.779792
+1354,221975,Duisburg Sportschule Wedau,51.403286,6.778139
+1355,292908,Duisburg Sportschule Wedau,51.4035,6.779379
+1356,365441,Duisburg St. Barbara Hospital,51.492825,6.795081
+1357,408294,Duisburg St. Barbara Hospital,51.49282,6.795593
+1358,314077,Duisburg St. George's School,51.35841,6.737796
+1359,95481,Duisburg St. George's School,51.35885,6.73723
+1360,348661,Duisburg St.Joseph Hospital,51.47372,6.710244
+1361,442848,Duisburg St.Joseph Hospital,51.47366,6.710658
+1362,136087,Duisburg Stadtbad Homberg,51.460697,6.700255
+1363,435853,Duisburg Stadtbad Homberg,51.46054,6.700462
+1364,272276,Duisburg Stadttheater,51.43472,6.769309
+1365,306658,Duisburg Stadttheater,51.43449,6.769821
+1366,12346,Duisburg Stadtwerke,51.400497,6.699051
+1367,161482,Duisburg Stadtwerke,51.400562,6.699043
+1368,16254,Duisburg Stadtwerke,51.400562,6.699043
+1369,204566,Duisburg Stadtwerke,51.400497,6.699051
+1370,233860,Duisburg Stadtwerke,51.400562,6.699043
+1371,355591,Duisburg Stadtwerke,51.400497,6.699051
+1372,201777,Duisburg Stapelmann,51.395016,6.657226
+1373,317140,Duisburg Stapelmann,51.394733,6.657028
+1374,452670,Duisburg Stapelmann,51.395016,6.657226
+1375,88247,Duisburg Stapelmann,51.394733,6.657028
+1376,226897,Duisburg Stapeltor,51.437237,6.766928
+1377,263486,Duisburg Stapeltor,51.43789,6.768779
+1378,372705,Duisburg Steiermarkstraße,51.3844,6.771896
+1379,397853,Duisburg Steiermarkstraße,51.384583,6.771842
+1380,110812,Duisburg Steinernes Kreuz,51.370586,6.747695
+1381,432712,Duisburg Steinernes Kreuz,51.370834,6.747605
+1382,170218,Duisburg Steinsche Gasse,51.431988,6.760038
+1383,339456,Duisburg Steinsche Gasse,51.432056,6.759984
+1384,375939,Duisburg Steinsche Gasse,51.432056,6.759984
+1385,91271,Duisburg Steinsche Gasse,51.431988,6.760038
+1386,165266,Duisburg Stempelstr.,51.49076,6.812042
+1387,215932,Duisburg Stempelstr.,51.490726,6.811691
+1388,218429,Duisburg Stempelstr.,51.490726,6.811691
+1389,261752,Duisburg Stempelstr.,51.49076,6.812042
+1390,287715,Duisburg Stempelstr.,51.490726,6.811691
+1391,289910,Duisburg Stempelstr.,51.49076,6.812042
+1392,104642,Duisburg Stockumer Straße,51.47217,6.734212
+1393,211795,Duisburg Stockumer Straße,51.472523,6.734283
+1394,218660,Duisburg Stockumer Straße,51.472557,6.734292
+1395,43969,Duisburg Stockumer Straße,51.472126,6.734203
+1396,169123,Duisburg Striepweg,51.514194,6.741856
+1397,456093,Duisburg Striepweg,51.51453,6.741703
+1398,170350,Duisburg Stüning,51.4138,6.711906
+1399,193799,Duisburg Stüning,51.414062,6.71196
+1400,209217,Duisburg Stüning,51.4138,6.711906
+1401,55463,Duisburg Stüning,51.414062,6.71196
+1402,314810,Duisburg Sympherstr.,51.459282,6.795728
+1403,47784,Duisburg Sympherstr.,51.458958,6.795108
+1404,130411,Duisburg Südstraße,51.449604,6.698279
+1405,339818,Duisburg Südstraße,51.449554,6.698297
+1406,64279,Duisburg Südstraße,51.449554,6.698297
+1407,98488,Duisburg Südstraße,51.449604,6.698279
+1408,128369,Duisburg Theodor-Heuss-Str.,51.48311,6.794201
+1409,185230,Duisburg Theodor-Heuss-Str.,51.484,6.794399
+1410,22061,Duisburg Theodor-Heuss-Str.,51.484104,6.79448
+1411,60923,Duisburg Theodor-Heuss-Str.,51.483166,6.794399
+1412,211776,Duisburg Thyssen Kokerei,51.484756,6.734786
+1413,257213,Duisburg Thyssen Kokerei,51.48449,6.73431
+1414,451061,Duisburg Thyssen Kokerei,51.484776,6.734643
+1415,76282,Duisburg Thyssen Kokerei,51.4845,6.734463
+1416,372890,Duisburg Thyssen Tor 20,51.478615,6.718042
+1417,42507,Duisburg Thyssen Tor 20,51.478683,6.718527
+1418,159548,Duisburg Thyssen Tor 30,51.45922,6.733511
+1419,200976,Duisburg Thyssen Tor 30,51.459255,6.733493
+1420,264394,Duisburg Thyssen Tor 30,51.459606,6.733376
+1421,391179,Duisburg Thyssen Tor 30,51.459568,6.733376
+1422,102271,Duisburg Thyssen Verwaltung,51.492477,6.743347
+1423,162888,Duisburg Thyssen Verwaltung,51.492573,6.74332
+1424,171603,Duisburg Thyssen Verwaltung,51.492565,6.74377
+1425,49039,Duisburg Thyssen Verwaltung,51.49241,6.744237
+1426,77554,Duisburg Thyssen Verwaltung,51.492626,6.743644
+1427,131716,Duisburg Thüringer Straße,51.511993,6.784014
+1428,379732,Duisburg Thüringer Straße,51.512398,6.783942
+1429,221883,Duisburg Tierheim,51.43218,6.743051
+1430,347259,Duisburg Tierheim,51.432156,6.743311
+1431,35474,Duisburg Tiger & Turtle,51.376945,6.735155
+1432,365711,Duisburg Tiger & Turtle,51.37798,6.735891
+1433,427615,Duisburg Tiroler Straße,51.390278,6.771366
+1434,428463,Duisburg Tiroler Straße,51.39005,6.771384
+1435,105451,Duisburg Tonstraße,51.437996,6.7958
+1436,144114,Duisburg Tonstraße,51.438652,6.79571
+1437,315208,Duisburg Tonstraße,51.438652,6.79571
+1438,428668,Duisburg Tonstraße,51.437996,6.7958
+1439,29938,Duisburg Trompet Bf,51.41332,6.667898
+1440,404476,Duisburg Trompet Bf,51.41306,6.667485
+1441,188269,Duisburg Trompet Friedhof,51.411144,6.67645
+1442,57688,Duisburg Trompet Friedhof,51.411087,6.67539
+1443,23051,Duisburg Trosperdelle,51.34879,6.788039
+1444,93707,Duisburg Trosperdelle,51.34879,6.788039
+1445,147965,Duisburg Tunnelstr.,51.463497,6.759257
+1446,49386,Duisburg Tunnelstr.,51.463585,6.759284
+1447,268088,Duisburg Turmstr.,51.37988,6.680959
+1448,300320,Duisburg Turmstr.,51.37958,6.681193
+1449,316381,Duisburg Turmstr.,51.37958,6.681193
+1450,84685,Duisburg Turmstr.,51.37988,6.680959
+1451,172435,Duisburg Uhlandstr.,51.399113,6.710451
+1452,308154,Duisburg Uhlandstr.,51.40013,6.710074
+1453,330124,Duisburg Uhlandstr.,51.399113,6.710451
+1454,75074,Duisburg Uhlandstr.,51.40013,6.710074
+1455,393619,Duisburg Uhlenbroicher Weg,51.360054,6.781939
+1456,436150,Duisburg Uhlenbroicher Weg,51.359745,6.782056
+1457,333022,Duisburg Unfallklinik,51.380325,6.781732
+1458,9684,Duisburg Unfallklinik,51.38038,6.781768
+1459,104227,Duisburg Uni Nord,51.430447,6.803005
+1460,159955,Duisburg Uni Nord,51.43059,6.803005
+1461,199825,Duisburg Uni Nord,51.430508,6.802322
+1462,260401,Duisburg Uni Nord-Lotharstr.,51.432,6.799438
+1463,35147,Duisburg Uni Nord-Lotharstr.,51.432335,6.799564
+1464,282223,Duisburg Universität,51.427956,6.79801
+1465,338913,Duisburg Universität,51.428604,6.798369
+1466,105589,Duisburg Unter den Ulmen,51.465473,6.763101
+1467,309494,Duisburg Unter den Ulmen,51.46522,6.762598
+1468,141541,Duisburg Unterstraße,51.418915,6.672955
+1469,268285,Duisburg Unterstraße,51.419273,6.672228
+1470,159112,Duisburg Ursulastraße,51.405304,6.723683
+1471,175476,Duisburg Ursulastraße,51.405304,6.723683
+1472,282830,Duisburg Ursulastraße,51.404396,6.723818
+1473,95379,Duisburg Ursulastraße,51.404396,6.723818
+1474,321690,Duisburg Varziner Str.,51.474586,6.805421
+1475,81382,Duisburg Varziner Str.,51.474823,6.80508
+1476,256656,Duisburg Verbandstraße,51.456238,6.706921
+1477,89641,Duisburg Verbandstraße,51.456146,6.707073
+1478,227786,Duisburg Vierlinden,51.537445,6.738883
+1479,458443,Duisburg Vierlinden,51.537697,6.73829
+1480,51685,Duisburg Vierlinden,51.53807,6.738847
+1481,70704,Duisburg Vierlinden,51.53837,6.738802
+1482,247600,Duisburg Vinckeweg,51.44849,6.74235
+1483,329382,Duisburg Vinckeweg,51.44829,6.742503
+1484,150778,Duisburg Vogelwiese,51.46983,6.721473
+1485,242207,Duisburg Vogelwiese,51.47008,6.72115
+1486,299398,Duisburg Voßstraße,51.476147,6.789413
+1487,331962,Duisburg Voßstraße,51.47655,6.789826
+1488,22739,Duisburg Wagnerstraße,51.404217,6.657127
+1489,27322,Duisburg Wagnerstraße,51.40442,6.657208
+1490,240370,Duisburg Walderbenweg,51.37068,6.784364
+1491,260334,Duisburg Walderbenweg,51.369987,6.784149
+1492,159171,Duisburg Waldfriedhof,51.393475,6.759939
+1493,256843,Duisburg Waldfriedhof,51.39275,6.760245
+1494,209105,Duisburg Waldstr.,51.527092,6.735846
+1495,261077,Duisburg Waldstr.,51.527374,6.735442
+1496,100733,Duisburg Walsum Betriebshof,51.530083,6.742799
+1497,335899,Duisburg Walsum Betriebshof,51.530495,6.74279
+1498,300746,Duisburg Walsum Overbruch,51.543648,6.716057
+1499,158515,Duisburg Walsum Rathaus,51.52679,6.742746
+1500,222079,Duisburg Walsum Rathaus,51.527145,6.742808
+1501,229860,Duisburg Walsum Rathaus,51.52737,6.74165
+1502,254479,Duisburg Walsum Rathaus,51.527252,6.744443
+1503,416668,Duisburg Walsum Rathaus,51.527336,6.743311
+1504,172466,Duisburg Walsumer Brauhaus,51.52285,6.726944
+1505,314557,Duisburg Walsumer Brauhaus,51.523167,6.726657
+1506,354027,Duisburg Walsumer Wardtstr.,51.53715,6.705573
+1507,92449,Duisburg Walsumer Wardtstr.,51.537613,6.705726
+1508,130897,Duisburg Walt.-Rathenau-Platz,51.391747,6.710972
+1509,201454,Duisburg Walt.-Rathenau-Platz,51.39263,6.711493
+1510,229864,Duisburg Walt.-Rathenau-Platz,51.391747,6.710972
+1511,375766,Duisburg Walt.-Rathenau-Platz,51.39241,6.71196
+1512,425084,Duisburg Walt.-Rathenau-Platz,51.391747,6.710972
+1513,330,Duisburg Warbruckstr.,51.51027,6.756139
+1514,382557,Duisburg Warbruckstr.,51.509842,6.756732
+1515,332842,Duisburg Watereck,51.544006,6.736179
+1516,426432,Duisburg Watereck,51.543274,6.736817
+1517,119935,Duisburg Wedau Bf,51.39971,6.80402
+1518,441024,Duisburg Wedau Bf,51.39941,6.80428
+1519,174675,Duisburg Wehofer Str.,51.52439,6.770333
+1520,232969,Duisburg Wehofer Str.,51.52452,6.770917
+1521,303734,Duisburg Welschenhof,51.466904,6.796249
+1522,76965,Duisburg Welschenhof,51.466965,6.796546
+1523,73854,Duisburg Wernerstr.,51.48762,6.744839
+1524,112217,Duisburg Werthauser Straße,51.408627,6.726603
+1525,151452,Duisburg Werthauser Straße,51.408627,6.726603
+1526,226538,Duisburg Werthauser Straße,51.408974,6.727178
+1527,363147,Duisburg Werthauser Straße,51.408974,6.727178
+1528,48719,Duisburg Wichernheim,51.55008,6.717898
+1529,52800,Duisburg Wichernheim,51.55041,6.717683
+1530,414886,Duisburg Wiesbadener Str.,51.48109,6.808134
+1531,64850,Duisburg Wiesbadener Str.,51.48106,6.807658
+1532,165417,Duisburg Wildmundstraße,51.465275,6.806795
+1533,306628,Duisburg Wildmundstraße,51.465366,6.806607
+1534,125249,Duisburg Wildstr.,51.418446,6.78794
+1535,258440,Duisburg Wildstr.,51.41856,6.788182
+1536,236513,Duisburg Wilfriedstraße,51.499878,6.752654
+1537,264894,Duisburg Wilfriedstraße,51.49969,6.752223
+1538,368663,Duisburg Wilfriedstraße,51.49971,6.752268
+1539,61390,Duisburg Wilfriedstraße,51.49989,6.752717
+1540,170661,Duisburg Wilhelmstraße,51.454086,6.703292
+1541,278971,Duisburg Wilhelmstraße,51.45419,6.703552
+1542,18413,Duisburg Willy-Brandt-Kolleg,51.40609,6.709436
+1543,200949,Duisburg Willy-Brandt-Kolleg,51.40695,6.709849
+1544,204212,Duisburg Willy-Brandt-Kolleg,51.406734,6.708376
+1545,206283,Duisburg Willy-Brandt-Kolleg,51.40615,6.70799
+1546,226412,Duisburg Willy-Brandt-Kolleg,51.40609,6.709436
+1547,236652,Duisburg Willy-Brandt-Kolleg,51.406734,6.708376
+1548,403285,Duisburg Willy-Brandt-Kolleg,51.40695,6.709849
+1549,45677,Duisburg Willy-Brandt-Kolleg,51.40615,6.70799
+1550,304103,Duisburg Winkelstraße,51.43323,6.782379
+1551,411168,Duisburg Winkelstraße,51.432827,6.782469
+1552,282315,Duisburg Winningstr.,51.494877,6.820459
+1553,323133,Duisburg Winningstr.,51.494877,6.820459
+1554,438349,Duisburg Winningstr.,51.494877,6.820459
+1555,448193,Duisburg Winningstr.,51.494953,6.82009
+1556,455941,Duisburg Winningstr.,51.494953,6.82009
+1557,92239,Duisburg Winningstr.,51.494953,6.82009
+1558,85351,Duisburg Wintgensstraße,51.44114,6.78794
+1559,92378,Duisburg Wintgensstraße,51.44083,6.78732
+1560,104029,Duisburg Wolframstr.,51.50048,6.820135
+1561,220049,Duisburg Wolframstr.,51.500233,6.820234
+1562,34493,Duisburg Wolframstr.,51.500233,6.820234
+1563,433814,Duisburg Wolframstr.,51.500233,6.820234
+1564,253761,Duisburg Wolfssee,51.385765,6.799546
+1565,79357,Duisburg Wolfssee,51.385895,6.799133
+1566,254793,Duisburg Wolfstraße,51.504673,6.752905
+1567,279058,Duisburg Wolfstraße,51.504635,6.753085
+1568,130142,Duisburg Worringer Weg,51.397873,6.806652
+1569,311000,Duisburg Worringer Weg,51.39772,6.806229
+1570,192838,Duisburg Zechenstraße,51.448166,6.707226
+1571,370533,Duisburg Zechenstraße,51.44733,6.707334
+1572,438951,Duisburg Zechenstraße,51.448166,6.707226
+1573,92706,Duisburg Zechenstraße,51.44733,6.707334
+1574,220266,Duisburg Zentralfriedhof,51.38511,6.680187
+1575,121993,Duisburg Zimmerstraße,51.37909,6.765518
+1576,123900,Duisburg Zimmerstraße,51.378517,6.766066
+1577,280362,Duisburg Zimmerstraße,51.377792,6.766901
+1578,384965,Duisburg Zollstraße,51.464024,6.696024
+1579,411379,Duisburg Zollstraße,51.46397,6.695979
+1580,246442,Duisburg Zoo/Uni,51.43315,6.803921
+1581,429982,Duisburg Zoo/Uni,51.433212,6.803193
+1582,435089,Duisburg Zoo/Uni,51.43309,6.803481
+1583,60236,Duisburg Zoo/Uni,51.433304,6.803373
+1584,289402,Duisburg Zu den Wiesen,51.368088,6.783673
+1585,356334,Duisburg Zu den Wiesen,51.367607,6.783592
+1586,27727,Duisburg Zum Ellenberg,51.396763,6.81064
+1587,290719,Duisburg Zum Ellenberg,51.39644,6.810676
+1588,177899,Duisburg Zum Grind,51.356487,6.685379
+1589,86193,Duisburg Zum Grind,51.356728,6.685756
+1590,321904,Duisburg Zum Lith,51.40117,6.767332
+1591,84304,Duisburg Zum Lith,51.401157,6.766784
+1592,126973,Duisburg Zum Möllenbruckshof,51.527103,6.774779
+1593,333913,Duisburg Zum Möllenbruckshof,51.526974,6.77513
+1594,435861,Duisburg central train station,51.428345,6.771195
+1595,303091,"Duisburg, Am Kiekenbusch",51.369247,6.775462
+1596,3908,"Duisburg, Am Kiekenbusch",51.369568,6.775552
+1597,212359,Emilstraße,51.472664,6.786655
+1598,228435,Emilstraße,51.47282,6.786808
+1599,67165,Flingerstraße,51.494328,6.672991
+1600,114682,Friemersheim Markt,51.389572,6.706705
+1601,176457,Friemersheim Markt,51.39011,6.709131
+1602,292681,Friemersheim Markt,51.39011,6.709131
+1603,395606,Friemersheim Markt,51.389572,6.706705
+1604,442427,Friemersheim Markt,51.39011,6.709131
+1605,67341,Friemersheim Markt,51.389572,6.706705
+1606,267704,Großenbaum Bf Ost,51.365166,6.778678
+1607,380791,Großenbaum Bf Ost,51.36522,6.778831
+1608,173620,Hochfeld Süd Bf/RheinPark,51.410007,6.752232
+1609,284348,Hochfeld Süd Bf/RheinPark,51.40959,6.75207
+1610,18317,Klinikum Duisburg,51.397907,6.784939
+1611,354819,Klinikum Duisburg,51.398693,6.784149
+1612,140272,Marxloh Pollmann,51.5021,6.757172
+1613,155169,Marxloh Pollmann,51.5021,6.757172
+1614,169429,Marxloh Pollmann,51.5021,6.757172
+1615,180303,Marxloh Pollmann,51.501804,6.756418
+1616,243531,Marxloh Pollmann,51.50179,6.756373
+1617,24368,Marxloh Pollmann,51.502193,6.759661
+1618,295393,Marxloh Pollmann,51.50258,6.756409
+1619,409783,Marxloh Pollmann,51.501648,6.757729
+1620,426438,Marxloh Pollmann,51.502487,6.757792
+1621,442665,Marxloh Pollmann,51.50211,6.759724
+1622,78787,Marxloh Pollmann,51.502476,6.757774
+1623,98416,Marxloh Pollmann,51.5021,6.757172
+1624,290721,Moers Tirgrathsfeldweg,51.394077,6.635882
+1625,346267,Oberhauser Straße,51.467278,6.818869
+1626,21087,Rheinberg An der Heide,51.50974,6.651602
+1627,451280,Rheinberg An der Heide,51.509644,6.651333
+1628,126356,Rheinberg Hoher Weg,51.508583,6.644021
+1629,261248,Rheinberg Hoher Weg,51.50899,6.644946
+1630,204439,St. Anna Krankenhaus,51.36476,6.752429
+1631,292873,St. Anna Krankenhaus,51.3651,6.752834
+1632,335650,St. Anna Krankenhaus,51.364178,6.752214
+1633,393546,St. Anna Krankenhaus,51.364117,6.752043
+1634,10024,Tausendfensterhaus,51.45091,6.739027
+1635,180867,Tausendfensterhaus,51.45055,6.739512
+1636,163324,Werthacker,51.446926,6.801756
+1637,31891,Werthacker,51.446926,6.801756
+1638,285712,Winkelhausen Bruchstraße,51.43215,6.676306
