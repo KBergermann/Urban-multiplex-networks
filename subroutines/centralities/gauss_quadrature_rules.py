@@ -53,7 +53,7 @@ def gauss_subgraph(T, beta_subgraph):
 		lamb, phi = la.eig(T[0:k-1, 0:k-1])
 		e = np.zeros([k-1,1])
 		e[0] = 1
-		int_val = np.asscalar(np.dot(e.T, phi).dot(np.diag(np.exp(beta_subgraph*lamb))).dot(phi.T).dot(e))
+		int_val = (np.dot(e.T, phi).dot(np.diag(np.exp(beta_subgraph*lamb))).dot(phi.T).dot(e)).item()
 
 	return int_val
 
@@ -96,7 +96,7 @@ def gauss_radau_subgraph(T, beta_subgraph, lambda_bound):
 		T[k-1,k-1] = lambda_bound + delta[k-2]
 
 		lamb, phi = la.eig(T)
-		int_val = np.asscalar(np.dot(e.T, phi).dot(np.diag(np.exp(beta_subgraph*lamb))).dot(phi.T).dot(e))
+		int_val = (np.dot(e.T, phi).dot(np.diag(np.exp(beta_subgraph*lamb))).dot(phi.T).dot(e)).item()
 
 	return int_val
 
@@ -132,19 +132,19 @@ def gauss_lobatto_subgraph(T, beta_subgraph, lambda_min, lambda_max):
 		# prescribe both eigenvalues to T
 		delta = la.solve(T[0:k-1, 0:k-1]-lambda_min*np.eye(k-1), e_k)
 		mu = la.solve(T[0:k-1, 0:k-1]-lambda_max*np.eye(k-1), e_k)
-		T_entries = la.solve([[1, np.asscalar(-delta[k-2])], [1, np.asscalar(-mu[k-2])]], [[lambda_min], [lambda_max]])
+		T_entries = la.solve([[1, (-delta[k-2]).item()], [1, (-mu[k-2]).item()]], [[lambda_min], [lambda_max]])
 		T[k-1, k-1] = T_entries[0]
 
 		# catch error
 		if T_entries[1] <= 0:
 			int_val = 1
-			print('Warning, prevented taking the root of %f in gauss_lobatto_subgraph. Set centrality value to 1.' % np.asscalar(T_entries[1]))
+			print('Warning, prevented taking the root of %f in gauss_lobatto_subgraph. Set centrality value to 1.' % (T_entries[1]).item())
 		else:
 			T[k-2, k-1] = np.sqrt(T_entries[1])
 			T[k-1, k-2] = np.sqrt(T_entries[1])
 
 			lamb, phi = la.eig(T)
-			int_val = np.asscalar(np.dot(e.T, phi).dot(np.diag(np.exp(beta_subgraph*lamb))).dot(phi.T).dot(e))
+			int_val = (np.dot(e.T, phi).dot(np.diag(np.exp(beta_subgraph*lamb))).dot(phi.T).dot(e)).item()
 
 	return int_val
 
@@ -172,7 +172,7 @@ def gauss_resolvent(T, alpha_resolvent):
 		lamb, phi = la.eig(T[0:k-1, 0:k-1])
 		e = np.zeros([k-1,1])
 		e[0] = 1
-		int_val = np.asscalar(np.dot(e.T, phi).dot(la.solve((np.eye(k-1) - alpha_resolvent*np.diag(lamb)), np.eye(k-1))).dot(phi.T).dot(e))
+		int_val = (np.dot(e.T, phi).dot(la.solve((np.eye(k-1) - alpha_resolvent*np.diag(lamb)), np.eye(k-1))).dot(phi.T).dot(e)).item()
 
 	return int_val
 
@@ -214,7 +214,7 @@ def gauss_radau_resolvent(T, alpha_resolvent, lambda_bound):
 		T[k-1,k-1] = lambda_bound + delta[k-2]
 
 		lamb, phi = la.eig(T)
-		int_val = np.asscalar(np.dot(e.T, phi).dot(la.solve((np.eye(k) - alpha_resolvent*np.diag(lamb)), np.eye(k))).dot(phi.T).dot(e))
+		int_val = (np.dot(e.T, phi).dot(la.solve((np.eye(k) - alpha_resolvent*np.diag(lamb)), np.eye(k))).dot(phi.T).dot(e)).item()
 
 	return int_val
 
@@ -250,19 +250,19 @@ def gauss_lobatto_resolvent(T, alpha_resolvent, lambda_min, lambda_max):
 		# prescribe both eigenvalues to T
 		delta = la.solve(T[0:k-1, 0:k-1]-lambda_min*np.eye(k-1), e_k)
 		mu = la.solve(T[0:k-1, 0:k-1]-lambda_max*np.eye(k-1), e_k)
-		T_entries = la.solve([[1, np.asscalar(-delta[k-2])], [1, np.asscalar(-mu[k-2])]], [[lambda_min], [lambda_max]])
+		T_entries = la.solve([[1, (-delta[k-2]).item()], [1, (-mu[k-2]).item()]], [[lambda_min], [lambda_max]])
 		T[k-1, k-1] = T_entries[0]
 
 		# catch error
 		if T_entries[1] <= 0:
 			int_val = 1
-			print('Warning, prevented taking the root of %f in gauss_lobatto_subgraph. Set centrality value to 1.' % np.asscalar(T_entries[1]))
+			print('Warning, prevented taking the root of %f in gauss_lobatto_subgraph. Set centrality value to 1.' % (T_entries[1]).item())
 		else:
 			T[k-2, k-1] = np.sqrt(T_entries[1])
 			T[k-1, k-2] = np.sqrt(T_entries[1])
 
 			lamb, phi = la.eig(T)
-			int_val = np.asscalar(np.dot(e.T, phi).dot(la.solve((np.eye(k) - alpha_resolvent*np.diag(lamb)), np.eye(k))).dot(phi.T).dot(e))
+			int_val = (np.dot(e.T, phi).dot(la.solve((np.eye(k) - alpha_resolvent*np.diag(lamb)), np.eye(k))).dot(phi.T).dot(e)).item()
 
 	return int_val
 

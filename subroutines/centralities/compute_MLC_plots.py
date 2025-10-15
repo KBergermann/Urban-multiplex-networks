@@ -175,8 +175,8 @@ def compute_MLC_plots(cityString, compute_quadrature_quantities=True, weighted_w
 		
 		if not n_color_compartments==0:
 			SC_colors = SC_MLC
-			SC_color_min = np.asscalar(min(SC_colors))
-			SC_color_max = np.asscalar(max(SC_colors))
+			SC_color_min = (min(SC_colors)).item()
+			SC_color_max = (max(SC_colors)).item()
 			SC_color_range = SC_color_max - SC_color_min
 			SC_colors_compartmented = np.copy(SC_colors)
 
@@ -250,8 +250,8 @@ def compute_MLC_plots(cityString, compute_quadrature_quantities=True, weighted_w
 		
 		if not n_color_compartments==0:
 			SCres_colors = SCres_MLC
-			SCres_color_min = np.asscalar(min(SCres_colors))
-			SCres_color_max = np.asscalar(max(SCres_colors))
+			SCres_color_min = (min(SCres_colors)).item()
+			SCres_color_max = (max(SCres_colors)).item()
 			SCres_color_range = SCres_color_max - SCres_color_min
 			SCres_colors_compartmented = np.copy(SCres_colors)
 
@@ -321,8 +321,8 @@ def compute_MLC_plots(cityString, compute_quadrature_quantities=True, weighted_w
 	
 	if not n_color_compartments==0:
 		TC_colors = TC_MLC
-		TC_color_min = np.asscalar(min(TC_colors))
-		TC_color_max = np.asscalar(max(TC_colors))
+		TC_color_min = (min(TC_colors)).item()
+		TC_color_max = (max(TC_colors)).item()
 		TC_color_range = TC_color_max - TC_color_min
 		TC_colors_compartmented = np.copy(TC_colors)
 
@@ -398,8 +398,8 @@ def compute_MLC_plots(cityString, compute_quadrature_quantities=True, weighted_w
 		
 	if not n_color_compartments==0:
 		KC_colors = KC_MLC
-		KC_color_min = np.asscalar(min(KC_colors))
-		KC_color_max = np.asscalar(max(KC_colors))
+		KC_color_min = (min(KC_colors)).item()
+		KC_color_max = (max(KC_colors)).item()
 		KC_color_range = KC_color_max - KC_color_min
 		KC_colors_compartmented = np.copy(KC_colors)
 

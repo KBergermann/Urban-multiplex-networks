@@ -111,8 +111,8 @@ def compute_MNC_plots(cityString, compute_quadrature_quantities=True, weighted_w
 			ax.title.set_text('%s centrality scatter plot SC' % cityString)
 		else:
 			SC_colors = SC_MNC[SC_MNC_sorted_ind]
-			SC_color_min = np.asscalar(min(SC_colors))
-			SC_color_max = np.asscalar(max(SC_colors))
+			SC_color_min = (min(SC_colors)).item()
+			SC_color_max = (max(SC_colors)).item()
 			SC_color_range = SC_color_max - SC_color_min
 			SC_colors_compartmented = np.copy(SC_colors)
 
@@ -143,8 +143,8 @@ def compute_MNC_plots(cityString, compute_quadrature_quantities=True, weighted_w
 			ax.title.set_text('%s centrality scatter plot SCres' % cityString)
 		else:
 			SCres_colors = SCres_MNC[SCres_MNC_sorted_ind]
-			SCres_color_min = np.asscalar(min(SCres_colors))
-			SCres_color_max = np.asscalar(max(SCres_colors))
+			SCres_color_min = (min(SCres_colors)).item()
+			SCres_color_max = (max(SCres_colors)).item()
 			SCres_color_range = SCres_color_max - SCres_color_min
 			SCres_colors_compartmented = np.copy(SCres_colors)
 
@@ -176,8 +176,8 @@ def compute_MNC_plots(cityString, compute_quadrature_quantities=True, weighted_w
 		ax.title.set_text('%s centrality scatter plot TC' % cityString)
 	else:
 		TC_colors = TC_MNC[TC_MNC_sorted_ind]
-		TC_color_min = np.asscalar(min(TC_colors))
-		TC_color_max = np.asscalar(max(TC_colors))
+		TC_color_min = (min(TC_colors)).item()
+		TC_color_max = (max(TC_colors)).item()
 		TC_color_range = TC_color_max - TC_color_min
 		TC_colors_compartmented = np.copy(TC_colors)
 
@@ -209,8 +209,8 @@ def compute_MNC_plots(cityString, compute_quadrature_quantities=True, weighted_w
 		ax.title.set_text('%s centrality scatter plot KC' % cityString)
 	else:
 		KC_colors = KC_MNC[KC_MNC_sorted_ind]
-		KC_color_min = np.asscalar(min(KC_colors))
-		KC_color_max = np.asscalar(max(KC_colors))
+		KC_color_min = (min(KC_colors)).item()
+		KC_color_max = (max(KC_colors)).item()
 		KC_color_range = KC_color_max - KC_color_min
 		KC_colors_compartmented = np.copy(KC_colors)
 

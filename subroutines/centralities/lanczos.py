@@ -47,7 +47,7 @@ def lanczos(A, u, maxit):
 			U = np.hstack([U, A.dot(U[:,[j]])])
 		else:
 			U = np.hstack([U, np.subtract(A.dot(U[:,[j]]), beta[j-1]*U[:,[j-1]])])
-		alpha.append(np.asscalar(np.dot(U[:,[j+1]].T, U[:,[j]])))
+		alpha.append((np.dot(U[:,[j+1]].T, U[:,[j]])).item())
 		U[:,[j+1]] = np.subtract(U[:,[j+1]], alpha[j]*U[:,[j]])
 		beta.append(la.norm(U[:,[j+1]]))
 
